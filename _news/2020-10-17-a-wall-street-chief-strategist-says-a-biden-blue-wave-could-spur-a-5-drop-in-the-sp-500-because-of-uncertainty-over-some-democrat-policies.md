@@ -95,6 +95,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "North America’s Building Trades Unions Issue Formal Endorsement of Joe Biden for President"
+    excerpt: "Today, North America’s Building Trades Unions (NABTU) formally endorsed former Vice President Joe Biden and Senator Kamala Harris for President and Vice President of the United States. The organization issued the following statement from NABTU President Sean McGarvey: “North America’s Building Trades Unions are proud to endorse former Vice President Joe Biden for President of the United States."
+    publishedDateTime: 2020-10-23T17:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/joe-biden-business-building-construction-construction-and-engineering-industrial-products-and-services-dbfaad2cabd003fffb18a350f7b64888"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 95
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Joe Biden’s tax plan would likely hit wealthy Californians hard. Here’s why"
     excerpt: "Because the rich in California tend to be richer than most and pay a higher share of state income taxes, Californians could feel more of a sting than other states from Joe Biden’s tax plan. The Democratic presidential candidate has proposed steep tax increases on people earning more than $400,"
     publishedDateTime: 2020-10-13T12:00:00Z

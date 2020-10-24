@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/plexiglass-vp-debate/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/plexiglass-vp-debate/index.html"
 type: article
 quality: 180
-heat: 260
+heat: 280
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/08/opinion/08bruni/08bruni-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "‘Pence Proved Better at Politics Than His Running Mate’"
+    excerpt: "Wednesday’s vice presidential debate between Sen. Kamala Harris and Vice President Mike Pence felt at times like a 90-minute throwback to another moment in American politics: two professional ..."
+    publishedDateTime: 2020-10-08T13:58:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/10/08/mike-pence-kamala-harris-vp-debate-roundup-427767"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d8/46/97a10ed9481dabb2f8544146207a/gettyimages-1279070271-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "naVMTFjye6ChBZ81QanXkAzkyOgaa2tnrQpaj03odUwRvVkqAHoberTe0KCA0bmQtPqiOevCHHxa7ucoOl3cXc0/BwkFb4sLMIr43jauhmtukyIeIhafzUh5Rb8aDwQMSI7SdIhWVYJpjlzn1vegZPrq4NmlCAh/3dzrx69ZGEcXSfGYn/FL40wTI/xT3s5yUX6CDJBxoQmiMkiyau+oxvtpo23RDYvQ97mq3xu5/miYxkwmLJu0ROIeqv84yoP91O/QBPhTo2vpEhJo4xldak8U6XCljWmVBRMD5681AX4Dl08lGEqxHWnvdg03Ob6UiWeIg2fIShUKX9RDd9ZbzACGXe38OdjI8oZ5AzX/9aI=;VOiHGIbiQDxzs7+FO5w8Mw=="

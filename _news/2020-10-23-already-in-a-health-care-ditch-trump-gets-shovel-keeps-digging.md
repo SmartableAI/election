@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short"
+    excerpt: "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\""
+    publishedDateTime: 2020-10-24T00:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244167"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244167"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421859/201021-donald-trump-ew-145p_33980ba252755dffd3445498e1c818e0.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "k/3iobQ6XMXCaRoneTGWlvs0WV33oANAPK86gr0rphhZ9LLijm0/2+7DKkIAyZcGOHZEiuicVFtn7+zIfohBdBoh7kPhObBy2Had/VKw8mrS7cTZOMralNqf22OLieL0xWP+uMI7xkXBjl8Hc3MbaRX/G7SEoU8/wkXototkDNJQhumRHkBpZNMLvdP7jOtx7QlBjshJig8whP7bg8VFor6EiNkm8+yC64wfeVn/GXBeDsjZxhuNMCEy8GW1rIXXx5aLjIWcyVvbM/fO9UvtppDW6EuP4Fg7UDt01LmMZ6DTGlQIb9xZntPpvw48yULMrJG2Fbp1MP+rU0c/0gsy6+bDFruUDyDxGA3GMm0+524=;bMDVZNcNDArLmuTZkad7Yw=="
 ---

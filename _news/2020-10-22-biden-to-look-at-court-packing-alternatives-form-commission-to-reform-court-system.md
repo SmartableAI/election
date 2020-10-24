@@ -368,6 +368,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "'The Tape' Shows Biden Is Lying About Fracking"
+    excerpt: "Democratic nominee Joe Biden is lying. On Thursday, during the final 2020 presidential debate, Biden denied ever saying he opposes fracking. But he absolutely did. To claim otherwise, as the former vice president did Thursday evening,"
+    publishedDateTime: 2020-10-23T19:16:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/23/the_tape_shows_biden_is_lying_about_fracking_527327.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524968_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "qVXUXBnoIjQ1kNo+TfP4m41jKSYmaVA5aO7p3p9DkZircCsUepySHpkJi2FoTlOoUkhyVuLZTp0faodfys586okhwvprCskqepFFPgWUuqlX6F5i8QxKhdLSovl/QRxPZenzLuGuk7gvT/aDPG6J7aOgG0mKfW1pXASdA+aJnKDm14tJ15GrgDTtwfj1m1QNp6FlA0oaV0aVwJMHcF/OPmKdfKb0LwE5iapFgncnJlCSNmHuRu0mbGJVtV6jzA2AZHhMfzJxm56eMtKY/NRquz5oPbOzgGUjI2Z6dt0WrG3B4UCWZ9qRAFGcxophQMiMIkpESjN20u0u/5BdcSoBE6wv83QLYnOMktX7HXxS8KI=;YhoQag43cvmFb94R3QnuhA=="
 ---

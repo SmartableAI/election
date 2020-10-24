@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Sacha Baron Cohen Really Did Crash Mike Pence's CPAC Speech for 'Borat 2'"
+    excerpt: "A new movie has everyone talking because it's hard to tell what's real and what's creative editing. Like, did Borat crash CPAC for real?"
+    publishedDateTime: 2020-10-24T01:17:00Z
+    webUrl: "https://www.distractify.com/p/did-borat-crash-cpac"
+    type: article
+    provider:
+      name: Distractify
+      domain: distractify.com
+    quality: 54
+    images:
+      - url: "https://media.distractify.com/brand-img/va9DjGt7i/0x0/did-borat-crash-cpac-1603498103928.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Flashback: Sacha Baron Cohen Interviews Donald Trump as Ali G"
     excerpt: "IMDb, the world's most popular and authoritative source for movie, TV and celebrity content."
     publishedDateTime: 2020-10-22T15:47:00Z

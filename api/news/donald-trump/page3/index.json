@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-18-snl-michael-che-jokes-about-nbc-trump-town-hall-on-weekend-update-what-can-we-say-we-have-a-type.md",
+      "title": "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type”",
+      "excerpt": "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role",
+      "sourceUrl": null,
+      "webUrl": "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/?ref=hvper.com",
+      "originalUrl": "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/",
+      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/",
+      "publishedDateTime": "2020-10-17T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline.com",
+        "domain": "deadline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-trump-slams-republican-critic-who-warned-of-november-bloodbath.md",
+      "title": "Trump slams Republican critic who warned of November 'bloodbath'",
+      "excerpt": "U.S. President Donald Trump on Saturday attacked a longtime congressional critic who warned this week that his handling of the coronavirus pandemic and authoritarian leaders could cause a \"Republican bloodbath in the Senate\" in the Nov.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537867561&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G0JA",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2720PJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2720PJ",
+      "publishedDateTime": "2020-10-17T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-us-spies-say-the-hunter-biden-email-controversy-shows-how-exploitable-and-grotesquely-vulnerable-trump-and-giuliani-are-to-russian-intelligence.md",
+      "title": "US spies say the Hunter Biden email controversy shows how 'exploitable' and 'grotesquely vulnerable' Trump and Giuliani are to Russian intelligence",
+      "excerpt": "\"They want to protect their boy in the White House because Trump's policies have been strategically fantastic for Russia,\" said a former CIA spy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10",
+      "originalUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f89defd9e9fe40019009d36?width=1200&format=jpeg",
+          "width": 1190,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10?amp",
+      "publishedDateTime": "2020-10-17T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-a-georgia-state-lawmaker-crowdsurfed-over-maskless-attendees-at-a-georgia-trump-rally.md",
       "title": "A Georgia state lawmaker crowdsurfed over maskless attendees at a Georgia Trump rally",
       "excerpt": "Vernon Jones, a Black Democratic lawmaker who has endorsed President Trump for reelection, defied health guidelines with the stunt.",
@@ -1374,162 +1521,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-mitt-romney-criticizes-trump-democrats-as-he-decries-vile-and-hate-filled-state-of-american-politics.md",
-      "title": "Mitt Romney criticizes Trump, Democrats as he decries 'vile' and 'hate-filled' state of American politics",
-      "excerpt": "Utah Sen. Mitt Romney, the 2012 Republican nominee for president, directly criticized President Donald Trump and Speaker Nancy Pelosi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/13/mitt-romney-reprimands-trump-democrats-vile-political-rhetoric/5979016002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/13/mitt-romney-reprimands-trump-democrats-vile-political-rhetoric/5979016002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/13/USAT/a1de24b1-d792-4a04-a430-84543f6d2b79-Romney_2.jpg?auto=webp&crop=3999,2249,x0,y197&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5979016002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5979016002",
-      "publishedDateTime": "2020-10-13T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-betting-on-the-base-can-trump-win-again.md",
-      "title": "Betting on the 'base' — can Trump win again?",
-      "excerpt": "President Trump has said he intends to win the 2020 election the same way he won the 2016 election. Not with a popular vote strategy. With an electoral vote strategy. He expects his vaunted “base” — concentrated in a few crucial states — to deliver an electoral vote majority for him just as it did four years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
-      "originalUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trump_supporter_rally_101020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp",
-      "publishedDateTime": "2020-10-13T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders.md",
-      "title": "Trump Calls for Big Stimulus Proposal, Contradicting GOP Leaders",
-      "excerpt": "President Donald Trump told Congress to “Go big or go home!!” on a coronavirus stimulus package, directly contradicting Senate Majority Leader Mitch McConnell’s plan to put a narrow bill on the Senate floor next week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

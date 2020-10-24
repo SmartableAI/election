@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 1765
+heat: 1785
 published: true
 
 provider:
@@ -847,6 +847,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421567/201020-presidential-debate-main-bar-cs_0d3f2497cd6524135c5b27e46d8662a1.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Day After Debate, Biden and Trump Amplify Attacks, Seeking an Edge"
+    excerpt: "Joseph Biden continued to hammer President Trump over his denial of the coronavirus threat, while the president sought to exploit what he viewed as a new opening — Mr. Biden’s comments on oil."
+    publishedDateTime: 2020-10-24T04:43:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/us/politics/biden-trump-oil-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/us/politics/biden-trump-oil-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/us/politics/biden-trump-oil-virus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/23/us/politics/23biden-trump1/23biden-trump1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Voters favor Biden over Trump on almost all major issues, a new poll shows."
     excerpt: "Voters favor Biden over Trump on almost all major issues, a New York Times/Siena College poll found. By Alexander Burns and Jonathan Martin Joseph R. Biden Jr. holds a nine-point lead over President Trump amid widespread public alarm about the trajectory of the coronavirus pandemic and demand among voters for large-scale government action to right the economy,"

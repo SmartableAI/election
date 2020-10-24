@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-24-pence-calls-on-biden-to-come-forward-and-come-clean-with-answers-on-son-hunters-scandal.md",
+      "title": "Pence calls on Biden to 'come forward and come clean' with answers on son Hunter's scandal",
+      "excerpt": "Vice President Mike Pence called on his predecessor, Joe Biden, to be frank and honest with the American people Friday about whether he was involved in or benefited from his son Hunter's overseas business interests.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpM7Ih8I3tQ/mike-pence-joe-biden-hunter-biden-come-clean",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpM7Ih8I3tQ/mike-pence-joe-biden-hunter-biden-come-clean",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 450,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6db76cb0-7ce3-424b-b060-f98a7d5f92dd/6c22e892-08d6-4f6f-9ea3-d934edbc5ea3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-come-clean.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-come-clean.amp",
+      "publishedDateTime": "2020-10-23T19:19:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-vp-mike-pence-returns-to-minnesota-monday.md",
       "title": "VP Mike Pence returns to Minnesota Monday",
       "excerpt": "Vice President Mike Pence will lead a rally on Minnesota's Iron Range Monday, as Republicans continue in their quest to capture key states in the Midwest. The Trump campaign announced that Pence will touch down in Hibbing at 1 p.",
@@ -105,7 +162,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/23/election-2020-updates-trump-pence-head-battlegrounds-after-debate/3679810001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2053,
+      "heat": 2153,
       "tags": null,
       "images": [
         {
@@ -218,49 +275,6 @@
       "ampWebUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
       "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
       "publishedDateTime": "2020-10-21T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally.md",
-      "title": "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally",
-      "excerpt": "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/",
-      "originalUrl": "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems01.jpg?w=1024&h=755",
-          "width": 1024,
-          "height": 755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/",
-      "publishedDateTime": "2020-10-21T12:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Boston Herald",
@@ -734,7 +748,7 @@
       "originalUrl": "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday",
       "featuredContent": null,
       "highlight": null,
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -777,7 +791,7 @@
       "originalUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {

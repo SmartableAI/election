@@ -46,6 +46,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Kamala Harris makes her final case to 'the ATL'"
+    excerpt: "With just days to go until the election, Harris invokes Atlanta’s civil rights legacy in a pitch to Black voters."
+    publishedDateTime: 2020-10-24T01:29:00Z
+    webUrl: "https://www.politico.com/news/2020/10/23/kamala-harris-atlanta-432074"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/70/a2/7c60b06f4ba8b4811cd24ee8d78c/201023-kamala-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "o0m83wrMzPeWXOP4/coxbJ4HC1aXrbeY8C8FtWoSBlLeqSKeGrIvDOwR+D+a4sLti5t8ACb6MUjnHwVQdDMlZ36qs99EsYRPoc7+G1GGNEy3CzODmLZsXS47g8qT2Syfkj/xPP+wRaDrkG0K0yiUzfEBGoTDmJ7Lpd+3yE5+awjWrQgHyTzqm/BF8plCjm5t5fPqLiEXNZov2+r+GscT6q9nsijnKGKxpVIBN7NekD24SWKGzQeiCYiFE6wAZqO4JO3/F5Z37F9BO4a/F0Z+4Rdgezsg0RaNkv8hbuheTaqM7TzXfriwchS7kzdCuxysbQb9wGGX2RFIX7snVvr+y8awaba9fgTahayhOPFjHxthBjI+rPM+J6J0j9BfaDZtJiwJCP9KarkfawjijwTjjpnguPgIfn0rz5d9137u1QziJjuBH4/aBlhB/OHozwWsk8s/gcvlPF1R77XJgZaeTRziH+KofQkkTTy0Q+9uKXpuy3b2w3mxR5LEilbD2eWa68mNAyz+G2IbSEEl44MkHA==;4q56bYjofVntknFKQesLzA=="
 ---

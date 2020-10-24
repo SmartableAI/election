@@ -607,6 +607,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "President Donald Trump said wind turbines kill 'all the birds.' Cats and radio towers kill far more."
+    excerpt: "President Donald Trump's claim that wind turbines pose a great threat to our avian friends is dubious at best."
+    publishedDateTime: 2020-10-24T02:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/23/trump-biden-during-2020-debate-windmills-kill-all-birds/3744837001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3744837001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3744837001"
+    type: article
+    provider:
+      name: Florida Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump joked that he'll 'find a way' to fire Florida Gov. Ron DeSantis if he loses the state in November"
     excerpt: "The president sees Florida as a must-win state in his electoral coalition if he is to be reelected to a second term."
     publishedDateTime: 2020-10-17T14:38:00Z
@@ -1071,6 +1087,20 @@ related:
       - url: "https://media.salon.com/2018/08/trump-fox-and-friends2.jpg"
         width: 846
         height: 571
+        isCached: true
+  - title: "Trump No Fan Of Sacha Baron Cohen"
+    excerpt: "US President Donald Trump said Friday he has not been a fan of Sacha Baron Cohen -- even before a clip from the British comedian's new Borat movie forced his lawyer Rudy Giuliani into an awkward explanation."
+    publishedDateTime: 2020-10-24T05:06:00Z
+    webUrl: "https://www.ibtimes.com/trump-no-fan-sacha-baron-cohen-3068744"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/24/while-the-plot-of-the-new-borat-film.jpg"
+        width: 1024
+        height: 608
         isCached: true
   - title: "Who Is Trump Debate Guest Tony Bobulinski?"
     excerpt: "The man alleges he has proof of improper business connections between China and Biden, but will not release them or provide any information"

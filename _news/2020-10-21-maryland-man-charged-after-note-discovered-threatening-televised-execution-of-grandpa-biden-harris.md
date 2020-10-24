@@ -64,22 +64,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
-    excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
-    publishedDateTime: 2020-10-21T19:11:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FNAu_6K7AUw/joe-biden-hunter-laptop-emails-ny-post"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
     excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son, Hunter Biden."
     publishedDateTime: 2020-10-19T18:49:27Z
@@ -96,38 +80,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Documents show alleged Hunter Biden signature, FBI contacts with computer repair store owner"
-    excerpt: "The document allegedly signed by Biden details repair work that was to be performed on three MacBook Pro laptops at “The Mac Shop” in Wilmington, Delaware."
-    publishedDateTime: 2020-10-19T23:10:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K2INPc9xd3M/hunter-biden-emails-documents-alleged-signature-fbi-paperwork"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-documents-alleged-signature-fbi-paperwork.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-documents-alleged-signature-fbi-paperwork.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6a46028-f3c3-4be2-9d43-54f48ffdfdbb/c6a46efd-f929-44a8-8804-82814e2e51dc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hunter Biden business partner calls email 'genuine,' says Hunter sought dad's advice on deals"
-    excerpt: "Tony Bobulinski, who was listed as the recipient of an email published by the New York Post that appeared to detail a business arrangement involving a Chinese company and members of the Biden family, has confirmed that the email is \"genuine\" and provided more information regarding the Bidens' role in"
-    publishedDateTime: 2020-10-22T12:43:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mOb93KBqwH0/hunter-biden-business-partner-email-genuine-joe-biden-advice"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-business-partner-email-genuine-joe-biden-advice.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-business-partner-email-genuine-joe-biden-advice.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Ex-Hunter Biden associate's records don't show proof of Biden business relationship amid unanswered questions"
     excerpt: "Hunter Biden's former business partner Tony Bobulinski claimed this week that former Vice President Joe Biden was allegedly involved in discussions about his son's business dealings, something the Democratic presidential nominee has repeatedly denied."
     publishedDateTime: 2020-10-23T17:44:44Z
@@ -141,22 +93,6 @@ related:
     quality: 156
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hunter's ex-partner recounts meeting Joe Biden, claims family 'paranoid' about hiding former VP's involvement"
-    excerpt: "Hunter Biden's ex-business partner Tony Bobulinski confirmed on Thursday that he met with former Vice President Joe Biden regarding his son's business dealings and alleged that someone involved with the controversy had warned him about coming forward."
-    publishedDateTime: 2020-10-23T00:09:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/209iSArU2E8/hunters-ex-partner-meeting-joe-biden-family-paranoid"
-    ampWebUrl: "https://www.foxnews.com/politics/hunters-ex-partner-meeting-joe-biden-family-paranoid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunters-ex-partner-meeting-joe-biden-family-paranoid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f5b8641-6112-4207-91ad-f5925d830cf8/0c91a2f5-df18-4bf5-b360-85e103034ea2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -175,22 +111,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83b45cb8-2387-4c13-a353-9fb24f790716/b8672818-fe53-4a19-8b9f-3e780e4cb30d/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
-    excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
-    publishedDateTime: 2020-10-21T19:16:00Z
-    webUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
     excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son,"

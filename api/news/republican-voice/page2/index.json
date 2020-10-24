@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-21-biden-drops-la-mayor-eric-garcetti-from-event-after-two-more-men-accuse-close-adviser-of-sexual-misconduct.md",
+      "title": "Biden drops LA Mayor Eric Garcetti from event after two more men accuse close adviser of sexual misconduct",
+      "excerpt": "Los Angeles Mayor Eric Garcetti’s chances for a cabinet post in a Biden administration are increasingly in doubt now that two more men have accused Garcetti’s close adviser of sexual misconduct.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBcwpUzC6qs/garcetti-problem-biden-two-men-adviser-sexual-misconduct",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBcwpUzC6qs/garcetti-problem-biden-two-men-adviser-sexual-misconduct",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Rick-Jacobs-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/garcetti-problem-biden-two-men-adviser-sexual-misconduct.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garcetti-problem-biden-two-men-adviser-sexual-misconduct.amp",
+      "publishedDateTime": "2020-10-21T15:05:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-ben-shapiro-explains-why-hell-vote-for-trump-this-time-around-democrats-have-lost-their-f-ing-minds.md",
       "title": "Ben Shapiro explains why he'll vote for Trump this time around: 'Democrats have lost their f---ing minds'",
       "excerpt": "Conservative commentator Ben Shapiro revealed Monday that he plans to vote for President Trump in the upcoming election after declining to support his 2016 presidential bid.",
@@ -681,7 +737,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1859,
+      "heat": 1879,
       "tags": null,
       "images": [
         {
@@ -1110,63 +1166,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-jim-carrey-spoofs-joe-biden-town-hall-with-mr-rogers-comparison-on-snl.md",
-      "title": "Jim Carrey spoofs Joe Biden town hall with Mr. Rogers comparison on 'SNL'",
-      "excerpt": "Jim Carrey's Joe Biden put on a sweater and sang the classic Mr. Rogers theme song during the spoof of his town hall",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/jim-carrey-joe-biden-town-hall-mr-rogers-comparison-snl",
-      "originalUrl": "https://www.foxnews.com/entertainment/jim-carrey-joe-biden-town-hall-mr-rogers-comparison-snl",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jim-Carrey-Joe-Biden-Mr.-Rogers.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/jim-carrey-joe-biden-town-hall-mr-rogers-comparison-snl.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jim-carrey-joe-biden-town-hall-mr-rogers-comparison-snl.amp",
-      "publishedDateTime": "2020-10-18T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-18-dnc-chair-perez-says-dems-take-nothing-for-granted-despite-bidens-lead-in-polls.md",
       "title": "DNC chair Perez says Dems 'take nothing for granted' despite Biden's lead in polls",
       "excerpt": "The Biden campaign and DNC are holding a position that no lead is stable or consistent, even if polling has shown otherwise.",
@@ -1348,7 +1347,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1690,
+      "heat": 1710,
       "tags": null,
       "images": [
         {

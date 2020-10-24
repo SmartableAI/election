@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Gov. Doug Ducey unleashes a Tweetstorm after Joe Biden calls him out on masks"
+    excerpt: "Gov. Doug Ducey's approval ratings have plummeted given his handling of COVID-19. So, naturally, he patted himself on the back for his leadership."
+    publishedDateTime: 2020-10-24T01:14:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/laurieroberts/2020/10/23/gov-doug-ducey-tries-praise-his-coronavirus-handling-fails/6012498002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6012498002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6012498002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/bc7ed05e-df72-4056-986b-de8309954b78-cent02-7ctz9ylo191evdkhhle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "0/MNcu4sZQqjPHpKagQRIusQX8WEqOe2OVDYqsUmMI1LJe6Ils0GsvVLK24rN4A+4taukysPJN1KM5lPkSplicBOeJFFmrPgDI279dx0Qca3k/vtNfG67Z7ghPGW7R4R/ASQJuOm/FHFkDky0GRPhhRKkaXHww7qhz5K3lKtU7ma9cYzACCqHN1LvCajN6ay8s3kNIN4erCFM6T915jW7+3QNT4Su35W60Oa+JyeOIgmp3aFqp/GWWDkDLEF14W2vhF/aji1mY0gRDXwJEH6Uxf611KqlHdGM6EVddLNr8gQ8h8iHmkLTqgc8dnlGvKxjFpwZCuyAqt6aHkybFjB77YbEAnZ2hagkvarPq3ixbV39inWq+nB366l7hHCzcN/n3VNA/0vJ0rXoFZMqZbhKjGnOtk8vbs/AH2cQwebHLxl++nzB5JD6Kf7Xyi4COx/1Vbay/Zv6JU7s6AOT/321XDQ+qbAhD/X6xceDqQV2hm2yB8f12ZH6TIxhutB3WOL6T6ZQuv1ttr82xoaNy/GBA==;Rh2LuJkMQMB6G0ag9NfUjw=="
 ---

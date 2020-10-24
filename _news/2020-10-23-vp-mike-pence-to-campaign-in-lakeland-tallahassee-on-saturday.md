@@ -197,6 +197,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Democrats plan political counterattack on day of Mike Pence visit in Tallahassee"
+    excerpt: "Local Democrats and Democratic organizations are planning for political counterattacks as Republican Vice President Mike Pence plans to visit Tallahassee International Airport Saturday evening. The Florida Coordinated Campaign,"
+    publishedDateTime: 2020-10-24T00:06:00Z
+    webUrl: "https://www.tallahassee.com/story/news/2020/10/24/mike-pence-tallahassee-visit-democrats/3741607001/"
+    ampWebUrl: "https://amp.tallahassee.com/amp/3741607001"
+    cdnAmpWebUrl: "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3741607001"
+    type: article
+    provider:
+      name: Tallahassee Democrat
+      domain: tallahassee.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/PIND/0a675e5b-2fa8-4105-8a74-18979f3f614a-GH_10222020_035.jpg?auto=webp&crop=4630,2605,x0,y235&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence rallies base during MAGA rally in Fort Wayne"
     excerpt: "The Hoosier state is a stronghold for Republicans, which experts say, raises the question of why the vice president is campaigning here in the critical two weeks prior to the election. Political science associate professor Doctor Laura Wilson told us this is about supporting other Republicans on the ballot and getting as many Hoosiers to the polls as possible."
     publishedDateTime: 2020-10-23T22:43:00Z

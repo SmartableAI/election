@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-24-trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.md",
+      "title": "Trump 'coyote' remark confuses Twitter, including Georgia state Democrat",
+      "excerpt": "When President Trump suggested at the Thursday presidential debate that the more than 500 migrant children who the government hasn’t been able to reunite with their parents were brought to the border by coyotes, many on social media were left confused.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KJFaQyPGq4U/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KJFaQyPGq4U/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/kendrick.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.amp",
+      "publishedDateTime": "2020-10-23T21:15:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-pence-calls-on-biden-to-come-forward-and-come-clean-with-answers-on-son-hunters-scandal.md",
+      "title": "Pence calls on Biden to 'come forward and come clean' with answers on son Hunter's scandal",
+      "excerpt": "Vice President Mike Pence called on his predecessor, Joe Biden, to be frank and honest with the American people Friday about whether he was involved in or benefited from his son Hunter's overseas business interests.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpM7Ih8I3tQ/mike-pence-joe-biden-hunter-biden-come-clean",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpM7Ih8I3tQ/mike-pence-joe-biden-hunter-biden-come-clean",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 450,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6db76cb0-7ce3-424b-b060-f98a7d5f92dd/6c22e892-08d6-4f6f-9ea3-d934edbc5ea3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-come-clean.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-come-clean.amp",
+      "publishedDateTime": "2020-10-23T19:19:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-democratic-rep-xochitl-torres-small-slams-biden-over-oil-remarks-at-debate-says-policy-is-out-of-touch.md",
       "title": "Democratic Rep. Xochitl Torres Small slams Biden over oil remarks at debate, says policy is 'out of touch'",
       "excerpt": "Biden said he would pursue policies that would “transition from the oil industry” if elected to office.",
@@ -70,7 +183,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 201,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -110,6 +223,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-gregg-jarrett-hunter-biden-laptop-scandal-even-if-joe-biden-wins-theres-no-way-out-now.md",
+      "title": "Gregg Jarrett: Hunter Biden laptop scandal — Even if Joe Biden wins, there's no way out now",
+      "excerpt": "In the Hunter Biden laptop scandal, the unresolved and trenchant questions are: how much did Joe Biden know and to what extent was he involved",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
+      "originalUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -167,63 +337,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-cbs-news-john-dickerson-on-hunter-biden-laptop-scandal-joe-biden-has-an-ally-in-the-news-cycle.md",
-      "title": "CBS News’ John Dickerson on Hunter Biden laptop scandal: ‘Joe Biden has an ally in the news cycle’",
-      "excerpt": "CBS News’ John Dickerson admitted Friday the ongoing controversy surrounding a laptop purportedly belonging to Hunter Biden which contained damaging emails and photos of the Democratic presidential nominee’s son won’t hurt Joe Biden because he “has an ally in the news cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-laptop-news-cycle",
-      "originalUrl": "https://www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-laptop-news-cycle",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-laptop-news-cycle.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-laptop-news-cycle.amp",
-      "publishedDateTime": "2020-10-23T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -968,7 +1081,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 408,
+      "heat": 308,
       "tags": null,
       "images": [
         {
@@ -1548,118 +1661,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp",
       "publishedDateTime": "2020-10-21T16:17:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-biden-drops-la-mayor-eric-garcetti-from-event-after-two-more-men-accuse-close-adviser-of-sexual-misconduct.md",
-      "title": "Biden drops LA Mayor Eric Garcetti from event after two more men accuse close adviser of sexual misconduct",
-      "excerpt": "Los Angeles Mayor Eric Garcetti’s chances for a cabinet post in a Biden administration are increasingly in doubt now that two more men have accused Garcetti’s close adviser of sexual misconduct.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBcwpUzC6qs/garcetti-problem-biden-two-men-adviser-sexual-misconduct",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBcwpUzC6qs/garcetti-problem-biden-two-men-adviser-sexual-misconduct",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Rick-Jacobs-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/garcetti-problem-biden-two-men-adviser-sexual-misconduct.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garcetti-problem-biden-two-men-adviser-sexual-misconduct.amp",
-      "publishedDateTime": "2020-10-21T15:05:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-meadows-biden-email-scandal-not-about-hunter-this-is-about-the-biden-family-and-pay-for-play.md",
-      "title": "Meadows: Biden email scandal 'not about Hunter': 'This is about the Biden family' and 'pay-for-play'",
-      "excerpt": "The question that the media and voters should be asking amid the ongoing controversy over Hunter Biden's overseas business dealings is, \"What kind of access did Hunter sell to his father,\" then-Vice President Joe Biden, White House Chief of Staff Mark Meadows told \"Bill Hemmer Reports\" Monday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCvMN9DkUWk/mark-meadows-hunter-biden-emails-joe-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCvMN9DkUWk/mark-meadows-hunter-biden-emails-joe-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4a37eef-2c8f-4556-b186-e94f5f99ef2b/b118d667-200c-4cab-990c-dd6e2c18653a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mark-meadows-hunter-biden-emails-joe-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-hunter-biden-emails-joe-biden.amp",
-      "publishedDateTime": "2020-10-21T13:31:29-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

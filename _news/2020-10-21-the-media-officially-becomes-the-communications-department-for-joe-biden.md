@@ -1028,6 +1028,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trailer park threatens to double rent if Joe Biden wins election"
+    excerpt: "A Colorado trailer park landlord is warning tenants of huge rent increases if Joe Biden is elected president, telling them that “everything you do and have to pay for will change completely,”"
+    publishedDateTime: 2020-10-23T17:28:00Z
+    webUrl: "https://nypost.com/2020/10/23/trailer-park-threatens-to-double-rent-if-joe-biden-wins-election/"
+    ampWebUrl: "https://nypost.com/2020/10/23/trailer-park-threatens-to-double-rent-if-joe-biden-wins-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/23/trailer-park-threatens-to-double-rent-if-joe-biden-wins-election/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/colorado-rent-87-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "David Bossie: Biden must answer these questions at presidential debate with Trump"
     excerpt: "Thursday night’s final debate between President Trump and former Vice President Joe Biden is certain to be a historic event."
     publishedDateTime: 2020-10-22T11:05:00Z

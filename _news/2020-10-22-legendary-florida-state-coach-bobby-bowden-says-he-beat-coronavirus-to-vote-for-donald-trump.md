@@ -27,21 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Cory Gardner, tied to President Trump's 'vindictive' base, faces conundrum in Colorado"
-    excerpt: "Larimer County has never shown strong voter support for U.S. Sen. Cory Gardner. Not in 2014, when Larimer County, home to Colorado State University, handed the CSU alumnus his Senate seat by a margin of 0."
-    publishedDateTime: 2020-10-19T16:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/19/colorado-election-2020-cory-gardner-donald-trump-campaign-base-conundrum/3711527001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3711527001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3711527001"
+  - title: "Joe Biden lays out a detailed plan to fight coronavirus as new infections soar"
+    excerpt: "Biden's plan would effectively nationalize mask wearing, Covid-19 testing, PPE procurement, reopening guidelines and vaccine distribution."
+    publishedDateTime: 2020-10-23T21:54:00Z
+    webUrl: "https://www.cnbc.com/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: CNBC
+      domain: cnbc.com
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/14/PFTC/271b51e9-c3fa-4b03-8386-6fdcd3e33fc6-101320_GardnerHickenlooperDebate_15_bb.jpg?auto=webp&crop=3299,1856,x0,y306&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://image.cnbcfm.com/api/v1/image/106759351-16034839162020-10-23t193614z_543779170_rc2joj9bymez_rtrmadp_0_usa-election-biden.jpeg?v=1603483967"
+        width: 3500
+        height: 2314
+        isCached: true
+  - title: "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally"
+    excerpt: "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ..."
+    publishedDateTime: 2020-10-21T19:58:00Z
+    webUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/"
+    ampWebUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 87
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems01.jpg?w=1024&h=755"
+        width: 1024
+        height: 755
+        isCached: true
+  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
+    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
+    publishedDateTime: 2020-10-10T19:43:00Z
+    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
+    type: article
+    provider:
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
+        width: 769
+        height: 433
         isCached: true
 
 secured: "0d9a4fwZ6MXrMnv+N52BvVoo7RbtZMmdrLhdhETC17b364HjfSEreXR05u0cSPNkLJGcz87qXOT4iEMglytSxrI9FJsgUAuJFS/YmRxi5bSsYESfpjaaqc3RssReYlPHIpjoE+TZEaZKPLVEIhf4Nhxk699H3yIP0CzvWnUy4r3j78T0Ny80Kt1YEX/wS+j85SInWhKDgHM/yr6qsW1JOjlbxFGPlr73UXthiHlMNZ3F2guvkU+/Dj/Crx+JZHpK0GChNs1AGOlAbhRxrwRO6oEMvTHzeZVVll09e9Mz2ZVFOGB0Jwv+bcO4g7hF+ZJ6l5AbCRXyBMWYhpy7olro0X9GtH47BLBabznG4imUFZYKrzftVhhsorHd9W0yDcV03AFxgWKnp5w4j3SGMfkDNUs3xKYoUivy5T0xXlm3YcoX4S23TwBqu+bLxfCyjHmQ1E+ZfZtPfiOv21QUMFVYy5RhwBPptDLtehAudYxMl4EG44shahDIfGxpN8HjFlJWSBS1W0Dhtt+ZvkVyrLn1lw==;OsvURmSStMEg1XHO6OjROA=="

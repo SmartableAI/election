@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-court-packing-vaccine-mandate
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-packing-vaccine-mandate-abc-town-hall.amp"
 type: article
 quality: 179
-heat: 619
+heat: 639
 published: true
 
 provider:
@@ -368,6 +368,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "'The Tape' Shows Biden Is Lying About Fracking"
+    excerpt: "Democratic nominee Joe Biden is lying. On Thursday, during the final 2020 presidential debate, Biden denied ever saying he opposes fracking. But he absolutely did. To claim otherwise, as the former vice president did Thursday evening,"
+    publishedDateTime: 2020-10-23T19:16:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/23/the_tape_shows_biden_is_lying_about_fracking_527327.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524968_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "LXoSHlrmcWx0gGFgualphsreNgsrm2xJsJn2l63i3131f00NQTpDVAJJWX5J27NySHWtw1gzjvNzyZUTWZjXL19RIvFxdMQ5l786BA8oodBhx1ORsbei43cNOZJlAYIpim+aUKI30xpGPYMlLlPEtFfWx4PODAlXefiOOgrj8+l1PxQaB5RIFqk4Ol0Zwtag/ME8DaaSMOYbusSQXLP0P3+pYOl3Hsm5N6WipEH+EhVkFtIWzMR19I8N1WFeNq6PXZ5iuam/x0/7bMWQRPBlLX8/CCY1AUDN8lv9piGo51KQxb6R9d3CmE2qaDWc0DYV2Xr8jcoNVxwTDf79u3bgD7c2pO3gTUW6BcCvGbMB4bY=;N0Lm1waJc67G+Oxe9eYVTg=="
 ---

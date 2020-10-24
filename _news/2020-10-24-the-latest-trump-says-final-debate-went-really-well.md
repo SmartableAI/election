@@ -8,7 +8,7 @@ webUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-har
 ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
 type: article
-quality: 55
+quality: 65
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Kamala Harris
 
 related:
   - title: "The Latest: Trump abruptly ends '60 Minutes' interview"

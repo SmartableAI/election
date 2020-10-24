@@ -14,7 +14,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 619,
+      "heat": 639,
       "tags": null,
       "images": [
         {
@@ -31,62 +31,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-court-packing-vaccine-mandate-abc-town-hall.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-packing-vaccine-mandate-abc-town-hall.amp",
       "publishedDateTime": "2020-10-16T10:58:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-rnc-files-fec-complaint-against-twitter-claims-company-made-illegal-in-kind-contribution-to-biden-campaign.md",
-      "title": "RNC files FEC complaint against Twitter, claims company made 'illegal in-kind contribution' to Biden campaign",
-      "excerpt": "EXCLUSIVE: The Republican National Committee on Friday filed a complaint with the Federal Election Commission alleging that the censorship of the New York Post article about Hunter Biden’s overseas business dealings and former Vice President Joe Biden’s alleged knowledge of those dealings, amounts to",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-J7vNMJ9ohk/rnc-fec-twitter-complaint-claims-company-made-illegal-in-kind-contribution-biden-campaign",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-J7vNMJ9ohk/rnc-fec-twitter-complaint-claims-company-made-illegal-in-kind-contribution-biden-campaign",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/801397da-12bb-4527-840c-ce1354fda6ba/3ad45308-8610-4eb0-ba9c-4b408dff34dc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T09:39:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -231,7 +175,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 975,
+      "heat": 895,
       "tags": null,
       "images": [
         {
@@ -1669,6 +1613,62 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-cruz-tells-dems-at-barrett-hearing-weve-heard-a-lot-of-attacks-on-trump-little-about-the-nominee.md",
+      "title": "Cruz tells Dems at Barrett hearing ‘we’ve heard a lot of attacks on Trump,' ‘little about the nominee’",
+      "excerpt": "Cruz spoke via video conference after voluntarily self-quarantining as a precaution.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mQ2qTD0yU1M/cruz-tells-dems-at-barrett-hearing-weve-heard-attacks-trump-little-about-nominee",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mQ2qTD0yU1M/cruz-tells-dems-at-barrett-hearing-weve-heard-attacks-trump-little-about-nominee",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40ada8ce-1ec8-49cb-a3fc-e21ba6c8059f/46ebf39f-d429-47cb-a48c-a75da97d1607/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

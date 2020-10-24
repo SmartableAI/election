@@ -7,8 +7,8 @@ originalUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarre
 webUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: Fox News
@@ -29,24 +29,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "CBS News’ John Dickerson on Hunter Biden laptop scandal: ‘Joe Biden has an ally in the news cycle’"
-    excerpt: "CBS News’ John Dickerson admitted Friday the ongoing controversy surrounding a laptop purportedly belonging to Hunter Biden which contained damaging emails and photos of the Democratic presidential nominee’s son won’t hurt Joe Biden because he “has an ally in the news cycle."
-    publishedDateTime: 2020-10-23T16:48:00Z
-    webUrl: "https://www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-laptop-news-cycle"
-    ampWebUrl: "https://www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-laptop-news-cycle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-laptop-news-cycle.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "iii5NvGHoHBtaqbSLA8wYyA6dOL4t7uXoMVmJ+PPjHmZuHcuWTqLzntK+DL/Iw4wa87BtHGyZNEznnT/07u4GKeKh+4eX0CBpdiC1jPi3tHDOmLt1ZTHydnAVMcrTFRyEsQUVBqVefdXoJNwn1FPFVZIJJgHYbzZ+iwQYQ7whytQVcwkbv6Qgsz1hyEAcW72suUulIkEfxGYbFgxn+L71K0Cz/k9UzVh/kR53nI4r2EsduSZD2RiyAM/fdFqfZ7b44cyOEbWd6HgnB/eMeyv/SA/LV9hSJ14uKELKb8f5mtMLirVQCJwPXqvl4EJ2nEMXKCpQNUcBDbZzGNzFHYOSvLfWAjrmGhVI5uRvGlltq0=;LgoI48wMgwehSYO5Z+Sc9w=="
+secured: "SdZiDz2nj0IsxqbfUpasxELz1X7qovG76aNoSO3lg/q2UiEgHSfE41XJF4e2r8TwNtTS4A98EiYNBPzd/hFaVvNEFN/QxdQoqvIFXaqRwr+W4uREnQVBtg3BLXWtzP+diXvISCTzVFFgz4MeKnplUy7Au95xMtAQUfDYPYhXKFKd20nUuXB8pmFciTlPOtUCidAy8FK2F3426Rh43VqVPj6c/WKRg9mF2xfWfORlp293AsIfCl0rJ6Qs9+v/SZCBwdHsdyRyuFJc+PPRQMjghPV5BJAfkzra8ES7b6KW1zpmq122y5gf7gf3K8DsuLlAO9kGvijul9oIG/T2S9Gnv7542MfX+vXMupRkqiKcs9ZVMCtPW9YaQ/83JzffoBhvkG+m650awre02VpsKLXvZ1cHaO2b2pJEAs7KuKgLE2q8kJD8S9mjXirhogTE7GLUjLb605LgUPqRHewp4KC1NMVZAExZg0CLLODOgO58RT2srnsN5jUlKGmm4xGK8eRdsr2jdaguWwJO2hs3w0wipQ==;Ztf+4qPSGHNAKZqDG6GLrQ=="
 ---
 

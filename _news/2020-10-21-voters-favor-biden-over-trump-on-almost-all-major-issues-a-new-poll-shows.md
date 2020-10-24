@@ -864,6 +864,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Day After Debate, Biden and Trump Amplify Attacks, Seeking an Edge"
+    excerpt: "Joseph Biden continued to hammer President Trump over his denial of the coronavirus threat, while the president sought to exploit what he viewed as a new opening — Mr. Biden’s comments on oil."
+    publishedDateTime: 2020-10-24T04:43:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/us/politics/biden-trump-oil-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/us/politics/biden-trump-oil-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/us/politics/biden-trump-oil-virus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/23/us/politics/23biden-trump1/23biden-trump1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump and Biden will have mics cut during opponent's answers in final debate"
     excerpt: "Debate commission institutes microphone muting for Trump-Biden debate Sections TV Featured More from NBC Follow NBC News President Donald Trump and Joe Biden will have their microphones cut off during Thursday’s final presidential debate while their opponent delivers initial two-minute answers to each debate topic,"
     publishedDateTime: 2020-10-20T00:48:00Z

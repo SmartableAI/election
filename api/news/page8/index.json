@@ -2,6 +2,314 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-17-not-going-to-waste-a-single-minute-on-tweets-gop-sen-sasse-pushes-back-after-trump-attacks.md",
+      "title": "'Not going to waste a single minute on tweets': GOP Sen. Sasse pushes back after Trump attacks",
+      "excerpt": "Trump and GOP Sen. Ben Sasse are publicly feuding as Republicans are working overtime to try keep control of the Senate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-ben-sasse-feud-over-senators-repeated-attacks-during-election/3693805001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-ben-sasse-feud-over-senators-repeated-attacks-during-election/3693805001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6cf8dfb4-fad7-4cfc-85d5-5db9f4f1c455-GTY_1229069749.jpg?auto=webp&crop=3729,2098,x259,y133&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3693805001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3693805001",
+      "publishedDateTime": "2020-10-17T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-trump-keeps-chipping-away-at-obamacare-with-only-weeks-until-the-election-and-a-supreme-court-hearing.md",
+      "title": "Trump keeps chipping away at Obamacare with only weeks until the election -- and a Supreme Court hearing",
+      "excerpt": "The Trump administration has taken a step to weaken the Affordable Care Act in a key battleground state, with only weeks to go until Election Day as well as Supreme Court arguments that could determine the landmark law's future.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BX10t0iauOI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BX10t0iauOI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201016161329-obamacare-sign-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/17/politics/affordable-care-act-georgia-medicaid/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/affordable-care-act-georgia-medicaid/index.html",
+      "publishedDateTime": "2020-10-17T08:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-trump-continued-to-put-us-in-danger-by-referencing-us-says-rachel-vindman-wife-of-key-impeachment-witness.md",
+      "title": "Trump 'continued to put us in danger' by referencing us, says Rachel Vindman, wife of key impeachment witness",
+      "excerpt": "Rachel Vindman -- the wife of former Lt. Col. Alexander Vindman, a key witness in President Donald Trump's impeachment inquiry -- slammed the President on Friday for going after her husband and family.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t4jd2ZyXIlY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t4jd2ZyXIlY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201016140437-rachel-vindman-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/17/politics/rachel-vindman-wife-alexander-vindman-trump-danger/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/rachel-vindman-wife-alexander-vindman-trump-danger/index.html",
+      "publishedDateTime": "2020-10-17T07:30:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-jeannine-lee-lake-whos-running-against-rep-greg-pence-says-shes-receiving-racist-threats.md",
+      "title": "Jeannine Lee Lake, who’s running against Rep. Greg Pence, says she’s receiving racist threats",
+      "excerpt": "A black woman running for a congressional seat in Indiana against Vice President Mike Pence’s brother says she is being inundated with threats and racist messages after the local Delaware",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/pence-brothers-opponent-says-shes-receiving-racist-threats/",
+      "originalUrl": "https://nypost.com/2020/10/17/pence-brothers-opponent-says-shes-receiving-racist-threats/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201017-indiana-greg-pence-threats.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/pence-brothers-opponent-says-shes-receiving-racist-threats/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/pence-brothers-opponent-says-shes-receiving-racist-threats/amp/",
+      "publishedDateTime": "2020-10-17T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-how-donald-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue.md",
+      "title": "How Donald Trump’s developer dad and a Brooklyn rabbi saved a synagogue",
+      "excerpt": "When congregants enter the Beach Haven Jewish Center in Gravesend, Brooklyn, they pass a small plaque hanging just outside the main sanctuary. “Fred Trump. Humanitarian,” declare the gold",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
+      "originalUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fred2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
+      "publishedDateTime": "2020-10-17T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-scotus-to-hear-trump-administrations-argument-to-exclude-illegal-immigrants-from-census.md",
+      "title": "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census",
+      "excerpt": "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
+      "originalUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Supreme_Court.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
+      "publishedDateTime": "2020-10-17T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-watchdog-claims-trump-campaign-illegally-coordinated-with-a-super-pac-in-2016-through-its-work-with-cambridge-analytica.md",
       "title": "Watchdog claims Trump campaign illegally coordinated with a Super PAC in 2016 through its work with Cambridge Analytica",
       "excerpt": "The Campaign Legal Center claimed newly published emails showed Cambridge Analytica's overlapping work for the campaign and PAC violated federal law.",
@@ -174,7 +482,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 264,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -558,7 +866,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 619,
+      "heat": 639,
       "tags": null,
       "images": [
         {
@@ -575,62 +883,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-court-packing-vaccine-mandate-abc-town-hall.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-packing-vaccine-mandate-abc-town-hall.amp",
       "publishedDateTime": "2020-10-16T10:58:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-rnc-files-fec-complaint-against-twitter-claims-company-made-illegal-in-kind-contribution-to-biden-campaign.md",
-      "title": "RNC files FEC complaint against Twitter, claims company made 'illegal in-kind contribution' to Biden campaign",
-      "excerpt": "EXCLUSIVE: The Republican National Committee on Friday filed a complaint with the Federal Election Commission alleging that the censorship of the New York Post article about Hunter Biden’s overseas business dealings and former Vice President Joe Biden’s alleged knowledge of those dealings, amounts to",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-J7vNMJ9ohk/rnc-fec-twitter-complaint-claims-company-made-illegal-in-kind-contribution-biden-campaign",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-J7vNMJ9ohk/rnc-fec-twitter-complaint-claims-company-made-illegal-in-kind-contribution-biden-campaign",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/801397da-12bb-4527-840c-ce1354fda6ba/3ad45308-8610-4eb0-ba9c-4b408dff34dc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T09:39:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -883,7 +1135,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1765,
+      "heat": 1785,
       "tags": null,
       "images": [
         {
@@ -992,7 +1244,7 @@
       "originalUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 585,
       "tags": null,
       "images": [
         {
@@ -1033,274 +1285,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-sean-hannity-says-savannah-guthrie-was-joe-bidens-surrogate-in-trump-town-hall-ambush.md",
-      "title": "Sean Hannity says Savannah Guthrie was 'Joe Biden's Surrogate' in Trump Town Hall 'Ambush'",
-      "excerpt": "Fox News host Sean Hannity accused the chair of Donald Trump's televised town hall of acting as Joe Biden's \"surrogate,\" claiming the president had been \"ambushed\" when challenged over previous comments he made on the subject of white supremacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659",
-      "originalUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 350,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1653728/trump-guthrie-town-hall.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1",
-      "publishedDateTime": "2020-10-16T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-end-this-nightmare-rudy-giulianis-daughter-urges-americans-to-vote-for-joe-biden-in-vanity-fair-editorial.md",
-      "title": "'End this nightmare': Rudy Giuliani's daughter urges Americans to vote for Joe Biden in Vanity Fair editorial",
-      "excerpt": "Caroline Giuliani called her father the \"president's personal bulldog,\" and described Trump's time in the White House as a \"reign of terror.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
-      "originalUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f88b9f19e9fe40019009a62?width=1200&format=jpeg",
-          "width": 733,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
-      "publishedDateTime": "2020-10-16T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-twitter-announces-new-policies-after-hunter-biden-report-imbroglio.md",
-      "title": "Twitter announces new policies after Hunter Biden report imbroglio",
-      "excerpt": "A top policy executive at Twitter announced policy changes at the social media giant late Thursday after the company faced its toughest allegations yet of censorship in order to protect Democratic candidates.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 975,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp",
-      "publishedDateTime": "2020-10-15T21:19:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-the-fbi-is-investigating-whether-purported-hunter-biden-burisma-emails-were-part-of-a-foreign-intelligence-operation.md",
-      "title": "The FBI is investigating whether purported Hunter Biden-Burisma emails were part of a foreign intelligence operation",
-      "excerpt": "The news comes shortly after it was reported that one of the sources of the emails, Rudy Giuliani, was a target for Russian intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10",
-      "originalUrl": "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f2232ad40c1f34f271cefc4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp",
-      "publishedDateTime": "2020-10-15T20:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-gloats-about-us-marshals-killing-of-portland-antifa-suspect.md",
-      "title": "Trump gloats about US Marshals' killing of Portland 'antifa' suspect",
-      "excerpt": "President Donald Trump on Thursday gloated over the September killing of Portland, Oregon, murder suspect Michael Reinoehl by law enforcement officers who had been deputized as US Marshals.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nwJfPhxlyA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nwJfPhxlyA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015154515-101-trump-lead-image-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/trump-fugitive-shooting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-fugitive-shooting/index.html",
-      "publishedDateTime": "2020-10-15T20:26:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

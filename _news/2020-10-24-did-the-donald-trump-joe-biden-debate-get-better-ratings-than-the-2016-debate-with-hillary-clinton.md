@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-23T22:58:00Z
 originalUrl: "https://www.ibtimes.com/did-donald-trump-joe-biden-debate-get-better-ratings-2016-debate-hillary-clinton-3064887"
 webUrl: "https://www.ibtimes.com/did-donald-trump-joe-biden-debate-get-better-ratings-2016-debate-hillary-clinton-3064887"
 type: article
-quality: 55
+quality: 65
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/us-president-donald-trump-and-democratic-challenger-joe.jpg"
@@ -236,6 +237,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f924aaa8caa5a8a8efc6ee5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5575%26cropY1%3D122%26cropY2%3D3258"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Election 2020 updates: Biden outlines plan for tackling COVID-19"
+    excerpt: "President Donald Trump and former Vice President Joe Biden return to the campaign trail Friday after a their final presidential debate in Nashville Thursday night."
+    publishedDateTime: 2020-10-24T03:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/election blog/?id=73771951"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/election blog/?id=73771951"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/election blog/?id=73771951"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Biden-1-ap-er-201023_1603481011921_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "The Trailer: Trump is Trump. Biden is not Clinton."
     excerpt: "Thursday's debate, and the nine months of campaigning that preceded it, suggest that Trump was telling the truth. He invited a man accusing Biden of scandalous behavior to Nashvil"
@@ -541,6 +558,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "As campaign enters final stretch, Trump and Biden scrap on oil and the worsening COVID-19 pandemic"
+    excerpt: "The surge of activity with just 11 days remaining in the 2020 contest highlighted the candidates' divergent strategies."
+    publishedDateTime: 2020-10-23T16:56:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-campaign-updates-20201024-fnifcpuqrbgflll6l6uxvrielu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-campaign-updates-20201024-fnifcpuqrbgflll6l6uxvrielu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-campaign-updates-20201024-fnifcpuqrbgflll6l6uxvrielu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 126
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7DNLDSrvDlTYEIo2A4fu4FfZSC8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F4BBQGMD3FCPBAWDYPQBMOTTOE.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Moore: Trump has to be on 'best behavior' for final presidential debate"
     excerpt: "Stephen Moore, an economist and adviser to President Trump, said Sunday that the president needed to be \"on his best behavior\" going into the final presidential debate Thursday against former Vice President Joe Biden."
     publishedDateTime: 2020-10-18T12:00:00Z
@@ -793,6 +826,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump seized on Biden's promise to 'transition away from oil,' but the move away from fossil fuels is nothing new"
+    excerpt: "Democrats have long pushed to replace fossil fuels with renewable energy and polling shows Americans are increasingly concerned about climate change."
+    publishedDateTime: 2020-10-24T01:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-seized-on-bidens-promise-to-transition-away-from-oil-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-seized-on-bidens-promise-to-transition-away-from-oil-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seized-on-bidens-promise-to-transition-away-from-oil-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5f92e59d212113001874067f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden denies unethical behavior involving his son Hunter during questioning at debate"
     excerpt: "Democratic presidential nominee Joe Biden on Thursday denied any unethical behavior related to his son Hunter Biden under questioning at the second presidential debate with President Trump."
     publishedDateTime: 2020-10-23T02:59:00Z
@@ -824,6 +873,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/23/61bbb02e-4500-4864-9632-640c34e70ede/thumbnail/1200x630/4a030fac0bb97cc3d2f41c717d46a0e0/gettyimages-1229229085.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pelosi, Trump trade blame on COVID-19 stimulus talks; Senate Republicans on sidelines"
+    excerpt: "U.S. House Speaker Nancy Pelosi said on Friday it still was possible to get another round of COVID-19 aid before the Nov. 3 general election, but that it was up to President Donald Trump to act, including bringing along reluctant Senate Republicans."
+    publishedDateTime: 2020-10-24T01:25:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN278252"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538656184&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M191"
+        width: 833
+        height: 545
         isCached: true
   - title: "For the final debate, forget the 'Trump curve.' Grade the president on facts and truth."
     excerpt: "It doesn't matter if Trump interrupts less. If he lies, undermines public health or destabilizes our election, his grade should be unfit for office."
@@ -1159,17 +1224,17 @@ related:
         isCached: true
   - title: "President Trump, Mike Pence planning final campaign surge in Arizona next week"
     excerpt: "In the final days before the November 3 election, President Trump’s campaign is planning a final surge in Arizona."
-    publishedDateTime: 2020-10-23T23:14:00Z
-    webUrl: "https://www.12news.com/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
-    ampWebUrl: "https://www.12news.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+    publishedDateTime: 2020-10-24T03:06:00Z
+    webUrl: "https://www.12newsnow.com/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+    ampWebUrl: "https://www.12newsnow.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+    cdnAmpWebUrl: "https://www-12newsnow-com.cdn.ampproject.org/c/s/www.12newsnow.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
     type: article
     provider:
-      name: KPNX
-      domain: 12news.com
+      name: 12 NEWS
+      domain: 12newsnow.com
     quality: 86
     images:
-      - url: "https://media.12news.com/assets/KPNX/images/e69a5aaf-deb1-4018-b269-ea0ff7282f31/e69a5aaf-deb1-4018-b269-ea0ff7282f31_1140x641.jpg"
+      - url: "https://media.12newsnow.com/assets/KPNX/images/e69a5aaf-deb1-4018-b269-ea0ff7282f31/e69a5aaf-deb1-4018-b269-ea0ff7282f31_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -1440,6 +1505,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "A Fox News reporter just debunked the latest conservative effort to smear Joe Biden"
+    excerpt: "The latest conservative effort to smear Democratic presidential nominee has now been debunked by a reporter at Fox News. On Thursday night, President Donald Trump invited Tony Bobulinski, an ex-business associate of Hunter Biden,"
+    publishedDateTime: 2020-10-23T16:18:00Z
+    webUrl: "https://www.salon.com/2020/10/23/a-fox-news-reporter-just-debunked-the-latest-conservative-effort-to-smear-joe-biden-_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 49
+    images:
+      - url: "https://media.salon.com/2020/07/fox-news-hosts-0714201.jpg"
+        width: 846
+        height: 571
+        isCached: true
   - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
     excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
     publishedDateTime: 2020-10-16T13:14:00Z
@@ -1464,6 +1543,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "UTFMImX2G55DRMPxUULyf4y8OaPtMaKiA/Gaj/K3AWE+zs84izff3WlnTnilgu6RjLPJpVx6dj0Mj5tWtDKRmU3V/i6M7MKX21qnJRNFoE1Tpx1g4WaMFL6qNjpWWgXW54ucunU9EXkJ3iSkSYN9yJCN3jtL2IvXMR3Iyr9fm3pG4FlHRlpBs/MvoDHK+X0BLm7bOAWwruCSICak3fcULwVMrRSr0h4KvkiQyLe15V56qGmTL+SV5eGags4VEheD7euEUrIKsd9gurjvbbH3qWkMCS/RUrPAnkOiafkMDQ9LK1umJgKEbKTxvHGv01C4PCEVH9Jg7ZO5c01TJt79LuKo79WeN3uSaeH9yrpuafM=;QxUzvTcn34vf4dVv0y4qJA=="
+secured: "FE2BhNNmwYWQOSBmzcQ0DC4DNWUU5LH8qinwTHYU+4V9EA8HMVONOXmGC4YEMIrCUm9sfBdGNRBHdRq7nTS60cFjab7moCZiWeBP5vGKyXz02AV6V1RixknGq/La5S8gF96SJ/7LsNz0HNU+emnM4JXr8HR2rG3XtNgpAYJX6J78lzSiY8doe2jubsmCkumyfWBwnuiu3NW0v9xtjshY99/7npII5JuSyXcQUKq0mm7HOAIQ6X3xkrS64mxEr1S2hNpEMAjegEpF08NWkJ339z7hMSIQBWMnS43Ur6B24279W5/HvnnRvN3EVo08BzOGxWgg0Zqs0vgtkzCyvm7XkdUX9uGdFOhpBkpI/Of2DSQwX7Jkmk/kFcbPtxXs/VpZvYoQz+XlVZy43URYHKb7KS8uLsZcB8Es7zwlp3LFWQadZIZUDAKRK0dkPZHDUR6yzVHeinZ7835BeNGQJW0auFO9/Lp3/xOg8Nmksj3pQgi7IT9ht4XIrldyhAngI833ZgitpY7oSbII2mnVBWTZWQ==;gWf3GmFrwQ6gWA/U32PPAQ=="
 ---
 

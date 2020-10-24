@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-t
 cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday?_amp=true"
 type: article
 quality: 75
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -184,6 +184,22 @@ related:
     quality: 72
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/NLED/a08dfe20-2642-4ea0-bbb3-324a0a1f78a2-AP20289725478868.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Democrats plan political counterattack on day of Mike Pence visit in Tallahassee"
+    excerpt: "Local Democrats and Democratic organizations are planning for political counterattacks as Republican Vice President Mike Pence plans to visit Tallahassee International Airport Saturday evening. The Florida Coordinated Campaign,"
+    publishedDateTime: 2020-10-24T00:06:00Z
+    webUrl: "https://www.tallahassee.com/story/news/2020/10/24/mike-pence-tallahassee-visit-democrats/3741607001/"
+    ampWebUrl: "https://amp.tallahassee.com/amp/3741607001"
+    cdnAmpWebUrl: "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3741607001"
+    type: article
+    provider:
+      name: Tallahassee Democrat
+      domain: tallahassee.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/PIND/0a675e5b-2fa8-4105-8a74-18979f3f614a-GH_10222020_035.jpg?auto=webp&crop=4630,2605,x0,y235&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Sacha Baron Cohen Really Did Crash Mike Pence's CPAC Speech for 'Borat 2'"
+    excerpt: "A new movie has everyone talking because it's hard to tell what's real and what's creative editing. Like, did Borat crash CPAC for real?"
+    publishedDateTime: 2020-10-24T01:17:00Z
+    webUrl: "https://www.distractify.com/p/did-borat-crash-cpac"
+    type: article
+    provider:
+      name: Distractify
+      domain: distractify.com
+    quality: 54
+    images:
+      - url: "https://media.distractify.com/brand-img/va9DjGt7i/0x0/did-borat-crash-cpac-1603498103928.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "kyV7jfPmhQRNmPGw/fk+cEk2wmv6ob3qDoswpc2SbwVYvyCNq+QzW+vGEQsTEr3pWLQtK9ao7m5RWCYEN4IeqMs2leHP/OhQU/qyGbSVylMNXc8DOvA2NHnU1G8DrYpnZ/Me4DhMHzZf/oln4zPX+elT/NrLWx+wHZuqfEWbRmbJuDVNrmDkRDDew9Y72i2ZnIwNNJMfnggf7KDryNo8MemZGdHCR2TFo16V8lJlm6NQktynJk8gTyzKi0GKItyQOKINlV1emS9fdu0radJYpp1387HTQ2s9mIH2UAkYtTYQy9ZiTtEWwMJNrdvsbwao8wddm6jKMgqIHeg0iSYymAw3Xfep+3B5CHJGOvu+cGFz4CgcQZ9AimqKPyRhSUZ0G+VQaysngeBrOv9M9MlVL0LQ/MiWf2k3agODj2Vo/a8Jsg38Xk9ZhMWQb1lyAD/zMHcogAb/3UqnYpFprEKi6PDPjyRXIMoBv0npefpngvG7m2P5vRxLtqGkw8DlP+Kp+uUk5q2CH8dxsL+tLrD5mQ==;v7vLjfNfhq9KyZ5mspfJcw=="
 ---

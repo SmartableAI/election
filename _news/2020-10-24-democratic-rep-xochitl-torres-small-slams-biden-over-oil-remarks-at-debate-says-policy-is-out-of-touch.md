@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's early White House transition plans negotiate pressure from both ends of political spectrum"
+    excerpt: "Democratic presidential nominee Joe Biden has not yet been elected to the office, but he's planning his transition as though he has been."
+    publishedDateTime: 2020-10-23T19:28:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/AP19236040982936.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "2faxHKDKU6T1q+Cu+jDSIFZHaVfNfo/XJUUfd7XGpfaoXr4o5b+dAxpW/Ri/KatQv8E8Jlx6MHP0VnImp2dSed87mgkILIv0+gExgp8RTGE77C7nGRoQz0/Y4DwH2W93+iFOpXgEbt8ybDzu+zq3CCrilKFIUybZCzI7qxA+7FQRwlVh0PGvgtcZdXo5fcZC7m2gBNFP2YihlP8eVnoIQEstJ4K+JofZkxWWn9S9ILNezHQCLLS0e+mpbJtUvXseSfjY4zjOHj5wnKV2NcWjVU+SWxfpKPmBw07dY3Pzv9GzqKGTqFlXQDTdAJmQtAzsyQOaQKEjx/ihHaUA0Zgi4iMvZNarZYLMHt4120UfmLU=;tH/Z51vu2zZf/Kta1I8qZw=="
 ---

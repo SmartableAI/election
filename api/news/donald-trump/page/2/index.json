@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-22-does-appearing-at-trump-rallies-help-martha-mcsally-in-arizonas-us-senate-race.md",
+      "title": "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?",
+      "excerpt": "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5996029002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996029002",
+      "publishedDateTime": "2020-10-21T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-trump-wants-to-cut-democrat-cities-covid-fundingduring-a-surge-in-cases.md",
+      "title": "Trump Wants to Cut Democrat Cities’ COVID Funding—During a Surge In Cases",
+      "excerpt": "The proposed cuts come as apparent retribution for Democratic mayors not “dominating” their citizens protesting this summer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases",
+      "originalUrl": "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/5f9041e5936b35581b460cdf/master/pass/Trump10.21.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases/amp",
+      "cdnAmpWebUrl": "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases/amp",
+      "publishedDateTime": "2020-10-21T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanity Fair",
+        "domain": "vanityfair.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-alleged-china-fighter-donald-trump-has-secret-chinese-bank-account.md",
+      "title": "Alleged China-Fighter Donald Trump Has Secret Chinese Bank Account",
+      "excerpt": "Another big scandal — and huge conflict of interest — has surfaced from the tax returns obtained by the New York Times.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html",
+      "originalUrl": "https://nymag.com/intelligencer/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/a51/9c0/644d15d0ac07c959530778ef6a92348a81-president-trump-in-China.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html",
+      "publishedDateTime": "2020-10-20T20:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-tiffany-trump-says-her-father-has-always-supported-lgbtq-people.md",
       "title": "Tiffany Trump says her father 'has always supported' LGBTQ people",
       "excerpt": "\"Prior to politics, he supported gays, lesbians, the LGBQIA+ community,\" she said of the president at a Trump Pride event in Florida.",
@@ -693,7 +831,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/19/colorado-election-2020-cory-gardner-donald-trump-campaign-base-conundrum/3711527001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1388,153 +1526,6 @@
         "name": "New York Daily News",
         "domain": "nydailynews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-snl-michael-che-jokes-about-nbc-trump-town-hall-on-weekend-update-what-can-we-say-we-have-a-type.md",
-      "title": "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type”",
-      "excerpt": "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role",
-      "sourceUrl": null,
-      "webUrl": "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/?ref=hvper.com",
-      "originalUrl": "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/",
-      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/",
-      "publishedDateTime": "2020-10-17T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline.com",
-        "domain": "deadline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-trump-slams-republican-critic-who-warned-of-november-bloodbath.md",
-      "title": "Trump slams Republican critic who warned of November 'bloodbath'",
-      "excerpt": "U.S. President Donald Trump on Saturday attacked a longtime congressional critic who warned this week that his handling of the coronavirus pandemic and authoritarian leaders could cause a \"Republican bloodbath in the Senate\" in the Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537867561&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G0JA",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2720PJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2720PJ",
-      "publishedDateTime": "2020-10-17T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-us-spies-say-the-hunter-biden-email-controversy-shows-how-exploitable-and-grotesquely-vulnerable-trump-and-giuliani-are-to-russian-intelligence.md",
-      "title": "US spies say the Hunter Biden email controversy shows how 'exploitable' and 'grotesquely vulnerable' Trump and Giuliani are to Russian intelligence",
-      "excerpt": "\"They want to protect their boy in the White House because Trump's policies have been strategically fantastic for Russia,\" said a former CIA spy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10",
-      "originalUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f89defd9e9fe40019009d36?width=1200&format=jpeg",
-          "width": 1190,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10?amp",
-      "publishedDateTime": "2020-10-17T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

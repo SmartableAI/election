@@ -127,22 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Graham considers subpoenas for Twitter, Facebook execs over Hunter Biden emails"
-    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., is considering subpoenaing social media executives over their platforms' role in suppressing news about the explosive, alleged emails involving the former Vice President Joe Biden's son Hunter."
-    publishedDateTime: 2020-10-19T22:26:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LuAQZD6buNM/graham-subpoena-twitter-facebook-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/graham-subpoena-twitter-facebook-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-subpoena-twitter-facebook-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54b248eb-9792-4412-9b00-fb894179f113/d012e81f-4403-4a19-bf7b-657194a73d60/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Rep. Paul Gosar calls for defunding NPR over lack of Hunter Biden laptop coverage"
     excerpt: "Rep. Paul Gosar, R-Ariz., called for defunding NPR after the outlet said it would not cover the Hunter Biden laptop story because it was a waste of time."
     publishedDateTime: 2020-10-22T18:47:44Z
@@ -188,22 +172,6 @@ related:
     quality: 167
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/hawley.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Source on alleged Hunter Biden email chain verifies message about Chinese investment firm"
-    excerpt: "One of the people on an explosive email thread involving Hunter Biden has verified the veracity of the messages, which purportedly outlines a pay out for former Vice President Joe Biden as part of a deal with a Chinese energy firm."
-    publishedDateTime: 2020-10-17T00:28:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MHB5rE5oFxM/hunter-biden-china-email-source-verifies"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-china-email-source-verifies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-china-email-source-verifies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a041bda6-d346-4354-8f53-ef37b3e1289d/d56abf53-7efd-443a-b8e4-df5117d5532b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -318,22 +286,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/KristiNoem-NH-Oct.2020.jpeg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Scalise, McMorris Rodgers demand answers on Twitter's 'unprecedented' actions on Hunter Biden story"
-    excerpt: "EXCLUSIVE: House Minority Whip Steve Scalise and Rep. Cathy McMorris Rodgers lead more than a dozen House Republicans in demanding answers from Twitter for their “unparalleled” and “unprecedented” actions the social media platform took in reducing the circulation of a New York Post article about Hunter"
-    publishedDateTime: 2020-10-16T18:23:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xaTpMDl7bRs/scalise-mcmorris-rogers-demand-answers-twitter-hunter-biden-story"
-    ampWebUrl: "https://www.foxnews.com/politics/scalise-mcmorris-rogers-demand-answers-twitter-hunter-biden-story.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-mcmorris-rogers-demand-answers-twitter-hunter-biden-story.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Giuliani: Computer shop owner who found alleged Hunter Biden emails told FBI he was 'really afraid'"
     excerpt: "Former New York City Mayor Rudy Giuliani has described how he obtained a copy of a hard drive that contained emails allegedly related to Hunter Biden's overseas business interests. "
@@ -554,22 +506,6 @@ related:
     quality: 121
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5522171a-998f-4edc-ba59-f45674dca7e1/9e5da789-dbe6-4cd8-ab23-4e3ce91b42a5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Gowdy rips media silence on Hunter Biden scandal: 'It's relevant whether Joe Biden took any money'"
-    excerpt: "S.C., blasted the mainstream media Thursday for downplaying confirmation by Hunter Biden's former business partner that an email published by the New York Post last week is \"genuine."
-    publishedDateTime: 2020-10-22T21:51:00Z
-    webUrl: "https://www.foxnews.com/media/gowdy-media-double-standard-hunter-biden-email"
-    ampWebUrl: "https://www.foxnews.com/media/gowdy-media-double-standard-hunter-biden-email.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gowdy-media-double-standard-hunter-biden-email.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80bfa8ca-884d-4392-8b02-578a70f1d4f5/3f9d2eb0-e4cb-4b1c-a229-c3e2802d53fa/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

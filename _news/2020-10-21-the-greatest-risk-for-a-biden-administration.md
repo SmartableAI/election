@@ -233,6 +233,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Election 2020 updates: Biden outlines plan for tackling COVID-19"
+    excerpt: "President Donald Trump and former Vice President Joe Biden return to the campaign trail Friday after a their final presidential debate in Nashville Thursday night."
+    publishedDateTime: 2020-10-24T03:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/election blog/?id=73771951"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/election blog/?id=73771951"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/election blog/?id=73771951"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Biden-1-ap-er-201023_1603481011921_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The Trailer: Trump is Trump. Biden is not Clinton."
     excerpt: "Thursday's debate, and the nine months of campaigning that preceded it, suggest that Trump was telling the truth. He invited a man accusing Biden of scandalous behavior to Nashvil"
     publishedDateTime: 2020-10-23T17:31:00Z
@@ -537,6 +553,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "As campaign enters final stretch, Trump and Biden scrap on oil and the worsening COVID-19 pandemic"
+    excerpt: "The surge of activity with just 11 days remaining in the 2020 contest highlighted the candidates' divergent strategies."
+    publishedDateTime: 2020-10-23T16:56:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-campaign-updates-20201024-fnifcpuqrbgflll6l6uxvrielu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-campaign-updates-20201024-fnifcpuqrbgflll6l6uxvrielu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-campaign-updates-20201024-fnifcpuqrbgflll6l6uxvrielu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 126
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7DNLDSrvDlTYEIo2A4fu4FfZSC8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F4BBQGMD3FCPBAWDYPQBMOTTOE.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Moore: Trump has to be on 'best behavior' for final presidential debate"
     excerpt: "Stephen Moore, an economist and adviser to President Trump, said Sunday that the president needed to be \"on his best behavior\" going into the final presidential debate Thursday against former Vice President Joe Biden."
     publishedDateTime: 2020-10-18T12:00:00Z
@@ -789,6 +821,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump seized on Biden's promise to 'transition away from oil,' but the move away from fossil fuels is nothing new"
+    excerpt: "Democrats have long pushed to replace fossil fuels with renewable energy and polling shows Americans are increasingly concerned about climate change."
+    publishedDateTime: 2020-10-24T01:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-seized-on-bidens-promise-to-transition-away-from-oil-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-seized-on-bidens-promise-to-transition-away-from-oil-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seized-on-bidens-promise-to-transition-away-from-oil-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5f92e59d212113001874067f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden denies unethical behavior involving his son Hunter during questioning at debate"
     excerpt: "Democratic presidential nominee Joe Biden on Thursday denied any unethical behavior related to his son Hunter Biden under questioning at the second presidential debate with President Trump."
     publishedDateTime: 2020-10-23T02:59:00Z
@@ -820,6 +868,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/23/61bbb02e-4500-4864-9632-640c34e70ede/thumbnail/1200x630/4a030fac0bb97cc3d2f41c717d46a0e0/gettyimages-1229229085.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pelosi, Trump trade blame on COVID-19 stimulus talks; Senate Republicans on sidelines"
+    excerpt: "U.S. House Speaker Nancy Pelosi said on Friday it still was possible to get another round of COVID-19 aid before the Nov. 3 general election, but that it was up to President Donald Trump to act, including bringing along reluctant Senate Republicans."
+    publishedDateTime: 2020-10-24T01:25:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN278252"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538656184&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M191"
+        width: 833
+        height: 545
         isCached: true
   - title: "For the final debate, forget the 'Trump curve.' Grade the president on facts and truth."
     excerpt: "It doesn't matter if Trump interrupts less. If he lies, undermines public health or destabilizes our election, his grade should be unfit for office."
@@ -1155,17 +1219,17 @@ related:
         isCached: true
   - title: "President Trump, Mike Pence planning final campaign surge in Arizona next week"
     excerpt: "In the final days before the November 3 election, President Trump’s campaign is planning a final surge in Arizona."
-    publishedDateTime: 2020-10-23T23:14:00Z
-    webUrl: "https://www.12news.com/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
-    ampWebUrl: "https://www.12news.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+    publishedDateTime: 2020-10-24T03:06:00Z
+    webUrl: "https://www.12newsnow.com/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+    ampWebUrl: "https://www.12newsnow.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+    cdnAmpWebUrl: "https://www-12newsnow-com.cdn.ampproject.org/c/s/www.12newsnow.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
     type: article
     provider:
-      name: KPNX
-      domain: 12news.com
+      name: 12 NEWS
+      domain: 12newsnow.com
     quality: 86
     images:
-      - url: "https://media.12news.com/assets/KPNX/images/e69a5aaf-deb1-4018-b269-ea0ff7282f31/e69a5aaf-deb1-4018-b269-ea0ff7282f31_1140x641.jpg"
+      - url: "https://media.12newsnow.com/assets/KPNX/images/e69a5aaf-deb1-4018-b269-ea0ff7282f31/e69a5aaf-deb1-4018-b269-ea0ff7282f31_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -1326,6 +1390,20 @@ related:
         width: 1024
         height: 710
         isCached: true
+  - title: "Did The Donald Trump - Joe Biden Debate Get Better Ratings Than The 2016 Debate With Hillary Clinton?"
+    excerpt: "The second and final debate between President Donald Trump and Democratic nominee Joe Biden drew a much smaller audience than the first debate. According to early Nielsen ratings, more than 55 million people watched compared to the 73."
+    publishedDateTime: 2020-10-23T22:58:00Z
+    webUrl: "https://www.ibtimes.com/did-donald-trump-joe-biden-debate-get-better-ratings-2016-debate-hillary-clinton-3064887"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/us-president-donald-trump-and-democratic-challenger-joe.jpg"
+        width: 1024
+        height: 710
+        isCached: true
   - title: "What To Expect At Thursday Night's Debate Between President Trump and Former VP Joe Biden"
     excerpt: "Plexiglass dividers were seen being put into place ahead of tonight's debate between President Trump and former Vice President Joe Biden. Also keeping the two separate—a mute button that will give each candidate 2 uninterrupted minutes to speak at the start of each topic."
     publishedDateTime: 2020-10-22T11:40:00Z
@@ -1406,20 +1484,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Did The Donald Trump - Joe Biden Debate Get Better Ratings Than The 2016 Debate With Hillary Clinton?"
-    excerpt: "The second and final debate between President Donald Trump and Democratic nominee Joe Biden drew a much smaller audience than the first debate. According to early Nielsen ratings, more than 55 million people watched compared to the 73."
-    publishedDateTime: 2020-10-23T22:58:00Z
-    webUrl: "https://www.ibtimes.com/did-donald-trump-joe-biden-debate-get-better-ratings-2016-debate-hillary-clinton-3064887"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/us-president-donald-trump-and-democratic-challenger-joe.jpg"
-        width: 1024
-        height: 710
-        isCached: true
   - title: "How Important Is The Final Debate For Trump? After Poor Showing In First Debate, President May Need A 'Game Changer'"
     excerpt: "With his poll numbers lagging and Election Day less than two weeks away, President Donald Trump may need to make a compelling case for reelection Thursday in the final presidential debate. Over 35 million Americans have already voted in the presidential election but Trump may seek to sway some undecided voters and boost conservative turnout by outshining Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-22T20:20:00Z
@@ -1435,6 +1499,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/29/us-president-donald-trump-questions-the-coronavirus-figures.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "A Fox News reporter just debunked the latest conservative effort to smear Joe Biden"
+    excerpt: "The latest conservative effort to smear Democratic presidential nominee has now been debunked by a reporter at Fox News. On Thursday night, President Donald Trump invited Tony Bobulinski, an ex-business associate of Hunter Biden,"
+    publishedDateTime: 2020-10-23T16:18:00Z
+    webUrl: "https://www.salon.com/2020/10/23/a-fox-news-reporter-just-debunked-the-latest-conservative-effort-to-smear-joe-biden-_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 49
+    images:
+      - url: "https://media.salon.com/2020/07/fox-news-hosts-0714201.jpg"
+        width: 846
+        height: 571
         isCached: true
   - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
     excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."

@@ -79,6 +79,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "North America’s Building Trades Unions Issue Formal Endorsement of Joe Biden for President"
+    excerpt: "Today, North America’s Building Trades Unions (NABTU) formally endorsed former Vice President Joe Biden and Senator Kamala Harris for President and Vice President of the United States. The organization issued the following statement from NABTU President Sean McGarvey: “North America’s Building Trades Unions are proud to endorse former Vice President Joe Biden for President of the United States."
+    publishedDateTime: 2020-10-23T17:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/joe-biden-business-building-construction-construction-and-engineering-industrial-products-and-services-dbfaad2cabd003fffb18a350f7b64888"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 95
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies"
     excerpt: "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\""
     publishedDateTime: 2020-10-17T10:11:00Z

@@ -96,6 +96,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "‘Pence Proved Better at Politics Than His Running Mate’"
+    excerpt: "Wednesday’s vice presidential debate between Sen. Kamala Harris and Vice President Mike Pence felt at times like a 90-minute throwback to another moment in American politics: two professional ..."
+    publishedDateTime: 2020-10-08T13:58:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/10/08/mike-pence-kamala-harris-vp-debate-roundup-427767"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d8/46/97a10ed9481dabb2f8544146207a/gettyimages-1279070271-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "McpxNXwWDUb+jM38Urdk3+2pI+ePiAPOrSp7PSZbiSSYLPZmiWxLRepmvkFxykYqCvNCG5ReSC/bj3aZbDs9o3HcYc3VXEcsP/aGNRjabenCVhSCItWQHUAdyij9+7or1l89Tinf76Si7zFIssAZPPQP/I4KTbKEKsZ6O2ASTH1vGZzBfNFC3zpEPochKh+R9EkVJhmaLmaANkBjO8g75YRoNOm7hlH3N2xfo8DQRuY6WzhD0ipxQP50X7eIxfOtL5F14waU6kBo5L0v1fh+YfQ4IUw2EgIn0QuRxhD/PEB6W81vumE19I25GwDH1BI6muwybA+EfB8hg14z7+UKGcKt9fWvNWHGznfldtad4qxSmQlG8WpGJFfkLOK9970iORsNCUsErVEBOY4lShQKpJ0f3xRDzo8uKU6Qx0I3u/GBdBOjpkbhyTDLTUKs0focWKWo3X97shFGv+IyiX1ERhvB2VoqhTgyhIpCkKtRSo/lWPpyy8MoQQNMTSCjGSSKkRbI8dhNKm9fDSUOZMS5Yg==;RjBCRJjTlrMS4a7aJ8qeHw=="
 ---

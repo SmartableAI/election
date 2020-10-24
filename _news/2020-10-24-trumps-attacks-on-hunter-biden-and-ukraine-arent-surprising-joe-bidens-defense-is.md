@@ -864,6 +864,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Day After Debate, Biden and Trump Amplify Attacks, Seeking an Edge"
+    excerpt: "Joseph Biden continued to hammer President Trump over his denial of the coronavirus threat, while the president sought to exploit what he viewed as a new opening — Mr. Biden’s comments on oil."
+    publishedDateTime: 2020-10-24T04:43:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/us/politics/biden-trump-oil-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/us/politics/biden-trump-oil-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/us/politics/biden-trump-oil-virus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/23/us/politics/23biden-trump1/23biden-trump1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Voters favor Biden over Trump on almost all major issues, a new poll shows."
     excerpt: "Voters favor Biden over Trump on almost all major issues, a New York Times/Siena College poll found. By Alexander Burns and Jonathan Martin Joseph R. Biden Jr. holds a nine-point lead over President Trump amid widespread public alarm about the trajectory of the coronavirus pandemic and demand among voters for large-scale government action to right the economy,"
     publishedDateTime: 2020-10-20T21:51:00Z
@@ -1228,6 +1244,6 @@ related:
       domain: thedailybeast.com
     quality: 36
 
-secured: "AQzQs/yPbezLoVSk0fS8Xlx5PE/WxtBgjHbch7PdvauP97tfM08F1oqdubFBns+S5tvHVhcyJVz25YRCSrc2oGvsAucdMbc0eE+VNEk/j8F2BD01n0MAQIQZiaKhk7UO9fvXdQaqRHjfrDCFPj7OcbFj6YkzvCSYJBrhXww9t+YRrtKnDe54B3WMBKKh2AUlcI2qHqUWB6dg5iF+k8bcFy8uB+ODwcmSMD133V5sqxkOXN9ymGyTtviause4AfP8cP1MWNI9e1RXM8DyOMNZc3exz8AN7JZf7BpRxZdEP59yDM3tJ7fCcy3C6shaECujZa1s6unU7uj+E1UEc6jnotfuLKt6I4kno5iA0V/MBxM=;5I/72ThzDknj3tANy8Ld/Q=="
+secured: "MxForUwTIyFCRbI7IxsgRrhYpYGlV3CyEPRz5HHYjslENPrIolSLQyLWT4ht/hV9SJIO94+4tG6bXwxVn+IlOp8tu+zfMP71kdArF0J4ZcM3liKWoP0h/Q+Eki8SYP9+YXnac4/aaLO58TvL16/id4Nhqt/g9+L5fEUtU091gILxBVolzbYAMdfeyeq8MakEc48UxHi0wXIBCh4E7ID9y4H7/wj6vWs4YWrP36mqRKhYznCuJXuG3lnXYL3hRvAI6X9vcx9Frwbobdr9HbZ+M+Fc9Gn/RLz26vu2QpnQHv3fd7EaZUCiTSCztoyk4l1EYtZu5RkBhs++slgsFC8AROWL20vNRzXIVzodEVS67Hf6KM/dNadcr0+pmbFvxXwj+xWRlE4ZUFb31zyxYFLiWkw1Op/fao44MtlcIIhhMABmnz89OAfrrn8PUar+60GAzYZy75zwVEyVsgOYYja08ABY0ym8W93tLtEqpCUW0V8KzvlbJjxWWTwjQUZqJN3YrpvIvxXdp+RE3nJgh+sgYQ==;TkkRj0n5gQ0baAXCiQqskA=="
 ---
 

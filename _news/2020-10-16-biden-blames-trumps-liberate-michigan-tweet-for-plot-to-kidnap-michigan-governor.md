@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html"
 type: article
 quality: 184
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190204192854-04-northam-presser-0202-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden vs. Trump: ‘Who Won? The Moderator’"
+    excerpt: "Who won? The moderator.” But there was disagreement as to who was the more persuasive orator. “Trump’s attack on Biden’s statement about oil and gas was the first effective outreach to traditional conservatives that I have seen during the election,"
+    publishedDateTime: 2020-10-24T00:33:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/opinion/presidential-debate-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/opinion/presidential-debate-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/opinion/presidential-debate-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/23/opinion/23opreaders-scorecard/23opreaders-scorecard-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "The hunt for Michigan's lost Democrats: Can Biden lure them back?"
     excerpt: "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Joe Biden will need their support to carry the state."

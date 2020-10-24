@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html"
 type: article
 quality: 175
-heat: 196
+heat: 216
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_18/2800321/190327-obamacare-mc-mc-828_5bc91cbc317e1ed253c83b660125e6dc.JPG"
         width: 2500
         height: 1684
+        isCached: true
+  - title: "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short"
+    excerpt: "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\""
+    publishedDateTime: 2020-10-24T00:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244167"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244167"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421859/201021-donald-trump-ew-145p_33980ba252755dffd3445498e1c818e0.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "hlhoDjnOcoNgatVylK3fnZU0cqkYg+fb82kZ0LBFLw24Y7aFx8WfbvQUQh3ZQb8/dY/2yPNbYgyVdbiOP9ZFSBX4sVq+CfUq8kAVAWW4JJSg1/m2SOHCSiSvUO9998HZPNMdOFiQrx+lXIQUpumy8CQP2xbE0NLv+IpGzrm7jmNyupr85MS3e5UXfy6U8EjE7d1P0ycgfJ/6OVeDULoYD6+4kAGKXY4I4qtPcTxnIEYJWOMU05feC2rweQHGeMJxNIhazjcUuwfPssse3aLERwqCkK8dk+Dz4FkHgyLoyV+pLz/8ECXZioBMIV+prvDbZq8Ppgc1DemDa5AMZAEcOQsZ3ynwsmzyceaGiI+jCq0=;gfJtj0f+NtydTEJ0ld/seA=="

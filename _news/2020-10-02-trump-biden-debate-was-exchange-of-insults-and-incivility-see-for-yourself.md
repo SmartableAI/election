@@ -959,6 +959,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump, Biden scrap on oil, virus with just over a week to go"
+    excerpt: "President Donald Trump and his allies are fighting for momentum in the nation’s leading battleground states following a debate performance that gave new hope to anxious Republicans"
+    publishedDateTime: 2020-10-24T00:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-biden-scrap-on-oil-virus-with-just-over-a-week-to-go/2020/10/23/2a873c62-158f-11eb-a258-614acf2b906d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-biden-scrap-on-oil-virus-with-just-over-a-week-to-go/2020/10/23/2a873c62-158f-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-biden-scrap-on-oil-virus-with-just-over-a-week-to-go/2020/10/23/2a873c62-158f-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Viewership for 2nd Trump-Biden debate drops to 63 million"
+    excerpt: "The final presidential debate between President Donald Trump and his Democratic opponent Joe Biden drew much less viewers than their first meeting"
+    publishedDateTime: 2020-10-24T00:53:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/final-trump-biden-presidential-debate-draws-63m-viewers-73796391"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/final-trump-biden-presidential-debate-draws-63m-viewers-73796391"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/final-trump-biden-presidential-debate-draws-63m-viewers-73796391"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e6841cc1f3f646468133c33ea1c0711f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z
@@ -1134,6 +1166,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106651862-1596719453200-106651862-15967193872020-08-05t182153z_1930352096_rc2u7i9iccr4_rtrmadp_0_usa-election-conventions.jpg?v=1596719469"
         width: 3500
         height: 2245
+        isCached: true
+  - title: "Trump says pandemic will end soon after Biden blasts his handling of crisis"
+    excerpt: "President Donald Trump promised supporters in Florida on Friday that the coronavirus pandemic would end soon and accused Democratic rival Joe Biden of overstating the health crisis to scare Americans into voting for him."
+    publishedDateTime: 2020-10-24T03:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/trump-says-pandemic-will-end-soon-after-biden-blasts-his-handling-of-crisis-idUSKBN27902D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27902D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27902D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538670270&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N023"
+        width: 817
+        height: 545
         isCached: true
   - title: "How to watch the last presidential debate between Joe Biden and Donald Trump"
     excerpt: "The first debate was combative. The second debate was cancelled. Now, the final debate between Trump and Biden is finally here."
@@ -2327,6 +2375,17 @@ related:
         width: 810
         height: 534
         isCached: true
+  - title: "U.S. stock futures dip, yen gains after final Trump-Biden debate"
+    excerpt: "U.S. stock futures dipped and the Japanese yen ticked up on Friday after a final debate between U.S. President Donald Trump and Democratic challenger Joe Biden merely hardened investors' caution heading into the election."
+    publishedDateTime: 2020-10-24T01:29:00Z
+    webUrl: "https://www.businessinsider.com/us-stock-futures-dip-yen-gains-after-final-trump-biden-debate-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/us-stock-futures-dip-yen-gains-after-final-trump-biden-debate-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-stock-futures-dip-yen-gains-after-final-trump-biden-debate-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z

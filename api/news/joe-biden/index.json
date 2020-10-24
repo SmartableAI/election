@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-24-fact-check-post-claiming-joe-biden-wants-to-put-farms-in-land-banks-is-missing-context.md",
+      "title": "Fact check: Post claiming Joe Biden wants to put farms in 'land banks' is missing context",
+      "excerpt": "At a September town hall, Biden said he wants to put farms into \"land banks.\" Some have taken this to mean he wants a government takeover of farmland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-claim-lacks-important-details-biden-and-land-banks/6011931002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-claim-lacks-important-details-biden-and-land-banks/6011931002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/18/PWIL/ad743977-7d3a-417e-994d-eeee1172d267-AP20262045476717.jpg?auto=webp&crop=5580,3139,x0,y283&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6011931002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6011931002",
+      "publishedDateTime": "2020-10-23T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-as-new-infections-soar.md",
+      "title": "Joe Biden lays out a detailed plan to fight coronavirus as new infections soar",
+      "excerpt": "Biden's plan would effectively nationalize mask wearing, Covid-19 testing, PPE procurement, reopening guidelines and vaccine distribution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html",
+      "originalUrl": "https://www.cnbc.com/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106759351-16034839162020-10-23t193614z_543779170_rc2joj9bymez_rtrmadp_0_usa-election-biden.jpeg?v=1603483967",
+          "width": 3500,
+          "height": 2314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html",
+      "publishedDateTime": "2020-10-23T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-iran-says-its-not-interested-in-debate-after-biden-warns-it-will-pay-a-price.md",
       "title": "Iran Says It's 'Not Interested' in Debate After Biden Warns It 'Will Pay A Price'",
       "excerpt": "\"We have repeatedly stated that Iran does not interfere in other countries' elections,\" Iranian mission to the United Nations spokesperson Alireza Miryousefi told Newsweek.",
@@ -54,19 +158,19 @@
       ]
     },
     {
-      "path": "_news/2020-10-23-cbs-news-john-dickerson-on-hunter-biden-laptop-scandal-joe-biden-has-an-ally-in-the-news-cycle.md",
-      "title": "CBS News’ John Dickerson on Hunter Biden laptop scandal: ‘Joe Biden has an ally in the news cycle’",
-      "excerpt": "CBS News’ John Dickerson admitted Friday the ongoing controversy surrounding a laptop purportedly belonging to Hunter Biden which contained damaging emails and photos of the Democratic presidential nominee’s son won’t hurt Joe Biden because he “has an ally in the news cycle.",
+      "path": "_news/2020-10-24-gregg-jarrett-hunter-biden-laptop-scandal-even-if-joe-biden-wins-theres-no-way-out-now.md",
+      "title": "Gregg Jarrett: Hunter Biden laptop scandal — Even if Joe Biden wins, there's no way out now",
+      "excerpt": "In the Hunter Biden laptop scandal, the unresolved and trenchant questions are: how much did Joe Biden know and to what extent was he involved",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-laptop-news-cycle",
-      "originalUrl": "https://www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-laptop-news-cycle",
+      "webUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
+      "originalUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 141,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -80,9 +184,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-laptop-news-cycle.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-laptop-news-cycle.amp",
-      "publishedDateTime": "2020-10-23T09:48:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T11:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -479,7 +583,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1703,
+      "heat": 1803,
       "tags": null,
       "images": [
         {
@@ -901,7 +1005,7 @@
       "originalUrl": "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/10/20/gov-doug-ducey-did-not-mock-joe-biden-mocked-himself/5988271002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -944,7 +1048,7 @@
       "originalUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1147,63 +1251,6 @@
         "Election",
         "Donald Trump",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-jim-carrey-spoofs-joe-biden-town-hall-with-mr-rogers-comparison-on-snl.md",
-      "title": "Jim Carrey spoofs Joe Biden town hall with Mr. Rogers comparison on 'SNL'",
-      "excerpt": "Jim Carrey's Joe Biden put on a sweater and sang the classic Mr. Rogers theme song during the spoof of his town hall",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/jim-carrey-joe-biden-town-hall-mr-rogers-comparison-snl",
-      "originalUrl": "https://www.foxnews.com/entertainment/jim-carrey-joe-biden-town-hall-mr-rogers-comparison-snl",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jim-Carrey-Joe-Biden-Mr.-Rogers.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/jim-carrey-joe-biden-town-hall-mr-rogers-comparison-snl.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jim-carrey-joe-biden-town-hall-mr-rogers-comparison-snl.amp",
-      "publishedDateTime": "2020-10-18T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {
@@ -1424,7 +1471,7 @@
       "originalUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 585,
       "tags": null,
       "images": [
         {
@@ -1500,58 +1547,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-end-this-nightmare-rudy-giulianis-daughter-urges-americans-to-vote-for-joe-biden-in-vanity-fair-editorial.md",
-      "title": "'End this nightmare': Rudy Giuliani's daughter urges Americans to vote for Joe Biden in Vanity Fair editorial",
-      "excerpt": "Caroline Giuliani called her father the \"president's personal bulldog,\" and described Trump's time in the White House as a \"reign of terror.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
-      "originalUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f88b9f19e9fe40019009a62?width=1200&format=jpeg",
-          "width": 733,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
-      "publishedDateTime": "2020-10-16T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

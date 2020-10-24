@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 495
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump campaign is under fire for videotaping voters"
+    excerpt: "The Trump campaign is under fire as accusations of illegal voter intimidation surface for videotaping Philadelphia voters placing their ballots in a drop box. CNN's Pamela Brown reports.\n    \n"
+    publishedDateTime: 2020-10-24T00:31:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qUSY1-q59fA/philadelphia-voter-surveillance-claims-trump-campaign-brown-dnt-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/philadelphia-voter-surveillance-claims-trump-campaign-brown-dnt-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/philadelphia-voter-surveillance-claims-trump-campaign-brown-dnt-ebof-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023201609-philadelphia-voter-surveillance-claims-trump-campaign-brown-dnt-ebof-vpx-00000303-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump renews focus on ex-friend with essay railing against 'pettiness'"
     excerpt: "First lady Melania Trump penned an essay on the White House website on Friday that railed against what she described as the \"pettiness\" of the media and ex-friend and former adviser Stephanie Winston Wolkoff.\n    \n"
     publishedDateTime: 2020-10-16T15:37:32Z
@@ -157,6 +173,22 @@ related:
     images:
       - url: "https://static.politico.com/2f/24/7c30b9bf4e0fb1fa0ae19d3ecec2/102120-trump-gty-773.jpg"
         width: 1160
+        height: 773
+        isCached: true
+  - title: "GOP prays Trump stopped the bleeding"
+    excerpt: "The president's backers were relieved at Trump's more restrained debate performance Thursday night. But with days of rallies ahead, they know it might not last."
+    publishedDateTime: 2020-10-24T03:29:00Z
+    webUrl: "https://www.politico.com/news/2020/10/23/trumps-allies-exhale-debate-fret-rallies-431706"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/23/trumps-allies-exhale-debate-fret-rallies-431706"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/23/trumps-allies-exhale-debate-fret-rallies-431706"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ea/97/176b59be4faaaa7ffd1963de8b99/debate-773-ap.jpg"
+        width: 1159
         height: 773
         isCached: true
   - title: "Trump campaign spokesperson claims parents of separated children don't want them back"

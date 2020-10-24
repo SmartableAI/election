@@ -384,6 +384,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Pence and Harris clash over virus at vice presidential debate"
+    excerpt: "Vice President Mike Pence and Democratic Senator Kamala Harris met for the first and only vice presidential debate of the 2020 campaign in Salt Lake City, Utah, with sharp exchanges over the ..."
+    publishedDateTime: 2020-10-08T07:40:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/vice-presidential-debate-mike-pence-kamala-harris/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/vice-presidential-debate-mike-pence-kamala-harris/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/vice-presidential-debate-mike-pence-kamala-harris/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 150
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/08/f0c5929c-a2b9-4691-b499-9eb1bfd7ffb7/thumbnail/1200x630g2/0cd9b36cbf287aacecef2e953e5b5cd5/gettyimages-1228948022.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "VP debate live updates: Pence vs. Harris and what you need to know"
     excerpt: "Vice President Mike Pence and Sen. Kamala Harris of California will debate in Salt Lake City on Tuesday in the sole matchup between the 2020 vice presidential candidates."
     publishedDateTime: 2020-10-08T01:05:00Z
@@ -639,6 +655,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201016&t=2&i=1537791673&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9F1RO"
         width: 848
         height: 545
+        isCached: true
+  - title: "Live Updates Vice Presidential Debate: Pence, Harris Dodge Questions on Election Results, Packing the Court"
+    excerpt: "Mike Pence and Kamala Harris will face off for the first and only vice presidential debate. Left: Eric Baradat/AFP. Right: Drew Angerer/Getty Getty Vice President Mike Pence and Senator Kamala ..."
+    publishedDateTime: 2020-10-08T00:32:00Z
+    webUrl: "https://www.newsweek.com/live-updates-vice-presidential-debate-mike-pence-kamala-harris-face-off-salt-lake-city-1537246"
+    ampWebUrl: "https://www.newsweek.com/live-updates-vice-presidential-debate-mike-pence-kamala-harris-face-off-salt-lake-city-1537246?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/live-updates-vice-presidential-debate-mike-pence-kamala-harris-face-off-salt-lake-city-1537246?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 147
+    images:
+      - url: "https://d.newsweek.com/en/full/1645224/harris-pence.png"
+        width: 1048
+        height: 726
         isCached: true
   - title: "Trump jokes that he might leave the country if he loses to Joe Biden in Nov. 3 election"
     excerpt: "Democrat Joe Biden has held a consistent edge over Donald Trump in national polls and in many battleground states."

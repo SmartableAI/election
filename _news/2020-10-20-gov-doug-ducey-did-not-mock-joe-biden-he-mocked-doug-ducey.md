@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.azcentral.com/amp/5988271002"
 cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5988271002"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gov. Doug Ducey unleashes a Tweetstorm after Joe Biden calls him out on masks"
+    excerpt: "Gov. Doug Ducey's approval ratings have plummeted given his handling of COVID-19. So, naturally, he patted himself on the back for his leadership."
+    publishedDateTime: 2020-10-24T01:14:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/laurieroberts/2020/10/23/gov-doug-ducey-tries-praise-his-coronavirus-handling-fails/6012498002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6012498002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6012498002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/bc7ed05e-df72-4056-986b-de8309954b78-cent02-7ctz9ylo191evdkhhle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Doug Jones as Joe Biden’s Attorney General? Alabama Senator name thrown into mix"
     excerpt: "If Democrat Joe Biden wins the presidential election on Nov. 3 – however long the vote tally takes – would he consider Alabama Senator Doug Jones as the next U.S. Attorney General? Yes, according to a recent article from Politico."
     publishedDateTime: 2020-10-13T14:53:00Z

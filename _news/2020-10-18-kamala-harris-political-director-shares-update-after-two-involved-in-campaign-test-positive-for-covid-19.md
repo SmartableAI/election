@@ -9,7 +9,7 @@ ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo94067269688"
 cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo94067269688"
 type: article
 quality: 118
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/20/multimedia/20elections-briefing-sched/20elections-briefing-sched-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Kamala Harris makes her final case to 'the ATL'"
+    excerpt: "With just days to go until the election, Harris invokes Atlanta’s civil rights legacy in a pitch to Black voters."
+    publishedDateTime: 2020-10-24T01:29:00Z
+    webUrl: "https://www.politico.com/news/2020/10/23/kamala-harris-atlanta-432074"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/70/a2/7c60b06f4ba8b4811cd24ee8d78c/201023-kamala-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "/fHpJ6t9Fy9KgoOAtWGFdHbLGvrdLIWlawgYLKz96qdqK8d+1OQB+P+FIPKy3A5R5KqiwhD7u74qrQhTxqpH6kF8QkIEcGP5nXuYSpBLbc0nyMM1jdbftkznPwacU3D62nJPIn4+JZxpYTXJmVJR7bDwdBr64Ip+kDW5U1MSoiPGJOlSNSKCtqTtQFrrh6jkW1W+ipV12SnZmP1mqc9HZ013dAHcLWCCrlO0Jzdii4l7mo/lfG29tzRFVbiknHerxonqcGdH5JUAI4yJzCV7LyuvWryCIgALxa73o4Kk15ATfh/5rNHIlJUb/uA8sm8inA3MdUhaEgfiCypPC0rmroNgiBYfH6Gmr7VUEr+nJf0=;8bYMV32ZMQ+AFjZE3zQa/w=="

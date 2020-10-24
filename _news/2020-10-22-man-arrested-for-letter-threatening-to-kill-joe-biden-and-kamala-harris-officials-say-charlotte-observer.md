@@ -44,6 +44,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump targets Kamala Harris in sexist rant against the Democratic vice-presidential nominee"
+    excerpt: "\"We're not going to have a socialist president, especially a female socialist president ... we're not gonna' put up with it,\" Trump said."
+    publishedDateTime: 2020-10-24T01:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-targets-kamala-harris-in-sexist-rant-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-targets-kamala-harris-in-sexist-rant-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-targets-kamala-harris-in-sexist-rant-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 140
+    images:
+      - url: "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden campaign announces record $383M fundraising haul in September"
     excerpt: "Democratic presidential nominee Joe Biden's (D) campaign announced late Wednesday that it had raised a massive $383 million during the third quarter of 2020, marking the best period for the campaign so far."
     publishedDateTime: 2020-10-15T12:27:00Z
@@ -389,6 +405,34 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201023&i=OVD17UBJ3&r=OVD17UBJ3&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "19-year-old man suspected of plotting to kill Biden"
+    excerpt: "Prosecutors say Alexander Treisman, who was arrested for possessing child pornography, posted evidence of wanting to kill Democratic presidential candidate Joe Biden. Jeff Pegues has the latest details."
+    publishedDateTime: 2020-10-23T23:02:00Z
+    webUrl: "https://www.cbsnews.com/video/19-year-old-man-suspected-of-plotting-to-kill-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/23/88f90fd5-e8f8-4ec8-9f20-6bfd902e5298/thumbnail/1200x630/8eed3a1d31ca5cceb637f3920bcc8490/cbsn-fusion-19-year-old-man-suspected-of-plotting-to-kill-biden-thumbnail-573331-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Man Arrested In N.C. Had Plan To Kill Joe Biden, Feds Say"
+    excerpt: "Alexander Hillel Treisman, 19, was indicted on child pornography charges. Federal agents presented evidence suggesting he was obsessed with mass shootings – and drove within 4 miles of Biden's home."
+    publishedDateTime: 2020-10-23T20:03:00Z
+    webUrl: "https://www.npr.org/2020/10/23/927181809/man-arrested-in-n-c-had-plan-to-kill-joe-biden-feds-say"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/23/ap_20282488538797_wide-dbc4104ac85aea3cee58df3cf4fad51eb21d9270.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Watch Kamala Harris corner Amy Coney Barrett into sharing her view on climate change"
     excerpt: "Supreme Court nominee Amy Coney Barrett has repeatedly dodged questions from Democrats and refrained from revealing her opinion on hot-button issues such as abortion in this week's hearing."
@@ -958,6 +1002,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris clangs a communist gong"
+    excerpt: "A vote for Joe Biden and Kamala Harris is a vote for communism. There’s no other way to paint it. Social justice? Economic justice? Climate justice? Economic justice? This is the language of communists."
+    publishedDateTime: 2020-10-24T01:47:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/22/kamala-harris-clangs-communist-gong/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 55
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/21/Election_2020_Harris_36636.jpg-662ce_c0-289-6920-4325_s1200x700.jpg?589645618eb2589fe40d17d615a6d783eb6b0b33"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris Cancels Travel After Staff Members Test Positive For Covid-19"
     excerpt: "Kamala Harris canceling all campaign travel through this weekend, after two people involved with the campaign test positive for Covid-19. Veuer's Elizabeth Keatinge has more."
     publishedDateTime: 2020-10-19T09:50:00Z
@@ -1114,6 +1172,15 @@ related:
     excerpt: "Senator Kamala Harris (D-CA) campaigns at an early voting mobilization event in Atlanta. 2020 vice presidential candidate Senator Kamala Harris (D-CA) delivered remarks at an early voter mobilization event"
     publishedDateTime: 2020-10-23T12:49:00Z
     webUrl: "https://www.c-span.org/video/?477306-1/senator-kamala-harris-campaigns-atlanta"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Remarks on the Pandemic Response"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Wilmington, Delaware, on the coronavirus pandemic and his campaign’s plan to combat the virus. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
+    publishedDateTime: 2020-10-23T18:00:00Z
+    webUrl: "https://www.c-span.org/video/?477287-1/joe-biden-unveils-coronavirus-pandemic-recovery-plan"
     type: article
     provider:
       name: C-SPAN

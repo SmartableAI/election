@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden vs. Trump: ‘Who Won? The Moderator’"
+    excerpt: "Who won? The moderator.” But there was disagreement as to who was the more persuasive orator. “Trump’s attack on Biden’s statement about oil and gas was the first effective outreach to traditional conservatives that I have seen during the election,"
+    publishedDateTime: 2020-10-24T00:33:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/opinion/presidential-debate-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/opinion/presidential-debate-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/opinion/presidential-debate-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/23/opinion/23opreaders-scorecard/23opreaders-scorecard-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The hunt for Michigan's lost Democrats: Can Biden lure them back?"
     excerpt: "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Joe Biden will need their support to carry the state."
     publishedDateTime: 2020-10-10T11:07:00Z

@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's early White House transition plans negotiate pressure from both ends of political spectrum"
+    excerpt: "Democratic presidential nominee Joe Biden has not yet been elected to the office, but he's planning his transition as though he has been."
+    publishedDateTime: 2020-10-23T19:28:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/AP19236040982936.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Democratic Rep. Xochitl Torres Small slams Biden over oil remarks at debate, says policy is 'out of touch'"
     excerpt: "N.M., pushed back Thursday night after her party’s presidential nominee, Joe Biden, said he would pursue policies that would “transition from the oil industry” if elected to office. When asked about his approach to energy policy during the final presidential debate,"
     publishedDateTime: 2020-10-23T21:59:00Z

@@ -205,23 +205,23 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "The Latest: Trump to Face Voters' Questions in NBC Town Hall"
-    excerpt: "In lieu of a formal debate, President Donald Trump has agreed to answer voters’ questions during an outdoors NBC News town hall Thursday in Miami."
-    publishedDateTime: 2020-10-14T12:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "The Latest: Trump Says Final Debate Went 'Really Well'"
     excerpt: "President Donald Trump is reviewing his debate against Democrat Joe Biden, saying he thought it went “really well” and was an “exciting night.”."
     publishedDateTime: 2020-10-23T19:33:00Z
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 65
+  - title: "The Latest: Trump to Face Voters' Questions in NBC Town Hall"
+    excerpt: "In lieu of a formal debate, President Donald Trump has agreed to answer voters’ questions during an outdoors NBC News town hall Thursday in Miami."
+    publishedDateTime: 2020-10-14T12:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
