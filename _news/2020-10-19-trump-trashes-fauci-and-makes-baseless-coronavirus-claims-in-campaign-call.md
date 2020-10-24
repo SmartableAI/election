@@ -495,6 +495,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As coronavirus cases hit daily record, Trump tries to reframe race about oil "
+    excerpt: "As the US recorded the highest single day of new coronavirus cases since the pandemic began, President Donald Trump looked to distract from the virus' deadly toll by seizing on Joe Biden's comment in Thursday night's debate that America should shift its reliance on oil toward greater renewable energy"
+    publishedDateTime: 2020-10-24T13:06:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Ddn11sQZx8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/donald-trump-joe-biden-oil-fracking-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/donald-trump-joe-biden-oil-fracking-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023191819-01-donald-trump-florida-1023-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's diagnosis brings coronavirus back to the forefront of a caustic campaign "
     excerpt: "President Donald Trump for months has stubbornly tried to change the subject, hoping to make his bid for reelection focused on anything but coronavirus.\n    \n"
     publishedDateTime: 2020-10-03T15:26:59Z

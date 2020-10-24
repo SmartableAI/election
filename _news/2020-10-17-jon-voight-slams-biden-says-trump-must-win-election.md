@@ -876,6 +876,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Biden, McConnell could find themselves in familiar role as negotiating partners"
+    excerpt: "If Republicans hold the Senate and Biden defeats President Donald Trump to win the presidency, Biden and McConnell would find themselves in the familiar role of negotiating partners."
+    publishedDateTime: 2020-10-24T12:46:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8mlj3c1_G2k/biden-mcconnell-could-find-themselves-familiar-role-negotiating-partners"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mcconnell-could-find-themselves-familiar-role-negotiating-partners.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mcconnell-could-find-themselves-familiar-role-negotiating-partners.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36de7344-1c5d-466a-87f1-bd5a43999626/c5881c61-4096-419b-ad06-310ffbb67460/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hawley: Americans ought to be able to sue Twitter, Facebook over blocking Hunter Biden report"
     excerpt: "Americans who were prevented by social media giants from sharing the New York Post's reporting about Hunter Biden this week should be able to sue those companies, Sen. Josh Hawley, R-Mo., told “Hannity” Thursday night."
     publishedDateTime: 2020-10-16T04:15:22Z

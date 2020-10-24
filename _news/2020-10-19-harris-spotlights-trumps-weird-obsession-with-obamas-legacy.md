@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp"
 type: article
 quality: 200
-heat: 700
+heat: 720
 published: true
 
 provider:
@@ -301,6 +301,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292007915773.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump faces confrontational questions at NBC News town hall"
+    excerpt: "Good evening, welcome to Washington. I'm Bret Baier. Breaking tonight, President Trump staking much of his reelection patch with just 2-1/2 weeks until voting day on his response to the coronavirus. As you see there live in Ocala,"
+    publishedDateTime: 2020-10-24T11:53:00Z
+    webUrl: "https://www.foxnews.com/transcript/trump-faces-confrontational-questions-at-nbc-news-town-hall"
+    ampWebUrl: "https://www.foxnews.com/transcript/trump-faces-confrontational-questions-at-nbc-news-town-hall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-faces-confrontational-questions-at-nbc-news-town-hall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7aa3c96a-79ab-42ad-8df9-6a33109c53c9/2d092bf2-3ce5-46cb-86bc-8ce076a4071c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris halts travel after 2 involved in campaign test positive for coronavirus"
     excerpt: "Democratic vice presidential nominee Sen. Kamala Harris' communications director and a \"non-staff flight crew member\" involved in the campaign have tested positive for the coronavirus, Joe Biden's presidential campaign announced Thursday morning."

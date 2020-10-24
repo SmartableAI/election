@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden 'lying to the American people' about son Hunter's business dealings: Rep. Stefanik"
+    excerpt: "Joe Biden is \"lying\" about his son Hunter Biden's business dealings, Rep. Elise Stefanik told \"Fox & Friends Weekend.\""
+    publishedDateTime: 2020-10-24T13:36:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAv-UX9vSi8/biden-joe-hunter-trump-burisma-business-china-election-trump-new-york-elise-stefanik"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-trump-burisma-business-china-election-trump-new-york-elise-stefanik.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-trump-burisma-business-china-election-trump-new-york-elise-stefanik.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "PdrU1ZCjXQcjCRnTQNBMZxLxE6vv18nex2QxG8u9KGdWTcVoAo7EwiT0pS4aAYRwAssIIkbxx0Wp7b05YGmXOer8yNFiJapuXScnEuG0JkAENXhZgsjZvBo9sAzAk4x2bsvMKgvx5BTJIop560vUVvKtmuTsYt/HIoGjOgiwnH5LuzBYkWn7moXOISlfqk0yDxjKmf6w7XQ1sMY7YdHrjM5peywB2VqkQ/t7OqX6keJHVcxzDX6Viw47id9vV7qCk+HvLczozFJC3l0fJqh3LPtStGwtxWtUWgel7PJEbJ0WkNfDzOVxYTfJsBqQZxnJVTUnl5nF2qzBhMX5cFgvsf8nYm4b3/DdtLhliwJ9e0A=;A3Dky5VECFEWkQuvvrRItQ=="
 ---

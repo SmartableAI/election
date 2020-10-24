@@ -147,6 +147,22 @@ related:
         width: 1700
         height: 1133
         isCached: true
+  - title: "3 Important Social Security Changes That Joe Biden Wants to Make"
+    excerpt: "The Democratic presidential candidate has big plans for Social Security. Here are a few key points all voters should know about."
+    publishedDateTime: 2020-10-24T11:36:00Z
+    webUrl: "https://tulsaworld.com/business/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
+    ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/a/71/a7186a1d-b66f-5ada-b123-fd3c09c16eb0/5f941b810bbe1.image.jpg"
+        width: 700
+        height: 465
+        isCached: true
   - title: "Barack Obama Disses Donald Trump, Waka Flocka Thinks Trump Is A Better President"
     excerpt: "The rapper weighed in with his opinion and people can't stop talking about it. Former President Barack Obama seemed as if he was having a grand time throwing jabs at President Donald Trump. Obama spoke at a drive-in rally for former Vice President Joe Biden and his running mate Kamala Harris and"
     publishedDateTime: 2020-10-22T06:25:00Z

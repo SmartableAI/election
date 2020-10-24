@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump to cast his ballot in Florida, braces for marathon weekend of rallies 10 days before election"
+    excerpt: "President Trump cast his ballot early in West Palm Beach, Fla., on Saturday. "
+    publishedDateTime: 2020-10-24T13:52:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ApTFqy08Gl8/trump-votes-early-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-votes-early-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-votes-early-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298046534268.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "New polls in key battlegrounds raise concerns for Trump"
     excerpt: "New polls in key battlegrounds appear to spell trouble for President Trump with 20 days to go until Election Day"
     publishedDateTime: 2020-10-14T20:52:02Z

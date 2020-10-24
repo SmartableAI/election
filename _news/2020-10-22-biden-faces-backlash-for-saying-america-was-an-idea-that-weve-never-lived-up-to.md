@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-faces-backlash-for-saying-ame
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp"
 type: article
 quality: 168
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden 'lying to the American people' about son Hunter's business dealings: Rep. Stefanik"
+    excerpt: "Joe Biden is \"lying\" about his son Hunter Biden's business dealings, Rep. Elise Stefanik told \"Fox & Friends Weekend.\""
+    publishedDateTime: 2020-10-24T13:36:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAv-UX9vSi8/biden-joe-hunter-trump-burisma-business-china-election-trump-new-york-elise-stefanik"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-trump-burisma-business-china-election-trump-new-york-elise-stefanik.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-trump-burisma-business-china-election-trump-new-york-elise-stefanik.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden campaign faces backlash for TV ad depicting Michigan tech CEO as struggling bar owner"
     excerpt: "The Biden team is under fire for releasing a TV campaign ad last week depicting a Michigan bar owner struggling to keep his business afloat during the pandemic."
     publishedDateTime: 2020-10-20T15:27:24Z

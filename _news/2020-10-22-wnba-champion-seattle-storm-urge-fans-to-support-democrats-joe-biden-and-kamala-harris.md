@@ -2,19 +2,19 @@
 category: news
 title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
 excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
-publishedDateTime: 2020-10-22T02:35:00Z
-originalUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-webUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-ampWebUrl: "https://amp.freep.com/amp/3722503001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3722503001"
+publishedDateTime: 2020-10-22T02:21:00Z
+originalUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+webUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3722503001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3722503001"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -1222,6 +1222,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "DgCabWyKWmQC+/1FrK2q60x/2M94YD0/QgRWVwdA9EU4GFtkV/PKodSzfzlMPbiO+bFcz6kopCvmtVtrYHAeEFIy3WIdgSJgVPY8NXzPtuW+bpvNQKYnIonABKZ92m4HYvo9XBItSOQ3MtswLQANrKgZa11d2XQJENXTyxLhkMmmxNu9VnoJRQvC//i6AfsZ5bAHpkOQqWBLlnT3yW9MHenx/aHK6eNgyw+Or9NHwwH+5U8k6Xbnq7oZ6TozztBhMw6we/LGG/+vZDyhQVRfATzQ2e/tUmdICQYneXKTyD9a9Csp1eqlp+9PZC9c+LrUVDhVvuUYDyw3gs40oTg01Z8aRblbpMT3Epus8novAMU=;QAhMqdh7Y7LWrhX04BpZyg=="
+secured: "3mMjFiprHoZlLmjXeGPy9duB/zPR7B4pyvu48EJyXL2+53q3GirBDmj+CvA93wf+zSZFfjd48iySsHo9CbMytoUswfh+FOPfM3fKurafbcvPPyrjpRz4q8E1NhPSaKge2SVfBQpr3Wn8Cfj9SgjxCoVWq/Vt1WM8GsIL6pqScYTkItrAqFDp9cn9uf7qLmhRSZAiBw2NLp8fJPgqwWAadNg3CGdifou79tcXHY3TOSezk0eXAicAUZRrfoZOZQZflC9rl1B/H+pMJTp+4E3WoMpeGmdZgDFroqHnbC2/feYkoc1Ouup0gulEcmUH38cdYFSw94lUOsm4qOnTC69WAkc21vByxVEZtsYC5XrRJAA=;gYUcXawgTFg1FWB5CHV/ag=="
 ---
 

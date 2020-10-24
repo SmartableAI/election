@@ -870,6 +870,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Biden, McConnell could find themselves in familiar role as negotiating partners"
+    excerpt: "If Republicans hold the Senate and Biden defeats President Donald Trump to win the presidency, Biden and McConnell would find themselves in the familiar role of negotiating partners."
+    publishedDateTime: 2020-10-24T12:46:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8mlj3c1_G2k/biden-mcconnell-could-find-themselves-familiar-role-negotiating-partners"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mcconnell-could-find-themselves-familiar-role-negotiating-partners.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mcconnell-could-find-themselves-familiar-role-negotiating-partners.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36de7344-1c5d-466a-87f1-bd5a43999626/c5881c61-4096-419b-ad06-310ffbb67460/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Jon Voight slams Biden, says Trump 'must win' election"
     excerpt: "Jon Voight shared a passionate video Friday in which he declares his support for President Trump and attacks former Vice President Joe Biden. In the two-minute video posted to his Twitter account, Voight takes shots at the left,"
     publishedDateTime: 2020-10-17T14:54:00Z
