@@ -2,11 +2,11 @@
 category: news
 title: "Pelosi, Trump trade blame on COVID-19 stimulus talks; Senate Republicans on sidelines"
 excerpt: "U.S. House Speaker Nancy Pelosi said on Friday it still was possible to get another round of COVID-19 aid before the Nov. 3 general election, but that it was up to President Donald Trump to act, including bringing along reluctant Senate Republicans."
-publishedDateTime: 2020-10-24T00:10:00Z
-originalUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN27825Y"
-webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN27825Y"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27825Y"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27825Y"
+publishedDateTime: 2020-10-24T08:54:00Z
+originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idINKBN27905G"
+webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idINKBN27905G"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27905G"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27905G"
 type: article
 quality: 118
 heat: -1
@@ -1282,6 +1282,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Watch live: Last presidential debate between Donald Trump and Joe Biden with live fact-checking"
+    excerpt: "The debate will be hosted by Belmont University in Nashville, and NBC News’ Kristen Welker will serve as moderator."
+    publishedDateTime: 2020-10-24T03:26:00Z
+    webUrl: "https://chicago.suntimes.com/elections/2020/10/22/21528861/presidential-debate-watch-live-donald-trump-joe-biden"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/elections/2020/10/22/21528861/presidential-debate-watch-live-donald-trump-joe-biden"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/elections/2020/10/22/21528861/presidential-debate-watch-live-donald-trump-joe-biden"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 78
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump - Biden Debate: Experts, Twitter Users React To Key Moments Of Final Presidential Showdown"
     excerpt: "President Donald Trump and Democratic nominee Joe Biden squared off Thursday in the final presidential debate. The much-anticipated event was held at Belmont University in Nashville, Tennessee, with the highly contentious election just 12 days away and with over 35 million having already voted."
     publishedDateTime: 2020-10-23T03:28:00Z
@@ -1542,6 +1558,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "Hgk6Stve/hZHOgMa+5WZQJT5cXm6eb1Q1V0A2jI+pYKBNAH6+/AKxyneXI2OYYQ8v0P119vgLNlfaLdjjxr718y6LFQUa9/hhDR4KFIVz65lkL9IhlhlTtOG8se+9v+NZu/BEEYAmmiqOgdUme/6ijPer3YNcqhUHnbpA+AJkcJGkAnm0cEQWsghSeE7RhFU+IShYghZB1ERo4bAlc+CsIc09kxhneO/DI4Ui1gt7KQS417aqkdot76SXj7370E1PUm8c6CXu24SJTFzXpgPvBp98XnFKMa5jWrWDmfMDFkwWcSE0uofLj4plZN4gv+oBuqsQJdtzr6wcOxJzJ7r0d96OgHDwujE2qx9+ftaY2TEpcJ+rjf3ro5znD/cAnhh9D0ZuBU2tYW/isg5JILr2+q51yQK5YqyCh0Kv+uDakcZrRwsXHB0oYutp//uQD8Zf2umkfM4JpBubUBJtNMlzWYrEEGTwi52Og/5cZQCl3OGV8pzDnqap8wAy+ZqgbrQ5cqnWh0eNSL/ZXcTfjuVfw==;iKSdZ/QJT89WeKwRC91u3w=="
+secured: "VpUyMOD4w80dmN7Zzjtbdi1cbwzbBjhejKZqadVz0ljDyYTw9JiQtkJu4jMy6Wgx5H7ciQmpSiBTHeFPYvwAGZD6ffjuEddH6oBvSu2pGyAFBWK74VxSzePw6kLuk01usVz0+3XzNITltxV0hdztRmaYOWg+iVsTlUMPrtEMJue14klm77+2uBtLa43+XCQ0PHXrwYSAszNGBNNxJcEHJyfU1VcbfgnXkFsf3kWj5iB9cThLDJ8vg+2N2uDbA17prqheokFALGEBxGV/aMM5SiNA9qjVfsPXY0DF325d1Os3yNEtXcJNo5cIhO9QVTz48TwdRj0bZ/G9xhl8px5NM1K54kA3LFadRolcn5DIDQI=;DmCmt07usqNEVs+xUZtExg=="
 ---
 

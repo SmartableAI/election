@@ -1138,7 +1138,7 @@ related:
   - title: "Trump says pandemic will end soon after Biden blasts his handling of crisis"
     excerpt: "President Donald Trump promised supporters in Florida on Friday that the coronavirus pandemic would end soon and accused Democratic rival Joe Biden of overstating the health crisis to scare Americans into voting for him."
     publishedDateTime: 2020-10-24T03:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27902D"
+    webUrl: "https://www.reuters.com/article/usa-election/trump-says-pandemic-will-end-soon-after-biden-blasts-his-handling-of-crisis-idUSKBN27902D"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27902D"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27902D"
     type: article

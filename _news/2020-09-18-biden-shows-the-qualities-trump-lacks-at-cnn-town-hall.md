@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 1650
+heat: 1670
 published: true
 
 provider:
@@ -1036,6 +1036,20 @@ related:
     quality: 130
     images:
       - url: "https://static.politico.com/b2/39/20bc8774471e8cbc76ab33dc4b89/200520-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden’s oil slip gives Trump campaign hope in Pa., Texas"
+    excerpt: "Joe Biden’s plan to move to a clean energy economy isn't new to those who've been paying attention: For months, he's promised to put the country on a path to be carbon-neutral by 2050. But Biden, who's been extraordinarily cautious throughout the campaign while talking about fossil fuels,"
+    publishedDateTime: 2020-10-24T09:23:00Z
+    webUrl: "https://www.politico.com/news/2020/10/23/biden-oil-pennsylvania-texas-432043"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/ea/ad/22202eee4753a4059b55cdc2f317/201023-biden-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

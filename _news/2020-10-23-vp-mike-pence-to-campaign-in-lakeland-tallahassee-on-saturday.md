@@ -213,6 +213,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Mike Pence Making Campaign Stop Saturday in Lakeland"
+    excerpt: "Vice President Mike Pence will be in Lakeland Saturday afternoon for a \"Make America Great Again\" rally. The Vice President is scheduled to appear at the Lakeland International Airport at 3:30 p.m. The doors will open for general admission seating at 1:30 p."
+    publishedDateTime: 2020-10-24T11:03:00Z
+    webUrl: "https://www.baynews9.com/fl/tampa/news/2020/10/24/vp-mike-pence-making-campaign-stop-saturday-in-lakeland-"
+    type: article
+    provider:
+      name: Bay News 9
+      domain: baynews9.com
+    quality: 55
+    images:
+      - url: "https://s7d2.scene7.com/is/image/TWCNews/1009_n13_pence_arizona_rally_ap"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Mike Pence rallies base during MAGA rally in Fort Wayne"
     excerpt: "The Hoosier state is a stronghold for Republicans, which experts say, raises the question of why the vice president is campaigning here in the critical two weeks prior to the election. Political science associate professor Doctor Laura Wilson told us this is about supporting other Republicans on the ballot and getting as many Hoosiers to the polls as possible."
     publishedDateTime: 2020-10-23T22:43:00Z

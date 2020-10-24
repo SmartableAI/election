@@ -3,8 +3,8 @@ category: news
 title: "Trump says pandemic will end soon after Biden blasts his handling of crisis"
 excerpt: "President Donald Trump promised supporters in Florida on Friday that the coronavirus pandemic would end soon and accused Democratic rival Joe Biden of overstating the health crisis to scare Americans into voting for him."
 publishedDateTime: 2020-10-24T03:25:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-idUSKBN27902D"
-webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27902D"
+originalUrl: "https://www.reuters.com/article/usa-election/trump-says-pandemic-will-end-soon-after-biden-blasts-his-handling-of-crisis-idUSKBN27902D"
+webUrl: "https://www.reuters.com/article/usa-election/trump-says-pandemic-will-end-soon-after-biden-blasts-his-handling-of-crisis-idUSKBN27902D"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27902D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27902D"
 type: article
@@ -4820,6 +4820,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "9He8SggP/428pd2O/5xglK8DzuCcre7rNpTPXJxxvLPAfFtkQ7Utd9c7hRodQNiFBVcmSUP72th70aQkIEpUIbWp2o8P742NMmY6587Woz9QJr/PTuTUmQN6g9GLebbYUYUK/1EOW7KDxwn1E2hD/MUTy3dpLv/WVC6kpJOygWki0Y0ZRIsZB3Q11dXOKVSEMgByOmozQr/Ug4wZDSUU9IXO3k6ZrEgdFKAGXQjC2wIlLMY9HWKc3qDvixlWPKNHki9c2JtEu6+/fRkB9ALnowiPlBwSRyvOBWVF8bOhEUP+i3ZmXBnlWywylcmOq6XUzoBPvPmylgVdYVM0i0fZ3OErKfthl+AAbv7gR4kpYuzURGOil+9kvd0FirqOd680B1t968kNx+3aIZF2sWAUeJYe+AB4r88Y+7uq36VTMWkvgbUWLB/DtV2wKphgAvuA1TtmFP67yCYoURNzDdcOrNL2qcR5x6dpLskpjdUJN996BiO7mAB4bQXIB2N/s6G58M2x9M3j65Ib60LYn9uwLg==;AxRcnaZ/d4cwjLGz7ixXbw=="
+secured: "oOLJYZUMykeN8CvhwplEWWeLyUUFLTxj0rDLgc6nIHsEmigbK68nl5UtaEpb5JKSlQ4A1mB047JwkmDPEl9s6nisPtv3LGNu50qLYdApAup4U5chB+L/3KekHI5mWoS3VbenaaKMDDCJtNLuS/HeBZc7t3yMpRKRNFJKbyqXnSiTtl5cMZzdG8AamvZrnQqKdiadsVRJBmQ7B9VM7zIgxQ6lR1U6bwHm8OC/tfehmRf6fZwkmQybzkqfNTBiia8n9qCMO8qlPW3U5f7lPfDYXVcOkXUwygjjmaW4oPOe9g+4xMcxTmfO2JCU9d0t1If8PoUMBrR/5KKzhSJLtO6uBp0D4IDr+u9KIsRkk5SOLTk=;fqUe7zDcVD20QwCJTmnlZA=="
 ---
 

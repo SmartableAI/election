@@ -222,6 +222,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 55
+  - title: "VP Mike Pence Making Campaign Stop Saturday in Lakeland"
+    excerpt: "Vice President Mike Pence will be in Lakeland Saturday afternoon for a \"Make America Great Again\" rally. The Vice President is scheduled to appear at the Lakeland International Airport at 3:30 p.m. The doors will open for general admission seating at 1:30 p."
+    publishedDateTime: 2020-10-24T11:03:00Z
+    webUrl: "https://www.baynews9.com/fl/tampa/news/2020/10/24/vp-mike-pence-making-campaign-stop-saturday-in-lakeland-"
+    type: article
+    provider:
+      name: Bay News 9
+      domain: baynews9.com
+    quality: 55
+    images:
+      - url: "https://s7d2.scene7.com/is/image/TWCNews/1009_n13_pence_arizona_rally_ap"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "E1gA2jz72M0CGe8wA/2sjk+ZQAn1o7qlpmtMRs4kpzRWi05YJ2GlzmDRhG4g8dXuvhgwmUznc9U631zFV3aHXFPMpXmqVExEfrwq63Uq4uCcIuusNHBg2gXX+K7zdPaM7yl3N0JYEqKAEMGNMqnMfhwlojAiPhlYIUw+HNoPRT3G7reTnUrfyBrrAoTWBGwfAa7acxuMmQRvckSq1DxlfevueESoiG9z1YAnZTdT/z4DJ/6iZSK5P9Iy9EinrrPN/jr+2gw+Htca4PwNPTelEupyVblqvJGjvy6LYpcvufJ9zHZj2oCyq0p1SLfrgTeIxjBarPoiX/igkKMgzmaUCutClzBhpSnMuZjqDl+HVmoptAWHxsLT7mR3KfW9TYtOgC5US1NCFO8lZIsTr4V84GCjQcuaGeRnqvlQtjMcEwIIMlGdjoGG4GVk9019JRvVKmgDceZuoDDn4c5xZy4uDknEHnwcgT8TykjjqPaFCUZUmqXydDdbnLbLvISOjcs21RKdn3Pdu70bKUgOnq0o6w==;hu2qB+q5PSLU9DpbW1/ClQ=="
 ---

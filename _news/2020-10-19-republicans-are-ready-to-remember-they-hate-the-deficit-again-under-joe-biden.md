@@ -676,6 +676,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How K Street is preparing for Biden"
+    excerpt: "Joe Biden’s transition team has conveyed an unspoken message to Washington lobbyists in the closing weeks of the campaign: Leave us alone, at least until Nov. 4. “They are much more insulated than previous transitions,"
+    publishedDateTime: 2020-10-23T19:52:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-influence/2020/10/23/how-k-street-is-preparing-for-biden-791165"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Rupert Murdoch Predicts a Landslide Win for Biden"
     excerpt: "The Australian mogul is disgusted by Trump’s handling of COVID-19, remarking that the president is his own worst enemy and telling associates “people are ready for Sleepy Joe.”"
     publishedDateTime: 2020-10-15T13:00:00Z

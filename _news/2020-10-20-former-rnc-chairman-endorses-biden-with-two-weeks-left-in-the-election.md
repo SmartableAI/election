@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 1070
+heat: 1090
 published: true
 
 provider:
@@ -660,6 +660,20 @@ related:
       - url: "https://static.politico.com/3e/da/f059887f45c6a3ae198dec81d6cd/201021-biden-nc-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "How K Street is preparing for Biden"
+    excerpt: "Joe Biden’s transition team has conveyed an unspoken message to Washington lobbyists in the closing weeks of the campaign: Leave us alone, at least until Nov. 4. “They are much more insulated than previous transitions,"
+    publishedDateTime: 2020-10-23T19:52:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-influence/2020/10/23/how-k-street-is-preparing-for-biden-791165"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Republicans are ready to remember they hate the deficit again under Joe Biden"
     excerpt: "GOP deficit hawks hobbled the recovery from the Great Recession, dragging down an entire generation. And they're ready to do it all again if Biden wins."
