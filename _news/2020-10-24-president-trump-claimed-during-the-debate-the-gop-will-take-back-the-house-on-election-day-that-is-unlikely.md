@@ -367,6 +367,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Minority pushes Trump agenda largely unpopular among tribes"
+    excerpt: "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump’s agenda in areas long considered Democratic territory"
+    publishedDateTime: 2020-10-24T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "New Florida resident Trump casts presidential ballot for himself"
     excerpt: "U.S. President Donald Trump voted in his new home state of Florida on Saturday, casting his ballot for his re-election at a public library across the street from one of his golf clubs."
     publishedDateTime: 2020-10-24T15:19:00Z
@@ -863,6 +879,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden: I 'guarantee' Trump will accept election results; no one's going to stick with him"
+    excerpt: "Joseph R. Biden predicted that President Trump will ultimately accept the results of November’s election, saying he doesn’t have the support of the military to engineer some sort of “coup” if he had thoughts about doing so."
+    publishedDateTime: 2020-10-24T16:45:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/24/joe-biden-i-guarantee-trump-will-accept-election-r/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/24/joe-biden-i-guarantee-trump-will-accept-election-r/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/24/joe-biden-i-guarantee-trump-will-accept-election-r/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 94
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/24/Election_2020_Biden_06316.jpg-9cc1c_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Pat Robertson predicts Trump re-election will usher in apocalypse: ‘By all means get out and vote!’"
     excerpt: "Televangelist Pat Robertson predicted President Donald Trump would win re-election, and that would usher in the long-promised End Times. The 90-year-old broadcaster, who has consistently supported the president who is backed by white evangelicals,"
     publishedDateTime: 2020-10-20T17:40:00Z
@@ -1249,6 +1281,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "abjBaabDu5hLLYeHofpSx1MHcvH1+MpPb3pu3djeCswS7ixml86B2Zm2o8GBaRQINc1a7teBG8IykR9/pTmSWUzxX8IEsZsIqyT96ggI1uM4pEqhxtbG6WPM8DwAi14YwzrDyChzUioTsT71VWenPhKH8VgsXNspRVfyG2NE+cS4IMcu4Mqzu0DMDB64x8actSPswLGHQfL9tH9Tt4P/0l08KKrNedd3ektqhBf+vhReA1DFq2otMbVk2h8v3MqCSdi+Ykgl542QQ2th+E/g+9KlId8CSqIA50uoczXy664Q8RjrRGhNTzrpMYJUgTzsKew924gUO784Fa4gLKjOBukXOCiQuaay3zm0IJ2P2yI=;p0YTlm1VEaEPX9ZRoXLhCw=="
+secured: "AHS/72nX5foznz1eZhQy5U1rRvo4OqTy+jEiWFcXW9C0r0NIlER/lmj0dq5BQ+xt1gbtMaSPREswbSt+8PP8w3XAt5WteZPZ244a53cJ6gmKtJRO/MV5KGNYW7gswiFVMjMoe0JJn6zxrFiaM1v1clazNVqKsHeguCWBH2R6TFygWHzeRNQQmQPD/N8mLFjJbyBF2JyFgP1OJdjgQqwfB8XMbP++4NM868DBHNL37mOREeYcadqNRwkK39xdNFdxK+IXrbncaeY8tXzPYg/QhbbIKIz+haM+ZdqzNCQGySeEeU7D0AiOlpIeIHaiaYRVyJRmJc/CeTuuii8L7QHGNrnX9tdtn4asZPYXeTgy9+hjl0jaQvdYWD4u8/1mac5o39ZapfXNtLfz39Cq8f2pK0RHT2eF+95Dmu/XKZUiDE/Pfi4Cu7gzlWJnbbNuudVQ1778LHNgrMznEenAbVjnI9WrHc23kMPHcolbHpFabm150z3aN7uZ6B60GR+fewLG2cGuGR8EGxnvN9x40xgHhA==;V+cTmpgl9K3YF5mMxyl7mQ=="
 ---
 

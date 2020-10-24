@@ -1786,6 +1786,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Celebrities' most outrageous tweets about Trump and Biden ahead of the 2020 presidential election"
+    excerpt: "Fox News has rounded up the most outrageous tweets by Hollywood's biggest stars about President Donald Trump and Democratic nominee Joe Biden ahead of the 2020 presidential election."
+    publishedDateTime: 2020-10-24T14:16:00Z
+    webUrl: "https://www.foxnews.com/entertainment/celebrities-tweets-donald-trump-joe-biden-2020-presidential-election"
+    ampWebUrl: "https://www.foxnews.com/entertainment/celebrities-tweets-donald-trump-joe-biden-2020-presidential-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/celebrities-tweets-donald-trump-joe-biden-2020-presidential-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/BillyEichner1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden Ended August With $141 Million More in Cash Than Trump"
     excerpt: "President Trump’s campaign cash advantage has evaporated as Democratic presidential nominee Joe Biden’s team started the month with $466 million in the bank, about $141 million more than the president’s re-election effort."
     publishedDateTime: 2020-09-21T02:08:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762NM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM"
 type: article
 quality: 143
-heat: 1823
+heat: 1843
 published: true
 
 provider:
@@ -1203,6 +1203,15 @@ related:
     excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to a group of community leaders in Atlanta, Georgia."
     publishedDateTime: 2020-10-23T20:38:00Z
     webUrl: "https://www.c-span.org/event/?477330/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Visits Cleveland, Ohio"
+    excerpt: "T12:29:55-04:00 vice presidential nominee and Senator Kamala Harris (CA) visits Cleveland, Ohio, and greets citizens. Democratic vice presidential nominee and Senator Kamala Harris (CA) visits Cleveland,"
+    publishedDateTime: 2020-10-24T17:26:00Z
+    webUrl: "https://www.c-span.org/event/?477345/"
     type: article
     provider:
       name: C-SPAN

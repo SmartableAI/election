@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/obama-skewers-tru
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/44d82bc8-b5e7-465a-8356-77d198bf1114-Stacey_Abrams.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Votes In Person And Slams Mail-In Voting As Campaign Urges Voters To Vote By Mail"
+    excerpt: "Despite his denunciations of mail-in voting, Trump has said the practice is ‘safe in secure’ in Florida, where he voted, because of its Republican governor."
+    publishedDateTime: 2020-10-24T16:26:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 117
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f94542b84e077087f844587%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2854%26cropY1%3D89%26cropY2%3D1694"
         width: 1200
         height: 675
         isCached: true

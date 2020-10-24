@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Votes In Person And Slams Mail-In Voting As Campaign Urges Voters To Vote By Mail"
+    excerpt: "Despite his denunciations of mail-in voting, Trump has said the practice is ‘safe in secure’ in Florida, where he voted, because of its Republican governor."
+    publishedDateTime: 2020-10-24T16:26:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 117
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f94542b84e077087f844587%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2854%26cropY1%3D89%26cropY2%3D1694"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'"
     excerpt: "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\""
     publishedDateTime: 2020-10-19T21:25:00Z

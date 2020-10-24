@@ -1203,6 +1203,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Visits Cleveland, Ohio"
+    excerpt: "T12:29:55-04:00 vice presidential nominee and Senator Kamala Harris (CA) visits Cleveland, Ohio, and greets citizens. Democratic vice presidential nominee and Senator Kamala Harris (CA) visits Cleveland,"
+    publishedDateTime: 2020-10-24T17:26:00Z
+    webUrl: "https://www.c-span.org/event/?477345/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Kamala Harris gives Orlando speech on first day of early voting in Florida"
     excerpt: "On her first stop in Florida, Kamala Harris gave a speech encouraging voters to go to the polls on the first day of early voting in Florida. Harris attacked President Trump's coronavirus response while assuring viewers that change was coming."
     publishedDateTime: 2020-10-19T16:53:00Z
@@ -1222,6 +1231,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "3mMjFiprHoZlLmjXeGPy9duB/zPR7B4pyvu48EJyXL2+53q3GirBDmj+CvA93wf+zSZFfjd48iySsHo9CbMytoUswfh+FOPfM3fKurafbcvPPyrjpRz4q8E1NhPSaKge2SVfBQpr3Wn8Cfj9SgjxCoVWq/Vt1WM8GsIL6pqScYTkItrAqFDp9cn9uf7qLmhRSZAiBw2NLp8fJPgqwWAadNg3CGdifou79tcXHY3TOSezk0eXAicAUZRrfoZOZQZflC9rl1B/H+pMJTp+4E3WoMpeGmdZgDFroqHnbC2/feYkoc1Ouup0gulEcmUH38cdYFSw94lUOsm4qOnTC69WAkc21vByxVEZtsYC5XrRJAA=;gYUcXawgTFg1FWB5CHV/ag=="
+secured: "3JIBt4WcIJlbbZKCpboeDgkM9G906yF1z5qj3/g2tnLZDJlGT5Xf/aqFZHBbP3r+rtouaaH8RuMKO3YZWZLy67ya9aaEin7o4A2IOkbK4QEzgGFW7x+/iJx0OwE5VvLHFx6JlGcNgvqbmkU7x4e1//TmLsw+doGd21SqWEVOaSJn62y9h3WBmVy2M5e/vWvEJE21egENE7q6MeKMB+WhFHCkSoT6DXVRvKQ4TnDyp+p3EOTZZcLRK86Vi1hNDfSzp3Dy0s/L1hQIldfcxJr2c/Buv+Gfb8jp3q+7ZJDfW5q7ifSKgrQwDn5dYse7chqxihlfNx7FI7CN0+DP9/hFqoucclsBPHfFKZUD6U7DM73BfmQhYP7GhmkEqeS2u1ew6gH5EiUVrtM/YPiuGtqi+YIhfW7hjWPR+Au2GRvx+B6sCBuxdTJp47gXa4qL/KCqDzo7xNf0/Kw+j8isODMaVEmgQgN0VJv78pwew4lvudsV3/zzYP1kB4c462h8j5yKcqGE0zOQemGKa35hS4uolg==;ZIZE0gIdUCYNS7N8E2UfFQ=="
 ---
 

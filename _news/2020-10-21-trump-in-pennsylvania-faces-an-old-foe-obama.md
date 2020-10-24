@@ -190,6 +190,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "2020 Election Live Updates: Trump to Travel to 3 States as Biden Focuses on Pennsylvania"
+    excerpt: "President Trump and Joe Biden prepare for their closing arguments in the final stretch, taking them to some of the country’s top battlegrounds. An order allowing multiple drop boxes per county in Texas is upheld."
+    publishedDateTime: 2020-10-24T14:46:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/24/us/trump-biden-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 156
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/24/us/24election-briefing-biden-trump/24election-briefing-biden-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Can Trump Squeeze More From His White Base in Pennsylvania and Beyond?"
     excerpt: "With President Trump trailing Joseph R. Biden Jr. in Pennsylvania in nearly every poll, his last refuge and perhaps best hope is to maximize the turnout of working-class white voters."
     publishedDateTime: 2020-10-11T13:10:00Z

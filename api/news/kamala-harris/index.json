@@ -58,8 +58,8 @@
       "title": "Fact Check: Is Kamala Harris ‘more liberal than Bernie Sanders’?",
       "excerpt": "President Donald Trump said during Thursday’s debate that Kamala Harris is “more liberal than Bernie Sanders” and is eager to see government-run health care.",
       "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/politics-government/election/article246645198.html",
-      "originalUrl": "https://www.miamiherald.com/news/politics-government/election/article246645198.html",
+      "webUrl": "https://www.kansascity.com/news/politics-government/election/article246645198.html",
+      "originalUrl": "https://www.kansascity.com/news/politics-government/election/article246645198.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 75,
@@ -76,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/election/article246645198.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246645198.html",
-      "publishedDateTime": "2020-10-22T19:10:00-07:00",
+      "ampWebUrl": "https://amp.kansascity.com/news/politics-government/election/article246645198.html",
+      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/election/article246645198.html",
+      "publishedDateTime": "2020-10-22T18:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
+        "name": "Kansas City Star",
+        "domain": "kansascity.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -205,7 +205,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1823,
+      "heat": 1843,
       "tags": null,
       "images": [
         {
