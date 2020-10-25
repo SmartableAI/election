@@ -51,6 +51,22 @@ related:
         width: 1024
         height: 755
         isCached: true
+  - title: "Vice President Mike Pence, second lady Karen Pence to make separate stops in North Carolina next week"
+    excerpt: "In the homestretch leading up to Election Day, the Trump/Pence campaign announced both Vice President Mike Pence and second lady Karen Pence will make stops in battleground North Carolina next week."
+    publishedDateTime: 2020-10-25T01:35:00Z
+    webUrl: "https://abc11.com/politics/mike-karen-pence-to-make-separate-stops-in-north-carolina-next-week/7314278/"
+    ampWebUrl: "https://abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 60
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "5HyuAe0cuviEiM92PICB8xkN4lsnTV/eCgTFOxzbAvSv95kGjrqjwlM8bn8CI2sqi3jR46Wf45fgwaBEA5bbyGY1MWSeHpyfMnQbDyEZhzvfMm0jbxTRNSz5TBa2YneFBwmpgFCviqjbsPvWEn4sCdqn9e4+EpBQ6+s1AOEbysEjiF9OJss/Wg19KCyutldkwCg5pSFQ2YXxHJgkx+Vb00cQEat0e/Tn6Qo2BznWbDE2jsSMlXERhrhrc7FaWNXYCgm8k76y8jIPOE18skfNWtIcl/YqoI8AcQEqP0hvpFBAHF66KwRgp6kfNtETnD4hLxbfAJiJKsooQdQhZCtweu/6VSp74gpfcNRCJSrgop2DgOyEMlxAMtlJCnhK9wRsT/FNtkZTomd1M287Lu21qqhr+4mz9OLWx2Nsheni0dqM1ypHubobtk4MjFD1iODOqoE6JVr7uekEgQvRVKdccQQd9dLS6BcC20UULQjp6IOVJ7bunjMU9VnT4EOUNA6dvfTbWJCfi/r4W3n8Y0Kn3g==;nNicuMPAyi9NSk/A5ilKhg=="
 ---

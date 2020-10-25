@@ -123,6 +123,38 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence to vote in Indiana on Friday"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence will fly into Indianapolis Friday to vote before heading that evening to Washington, D.C."
+    publishedDateTime: 2020-10-06T17:22:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/06/vice-president-mike-pence-vote-indiana-friday/3637686001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3637686001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3637686001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence abruptly cancels Indiana trip"
+    excerpt: "Vice President Mike Pence on Thursday abruptly postponed a trip to Indiana on Friday in which he planned to join Second Lady Karen Pence in casting their ballots early."
+    publishedDateTime: 2020-10-09T04:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_Pence_57522.jpg-f34e6_c0-0-5230-3050_s1200x700.jpg?70a6d040525b95b75fe6c36479c516dde92ee6e5"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Vice President Mike Pence to be in Grand Rapids today"
     excerpt: "Vice President Mike Pence will travel to Grand Rapids on Wednesday, Oct. 14. Pence will deliver remarks on the \"historic accomplishments of the Trump administration.\" The event will take place at 12:30 p."
     publishedDateTime: 2020-10-14T08:21:00Z

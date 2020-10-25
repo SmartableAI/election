@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-gives-offering-while-attendin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-gives-offering-while-attending-church-services-in-las-vegas.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Trump campaign sues in Nevada to stop Vegas-area vote count"
+    excerpt: "The Trump campaign and Nevada Republicans asked a state judge on Friday to stop counting Las Vegas-area mail-in ballots as the president and his supporters continue to question the safety and validity of mail-in votes. "
+    publishedDateTime: 2020-10-25T01:42:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6tLfkrv4aL0/trump-campaign-sues-nevada-vote-count"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-sues-nevada-vote-count.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-sues-nevada-vote-count.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac958ce0-57ba-4d05-ac83-25240a9d313b/bfa77b11-e55a-4bb2-b168-68da17b20bff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "mE3iRNwO4oippICvl2g9bCjANmb1u1qAqqckz/u89ozyWi4UlAbASWUkICIjAIjtB79rh2WzeyVcXH//OVSc1bhRKtrp1Uu84JEnGF+8WxQTr7gEzg6YHUOeMiqblYdUTTnm2JyKODXr0G+TuzFsHWKBqQOmuJ3bIy2yrWjMcXmhnXnVrsuaBZgWsxjI98uhMJHcemOwW3Hw0w3WGBb8ddNEJFirknwbOij8CivhUGiOFV97vBN7wrBofGBaHKnTDOFsJQ21W7gqutiW0BcCfEg+3tLVgJ84AgZb5VFGO4N38jvjZXwh8BlqtL7ZRlOoeDC+cQ1C6T4W1OfkMB9cfqQqBr/1Hf6/wU7rgswp9nE=;CJDFEKIjD/8YnRLbvfjqYA=="
 ---

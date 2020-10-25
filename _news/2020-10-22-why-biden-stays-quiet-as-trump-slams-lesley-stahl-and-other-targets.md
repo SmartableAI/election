@@ -1126,6 +1126,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Netanyahu skirts Trump's attempted condemnation of Joe Biden"
+    excerpt: "In a phone conversation with Israeli Prime Minister Benjamin Netanyahu Friday, President Trump pivoted a discussion on the Israel-Sudan peace agreement to knock his Democratic opponent Joe Biden."
+    publishedDateTime: 2020-10-24T21:51:00Z
+    webUrl: "https://www.foxnews.com/politics/netanyahu-skirts-trumps-condemnation-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/netanyahu-skirts-trumps-condemnation-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/netanyahu-skirts-trumps-condemnation-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d324f611-449f-4cce-b9d9-0f7603f88888/e95f1d00-27d6-42ed-8614-2ddce9364233/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "David Bossie: Biden must answer these questions at presidential debate with Trump"
     excerpt: "Thursday night’s final debate between President Trump and former Vice President Joe Biden is certain to be a historic event."
     publishedDateTime: 2020-10-22T11:05:00Z
@@ -1269,6 +1285,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/10541711c.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 798
+        isCached: true
+  - title: "Joe Biden hides in his basement as corruption claims mount"
+    excerpt: "Apparently, malignant actors inside of Iran posing as members of a fringe group and attempting to intimidate voters here in the U.S. with violent threats, likely in an effort to help Joe Biden. We'll have a lot more coming up throughout the hour."
+    publishedDateTime: 2020-10-24T12:31:00Z
+    webUrl: "https://www.foxnews.com/transcript/joe-biden-hides-in-his-basement-as-corruption-claims-mount"
+    ampWebUrl: "https://www.foxnews.com/transcript/joe-biden-hides-in-his-basement-as-corruption-claims-mount.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/joe-biden-hides-in-his-basement-as-corruption-claims-mount.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab13a510-e846-4585-bd04-4a85898edcf5/984db21c-8bea-498b-94cb-3419adf8236f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump administration secures release of two American hostages from Yemen"
     excerpt: "President Donald Trump has secured the release of two American hostages held captive by Houthis in Yemen, Secretary of State Mike Pompeo said on Wednesday."

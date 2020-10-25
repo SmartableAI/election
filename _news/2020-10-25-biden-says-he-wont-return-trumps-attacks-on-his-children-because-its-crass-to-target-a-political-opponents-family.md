@@ -767,6 +767,22 @@ related:
         width: 862
         height: 545
         isCached: true
+  - title: "A day after US hits a new high for cases, the COVID-19 surge shadows Trump and Biden campaign events"
+    excerpt: "In the face of spiking numbers, Trump on Saturday continued to lean into the idea that the news media and his critics are obsessing about the virus, even as polls show widespread public concern."
+    publishedDateTime: 2020-10-25T01:36:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-biden-covid-presidential-election-20201025-qf6gf7bx7jd5xjnyktt3zfl2iy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-biden-covid-presidential-election-20201025-qf6gf7bx7jd5xjnyktt3zfl2iy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-biden-covid-presidential-election-20201025-qf6gf7bx7jd5xjnyktt3zfl2iy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bi8QwCE_mgjCftfvptJZAKCc0Gk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZUKSJ56WA2DTBPBYS4PYL6GFGE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Resurrects False Testing Claim As Daily Covid Cases Hit New High"
     excerpt: "The president complained the media gives the virus too much coverage and focuses too much on cases, though deaths and hospitalizations have risen as well."
     publishedDateTime: 2020-10-24T20:12:00Z
@@ -1724,6 +1740,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "JMUgMpO0iFqWprfwj2pNCPCFENbHcakeqYzG/PYve+tYi6ODK2VEyAOuuEyDlBZrsKQCHnp1v3JcqX8m8zI/xkCcWpBq1qRzACtjazJZ0gKh9x+0etJCvKq3c3n3PeeRlEppEOYkwTiydWDcIGKV3VJGOie88nBJ+ZqKMFeddavMumeBAPXieXzhqpbRNLnao4eImK282093ptxkF5oBhVwAnvgg5QdcFwT7LK/tXfkOzwMb+Aa9g8dv9v2oOCAZWQEJt0wNkDSWGSW1BViZqIHx+fNOi6u7iyFERKCqZ/ZHDAWqkNgA/wIP9PCBhHXHsb1etgeDG7f5zpueOtMd2oKizmBZmpU6FYvufZ5pV9Y=;dGo5unJuqV++rdJD3TsJGg=="
+secured: "zLfBLz48qRsOYDo/e5Nqz7Ejyd9FYdJHnW/OqBopVIqXMeC0RDRSeI9T5Pn+yCHc3mssVWg7kBNoWGkGXy0x8FJPj2rXodxm/wKZGLdSk/0JvtuegQ/ghEwWOUuguhRxJZN50T7cHk5mnTxoizPztu7xxB+x7Dse73oNbRk6cUyRkeMej7ioDeEbY1hvzIH38vzcaqW/b6wfqqGAbJGSHrZKw3Sh35sTHx0zVVOvG2crirGv0rj7+4I2waUwvysBjQsmvigPmq+xQdeQoJYltdwR7QFgp5W1TlyjtY5etIw1y58mE/wm7jbzsbEln0BLIA5jUCDQLNc2kZjmL8OeRhFH8jtHWa/3p6FeHVEeryTTeav9nEwXyoAcdYi/9gWNdYsGxi31ETIobxbt4qWmVYFrYnZtq26kfVYp+nwfwN6R4zDXN6psUmqgI8bW88iHJtEYUxogS+6I10jAeSBEet3qvXTQlRN3cM3ZVv/CwMEjZdLoMAmcZSc4r8QlHs1CS+8JA7w4xV/tE6MWHcl+jA==;QN0e1nT8oM1lj/n95PZNgg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/homenews/administration/522414-pence-votes-early
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/522414-pence-votes-early-in-indiana?amp"
 type: article
 quality: 125
-heat: 385
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -33,67 +33,19 @@ images:
 related:
   - title: "12 days out from Election Day, Mike Pence is holding a rally in deeply red Indiana. Why?"
     excerpt: "Vice President Mike Pence will collect some much-needed campaign dollars from his home state during a trip sandwiched between battleground states."
-    publishedDateTime: 2020-10-22T01:08:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3720360001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3720360001"
+    publishedDateTime: 2020-10-22T12:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3720360001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3720360001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 81
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/30b6b6a8-f313-416b-bda7-2d96d93cab19-AP_Election_2020_Pence.jpg?auto=webp&crop=3478,1956,x0,y177&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Vice President Mike Pence to vote in Indiana on Friday"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence will fly into Indianapolis Friday to vote before heading that evening to Washington, D.C."
-    publishedDateTime: 2020-10-06T17:22:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/10/06/vice-president-mike-pence-vote-indiana-friday/3637686001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3637686001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3637686001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mike Pence abruptly cancels Indiana trip"
-    excerpt: "Vice President Mike Pence on Thursday abruptly postponed a trip to Indiana on Friday in which he planned to join Second Lady Karen Pence in casting their ballots early."
-    publishedDateTime: 2020-10-09T04:38:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_Pence_57522.jpg-f34e6_c0-0-5230-3050_s1200x700.jpg?70a6d040525b95b75fe6c36479c516dde92ee6e5"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Mike Pence to return to Indy to vote early"
-    excerpt: "After canceling an earlier trip, Vice President Mike Pence will come back to Indianapolis to vote early. That's according to his communications director, Katie Mills. Mills released Pence's travel schedule this week on Twitter."
-    publishedDateTime: 2020-10-19T17:49:00Z
-    webUrl: "https://www.wthr.com/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7"
-    ampWebUrl: "https://www.wthr.com/amp/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7"
-    cdnAmpWebUrl: "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7"
-    type: article
-    provider:
-      name: WTHR
-      domain: wthr.com
-    quality: 75
-    images:
-      - url: "https://media.tegna-media.com/assets/WTHR/images/d211e1dc-bb5e-468d-9207-9ec5e8a88223/d211e1dc-bb5e-468d-9207-9ec5e8a88223_750x422.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "Vice President Mike Pence to vote Friday morning in Indianapolis"
     excerpt: "Vice President Mike Pence will vote in Indianapolis Friday morning. Pence had been scheduled to cast his ballot at the City-County Building Oct. 10 but abruptly canceled the trip without explanation."
@@ -127,38 +79,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Hoosiers react to VP Mike Pence’s visit to Indy"
-    excerpt: "Vice President Mike Pence is now one of more than 62,000 people in Marion County who have turned in their absentee ballot. The VP and Second Lady dropped theirs off in person at the"
-    publishedDateTime: 2020-10-23T21:18:00Z
-    webUrl: "https://fox59.com/news/politics/hoosiers-react-to-vp-mike-pences-visit-to-indy/"
-    ampWebUrl: "https://fox59.com/news/politics/hoosiers-react-to-vp-mike-pences-visit-to-indy/amp/"
-    cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/politics/hoosiers-react-to-vp-mike-pences-visit-to-indy/amp/"
-    type: article
-    provider:
-      name: FOX59 News
-      domain: fox59.com
-    quality: 75
-    images:
-      - url: "https://fox59.com/wp-content/uploads/sites/21/2020/10/IMG_2048.jpg?w=1280"
-        width: 1280
-        height: 749
-        isCached: true
-  - title: "Vice President Mike Pence delivers absentee ballot in Indy"
-    excerpt: "Vice President Mike Pence is now one of more than 62,000 people in Marion County who have turned in their absentee ballot. The VP and Second Lady dropped theirs off in person at the"
-    publishedDateTime: 2020-10-23T21:18:00Z
-    webUrl: "https://cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/"
-    ampWebUrl: "https://cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/amp/"
-    cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/amp/"
-    type: article
-    provider:
-      name: WTTV
-      domain: cbs4indy.com
-    quality: 75
-    images:
-      - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/10/IMG_2047.jpg?w=1280"
-        width: 1280
-        height: 851
-        isCached: true
   - title: "Pence to campaign in Fort Wayne on Thursday and vote in Indianapolis on Friday"
     excerpt: "Vice President Mike Pence has rescheduled his trip to vote in Indianapolis to Friday. He also will campaign in Fort Wayne on Thursday."
     publishedDateTime: 2020-10-19T17:01:00Z
@@ -175,17 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "WEB EXTRA: VP Mike Pence and Karen Pence Vote In 2020 Election"
-    excerpt: "Vice President Mike Pence and Second Lady Karen Pence voted in the 2020 general election in Indianapolis, IN on Friday. The Pences submitted their absentee ballots in person."
-    publishedDateTime: 2020-10-23T20:52:00Z
-    webUrl: "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/"
-    ampWebUrl: "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/"
-    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 70
   - title: "Vice PResident Pence, Second Lady Vote Early in Home State of Indiana"
     excerpt: "INDIANAPOLIS — Vice President Mike Pence and Second Lady Karen Pence have voted early in their home state of Indiana. Just eleven days before the election, Pence and his wife cast their absentee ballots Friday morning in a drop-off box at the Marion ..."
     publishedDateTime: 2020-10-23T13:49:00Z
@@ -200,6 +109,17 @@ related:
         width: 3000
         height: 2187
         isCached: true
+  - title: "Gunfire, racist threats reported against Indiana candidate challenging Pence’s brother"
+    excerpt: "AP An Indiana congressional candidate had just parked her car in downtown Muncie, where she was set to meet with other Democrats for a virtual call on Oct. 15. Then, there was what sounded like gunfire,"
+    publishedDateTime: 2020-10-20T18:27:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article246579118.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246579118.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246579118.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 47
   - title: "OPINION: Indiana’s first openly gay senator is right. A vote for Mike Pence is one for homophobia"
     excerpt: "From the Indiana Statehouse to the White House, Vice President Mike Pence has remained consistent in his blatant homophobia. Demonstrated by a career of anti-LGBTQ+ rhetoric and legislation disguised as a dedication to religious liberty,"
     publishedDateTime: 2020-10-20T23:38:00Z

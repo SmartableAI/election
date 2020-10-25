@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Nuns wearing MAGA masks spotted behind Trump at rally"
+    excerpt: "A group of Trump-loving nuns gained attention on social media Saturday after they were spotted wearing MAGA masks with their habits and cheering on the president behind him at his rally in Circleville, Ohio. "
+    publishedDateTime: 2020-10-25T00:14:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/trkm0wpN4xI/nuns-maga-masks-trump-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/181cfcca-2a48-4e5d-8d4b-11a506858939/daa0e4ed-79eb-48d3-a9fe-7476913978fa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Trump campaign announces the launch of new national Spanish-language ad \"Por Trump\""
     excerpt: ""
     publishedDateTime: 2020-10-21T00:46:41Z

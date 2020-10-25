@@ -144,7 +144,7 @@ related:
   - title: "3 Important Social Security Changes That Joe Biden Wants to Make"
     excerpt: "The Democratic presidential candidate has big plans for Social Security. Here are a few key points all voters should know about."
     publishedDateTime: 2020-10-24T11:36:00Z
-    webUrl: "https://tulsaworld.com/business/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
+    webUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
     ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
     cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
     type: article

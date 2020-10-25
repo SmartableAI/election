@@ -394,6 +394,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Kamala Harris hits back at Trump's 'female socialist' attack"
+    excerpt: "Democratic vice presidential nominee Kamala Harris scoffed at President Trump trying to reduce her to a \"female socialist.\""
+    publishedDateTime: 2020-10-24T23:15:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/kamala-harris-hits-back-at-trumps-female-socialist-attack"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/31ab4e6/2147483647/strip/true/crop/2285x1200+0+61/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F47%2Fed%2Faf030a624923b1c46b4c65b1acc7%2Fap20298578010141.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris: More Than Fair To Say Trump Has \"Exhibited A Reckless Disregard For Human Life\""
     excerpt: "Democratic nominee for vice president Sen. Kamala Harris at a virtual campaign event with Milwaukee voters on Tuesday: \"Frankly, I think that it is more than fair to say that Donald Trump has exhibited a reckless disregard for human life."
     publishedDateTime: 2020-10-20T00:00:00Z

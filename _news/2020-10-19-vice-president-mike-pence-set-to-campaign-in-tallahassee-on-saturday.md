@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-t
 cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday?_amp=true"
 type: article
 quality: 75
-heat: 375
+heat: 415
 published: true
 
 provider:
@@ -139,6 +139,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence delivers absentee ballot in Indy"
+    excerpt: "Vice President Mike Pence is now one of more than 62,000 people in Marion County who have turned in their absentee ballot. The VP and Second Lady dropped theirs off in person at the"
+    publishedDateTime: 2020-10-23T21:18:00Z
+    webUrl: "https://cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/"
+    ampWebUrl: "https://cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/amp/"
+    cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/amp/"
+    type: article
+    provider:
+      name: WTTV
+      domain: cbs4indy.com
+    quality: 75
+    images:
+      - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/10/IMG_2047.jpg?w=1280"
+        width: 1280
+        height: 851
+        isCached: true
   - title: "Vice President Mike Pence to rally in Kinston, NC on Sunday"
     excerpt: "Pence's schedule has him in Minnesota the next day. Doors open at 4 p.m. and close at 5:30 p.m. Campaign officials said both rallies will feature remarks from Vice President Mike Pence and Republican candidates. The news release said President Trump and ..."
     publishedDateTime: 2020-10-23T17:23:00Z
@@ -218,6 +234,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/23/PIND/0a675e5b-2fa8-4105-8a74-18979f3f614a-GH_10222020_035.jpg?auto=webp&crop=4630,2605,x0,y235&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VP Mike Pence to campaign in Greenville on Tuesday in rare pre-election SC rally"
+    excerpt: "Pence helped kick-off U.S. Sen. Lindsey Graham's reelection campaign a year and a half ago with rallies in Myrtle Beach and Greenville, and his return to the state could be"
+    publishedDateTime: 2020-10-25T01:00:00Z
+    webUrl: "https://www.postandcourier.com/politics/vp-mike-pence-to-campaign-in-greenville-on-tuesday-in-rare-pre-election-sc-rally/article_cebcf6ce-165b-11eb-a502-abfe9d3680e0.html"
+    type: article
+    provider:
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 65
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/da/fda94d6a-165c-11eb-bae7-7b6abc6ad9c9/5c9fafc8993dc.image.jpg?resize=840%2C630"
+        width: 840
+        height: 630
         isCached: true
   - title: "VP Mike Pence To Campaign In Lakeland, Tallahassee On Saturday"
     excerpt: "Vice President Mike Pence will campaign Saturday in Lakeland and Tallahassee, a day after President Donald Trump also rallies voters in the state."

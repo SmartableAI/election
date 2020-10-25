@@ -156,7 +156,7 @@ related:
   - title: "3 Important Social Security Changes That Joe Biden Wants to Make"
     excerpt: "The Democratic presidential candidate has big plans for Social Security. Here are a few key points all voters should know about."
     publishedDateTime: 2020-10-24T11:36:00Z
-    webUrl: "https://tulsaworld.com/business/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
+    webUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
     ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
     cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
     type: article
@@ -304,6 +304,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "jIWVgGT7t3HNMJObM6Cl/tn3D4eXnJFH55omeeKPfVm8OCDSw0XBeAHGk7xX5EZ8n41HjSLPldFQP55Q3jYCHFK+Qq8Vv5BCqYFY/mXuIq8RtDuLbqfP9Jj0cO3kS3OiwzYsyAhPQpVnmUKro5+N/mWoVi7tORZ7lgscqZvCemBT9ckGyTnqlOgUeXuo9QiZOmU6YhWOwyL7Blk1Jyz6XWW7whDp/0jIYx50+ycVX5Eb13tnix5qzXNrbX3W89Z73oPzYWuk2wAVD6eClXllRAY3lXP/ciNQJQbzAXV6314YCMcU76IJ+TB5aA+px5bBWnJ8hhGoobWjj5Pd4xjanvrxqfs0YZM/iSKk6lQleTM=;0C55h3HnJGkPiboBauwJqQ=="
+secured: "pyai8PkWVGGLntx4XsFdMHISD2SGFIxIgp4wx8cX8UUmTa/eUv1fHOHbCYQxYDOERRr73GWHUB0J9U4peadGAYrwVT8kI6riNE4QA2H4lvj/52aRdaGBtsZFaHW5r0O9cBe3wcSxYrCYaMlUZoTlUYCEqsI0F615gXez5E4seEE845mJ0PDGSiQ9UGURBvY3Lcx2xeCQLizf/OMFrIfj3Vo2lrI620gAHTFar7tHUQUQdqw+PT0qvliOVRKh8k7HOHDKIt1yxXcPBv0EHHpsgslb5PfQUi+Ptxva76Eq1RUmSek7bO2w4Si8E/n67lKqJDYn+Lv6oHagrttOiKZ9UgsUlLreIQYVtHwZR6olqGvaoRtxkpan8VrAnpJH0Zu+hzU6bpc2YlBEy0ftgxm759D+FLhRfHuD/rU49HzXQKtfyXkLzbtHmqf2IC53otXrBMCx+lP0RQPhA5hLIp2S+rtXQIWpJw3/qmZFZJWWE3ilDn5Hy8T3T8EpkH1O/I8jksmQSl9WUMN+85sdi+G7Bw==;gXJGDCuaM/81NjC/0aLnCw=="
 ---
 

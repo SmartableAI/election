@@ -27,198 +27,262 @@ images:
     isCached: true
 
 related:
-  - title: "Pence votes early in Indiana"
-    excerpt: "Vice President Mike Pence voted early in his home state of Indiana on Friday, 11 days before Election Day. Pence and his wife, second lady Karen Pence, cast their absentee ballots in a drop-off ballot box at the Indianapolis City-County Building Friday morning."
-    publishedDateTime: 2020-10-23T13:58:00Z
-    webUrl: "https://thehill.com/homenews/administration/522414-pence-votes-early-in-indiana"
-    ampWebUrl: "https://thehill.com/homenews/administration/522414-pence-votes-early-in-indiana?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/522414-pence-votes-early-in-indiana?amp"
+  - title: "Vice President Mike Pence set to campaign in Tallahassee on Saturday"
+    excerpt: "Vice President Mike Pence is planning a visit to Tallahassee on Saturday, October 24, according to ABC News. Details have not been released about where or when the rally will be held. ABC 27 is reaching out to his staff to confirm that information."
+    publishedDateTime: 2020-10-19T12:25:00Z
+    webUrl: "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday"
+    ampWebUrl: "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday?_amp=true"
+    cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday?_amp=true"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: WTXL ABC 27
+      domain: wtxl.com
+    quality: 75
     images:
-      - url: "https://thehill.com/sites/default/files/pencemike_07162020getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/cefd137/2147483647/strip/true/crop/640x360+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.wtxl.com%2Fwtxl.com%2Fcontent%2Ftncms%2Fassets%2Fv3%2Feditorial%2F9%2Fdf%2F9df0773c-f77e-11e6-b55d-b36633fdcd92%2F58ab06e07883c.image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "12 days out from Election Day, Mike Pence is holding a rally in deeply red Indiana. Why?"
-    excerpt: "Vice President Mike Pence will collect some much-needed campaign dollars from his home state during a trip sandwiched between battleground states."
-    publishedDateTime: 2020-10-22T01:08:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3720360001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3720360001"
+  - title: "Vice President Mike Pence to hold rally Monday in York County"
+    excerpt: "Vice President Mike Pence will be in Fairview Township on Monday, holding a rally at the Capital City Airport in Fairview Township, according to President Donald Trump's website. The \"Make America Great Again!"
+    publishedDateTime: 2020-10-18T19:31:00Z
+    webUrl: "https://www.ydr.com/story/news/crime/2020/10/18/vice-president-mike-pence-hold-rally-monday-york-county/3703933001/"
+    ampWebUrl: "https://amp.ydr.com/amp/3703933001"
+    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3703933001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 81
+      name: YDR
+      domain: ydr.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/30b6b6a8-f313-416b-bda7-2d96d93cab19-AP_Election_2020_Pence.jpg?auto=webp&crop=3478,1956,x0,y177&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPYR/c302c7aa-57ec-4889-8356-201f2b62b871-PMK_8808.JPG?auto=webp&crop=4927,2772,x0,y495&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence to vote in Indiana on Friday"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence will fly into Indianapolis Friday to vote before heading that evening to Washington, D.C."
-    publishedDateTime: 2020-10-06T17:22:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/10/06/vice-president-mike-pence-vote-indiana-friday/3637686001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3637686001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3637686001"
+  - title: "Vice President Pence to visit Portsmouth this week"
+    excerpt: "Vice President Mike Pence is scheduled to return to New Hampshire for a campaign event. Sources said Pence will be in Portsmouth for the event, but exact details of the visit have not been released. President Donald Trump’s son Eric Trump is scheduled be in Manchester on Monday for an event at the DoubleTree Hotel."
+    publishedDateTime: 2020-10-19T03:08:00Z
+    webUrl: "https://www.wmur.com/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
+    ampWebUrl: "https://www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: WMUR9
+      domain: wmur.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-in-laconia-922-1600804976.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
         isCached: true
-  - title: "Mike Pence abruptly cancels Indiana trip"
-    excerpt: "Vice President Mike Pence on Thursday abruptly postponed a trip to Indiana on Friday in which he planned to join Second Lady Karen Pence in casting their ballots early."
-    publishedDateTime: 2020-10-09T04:38:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
+  - title: "Vice President Mike Pence scheduled to visit Jacksonville on Saturday"
+    excerpt: "Jacksonville FL — Vice President Mike Pence is scheduled to make a campaign stop in Jacksonville on Saturday. Pence’s communications director Katie Miller tweeted that Pence would also be visiting Tallahassee on Saturday as well. Details about Pence ..."
+    publishedDateTime: 2020-10-19T22:58:00Z
+    webUrl: "https://www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/"
+    ampWebUrl: "https://www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/?outputType=amp"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
+      name: WOKV
+      domain: wokv.com
     quality: 75
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_Pence_57522.jpg-f34e6_c0-0-5230-3050_s1200x700.jpg?70a6d040525b95b75fe6c36479c516dde92ee6e5"
-        width: 1200
-        height: 700
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/23PKWX22FQ5XKKKYT7SOUCDWB4.jpg"
+        width: 3686
+        height: 2658
         isCached: true
-  - title: "Mike Pence to return to Indy to vote early"
-    excerpt: "After canceling an earlier trip, Vice President Mike Pence will come back to Indianapolis to vote early. That's according to his communications director, Katie Mills. Mills released Pence's travel schedule this week on Twitter."
-    publishedDateTime: 2020-10-19T17:49:00Z
-    webUrl: "https://www.wthr.com/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7"
-    ampWebUrl: "https://www.wthr.com/amp/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7"
-    cdnAmpWebUrl: "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7"
+  - title: "Vice President Mike Pence scheduled to visit Tallahassee on Saturday"
+    excerpt: "Pence 2020 campaign stop in Tallahassee this Saturday.  Katie Miller, Pence's communications director, on Monday tweeted Pence's schedule for the week, showing stops in Tallahassee and Jacksonville but offering no details."
+    publishedDateTime: 2020-10-20T00:27:00Z
+    webUrl: "https://www.tallahassee.com/story/news/2020/10/19/report-vice-president-mike-pence-visit-tallahassee-saturday/3709719001/"
+    ampWebUrl: "https://amp.tallahassee.com/amp/3709719001"
+    cdnAmpWebUrl: "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3709719001"
     type: article
     provider:
-      name: WTHR
-      domain: wthr.com
+      name: Tallahassee Democrat
+      domain: tallahassee.com
     quality: 75
     images:
-      - url: "https://media.tegna-media.com/assets/WTHR/images/d211e1dc-bb5e-468d-9207-9ec5e8a88223/d211e1dc-bb5e-468d-9207-9ec5e8a88223_750x422.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/9e77f718-2a68-4075-94d5-e7360a7f5a9b-VicePresidentPence_Peoria_Oct8_4.JPG?auto=webp&crop=2999,1687,x0,y100&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Mike Pence set to visit Jacksonville, Florida, on Saturday"
+    excerpt: "Vice President Mike Pence will be coming to Jacksonville and Tallahassee this Saturday, according to a tweet from his communications director."
+    publishedDateTime: 2020-10-20T20:42:00Z
+    webUrl: "https://www.jacksonville.com/story/news/politics/elections/presidential/2020/10/20/vp-mike-pence-set-visit-jacksonville-florida-saturday/5996634002/"
+    ampWebUrl: "https://amp.jacksonville.com/amp/5996634002"
+    cdnAmpWebUrl: "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/5996634002"
+    type: article
+    provider:
+      name: The Florida Times-Union
+      domain: jacksonville.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/3658fd42755583d64b04f69690f6d4a6f28401aa/c=0-270-5184-3186/local/-/media/2020/09/09/JacksonvilleFL/ghows_gallery-LK-622009997-f7614850.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence will hold rally Saturday in Lakeland"
+    excerpt: "The rally will be the first official campaign event in Polk County for either of the major parties during the 2020 election."
+    publishedDateTime: 2020-10-22T19:43:00Z
+    webUrl: "https://www.theledger.com/story/news/politics/2020/10/22/vice-president-mike-pence-hold-rally-saturday-lakeland-linder-international-airport/3726543001/"
+    ampWebUrl: "https://amp.theledger.com/amp/3726543001"
+    cdnAmpWebUrl: "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/3726543001"
+    type: article
+    provider:
+      name: The Ledger
+      domain: theledger.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NLED/a08dfe20-2642-4ea0-bbb3-324a0a1f78a2-AP20289725478868.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Mike Pence to hold 'MAGA' rally Saturday in Lakeland"
+    excerpt: "Vice President Mike Pence will hold a \"Make America Great Again\" rally Saturday in Lakeland. The event will be held at 3:30 p.m. at Lakeland Linder International Airport. It will be followed by a second Florida rally at 6:30 p."
+    publishedDateTime: 2020-10-22T17:26:00Z
+    webUrl: "https://www.wtsp.com/article/news/politics/national-politics/mike-pence-maga-rally/67-e83ba1bf-932d-498c-a06e-b822de09e611"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/national-politics/mike-pence-maga-rally/67-e83ba1bf-932d-498c-a06e-b822de09e611"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/national-politics/mike-pence-maga-rally/67-e83ba1bf-932d-498c-a06e-b822de09e611"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 75
+    images:
+      - url: "https://media.wtsp.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
         width: 750
         height: 422
         isCached: true
-  - title: "Vice President Mike Pence to vote Friday morning in Indianapolis"
-    excerpt: "Vice President Mike Pence will vote in Indianapolis Friday morning. Pence had been scheduled to cast his ballot at the City-County Building Oct. 10 but abruptly canceled the trip without explanation."
-    publishedDateTime: 2020-10-23T10:15:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/10/23/vice-president-mike-pence-vote-friday-morning-indianapolis/3728765001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3728765001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3728765001"
+  - title: "Vice President Mike Pence to rally in Kinston, NC on Sunday"
+    excerpt: "Pence's schedule has him in Minnesota the next day. Doors open at 4 p.m. and close at 5:30 p.m. Campaign officials said both rallies will feature remarks from Vice President Mike Pence and Republican candidates. The news release said President Trump and ..."
+    publishedDateTime: 2020-10-23T17:23:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: WFMY News2
+      domain: wfmynews2.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PIND/fb21da3d-bf78-41a9-a554-80a704625016-102220-Mike_Pence_in_Fort_Wayne_Ind-cb-74.JPG?auto=webp&crop=2597,1461,x0,y132&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Pence in Indy to vote"
-    excerpt: "Some 13News viewers asked about Pence's eligibility to vote in Indiana, given his residency in Washington. Since Pence is temporarily living in government-provided housing, his re"
-    publishedDateTime: 2020-10-23T11:47:00Z
-    webUrl: "https://www.wthr.com/article/news/politics/vice-president-pence-in-indianapolis-to-vote/531-3cc8203c-525c-4660-b0a9-b9e6e0f0d95f"
-    ampWebUrl: "https://www.wthr.com/amp/article/news/politics/vice-president-pence-in-indianapolis-to-vote/531-3cc8203c-525c-4660-b0a9-b9e6e0f0d95f"
-    cdnAmpWebUrl: "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/vice-president-pence-in-indianapolis-to-vote/531-3cc8203c-525c-4660-b0a9-b9e6e0f0d95f"
-    type: article
-    provider:
-      name: WTHR
-      domain: wthr.com
-    quality: 75
-    images:
-      - url: "https://media.tegna-media.com/assets/WTHR/images/d32e7964-2e7a-4fae-b5e8-5289cc0b8420/d32e7964-2e7a-4fae-b5e8-5289cc0b8420_1140x641.jpg"
+      - url: "https://media.wfmynews2.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
-  - title: "Hoosiers react to VP Mike Pence’s visit to Indy"
-    excerpt: "Vice President Mike Pence is now one of more than 62,000 people in Marion County who have turned in their absentee ballot. The VP and Second Lady dropped theirs off in person at the"
-    publishedDateTime: 2020-10-23T21:18:00Z
-    webUrl: "https://fox59.com/news/politics/hoosiers-react-to-vp-mike-pences-visit-to-indy/"
-    ampWebUrl: "https://fox59.com/news/politics/hoosiers-react-to-vp-mike-pences-visit-to-indy/amp/"
-    cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/politics/hoosiers-react-to-vp-mike-pences-visit-to-indy/amp/"
+  - title: "LIVE COVERAGE: Vice President Mike Pence’s visit to Tallahassee"
+    excerpt: "Pence 2020 campaign stop in Florida's capital city on Saturday.  We'll also provide early reaction to Pence's visit. A Democratic press conference is planned for 2 p.m. ET, also in Tallahassee.  Biden-Harris campaign blasts Pence on pandemic response before Tallahassee arrival Prior to Vice President Mike Pence's scheduled arrival at the Tallahassee International Airport on Saturday evening,"
+    publishedDateTime: 2020-10-24T17:25:00Z
+    webUrl: "https://www.tallahassee.com/story/news/2020/10/24/live-coverage-vice-president-mike-pences-visit-tallahassee/3725860001/"
+    ampWebUrl: "https://amp.tallahassee.com/amp/3725860001"
+    cdnAmpWebUrl: "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3725860001"
     type: article
     provider:
-      name: FOX59 News
-      domain: fox59.com
+      name: Tallahassee Democrat
+      domain: tallahassee.com
     quality: 75
     images:
-      - url: "https://fox59.com/wp-content/uploads/sites/21/2020/10/IMG_2048.jpg?w=1280"
-        width: 1280
-        height: 749
-        isCached: true
-  - title: "Pence to campaign in Fort Wayne on Thursday and vote in Indianapolis on Friday"
-    excerpt: "Vice President Mike Pence has rescheduled his trip to vote in Indianapolis to Friday. He also will campaign in Fort Wayne on Thursday."
-    publishedDateTime: 2020-10-19T17:01:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/10/19/mike-pence-campaign-fort-wayne-thursday-vote-indy-friday/3712193001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3712193001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3712193001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 71
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/10/NPPP/be490532-434e-41dc-979a-f9a6c0c1a5b0-Election_2020_Florida.jpg?auto=webp&crop=3497,1968,x0,y307&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "WEB EXTRA: VP Mike Pence and Karen Pence Vote In 2020 Election"
-    excerpt: "Vice President Mike Pence and Second Lady Karen Pence voted in the 2020 general election in Indianapolis, IN on Friday. The Pences submitted their absentee ballots in person."
-    publishedDateTime: 2020-10-23T20:52:00Z
-    webUrl: "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/"
-    ampWebUrl: "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/"
-    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/"
+  - title: "VP Mike Pence in Pa. Saturday: Here's what to know about tickets, schedule"
+    excerpt: "Vice President Mike Pence is once again making his way to central Pennsylvania, but this time the campaign trail is taking him to Berks County. Pence, who was last in Pennsylvania"
+    publishedDateTime: 2020-10-16T02:52:00Z
+    webUrl: "https://www.ydr.com/story/news/2020/10/15/vp-mike-pence-pa-saturday-tickets-schedule/3673423001/"
+    ampWebUrl: "https://amp.ydr.com/amp/3673423001"
+    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3673423001"
+    type: article
+    provider:
+      name: YDR
+      domain: ydr.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/PPYR/0ea78851-6e13-4da1-8218-e394036a551b-PABEA-090920-PenceVisit07.jpg?auto=webp&crop=2399,1350,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Details of Vice President Mike Pence visit to Tallahassee still up in the air"
+    excerpt: "Mike Pence will fly to Tallahassee Saturday after promoting early voting in Pennsylvania. But no one yet can say exactly where and when he'll be in town."
+    publishedDateTime: 2020-10-22T16:12:00Z
+    webUrl: "https://www.tallahassee.com/story/news/politics/2020/10/22/mike-pence-tallahassee-vice-president-donald-trump-florida/3727672001/"
+    ampWebUrl: "https://amp.tallahassee.com/amp/3727672001"
+    cdnAmpWebUrl: "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3727672001"
+    type: article
+    provider:
+      name: Tallahassee Democrat
+      domain: tallahassee.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NLED/a08dfe20-2642-4ea0-bbb3-324a0a1f78a2-AP20289725478868.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Democrats plan political counterattack on day of Mike Pence visit in Tallahassee"
+    excerpt: "Local Democrats and Democratic organizations are planning for political counterattacks as Republican Vice President Mike Pence plans to visit Tallahassee International Airport Saturday evening. The Florida Coordinated Campaign,"
+    publishedDateTime: 2020-10-24T00:06:00Z
+    webUrl: "https://www.tallahassee.com/story/news/2020/10/24/mike-pence-tallahassee-visit-democrats/3741607001/"
+    ampWebUrl: "https://amp.tallahassee.com/amp/3741607001"
+    cdnAmpWebUrl: "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3741607001"
+    type: article
+    provider:
+      name: Tallahassee Democrat
+      domain: tallahassee.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/PIND/0a675e5b-2fa8-4105-8a74-18979f3f614a-GH_10222020_035.jpg?auto=webp&crop=4630,2605,x0,y235&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Mike Pence to campaign in Greenville on Tuesday in rare pre-election SC rally"
+    excerpt: "Pence helped kick-off U.S. Sen. Lindsey Graham's reelection campaign a year and a half ago with rallies in Myrtle Beach and Greenville, and his return to the state could be"
+    publishedDateTime: 2020-10-25T01:00:00Z
+    webUrl: "https://www.postandcourier.com/politics/vp-mike-pence-to-campaign-in-greenville-on-tuesday-in-rare-pre-election-sc-rally/article_cebcf6ce-165b-11eb-a502-abfe9d3680e0.html"
+    type: article
+    provider:
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 65
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/da/fda94d6a-165c-11eb-bae7-7b6abc6ad9c9/5c9fafc8993dc.image.jpg?resize=840%2C630"
+        width: 840
+        height: 630
+        isCached: true
+  - title: "VP Mike Pence To Campaign In Lakeland, Tallahassee On Saturday"
+    excerpt: "Vice President Mike Pence will campaign Saturday in Lakeland and Tallahassee, a day after President Donald Trump also rallies voters in the state."
+    publishedDateTime: 2020-10-22T23:52:00Z
+    webUrl: "https://miami.cbslocal.com/2020/10/22/mike-pence-campaign-lakeland-tallahassee-saturday/"
+    ampWebUrl: "https://miami.cbslocal.com/2020/10/22/mike-pence-campaign-lakeland-tallahassee-saturday/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/2020/10/22/mike-pence-campaign-lakeland-tallahassee-saturday/amp/"
     type: article
     provider:
       name: CBS Local
       domain: cbslocal.com
-    quality: 70
-  - title: "Vice PResident Pence, Second Lady Vote Early in Home State of Indiana"
-    excerpt: "INDIANAPOLIS — Vice President Mike Pence and Second Lady Karen Pence have voted early in their home state of Indiana. Just eleven days before the election, Pence and his wife cast their absentee ballots Friday morning in a drop-off box at the Marion ..."
-    publishedDateTime: 2020-10-23T13:49:00Z
-    webUrl: "https://www.wibc.com/news/local-indiana/vice-president-pence-second-lady-vote-early-in-home-state-of-indiana/"
+    quality: 55
+  - title: "VP Mike Pence Making Campaign Stop Saturday in Lakeland"
+    excerpt: "Vice President Mike Pence will be in Lakeland Saturday afternoon for a \"Make America Great Again\" rally. The Vice President is scheduled to appear at the Lakeland International Airport at 3:30 p.m. The doors will open for general admission seating at 1:30 p."
+    publishedDateTime: 2020-10-24T11:03:00Z
+    webUrl: "https://www.baynews9.com/fl/tampa/news/2020/10/24/vp-mike-pence-making-campaign-stop-saturday-in-lakeland-"
     type: article
     provider:
-      name: WIBC
-      domain: wibc.com
+      name: Bay News 9
+      domain: baynews9.com
     quality: 55
     images:
-      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2020/02/20231947/mike_pence_-_getty_-_paul_morigi.jpg"
-        width: 3000
-        height: 2187
+      - url: "https://s7d2.scene7.com/is/image/TWCNews/1009_n13_pence_arizona_rally_ap"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "OPINION: Indiana’s first openly gay senator is right. A vote for Mike Pence is one for homophobia"
-    excerpt: "From the Indiana Statehouse to the White House, Vice President Mike Pence has remained consistent in his blatant homophobia. Demonstrated by a career of anti-LGBTQ+ rhetoric and legislation disguised as a dedication to religious liberty,"
-    publishedDateTime: 2020-10-20T23:38:00Z
-    webUrl: "https://www.idsnews.com/article/2020/10/opinion-indianas-first-openly-gay-senator-is-right-a-vote-for-mike-pence-is-one-for-homophobia"
+  - title: "Vice President Mike Pence rallies base during MAGA rally in Fort Wayne"
+    excerpt: "The Hoosier state is a stronghold for Republicans, which experts say, raises the question of why the vice president is campaigning here in the critical two weeks prior to the election. Political science associate professor Doctor Laura Wilson told us this is about supporting other Republicans on the ballot and getting as many Hoosiers to the polls as possible."
+    publishedDateTime: 2020-10-23T22:43:00Z
+    webUrl: "https://fox59.com/video/vice-president-mike-pence-rallies-bese-during-maga-rally-in-fort-wayne/5962269/"
     type: article
     provider:
-      name: Indiana Daily Student
-      domain: idsnews.com
-    quality: 42
-    images:
-      - url: "https://snworksceo.imgix.net/ids/c58c60e5-a6af-4eb6-86f6-47848e037424.sized-1000x1000.jpeg?w=800&h=600"
-        width: 800
-        height: 510
-        isCached: true
-  - title: "Briggs: Mike Pence's surprise rally could be Indiana's MAGA farewell tour"
-    excerpt: "But Indiana might have just hosted its farewell stop on the Make America Great Again tour. Indiana has been the land of MAGA for so long that it’s hard to remember what it was like before the nation’s attention descended on the Conrad Hotel in downtown Indianapolis,"
-    publishedDateTime: 2020-10-22T23:21:00Z
-    webUrl: "https://www.indystar.com/story/opinion/columnists/james-briggs/2020/10/22/mike-pences-fort-wayne-rally-could-indianas-maga-farewell-tour/3730331001/"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 34
+      name: FOX59 News
+      domain: fox59.com
+    quality: 35
 
 secured: "6zFRkhmIrH0epMju1evAb611WMsxvKEAQDfjALpsxPNnfOeu60rwCPorWsL8d/Y9mzZc4RNz6EFz3lxi1vO2Cb/KC6+U41lQT+c2w1OrJUl5M0Z//858hQrNGb4Pjk64XbFZpOAf1SKwLPjqmDqPp8EAdrghPDokKTTA/r2YcKrwUP4DsJBw0i5e4WOeZ0JXxEPk+XZw2M33w6oVo1x/bz9dNlkJEfZBup5UfVX2r4ynAA5kb+XEOsyFVxRTwFLtuQseZgasFZCxNNfe9hBfZiv2vTPFWDitJ300wFCdAne9NeykiiRvThtC3VbgKD45Qd4Lm6EmBkb7UPCJ1JAIVNkbcJkAVbC7zZguRFaj4lg=;zphiJjZ14l4TJEdsdCvEYQ=="
 ---
