@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-to-stump-for-biden-less-than-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp"
 type: article
 quality: 190
-heat: 1730
+heat: 1750
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Former ICE director blasts Biden for Obama administration’s immigration policy"
+    excerpt: "Former ICE Director Tom Homan on Saturday blasted 2020 Democratic presidential candidate Joe Biden for attacking the Trump administration about their apparent family separation policy."
+    publishedDateTime: 2020-10-25T02:24:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BSnLAExWIMk/former-ice-director-trump-biden-obama-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/former-ice-director-trump-biden-obama-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-ice-director-trump-biden-obama-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

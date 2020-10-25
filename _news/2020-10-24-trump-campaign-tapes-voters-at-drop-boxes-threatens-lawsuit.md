@@ -1313,6 +1313,34 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "How the conservative movement and the rise of the hard right created Donald Trump"
+    excerpt: "Author Edmund Fawcett on how the \"hard right\" — and the conflict within conservatism — led to the Trump calamity"
+    publishedDateTime: 2020-10-25T02:24:00Z
+    webUrl: "https://www.salon.com/2020/10/24/how-the-conservative-movement-and-the-rise-of-the-hard-right-created-you-know-who/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 50
+    images:
+      - url: "https://media.salon.com/2020/10/trump-reagan-thatcher-1023201.jpg"
+        width: 1692
+        height: 1142
+        isCached: true
+  - title: "International students in Minnesota feel anxiety as Trump administration proposes shortening visas"
+    excerpt: "For the second time in three months, international college students in Minnesota and across the country fear for their academic future as the Trump administration mulls visa changes that would shorten the duration of their studies."
+    publishedDateTime: 2020-10-24T23:26:00Z
+    webUrl: "https://www.startribune.com/international-students-in-minnesota-feel-anxiety-as-trump-administration-proposes-shortening-visas/572857741/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 41
+    images:
+      - url: "https://stmedia.stimg.co/ows_ac98e655-8a54-452b-b069-8c70d2b3d917.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
     excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
     publishedDateTime: 2020-10-15T18:30:00Z

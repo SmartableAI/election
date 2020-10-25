@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/marty-obst-mike-pence-co
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/marty-obst-mike-pence-coronavirus/index.html"
 type: article
 quality: 185
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,24 @@ images:
     height: 619
     isCached: true
 
-secured: "E/VDj7/DKDGLIFCUBgGA+QnYAj9mdEFKI/xI0rBrTSvFilq5jivbX/Iaijc+tj6nwaw0VljtLp7VnvpEG4YqwWBvufc4jPVVR1cEi6Tq/ekA8aHcW1V7SVvSNBxbnGuxw8f4nLkvo5yQfjpy6myTWi87S1fHuYRoSYV817F2N7WLSev1CWBRJsjTkDXRU8pfX3MDyVdWh7Fd/6vZPLM1hQXcVU/2YIyroD092Od3HgQWQj026mZTij6Y7+wlzxT66Og25y7XbTBRZ6CjnYNKrY/mQyvaAn1C3KD+JsORqPYseFZq8S42HixSXMlEynWBbF5vRf6qGUaiALQOC+E17o4t+oMhflQJNkJtbSuASDs=;y6OloDMDWF3SgEJGrl8cnA=="
+related:
+  - title: "Pence chief of staff Marc Short tests positive for coronavirus"
+    excerpt: "Marc Short, chief of staff to Vice President Mike Pence, has been diagnosed with Covid-19, the Vice President's office announced in a statement, marking the second top Pence aide to test positive this week.\n    \n"
+    publishedDateTime: 2020-10-25T03:20:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HbbIBrU8hlE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/mac-short-coronavirus-positive-test/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/mac-short-coronavirus-positive-test/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190327184249-marc-short-tsr-03272019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "1WDvaFMlPqh2QHOKL4ncoEBFIH+9K6mz6+L76RSctE3TbA0uHAS/oQBjKxCRz7CtO4y+q98j4yehz3wadoPdT9+sOJ0p2mjUkDcdZr1BCG2CmvYFlqK4D/oanSF5HMTZC8kMp2Xvamj7ucQdSauCtuuz0Yw/ukmz/qFiYnjEu0+2jD2Rnds+aGNoROL/E8pYURt5EqMFgL/vZyne4j/sG+pq467vjiJkzfCL+nJvcdoKNdcU8lqghNEday3oxXKdqyVT7wDgq/cFUyis9CmGWdkkneMWWvcdhuJ+2GPzZ52025zeKMOGkxhY4bkTBGut+/4qAJG6NkUnQOZP6I/x9FyRGwFmTN+SlTCtgR6sUNQ=;B8+sQo7VxcfVySyNNRjcsg=="
 ---
 

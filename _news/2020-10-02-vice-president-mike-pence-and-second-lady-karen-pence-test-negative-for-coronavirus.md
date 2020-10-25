@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence’s top aide tests positive for coronavirus"
+    excerpt: "A spokesman says Vice President Mike Pence will continue with his aggressive campaign schedule after his chief of staff, Marc Short, tested positive for the coronavirus Saturday. Pence spokesman Devin O’Malley says Pence and his wife, Karen Pence ..."
+    publishedDateTime: 2020-10-25T03:44:00Z
+    webUrl: "https://www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
+    ampWebUrl: "https://www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KTIDZGVA4VEXFPEH37ETNHERVA.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
 
 secured: "tiUAK++2lxHwQIn/mqXldbPnmL27Jmowt1DYKtUmuXGK3GPGoRUC8JOfShcVsFXsnS6mlP2Uinh8tfVnYPm88yct5ei6dY1zuCwBkOXiTLUls1kFB1zZ5cVUmbOcATnn4sPyJKt8hh04eFCwdbVdZiiIoNauaSkERbIo1ieMxELw3A4DnGkZCXDEoH9V1KRo26kkTfzfU5q1q38GUYgK+pMnvjrR2CieaMo4hi0gxbbv8MI8KE81aoN/nERGEQ7jOq7KOG3gKRf9DKHuzTFuINfx87PNBG3RJJwoNfCLW+0LE0PYCIPctnvmZkxygglhUuKYOFqtxn0qNxVCG9MQ6IKPfs5QZUsnuY0JHkO0wKILT8JmLBF9UG2J2MxLu79gh2UL55uCKhAn73MdjCzqCCn7jnFOt89N+b0tiYC4o3/bCUC69dbbpqc0asBofD/ToRRVEQ4yTYDrqvWUTX2GTuGsBtK05Wg6tod5lfkI8CbzvFrpfj9NjZDv7pq+Wq7uspQR/+m5XsmdlMLZPccZwg==;uO65fRoI4o5YJv39aWPcAg=="
 ---

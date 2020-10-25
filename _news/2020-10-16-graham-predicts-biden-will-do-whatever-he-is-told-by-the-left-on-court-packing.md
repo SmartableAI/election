@@ -383,6 +383,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Former ICE director blasts Biden for Obama administration’s immigration policy"
+    excerpt: "Former ICE Director Tom Homan on Saturday blasted 2020 Democratic presidential candidate Joe Biden for attacking the Trump administration about their apparent family separation policy."
+    publishedDateTime: 2020-10-25T02:24:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BSnLAExWIMk/former-ice-director-trump-biden-obama-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/former-ice-director-trump-biden-obama-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-ice-director-trump-biden-obama-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rep. Jim Jordan calls for special counsel investigation into Hunter Biden emails"
     excerpt: "Republican Rep. Jim Jordan, R-Ohio, echoed President Trump's call for Attorney General William Barr to tap a special counsel to investigate alleged revelations coming Hunter Biden's laptop in the wake of last week's New York Post bombshell report. "
     publishedDateTime: 2020-10-21T02:07:59Z

@@ -1493,6 +1493,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden Receives More Than Twice As Much Money From Billionaires As Trump In Final Push"
+    excerpt: "Joe Biden picked up contributions from new donors like Yahoo cofounder Jerry Yang and Palantir chief Alex Karp. Meanwhile, old pals of Donald Trump, like Phil Ruffin and Andy Beal, sent his reelection committees big checks."
+    publishedDateTime: 2020-10-25T00:28:00Z
+    webUrl: "https://www.forbes.com/sites/michelatindera/2020/10/24/biden-receives-more-than-twice-as-much-money-from-billionaires-as-trump-in-final-push/"
+    ampWebUrl: "https://www.forbes.com/sites/michelatindera/2020/10/24/biden-receives-more-than-twice-as-much-money-from-billionaires-as-trump-in-final-push/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelatindera/2020/10/24/biden-receives-more-than-twice-as-much-money-from-billionaires-as-trump-in-final-push/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 133
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9364b1c93c4c8f5fdbeae4%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Over 200 Retired Senior Military Leaders Endorse Donald Trump, Criticize Biden's Record"
     excerpt: "The endorsement comes after it was reported that Trump disparaged American soldiers killed in combat as \"losers\" and \"suckers.\""
     publishedDateTime: 2020-09-14T15:24:00Z

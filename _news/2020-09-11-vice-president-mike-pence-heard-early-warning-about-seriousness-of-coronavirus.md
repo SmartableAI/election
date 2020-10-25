@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3457152001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3457152001"
 type: article
 quality: 121
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vice President Mike Pence’s top aide tests positive for coronavirus"
+    excerpt: "A spokesman says Vice President Mike Pence will continue with his aggressive campaign schedule after his chief of staff, Marc Short, tested positive for the coronavirus Saturday. Pence spokesman Devin O’Malley says Pence and his wife, Karen Pence ..."
+    publishedDateTime: 2020-10-25T03:44:00Z
+    webUrl: "https://www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
+    ampWebUrl: "https://www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KTIDZGVA4VEXFPEH37ETNHERVA.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
   - title: "Vice President Mike Pence and second lady Karen Pence test negative for coronavirus"
     excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump and first lady Melania Trump were diagnosed with the"
     publishedDateTime: 2020-10-02T12:31:00Z

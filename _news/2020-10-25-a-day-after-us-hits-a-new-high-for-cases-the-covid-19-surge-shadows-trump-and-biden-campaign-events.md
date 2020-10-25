@@ -907,6 +907,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "As COVID-19 hits swing states, Biden and Trump show sharp contrast"
+    excerpt: "President Donald Trump and his Democratic rival Joe Biden gave starkly contrasting messages on Saturday about the coronavirus pandemic, taking their campaigns for the White House on the road to swing states where COVID-19 cases are surging again."
+    publishedDateTime: 2020-10-25T03:11:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/as-covid-19-hits-swing-states-biden-and-trump-show-sharp-contrast-idUSKBN27906J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201024&t=2&i=1538715775&r=LYNXMPEG9N0N9&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "2020 election live updates: Trump says he may hold rallies this weekend; doctor said he's completed COVID therapy"
     excerpt: "President Donald Trump said Thursday he may hold campaign rallies this weekend in Florida and Pennsylvania, an announcement that comes a week after he tested positive for COVID-19 as part of a larger White House coronavirus outbreak."
     publishedDateTime: 2020-10-09T11:09:00Z
@@ -1526,6 +1540,22 @@ related:
       name: Time
       domain: time.com
     quality: 75
+  - title: "Harry Reid says Joe Biden should end Senate filibuster after 3 weeks"
+    excerpt: "Former Senate leader Harry Reid says if Democrats win the presidency and the Senate, Joe Biden should take “no more than three weeks” to test bipartisanship before ending the filibuster so"
+    publishedDateTime: 2020-10-25T02:20:00Z
+    webUrl: "https://www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Election_2020_Harry_Reid_Filibuster_82932.jpg?w=1024&h=678"
+        width: 1024
+        height: 678
+        isCached: true
   - title: "Joe Biden Claps Back at Lara Trump Over Coronavirus Comments: ‘She Doesn’t Know What She’s Talking About’"
     excerpt: "Joe Biden rebuked Lara Trump's assertion that had he been president when the coronavirus pandemic started, there would be 2 million Americans dead rather than the 218,000 who have died on President Donald Trump's watch."
     publishedDateTime: 2020-10-17T19:10:00Z
@@ -1740,6 +1770,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "mS6GMk7TDptx+I6qucPYw0aENguamP1G11ai3hROxRv7TZ9+pWpzXCw7fRPncLwp9gliZTlqzuf9i3KNhIbugHNPqEvScqkjCaWSG6tc5hQsm/KjhJv3Wc6GzujmMsh8SD+lVpgoyniz6wxPFW4XD10fXKv6k9o+hlRR9LR1LZLSnWbswVggltg+TP9a19rQ83tA4pB8LRa6xwY0sRu5C5Hc2L67uH8A8dsxMkTQa6l+ejMPD/TngLB2voJ16GnZ2CJQXQ6uDy8KNDzXMYimPJnOibErPgTxA6S0HGcUq8c0Gv12sjiOwQpwjQMSK9q96espsLmI+6/5NopyyrObQILp7IjszIleydFZdxXDGT4=;SvtKF3Rmf3N5rQxZR4d60Q=="
+secured: "FvIrRXKnQ7/6ZBf/+x1sFhSkn/JuPP17dBdv7VqL4vUU/r6lc6b3Wu21lcQwOHlX58GSB48mzjoUBAtfQCUHPcjWAZdVT7JH2Sdvsoit8YZsWWtFZ+v4O7skCk9rp5hmQ6lt7jPCwbB1vdfArbk/hd/EnBTrjmZCqGw06knAbTJgIPlCc/jqtAr2sEw+himK6J3Ky9afEC4NfeGPWmwwr54PK6IMa+gS2wA2266LQ97t6BzAt0+7c0EJYp7UNBiv6qOCV1PyqRDg8qMWqcL60E2UnZN3bOhC2sVuxa55T2hft1KotPdLxDkR4OchPcpWq1Si1YWh5E4gez3jMOb7JSrpf/0EvpeHjfEfM/UALPUGcztVq2i/KLfGSSCFfDddmeBjeORDZMcct3QjNND5JUA90+d/a9y7F2kMzQkGaxRCAahPmainqUUDonU4d21SZU4Bl9HV/Z59Leine0Q9jZkFMwTE+DawDzxQ5fa65HySErdJ/kt2HVAkDts4Je6iLVmAEwY+/iD21wpWevE0gg==;FoPWv2q47Ea897gLD4ErBw=="
 ---
 
