@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp"
 type: article
 quality: 200
-heat: 760
+heat: 780
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/stephb.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Kamala Harris caught on hot mic checking rally location: 'Are we in Cleveland?'"
+    excerpt: "A hot mic appeared to catch Democratic vice presidential nominee Sen. Kamala Harris checking her location before addressing supporters Saturday."
+    publishedDateTime: 2020-10-25T04:04:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ub33TkzpNkc/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298765259512.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Harris: Voting for president is about ‘honoring ancestors’ who fought for civil rights"
     excerpt: "Democratic vice presidential candidate Kamala Harris headed to Cleveland  Saturday to reach out to voters in one of the closest races for the presidency in the U.S."

@@ -187,38 +187,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "5 takeaways from Vice President Mike Pence's Fort Wayne visit"
-    excerpt: "On the night of the second presidential debate, Vice President Mike Pence stumped for President Donald Trump in Fort Wayne."
-    publishedDateTime: 2020-10-23T12:21:00Z
-    webUrl: "https://www.jconline.com/story/news/politics/2020/10/22/mike-pence-fort-wayne-visit-5-takeaways-his-campaign-speech/3731210001/"
-    ampWebUrl: "https://amp.jconline.com/amp/3731210001"
-    cdnAmpWebUrl: "https://amp-jconline-com.cdn.ampproject.org/c/s/amp.jconline.com/amp/3731210001"
-    type: article
-    provider:
-      name: Journal & Courier
-      domain: jconline.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PIND/98202212-847e-4cfe-8846-6a63bfc8ce9b-102220-Mike_Pence_in_Fort_Wayne_Ind-cb-89.JPG?auto=webp&crop=3809,2143,x0,y30&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence cites importance of NH voters"
-    excerpt: "Pence ticket in the presidential election are arriving at Portsmouth International Airport at Pease Wednesday for a rally featuring Vice President Mike Pence."
-    publishedDateTime: 2020-10-23T11:18:00Z
-    webUrl: "https://www.seacoastonline.com/story/news/politics/elections/2020/10/21/supporters-gather-vice-president-mike-pence-portsmouth/6004836002/"
-    ampWebUrl: "https://amp.seacoastonline.com/amp/6004836002"
-    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/6004836002"
-    type: article
-    provider:
-      name: Seacoastonline.com
-      domain: seacoastonline.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/21/NPOH/f0752e45-b799-47c5-87f5-2e0923d784af-NHPOR-102220-Pease_Pence1.jpg?auto=webp&crop=2820,1587,x0,y94&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Vice President Mike Pence makes campaign stop in Metro Detroit"
     excerpt: "Vice President Mike Pence made a campaign stop in Metro Detroit on Thursday. Pence held a rally at the Oakland County International Airport. Pence hailed the appointment, and what he believes will be the swearing in,"
     publishedDateTime: 2020-10-22T22:33:00Z
@@ -315,22 +283,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Thousands of supporters turn out for Vice President Pence’s Capital City Airport campaign event"
-    excerpt: "NEW CUMBERLAND, Pa. (WHTM) – Thousands of supporters of Vice President Mike Pence lined up outside of Capitol City Airport this afternoon in New Cumberland. Prior to Pence’s scheduled appearance, supporters were waiting eagerly to get into the event at ..."
-    publishedDateTime: 2020-10-19T23:48:00Z
-    webUrl: "https://www.abc27.com/news/us-world/politics/election/thousands-of-supporters-turn-out-for-vice-president-pence-at-capital-city-airport/"
-    ampWebUrl: "https://www.abc27.com/news/us-world/politics/election/thousands-of-supporters-turn-out-for-vice-president-pence-at-capital-city-airport/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/politics/election/thousands-of-supporters-turn-out-for-vice-president-pence-at-capital-city-airport/amp/"
-    type: article
-    provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 63
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/10/vlcsnap-2020-10-19-19h37m12s508.png?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "VP Mike Pence set to visit North Carolina Friday for campaign event"
     excerpt: "Vice President Mike Pence is set to visit North Carolina on Friday for another campaign event, WTVD reported. The event will be held at The Farm at 95 in Selma at 1:30 p.m., but doors will open at 11:30 a."
     publishedDateTime: 2020-10-16T15:08:00Z
@@ -411,15 +363,6 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
     publishedDateTime: 2020-10-12T23:00:00Z
     webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaigns in Maine"
-    excerpt: "President Pence delivers remarks at a campaign rally in Hermon, Maine. Vice President Pence delivers remarks at a campaign rally in Hermon, Maine. President Trump delivered remarks at a campaign rally in Macon,"
-    publishedDateTime: 2020-10-19T13:34:00Z
-    webUrl: "https://www.c-span.org/video/?477109-1/vice-president-pence-campaigns-maine"
     type: article
     provider:
       name: C-SPAN

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-vs-biden-most-important-elect
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp"
 type: article
 quality: 199
-heat: 2019
+heat: 2039
 published: true
 
 provider:
@@ -1284,6 +1284,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab13a510-e846-4585-bd04-4a85898edcf5/984db21c-8bea-498b-94cb-3419adf8236f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Tucker: American power centers align to get Joe Biden elected"
+    excerpt: "Kamala Harris 22 years younger than Joe Biden is. So if Joe Biden wins next month, at some point, possibly sooner than we expect, Kamala Harris will control the White House, the Federal government. And that is a concern because very few people in the Democratic Party,"
+    publishedDateTime: 2020-10-24T12:32:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-american-power-centers-align-to-get-joe-biden-elected"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-american-power-centers-align-to-get-joe-biden-elected.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-american-power-centers-align-to-get-joe-biden-elected.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59de329c-bbe9-486e-868c-2cf2fbcebbac/7b6e4a68-63c7-43d2-9e9d-23ca176bc0de/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

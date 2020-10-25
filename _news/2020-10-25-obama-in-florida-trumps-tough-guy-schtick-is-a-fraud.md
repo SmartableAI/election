@@ -31,37 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Barack Obama delivers scathing takedown of Donald Trump"
-    excerpt: "During a speech in Philadelphia, former President Barack Obama delivered a blistering account of his successor's first four years in office, arguing that President Donald Trump has proved he is \"incapable of taking the job seriously\" and has shown no interest in \"helping anybody but himself and his friends.\"\n"
-    publishedDateTime: 2020-10-22T14:48:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/soYnYhb-xCA/barack-obama-full-speech-biden-philadelphia-pennsylvania-october-21-sot-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/21/barack-obama-full-speech-biden-philadelphia-pennsylvania-october-21-sot-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/21/barack-obama-full-speech-biden-philadelphia-pennsylvania-october-21-sot-vpx.cnn"
+  - title: "Hear Trump speak after voting in person in Florida"
+    excerpt: "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n"
+    publishedDateTime: 2020-10-24T15:11:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021194452-02-barack-obama-philadelphia-october-21-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: The most important line in Barack Obama's takedown of Donald Trump"
-    excerpt: "Former President Barack Obama reemerged on the campaign trail Wednesday in Philadelphia, delivering an across-the-board indictment of his successor's first four years in office.\n    \n"
-    publishedDateTime: 2020-10-22T15:23:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zDAIVTa4uaA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/barack-obama-donald-trump-speech-philadelphia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/barack-obama-donald-trump-speech-philadelphia/index.html"
+  - title: "Trump signs law designating 9-8-8 as universal number for national suicide hotline starting in 2022"
+    excerpt: "President Donald Trump on Saturday signed into a law a bipartisan bill that will make 9-8-8 the universal telephone number to reach the national suicide prevention hotline starting in 2022.\n    \n"
+    publishedDateTime: 2020-10-17T23:42:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4_MT-McEHSw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021194452-02-barack-obama-philadelphia-october-21-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Bloomberg knocks Trump back on his heels in Florida"
+    excerpt: "The former New York City mayor’s spending is forcing the president to dig deep in the key swing state and enabling the Biden campaign to spend ad dollars elsewhere."
+    publishedDateTime: 2020-10-20T23:12:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/20/bloomberg-knocks-trump-back-on-his-heels-in-florida-1328177"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/41/86/94af27cc4b74a93b78d2798e7dcc/apbloomberg.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "'Vote for Trump or else!': Feds review threatening emails sent to Florida voters"
+    excerpt: "Local officials in five Florida counties told POLITICO they have turned the emails over to the FBI, which declined to offer specifics."
+    publishedDateTime: 2020-10-21T22:01:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/21/vote-for-trump-or-else-feds-review-threatening-emails-sent-to-florida-voters-1328913"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 110
+    images:
+      - url: "https://static.politico.com/5d/4f/08ad183c44b1b72837846f0a0d3e/190816-votingmachine-getty-773.jpg"
+        width: 3000
+        height: 1999
         isCached: true
 
 secured: "2e1ImiMDMUSk+grS7He7NXX5ROgIzMm62EoqR4wwZ6NjqYN3JR1WYWcZDm7VA7dyugMAHGAP0FVAlcJ8Vuo6BZhLS8hOFCcbCjGO9ri1zuSZ/8034yTIJItxvNkdd0NeXK/1F7dxIh2hoYPbSxEw8zRlEZqBeuWIL4sY2aqm9SE/NipEskEOzVdbNTctkZ0/3je5ZUDrwHH+HziOXK2rYNPt3j+4x0H7pjBsJkDMeb/J7h4IeSonBvwEhZL24Utkp5k4znXQ/U/RRar/tTeqBktBZx7aIedB40QNDYsm5pGF9q885g5sYOCR3j+o1+7EsBmkY6eCjb78V2nfv0HTSWwm5jOdrKHAwFETNpz5Dhk=;zAvs6txYa0q4Wv6dxcKOmg=="

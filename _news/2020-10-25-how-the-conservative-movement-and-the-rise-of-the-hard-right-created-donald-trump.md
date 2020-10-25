@@ -1159,6 +1159,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "‘SNL’ Cast Members Worried About 2020 Election: “If Donald Trump Isn’t President, Then What Are We Gonna Talk About?”"
+    excerpt: "Live cast members came together for a mock PSA to voice support for Democratic nominee Joe Biden for the 2020 election. But as the likes of Bowen Yang, Heidi Gardner and Kenan"
+    publishedDateTime: 2020-10-25T04:40:00Z
+    webUrl: "https://deadline.com/2020/10/snl-cast-members-2020-trump-1234603033/#!"
+    ampWebUrl: "https://deadline.com/2020/10/snl-cast-members-2020-trump-1234603033/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-cast-members-2020-trump-1234603033/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 67
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/Donald-Trump-OCtober-2020.jpg?w=1024"
+        width: 1024
+        height: 570
+        isCached: true
   - title: "Brian Wilson, Al Jardine speak out against the Beach Boys playing Donald Trump fundraiser"
     excerpt: "Brian Wilson and Al Jardine were upset to learn Mike Love's version of the Beach Boys played a Donald Trump event. The group is in Phoenix on Oct. 25."
     publishedDateTime: 2020-10-19T07:30:00Z
@@ -1348,6 +1364,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "otW+wxwtOlv676rBvW58BC48XCAmd2H8oZ7x38OxeHBNYcUu7/Ou0VJvVR1LXZCtFDo9VPAaqcTmtvYsH2/YEndracvY6RfcqWPDK61aZJ6DZyDM9wjws+w/hMv8/t8qZGqdBA62sYa4cyA5rHbzy2Jihqg06g5cHmAk34utfs0J7TMO7dck0qEgFgK2ocT7fop0CQFMxHmU8I8mcFuZhV9Nh5l+Y/+e8nPlVxyJsSyEeEIYwb7GNiLEquFiscuDoaq8HtbquvxwSgLKXhVMCA24HSiPhRqfJB5Fo+zsEz+8b0f/FARJMDLDyPJ3JEbhsU8OFpjmvOpGbPF6pTKyCSCUcqh5g4E4+p8Q7kChROY=;qFP6by/S8pNcbeixSI4OZQ=="
+secured: "sncnomsHgsEsT8A6ERFaTJrL1aPanpNypQ2fVTUMDga+l6yR7VS9NRpZc9r0ep9zH/RCaTBREL6ONAsAiVLAMwH2W2frDt2Eh3cnc6dBV/cK1/mOHdH2KR0BD6YNwCm29CBMS6B4NbgwmK+lg84o9FVwsd5B9cMljXpd3Pv51nelJ50zBAtNLwBUxyQCV6a2JjsW+Mc2OpCd3EBu4kpMlus5PRCYIl/GGmNvVmF0UrRzDGXVxUOsLtQSN/XydhYX1qZYqCK2RoJuakLn59poQ4i+RUQbljnh0VyHHW7TpMYKP3ushdP24czQGEJXcztzlzvCn82FNMX3cg6AqYLAg1ELJaBrxMp/TcpnvFxYLlZRACwcj9yloXCvN5SXW+EGzDmttfH3vGKVc559Z2TFuOlzHE8LscICHtaMcTCuWMmPshnog/dKzQem/6ObUHIw0KSUXmtnJJUX4tMjXncObwh8SrfdopUreeS31UXNqq3EqKdfP9SJWOsNA4Q1MlZckgE+TGdWkCH2C249fHcT5w==;PEMglQJxkUz+bteIChYC5Q=="
 ---
 

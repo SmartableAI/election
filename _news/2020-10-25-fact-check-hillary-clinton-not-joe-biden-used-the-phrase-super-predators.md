@@ -2,19 +2,19 @@
 category: news
 title: "Fact check: Hillary Clinton, not Joe Biden, used the phrase 'super predators'"
 excerpt: "Joe Biden referred to Black people as 'super predators' during the passage of the 1994 crime bill. The Violent Crime Control and Law Enforcement Act of 1994, also known"
-publishedDateTime: 2020-10-24T22:51:00Z
-originalUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/24/fact-check-hillary-clinton-called-some-criminals-super-predators/6021383002/"
-webUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/24/fact-check-hillary-clinton-called-some-criminals-super-predators/6021383002/"
-ampWebUrl: "https://amp.azcentral.com/amp/6021383002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6021383002"
+publishedDateTime: 2020-10-24T22:34:00Z
+originalUrl: "https://www.freep.com/story/news/factcheck/2020/10/24/fact-check-hillary-clinton-called-some-criminals-super-predators/6021383002/"
+webUrl: "https://www.freep.com/story/news/factcheck/2020/10/24/fact-check-hillary-clinton-called-some-criminals-super-predators/6021383002/"
+ampWebUrl: "https://amp.freep.com/amp/6021383002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6021383002"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "/HpOIfD4MWZpFCTMw0/pf0Zy0m9oc+xWpeCxczDs4lpZHCudrzKPEOE+FvuTWHF/VlvIX6YLJxvFLp0AFfrHtXFG81Nd1xiiZOfGJRCwyqu8swTBRzW6QOs6d4XmXMGtO5DEalw9N0ge+XrefcSaTMjmdvR14Sq40L8cpa6SkZJHPW18hq/hzHvCp3qhP6Io0GhXWTVW4jxGaalJn8RIokDOml8vaDK0BnFOocum9JrxVdGdohZddHoThF8gs9Ay6Kkn9zhzOtzRzC4/7O77TKziPJvGXuJDaZ5DtyZrJmiC0bGK0ca38HlRUX0+w9XhCZjElb8fPl2/ABCFzrUptCHSiwv7JgkUjcLsou5NXtpook44JQuqMhJr9LUQRpcXztJSqK+OiGL39Vtc8AZKdlmjdHU0eNpjeVk8nKW5NXRgKhVHAVd0bEbVym/StfxiCGBNTtaolhKsuqmzDJ6i2Mp8ps6xHQhfqVts+dyGV/aGSzCqwrJniL2y6pCjYsfxokdNWoEoOGO4pWCFAX0QhA==;lrPaNOrTLAv2/KVQ0KQK5g=="
+secured: "azZ88g/ILjkeF2nH5g09KgQZ53EWev/RbKG9SHCfiX5gtRPYi9z+u/FntrI/M0R0RJfPJXcJKFGelXpJmqhUkqVbL7u2u9OIZbY7h9D/hHiwzbiBf7/ObvgYy1N/d0bjNYTaB4OFMoyHkMcGc+P8NClgTwRzU4M9zh3Muw/eNNhbjFUkxaUhikEhFnx7VoJj7QtSOv7vYnX/CRYI3k0G6gSYqe3IxUHCxObCs2FD40uvuEvag22MYnjZrMwjRxRxbvgcJoLfPbRbOgzu054lUzUIHH8s6PQaFxAo0VKL/cnZg5cYa+evXLDiEDdF8LsVRfWPTf8pQwe7UJbVNdXpL4/bD+LHWHvp9E63R813pGM=;BNpDbMPZn7x49XO55kSYTQ=="
 ---
 

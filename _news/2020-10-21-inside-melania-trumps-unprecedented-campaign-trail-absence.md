@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 495
 published: true
 
 provider:
@@ -158,22 +158,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422322/201022-donald-trump-ew-1034p_ee5f4bdb1def6612393a5d369ea1b369.jpg"
         width: 1494
         height: 1494
-        isCached: true
-  - title: "Trump's sideshow fizzles out"
-    excerpt: "The president tried to turn debate day into a trial of the Biden family's allegedly shady business dealings. It didn't go smoothly."
-    publishedDateTime: 2020-10-23T11:39:00Z
-    webUrl: "https://www.politico.com/news/2020/10/23/hunter-biden-wins-the-debate-431558"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/23/hunter-biden-wins-the-debate-431558"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/23/hunter-biden-wins-the-debate-431558"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/2f/24/7c30b9bf4e0fb1fa0ae19d3ecec2/102120-trump-gty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "GOP prays Trump stopped the bleeding"
     excerpt: "The president's backers were relieved at Trump's more restrained debate performance Thursday night. But with days of rallies ahead, they know it might not last."

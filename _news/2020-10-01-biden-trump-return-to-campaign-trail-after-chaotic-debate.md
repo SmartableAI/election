@@ -1172,6 +1172,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 60
+  - title: "Trump Had Sound Bites. Biden Had Substance and Heart."
+    excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."
+    publishedDateTime: 2020-10-25T04:00:00Z
+    webUrl: "https://www.thedailybeast.com/trump-had-soundbites-at-the-final-presidential-debate-biden-had-substance-and-heart"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "IUzJyFa+ODq9YxFaGXQRj3zcWOZ2Eusg/xPu0CEU7TWyaq+jtnySUhS6P8vmFgnmb2z25DSF8g3+Wvz7BnZsvcYX/4L5nKE03ZD554iIFS6bzaeDFilX4XWUcfhKFxC5ehjjbu4Q+LMan5niFtwuzSu9b4efIpRxpJ7jMkNmsHoT0QXG2vCeawVztKArW0n3bFj1je2uF7qonXourk0F+mkddTN9BnGtZBDcWMoR1NTR9zzeWYEdakw4KyJ6qeZXycEXXOw73U4956+2nLDOUi+SXJFjiSSTRochxY4EeOOgbcCtMbqfrXryVMfG9r3y++de0MYWe6dv7BAS6x6k7+NxtzboDBopHn9ktB++KUXeoYSvkMOZ/fy9zDRRnptALvn/W5jAiuWMqcWNK0RTFE4KZLhiQNxYUxd6jQADea2IoB+ajiItU/or/flvqdzida9CQS2GVVAvm9YxsziWIF4Pc0fbsPIl9CrHX73nNNXbXGBZ+ZBmFKLucc0DomOC1ze3iCfoQBPo55M4fW7Vcg==;0DZn+zMT6xkcKbLJZs2nZg=="
 ---

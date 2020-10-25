@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Nuns wearing MAGA masks spotted behind Trump at rally"
-excerpt: "A group of Trump-loving nuns gained attention on social media Saturday after they were spotted wearing MAGA masks with their habits and cheering on the president behind him at his rally in Circleville, Ohio. "
-publishedDateTime: 2020-10-25T00:14:34Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/trkm0wpN4xI/nuns-maga-masks-trump-rally"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/trkm0wpN4xI/nuns-maga-masks-trump-rally"
+excerpt: "A group of Trump-loving nuns gained attention on social media Saturday after they were spotted wearing MAGA masks with their habits and cheering on the president behind him at his rally in Circleville,"
+publishedDateTime: 2020-10-25T00:17:00Z
+originalUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally"
+webUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally"
 ampWebUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -142,6 +143,6 @@ related:
         height: 720
         isCached: true
 
-secured: "bb0CDcu5vwLOkQj1igQnJoILVaEU6AmwfpSmD6qY9/0qg0X9e9/eM4oKf/nJtXv//Lo8FgTwFHHJLWnTR6G4dzEZV0srkINuInsThiIfi7ESfoYApVm2MtcOe+eFAvTWGLGd3c6tSpwEeqJ/g1VpqTqXcKb4ZNdW/R0tmLcCPWrAmRWdkmZMtvAhrC8ld/3jarDsADfe6G4B0TokGDgT0yMNrFPorh/9mvvK4z5L7PPxsubnqW9E2Iy3AefLt+L24vZ/zCZkCW7mLMuZ8kEjZcQiRr+F12TeVdn7yI9GZt/pyTju3vz73wfW9BN8XJwClSO8kL6jQXyFt3eVnCcpfE6p3ivP0Z08um8F9BW6MLw=;wQE3whP/xMVeX8wGPK9Srg=="
+secured: "QwEUVnJFRY0PmdAwnXLPzGHqWSqHTqtbmivWKOhOhWBpMOeYGEtdU+paiX2xAjXM9ks2Z3/cJfehVNzlRqzbz15s5OCdUKcH3JjlhCe33S0CN06PRF/whdYVYkioXUcbqg8vsqY6O3zvA9+lBorzvJNtF1rxBcluWYMVzhwfQl/9uU/CBVGzjyItC7aSnZjFTlSBI5I3UNfOO9x2JoOapSRMlIv/u3EJs+kFGLomw9AbC5hW3BlPL3C2Wclx886zeUyGgELSac17vZgOB3ruajnDkPUT3Vbk4/1Lezpt0LcSCOnCxtkOm9gTyOPE6U0vxQVNpzOHfVS2Inh4zVc5AJqvXGqwRPz/P5ywZCrFjqc=;cFPWy5ROfcaAiLeB64+gHQ=="
 ---
 

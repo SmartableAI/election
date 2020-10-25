@@ -64,22 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Nuns wearing MAGA masks spotted behind Trump at rally"
-    excerpt: "A group of Trump-loving nuns gained attention on social media Saturday after they were spotted wearing MAGA masks with their habits and cheering on the president behind him at his rally in Circleville, Ohio. "
-    publishedDateTime: 2020-10-25T00:14:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/trkm0wpN4xI/nuns-maga-masks-trump-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/181cfcca-2a48-4e5d-8d4b-11a506858939/daa0e4ed-79eb-48d3-a9fe-7476913978fa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Meadows says Trump tweets to declassify Russia probe docs 'were not' direct orders"
     excerpt: "White House chief of staff Mark Meadows rejected suggestions this week that President Trump’s tweets earlier this month calling for the “total declassification” of all documents related to the Russia investigation and the FBI’s probe into Hillary Clinton’s private email server were an explicit order"
     publishedDateTime: 2020-10-21T14:48:12Z
@@ -127,6 +111,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Trump-2020-Hay-ADRIAN-POWELL-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Nuns wearing MAGA masks spotted behind Trump at rally"
+    excerpt: "A group of Trump-loving nuns gained attention on social media Saturday after they were spotted wearing MAGA masks with their habits and cheering on the president behind him at his rally in Circleville,"
+    publishedDateTime: 2020-10-25T00:17:00Z
+    webUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/181cfcca-2a48-4e5d-8d4b-11a506858939/daa0e4ed-79eb-48d3-a9fe-7476913978fa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Some media liberals urge revenge, payback if Trump loses"
     excerpt: "Media commentators, who are unloading everything they have on President Trump, are no longer content with the idea of him merely losing."

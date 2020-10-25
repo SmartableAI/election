@@ -1148,6 +1148,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "‘SNL’ Cast Members Worried About 2020 Election: “If Donald Trump Isn’t President, Then What Are We Gonna Talk About?”"
+    excerpt: "Live cast members came together for a mock PSA to voice support for Democratic nominee Joe Biden for the 2020 election. But as the likes of Bowen Yang, Heidi Gardner and Kenan"
+    publishedDateTime: 2020-10-25T04:40:00Z
+    webUrl: "https://deadline.com/2020/10/snl-cast-members-2020-trump-1234603033/#!"
+    ampWebUrl: "https://deadline.com/2020/10/snl-cast-members-2020-trump-1234603033/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-cast-members-2020-trump-1234603033/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 67
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/Donald-Trump-OCtober-2020.jpg?w=1024"
+        width: 1024
+        height: 570
+        isCached: true
   - title: "Brian Wilson, Al Jardine speak out against the Beach Boys playing Donald Trump fundraiser"
     excerpt: "Brian Wilson and Al Jardine were upset to learn Mike Love's version of the Beach Boys played a Donald Trump event. The group is in Phoenix on Oct. 25."
     publishedDateTime: 2020-10-19T07:30:00Z

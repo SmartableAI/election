@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
 type: article
 quality: 184
-heat: 664
+heat: 544
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: World reduced to 'friends,' 'thugs' and 'filthy' countries in Trump-Biden foreign policy debate"
-    excerpt: "\"We had a good relationship with Hitler before he invaded the rest of Europe.\"\n    \n"
-    publishedDateTime: 2020-10-23T05:36:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K4wivtNKljE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/biden-trump-foreign-policy-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/biden-trump-foreign-policy-debate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022232347-29-debate-nashville-1022-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -191,22 +175,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "How Mormons Fed Up With Trump Could Help Lift Biden in Arizona"
-    excerpt: "Loyalty to the Republican Party is ingrained in the Latter-day Saints religion. But in Arizona, some find the president’s behavior at odds with their values and are shifting to Joe Biden."
-    publishedDateTime: 2020-10-18T21:45:00Z
-    webUrl: "https://www.nytimes.com/2020/10/18/us/politics/arizona-mormons-trump-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/18/us/politics/arizona-mormons-trump-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/18/us/politics/arizona-mormons-trump-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/19/us/politics/19arizona-mormons1/19arizona-mormons1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump Hosts White House Event After Hospitalization; Biden Speaks in Pennsylvania"
     excerpt: "In a blow to the Trump campaign, a federal judge threw out an attempt to block drop boxes in Pennsylvania. Chris Christie, the former governor of New Jersey, was released from the hospital this morning."
     publishedDateTime: 2020-10-11T00:57:00Z
@@ -222,38 +190,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/10/us/politics/10elections-brief-bidenpenn/10elections-brief-bidenpenn-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Biden, Trump reach out to Puerto Rican voters—including through relatives on the island"
-    excerpt: "When you are island born, you have the highest amount of connections to the island among family, friends and neighbors,\" said Natascha Otero, from \"Boricuas con Biden.\""
-    publishedDateTime: 2020-10-19T21:24:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/biden-trump-reach-out-puerto-rican-voters-including-through-relatives-n1243918"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243918"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243918"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 142
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421332/201019-old-san-juan-puerto-rico-ew-416p_ac7be00ac0901364061d0b8ef3b41513.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Fact check: Biden suggests Trump could deplete Social Security by 2023. Needs context."
-    excerpt: "The Biden campaign has alleged that Trump was arguing for a de facto gutting of Social Security, since it is funded by payroll taxes Trump has said he wants to eliminate."
-    publishedDateTime: 2020-10-23T13:53:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244437"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244210"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 142
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg"
-        width: 2500
-        height: 1250
         isCached: true
   - title: "Watch live: Joe Biden delivers remarks on vision for older Americans"
     excerpt: "Watch live coverage as former Vice President Joe Biden delivers remarks on his vision for older Americans in Pembroke Pines, Fla."
@@ -302,20 +238,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3413558/200921-un-anniversary-mc-9473_e1dfda68f626dc90d8518a14ef374869.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "POLITICO Playbook: New poll: Biden edges Trump on the economy"
-    excerpt: "ONALD TRUMP was apparently so angry with CBS’ LESLEY STAHL that he cut short an interview and tweeted out a clip of the anchor"
-    publishedDateTime: 2020-10-21T11:02:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2020/10/21/new-poll-biden-edges-trump-on-the-economy-490664"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/fd/30/b4d31a8e493580d7c6d59ec77bf4/gettyimages-1229190970.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Taking Page From Authoritarians, Trump Turns Power of State Against Political Rivals"
     excerpt: "President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct immediate government action against specific opponents, timed to serve his re-election campaign."
@@ -376,15 +298,6 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 60
-  - title: "‘Fox & Friends’ Host Steve Doocy to Trump: Stop Talking About Hunter Biden"
-    excerpt: "In the two-and-a-half days immediately following the New York Post’s hit job on Hunter Biden, Fox News reportedly dedicated three times as much airtime to the former vice president’s son as it did to the COVID-19 pandemic."
-    publishedDateTime: 2020-10-19T16:59:00Z
-    webUrl: "https://www.thedailybeast.com/fox-and-friends-host-steve-doocy-tell-trump-to-stop-talking-about-hunter-biden"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 58
 
 secured: "wkfXpWCROHw/uCvSdVN7P6ur9D199SZCNbHJwaY15CpFHBCyZV7vzm8dYD0873duGl+INIYDf9MVf1nwFOAB3sXLCbXgPNj20nDMKZDU2zGC5O+hDEV0346MD6ZB6HBDKcRCvsmoJLieTs+dfFueMV1D2bGB+nV5dRS1a6ChMAbtKqaAY2U9Djqm6yd9PC1OGIKi8YDcGUynC2YdTj9EkZstdDQPOgikAyL7Kzmlbk2oM3Ya0YNAz8ggdemPRaZ7/T5sYJ6eanQtzegaa6Tt3rqu1F70BhR/+A8bF2CQOXFWnOaauGHq70IkocaEpAvz1yQG3kxUqL1LHkNJsu6zi0JUNx+AvfyRrqVf+lIKDGs=;Fnw+tIdwkClb+wXlz2oCzQ=="
 ---

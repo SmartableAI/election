@@ -32,35 +32,83 @@ images:
     isCached: true
 
 related:
-  - title: "Barrett declines to answer if Trump can pardon himself"
-    excerpt: "Sen. Patrick Leahy (D-VT) questions Supreme Court nominee Amy Coney Barrett on whether the president of the United States has the power to pardon themselves of a crime. CNN's Manu Raju tells us more.\n    \n"
-    publishedDateTime: 2020-10-14T16:04:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/exEsfdCiy9E/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
+  - title: "Trump denies the coronavirus surge as Biden and Obama condemn his approach"
+    excerpt: "President Donald Trump continued to deny the nation's deepening Covid-19 crisis as he crisscrossed the country this weekend, even as the virus spread among top administration and campaign advisers.\n    \n"
+    publishedDateTime: 2020-10-25T04:16:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vFn7UftBWzA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 188
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014114644-09-barrett-hearing-1014-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024123232-03-trump-voting-1024-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "China's buying soybeans again. That could help Trump in key states"
-    excerpt: "Dave Walton's Iowa farm was struggling a year ago as President Donald Trump's trade war with China took a bite out of soybean exports.\n    \n"
-    publishedDateTime: 2020-10-18T22:48:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AenUzNbMBTc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/farmers-trump-election-trade/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/farmers-trump-election-trade/index.html"
+  - title: "Pence adviser Marty Obst tests positive for coronavirus"
+    excerpt: "A top adviser to Vice President Mike Pence tested positive for coronavirus earlier this week, a source familiar with the matter told CNN.\n    \n"
+    publishedDateTime: 2020-10-25T01:43:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1el54ZxfoWc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/marty-obst-mike-pence-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/marty-obst-mike-pence-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002094925-01-pence-0925-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pence chief of staff Marc Short tests positive for coronavirus"
+    excerpt: "Marc Short, chief of staff to Vice President Mike Pence, has been diagnosed with Covid-19, the Vice President's office announced in a statement, marking the second top Pence aide to test positive this week.\n    \n"
+    publishedDateTime: 2020-10-25T03:20:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HbbIBrU8hlE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/mac-short-coronavirus-positive-test/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/mac-short-coronavirus-positive-test/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190327184249-marc-short-tsr-03272019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Amy Coney Barrett is winning even as Trump is losing"
+    excerpt: "President Donald Trump's decision to nominate Amy Coney Barrett to the Supreme Court has not been a game changer in the presidential race. He is still well behind former Vice President Joe Biden with less than three weeks to go.\n    \n"
+    publishedDateTime: 2020-10-17T17:13:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NbBmPM2pRUY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/amy-coney-barrett-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/amy-coney-barrett-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191205154559-soybean-farm-iowa-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014171804-30-barrett-hearing-1014-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Barack Obama delivers scathing takedown of Donald Trump"
+    excerpt: "During a speech in Philadelphia, former President Barack Obama delivered a blistering account of his successor's first four years in office, arguing that President Donald Trump has proved he is \"incapable of taking the job seriously\" and has shown no interest in \"helping anybody but himself and his friends.\"\n"
+    publishedDateTime: 2020-10-22T14:48:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/soYnYhb-xCA/barack-obama-full-speech-biden-philadelphia-pennsylvania-october-21-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/21/barack-obama-full-speech-biden-philadelphia-pennsylvania-october-21-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/21/barack-obama-full-speech-biden-philadelphia-pennsylvania-october-21-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021194452-02-barack-obama-philadelphia-october-21-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,19 +128,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump announces plans to remove Sudan from state sponsors of terrorism list"
-    excerpt: "President Donald Trump announced Monday that he intends to lift Sudan's state sponsor of terrorism designation -- news that comes as the transitional government in Khartoum could deliver him a diplomatic victory ahead of the US presidential election.\n    \n"
-    publishedDateTime: 2020-10-19T20:42:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvTvk8iskM4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/sudan-state-sponsor-of-terrorism-list-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/sudan-state-sponsor-of-terrorism-list-trump/index.html"
+  - title: "Biden says coronavirus vaccine must be 'freely available to everyone'"
+    excerpt: "Former Vice President Joe Biden on Friday outlined his plan to address the coronavirus pandemic, including providing free vaccines to all Americans, as he began delivering his closing argument to voters.\n    \n"
+    publishedDateTime: 2020-10-23T21:08:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/csCPkVakT2M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/joe-biden-coronavirus-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/joe-biden-coronavirus-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022220035-13-debate-nashville-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump keeps chipping away at Obamacare with only weeks until the election -- and a Supreme Court hearing"
+    excerpt: "The Trump administration has taken a step to weaken the Affordable Care Act in a key battleground state, with only weeks to go until Election Day as well as Supreme Court arguments that could determine the landmark law's future.\n    \n"
+    publishedDateTime: 2020-10-17T15:00:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BX10t0iauOI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/affordable-care-act-georgia-medicaid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/affordable-care-act-georgia-medicaid/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017195213-03-donald-trump-1017-michigan-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016161329-obamacare-sign-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: World reduced to 'friends,' 'thugs' and 'filthy' countries in Trump-Biden foreign policy debate"
+    excerpt: "\"We had a good relationship with Hitler before he invaded the rest of Europe.\"\n    \n"
+    publishedDateTime: 2020-10-23T05:36:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K4wivtNKljE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/biden-trump-foreign-policy-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/biden-trump-foreign-policy-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022232347-29-debate-nashville-1022-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,213 +208,101 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fearing a loss, GOP senators keep distance from Trump and begin to ponder party's future"
-    excerpt: "For four years, Republican senators have shrugged off President Donald Trump's constant string of controversies and scandals. They've ignored his Twitter outbursts and endless grievances. And they've avoided confronting him, while voting mostly in lockstep for his agenda and protecting him during his"
-    publishedDateTime: 2020-10-20T19:12:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6CLiBeHdjKA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/republican-senate-reaction-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/republican-senate-reaction-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200602093113-cornyn-trump-thune-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "DOJ says Trump acted in his official capacity when denying E. Jean Carroll's rape allegation"
-    excerpt: "The Justice Department said Monday that President Donald Trump had acted in his official capacity when denying a rape claim made by a longtime magazine columnist, and therefore shouldn't be sued personally for defamation.\n    \n"
-    publishedDateTime: 2020-10-19T23:26:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hr6XYNRmO8k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/trump-jean-e-carroll-lawsuit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/trump-jean-e-carroll-lawsuit/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200908194011-e-jean-carroll-june-2019-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Top Democrats accuse VA secretary Wilkie of misusing taxpayer funds to benefit Trump's campaign"
-    excerpt: "Top Democrats on the House and Senate Veterans Affairs committees believe VA Secretary Robert Wilkie \"may have misused taxpayer funds and other government assets in an effort to benefit the reelection of President Donald Trump and certain Republican candidates seeking office in 2020,\" according to a"
-    publishedDateTime: 2020-10-13T19:00:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b_DzrnNkBGs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/democrats-wilkie-misusing-taxpayer-funds-trump-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/democrats-wilkie-misusing-taxpayer-funds-trump-campaign/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181207132829-robert-wilkie-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Judges across the country cast doubt on voter fraud claims pushed by Republicans and Trump campaign"
-    excerpt: "Judges across the country are rejecting arguments made by President Donald Trump's campaign and Republican leaders claiming voter fraud.\n    \n"
-    publishedDateTime: 2020-10-12T19:03:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l0mJxSrwpT8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/judges-reject-voter-fraud-claims/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/judges-reject-voter-fraud-claims/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200903142822-i-voted-stickers-0407-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Federal judge agrees to hear arguments if DOJ can represent Trump in E. Jean Carroll defamation suit"
-    excerpt: "A New York federal judge said he will hear oral arguments later this month to consider if the Justice Department can represent President Donald Trump in a defamation lawsuit brought by E. Jean Carroll, a former magazine columnist who has accused the President of rape.\n    \n"
-    publishedDateTime: 2020-10-09T22:20:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OBXHOHsI3dg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/new-york-judge-doj-represent-trump-e-jean-carroll/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/new-york-judge-doj-represent-trump-e-jean-carroll/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190624203250-e-jean-carroll-responds-trump-denies-sexual-assault-allegation-sot-ac360-vpx-00010730-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "2020 Election Live Updates: Trump Will Hit the Trail as the Barrett Hearings Begin"
-    excerpt: "The financial record of Tommy Tuberville, the Republican Senate candidate in Alabama, raises questions. Dr. Anthony Fauci said his words were “taken out of context” in a Trump campaign ad."
-    publishedDateTime: 2020-10-12T13:13:00Z
-    webUrl: "https://www.nytimes.com/live/2020/10/12/us/trump-vs-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2020/10/12/us/trump-vs-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/12/us/trump-vs-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 144
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12elections-brief--barrett/12elections-brief--barrett-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Barrett suggests Obamacare might survive Trump challenge"
-    excerpt: "Supreme Court nominee Amy Coney Barrett on Wednesday suggested that the Affordable Care Act might be able to withstand a challenge from the Trump administration, placing Obamacare once again at the forefront of the Supreme Court confirmation fight."
-    publishedDateTime: 2020-10-14T17:35:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/amy-coney-barrett-obamacare-trump-challenge-429420"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/amy-coney-barrett-obamacare-trump-challenge-429420"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/amy-coney-barrett-obamacare-trump-challenge-429420"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/f3/ca/ead8a3484edc84a98342189bdd0a/201014-acb-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Delayed election, mail-in ballots and transfer of power: Barrett steers clear of Trump's strike zone"
-    excerpt: "The Supreme Court nominee was careful not to contradict legally dubious assertions by Trump or political controversies that he stokes on Twitter."
-    publishedDateTime: 2020-10-14T22:22:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/delayed-election-mail-ballots-transfer-power-barrett-steers-clear-trump-n1243448"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243448"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243448"
+  - title: "Election live updates: Trump votes early, Biden continues final push"
+    excerpt: "President Donald Trump is expected to cast his ballot Saturday in Florida. —Latest polls from battleground states and more. —The road to 270: How Biden or Trump could win. FORT LAUDERDALE, Fla. — Eleven days out from the election,"
+    publishedDateTime: 2020-10-24T22:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-24-trump-biden-election-n1244363"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244363"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244363"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 165
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420225/201014-amy-coney-barrett-se-522p_58834173c76a9032c2cc27561368d9ba.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "2020 Election Live Updates: Trump to Travel to 3 States as Biden Focuses on Pennsylvania"
+    excerpt: "President Trump and Joe Biden prepare for their closing arguments in the final stretch, taking them to some of the country’s top battlegrounds. An order allowing multiple drop boxes per county in Texas is upheld."
+    publishedDateTime: 2020-10-24T14:46:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/24/us/trump-biden-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 156
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/24/us/24election-briefing-biden-trump/24election-briefing-biden-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "How Mormons Fed Up With Trump Could Help Lift Biden in Arizona"
+    excerpt: "Loyalty to the Republican Party is ingrained in the Latter-day Saints religion. But in Arizona, some find the president’s behavior at odds with their values and are shifting to Joe Biden."
+    publishedDateTime: 2020-10-18T21:45:00Z
+    webUrl: "https://www.nytimes.com/2020/10/18/us/politics/arizona-mormons-trump-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/18/us/politics/arizona-mormons-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/18/us/politics/arizona-mormons-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/19/us/politics/19arizona-mormons1/19arizona-mormons1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden vs. Trump: ‘Who Won? The Moderator’"
+    excerpt: "Who won? The moderator.” But there was disagreement as to who was the more persuasive orator. “Trump’s attack on Biden’s statement about oil and gas was the first effective outreach to traditional conservatives that I have seen during the election,"
+    publishedDateTime: 2020-10-24T00:33:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/opinion/presidential-debate-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/opinion/presidential-debate-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/opinion/presidential-debate-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/23/opinion/23opreaders-scorecard/23opreaders-scorecard-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden, Trump reach out to Puerto Rican voters—including through relatives on the island"
+    excerpt: "When you are island born, you have the highest amount of connections to the island among family, friends and neighbors,\" said Natascha Otero, from \"Boricuas con Biden.\""
+    publishedDateTime: 2020-10-19T21:24:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/biden-trump-reach-out-puerto-rican-voters-including-through-relatives-n1243918"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243918"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243918"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421332/201019-old-san-juan-puerto-rico-ew-416p_ac7be00ac0901364061d0b8ef3b41513.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump apparently fooled by satirical website's Twitter story"
-    excerpt: "President Donald Trump on Friday shared a story from a known news satire website seemingly in earnest, using the fake report to blast Twitter’s handling of dubious allegations against Democratic presidential nominee Joe Biden."
-    publishedDateTime: 2020-10-16T11:21:00Z
-    webUrl: "https://www.politico.com/news/2020/10/16/trump-apparently-fooled-by-satirical-websites-twitter-story-429776"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/16/trump-apparently-fooled-by-satirical-websites-twitter-story-429776"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/16/trump-apparently-fooled-by-satirical-websites-twitter-story-429776"
+  - title: "Fact check: Biden suggests Trump could deplete Social Security by 2023. Needs context."
+    excerpt: "The Biden campaign has alleged that Trump was arguing for a de facto gutting of Social Security, since it is funded by payroll taxes Trump has said he wants to eliminate."
+    publishedDateTime: 2020-10-23T13:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244437"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244210"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
     images:
-      - url: "https://static.politico.com/c9/db/76268b5049a3bebd65210400bc30/ap20290037876267-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump delivers expletive-filled pep talk to campaign staff"
-    excerpt: "We are winning right now and they know it...So get off this phone and work your asses off,\" the president said in a phone call to his team."
-    publishedDateTime: 2020-10-19T16:14:00Z
-    webUrl: "https://www.politico.com/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/80/ce/22e0d13a4f5298ce81078d6bd252/20201019-donald-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump's despicable rants against Whitmer"
-    excerpt: "Dean Obeidallah writes that Donald Trump's continued attacks on Michigan Governor Gretchen Whitmer -- the target of an alleged rightwing kidnap plot -- shows that he makes up for his of compassion and empathy with cruelty and vindictiveness."
-    publishedDateTime: 2020-10-18T23:43:00Z
-    webUrl: "https://www.cnn.com/2020/10/18/opinions/trump-despicable-rants-whitmer-obeidallah/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/opinions/trump-despicable-rants-whitmer-obeidallah/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/opinions/trump-despicable-rants-whitmer-obeidallah/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009162352-whitmer-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump campaign protests topics of final presidential debate"
-    excerpt: "A letter from manager Bill Stepien insists the event focus on foreign policy, claiming the campaigns agreed on the topics months ago."
-    publishedDateTime: 2020-10-19T20:31:00Z
-    webUrl: "https://www.politico.com/news/2020/10/19/trump-campaign-protests-final-debate-topics-430201"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-campaign-protests-final-debate-topics-430201"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-campaign-protests-final-debate-topics-430201"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/3f/c2/9d577aa04e27942762efedc491ea/20201019-trump-biden-debate-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump taps 2016 brain trust to stage another stunner in 2020"
-    excerpt: "Corey Lewandowski, David Bossie and many others from Trump's first run have resurfaced to offer advice and reassurance to the trailing incumbent."
-    publishedDateTime: 2020-10-20T00:18:00Z
-    webUrl: "https://www.politico.com/news/2020/10/19/trump-2016-campaign-staff-return-2020-elections-430186"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-2016-campaign-staff-return-2020-elections-430186"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-2016-campaign-staff-return-2020-elections-430186"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/34/2f/37a2bdae4e069ad2868adf02f2fa/gettyimages-650653526.jpg"
-        width: 4834
-        height: 3221
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Donald Trump’s Strongman Act, and Its Limits"
     excerpt: "The president walks a thin line between authoritarianism and show business. But the theater of politics only works when you don’t acknowledge it’s theater."
@@ -352,141 +320,111 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Trump Records Shed New Light on Chinese Business Pursuits"
-    excerpt: "As he raises questions about his opponent’s standing with China, President Trump’s taxes reveal details about his own activities there, including a previously unknown bank account."
-    publishedDateTime: 2020-10-21T10:29:00Z
-    webUrl: "https://www.nytimes.com/2020/10/20/us/trump-taxes-china.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/20/us/trump-taxes-china.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/20/us/trump-taxes-china.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/20/multimedia/xxtrump-china-1/xxtrump-china-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump personnel office weighs asking appointees to offer their resignations"
-    excerpt: "The potential plan is angering officials who fear it will cause chaos in their personal lives as they plot their next moves."
-    publishedDateTime: 2020-10-09T21:26:00Z
-    webUrl: "https://www.politico.com/news/2020/10/09/white-house-appointees-resignations-428412"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/09/white-house-appointees-resignations-428412"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/09/white-house-appointees-resignations-428412"
+  - title: "Trump's sideshow fizzles out"
+    excerpt: "The president tried to turn debate day into a trial of the Biden family's allegedly shady business dealings. It didn't go smoothly."
+    publishedDateTime: 2020-10-23T11:39:00Z
+    webUrl: "https://www.politico.com/news/2020/10/23/hunter-biden-wins-the-debate-431558"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/23/hunter-biden-wins-the-debate-431558"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/23/hunter-biden-wins-the-debate-431558"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 133
+    quality: 135
     images:
-      - url: "https://static.politico.com/2f/82/1d35ad4a4aee9069628e092332c8/201009-trump-mcentee-ap-773.jpg"
-        width: 700
-        height: 489
+      - url: "https://static.politico.com/2f/24/7c30b9bf4e0fb1fa0ae19d3ecec2/102120-trump-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Trump yard sign rigged with razor blades left town worker needing 13 stitches"
-    excerpt: "The worker was trying to move a sign that was too close to the road when \"he was cut by razor blades that had been attached to the bottom edge of the sign,\" the sheriff's office said."
-    publishedDateTime: 2020-10-09T14:29:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/trump-yard-sign-rigged-razor-blades-left-town-worker-needing-n1242707"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242707"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242707"
+  - title: "2020 Election Live Updates: Trump and Biden Hit Swing States, With 10 Days Until Election Day"
+    excerpt: "RIGHT NOW ‘Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."
+    publishedDateTime: 2020-10-24T22:32:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election/trump-campaigns-in-suburban-ohio-where-he-hopes-to-regain-ground"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/24/us/24elections-briefing-trump/24elections-briefing-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Fact check: Trump says 2.2 million people were projected to die from Covid-19"
+    excerpt: "How Biden or Trump could win. Trump, defending his administration's pandemic response, claimed Thursday that \"2.2 million people — modeled out — were expected to die\" from the coronavirus. Trump has made this claim previously — that original projections for coronavirus deaths in America said the country would lose 2."
+    publishedDateTime: 2020-10-23T19:49:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244395"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244210"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 132
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418809/201009-razor-trump-sign-al-0938_b70d53c7f8e85aa9e005ebbad63c07db.jpg"
-        width: 469
-        height: 351
-        isCached: true
-  - title: "Barr's defense of Trump in E. Jean Carroll's suit could give presidents carte blanche"
-    excerpt: "If President Donald Trump and the Justice Department have their way, presidents will be legally permitted to defame anyone during their four (or eight) years in office. On Wednesday, a federal judge in Manhattan will hear arguments on the Justice Department's motion to substitute the United States for Trump as the defendant in a defamation suit."
-    publishedDateTime: 2020-10-21T09:20:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/opinion/barr-s-defense-trump-e-jean-carroll-s-suit-could-ncna1244088"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244088"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244088"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 128
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421572/201020-ONE-TIME-USE-e-jean-carroll-cs-222p_23661d234dc9620b78178430deffa91b.jpg"
-        width: 3003
-        height: 2096
-        isCached: true
-  - title: "N.J. mayor ignores calls to resign over profane social media post about Trump, his supporters"
-    excerpt: "\"Those who feel that they've been condemned, they can have recourse at the voting booth in two years,\" Flemington Mayor Betsy Driver said Tuesday."
-    publishedDateTime: 2020-10-15T21:15:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/n-j-mayor-ignores-calls-resign-over-profane-social-media-n1243557"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243557"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243557"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 124
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_42/3420491/201015-mayor-betsy-driver-jm-1343_cf0a0106581d93aad1e5700e86de5aa9.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg"
         width: 2500
-        height: 1667
+        height: 1250
         isCached: true
-  - title: "‘Where are all of the arrests?’: Trump demands Barr lock up his foes"
-    excerpt: "The day-long run of tweets and retweets marked the most frantic stretch of Trump’s public activity since he left Walter Reed."
-    publishedDateTime: 2020-10-07T20:03:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/trump-demands-barr-arrest-foes-427389"
+  - title: "Trump amplifies allegations of bias against another presidential debate moderator"
+    excerpt: "President Donald Trump on Saturday again amplified accusations of bias against a debate moderator, deriding NBC News correspondent Kristin Welker ahead of next week's final debate against Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-17T21:10:00Z
+    webUrl: "https://www.politico.com/news/2020/10/17/trump-targets-presidential-debate-moderator-again-430027"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/17/trump-targets-presidential-debate-moderator-again-430027"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/17/trump-targets-presidential-debate-moderator-again-430027"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/1e/85/09bab0be45e18060bc602de671b2/ap20291699373363-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "POLITICO Playbook: New poll: Biden edges Trump on the economy"
+    excerpt: "ONALD TRUMP was apparently so angry with CBS’ LESLEY STAHL that he cut short an interview and tweeted out a clip of the anchor"
+    publishedDateTime: 2020-10-21T11:02:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/10/21/new-poll-biden-edges-trump-on-the-economy-490664"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/fd/30/b4d31a8e493580d7c6d59ec77bf4/gettyimages-1229190970.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "‘It’s clear Donald Trump’s campaign is desperate’: President Trump campaigns in traditional"
+    excerpt: "With a little over two weeks until the election, President Donald Trump is spending a considerable amount of time campaigning in traditionally red states as he continues to trail Democratic presidential nominee former Vice President Joe Biden in the polls."
+    publishedDateTime: 2020-10-19T01:23:00Z
+    webUrl: "https://www.msnbc.com/american-voices/watch/-it-s-clear-donald-trump-s-campaign-is-desperate-president-trump-campaigns-in-traditional-94110277735"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo94110277735"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo94110277735"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 125
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_Menendez_LorellaPraeli_BrittanyPacknettCunningham_DaveJacobson_2020election_201018_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump, in Pennsylvania, faces an old foe: Obama"
+    excerpt: "The president’s rally Tuesday night came only hours before his predecessor was set to hold his own rally in the state."
+    publishedDateTime: 2020-10-21T02:30:00Z
+    webUrl: "https://www.politico.com/news/2020/10/20/trump-obama-pennsylvania-430349"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/5d/06/8a423dc64b47915d3212032d11c4/201007-barr-trump-ap-773.jpg"
+      - url: "https://static.politico.com/5b/c4/4dffd5d14567b100759c19d555c8/201020-trump-pa-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Trump's conspiracy theorizing reaches unsettling new depths"
-    excerpt: "To know anything about Donald Trump is to recognize his preoccupation with conspiracy theories. In fact, the Republican relied on a racist conspiracy theory as part of his rise to political prominence,"
-    publishedDateTime: 2020-10-14T15:52:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-conspiracy-theorizing-reaches-unsettling-new-depths-ncna1243338"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2020_42/3419974/201013-donald-trump-rally-ac-910p_e23b1abe2187633878e526f64d203010.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump's offensive against mask-wearing takes a ridiculous turn"
-    excerpt: "For Trump to start throwing around this new talking point about 85% of mask-wearers, based on a perversion of science, is utterly bonkers."
-    publishedDateTime: 2020-10-16T19:30:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-offensive-against-mask-wearing-takes-ridiculous-turn-ncna1243770"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_41/3417708/201005-donald-trump-takes-off-mask-ew-736p_4e845b262807a1763877e9318d7c613b.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Women March in Washington Against Trump and Barrett"
-    excerpt: "Women’s March protesters took to the streets of Washington on Saturday to rally against President Trump and his nomination of Judge Amy Coney Barrett to the Supreme Court."
-    publishedDateTime: 2020-10-17T20:57:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007401222/womens-march-against-barrett-trump.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/17/us/politics/17elections-brief-march1/17elections-brief-march1-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Trump campaign adviser signals president will tone it down at final debate"
     excerpt: "Trump campaign senior adviser Jason Miller signaled Sunday that President Donald Trump will take a less combative tack toward Democratic presidential nominee Joe Biden during their televised debate this week."
@@ -502,33 +440,15 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Pro-Trump Group Closes Campaign by Shopping Dirt on the Lincoln Project"
-    excerpt: "A memo put together by America First Action goes after the spending decisions by the the anti-Trump group. But why even bother?"
-    publishedDateTime: 2020-10-13T22:32:00Z
-    webUrl: "https://www.thedailybeast.com/pro-trump-group-closes-campaign-by-shopping-dirt-on-the-lincoln-project"
+  - title: "‘Fox & Friends’ Host Steve Doocy to Trump: Stop Talking About Hunter Biden"
+    excerpt: "In the two-and-a-half days immediately following the New York Post’s hit job on Hunter Biden, Fox News reportedly dedicated three times as much airtime to the former vice president’s son as it did to the COVID-19 pandemic."
+    publishedDateTime: 2020-10-19T16:59:00Z
+    webUrl: "https://www.thedailybeast.com/fox-and-friends-host-steve-doocy-tell-trump-to-stop-talking-about-hunter-biden"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 45
-  - title: "Trump's Campaign Is in Total Collapse, and That Town Hall Proved It"
-    excerpt: "Joe Biden was more presidential in 90 minutes then Donald Trump has been in four long years, let alone in his 60-minute flop-sweat attempt at counter-programming."
-    publishedDateTime: 2020-10-16T13:22:00Z
-    webUrl: "https://www.thedailybeast.com/trumps-campaign-is-in-total-collapse-and-that-town-hall-proved-it"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
-  - title: "Trump Finally Slaps Google, and Protects Democracy"
-    excerpt: "His motives may not be pure and his timing is suspect, but applaud the president for trying to cut one of our monopolistic and anti-democratic tech giants down to size."
-    publishedDateTime: 2020-10-20T21:02:00Z
-    webUrl: "https://www.thedailybeast.com/trump-finally-slaps-google-with-anti-trust-suit-and-protects-democracy"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
+    quality: 58
 
 secured: "Fzv5AosOXC2N/A4W6lKJrxhFnk84ITgpjDgoh8LHhseyKEemK9VqZnrh2PiBzbkbEPlPXArNrULp5IYisyY6EjOEkbcr0MhG9WSZYjO/+Vv+cSY7ZrS/LjOwKdOeSmF9ZZ1aupCpJIFcxSgKwKntnTwjwfeBSUTdj+eJP+fNrlFYQw8vAIoUs9pC5UfvvT6ivMbmBoPeoPOt+Hexv+qSmHpaAw7QOH+EB0jCgxtpHXP2NvSzb3JgvMUejdu5kjN610h9bO9p6Ca+iefWeQY7JTkGfRhfg3aWRqigOjNuxPJP70yXA9Fl88xWKdD+pF2VWis8IZkl8LDiorNmsK2HX3XVA6M5FC/fl/wz2gAJm+U=;zfClvGm+HllAEgZD926S/A=="
 ---

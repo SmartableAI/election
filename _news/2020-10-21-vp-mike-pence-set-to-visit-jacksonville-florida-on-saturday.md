@@ -171,22 +171,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "LIVE COVERAGE: Vice President Mike Pence’s visit to Tallahassee"
-    excerpt: "Pence 2020 campaign stop in Florida's capital city on Saturday.  We'll also provide early reaction to Pence's visit. A Democratic press conference is planned for 2 p.m. ET, also in Tallahassee.  Biden-Harris campaign blasts Pence on pandemic response before Tallahassee arrival Prior to Vice President Mike Pence's scheduled arrival at the Tallahassee International Airport on Saturday evening,"
-    publishedDateTime: 2020-10-24T17:25:00Z
-    webUrl: "https://www.tallahassee.com/story/news/2020/10/24/live-coverage-vice-president-mike-pences-visit-tallahassee/3725860001/"
-    ampWebUrl: "https://amp.tallahassee.com/amp/3725860001"
-    cdnAmpWebUrl: "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3725860001"
-    type: article
-    provider:
-      name: Tallahassee Democrat
-      domain: tallahassee.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/10/NPPP/be490532-434e-41dc-979a-f9a6c0c1a5b0-Election_2020_Florida.jpg?auto=webp&crop=3497,1968,x0,y307&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Vice President Mike Pence to rally in Kinston, NC on Sunday"
     excerpt: "Pence will hold a 'Make America Great Again!' event in Kinston, which is in Lenoir County. The rally is set for 6 p.m."
     publishedDateTime: 2020-10-25T03:44:00Z

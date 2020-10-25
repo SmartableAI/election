@@ -187,22 +187,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "LIVE COVERAGE: Vice President Mike Pence’s visit to Tallahassee"
-    excerpt: "Pence 2020 campaign stop in Florida's capital city on Saturday.  We'll also provide early reaction to Pence's visit. A Democratic press conference is planned for 2 p.m. ET, also in Tallahassee.  Biden-Harris campaign blasts Pence on pandemic response before Tallahassee arrival Prior to Vice President Mike Pence's scheduled arrival at the Tallahassee International Airport on Saturday evening,"
-    publishedDateTime: 2020-10-24T17:25:00Z
-    webUrl: "https://www.tallahassee.com/story/news/2020/10/24/live-coverage-vice-president-mike-pences-visit-tallahassee/3725860001/"
-    ampWebUrl: "https://amp.tallahassee.com/amp/3725860001"
-    cdnAmpWebUrl: "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3725860001"
-    type: article
-    provider:
-      name: Tallahassee Democrat
-      domain: tallahassee.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/10/NPPP/be490532-434e-41dc-979a-f9a6c0c1a5b0-Election_2020_Florida.jpg?auto=webp&crop=3497,1968,x0,y307&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "VP Mike Pence in Pa. Saturday: Here's what to know about tickets, schedule"
     excerpt: "Vice President Mike Pence is once again making his way to central Pennsylvania, but this time the campaign trail is taking him to Berks County. Pence, who was last in Pennsylvania"
     publishedDateTime: 2020-10-16T02:52:00Z
@@ -300,6 +284,6 @@ related:
       domain: fox59.com
     quality: 35
 
-secured: "cbipJxticZjxULbVWur3zBW/eSReQENRuvJT9ov1mjAc5WUA0G4/O51ic1r9nI6ki6eO0Mei8XuROZirigsxVcxxQ35qg/c6RqPaAZH/wsGqOEERrdpMGvb0WQXFCvQTuuW8d4f8VsrfugUPKAdXVFgYG62EEg34cYfRwvgtmvOWbsMBu1j0jSRZjm/wsHb1lBJxydBJKeiwZ9zcTfxbnYzT68r+9vWJQkg9NvGu5LVC60talK3itaCshz9pqAc4e+Kuu9Do965Syp9dIGXtyqLp1S/Y2vcFcK3ozYJJ9tEW6p3CNYNRowW9OGgfy58ctiJUPvLfyI/UYAnomxH4RvTO86TwUuCQmkV2O8xNQrc=;2WbhLxAPKlHtLkiQd4BTSg=="
+secured: "cMtv5oZeoteIdXNMVbyK+PfTG2LAdZRPCNnreDbcdjxtptSwVV5dcJ3QUfEUcOGGtcHhLWMpwiXCioHHCURpknh5vCrDcAYigbAdZfatrW4DhK9r3HFI+8gpGKKKlxQ4bRfWZH1uORXJ6ZEyeaqAONoWbTNdM8ue1A02scInNP3XOUCVqbuNi6nCEeGaF8tL2kZyHTWhBdCTHoTYd3o2N2zA/iMJNaIbDE3Nkfzy5+P4eHG+yh/kyqIXH1mU5WtP1LYC3UJKcqvMyNrrmI0hG0dKpG2yw5mY+wiUiOH5WeI9A8A6OxJfnhjZXwZEpBT6IJ4h5EaeI17zJIo1QZ180hoAIdG6uUDqxnrDPMz8W5BYHzGeyc4ofShwPLUPLFMOjeNmJoFTXmBAVYHW8CZijWcoWBaZEoUmYxTJifWxetT2sZWMhHM6qoHt26vNQXe5GbqydKZdsss5bmffMztoa1gKP8p6CllLpp6TR11r+zOm+xeQPUu0lfYNJ0qkBqgfOtJk0/baA4Sr2uY7QpQNbQ==;kkwxqiYQHU73n+7od0omWg=="
 ---
 

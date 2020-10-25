@@ -286,6 +286,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump goes on offensive against Biden with trip to New Hampshire"
+    excerpt: "President Donald Trump will go on the offensive against Democratic rival Joe Biden on Sunday with a campaign trip to New Hampshire, a state he narrowly lost in 2016 but is trying to reclaim in this year's White House race."
+    publishedDateTime: 2020-10-25T05:00:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN27A04U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A04U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A04U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538728882&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O03K"
+        width: 822
+        height: 545
+        isCached: true
   - title: "Trump votes early in Florida as Biden warns of COVID-19 'dark winter'"
     excerpt: "President Donald Trump voted in his adopted home of Florida before hitting the campaign trail for rallies in three swing states on Saturday, joining more than 54 million Americans who have cast early ballots at a record-setting pace ahead of the Nov."
     publishedDateTime: 2020-10-24T18:25:00Z
@@ -1571,6 +1587,22 @@ related:
         width: 1024
         height: 678
         isCached: true
+  - title: "Joe and Jill Biden to visit eastern Pennsylvania on Saturday (UPDATE)"
+    excerpt: "Biden campaigns in Bucks, Trump votes in Fla. and plans Pa. stop Monday. Democratic presidential candidate and former Vice President Joe Biden is scheduled Saturday to mak"
+    publishedDateTime: 2020-10-24T17:30:00Z
+    webUrl: "https://www.nj.com/politics/2020/10/joe-and-jill-biden-to-visit-eastern-pennsylvania-on-saturday.html"
+    ampWebUrl: "https://www.nj.com/politics/2020/10/joe-and-jill-biden-to-visit-eastern-pennsylvania-on-saturday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/10/joe-and-jill-biden-to-visit-eastern-pennsylvania-on-saturday.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OS3DKJ3AAJERDOVOB74RHT6NGI.JPG"
+        width: 7216
+        height: 4813
+        isCached: true
   - title: "Joe Biden Claps Back at Lara Trump Over Coronavirus Comments: ‘She Doesn’t Know What She’s Talking About’"
     excerpt: "Joe Biden rebuked Lara Trump's assertion that had he been president when the coronavirus pandemic started, there would be 2 million Americans dead rather than the 218,000 who have died on President Donald Trump's watch."
     publishedDateTime: 2020-10-17T19:10:00Z
@@ -1634,6 +1666,15 @@ related:
       name: CBS Miami
       domain: cbslocal.com
     quality: 61
+  - title: "So say Joe Biden or Donald Trump refuses to concede election — what happens then?"
+    excerpt: "America sits on the brink of the most consequential election in modern history, and President Donald Trump has turned up the heat by refusing to commit to a peaceful transition of power if he loses. \"Well,"
+    publishedDateTime: 2020-10-25T02:11:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/25/what-happens-if-donald-trump-joe-biden-refuses-concede-election/3669290001/"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 60
   - title: "As COVID-19 hospitalizations set Ohio record, Vice President Mike Pence in Cincinnati today to hold rally for Trump re-election"
     excerpt: "Attendees will be admitted to the Lunken event between 4 and 5:30 p.m. Temperature checks will be conducted and attendees will be given masks."
     publishedDateTime: 2020-10-20T19:39:00Z
@@ -1717,6 +1758,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "‘Saturday Night Live’ Tackles Trump’s COVID Plan, Rudy Giuliani and the Mute Button in Presidential Debate Sketch"
+    excerpt: "With the second presidential debate leading the “Saturday Night Live’s” Oct 24 show, that meant both Alec Baldwin and Jim Carrey were once again in the spotlight. But, in a fun"
+    publishedDateTime: 2020-10-25T04:32:00Z
+    webUrl: "https://variety.com/2020/tv/news/saturday-night-live-presidential-debate-mute-button-maya-rudolph-1234815002/"
+    ampWebUrl: "https://variety.com/2020/tv/news/saturday-night-live-presidential-debate-mute-button-maya-rudolph-1234815002/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/tv/news/saturday-night-live-presidential-debate-mute-button-maya-rudolph-1234815002/amp/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 54
+    images:
+      - url: "https://variety.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-24-at-8.56.29-PM.png?w=781"
+        width: 781
+        height: 437
+        isCached: true
   - title: "How Important Is The Final Debate For Trump? After Poor Showing In First Debate, President May Need A 'Game Changer'"
     excerpt: "With his poll numbers lagging and Election Day less than two weeks away, President Donald Trump may need to make a compelling case for reelection Thursday in the final presidential debate. Over 35 million Americans have already voted in the presidential election but Trump may seek to sway some undecided voters and boost conservative turnout by outshining Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-22T20:20:00Z

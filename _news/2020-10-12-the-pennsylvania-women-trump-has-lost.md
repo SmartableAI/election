@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvani
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
 type: article
 quality: 175
-heat: 655
+heat: 615
 published: true
 
 provider:
@@ -175,22 +175,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "2020 Election Live Updates: Trump to Travel to 3 States as Biden Focuses on Pennsylvania"
-    excerpt: "President Trump and Joe Biden prepare for their closing arguments in the final stretch, taking them to some of the country’s top battlegrounds. An order allowing multiple drop boxes per county in Texas is upheld."
-    publishedDateTime: 2020-10-24T14:46:00Z
-    webUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election"
-    ampWebUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/24/us/trump-biden-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 156
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/24/us/24election-briefing-biden-trump/24election-briefing-biden-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Can Trump Squeeze More From His White Base in Pennsylvania and Beyond?"
     excerpt: "With President Trump trailing Joseph R. Biden Jr. in Pennsylvania in nearly every poll, his last refuge and perhaps best hope is to maximize the turnout of working-class white voters."
     publishedDateTime: 2020-10-11T13:10:00Z
@@ -350,20 +334,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/27/us/politics/26dispatches-pennsylvania/26dispatches-pennsylvania-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Trump, in Pennsylvania, faces an old foe: Obama"
-    excerpt: "The president’s rally Tuesday night came only hours before his predecessor was set to hold his own rally in the state."
-    publishedDateTime: 2020-10-21T02:30:00Z
-    webUrl: "https://www.politico.com/news/2020/10/20/trump-obama-pennsylvania-430349"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/5b/c4/4dffd5d14567b100759c19d555c8/201020-trump-pa-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women"
     excerpt: "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit."

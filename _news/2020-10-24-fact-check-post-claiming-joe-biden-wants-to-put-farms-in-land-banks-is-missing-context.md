@@ -33,14 +33,14 @@ images:
 related:
   - title: "Fact check: Hillary Clinton, not Joe Biden, used the phrase 'super predators'"
     excerpt: "Joe Biden referred to Black people as 'super predators' during the passage of the 1994 crime bill. The Violent Crime Control and Law Enforcement Act of 1994, also known"
-    publishedDateTime: 2020-10-24T22:51:00Z
-    webUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/24/fact-check-hillary-clinton-called-some-criminals-super-predators/6021383002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6021383002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6021383002"
+    publishedDateTime: 2020-10-24T22:34:00Z
+    webUrl: "https://www.freep.com/story/news/factcheck/2020/10/24/fact-check-hillary-clinton-called-some-criminals-super-predators/6021383002/"
+    ampWebUrl: "https://amp.freep.com/amp/6021383002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6021383002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 72
     images:
       - url: "https://www.gannett-cdn.com/-mm-/d14072ff1d27975f8f68732fbeac8d61be3a1b0b/c=0-851-2298-2149/local/-/media/2015/02/24/USATODAY/USATODAY/635603856883000837-AFP-526532422.jpg?auto=webp&format=pjpg&width=1200"

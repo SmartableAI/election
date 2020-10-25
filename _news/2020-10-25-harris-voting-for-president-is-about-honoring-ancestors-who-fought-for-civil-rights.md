@@ -144,6 +144,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kamala Harris caught on hot mic checking rally location: 'Are we in Cleveland?'"
+    excerpt: "A hot mic appeared to catch Democratic vice presidential nominee Sen. Kamala Harris checking her location before addressing supporters Saturday."
+    publishedDateTime: 2020-10-25T04:04:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ub33TkzpNkc/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298765259512.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden spotlights Obamacare in Supreme battle over Barrett"
     excerpt: "Democratic presidential nominee Joe Biden's making it clear that his opposition to the confirmation of Amy Coney Barrett to the Supreme Court centers on the possibility that President Trump’s high court nominee could potentially cast the decisive vote to strike down the national health care law."
     publishedDateTime: 2020-10-12T23:21:13Z

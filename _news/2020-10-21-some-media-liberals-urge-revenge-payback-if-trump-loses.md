@@ -62,22 +62,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Nuns wearing MAGA masks spotted behind Trump at rally"
-    excerpt: "A group of Trump-loving nuns gained attention on social media Saturday after they were spotted wearing MAGA masks with their habits and cheering on the president behind him at his rally in Circleville, Ohio. "
-    publishedDateTime: 2020-10-25T00:14:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/trkm0wpN4xI/nuns-maga-masks-trump-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/181cfcca-2a48-4e5d-8d4b-11a506858939/daa0e4ed-79eb-48d3-a9fe-7476913978fa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Meadows says Trump tweets to declassify Russia probe docs 'were not' direct orders"
     excerpt: "White House chief of staff Mark Meadows rejected suggestions this week that President Trump’s tweets earlier this month calling for the “total declassification” of all documents related to the Russia investigation and the FBI’s probe into Hillary Clinton’s private email server were an explicit order"
     publishedDateTime: 2020-10-21T14:48:12Z
@@ -141,6 +125,22 @@ related:
       - url: "https://images.wsj.net/im-247630?width=620&size=1.5"
         width: 620
         height: 413
+        isCached: true
+  - title: "Nuns wearing MAGA masks spotted behind Trump at rally"
+    excerpt: "A group of Trump-loving nuns gained attention on social media Saturday after they were spotted wearing MAGA masks with their habits and cheering on the president behind him at his rally in Circleville,"
+    publishedDateTime: 2020-10-25T00:17:00Z
+    webUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/181cfcca-2a48-4e5d-8d4b-11a506858939/daa0e4ed-79eb-48d3-a9fe-7476913978fa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "m5Ckg1tJnA4D9gFdvzxEEmoIspQX8Rhl+HXqlxktOddha9JSCjbbqkw9YvbGjfPuW/Se4PLcI4n4PRBHVlvzYLMcj/g212sUk+ulFuwpZn4cTohvLoZE3Mk5V21+kARN7v1twwomZs/kf7ZD/3Q3WIsTxdCUKVBwePcnyyYUkETlT8gTKAZhO+Y8cp0E+X91852JVtz+CucUiN3j8XC/wbuEJ6YKXpPlVT5s4OuVekq/yKo8tMVdAbZ+AaGtKtQydnZDfGymxLIjYHqN/AKGUqmQ69WHNjcjmAEHAvAgbQUKDC4VimycAA4IvLrtFtY5S+Er+57DJkMYJ5KymoCPofU+HMMcA4SHUon6XT+hYwk=;78ejQxuFE5V1eVpJRShcQw=="

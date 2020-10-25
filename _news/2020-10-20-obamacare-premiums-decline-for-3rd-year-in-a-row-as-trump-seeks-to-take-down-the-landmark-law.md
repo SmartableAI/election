@@ -367,22 +367,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "‘It’s clear Donald Trump’s campaign is desperate’: President Trump campaigns in traditional"
-    excerpt: "With a little over two weeks until the election, President Donald Trump is spending a considerable amount of time campaigning in traditionally red states as he continues to trail Democratic presidential nominee former Vice President Joe Biden in the polls."
-    publishedDateTime: 2020-10-19T01:23:00Z
-    webUrl: "https://www.msnbc.com/american-voices/watch/-it-s-clear-donald-trump-s-campaign-is-desperate-president-trump-campaigns-in-traditional-94110277735"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo94110277735"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo94110277735"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 125
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_Menendez_LorellaPraeli_BrittanyPacknettCunningham_DaveJacobson_2020election_201018_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Trump's tweet on 'total' declassification of Russia docs not an order, White House tells judge"
     excerpt: "The White House chief of staff told the judge to ignore Trump's tweet saying he had authorized the declassification of 'any & all documents' relating to the Russia probe."
     publishedDateTime: 2020-10-20T18:42:00Z
