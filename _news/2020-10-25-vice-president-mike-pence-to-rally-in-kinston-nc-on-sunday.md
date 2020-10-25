@@ -2,26 +2,26 @@
 category: news
 title: "Vice President Mike Pence to rally in Kinston, NC on Sunday"
 excerpt: "Pence will hold a 'Make America Great Again!' event in Kinston, which is in Lenoir County. The rally is set for 6 p.m."
-publishedDateTime: 2020-10-25T03:44:00Z
-originalUrl: "https://www.wfaa.com/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
-webUrl: "https://www.wfaa.com/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
-ampWebUrl: "https://www.wfaa.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
-cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+publishedDateTime: 2020-10-25T07:32:00Z
+originalUrl: "https://www.12news.com/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+webUrl: "https://www.12news.com/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+ampWebUrl: "https://www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: WFAA8
-  domain: wfaa.com
+  name: KPNX
+  domain: 12news.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.wfaa.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_1140x641.jpg"
+  - url: "https://media.12news.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -274,6 +274,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Mike Pence to hold campaign rally in South Carolina on Tuesday"
+    excerpt: "Campaign officials say all attendees “will be given a temperature check, masks which they are instructed to wear, and access to hand sanitizer.”"
+    publishedDateTime: 2020-10-25T07:23:00Z
+    webUrl: "https://www.live5news.com/2020/10/24/vice-president-mike-pence-hold-campaign-rally-south-carolina-tuesday/"
+    type: article
+    provider:
+      name: Live 5 News
+      domain: live5news.com
+    quality: 52
+    images:
+      - url: "https://www.live5news.com/resizer/xYNk5LfUmwdqaDzypZKMR-Faiwg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/ZIPDC6UTKZD2BLSWDSTI7LDJTE.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence rallies base during MAGA rally in Fort Wayne"
     excerpt: "The Hoosier state is a stronghold for Republicans, which experts say, raises the question of why the vice president is campaigning here in the critical two weeks prior to the election. Political science associate professor Doctor Laura Wilson told us this is about supporting other Republicans on the ballot and getting as many Hoosiers to the polls as possible."
     publishedDateTime: 2020-10-23T22:43:00Z
@@ -284,6 +298,6 @@ related:
       domain: fox59.com
     quality: 35
 
-secured: "cMtv5oZeoteIdXNMVbyK+PfTG2LAdZRPCNnreDbcdjxtptSwVV5dcJ3QUfEUcOGGtcHhLWMpwiXCioHHCURpknh5vCrDcAYigbAdZfatrW4DhK9r3HFI+8gpGKKKlxQ4bRfWZH1uORXJ6ZEyeaqAONoWbTNdM8ue1A02scInNP3XOUCVqbuNi6nCEeGaF8tL2kZyHTWhBdCTHoTYd3o2N2zA/iMJNaIbDE3Nkfzy5+P4eHG+yh/kyqIXH1mU5WtP1LYC3UJKcqvMyNrrmI0hG0dKpG2yw5mY+wiUiOH5WeI9A8A6OxJfnhjZXwZEpBT6IJ4h5EaeI17zJIo1QZ180hoAIdG6uUDqxnrDPMz8W5BYHzGeyc4ofShwPLUPLFMOjeNmJoFTXmBAVYHW8CZijWcoWBaZEoUmYxTJifWxetT2sZWMhHM6qoHt26vNQXe5GbqydKZdsss5bmffMztoa1gKP8p6CllLpp6TR11r+zOm+xeQPUu0lfYNJ0qkBqgfOtJk0/baA4Sr2uY7QpQNbQ==;kkwxqiYQHU73n+7od0omWg=="
+secured: "t6FeDOjiTjEYupS0xut3OthSfUFU/Fng6h5Fghw5MswiUKE3r1ubAqcXwprEvIb7Nv0JQmYMv1sB0TOM+YTru1t90nACflMYS2ll/piOsl3yQbx11ATOj6bONuexwCevPFI2aNjg75tI32XHzvlqg19OXvELdIT/673YZ3EmnIrMHqk1SoYQ6hgougUFKauaKuvylfrcfEZym7/XAE4N4trGWNTxoBd/JaiA9WvK/7GB9lpPX+cexxPZ9rfh/pUSwYYCWal7JbSxzYhr+wF2uZdwdG25T0mS98po13JFIpEr7kbC9VZ2gO52Tu0LeH2iCBZBXHhXXVWbxh2UxADuA7OC3J8VRhDK16IU93tu/hE=;6Ps9k+sb/9qhe7t6BoNcBA=="
 ---
 

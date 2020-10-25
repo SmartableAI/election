@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-t
 cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday?_amp=true"
 type: article
 quality: 75
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -173,17 +173,17 @@ related:
         isCached: true
   - title: "Vice President Mike Pence to rally in Kinston, NC on Sunday"
     excerpt: "Pence will hold a 'Make America Great Again!' event in Kinston, which is in Lenoir County. The rally is set for 6 p.m."
-    publishedDateTime: 2020-10-25T03:44:00Z
-    webUrl: "https://www.wfaa.com/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
-    ampWebUrl: "https://www.wfaa.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    publishedDateTime: 2020-10-25T07:32:00Z
+    webUrl: "https://www.12news.com/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
     type: article
     provider:
-      name: WFAA8
-      domain: wfaa.com
+      name: KPNX
+      domain: 12news.com
     quality: 75
     images:
-      - url: "https://media.wfaa.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_1140x641.jpg"
+      - url: "https://media.12news.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -273,6 +273,20 @@ related:
       - url: "https://s7d2.scene7.com/is/image/TWCNews/1009_n13_pence_arizona_rally_ap"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vice President Mike Pence to hold campaign rally in South Carolina on Tuesday"
+    excerpt: "Campaign officials say all attendees “will be given a temperature check, masks which they are instructed to wear, and access to hand sanitizer.”"
+    publishedDateTime: 2020-10-25T07:23:00Z
+    webUrl: "https://www.live5news.com/2020/10/24/vice-president-mike-pence-hold-campaign-rally-south-carolina-tuesday/"
+    type: article
+    provider:
+      name: Live 5 News
+      domain: live5news.com
+    quality: 52
+    images:
+      - url: "https://www.live5news.com/resizer/xYNk5LfUmwdqaDzypZKMR-Faiwg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/ZIPDC6UTKZD2BLSWDSTI7LDJTE.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice President Mike Pence rallies base during MAGA rally in Fort Wayne"
     excerpt: "The Hoosier state is a stronghold for Republicans, which experts say, raises the question of why the vice president is campaigning here in the critical two weeks prior to the election. Political science associate professor Doctor Laura Wilson told us this is about supporting other Republicans on the ballot and getting as many Hoosiers to the polls as possible."

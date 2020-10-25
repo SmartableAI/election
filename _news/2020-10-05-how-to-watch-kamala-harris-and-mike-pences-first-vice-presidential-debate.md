@@ -1679,6 +1679,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joshua Harris-Till: Joe Biden is the right choice for the next generation"
+    excerpt: "For the next generation, I believe the only choice for president is Joe Biden. This isn’t about politics; this isn’t about lifelong politicians; this isn’t even about a political party. This election is about common sense."
+    publishedDateTime: 2020-10-25T05:00:00Z
+    webUrl: "https://tulsaworld.com/opinion/columnists/joshua-harris-till-joe-biden-is-the-right-choice-for-the-next-generation/article_398a387e-fb7a-11ea-b506-1381693cc740.html"
+    ampWebUrl: "https://tulsaworld.com/opinion/columnists/joshua-harris-till-joe-biden-is-the-right-choice-for-the-next-generation/article_398a387e-fb7a-11ea-b506-1381693cc740.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/opinion/columnists/joshua-harris-till-joe-biden-is-the-right-choice-for-the-next-generation/article_398a387e-fb7a-11ea-b506-1381693cc740.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 99
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/1/96/196a60d8-b228-5cc9-acb5-92b1e5c4253d/5d3b524cd7bb3.image.jpg?crop=1133%2C702%2C28%2C23&resize=1024%2C634&order=crop%2Cresize"
+        width: 1024
+        height: 634
+        isCached: true
   - title: "Mike Pence vs. Kamala Harris: The Most Important Vice Presidential Debate Ever?"
     excerpt: "As Trump combats Coronavirus, it’s unclear if the presidential debates will proceed. In the event that Trump opts out of the next two debates, the vice presidential debate will be critical, putting pressure on Pence and Harris to persuade supporters to back their respective campaigns."
     publishedDateTime: 2020-10-04T15:12:00Z

@@ -879,6 +879,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump, Biden hit battleground states as campaign enters last full week"
+    excerpt: "President Trump and Democratic nominee Joe Biden hit several battleground states Saturday with just over a week to go until Election Day."
+    publishedDateTime: 2020-10-25T06:47:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xF-OjXp8tE/live-updates-trump-biden-hit-battleground-states-as-campaign-enters-last-full-week"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-hit-battleground-states-as-campaign-enters-last-full-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-hit-battleground-states-as-campaign-enters-last-full-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/949c6b43-6a2c-485d-8421-4fe3c105955f/77217d46-0289-4b8a-b61d-69a2dca13b61/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Debate coach Brett O'Donnell reviews what could trip Trump up during debate with Biden"
     excerpt: "Brett O'Donnell, a top GOP political debate coach said Wednesday that President Trump should be vigilant in his upcoming debate with Joe Biden, by steering clear of certain issues which might tank his White House reelection chances. "
     publishedDateTime: 2020-09-24T00:01:03Z

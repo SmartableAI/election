@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 3545
+heat: 3565
 published: true
 
 provider:
@@ -860,6 +860,22 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61c64581-87f3-42e8-b819-ff990711f57b/686a9eec-b575-4a83-a722-330d47f036dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump, Biden hit battleground states as campaign enters last full week"
+    excerpt: "President Trump and Democratic nominee Joe Biden hit several battleground states Saturday with just over a week to go until Election Day."
+    publishedDateTime: 2020-10-25T06:47:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xF-OjXp8tE/live-updates-trump-biden-hit-battleground-states-as-campaign-enters-last-full-week"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-hit-battleground-states-as-campaign-enters-last-full-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-hit-battleground-states-as-campaign-enters-last-full-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/949c6b43-6a2c-485d-8421-4fe3c105955f/77217d46-0289-4b8a-b61d-69a2dca13b61/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

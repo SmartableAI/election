@@ -843,6 +843,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump has less than 2 weeks to turn around dire numbers, and Biden didn't do him any favors in the debate"
+    excerpt: "Joe Biden leads in polls in lots of places, and President Donald Trump needed a Hail Mary at Thursday's debate to turn it around. He didn't get it."
+    publishedDateTime: 2020-10-25T06:44:00Z
+    webUrl: "https://www.businessinsider.com/trump-needed-biden-to-screw-up-in-debate-he-didnt-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-needed-biden-to-screw-up-in-debate-he-didnt-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-needed-biden-to-screw-up-in-debate-he-didnt-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f9254282121130018740575?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "2020 election updates: Trump signs bill to avert shutdown, COVID-19 stimulus talks find life, Trump and Biden campaign after first debate"
     excerpt: "Trump signed a bill early Thursday to avert a government shutdown, stimulus talks continue and Biden and Trump campaign after the first debate."
     publishedDateTime: 2020-10-01T12:00:00Z
@@ -1823,6 +1839,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "IyF+2SbPaL40eWnod9GUHHkNFJpBuatp8IMeATBqT32IF3NIjEhioGsQEPfqHqSle5D0bPTkciSwjnqzuJ26PMkGL2z4KBkCfso+NKk6UR4I+TyWypZ9+vKonR7heC9pahACs/1p/BgYZWjyNqONHWQxrUnLTl4BzFLu09pS+XhdKU2YSYGSsfNP/xma2CWSZ0YqvCGdu2p9ZDrKFBT2jqJQ+BbeAL1FwkPtpjXAUsGssHuov1LKUgc2Tz6EGS5Bm7nLiLcBnuCvQSUgEau19mq6ZfaS7l7HQH61MonKsZdnVK9x0ZqEQt67Ui1iUUSvzTJ6ZWnHIAm+V3lEg/8py95Cx1uPCNN235sgK6fPjJY=;DR/pWrzwtpYDP95tM0mBbA=="
+secured: "1PxPRkbnsX+mAk+SGXWgsag8Dz8isM7E4pqov5MeWrhvSVyU2a/Xi+Qg606GoQWtvwQoD2tTB4VOuqwLEGL/hAFtOir8cA+x36N6LoDko9NhWiE9EMpEojCVEafeDm0mMa7lB35F6X8KKhWyxi4C9zFYvfwXbO5OA6BIT+2Z4w5GjgVoWJMX4+L2RO69yENI3iodSXoKaFR5pLu0JBlmBkhDnsH6PavV8+DOWsHkl9+AkwKBvg0ovDV9Db2djjuURrPkVW4orJWz/1LeL5EoR/VSviI3eLNEuhUVcO0+Cqvf71XosrYTkUX9Jg7DdglNrvDkfGwfcOTSSxPXM1i3CCimjF4Pse/XdhE0CWuebNLMPwDoeFK4/G4GZE6ZSFtqHP7vNbq5sLW/dIRUiVEhsBsXQSZKMiE6X1V6R8oXYie6Uj56tMGxY4+GgQYkUtQy1g46RVtFxF2U2pqP1ZgkPwwfLWAtZhGPzBdrQnUZ28K2K8Ji92PVItiVoWGnBpZ8TvSylacOMPhKS36003eaxA==;K8zE6UgMJqcIiApIu1CC2A=="
 ---
 

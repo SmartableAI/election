@@ -1678,6 +1678,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joshua Harris-Till: Joe Biden is the right choice for the next generation"
+    excerpt: "For the next generation, I believe the only choice for president is Joe Biden. This isn’t about politics; this isn’t about lifelong politicians; this isn’t even about a political party. This election is about common sense."
+    publishedDateTime: 2020-10-25T05:00:00Z
+    webUrl: "https://tulsaworld.com/opinion/columnists/joshua-harris-till-joe-biden-is-the-right-choice-for-the-next-generation/article_398a387e-fb7a-11ea-b506-1381693cc740.html"
+    ampWebUrl: "https://tulsaworld.com/opinion/columnists/joshua-harris-till-joe-biden-is-the-right-choice-for-the-next-generation/article_398a387e-fb7a-11ea-b506-1381693cc740.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/opinion/columnists/joshua-harris-till-joe-biden-is-the-right-choice-for-the-next-generation/article_398a387e-fb7a-11ea-b506-1381693cc740.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 99
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/1/96/196a60d8-b228-5cc9-acb5-92b1e5c4253d/5d3b524cd7bb3.image.jpg?crop=1133%2C702%2C28%2C23&resize=1024%2C634&order=crop%2Cresize"
+        width: 1024
+        height: 634
+        isCached: true
   - title: "How to Watch Kamala Harris and Mike Pence's First Vice Presidential Debate"
     excerpt: "As we approach the final weeks of the 2020 presidential campaign cycle, incumbent vice president Mike Pence and Senator Kamala Harris will soon take the stage for their first and only vice presidential debate before the election,"
     publishedDateTime: 2020-10-05T14:36:00Z
