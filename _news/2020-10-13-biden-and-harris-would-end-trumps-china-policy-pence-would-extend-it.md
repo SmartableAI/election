@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10440
+heat: 10460
 published: true
 
 provider:
@@ -3893,6 +3893,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/405122fe-6c93-4fe3-9650-e54b2cb30a11-XXX__JG19083.JPG?auto=webp&crop=2999,1687,x1,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mike Pence and Kamala Harris Trade Barbs in Civil VP Debate"
+    excerpt: "Vice President Mike Pence defended the administration and accused Harris and Joe Biden of seeking to pack the Supreme Court if Judge Amy Coney Barrett is confirmed. The debate had a calmer tone ..."
+    publishedDateTime: 2020-10-08T02:18:00Z
+    webUrl: "https://variety.com/2020/politics/news/mike-pence-kamala-harris-debate-1234796921/#!"
+    ampWebUrl: "https://variety.com/2020/politics/news/mike-pence-kamala-harris-debate-1234796921/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/politics/news/mike-pence-kamala-harris-debate-1234796921/amp/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 100
+    images:
+      - url: "https://variety.com/wp-content/uploads/2020/10/kamala-pence-debate-split.jpg?w=1000"
+        width: 1000
+        height: 562
         isCached: true
   - title: "TV tonight: Mike Pence, Kamala Harris square off in VP debate"
     excerpt: "Last week, the presidential candidates — Donald Trump and Joe Biden — went at it in an ugly showdown that was described as a “hot mess,” among other things. Tonight, Republican Mike Pence and Democrat Kamala Harris get their turn in their lone meeting at the University of Utah in Salt Lake City."

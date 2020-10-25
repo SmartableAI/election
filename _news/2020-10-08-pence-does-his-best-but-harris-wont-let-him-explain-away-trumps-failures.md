@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2523
+heat: 2543
 published: true
 
 provider:
@@ -798,6 +798,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417889/201006-vp-debate-everything-know-main-cover-cs_4c3712a0043ec4dad00335f2647e93c0.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Harris vs. Pence: Vice presidential debate updates and analysis"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris faced off in a heated debate Wednesday night, their first and only matchup. The 90-minute debate started shortly after 9 p.m. ET at the University ..."
+    publishedDateTime: 2020-10-08T05:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/blog/vice-presidential-debate-n1242346"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1242346"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1242346"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3417632/201005-vp-debate-live-blog-main-cover-cs_36a324da8209b59ae1ae41b6ae27debf.jpg"
+        width: 2500
+        height: 1405
         isCached: true
   - title: "Vice presidential debate highlights between Pence and Harris"
     excerpt: "Watch highlights from the 2020 vice presidential debate as Mike Pence and Kamala Harris face off on coronavirus, climate change and more."

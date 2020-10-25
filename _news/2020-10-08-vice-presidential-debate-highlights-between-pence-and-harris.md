@@ -815,6 +815,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Harris vs. Pence: Vice presidential debate updates and analysis"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris faced off in a heated debate Wednesday night, their first and only matchup. The 90-minute debate started shortly after 9 p.m. ET at the University ..."
+    publishedDateTime: 2020-10-08T05:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/blog/vice-presidential-debate-n1242346"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1242346"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1242346"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3417632/201005-vp-debate-live-blog-main-cover-cs_36a324da8209b59ae1ae41b6ae27debf.jpg"
+        width: 2500
+        height: 1405
+        isCached: true
   - title: "Mike Pence, Kamala Harris and the Fly0"
     excerpt: "It was a night of somber, serious suits and signals for both Kamala Harris and Mike Pence. Then the bug arrived."
     publishedDateTime: 2020-10-08T21:27:00Z

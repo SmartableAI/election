@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Vice President Mike Pence’s top aide tests positive for coronavirus"
-excerpt: "A spokesman says Vice President Mike Pence will continue with his aggressive campaign schedule after his chief of staff, Marc Short, tested positive for the coronavirus Saturday. Pence spokesman Devin O’Malley says Pence and his wife, Karen Pence ..."
-publishedDateTime: 2020-10-25T03:44:00Z
-originalUrl: "https://www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
-webUrl: "https://www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
-ampWebUrl: "https://www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
-cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said Saturday. Pence himself tested negative,"
+publishedDateTime: 2020-10-25T04:03:00Z
+originalUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
+webUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
+ampWebUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: NJ.com
-  domain: nj.com
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Election
@@ -60,6 +60,6 @@ related:
         height: 683
         isCached: true
 
-secured: "7de/6w8EcVe+RgN8g0MzKBfbgnbeeVJkwhJDY7HQiOnsq8q3H9DWXoscKPhz0NZU4d96dXKjAehWssK4VNlW76P8CHsN0aK7FqLLP1+iEwVowNLpYev0s97Ie6s85IjI/XAxyQuEAv3aoxRnEN5+eqTv15+HjLzjKyaOq75jy4GMYKtQ49RFn+b30O1ZLZimE7kRaADe7c6pzQComgoNshdLs3xBGtCdlZ3Se3H1VCZfL+MMfGJDO+EU5o03D4tC2oy7G1k1uHb7r9GBSOFwx2TueTav4Q9udWoQRsFU3+dJcaBqG8cdXx7Fk/WMhkkYIZH6v/YGffSXB6TuV8lDgIhLZGl2BSwzwBOEucH0EdY=;basDRhY5Fx8RX3b2ar8I7A=="
+secured: "BDiSD9ebFUR7TeQj4LsgeV/w5PmsBRB79dv2AlSG0YZQ2toivex+b/ARrN9vSmDMcILh4g9Z6Pnzn5HBNF9YQOU/5zuvqMbjodPFIs82ZJn5KbIecqOUA61OqCLEvhBuT23ndI6pOiQ3vbjlJw2fUpNmNa8UmWBl8TioptPbenV175hFSY1l3UJk6Sc7nRVKJTWOyJi/mBuog0Wcarx0PD18NSE7Q9xcAk83z3c8hAhOx74JGGaH2l4ZS1kWDm7WltISh3LGRE10Hc+xWWvtN7s7LtfBOMLVeDJk/qpHv+nqfJejzJ0vZuZXME1HIYyUMC2fCFLnfNErhV28ZBjRw8mFbiESI3A4aO6mgcLKxnI=;BMVeCfN+YOjUGLaKRAnjng=="
 ---
 

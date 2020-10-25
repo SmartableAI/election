@@ -44,15 +44,15 @@ related:
         height: 675
         isCached: true
   - title: "Vice President Mike Pence’s top aide tests positive for coronavirus"
-    excerpt: "A spokesman says Vice President Mike Pence will continue with his aggressive campaign schedule after his chief of staff, Marc Short, tested positive for the coronavirus Saturday. Pence spokesman Devin O’Malley says Pence and his wife, Karen Pence ..."
-    publishedDateTime: 2020-10-25T03:44:00Z
-    webUrl: "https://www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
-    ampWebUrl: "https://www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said Saturday. Pence himself tested negative,"
+    publishedDateTime: 2020-10-25T04:03:00Z
+    webUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
     type: article
     provider:
-      name: NJ.com
-      domain: nj.com
+      name: MassLive
+      domain: masslive.com
     quality: 75
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KTIDZGVA4VEXFPEH37ETNHERVA.jpg"

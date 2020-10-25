@@ -2,9 +2,9 @@
 category: news
 title: "Vice President Mike Pence's chief of staff Marc Short tests positive for COVID-19"
 excerpt: "\"Vice President Pence and Mrs. Pence both tested negative for COVID-19 today, and remain in good health,\" Pence's press secretary Devin O'Malley said."
-publishedDateTime: 2020-10-25T05:20:00Z
-originalUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?ftag=CNM-00-10aab7e"
-webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?ftag=CNM-00-10aab7e"
+publishedDateTime: 2020-10-25T04:13:00Z
+originalUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3a&ftag=CNM-00-10aab4i"
+webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3a&ftag=CNM-00-10aab4i"
 ampWebUrl: "https://www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
 type: article
@@ -227,6 +227,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "hqulhjMHBcJmbLSSZ8YMtpw69CHA1sp6CUDOya47Ann1RRqhkhtQmyDEfwHEinKGpbODr3YBgwtmGI4lI54V44XLf8a3bidgYYq6A3MfjhPsxLgcWJVjXJQhSJ8G0C84kMXk25Hk6x2olSxHphZKhDELeLehZDtV/vFuvMywV39K2TpeWzggmNwA52jzPAIb3GJfgHYL3tjLMlfkpGkns3kWd0SUxe0XObVvmonD5COb1Ilv669ICBwt2h2Lb4rz0dfF1zJyfCYhueflXo4Vqy0ZPY5hApNtjFbqMC2M5c7wmZT+c5Fi73TMt0XQYebGy0uameHlAeL6rZwtHJ2sxp6N7T5jSqMuf5HXYiANgeE=;6ZIOrU5ofHui8gwRz1asgA=="
+secured: "MtCKQLNy4zQf6thME3DmsIqPlTL35/3SGxCGXnptZqpK0puosa4LlHFWPpKd03pXbF9R3a2F1W3BJZPCBdjU1veL0n6m1/ON5mmFLliYtLmfeCoaljNK55r58d4rXG7AIfcgxZbYsfgsYF7rE0VgsLMyvf5Ur358RQNC9apyeOuvxYWQoSNOVFWh8BMo8SXCGjKRAlykYjhtpMagwyXuKnf5QPGmSWDdivPbiTNqvBVKH70muSrq7YrxfK87FYmcmv630HS2yORWKEcuBY8+6O7KkmJbo2G6vyiXwjs73Zpdm+qhDPiUgClatLHX6Cm3Jbx1wFwKZlD6E7scWu0Dn66NZYWUa4amN3o9+QyewyE=;QU63uWwXFeYb2MH2Bh6cBQ=="
 ---
 

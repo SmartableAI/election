@@ -3906,6 +3906,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence and Kamala Harris Trade Barbs in Civil VP Debate"
+    excerpt: "Vice President Mike Pence defended the administration and accused Harris and Joe Biden of seeking to pack the Supreme Court if Judge Amy Coney Barrett is confirmed. The debate had a calmer tone ..."
+    publishedDateTime: 2020-10-08T02:18:00Z
+    webUrl: "https://variety.com/2020/politics/news/mike-pence-kamala-harris-debate-1234796921/#!"
+    ampWebUrl: "https://variety.com/2020/politics/news/mike-pence-kamala-harris-debate-1234796921/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/politics/news/mike-pence-kamala-harris-debate-1234796921/amp/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 100
+    images:
+      - url: "https://variety.com/wp-content/uploads/2020/10/kamala-pence-debate-split.jpg?w=1000"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Why Is Kamala Harris Debating Mike Pence in Person?"
     excerpt: "Watching Kamala Harris take the stage tonight for her debate with Mike Pence, many Democrats may be wondering the same thing: Why would she agree to appear in person, just a few feet away from the vice president,"
     publishedDateTime: 2020-10-07T19:49:00Z

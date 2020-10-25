@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 6615
+heat: 6635
 published: true
 
 provider:
@@ -3576,6 +3576,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/67/60/20151357/19/375x250.jpg"
         width: 375
         height: 249
+        isCached: true
+  - title: "Immigration finally comes up in last Donald Trump-Joe Biden debate"
+    excerpt: "Immigration, a topic of importance for many Arizonans, finally came up during the last 2020 presidential debate between Donald Trump and Joe Biden."
+    publishedDateTime: 2020-10-25T05:02:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/23/immigration-finally-comes-up-last-donald-trump-joe-biden-debate/3738715001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3738715001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3738715001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/f5a914b6-8a58-47f0-9198-ed10dd3b0b12-AP20297050577715.jpg?auto=webp&crop=6768,3807,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"
