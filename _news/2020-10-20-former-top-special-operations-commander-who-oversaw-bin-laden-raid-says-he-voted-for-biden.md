@@ -287,6 +287,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "AOC isn't concerned Biden's opposition to fracking ban will hurt young voter turnout"
+    excerpt: "Democratic Rep. Alexandria Ocasio-Cortez said Sunday that she isn't concerned that Joe Biden's opposition to a nationwide ban on fracking will hurt young voter turnout, arguing that they will support the Democratic presidential nominee because they are \"realistic and pragmatic in their vote.\"\n    \n"
+    publishedDateTime: 2020-10-25T18:01:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ADwokQ0dme8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/alexandria-ocasio-cortez-biden-fracking-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/alexandria-ocasio-cortez-biden-fracking-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730182231-aoc-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact-checking Biden's claim that Barrett's SCOTUS confirmation process is \"not constitutional\""
     excerpt: "In the lead up to Monday's confirmation hearings to install Judge Amy Coney Barrett on the US Supreme Court, Democratic presidential candidate and former Vice President Joe Biden raised concerns that the efforts to put Barrett on the court are unconstitutional and exemplify court packing.\n    \n"
     publishedDateTime: 2020-10-13T17:32:17Z

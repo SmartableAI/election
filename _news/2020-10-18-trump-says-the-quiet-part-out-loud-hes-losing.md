@@ -196,6 +196,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'The Five' react to Trump challenging Dems to impeach him over Supreme Court pick"
+    excerpt: "The political collision course over the Supreme Court is going forward. President Trump set to announce his nominee on Saturday, and Senate Republicans say they have the numbers to hold a vote.  The partisan infighting is just getting started."
+    publishedDateTime: 2020-10-25T19:27:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e42e87e-93f1-4e1c-8ded-d69a5bd1bb32/38e3396b-54c0-4f94-b332-93fdfc80e55e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump teases stepping in if Republicans oppose multi-trillion dollar stimulus package"
     excerpt: "President Trump hinted he might intervene if Republican senators don't support a second coronavirus stimulus package worth trillions of dollars, during an interview with Charles Benson of WTMJ4 Milwaukee on Saturday. "
     publishedDateTime: 2020-10-18T20:49:19Z

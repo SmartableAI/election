@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "New Hampshire newspaper backs Biden, first Democrat for president in 100 years"
+    excerpt: "One of the nation's most prominent conservative-leaning newspapers endorsed Joe Biden for president on Sunday, marking the first time the publication has endorsed a Democratic presidential candidate in over 100 years."
+    publishedDateTime: 2020-10-25T19:37:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/90vbbqrnN5g/biden-endorsement-conservative-new-hampshire-union-leader-newspaper"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
     excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son, Hunter Biden."
     publishedDateTime: 2020-10-19T18:49:27Z

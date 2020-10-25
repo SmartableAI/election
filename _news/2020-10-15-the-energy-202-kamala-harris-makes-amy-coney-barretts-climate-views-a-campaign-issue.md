@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris suspends campaign travel after aide, crew member test positive for coronavirus"
-    excerpt: "California Sen. Kamala Harris has suspended her vice presidential campaign travel through Sunday after two members of her staff and crew tested positive for the coronavirus."
-    publishedDateTime: 2020-10-16T11:49:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-cancels-campaign-travel-after-aide-15649875.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 94
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/56/25/20112734/5/rawImage.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
   - title: "California’s Democratic base to Newsom: Pick a filibuster foe to replace Kamala Harris if she wins"
     excerpt: "California progressive and labor leaders have a demand of Gov. Gavin Newsom should Sen. Kamala Harris be elected vice president: Pick a replacement who will help get rid of the Senate filibuster to improve Democrats’ chances of passing bills."
     publishedDateTime: 2020-10-20T11:00:00Z

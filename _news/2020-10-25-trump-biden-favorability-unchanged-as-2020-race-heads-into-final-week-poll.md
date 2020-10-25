@@ -1768,6 +1768,17 @@ related:
         width: 1024
         height: 621
         isCached: true
+  - title: "Trump Intensifies Fracking Assault on Biden in Pennsylvania"
+    excerpt: "In a persistent gambit to win the battleground state of Pennsylvania, President Donald Trump has worked to peel off voters connected to its booming natural gas industry and accuse former Vice President Joe Biden of plotting to shut it down."
+    publishedDateTime: 2020-10-25T17:03:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Did The Donald Trump - Joe Biden Debate Get Better Ratings Than The 2016 Debate With Hillary Clinton?"
     excerpt: "The second and final debate between President Donald Trump and Democratic nominee Joe Biden drew a much smaller audience than the first debate. According to early Nielsen ratings, more than 55 million people watched compared to the 73."
     publishedDateTime: 2020-10-23T22:58:00Z
@@ -1955,6 +1966,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "TheIj3DCNKo2MjxzBraH1lWWqCVgOSPHLt0/CFiUh8gHWlDiAEwfqqFZQVCZNyqiGv8WghXhgz5zIX4qekQfNNsVi+S/QbwY8LCU0ZkXxQ4xAn37aEj6M7zvRp9un5nMT8q6yMrbqCg1jJ2VVmknLmKqwphy+D0cMZM1yh7gOFr8QP5bHWDLARbnGFXPOn52JrMWT5JXlY43AZVlbPyik61UZLXymjQ70OrUwQZRsrYl1BCtqUGSfL2+ylZhEWnLiR2/AzaRG+dARzKPYYDo+aeoWxfLN46xNKEhkbJUmKE3k6YWYtvlyh0T8BppbKUXA1gjMvzlzvrG5qPTzdSM5IP8JAjNr9QeEjYzFrT+17c=;rZsh/EsqAdFo0ECbnYXEUA=="
+secured: "kQ707VzDJ3FHMHb3mX3LLQCcqOA6bmcp8ptqjv9LxZwQezJw07WMBunnj3qmnQKTsz2dTTLvFPbfBLpZeMUVf1Cv5sy5CpZnUVBae+q2ymqGgBrhUj6vqDG9R5O5AJJydmOM8QBk2fp2uXcZEx4ByntNhTWURblXlfPm7r2YwehhBMonErYtOzTxQSCHj7pT/G+HtDjLrqIuD9xxh6lixjlScDC60paABfcSDelTEHJa8JKw1gzt5+KEke9VtjY3oG2OuoytR4I9pTMdgwhEFxJMU8ol7qrrgpKTYL2pI/vVY06NTESYeWaiIdCK5xe89F3uPbj0HPStN+kfv4ArsMuAgPPMz1ihvVK+cfsVSzvYbYwzbseBVdVHYupJrKVTkgGPQJkpzmlH1y5RsKMxbEwjGWwCFEV/u8Z+uHshAtmU7FIjLyy/fjAe7pSgE2TY0lbqdbrpjZi5hH/cydoR7zEHapHuFsqp4NdjX21AJ28ybFjiMoTPO5sD3XWkOXzhdQDsspbWhMkxeOkaD8LuBg==;Cas6xNtvsgmHd5/EaCsjmg=="
 ---
 

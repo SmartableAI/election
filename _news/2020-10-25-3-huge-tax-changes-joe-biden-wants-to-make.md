@@ -3,8 +3,8 @@ category: news
 title: "3 Huge Tax Changes Joe Biden Wants to Make"
 excerpt: "Of course, both President Trump and Democratic nominee Joe Biden have made their stances clear on a number of key issues, and one such matter that voters can't help but ignore are taxes. President Trump notably overhauled the tax system in late 2017 with his Tax Cuts and Jobs Act,"
 publishedDateTime: 2020-10-25T11:18:00Z
-originalUrl: "https://tulsaworld.com/business/investment/personal-finance/3-huge-tax-changes-joe-biden-wants-to-make/article_971c98ed-7528-5849-a3ce-0a16ed801103.html"
-webUrl: "https://tulsaworld.com/business/investment/personal-finance/3-huge-tax-changes-joe-biden-wants-to-make/article_971c98ed-7528-5849-a3ce-0a16ed801103.html"
+originalUrl: "https://tulsaworld.com/business/investment/article_971c98ed-7528-5849-a3ce-0a16ed801103.html"
+webUrl: "https://tulsaworld.com/business/investment/article_971c98ed-7528-5849-a3ce-0a16ed801103.html"
 ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/3-huge-tax-changes-joe-biden-wants-to-make/article_971c98ed-7528-5849-a3ce-0a16ed801103.amp.html"
 cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/3-huge-tax-changes-joe-biden-wants-to-make/article_971c98ed-7528-5849-a3ce-0a16ed801103.amp.html"
 type: article
@@ -138,6 +138,6 @@ related:
         height: 720
         isCached: true
 
-secured: "IFyN7HX4AVzZkN6PHtzLkYljSBw87ClGV/hw1rQhiEwAtyxuQC/Fw6rVuDy/sfpYSWyYYNIJN1CsiG6wKHUKmd9qziMg3EJSoliPGxUjOWn2sM9MEOZ4BM19sTmKT0M4ZqMOjQ8+La9r842ZEyvvrSJt5IUZQALEwsnWQzTYWPD5FIzkf8eTBCGZcO71qdl+cxLsd4XFBlVs05aaonoqzrF9NlWIAL2EDmShzblPfyBlt8vyEUf4vsWDZQFQgKKz3exwi7nbtrfgju/m7gUp8bMF2GHx9+xSaJ/dZmrtjCX0lr9LCMMf5dQr2F30YlhM39LLwyRMduT5+hlwDMUIdRLhp2a80jzJKyswY8mXF9zC0xf0YTtaO1wzKrwdTfnyulXAN1l6ANMcMHxeXFEecw8grT0/Us5IIRaDuqqgMJxvKASbQ5ZqV0Eb0DIPuXe3btHnvfvnjeVNRoBh2aKDCN7HzgFatK3vLg5Fjxs07LJwhWwEr65Wv6n+mDJ1Lh272burdAZFsz7k11vv+fkxyA==;ERFBF4pmQsnon5zWXCN8JA=="
+secured: "WQO3U5025xKCGaHZAUGGBv6IjEuPZRJ45Ab9++Swz1uFxogYDOJ2PIqcf+XvNuXIhprdUOFG1mA+CTwwrexuxF7ckRj9f0ATeH5tni0VoTjpCPODxfHhuhS/WWeBSZeI8ANg2vQGsYCCjaxoYMZOHFRlrKzfy1gHVK6bMvQjs6CzUT/F4EllXq8fvEebUpmseHng0g9NiuMRSpIMHnrtJ1j4aGDNrt3d0I+DPBKWWHE/51FakAztVoVa+VicIaQydb/MbWoxCov1Jxu5axDaDnQbd0xvxT2bgLsVng5N570W0Nryu1Of52GCVQlgQUgiSw9EtRiY2TaaslroKy07QydI9bScYfB0fgjtDxlT5jw=;EIwUdsJO90k3MXfr4noanw=="
 ---
 

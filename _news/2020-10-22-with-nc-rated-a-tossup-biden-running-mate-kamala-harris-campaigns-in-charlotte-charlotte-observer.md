@@ -747,6 +747,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Report: Kamala Harris to make campaign stop in Texas on Friday"
+    excerpt: "U.S. Sen. Kamala Harris, Democratic presidential candidate Joe Biden’s running mate, will head to Texas on Friday, the Texas Tribune reported Sunday."
+    publishedDateTime: 2020-10-25T19:24:00Z
+    webUrl: "https://www.statesman.com/news/20201025/report-kamala-harris-to-make-campaign-stop-in-texas-on-friday"
+    ampWebUrl: "https://www.statesman.com/news/20201025/report-kamala-harris-to-make-campaign-stop-in-texas-on-friday?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201025/report-kamala-harris-to-make-campaign-stop-in-texas-on-friday?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 75
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201025&Category=NEWS&ArtNo=201029698&Ref=AR"
+        width: 5196
+        height: 3464
+        isCached: true
   - title: "The Countdown: Avengers stars quiz Kamala Harris and what to wear to vote"
     excerpt: "Thirteen days left and we look at what you can wear when you go vote and who gets to question Kamala Harris. It was Democrat vice-presidential pick Kamala Harris's birthday yesterday and the cast of the Avengers held a fundraiser over Zoom where they got to question her."
     publishedDateTime: 2020-10-22T18:22:00Z
@@ -1264,6 +1280,15 @@ related:
     excerpt: "T12:29:55-04:00 vice presidential nominee and Senator Kamala Harris (CA) visits Cleveland, Ohio, and greets citizens. Democratic vice presidential nominee and Senator Kamala Harris (CA) visits Cleveland,"
     publishedDateTime: 2020-10-24T17:26:00Z
     webUrl: "https://www.c-span.org/event/?477345/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Speaks at Drive-In Church Service in Near Detroit"
+    excerpt: "Senator Kamala Harris (D-CA) delivered remarks at the Triumph Church in Southfield, Michigan, which was filming its weekly Sunday service from inside the church and projecting it outside for parishioners to see in a drive-in setting."
+    publishedDateTime: 2020-10-25T19:22:00Z
+    webUrl: "https://www.c-span.org/video/?477350-1/senator-kamala-harris-speaks-drive-church-service-detroit"
     type: article
     provider:
       name: C-SPAN

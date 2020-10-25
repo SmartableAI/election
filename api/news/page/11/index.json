@@ -2,6 +2,276 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-16-alec-baldwin-mariska-hargitay-and-more-protest-nbcs-trump-town-hall-air-time.md",
+      "title": "Alec Baldwin, Mariska Hargitay And More Protest NBC’s Trump Town Hall Air Time",
+      "excerpt": "\"Law & Order,\" \"SNL\" and \"This Is Us\" stars called out the network’s decision to air Trump Town Hall at the same time as Joe Biden’s event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746",
+      "originalUrl": "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/president-donald-trump-threw-talks-on-new-us.jpg",
+          "width": 1024,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1",
+      "publishedDateTime": "2020-10-15T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19.md",
+      "title": "Kamala Harris cancels campaign travel after two staffers test positive for COVID-19",
+      "excerpt": "The Biden campaign said Thursday that Kamala Harris will be suspending her campaign travel until Sunday because two people involved in the campaign, Harris' communications director, Liz Allen, and a non-staff flight crew member have tested positive for COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/15/cc10423c-39d7-4270-9400-2c0531d11341/thumbnail/1200x630/1959e172e605cd7efe1545259aa66bf4/gettyimages-1228948443.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
+      "publishedDateTime": "2020-10-15T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus.md",
+      "title": "Kamala Harris Cancels Campaign Travel After Aide, Flight-Crew Member Test Positive for Coronavirus",
+      "excerpt": "Democratic vice-presidential nominee Kamala Harris is canceling her campaign travel through Sunday after her communications director and a non-staff flight crew member tested positive for coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915",
+      "originalUrl": "https://www.wsj.com/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-245286/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915",
+      "publishedDateTime": "2020-10-15T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-will-trump-win-again-watch-floridas-sumter-county-for-first-election-night-clue.md",
+      "title": "Will Trump win again? Watch Florida's Sumter County for first election night clue.",
+      "excerpt": "Will Trump win again? Watch Florida's Sumter County for first election night clue. Last week, Democrats took delight in the spectacle of a 500-golf cart flotilla of Joe Biden supporters parading through Florida's largest retirement community en route to turn in their vote-by-mail ballots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/will-trump-win-again-watch-florida-s-sumter-county-first-n1243497",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/will-trump-win-again-watch-florida-s-sumter-county-first-n1243497",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_42/3420360/201015-the-villlages-al-0741_d3ce3f854b407fc2901767388f852caa.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243497",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243497",
+      "publishedDateTime": "2020-10-15T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-trump-tweet-gave-taliban-upper-hand-in-negotiations-afghan-peace-official-tells-financial-times.md",
+      "title": "Trump tweet gave Taliban upper hand in negotiations: Afghan peace official tells Financial Times",
+      "excerpt": "A tweet by President Donald Trump calling for U.S. troops to be home by Christmas has given the insurgent Taliban the upper hand in negotiations, the top Afghanistan peace official told the Financial Times newspaper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/afghanistan-taliban-int/trump-tweet-gave-taliban-upper-hand-in-negotiations-afghan-peace-official-tells-financial-times-idUSKBN2701Q5",
+      "originalUrl": "https://www.reuters.com/article/afghanistan-taliban-int/trump-tweet-gave-taliban-upper-hand-in-negotiations-afghan-peace-official-tells-financial-times-idUSKBN2701Q5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537585037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E13E",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701Q5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701Q5",
+      "publishedDateTime": "2020-10-15T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-biden-campaign-puts-up-huge-fundraising-numbers-in-september.md",
       "title": "Biden campaign puts up huge fundraising numbers in September",
       "excerpt": "Shattered records with $383 million haul, giving his campaign a whopping $432 million cash on hand and an enormous leg up on Trump's in campaign's homestretch.",
@@ -1035,270 +1305,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-george-floyds-sister-calls-for-change-in-new-biden-ad.md",
-      "title": "George Floyd's sister calls for change in new Biden ad",
-      "excerpt": "In a new ad released by Democratic nominee Joe Biden's campaign on Wednesday, Bridgett Floyd, sister of George Floyd, calls for change and discusses the importance of voting after her brother was killed by police officers in Minneapolis,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad",
-      "originalUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 625,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/georgefloyd063020.jpg",
-          "width": 780,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp",
-      "publishedDateTime": "2020-10-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-durbin-says-trump-administration-case-against-obamacare-is-orange-cloud-over-barrett-nomination.md",
-      "title": "Durbin says Trump administration case against ObamaCare is 'orange cloud' over Barrett nomination",
-      "excerpt": "Sen. Dick Durbin, D-Ill., continued Democrats' claims that the real reason why Republicans are rushing to confirm Judge Amy Coney Barrett to the Supreme Court is so that she can be on the bench for an upcoming ObamaCare case, but he had a particularly colorful way of putting it.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2De58Ce9Thw/durbin-barrett-hearing-trump-obamacare-case",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2De58Ce9Thw/durbin-barrett-hearing-trump-obamacare-case",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288542482521-e1602689531456.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/durbin-barrett-hearing-trump-obamacare-case.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-barrett-hearing-trump-obamacare-case.amp",
-      "publishedDateTime": "2020-10-14T08:45:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-presidents-job-approval-is-surest-sign-trump-will-lose-reelection.md",
-      "title": "President's job approval is surest sign Trump will lose reelection",
-      "excerpt": "Just 37 percent of Americans approve of the president’s handling of the pandemic — and that is extremely problematic for him.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
-      "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 4120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_100520screenshot.png",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp",
-      "publishedDateTime": "2020-10-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing.md",
-      "title": "Trump Promotes Baseless, QAnon-Endorsed Conspiracy Theory Alleging Obama Staged Bin Laden’s Killing",
-      "excerpt": "President Trump promoted a baseless conspiracy theory on Tuesday alleging the Obama administration covered up a plot to stage Osama Bin Laden’s death, a wild accusation that was pushed by Twitter accounts linked to the QAnon conspiracy theory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing/",
-      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f86fcdaa93641012f51b7b8%2F0x0.jpg",
-          "width": 1199,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing/amp/",
-      "publishedDateTime": "2020-10-14T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-what-demi-lovato-says-about-donald-trump-in-new-protest-song-commander-in-chief.md",
-      "title": "What Demi Lovato Says About Donald Trump in New Protest Song 'Commander in Chief'",
-      "excerpt": "\"Commander in Chief\" is the former Disney star's protest anthem against the Republican candidate ahead of election day on November 3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019",
-      "originalUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1651670/demi-lovato.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019?amp=1",
-      "publishedDateTime": "2020-10-14T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

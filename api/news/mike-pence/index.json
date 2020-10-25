@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-25-mike-pences-chief-of-staff-marc-short-other-top-aide-test-positive-for-covid-19.md",
-      "title": "Mike Pence's chief of staff Marc Short, other top aide test positive for COVID-19",
-      "excerpt": "Two of Vice President Mike Pence's top deputies have tested positive for the coronavirus: chief of staff Marc Short and political aide Marty Obst. \"Today, Marc Short, Chief of Staff to the Vice President,",
+      "path": "_news/2020-10-26-mike-pence-will-not-quarantine-after-four-aides-test-positive-for-coronavirus.md",
+      "title": "Mike Pence will not quarantine after four aides test positive for coronavirus",
+      "excerpt": "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825",
-      "originalUrl": "https://abcnews.go.com/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825",
+      "webUrl": "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
+      "originalUrl": "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 220,
+      "heat": 382,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/mike-pence_hpMain_20201024-213634_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769",
+          "width": 2965,
+          "height": 1977,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825",
-      "publishedDateTime": "2020-10-25T05:26:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
+      "publishedDateTime": "2020-10-25T12:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -66,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -123,7 +123,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1558,
+      "heat": 1598,
       "tags": null,
       "images": [
         {
@@ -496,7 +496,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/23/election-2020-updates-trump-pence-head-battlegrounds-after-debate/3679810001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2693,
+      "heat": 2713,
       "tags": null,
       "images": [
         {

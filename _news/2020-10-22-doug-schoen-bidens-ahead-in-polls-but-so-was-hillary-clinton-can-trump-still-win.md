@@ -1366,6 +1366,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Ice Cube on defending working with Trump campaign on 'Platinum Plan' for Black Americans"
+    excerpt: "President Trump trying to make up ground in the Midwest and targeting his rival son. TRUMP: It's corrupt as hell. The Bidens got rich while America got robbed. WALLACE: We'll discuss the Trump strategy and the home stretch with Republican National Committee Chair Ronna McDaniel."
+    publishedDateTime: 2020-10-25T18:09:00Z
+    webUrl: "https://www.foxnews.com/transcript/ice-cube-on-defending-working-with-trump-campaign-on-platinum-plan-for-black-americans"
+    ampWebUrl: "https://www.foxnews.com/transcript/ice-cube-on-defending-working-with-trump-campaign-on-platinum-plan-for-black-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/ice-cube-on-defending-working-with-trump-campaign-on-platinum-plan-for-black-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb131da2-ad30-4f80-b7cc-59e3a62cff91/3574cae3-8849-4391-9d48-6cad4e4fa991/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "RNC Chair Has Some Important Questions Ahead of Biden's Town Hall Event"
     excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
     publishedDateTime: 2020-10-15T23:30:00Z
@@ -1499,6 +1515,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "A Vote for Trump Is a Vote for America"
+    excerpt: "I wrote that I would likely support Donald Trump because he was the only presidential candidate speaking for working-class Americans. I also viewed the contempt for Trump by the media and elite of both parties as contempt for his supporters as well."
+    publishedDateTime: 2020-10-25T19:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/25/a_vote_for_trump_is_a_vote_for_america_527426.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525119_5_.jpg"
         width: 750
         height: 500
         isCached: true

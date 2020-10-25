@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 1070
+heat: 1090
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016184912-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "AOC isn't concerned Biden's opposition to fracking ban will hurt young voter turnout"
+    excerpt: "Democratic Rep. Alexandria Ocasio-Cortez said Sunday that she isn't concerned that Joe Biden's opposition to a nationwide ban on fracking will hurt young voter turnout, arguing that they will support the Democratic presidential nominee because they are \"realistic and pragmatic in their vote.\"\n    \n"
+    publishedDateTime: 2020-10-25T18:01:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ADwokQ0dme8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/alexandria-ocasio-cortez-biden-fracking-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/alexandria-ocasio-cortez-biden-fracking-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730182231-aoc-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

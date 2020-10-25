@@ -365,6 +365,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris caught on hot mic checking rally location: 'Are we in Cleveland?'"
+    excerpt: "A hot mic appeared to catch Democratic vice presidential nominee Sen. Kamala Harris checking her location before addressing supporters Saturday."
+    publishedDateTime: 2020-10-25T18:08:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298765259512.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris halts travel after 2 involved in campaign test positive for coronavirus"
     excerpt: "Democratic vice presidential nominee Sen. Kamala Harris' communications director and a \"non-staff flight crew member\" involved in the campaign have tested positive for the coronavirus, Joe Biden's presidential campaign announced Thursday morning."
     publishedDateTime: 2020-10-15T13:56:00Z

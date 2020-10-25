@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244563"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244563"
 type: article
 quality: 142
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 2500
     height: 1250
     isCached: true
+
+related:
+  - title: "Trump travel anticipates a race potentially decided by a single Electoral College vote"
+    excerpt: "The president heads to Maine and Nebraska this week, with the Trump team citing several possible scenarios where the election could come down to one or two Electoral College votes."
+    publishedDateTime: 2020-10-25T19:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-travel-anticipates-race-potentially-decided-single-electoral-college-vote-n1244706"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244706"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244706"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3422882/201025-donald-trump-north-carolina-jm-1448_3761c78bcb6803d91b93fd938bd6fde3.jpg"
+        width: 2500
+        height: 1628
+        isCached: true
 
 secured: "aF9X5kGph+xzP2Fe1elTY3Ym0Kf4efw9wHHei6NUgl213iu8OCMFvQZWD2lCM7NQMRL/1/vby6Rbqyuss5/zC0RORTRbhbgkhWy9Qo+tMp9nh542f3FgEPZxua/HIDL0eHWV0Xlsgj/AidJReSYGQkgV6e46tP1m+OWmLtCHbI5Guv5IKfuqqPH3tHSS3f6NYARU6aZ5sGz52M/BgGa8eYrLrPvnOvXRoWxfnJVVLPLDRwEA+h/c/h79fquwbmcNYjWQZAUNGShzHXxiidLW8jEbXZZ5gltmKeo9lIFvmk3KHpQcl2Jyc72FUDcDgi2vZOdKD6P4U+patiO0maDr4eIjqnwNwEd5YcIBWGIztrQ=;ySAYC0xXBhn/71eSUeR4Jg=="
 ---

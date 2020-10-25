@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/?outputType=amp"
 type: article
 quality: 140
-heat: 2000
+heat: 2040
 published: true
 
 provider:
@@ -591,6 +591,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Slovenian premier endorses Trump's reelection, joins others"
+    excerpt: "Slovenian Prime Minister Janez Jansa endorsed U.S. President Donald Trump’s reelection on Friday, saying Joe Biden would be a weak leader."
+    publishedDateTime: 2020-10-25T17:57:00Z
+    webUrl: "https://www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Why faith voters should stick with Trump: Christian leaders of character surround him"
     excerpt: "Trump seldom reflects the desired fruits of the Spirit. But he kept his promises to the faith community and surrounded himself with key leaders from it."
     publishedDateTime: 2020-10-22T07:39:00Z
@@ -1414,6 +1425,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "RI's House Speaker in Tight Race in Pro-Trump District"
+    excerpt: "Rhode Island's Democratic House speaker is in a tight race as he campaigns to hang on to his legislative seat in a district that went for Donald Trump in 2016."
+    publishedDateTime: 2020-10-25T12:53:00Z
+    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district"
+    ampWebUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

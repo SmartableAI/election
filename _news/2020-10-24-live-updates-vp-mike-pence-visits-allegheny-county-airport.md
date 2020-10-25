@@ -1772,6 +1772,17 @@ related:
         width: 1024
         height: 621
         isCached: true
+  - title: "Trump Intensifies Fracking Assault on Biden in Pennsylvania"
+    excerpt: "In a persistent gambit to win the battleground state of Pennsylvania, President Donald Trump has worked to peel off voters connected to its booming natural gas industry and accuse former Vice President Joe Biden of plotting to shut it down."
+    publishedDateTime: 2020-10-25T17:03:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Did The Donald Trump - Joe Biden Debate Get Better Ratings Than The 2016 Debate With Hillary Clinton?"
     excerpt: "The second and final debate between President Donald Trump and Democratic nominee Joe Biden drew a much smaller audience than the first debate. According to early Nielsen ratings, more than 55 million people watched compared to the 73."
     publishedDateTime: 2020-10-23T22:58:00Z

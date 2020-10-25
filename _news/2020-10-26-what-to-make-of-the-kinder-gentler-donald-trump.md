@@ -591,6 +591,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Slovenian premier endorses Trump's reelection, joins others"
+    excerpt: "Slovenian Prime Minister Janez Jansa endorsed U.S. President Donald Trump’s reelection on Friday, saying Joe Biden would be a weak leader."
+    publishedDateTime: 2020-10-25T17:57:00Z
+    webUrl: "https://www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Why faith voters should stick with Trump: Christian leaders of character surround him"
     excerpt: "Trump seldom reflects the desired fruits of the Spirit. But he kept his promises to the faith community and surrounded himself with key leaders from it."
     publishedDateTime: 2020-10-22T07:39:00Z
@@ -1419,6 +1430,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "RI's House Speaker in Tight Race in Pro-Trump District"
+    excerpt: "Rhode Island's Democratic House speaker is in a tight race as he campaigns to hang on to his legislative seat in a district that went for Donald Trump in 2016."
+    publishedDateTime: 2020-10-25T12:53:00Z
+    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district"
+    ampWebUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "How the conservative movement and the rise of the hard right created Donald Trump"
     excerpt: "Author Edmund Fawcett on how the \"hard right\" — and the conflict within conservatism — led to the Trump calamity"
     publishedDateTime: 2020-10-25T02:24:00Z
@@ -1457,6 +1479,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "GA6ABak2sWeuNY7sAq3iGhm5c9tSVRBDENr+ONCpH7yoMe0mdIcDSFpi+b6MCcPd3cTF75L0tadlzu/o+9mWKYRSMO7pkgtUl1WS/l0uYl5dpMw5/uegASO6Ic7MrmFKGPbWv5PcUZ9ZTQi3mcwY6VE7+QHjuyOzK+G36PIuz34zGYccJO8Zh1/9GP+fx7s+xOhzj5l6EcDu7KL9rEQvsSObpUktzt9sBYMuUcuLsURnodqSIIpnc4yIPGQoYdoRgd8uS2S26LqhserTroFKRLbgQym/krrgPtXUSWrtbKyxEa7+RvZ4z/CYlcQ548FDTW76kxalaYZGk6/448dCWgUdhMCl36flofT8iZe/esA=;xf4gPH2YhfSvJW5Zt1RDmg=="
+secured: "MEy875wDbz8Z/tcjLpwXXwth8AFGMrYPvIlMRICONhwDDnTuCb6Dt6Kz/ussjWrpA9gAo2xnyAZnEhS39tKwOJT71dYk7QhBJxy1+BS4pVHl+nW9p4fM2r077uZagrUe+vLZnsb8AuiTIjT5h+wF/0pzvj2vl3SHodQInNC4Nmkg0hTQJBpTJiN9J41JZXvxAOJxltxRG2LM63Jo03bhJsb8s1gl3ERZD7dfvGCX744iZpTU5IQpPKmscMNbB7djg34tWzW9IpSlv9o28UHnaVGhtt42MNh3zWcTET04+cUbHKOwgMgzoALfcz1G3UuEMvhULo1ZZsBDQbJs3maALgUJC4tXGEUf6ip7MGnL5BPZJWrPd3I8v/p1ZVoxMnIpUKwPknTs+7DpEpbbx0/8HNGnFWfQ/njuS5Me9Nw6tK1gYL9OxpbjDiP8mW5UJS2aFi3GefG4EnldWWq0wbDBp9ULEtNES/+kFHQSu6C++VrPCJVtPQmJdDF0ij3x1/mjTgBLEKOrMw634Dw/bF/yxA==;oe9yQTimaubFMQTyF87xUw=="
 ---
 

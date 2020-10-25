@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New Hampshire newspaper backs Biden, first Democrat for president in 100 years"
+    excerpt: "One of the nation's most prominent conservative-leaning newspapers endorsed Joe Biden for president on Sunday, marking the first time the publication has endorsed a Democratic presidential candidate in over 100 years."
+    publishedDateTime: 2020-10-25T19:37:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/90vbbqrnN5g/biden-endorsement-conservative-new-hampshire-union-leader-newspaper"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ex-Hunter Biden associate's records don't show proof of Biden business relationship amid unanswered questions"
     excerpt: "Hunter Biden's former business partner Tony Bobulinski claimed this week that former Vice President Joe Biden was allegedly involved in discussions about his son's business dealings, something the Democratic presidential nominee has repeatedly denied."
     publishedDateTime: 2020-10-23T17:44:44Z

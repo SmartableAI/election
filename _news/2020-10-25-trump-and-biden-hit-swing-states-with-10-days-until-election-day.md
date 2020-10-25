@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Trump and Biden Hit Swing States, With 10 Days Until Election Day"
-excerpt: "Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."
+excerpt: "The president cast his ballot in Florida, not far from a rally where Obama slammed Trump’s response to the pandemic. And from New York to Alabama, Americans lined up to vote in person. This briefing has ended."
 publishedDateTime: 2020-10-25T08:17:00Z
-originalUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election/trump-in-wisconsin-says-the-virus-is-rounding-the-turn-while-cases-climb"
-webUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election/trump-in-wisconsin-says-the-virus-is-rounding-the-turn-while-cases-climb"
+originalUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election/florida-man-wouldnt-even-do-this-stuff-obama-says-of-trump-during-a-miami-rally"
+webUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election/florida-man-wouldnt-even-do-this-stuff-obama-says-of-trump-during-a-miami-rally"
 type: article
 quality: 145
 heat: -1
@@ -20,13 +20,13 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2020/10/24/us/24elections-briefing-trump-wisc/merlin_179020233_0dd092b9-762b-42e8-b2c1-a5b48b4ef808-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2020/10/24/us/24elections-briefing-obama2/merlin_179011449_c82eab33-d1ca-4df1-ae0c-1fae2562c6f7-facebookJumbo.jpg"
     width: 1050
-    height: 549
+    height: 550
     isCached: true
 
 related:
@@ -478,6 +478,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: With 9 days to go, Biden's lead over Trump is holding, while Clinton's was collapsing at this point "
+    excerpt: "The clock is running out on President Donald Trump's chances for a comeback. He continues to trail former Vice President Joe Biden nationally and in the key swing states with just nine days to go.\n    \n"
+    publishedDateTime: 2020-10-25T17:55:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/swk_Wso5JWQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/biden-leads-trump-polling/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/biden-leads-trump-polling/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/140623173208-biden-clinton-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Trump coronavirus adviser Scott Atlas undermines importance of masks as cases spike"
     excerpt: "White House coronavirus task force member Dr. Scott Atlas sought to undermine the importance of face masks on Saturday as coronavirus cases spike across the US.\n    \n"
     publishedDateTime: 2020-10-18T13:05:29Z
@@ -589,6 +605,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/23/opinion/23opreaders-scorecard/23opreaders-scorecard-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden to attend virtual concert after Trump rallies in New Hampshire"
+    excerpt: "With only nine days until Election Day, the campaigns for both President Donald Trump and Democratic nominee Joe Biden are ramping up their public events in battleground states in their final full week on the trail."
+    publishedDateTime: 2020-10-25T19:02:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244697"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244646"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244646"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Biden calls out Trump for suggesting 'injecting bleach' to treat coronavirus"
     excerpt: "While speaking about vaccine production, Joe Biden called out President Donald Trump for suggesting that \"injecting bleach\" could help treat the coronavirus, while the president claimed it was said \"sarcastically."
@@ -1085,6 +1117,6 @@ related:
       domain: thedailybeast.com
     quality: 58
 
-secured: "9GI7+Dq2LbWQTJ0/yjsOvDrxt2c7aaVCERai/TueWr3w5/lR1urTffabnVMO+cAjqLC4svh0U8MkRBtnnWYZkkI1EF4CHvgPSxaxSHfRMLA+TEKVBjE+9Z7nZWLBtKEdYHWORowSu7v5bWvYx1reRqqgMwZk1NSNh27H7G4kh71YPNlHJyv+6NzKjfaTx4cQMnFbIFXdy0iClV2dg4+hFmnKedy7BqXe6vkMdVl9kBuB923L+Um768ene4p3z5goKxsFMBbWv33aKhjHRoS4Q5Yh2GbRvjGU8UuJxtSigaBG7lO2702XllsMesdaDIRSsHLCqH1cKAoosBrHdBarKf65lFZYtXN0NcKSJEJ3gCTu6YBDvyPcIH1CTmjlBqA2pW4iS4jAhX1Li1dXF+0xrbmZ452d9zuOPx6uJD5zHF9CAJkLpBfgelozKFLNXejjUz0WWkWf/k149KqYUTtHY7RhLyFCxyCSTM9P+hbDmX3ULyH5fW9egIkSAxOMb703cXhhQ/oQoPVI+nM2HjM7Sg==;Pm8J1qibCwUAGJeIEVObfA=="
+secured: "MwJIGE2ajVn4nYhLhjveunhy6DL9cLaBf53FsDuAxzFXGKJL6uly3b/JNgXFStO8OdswHg2V4aDOEi5QDRzbwwo1Uk72BlUwANro2dND/iGUJxe6JPlU9EWGmxq6HPQPC4JF412/BOaAsAvT825QIG58dNg8cKxaqNhn28fq1l6F9Q+Y0V9ewPMZMn+l2Y8de2XFHrx9tACnt8+zG7LJTXPv59HrUmBgc7GZgSizJOtTLTKCMW5XBAAOZZdSMKYUeACVIUM2hPKMm2cqAt6dS+/QZt9yXCFx0TXSzWkw86HJHi48ngnNAla4JOqWqyITtDO2Ghp3EFIOYoHCrYIUoSef2mV3hQduOkFHzDOwLe8=;WmsPO/WACTN0RWiotQmbBQ=="
 ---
 
