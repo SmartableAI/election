@@ -351,6 +351,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden looking good – but concern over polls means Democrats are cautious"
+    excerpt: "Joe Biden speaks to reporters as he departs Wilmington, Delaware, on 10 October. Photograph: Kevin Lamarque/Reuters Biden is up to 16 points ahead nationally as must-win states seem safe ..."
+    publishedDateTime: 2020-10-11T07:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/oct/11/joe-biden-presidential-election-polls-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/11/joe-biden-presidential-election-polls-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/11/joe-biden-presidential-election-polls-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/ccb82ec83f93ef119d381b7fa8ad8209f9cad7e4/0_125_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9b0ccd4b76ff6145dd1467f6a5269246"
+        width: 600
+        height: 360
+        isCached: true
   - title: "For the good of the country, Biden must answer the court-packing question"
     excerpt: "If a Democrat of national prominence has stepped up to defend the court as an anchor of stability in a deeply divided country, I missed it. “Court packing” is now a major issue in the presidential campaign because neither Democratic presidential nominee Joe Biden nor his running mate,"
     publishedDateTime: 2020-10-11T00:14:00Z

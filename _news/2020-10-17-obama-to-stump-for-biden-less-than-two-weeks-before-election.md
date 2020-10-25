@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-to-stump-for-biden-less-than-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp"
 type: article
 quality: 190
-heat: 1770
+heat: 1790
 published: true
 
 provider:
@@ -1132,6 +1132,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/52/524812.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "I Directly Dealt With Joe Biden--He's Lying About Deals in China"
+    excerpt: "Tony Bobulinski, a former business partner of Hunter Biden, accused former VP Joe Biden of lying about his role in his son's international dealings during a statement to the WH press corps just 90 minutes before Thursday's presidential debate."
+    publishedDateTime: 2020-10-24T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/24/i_directly_dealt_with_joe_biden--hes_lying_about_deals_in_china_527342.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524931_5_.jpg"
         width: 750
         height: 562
         isCached: true

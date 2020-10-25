@@ -618,6 +618,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Amid record U.S. cases and new White House outbreak, Trump claims pandemic progress"
+    excerpt: "With U.S. coronavirus cases at record levels, President Donald Trump on Sunday repeated his refrain that the nation is \"rounding the turn\" in the pandemic, while Vice President Mike Pence pressed ahead with campaigning despite positive COVID-19 tests among multiple aides."
+    publishedDateTime: 2020-10-25T20:04:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idINKBN27A051"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A051"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A051"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538758431&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O0EQ"
+        width: 914
+        height: 545
+        isCached: true
   - title: "The Justice Department lets itself be used to bully critics of Donald and Melania Trump"
     excerpt: "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms."
     publishedDateTime: 2020-10-16T02:36:00Z

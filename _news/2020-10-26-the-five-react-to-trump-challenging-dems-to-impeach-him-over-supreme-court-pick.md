@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Herschel Walker claps back at those trying to change his mind about casting Trump vote"
+    excerpt: "Former NFL running back Herschel Walker on Sunday addressed critics who have tried to change his mind regarding his plans to vote for President Donald Trump in the November Election."
+    publishedDateTime: 2020-10-25T21:33:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CIt-BDgONOw/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49cd9545-8d20-42fb-a18a-f2dee89ff05f/aa598eef-8742-4fa8-b656-699b26d681b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign press secretary temporarily suspended on Twitter over mail-in voting tweet"
     excerpt: "EXCLUSIVE: The Trump campaign’s national press secretary had his Twitter account suspended Thursday, just hours before the presidential debate, after he tweeted about his experience of being sent absentee ballot materials intended for someone else."
     publishedDateTime: 2020-10-22T22:51:27Z
@@ -227,6 +243,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "Qlz8dyuWSUL/89f9hJYEatJZWmEhRj9cRAhI6DmOV616op31oCOKqmB/+bncbcF/efuKPamx6G27vD6Uixus4qj633bGR3UWizug34mstmQJ6cdZ5FmH6/EvgoAYDdaxltKM5C+c4NaEdPvutOISWFaOE95Y2vKagwrmMuhYSkyuvmFQ00qKez90K8ldxhQ9gzeySSHamWySWBC1AIACUnVliNEBswEqNcsobXz+fN+tqBKvab5cXhqJGZ8Qic2CRiwU3rfp9VUYjYi1hDB/wGJBUPcu549U3bYa5NlF/0tDBTfffo6nV2owSR0HWtBiqdOtNt4NkPF+F0p+vWdgikmpCPlRrhI+AImiWtxXAEk=;lxtCWIeNtdmOqiTvrLpIzg=="
+secured: "lK8trHQs1XlXUq4oLNrSvoiMEUQrekU8AqwdALXqjFN1qnYj4XJHy2qBoP9yMMjX8VhrfPWU9I7Q1WDc1rSe9sj4Lv3xz1CK27I7qSbVFZiKlNQAPavPaELZRH/ddNDSbjinXL750JejOfsRmXWpM1xz/R5NxDxeDuULRnhQlIwMJUVt/tNvnEvufy+yXDL8un81T9JXWWk4nKJX4MH+t2TlqDK9IihO8HwiSyRpyG0u68x5Lned0vqVHY8yMXrRuMb/nhLEgzKXsTR66fDajMK3YLQ8wzbn6haCZ4yc286BX91GdhyDCH9993YbZ7wYMDPCt2Tl/TJN/m0xzWDk4iRIhpjTWJz/r7QsCgKilvRuYqnEypqfq2AfLPpOiQf+5z9KfwdLlqBVyeYstFYUucPuEL3uq9K86pBkXQlqoD4sEbYMKZyEOJK5eueoRVlPPIA/vf97t5aLV6zAck/DLsG5jXP4AFZPRr4rJQa5qGue42XW8m2OH61/oyeadkB8amhOSnjcCIoFcj5d7lKtlw==;FDr+V+BCJbwsNqmCtl60Ig=="
 ---
 

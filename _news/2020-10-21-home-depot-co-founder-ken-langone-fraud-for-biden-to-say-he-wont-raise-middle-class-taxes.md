@@ -1146,6 +1146,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "I Directly Dealt With Joe Biden--He's Lying About Deals in China"
+    excerpt: "Tony Bobulinski, a former business partner of Hunter Biden, accused former VP Joe Biden of lying about his role in his son's international dealings during a statement to the WH press corps just 90 minutes before Thursday's presidential debate."
+    publishedDateTime: 2020-10-24T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/24/i_directly_dealt_with_joe_biden--hes_lying_about_deals_in_china_527342.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524931_5_.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Biden campaign agrees to remove retired general from ad after he complains"
     excerpt: "Former Vice President Joe Biden's campaign will remove a portion of an ad that features a retired general after he objected to being included in it."
     publishedDateTime: 2020-10-19T21:05:00Z

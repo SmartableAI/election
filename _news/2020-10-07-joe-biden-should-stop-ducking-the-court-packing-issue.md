@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-d
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
 type: article
 quality: 125
-heat: 945
+heat: 965
 published: true
 
 provider:
@@ -647,6 +647,20 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 51
+  - title: "Bernie Sanders Is Working to Turn Out Young Voters—Even if Biden Keeps Bashing Socialism"
+    excerpt: "On Monday, Sanders traveled to Michigan to stump on Joe Biden’s behalf, devoting his remarks to assuring young voters who may be skeptical of Biden that the former vice president would be “the ..."
+    publishedDateTime: 2020-10-08T00:01:00Z
+    webUrl: "https://www.motherjones.com/2020-elections/2020/10/bernie-sanders-joe-biden-youth-vote/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 46
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/AP20280001097703.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden Remarks to Reporters on Supreme Court Confirmation Hearing."
     excerpt: "Joe Biden speaks briefly with reporters before departing for Ohio. Asked if the nominee’s faith should be considered, he responded “No. Her faith should not be considered...No one’s faith should be questioned."
     publishedDateTime: 2020-10-12T23:08:00Z

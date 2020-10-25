@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Russian hackers 'can't change votes,' Trump's national security adviser says"
+    excerpt: "U.S. officials said that Russian hackers have targeted the networks of dozens of state and local governments in the United States in recent days, stealing data from at least two servers."
+    publishedDateTime: 2020-10-25T20:30:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVk-LuIG9CU/russian-hackers-cant-change-votes-trumps-national-security-adviser-says"
+    ampWebUrl: "https://www.foxnews.com/politics/russian-hackers-cant-change-votes-trumps-national-security-adviser-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russian-hackers-cant-change-votes-trumps-national-security-adviser-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Meadows says Trump tweets to declassify Russia probe docs 'were not' direct orders"
     excerpt: "White House chief of staff Mark Meadows rejected suggestions this week that President Trump’s tweets earlier this month calling for the “total declassification” of all documents related to the Russia investigation and the FBI’s probe into Hillary Clinton’s private email server were an explicit order"
     publishedDateTime: 2020-10-21T14:48:12Z

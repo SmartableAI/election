@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-25-live-coverage-mike-pence-to-hold-rally-at-lakeland-linder-international-airport.md",
+      "title": "Live coverage: Mike Pence to hold rally at Lakeland Linder International Airport",
+      "excerpt": "Some of the attendees waiting to hear Mike Pence speak today include residents, veterans and Lake Wales commissioner Allen Goldstein and Polk County Republican chairman J.C. Martin. Trump campaign volunteers are checking temperatures and handing out ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theledger.com/story/news/politics/elections/2020/10/24/mike-pence-lakeland-vice-president-hold-rally/6008696002/",
+      "originalUrl": "https://www.theledger.com/story/news/politics/elections/2020/10/24/mike-pence-lakeland-vice-president-hold-rally/6008696002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NLED/0f5f4423-cbb5-4427-aec0-65063a141acf-2.jpg?auto=webp&crop=1535,864,x0,y204&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theledger.com/amp/6008696002",
+      "cdnAmpWebUrl": "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/6008696002",
+      "publishedDateTime": "2020-10-24T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Ledger",
+        "domain": "theledger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-pro-trump-high-schooler-sues-florida-district-for-censoring-support.md",
       "title": "Pro-Trump high schooler sues Florida district for censoring support",
       "excerpt": "A pro-Trump high school student was issued a temporary restraining order after suing his school district that took issue with his elephant statue supporting President Trump.",
@@ -618,7 +661,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 450,
+      "heat": 470,
       "tags": null,
       "images": [
         {
@@ -1274,58 +1317,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states.md",
-      "title": "Trump Says He’d ‘Consider’ $15 Per Hour Federal Minimum Wage, But Prefers To Leave It To States",
-      "excerpt": "President Donald Trump said during Thursday night’s presidential debate that he would “consider” raising the federal minimum wage to $15 per hour if he’s re-elected—a level that Democrat Joe Biden has committed to—but said he’d also strongly prefer to let states decide for themselves,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/",
-      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f932b4a1478f012ca60ed19%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/amp/",
-      "publishedDateTime": "2020-10-23T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

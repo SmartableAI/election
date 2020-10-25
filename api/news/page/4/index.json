@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-23-trump-guaranteed-the-election-would-be-all-about-him.md",
+      "title": "Trump guaranteed the election would be all about him",
+      "excerpt": "Gallup on Thursday summed up his opponent’s fundamental problem: “The majority of U.S. registered voters, 56%, believe  Donald Trump does not deserve to be reelected, while 43% say he does.” That is a seven-point drop in his “deserves reelection” number taken in January.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2060,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DC3E2ZAUN4I6XISYMFFM6K4QNU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/?outputType=amp",
+      "publishedDateTime": "2020-10-22T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-trump-claims-obama-campaigning-for-us-after-former-presidents-scathing-rebuke.md",
       "title": "Trump claims Obama 'campaigning for us' after former president's scathing rebuke",
       "excerpt": "President Trump claimed that former President Obama was campaigning for him “every time he speaks,” after Trump’s predecessor slammed him at a rally for Joe Biden Wednesday night. ",
@@ -174,7 +226,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1295,58 +1347,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-donald-trump-says-he-may-change-personality-if-he-wins-being-politically-correct-takes-time.md",
-      "title": "Donald Trump Says He May Change Personality If He Wins: 'Being Politically Correct Takes Time'",
-      "excerpt": "The president said he could change his behavior in a second term, suggesting time constraints in his first had shaped his actions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236",
-      "originalUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1656907/trump.jpg",
-          "width": 2500,
-          "height": 1639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-personality-politically-correct-1541236?amp=1",
-      "publishedDateTime": "2020-10-22T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

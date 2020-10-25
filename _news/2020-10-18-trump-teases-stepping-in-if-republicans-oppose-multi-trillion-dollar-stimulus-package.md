@@ -151,6 +151,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Herschel Walker claps back at those trying to change his mind about casting Trump vote"
+    excerpt: "Former NFL running back Herschel Walker on Sunday addressed critics who have tried to change his mind regarding his plans to vote for President Donald Trump in the November Election."
+    publishedDateTime: 2020-10-25T21:33:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CIt-BDgONOw/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49cd9545-8d20-42fb-a18a-f2dee89ff05f/aa598eef-8742-4fa8-b656-699b26d681b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign press secretary temporarily suspended on Twitter over mail-in voting tweet"
     excerpt: "EXCLUSIVE: The Trump campaign’s national press secretary had his Twitter account suspended Thursday, just hours before the presidential debate, after he tweeted about his experience of being sent absentee ballot materials intended for someone else."
     publishedDateTime: 2020-10-22T22:51:27Z

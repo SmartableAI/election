@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-20-demi-lovatos-new-song-commander-in-chief-lets-trumps-enablers-off-too-easy.md",
+      "title": "Demi Lovato's new song 'Commander In Chief' lets Trump's enablers off too easy",
+      "excerpt": "Though “Commander in Chief” is a valiant and valid entry into America's protest music canon, it lets everyone but Trump off the hook.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/demi-lovato-s-new-song-commander-chief-lets-trump-s-ncna1243929",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/demi-lovato-s-new-song-commander-chief-lets-trump-s-ncna1243929",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3421333/201019-demi-lovato-bbma-ew-421p_2cf653fb217f5a628908233be7d9b23f.jpg",
+          "width": 2500,
+          "height": 1642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1243929",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243929",
+      "publishedDateTime": "2020-10-19T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-what-joe-biden-can-learn-from-jacinda-ardern.md",
       "title": "What Joe Biden Can Learn from Jacinda Ardern",
       "excerpt": "The reelection of New Zealand’s prime minister was “one for the history books.” Her formula for success was simple.",
@@ -1606,63 +1663,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-what-trump-could-learn-from-the-fall-of-frances-own-fiery-law-and-order-president.md",
-      "title": "What Trump could learn from the fall of France's own fiery 'law and order' president",
-      "excerpt": "Americans are on the eve of a momentous political choice this November. But for a jump on how the story goes from here, consider what happened in France, where another \"back to normal\" candidate challenged a firebrand incumbent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
-      "originalUrl": "https://www.cnn.com/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200930155625-01-sarkozy-hollande-debate-2012-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
-      "publishedDateTime": "2020-10-12T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

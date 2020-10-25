@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 171
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e80b0076-79fc-45e5-a4d4-5a6dcc5d5b2a/8b3ed7b7-806e-4f84-8b34-88666e876b21/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Herschel Walker claps back at those trying to change his mind about casting Trump vote"
+    excerpt: "Former NFL running back Herschel Walker on Sunday addressed critics who have tried to change his mind regarding his plans to vote for President Donald Trump in the November Election."
+    publishedDateTime: 2020-10-25T21:33:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CIt-BDgONOw/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49cd9545-8d20-42fb-a18a-f2dee89ff05f/aa598eef-8742-4fa8-b656-699b26d681b7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

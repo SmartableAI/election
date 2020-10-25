@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-20-pence-touts-gop-candidates-support-for-fishermen-in-maine.md",
+      "title": "Pence touts GOP candidates, support for fishermen in Maine",
+      "excerpt": "Vice President Mike Pence used a Monday appearance in Maine to tout Republican politicians in the state and boast about the federal government's support for lobster fishermen. Pence held a rally in Hermon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.expressnews.com/news/article/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
+      "originalUrl": "https://www.expressnews.com/news/article/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/63/11/20132449/3/375x250.jpg",
+          "width": 375,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expressnews.com/news/amp/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
+      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
+      "publishedDateTime": "2020-10-20T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Antonio Express-News",
+        "domain": "expressnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-the-note-trumps-fauci-feud-keeps-campaign-focus-on-covid-19.md",
       "title": "The Note: Trump's Fauci feud keeps campaign focus on COVID-19",
       "excerpt": "It takes head-spinning logic to cast Trump's feud with Fauci as a winning campaign message for an incumbent who is down in the polls. The campaign is continuing to air ads that feature Fauci -- out of context -- appearing to applaud the president's decisions on COVID-19,",
@@ -1266,58 +1309,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-pence-to-mount-aggressive-campaign-push-in-final-two-weeks.md",
-      "title": "Pence to mount 'aggressive' campaign push in final two weeks",
-      "excerpt": "Vice President Mike Pence will travel at least five days a week and ramp up to at least two campaign rallies each day as part of a “very aggressive schedule” in the final days before the election, Pen",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks",
-      "originalUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike_100820getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp",
-      "publishedDateTime": "2020-10-19T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-26-large-audience-few-masks-at-trumps-new-hampshire-rally.md",
+      "title": "Large audience, few masks at Trump's New Hampshire rally",
+      "excerpt": "Since losing the state’s race for the governorship by only 50,000 votes, Stacey Abrams and her voter rights organization, Fair Fight, have helped register more than 800,000 new voters in the state. From becoming the first Afro-Latina or LGBTQ congresswoman to the first Native American veteran in Congress,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244646",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244646",
+      "publishedDateTime": "2020-10-25T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-conservative-news-sites-are-misleading-millions-of-readers-about-voter-fraud-pushing-debunked-conspiracy-theories-amplified-by-president-trump.md",
       "title": "Conservative news sites are misleading millions of readers about voter fraud, pushing debunked conspiracy theories amplified by President Trump",
       "excerpt": "Right-leaning news sites with millions of readers have published dozens of false or misleading headlines and articles that back unsubstantiated claims by President Donald Trump on voter fraud.",
@@ -868,7 +925,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/23/election-2020-updates-trump-pence-head-battlegrounds-after-debate/3679810001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2713,
+      "heat": 2753,
       "tags": null,
       "images": [
         {
@@ -1238,7 +1295,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2040,
+      "heat": 2060,
       "tags": null,
       "images": [
         {
@@ -1539,63 +1596,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-trump-finds-yet-another-democrat-hes-eager-to-lock-up.md",
-      "title": "Trump finds yet another Democrat he's eager to 'lock up'",
-      "excerpt": "Trump now wants to \"lock up\" the chairman of the House Intelligence Committee. Adam Schiff at least has quite a bit of company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-finds-yet-another-democrat-he-s-eager-lock-ncna1244285",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-finds-yet-another-democrat-he-s-eager-lock-ncna1244285",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_07/3224556/schiff_trump_russia_probe_60450-78995-maddowblog_f880ee5abeaa8d630c9e91def873f2fd.jpg",
-          "width": 830,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244285",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244285",
-      "publishedDateTime": "2020-10-22T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

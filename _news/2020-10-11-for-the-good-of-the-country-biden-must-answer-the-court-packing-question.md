@@ -367,6 +367,22 @@ related:
         width: 580
         height: 387
         isCached: true
+  - title: "Biden looking good – but concern over polls means Democrats are cautious"
+    excerpt: "Joe Biden speaks to reporters as he departs Wilmington, Delaware, on 10 October. Photograph: Kevin Lamarque/Reuters Biden is up to 16 points ahead nationally as must-win states seem safe ..."
+    publishedDateTime: 2020-10-11T07:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/oct/11/joe-biden-presidential-election-polls-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/11/joe-biden-presidential-election-polls-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/11/joe-biden-presidential-election-polls-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/ccb82ec83f93ef119d381b7fa8ad8209f9cad7e4/0_125_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9b0ccd4b76ff6145dd1467f6a5269246"
+        width: 600
+        height: 360
+        isCached: true
   - title: "The US's cold war with China won't disappear if Joe Biden becomes president"
     excerpt: "A change of president would be a relief to progressives, but don’t expect a thaw in relations with Beijing, says Alex Doherty of the Politics Theory Other podcast"
     publishedDateTime: 2020-10-12T07:00:00Z

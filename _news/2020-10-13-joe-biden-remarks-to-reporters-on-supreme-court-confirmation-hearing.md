@@ -651,6 +651,20 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 51
+  - title: "Bernie Sanders Is Working to Turn Out Young Voters—Even if Biden Keeps Bashing Socialism"
+    excerpt: "On Monday, Sanders traveled to Michigan to stump on Joe Biden’s behalf, devoting his remarks to assuring young voters who may be skeptical of Biden that the former vice president would be “the ..."
+    publishedDateTime: 2020-10-08T00:01:00Z
+    webUrl: "https://www.motherjones.com/2020-elections/2020/10/bernie-sanders-joe-biden-youth-vote/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 46
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/AP20280001097703.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2Q3T/KkAz61sIRmmwntSGHogxq9xvCXpgUVGO7xZu0I7QRO8W3hGioTEtwulDBJjOKB3tM26A6ot6u16K8rxm90/IdUobZjGIXMWrXhH8G7jWxs39cgb7RB989bVeDVN44F9BwavNNrY3xoyzu5iuPPuc2ZkDZO+YL+P46rV8R34bfRgRv+PR8YDScysj5nWiesP0BsjiyzqG/rBsW9N95TDv29aoluaQMNKXKqaaXB82oNrTdd4HKs90JjD+QqLC3X6qM8fgMeSiH7tZPq4gJcdAEOMX+HtprC1Zc/8a459aRFF/2c+LsTdTnlwF7pHdrJp3pQnjNFUGgyG5WZIeiSqV6xuAdZ0Oj3PWNIxmAmZkc88WPyy2Mf31x8TafGWqxAyle+meuBwCgnX9ysv/6HIw4M5ffizex6HGDZSh343byX3EcIznU4gdz9vN2BbOgRhW9OYT6PnYZhhRH4pr38ElQUwjJ97SFCd2KBncgBrT1zbZFZremXXqxn0lIF1J56az1cR1d+UYJjSwcqNmA==;6MdFo7fxH0/gN517Ycl7mg=="
 ---

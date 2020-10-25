@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-26-large-audience-few-masks-at-trumps-new-hampshire-rally.md",
+      "title": "Large audience, few masks at Trump's New Hampshire rally",
+      "excerpt": "Since losing the state’s race for the governorship by only 50,000 votes, Stacey Abrams and her voter rights organization, Fair Fight, have helped register more than 800,000 new voters in the state. From becoming the first Afro-Latina or LGBTQ congresswoman to the first Native American veteran in Congress,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244646",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244646",
+      "publishedDateTime": "2020-10-25T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-anti-protesters-attack-jews-for-trump-vehicle-convoy-in-new-york-city.md",
       "title": "Anti-protesters attack 'Jews for Trump' vehicle convoy in New York City",
       "excerpt": "A “Jews For Trump” vehicle convoy was repeatedly attacked and heckled as it made its way through New York City Sunday morning to show its support of the president, video shows.",
@@ -442,7 +499,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 174,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1306,49 +1363,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-live-coverage-mike-pence-to-hold-rally-at-lakeland-linder-international-airport.md",
-      "title": "Live coverage: Mike Pence to hold rally at Lakeland Linder International Airport",
-      "excerpt": "Some of the attendees waiting to hear Mike Pence speak today include residents, veterans and Lake Wales commissioner Allen Goldstein and Polk County Republican chairman J.C. Martin. Trump campaign volunteers are checking temperatures and handing out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theledger.com/story/news/politics/elections/2020/10/24/mike-pence-lakeland-vice-president-hold-rally/6008696002/",
-      "originalUrl": "https://www.theledger.com/story/news/politics/elections/2020/10/24/mike-pence-lakeland-vice-president-hold-rally/6008696002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NLED/0f5f4423-cbb5-4427-aec0-65063a141acf-2.jpg?auto=webp&crop=1535,864,x0,y204&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theledger.com/amp/6008696002",
-      "cdnAmpWebUrl": "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/6008696002",
-      "publishedDateTime": "2020-10-24T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Ledger",
-        "domain": "theledger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

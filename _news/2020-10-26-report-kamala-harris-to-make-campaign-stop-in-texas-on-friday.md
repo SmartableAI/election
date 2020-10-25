@@ -747,6 +747,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris to make campaign stop in Texas"
+    excerpt: "Harris will be the highest-profile representative from the Biden campaign to visit Texas in person during the general election."
+    publishedDateTime: 2020-10-25T18:32:00Z
+    webUrl: "https://www.texastribune.org/2020/10/25/kamala-harris-texas-campaign/"
+    ampWebUrl: "https://www.texastribune.org/2020/10/25/kamala-harris-texas-campaign/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2020/10/25/kamala-harris-texas-campaign/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 75
+    images:
+      - url: "https://thumbnails.texastribune.org/ubuqQGRSxvLqNIKylKVxEVU-fRY=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/db8e0802add5deeb7840ba0304c0e16a/03_Kamala_Harris_PYH_TT.jpg"
+        width: 1200
+        height: 804
+        isCached: true
   - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Charlotte Observer"
     excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."
     publishedDateTime: 2020-10-21T20:49:00Z
@@ -1280,6 +1296,15 @@ related:
     excerpt: "T12:29:55-04:00 vice presidential nominee and Senator Kamala Harris (CA) visits Cleveland, Ohio, and greets citizens. Democratic vice presidential nominee and Senator Kamala Harris (CA) visits Cleveland,"
     publishedDateTime: 2020-10-24T17:26:00Z
     webUrl: "https://www.c-span.org/event/?477345/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Former President Obama Campaign Event for Joe Biden in Miami"
+    excerpt: "Former President Obama delivered remarks at a drive-in campaign rally in North Miami, Florida, in support of former Vice President Joe Biden's 2020 Democratic presidential campaign. The was the former president's second in-person campaign event promoting Mr."
+    publishedDateTime: 2020-10-25T20:04:00Z
+    webUrl: "https://www.c-span.org/video/?477346-1/president-obama-campaign-event-joe-biden-miami"
     type: article
     provider:
       name: C-SPAN

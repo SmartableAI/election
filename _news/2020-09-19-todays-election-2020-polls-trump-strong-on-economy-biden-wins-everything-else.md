@@ -63,6 +63,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Four in ten supporters of Biden, Trump would not accept election defeat"
+    excerpt: "More than four in ten supporters of both President Donald Trump and his Democratic challenger, Joe Biden, said they would not accept the result of the November election if their preferred candidate loses,"
+    publishedDateTime: 2020-10-25T21:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27A0BB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A0BB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A0BB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538745981&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O096"
+        width: 817
+        height: 545
+        isCached: true
   - title: "The Trailer: Trump and allies have lowered expectations for Joe Biden"
     excerpt: "How Republicans lowered the debate stakes for Joe Biden, new panic and accusations about absentee voting, and how the death of a Legal Marijuana Now party candidate could change the course of American history."
     publishedDateTime: 2020-09-24T22:28:00Z
