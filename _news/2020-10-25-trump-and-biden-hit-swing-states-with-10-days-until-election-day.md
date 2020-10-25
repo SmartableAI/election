@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Biden Is Not Out of the Woods"
-excerpt: "Recent headlines reflect the widespread view that Biden is poised to prevail: Washington Post: “As Trump stumbles, voters finalize their choices, and Biden’s lead grows”;: “Virus Pulls Down Trump, Poll Shows,"
-publishedDateTime: 2020-10-14T09:14:00Z
-originalUrl: "https://www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.html"
-webUrl: "https://www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.html"
-ampWebUrl: "https://www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.amp.html"
+title: "Trump and Biden Hit Swing States, With 10 Days Until Election Day"
+excerpt: "Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."
+publishedDateTime: 2020-10-25T08:17:00Z
+originalUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election/trump-in-wisconsin-says-the-virus-is-rounding-the-turn-while-cases-climb"
+webUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election/trump-in-wisconsin-says-the-virus-is-rounding-the-turn-while-cases-climb"
 type: article
-quality: 135
+quality: 145
 heat: -1
 published: false
 
@@ -22,13 +20,13 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2020/10/14/opinion/14edsall1/14edsall1-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2020/10/24/us/24elections-briefing-trump-wisc/merlin_179020233_0dd092b9-762b-42e8-b2c1-a5b48b4ef808-facebookJumbo.jpg"
     width: 1050
-    height: 550
+    height: 549
     isCached: true
 
 related:
@@ -368,19 +366,21 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Trump and Biden Hit Swing States, With 10 Days Until Election Day"
-    excerpt: "Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."
-    publishedDateTime: 2020-10-25T08:17:00Z
-    webUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election/trump-in-wisconsin-says-the-virus-is-rounding-the-turn-while-cases-climb"
+  - title: "Biden Is Not Out of the Woods"
+    excerpt: "Recent headlines reflect the widespread view that Biden is poised to prevail: Washington Post: “As Trump stumbles, voters finalize their choices, and Biden’s lead grows”;: “Virus Pulls Down Trump, Poll Shows,"
+    publishedDateTime: 2020-10-14T09:14:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 145
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/24/us/24elections-briefing-trump-wisc/merlin_179020233_0dd092b9-762b-42e8-b2c1-a5b48b4ef808-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/14/opinion/14edsall1/14edsall1-facebookJumbo.jpg"
         width: 1050
-        height: 549
+        height: 550
         isCached: true
   - title: "Indian-Americans Overwhelmingly Support Joe Biden, New Poll Shows"
     excerpt: "Americans plan to cast ballots for the Democratic ticket of former Vice President Joseph R. Biden Jr. and Senator Kamala Harris, according to a survey released Wednesday, despite elaborate overtures by the Trump White House to win their support."
@@ -748,6 +748,6 @@ related:
       domain: thedailybeast.com
     quality: 34
 
-secured: "1wxqfcxWk+ed1wj6h/CAmrFu7r/OR44pAiLC0+ftQGCnmBU+69O4njf6Ci4tzvl9+uqzFDeExtjJkg3jTrcRLTQ5yf9dk+IwwY4gA5Tl8HYjQvOGEZ0z2sYvnUCO6a7WF/TujXdC9kgYUaf/OziIkm+Nnlqk1A9q4S2z9HMmpPD2mBaGGkgk6RTMLUE+08I/LZxLAP1KtVexhTHTfvkyxB6M9pvngjIcZOfmJpIMj5ewzABgZ9QuQ/dtHnqvss0uaTc+AyM8FuCMEbqRrLy4CKr1PJ/jgR2g1HDtrXmetwuNjw/JizpwRFw/+7E1oZ2WkHKpWMnksgYiO+3ZIMNLb8bUwjpDanwwYgWjTnV297lwOKZ/YbDvusG4VUJ4iliHTiXNbzCgtgfr2ZvrceY1/vR7c3MDPnytZdYuMDwmanm5axd4xYvKgczQmpU0Gh9ip8bz8gjl6pUl+ziYSmw4gkLp5UjR9OYmlBpO2pK0pGVJH1hvdGKjCnYyu6O5QEwS73iHDiy/8EWds5XKSxgugg==;yM2d2rQUfDbsq/ReCAwOcg=="
+secured: "dcvaqpmU/NJJzetwXVBlF/1MtaIExNH+iS9o+gBmUguV0rZ022sCc1TVfmSLiRF0zOF89TQ9Zm6dFF9qZDA8m7GJaldJnICRx2x24mqplZXdWMO7CAAHNaXHBjxdK/zDVQVRkYyz5E7GuUmtpQGFop2unna8y2d9iLTJ4Vo0UIjnuYtzE8EK/6PsMOs9bTzDEVJfeo3gxskdW1JdUQVEHIZ31TuM7NNCbFoBwFUgCKJwo5jy7XD71LatKmI6ihMdGhzGun73Pxl07Am6cLBfQhJSoRbGARo7vlQkedr+bu9AUMuxiYcTRMHEEy9oa5H18BFe0JU02PoNj2CQOeq5ltreWB56BkMKIyQP21glcdU=;TdY1T0w6Vak+UJpioPem1A=="
 ---
 

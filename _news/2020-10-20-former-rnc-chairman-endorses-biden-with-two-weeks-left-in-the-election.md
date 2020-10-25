@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 1110
+heat: 1130
 published: true
 
 provider:
@@ -348,6 +348,20 @@ related:
     quality: 151
     images:
       - url: "https://static01.nyt.com/images/2020/10/22/multimedia/22elections-briefing-biden/22elections-briefing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Trump and Biden Hit Swing States, With 10 Days Until Election Day"
+    excerpt: "Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."
+    publishedDateTime: 2020-10-25T08:17:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election/trump-in-wisconsin-says-the-virus-is-rounding-the-turn-while-cases-climb"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 145
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/24/us/24elections-briefing-trump-wisc/merlin_179020233_0dd092b9-762b-42e8-b2c1-a5b48b4ef808-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true

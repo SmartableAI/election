@@ -3,10 +3,12 @@ category: news
 title: "As COVID-19 hits swing states, Biden and Trump show sharp contrast"
 excerpt: "President Donald Trump and his Democratic rival Joe Biden gave starkly contrasting messages on Saturday about the coronavirus pandemic, taking their campaigns for the White House on the road to swing states where COVID-19 cases are surging again."
 publishedDateTime: 2020-10-25T03:11:00Z
-originalUrl: "https://www.reuters.com/article/usa-election/as-covid-19-hits-swing-states-biden-and-trump-show-sharp-contrast-idUSKBN27906J"
-webUrl: "https://www.reuters.com/article/usa-election/as-covid-19-hits-swing-states-biden-and-trump-show-sharp-contrast-idUSKBN27906J"
+originalUrl: "https://www.reuters.com/article/us-usa-election/biden-trump-rallies-show-sharp-contrast-amid-as-coronavirus-surges-again-idUSKBN27906N"
+webUrl: "https://www.reuters.com/article/us-usa-election/biden-trump-rallies-show-sharp-contrast-amid-as-coronavirus-surges-again-idUSKBN27906N"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27906N"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27906N"
 type: article
-quality: 120
+quality: 140
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20201024&t=2&i=1538715775&r=LYNXMPEG9N0N9&w=800"
-    width: 800
-    height: 533
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538697061&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N0EK"
+    width: 819
+    height: 545
     isCached: true
 
 related:
@@ -1843,6 +1845,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "SZhYG8TPQUk3d69o8qcD/Kl59f1A3o2keBo32hBKsg1GNVc9hHSMXu1uTOv+p77ac4RvFZVIh9Tr4HG1JOP/4h8KbnufdogPg9Psc9DytCYTUs5TWJKNWhDKccS8+0sVvY5T3nox/QsRsFfYiaIRaL1UUMscr7TnGvePs9ipWR9k2QfAdWPTwDGgsSfuNw8OhRVFj+Tg4wMiz258bAjz1KmVqujM7ezUBE7wwq+7KLCL+5ScVc6N+MBAWYJmXSfrfBxFaN4eARaThfpMwMeSYvGNNgzl9OGkRidUiyQcvvi/oNyqvpOjVc5qz9X7hPCU+XcbO1vDm7WpYfYnUCgri8BQf5RMutdq3Eg06oKo3soWbh9akkKYxPsMaHeajAbkYEtK/5a2XVBkwIQo0tIOQBEqMVZgaiipxH1szJqa38vq2A/de03YkUXCacn0EYMA+OjUB8PuMYXWYduv0WsLU5ZNkU3jAig/EhUFBuJtNpc89EZv1+vVgbtPtCz116CL618pfh9hjIxYpP3UDcSUPg==;BmedNJWb1yLydN0HbNVZQw=="
+secured: "pf0opTlD0l0NKTssw4oS7KslSOnrNYnLd0aN4pfZU+U+aqqXIrJhzYU2UqtEb8teodaXzVGhiV2xsFw+r2Csjj9kIreOVBj+UAQDXbk9sTGW28Qebyk1pOCgNdLiZrQjxFpAfpU8Pv9WQqKBBKYcZdO0vOrWQFzF7uy0VbWQJiYCQE29qoM2lmnQwOvlkmXTcbiMOhr5pJA0tD2cqFx9W9zw19HLOEeA5sTWLeXRSvjxbucNniphdgwKnXcHIjF7F4bqnt0hf8uCR/r+0HpS8P2WJCkrbHOWL5nIF0g6mWIuz3opnheQQ9PjXqwKg+UlcFbu9TjeFrBVQh5yycMFX233KbjuYGUUxG0AuQd3Q20=;rUXullRoebdq/xQJAcODGg=="
 ---
 
