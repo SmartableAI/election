@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html"
 type: article
 quality: 175
-heat: 216
+heat: 215
 published: true
 
 provider:

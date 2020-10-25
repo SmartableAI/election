@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-pers
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-person-event-biden-73729555"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c7732d23-e2ae-4dbb-b1fc-f59e3e74be61/f2e1bfc2-be57-4900-b234-0d0dbced69fd/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Obama tells south Florida not to fall for 'okey-doke:' 'Joe Biden is not a socialist'"
+    excerpt: "Former President Barack Obama told Floridians on Saturday not to fall for the “okey-doke” from Republicans who say that Joseph R. Biden is a secret communist or socialist."
+    publishedDateTime: 2020-10-24T21:19:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/24/Election_2020_Obama_89524.jpg-72e00_c0-220-5280-3300_s1200x700.jpg?932acde88473437c7d8669264c8035b9d1f45860"
+        width: 1200
+        height: 700
         isCached: true
   - title: "This Bay of Pigs vet in Miami is all in for Joe Biden, rejects GOP’s socialist attacks | Opinion"
     excerpt: "But finally, somebody with credibility and authority — a Bay of Pigs veteran, no less — is addressing the most damaging accusation by the Donald Trump campaign and the Florida GOP against Joe Biden and down-ballot Democrats."

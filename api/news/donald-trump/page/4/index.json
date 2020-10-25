@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-14-what-demi-lovato-says-about-donald-trump-in-new-protest-song-commander-in-chief.md",
+      "title": "What Demi Lovato Says About Donald Trump in New Protest Song 'Commander in Chief'",
+      "excerpt": "\"Commander in Chief\" is the former Disney star's protest anthem against the Republican candidate ahead of election day on November 3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019",
+      "originalUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1651670/demi-lovato.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019?amp=1",
+      "publishedDateTime": "2020-10-14T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-suburban-women-will-you-please-like-me-trump-attempts-to-appeal-to-voter-group-he-has-struggled-to-reach.md",
+      "title": "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach",
+      "excerpt": "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8644e9fd1f49001964d784?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp",
+      "publishedDateTime": "2020-10-13T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-trump-to-coronavirus-victims-i-feel-your-pain-because-ive-felt-your-pain.md",
       "title": "Trump to coronavirus victims: 'I feel your pain because I've felt your pain'",
       "excerpt": "The president told a crowd in Johnstown, Pennsylvania, that he \"felt like Superman\" after getting an experimental drug treatment for Covid-19 and that he's now \"immune.\"",
@@ -1486,106 +1590,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet.md",
-      "title": "Trump Says Scans Found 'Congestion' In His Lungs, Doesn’t Know If He’s Virus-Free Yet",
-      "excerpt": "Trump's physician Dr. Sean Conley, who has given conflicting reports on Trump's health, previously said that scans resulted in \"expected findings.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/",
-      "originalUrl": "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f810fff2be6434eedee24f9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4808%26cropY1%3D211%26cropY2%3D2916",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/amp/",
-      "publishedDateTime": "2020-10-09T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-cenk-uygur-awesome-to-listen-donald-trump-and-rush-limbaugh-cry-about-fox-news.md",
-      "title": "Cenk Uygur: \"Awesome\" To Listen Donald Trump And Rush Limbaugh Cry About FOX News",
-      "excerpt": "\"The Young Turks\" host Cenk Uygur spoke Friday about the schadenfreude of listening to Donald Trump complain about FOX News during an interview with Rush Limbaugh. \"He complains about everything, he will not stop crying,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/10/09/cenk_uygur_awesome_to_listen_donald_trump_and_rush_limbaugh_cry_about_fox_news.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/09/cenk_uygur_awesome_to_listen_donald_trump_and_rush_limbaugh_cry_about_fox_news.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/51/513828.jpg",
-          "width": 1202,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

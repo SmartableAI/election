@@ -27,22 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "RNC chairwoman say Republicans who distance themselves from Trump are 'hurting themselves in the long run'"
-    excerpt: "Her comments came after Trump lashed out at Nebraska Sen. Ben Sasse for leaked audio from a constituent town hall where he criticized the president."
-    publishedDateTime: 2020-10-18T18:14:00Z
-    webUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
+  - title: "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes"
+    excerpt: "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week."
+    publishedDateTime: 2020-10-24T22:53:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 107
+    quality: 122
     images:
-      - url: "https://i.insider.com/5f8c7e90c21cfb0019468a88?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f7646e80ab50d00184adb29?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Campaign Loses Again in Suit Over Philly Voter Offices"
+    excerpt: "A Pennsylvania appeals court is delivering another defeat to efforts by President Donald Trump’s campaign to let its campaign representatives monitor people registering to vote or filling out mail-in ballots in election offices in the battleground state."
+    publishedDateTime: 2020-10-23T16:24:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-23/trump-campaign-loses-again-in-suit-over-philly-voter-offices"
+    ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-23/trump-campaign-loses-again-in-suit-over-philly-voter-offices?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-10-23/trump-campaign-loses-again-in-suit-over-philly-voter-offices?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "HdDeooMAxyRFdiWqTjFXXmnW+JrV6f7/RWG5Qh4t3EcnVMTIjYEh3lImalIOjvIr2565zrp1aOFdhNFtPXEPF9EX8UIGU3PRCuCk0go5YODLAc85vk9zKyqg4HouhKRgLDnGHGMwG2k4BFUvuHBgMaNjrseD9+mJQ9BNuVJ6Fmd5YBIyt5ROkDdgtMjErahDQWGjQqAvbaK9MdtlSBN18M3ZnSmLvNZ+UHoE5w7n31/WJPxpZU0N27fJIyIZBN9LzOIAIRC2gAraxWROu845dOkTk/tfxUkgqBHMD3jxFSL4OmDHboJWcpvmUVZ2+1qqF0yPLhuACqF+MALtlVfCwzMMgMs+fRCBpyEXWusOmEo=;6sNOtOHFAqp0RPdGS5g0/A=="
 ---

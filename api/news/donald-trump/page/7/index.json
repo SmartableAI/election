@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-01-trump-falsely-claims-poll-watchers-blocked-from-observing-early-voting-sites-in-philadelphia.md",
+      "title": "Trump falsely claims 'poll watchers' blocked from observing early voting sites in Philadelphia",
+      "excerpt": "President Trump falsely claimed that \"poll watchers\" were blocked from entering early voting locations in Philadelphia, an issue his campaign and the RNC are litigating.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pennsylvania-election-01-gty-llr-200930_1601499860422_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
+      "publishedDateTime": "2020-09-30T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-sen-chuck-grassley-id-be-very-concerned-about-how-donald-trumps-tax-returns-got-out.md",
+      "title": "Sen. Chuck Grassley: 'I'd be very concerned' about how Donald Trump's tax returns got out",
+      "excerpt": "Asked about the substance of the New York Times' reporting that Trump paid $750 in income tax in 2016 and 2017, Grassley said he doesn't have enough evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/09/17/PDEM/80644d4b-a019-4ee7-a6b1-39785f7db425-grassley.jpg?auto=webp&crop=5999,3360,x0,y39&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5874449002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874449002",
+      "publishedDateTime": "2020-09-30T16:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-trump-has-repeatedly-been-endorsed-by-white-supremacist-groups-and-other-far-right-extremists-and-theyve-looked-to-him-as-a-source-of-encouragement.md",
       "title": "Trump has repeatedly been endorsed by white supremacist groups and other far-right extremists, and they've looked to him as a source of encouragement",
       "excerpt": "Trump's refusal to explicitly condemn white supremacist groups during Tuesday night's debate follows a similar pattern.",
@@ -1485,110 +1589,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-ny-times-trump-paid-750-in-us-income-taxes-in-2016-2017.md",
-      "title": "NY Times: Trump paid $750 in US income taxes in 2016, 2017",
-      "excerpt": "President Donald Trump paid no federal income taxes in 10 of the past 15 years, according to a report in The New York Times",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_a532243e815c4ae78ad8b2a16ad8894a_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930",
-      "publishedDateTime": "2020-09-27T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-donald-trump-facing-financial-ruin-sought-control-of-his-elderly-fathers-estate-the-family-fight-was-epic.md",
-      "title": "Donald Trump, facing financial ruin, sought control of his elderly father’s estate. The family fight was epic.",
-      "excerpt": "It was basically taking the whole estate and giving it to Donald,” Trump’s sister said in secretly recorded audio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/graphics/2020/politics/donald-trump-father-will/",
-      "originalUrl": "https://www.washingtonpost.com/graphics/2020/politics/donald-trump-father-will/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S43N3IHYOQI6VBPXLFARRCUYZU.jpg&w=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

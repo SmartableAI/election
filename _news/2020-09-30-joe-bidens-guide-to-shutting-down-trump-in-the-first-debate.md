@@ -992,6 +992,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden, Trump rallies show sharp contrast as coronavirus surges again"
+    excerpt: "President Donald Trump and his Democratic rival Joe Biden gave starkly contrasting messages on Saturday about the coronavirus pandemic, taking their campaigns for the White House on the road as COVID-19 cases surged again."
+    publishedDateTime: 2020-10-24T23:43:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-trump-rallies-show-sharp-contrast-as-coronavirus-surges-again-idUSKBN27906J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27906J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27906J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538715775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N0N9"
+        width: 817
+        height: 545
+        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z
@@ -1181,6 +1197,22 @@ related:
     quality: 138
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538670270&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N023"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump says pandemic will end soon after Biden blasts his handling of crisis"
+    excerpt: "President Donald Trump promised supporters in Florida on Friday that the coronavirus pandemic would end soon and accused Democratic rival Joe Biden of overstating the health crisis to scare Americans into voting for him."
+    publishedDateTime: 2020-10-24T19:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2781A4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2781A4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2781A4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538663937&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N00S"
         width: 817
         height: 545
         isCached: true

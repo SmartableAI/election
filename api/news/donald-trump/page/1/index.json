@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-25-trump-campaign-files-lawsuit-requesting-nevada-court-to-block-election-officials-from-counting-early-votes.md",
+      "title": "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes",
+      "excerpt": "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7646e80ab50d00184adb29?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp",
+      "publishedDateTime": "2020-10-24T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-election-live-updates-trump-votes-early-biden-continues-final-push.md",
+      "title": "Election live updates: Trump votes early, Biden continues final push",
+      "excerpt": "President Donald Trump is expected to cast his ballot Saturday in Florida. —Latest polls from battleground states and more. —The road to 270: How Biden or Trump could win. FORT LAUDERDALE, Fla. — Eleven days out from the election,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-24-trump-biden-election-n1244363",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-24-trump-biden-election-n1244363",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244363",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244363",
+      "publishedDateTime": "2020-10-24T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-new-york-grocery-store-sparked-backlash-with-a-20-discount-offer-for-trump-supporters.md",
       "title": "New York grocery store sparked backlash with a 20% discount offer for Trump supporters",
       "excerpt": "Store owner Jose Colon told Fox News he also meant to extend the 20% off promotional offer to backers of Democratic presidential nominee Joe Biden.",
@@ -650,7 +759,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/23/election-2020-updates-trump-pence-head-battlegrounds-after-debate/3679810001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2353,
+      "heat": 2393,
       "tags": null,
       "images": [
         {
@@ -703,7 +812,7 @@
       "originalUrl": "https://thehill.com/homenews/media/522405-pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1020,7 +1129,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1800,
+      "heat": 1820,
       "tags": null,
       "images": [
         {
@@ -1487,115 +1596,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-linda-ronstadt-slams-donald-trumps-state-of-emergency-at-the-us-southern-border-encouraging-resentment.md",
-      "title": "Linda Ronstadt slams Donald Trump's 'state of emergency' at the U.S. southern border, 'encouraging resentment'",
-      "excerpt": "Linda Ronstadt bashed Donald Trump and his administration’s handling of the situation at the United States’ southern border.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment",
-      "originalUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Rodstadt-Trump_Getty-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment.amp",
-      "publishedDateTime": "2020-10-22T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe.md",
-      "title": "GOP voters know ‘this election is between a good man and a bad man’ — and they’ve backing Trump anyway: Morning Joe",
-      "excerpt": "Even his supporters agree that President Donald Trump is a bad man, according to MSNBC’s Joe Scarborough, and believe Joe Biden is basically a good man. So why are they voting for Trump, anyway, the “Morning Joe” host asked historian Jon Meacham.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/",
-      "originalUrl": "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-04-at-7.15.10-AM.png",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/amp/",
-      "publishedDateTime": "2020-10-22T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

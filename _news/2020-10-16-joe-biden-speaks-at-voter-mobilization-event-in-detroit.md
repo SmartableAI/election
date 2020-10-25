@@ -209,6 +209,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Obama tells south Florida not to fall for 'okey-doke:' 'Joe Biden is not a socialist'"
+    excerpt: "Former President Barack Obama told Floridians on Saturday not to fall for the “okey-doke” from Republicans who say that Joseph R. Biden is a secret communist or socialist."
+    publishedDateTime: 2020-10-24T21:19:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/24/Election_2020_Obama_89524.jpg-72e00_c0-220-5280-3300_s1200x700.jpg?932acde88473437c7d8669264c8035b9d1f45860"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "This Bay of Pigs vet in Miami is all in for Joe Biden, rejects GOP’s socialist attacks | Opinion"
     excerpt: "But finally, somebody with credibility and authority — a Bay of Pigs veteran, no less — is addressing the most damaging accusation by the Donald Trump campaign and the Florida GOP against Joe Biden and down-ballot Democrats."
     publishedDateTime: 2020-10-20T19:14:00Z

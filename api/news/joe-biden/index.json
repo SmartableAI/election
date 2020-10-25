@@ -124,7 +124,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-claim-lacks-important-details-biden-and-land-banks/6011931002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -802,7 +802,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/barack-obama-hold-person-event-biden-73729555",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -843,63 +843,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-a-biden-landslide-some-democrats-cant-help-whispering.md",
-      "title": "A Biden Landslide? Some Democrats Can’t Help Whispering",
-      "excerpt": "Democrats are still haunted by the ghosts of 2016. But some are allowing themselves to contemplate a Biden victory big enough to reorder the nation’s politics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/21/us/politics/biden-election-landslide.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/21/us/politics/biden-election-landslide.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/19/us/politics/19biden-landslide-top/merlin_178713780_0331426e-fb13-423f-84cb-9a6f19e16007-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/21/us/politics/biden-election-landslide.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/us/politics/biden-election-landslide.amp.html",
-      "publishedDateTime": "2020-10-21T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1263,6 +1206,54 @@
       ]
     },
     {
+      "path": "_news/2020-10-20-what-joe-biden-can-learn-from-jacinda-ardern.md",
+      "title": "What Joe Biden Can Learn from Jacinda Ardern",
+      "excerpt": "The reelection of New Zealand’s prime minister was “one for the history books.” Her formula for success was simple.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/",
+      "originalUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenation.com/wp-content/uploads/2020/10/jacinda-ardern-labour-victory-gty-img.jpg",
+          "width": 1440,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/tnamp/",
+      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/biden-jacinda-ardern/tnamp/",
+      "publishedDateTime": "2020-10-19T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation",
+        "domain": "thenation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-warren-buffett-and-joe-biden-are-bullish-on-america-agree-the-super-rich-should-pay-higher-taxes-and-want-quarterly-earnings-guidance-to-end.md",
       "title": "Warren Buffett and Joe Biden are bullish on America, agree the super rich should pay higher taxes, and want quarterly earnings guidance to end",
       "excerpt": "\"Warren Buffett said it best when he stated that he should not pay a lower tax rate than his secretary,\" Biden's campaign website reads.",
@@ -1365,63 +1356,6 @@
         "Election",
         "Donald Trump",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-biden-campaign-manager-urges-supporters-to-campaign-like-were-trailing.md",
-      "title": "Biden campaign manager urges supporters to ‘campaign like we’re trailing’",
-      "excerpt": "In a memo obtained by NBC News, former Vice President Joe Biden’s campaign manager warned about complacency. Biden spoke to supporters at a drive-in rally in North Carolina.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/biden-campaign-manager-urges-supporters-to-campaign-like-we-re-trailing-94105157774",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/biden-campaign-manager-urges-supporters-to-campaign-like-we-re-trailing-94105157774",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_avi_biden_on_the_trail_201018_1920x1080.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo94105157774",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94105157774",
-      "publishedDateTime": "2020-10-18T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1574,6 +1508,58 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-column-big-tech-slaps-the-new-york-post-to-shield-joe-biden.md",
+      "title": "Column: Big Tech slaps The New York Post to shield Joe Biden",
+      "excerpt": "We were always told it would come from the right, but now we see that it comes from Big Tech, which has interfered with a news organization’s coverage of a Joe Biden campaign issue. Social media giants Twitter and Facebook on Wednesday limited the sharing on their platforms of a story from The New York Post about questionable business dealings of Joe Biden’s son Hunter in Ukraine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
+      "originalUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 585,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/P2hqGpWjNVftSNcBqXQMwth4Lbs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H2RW7ZNH7DBS77JXMSLEEFLGFI.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-16T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

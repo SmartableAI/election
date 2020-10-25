@@ -423,6 +423,22 @@ related:
         width: 1119
         height: 545
         isCached: true
+  - title: "Election 2020 live updates: Obama says Trump treats 'presidency like a reality show'"
+    excerpt: "With 10 days to go until Election Day, President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3."
+    publishedDateTime: 2020-10-24T23:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/election blog/?id=73795075"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/International/obama-miami-2-ap-rc-201024_1603571842167_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Election 2020 updates: Trump delivers shorter-than-usual speech in chilly Pennsylvania"
     excerpt: "With 14 days to go until Election Day, and President Donald Trump and former Vice President Joe Biden racing toward Nov. 3, voters are turning out in record numbers to cast their ballots early. Roughly 31 million Americans have already voted in the 2020 election,"
     publishedDateTime: 2020-10-22T23:03:00Z
@@ -1040,6 +1056,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/9a2c80c6-bfe7-4509-861b-b4d57d8da789-AP_Election_2020_Debate.jpg?auto=webp&crop=4405,2478,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden says he won't return Trump's attacks on his children because 'it's crass' to target a political opponent's family"
+    excerpt: "\"Look, I'm running against Donald Trump, not his children,\" Biden said in an interview with \"Pod Save America.\""
+    publishedDateTime: 2020-10-24T23:45:00Z
+    webUrl: "https://www.businessinsider.com/biden-says-its-crass-to-attack-political-opponents-family-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-says-its-crass-to-attack-political-opponents-family-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-its-crass-to-attack-political-opponents-family-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5f5fb81157b7da001ee117a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Debate: Biden says he'd create 'Bidencare' if Supreme Court strikes down Affordable Care Act"
     excerpt: "Former Vice President Joe Biden cast aside attacks from President Donald Trump over what health care could look like under a Democratic president."

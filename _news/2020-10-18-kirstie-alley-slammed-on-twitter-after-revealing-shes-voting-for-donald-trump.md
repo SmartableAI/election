@@ -719,6 +719,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "‘I voted for a guy named Trump,’ the president says after voting in person in West Palm Beach"
+    excerpt: "President Donald Trump cast his in-person vote in West Palm Beach on Saturday morning, and said \"I voted for a guy named Trump.\" He took the opportunity to remind people how secure in-person voting is over mail ballots."
+    publishedDateTime: 2020-10-24T22:29:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/KgzswDY0nyTc_DHTjjDMvp_i5VY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IAWGT7FNMS4XFPH4KLRRHBJQGQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall"
     excerpt: "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question."
     publishedDateTime: 2020-10-16T04:42:00Z

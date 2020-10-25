@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris’ Political Director shares update after two involved in campaign test positive for COVID-19"
-    excerpt: "Kamala Harris cancels all campaign events through the weekend after two people involved with the campaign test positive for COVID-19. Her Political Director Vincent Evans says the campaign is taking every precaution,"
-    publishedDateTime: 2020-10-18T04:53:00Z
-    webUrl: "https://www.msnbc.com/the-week/watch/kamala-harris-political-director-shares-update-after-two-involved-in-campaign-test-positive-for-covid-19-94067269688"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo94067269688"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo94067269688"
+  - title: "Fact check: Where does Kamala Harris stand on health care?"
+    excerpt: "Trump claimed that Biden's running mate, Sen. Kamala Harris, D-Calif., supports \"socialized medicine.\" \"He wants sociali"
+    publishedDateTime: 2020-10-23T02:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244434"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244210"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210"
     type: article
     provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 118
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_johnson_harris_201017_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Kamala Harris makes her final case to 'the ATL'"
     excerpt: "With just days to go until the election, Harris invokes Atlanta’s civil rights legacy in a pitch to Black voters."

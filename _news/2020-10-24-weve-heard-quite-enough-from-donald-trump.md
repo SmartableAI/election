@@ -3,10 +3,10 @@ category: news
 title: "We’ve Heard Quite Enough From Donald Trump"
 excerpt: "Everybody talks about Joe Biden as the old jalopy in this presidential race, but on Thursday night in Nashville, it was Donald Trump who seemed to be running on fumes. I don’t mean physically: He had his full repertoire of facial expressions (cocky,"
 publishedDateTime: 2020-10-24T13:15:00Z
-originalUrl: "https://www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.html"
-webUrl: "https://www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.html"
-ampWebUrl: "https://www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.amp.html"
+originalUrl: "https://www.nytimes.com/2020/10/23/opinion/sunday/debate-trump-biden-.html"
+webUrl: "https://www.nytimes.com/2020/10/23/opinion/sunday/debate-trump-biden-.html"
+ampWebUrl: "https://www.nytimes.com/2020/10/23/opinion/sunday/debate-trump-biden-.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/opinion/sunday/debate-trump-biden-.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -280,6 +280,6 @@ related:
       domain: thedailybeast.com
     quality: 37
 
-secured: "sTArjpCZvRQMD01XlB45Rs3NbXnswBv1ZwN8voOdtkSTX4atsdJjy542G/bsshiIgtREr0n9wFLaRlUo5rC5Y17mf5EiZ+oyhVAbF2gscRGQRvcMiEtmIQ5AbjQvGrnc4iBze/o/v7LIXKBtdaLu3Bwr+V7Dzlq9Y5Kqdp9AB4ng+2rLyxEItF8QITn4RfHaOakG5ZV0jnqNAiY/uPApxVPHnyKxQINRLdApLGgpPEL6NMZe9eTY5QdQUlAprYhA3vZW3lYNkYL5dsRdCbfKT4u3+j1fMDPdnzi9x8JnTw2hMoOaCiz7gUPfJSj5HwMfeRVQrxvwbxejOabRbruV2vV9tgrMrQXG1btiHo+YBrVSm9AXdSxSfjRQY90hZFAqxg0sJF89jTpcXYKv0ffo6y8WgQy3k3Yko2icSaRf/LEQZyB/GYe/FYldvN8yDKqfis4TwkClMiWiIpLktS1H+d3IBLq0U+z7WGk019Jdle/n1V6qxsc4iavnJnf+g/ShtBCAxvROMaSa1pEzZSWZbQ==;R0lAsa/93aUQoU+keYqaGA=="
+secured: "ujp1w7K1P4YiDlPNj854HlTPR9w1gvJaQGNE+uPYVWTKkUynskN4lMtQonc1+O9csygV5SzYujoSHmG8wJRsQGxmKRlDtceR0hjiG6fu5s6eET2ldtMCRTK3Dtq+MJXOBHuE1kd7xn0Rs4MFMTeYzum8j7+t5EDL2AF1zdijXT0ROKjIk8pQEeea2qgAPeUTe7ofjIr55WObXXICKWYsqXzvqgJReaUek8BKO1YODKqpgk5URCXnLC5JB3E1v/YJX5Tv3cLy4Q7Mf5wSYHf15SSQ3ii8DPvWu6dXotkiThy8VCbaga8LzLni653Lj8z8FZm4XLNTwJC/RTWCDipmgpu/joesCzYEMtrDoUDIHC4=;KkmVpnQSvc8qr32+GP4VTw=="
 ---
 

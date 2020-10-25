@@ -703,6 +703,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "‘I voted for a guy named Trump,’ the president says after voting in person in West Palm Beach"
+    excerpt: "President Donald Trump cast his in-person vote in West Palm Beach on Saturday morning, and said \"I voted for a guy named Trump.\" He took the opportunity to remind people how secure in-person voting is over mail ballots."
+    publishedDateTime: 2020-10-24T22:29:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/KgzswDY0nyTc_DHTjjDMvp_i5VY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IAWGT7FNMS4XFPH4KLRRHBJQGQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall"
     excerpt: "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question."
     publishedDateTime: 2020-10-16T04:42:00Z
@@ -1308,6 +1324,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "bRvbfh5/mlzuT6rrvOwP0UGgVrZpNb+ljLdlO2rdRxo3SFUpahaNAuT04fM/IrOeun1Az51bpm5sPxKdRNu9UVVNs4xPdu3+DeT7sH7cvIEbrVmmbNfFozqmu0NOqz2UHirneV7YyjEpJZpqj+RCbr3pKD4UeEJ9a8UC0yLrYV6XNVVhYMyPCKYgmt85YVeCuNGB5eo3GO4c+rRcDjuWERpaaOz9FXzcwNWT/PI+DfCb+eeUs8wPy3zP0Vr5ASrm5X2ulaPVC+t41Ev4Kq+dgUOIvSZaw0rHZc5NvxeZytiI/6xMXeZZqbUzJ0u8xbd7DnDVv3cIxUaZtrDgW1BGthmipLjWnrULzcWii3Jn2II=;oYJJq2RdGDBqVQ1Jpm6UcA=="
+secured: "60xNEXHmx+gkeIloJQljRG+Eq3gGMwMQx7cftHEQf2JqySgYu872TTHCHkeuwR2f+41HS2D6Y+3w83Bhbz8s3TazAtFRIleX9s9/qYseocEWRzK1kZY2zcBh8vcIfQp3vSavK6X4dmV4V8uIsfh6SKmRMWVSVdVdCvhyeyCYEVnhNnCJN2zI414MOhJ7fPD9uzWdWDoXgPm9oC4m4IRDc9CDUaMtRIYeBvsoU9FW4yyn7wWpS+UYBtVRTM7cbq2MK0kgZgvpvMoED2XVrMf/DUQ2IMTGoArySqTl8JR9hWe4JzLGyu0QHqxi/IxabDtHZgVRVVaAutOkR2xyH4zK5IFARYRvAY2OOvfQI6ed8n+Vs9ogg8B/K2BrIeNJl72JqlQN/cvm4xFhNHF7PsbBpaNjFHlH3gq7Nl7loAPF3nuTuyo+1BTmLM3Lx7EUEaDijpculi2NX/aHOomf8xajbPSYdFxHlPF0wQfEL98KXQ1jhvKrH3eQef4h+C39U9wtfGlRPB09+leL8ViKajVW7w==;kS0w92RiWBP8aVrgFJ7HlQ=="
 ---
 

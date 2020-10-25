@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6011931002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6011931002"
 type: article
 quality: 116
-heat: 116
+heat: 136
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Fact check: Hillary Clinton, not Joe Biden, used the phrase 'super predators'"
+    excerpt: "Joe Biden referred to Black people as 'super predators' during the passage of the 1994 crime bill. The Violent Crime Control and Law Enforcement Act of 1994, also known"
+    publishedDateTime: 2020-10-24T22:51:00Z
+    webUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/24/fact-check-hillary-clinton-called-some-criminals-super-predators/6021383002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6021383002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6021383002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/d14072ff1d27975f8f68732fbeac8d61be3a1b0b/c=0-851-2298-2149/local/-/media/2015/02/24/USATODAY/USATODAY/635603856883000837-AFP-526532422.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
 
 secured: "aMsDhyamwBKVbzNT0qib2kpJQLSiWCeV0F8qRhtOh5Avzs5/HU7JsAUQ+mQWbyuA6jnNYKnigQZx/+e93/aBi7FvRTzBxBvrSDJIzo04JkZ+szDeqLCczfmwUK1a5qVlf14N7RdctBETXjR1dsnfTivzpfUCNZEA2MhQ0ZkXegqCrgi2c09IZ1buTflHd5c9ivPDhPRcRvvNJX0zWFWSs7d6Fz6FZ8Y2NemyE0bBtwApwhASB+gyLFvaFpGrRfwmXjdngJiOllYdXJVJvmToG/ug8GtbaKg2kzRfWik9iuXT8i9rQBTsbeLGBzqyRqqnfES/9zsggSKdpLySwMe4YS6tkSGs5j79cIQOfXw2MsI=;xy+HxK5MP+SKrGg1H+6aGw=="
 ---

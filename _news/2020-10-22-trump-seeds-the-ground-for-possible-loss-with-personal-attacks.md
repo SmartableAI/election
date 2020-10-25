@@ -209,9 +209,9 @@ related:
   - title: "We’ve Heard Quite Enough From Donald Trump"
     excerpt: "Everybody talks about Joe Biden as the old jalopy in this presidential race, but on Thursday night in Nashville, it was Donald Trump who seemed to be running on fumes. I don’t mean physically: He had his full repertoire of facial expressions (cocky,"
     publishedDateTime: 2020-10-24T13:15:00Z
-    webUrl: "https://www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.amp.html"
+    webUrl: "https://www.nytimes.com/2020/10/23/opinion/sunday/debate-trump-biden-.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/opinion/sunday/debate-trump-biden-.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/opinion/sunday/debate-trump-biden-.amp.html"
     type: article
     provider:
       name: New York Times
