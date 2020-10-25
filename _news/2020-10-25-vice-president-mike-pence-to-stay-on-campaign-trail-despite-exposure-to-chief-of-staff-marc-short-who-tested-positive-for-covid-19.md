@@ -95,7 +95,21 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Several People in Vice President Mike Pence’s World Now Have Covid-19"
+    excerpt: "At least five people in Vice President Mike Pence’s inner circle have tested positive for the coronavirus, according to a report from CNN. That tally includes some of his closest advisors, including his chief of staff Marc Short and an advisor named Marty Orbst."
+    publishedDateTime: 2020-10-25T15:25:00Z
+    webUrl: "https://www.motherjones.com/coronavirus-updates/2020/10/several-people-in-vice-president-mike-pences-world-now-have-covid-19/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 55
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/pencenormalize-10820.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "J8sCQWGEVCKcxPFXM4L3wL+nYS5WuRoQSrkwFlpmiVdvxQe8YKWZUP57c51yNqjweOgMU07+PbunQxZlO/ejI9cuDq+XaEF6SNVF52Pm7pehWpNNPKt+j2iWlPA4sYdtY7JA6q2ny6aF6EI5RPAVCnSyPIkzLzfDDE5ncYdSPk1H+Ounp8ZezhMHziZgV6Sb09QKZCn5FAnDE2jK25ka3JIF5KORi3zYmgJNX87tWB0NTWlNHMehJqtHNUAFWUSVWUu3TTjqNq9ty2h14iOrNH+RFHNiYbOXv5Kn/kXPv4ieMdtcpOKKP2SIqF8NpXjz7Mq1+dlSpV+9QOggKvJ/7inFQuUSXAsoQk+B40C5Fss=;q35MOrGzGza4EwRbWUsNsA=="
+secured: "01NSPa70PCq11ykGuGCqW15VY0Sw+eNi9O1QSb7mWM+RQNm4xk9HHI0f7KoODOw+b4AmdXUiLfEFFPgYwnP5Tzrq38oc9bpYM6ZY4KRueiEpIyc1QI2p7uNTPdBl85d5rVUlkOReoaLdLVv4X391D/FA8yvCnJNCx+7YQyS20d9o3OALsJI39RSC8CmeWutbyf9M229H2MeraRkFzZZHwt7bfwAAJ6i8DHFDX6obVNu+6f0vHn1V2yvL8mZakfkT23yrNAGetXByS6JSQe10ROHlrO/9iAu33esP/kjviZynu6MJ4KB0kvvGMSMcEZEB5weOKwfiYT68jTyLdsSEJvZg/qRos+DFG1HzRh/7y3K9VNDhIbV/sFsaRNmdzI5EgYwC/MaOuQvDGekvcgNFV0ixNEGmTTWvaFf2FwRpEw0zwxW5thtQzwYksrYFeG6oXJpVDKcxwT2HJP07CrPBXgudFQyIuRtIB9DDQPv1lAEYr1bWLhaTz4BfO5U3CeyY3GBUU5MARdFA9ZanrFHchg==;iWMExzdAP+Yq1dxvMM/dsw=="
 ---
 

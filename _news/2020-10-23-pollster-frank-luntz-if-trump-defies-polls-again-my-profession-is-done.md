@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Whitmer thanks FBI, blames Trump admin after kidnapping plot foiled"
+    excerpt: "Michigan Gov. Gretchen Whitmer blamed the Trump administration for rhetoric that she claimed led to a kidnapping plot against her, after the Trump campaign accused her of encouraging attempts on the president's life."
+    publishedDateTime: 2020-10-25T14:57:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xbc2uIw7wno/michigan-whitmer-fbi-trump-kidnapping-plot"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-whitmer-fbi-trump-kidnapping-plot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-whitmer-fbi-trump-kidnapping-plot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be47d82d-1098-4959-81fb-ebb7efcd8410/ff36284e-e18e-44e7-8537-27074370157a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Government sues Melania Trump’s former best friend over ‘scathing tell-all’"
     excerpt: "The Department of Justice has requested that all profits be directed to a ‘constructive trust.’"
     publishedDateTime: 2020-10-13T23:25:00Z

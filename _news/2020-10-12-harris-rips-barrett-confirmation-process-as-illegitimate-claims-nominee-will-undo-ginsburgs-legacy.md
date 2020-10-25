@@ -302,6 +302,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris reschedules Cleveland trip as Trump gains in Ohio polls"
+    excerpt: "Democratic vice presidential candidate Kamala Harris will hold a campaign event in Cleveland on Saturday as the Biden campaign attempts to rally support in the key battleground state of Ohio. Further details about Harris’ trip to Cleveland,"
+    publishedDateTime: 2020-10-22T22:06:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-cleveland-trip-trump-gains-ohio-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-cleveland-trip-trump-gains-ohio-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-cleveland-trip-trump-gains-ohio-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4e8ff0d-d9db-4626-b9da-37b669934c72/90e950f7-e76b-4303-9f45-717cf17942b1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Stresses Economic Record in Virtual Speech"
     excerpt: "President Trump cast the November election as a choice between “historic prosperity” and a “steep depression,” as he seeks to turn the focus toward his handling of the economy and away from the pandemic in the final stretch of the campaign."
     publishedDateTime: 2020-10-14T17:17:00Z

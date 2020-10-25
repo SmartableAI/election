@@ -2,26 +2,26 @@
 category: news
 title: "VP Mike Pence to continue campaigning after chief of staff tests positive for coronavirus"
 excerpt: "Pence spokesman Devin O’Malley said Pence and his wife, Karen Pence, both tested negative for the virus on Saturday."
-publishedDateTime: 2020-10-25T02:43:00Z
-originalUrl: "https://www.mercurynews.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/"
-webUrl: "https://www.mercurynews.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/"
-ampWebUrl: "https://www.mercurynews.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+publishedDateTime: 2020-10-25T03:34:00Z
+originalUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/"
+webUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/"
+ampWebUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
 type: article
 quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
+  - url: "https://www.ocregister.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
     width: 1024
     height: 579
     isCached: true
@@ -106,6 +106,6 @@ related:
         height: 433
         isCached: true
 
-secured: "iYOPznCJ5rb4y1LsginHDSUZNwFvxt5eT4+h1fXH1qeKrqiHAONfexbOhleuNfPTl7sguRo4gqDavpKFRB7Eqav4uLEfsDGUy9I7ydqVTxhXOHlD/LEcvJh/+YQcin+E7wKjfX88DBWhWgVR61t7Gjut6QBycXB9szPh696HPdJlyc23CVmOlSxDUqriYZqQaoewGRQYpEcVBN2HwzwFmhTwcN1BzPevCW+XPAi+ALszBRu5trkyoYoTzSl8LNfqooOGF/T6bOS6uLmAhMidxOGuZAmv/vLKYbSPC5/9BpMT2wY1pNktK4Eiz+ACp2YIwqccabvkXFWcOV3g0nbUQXMAjq5ZpBB5hSR22uCecpMLF1upCt0E+wAGUNSh867ezBoxG68jG0BCRuOxbcQee0gWCBgvfu6og/urwWNkmFRC5YmcNIGslEMAZM3JPSbslVCYejM6WF7Y51F7JZoZ9Eq7Ju/kGc9VwkcLzRJQa2PIIkRImLZus/fTtZfrM75fYy6uPDdqGywmhmJs5XUXfA==;CCqrUnNKX6pUuZbcs+oEYA=="
+secured: "Ax6c32txwVsJFMis+DA8rK3tpzVIwYSoO81gINU6WO98E6jEvYRCyENo1u6U6wRq0QFGgcbuXx8paJeSzvwib5EFtRX0Cx01N5bMzkTdIpzz74u3/4mfHtumaepmMk52NkLmaI8Fj4+0u/9VHiyzx/7uMnAdyC8MlvR6xEl37hUPqGkYS9gIDRYFYaHsSxEuCSitqVd4osWa+tL6fF+vWr/Z3eU6tVF4QOODFkpP3LpEBV9HqJKYnoUXlYUEHbz1bzhjXX/ZLfwpldnz2txcbu9i63t6+bWbJIe8HfPPaigVAXrrTPmyPE0MPPtLAVcjcF6+49zXvkNGAMEETIBy8Q+SS71sPObNoKf7S/LYFPM=;1Z1D2Zd20CPG93ArsJ7o5A=="
 ---
 

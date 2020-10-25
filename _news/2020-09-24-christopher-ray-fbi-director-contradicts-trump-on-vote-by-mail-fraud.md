@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'F*** Donald Trump': 50 Cent Says He 'Never Liked' Trump After Chelsea Handler Publicly Scolds Him for Endorsing President"
+    excerpt: "\"For all I know he had me set up and had my friend Angel Fernandez killed but that's history,\" 50 Cent said on Saturday night."
+    publishedDateTime: 2020-10-25T02:33:00Z
+    webUrl: "https://www.newsweek.com/f-donald-trump-50-cent-says-he-never-liked-trump-after-chelsea-handler-publicly-scolds-him-1541930"
+    ampWebUrl: "https://www.newsweek.com/f-donald-trump-50-cent-says-he-never-liked-trump-after-chelsea-handler-publicly-scolds-him-1541930?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/f-donald-trump-50-cent-says-he-never-liked-trump-after-chelsea-handler-publicly-scolds-him-1541930?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 99
+    images:
+      - url: "https://d.newsweek.com/en/full/1658159/50-cent.jpg"
+        width: 2937
+        height: 1951
+        isCached: true
 
 secured: "lNvkWARZYOSJeJD47Qx7Szpj7/pB6x85ee3aztrdpQSpLRXvgZxKDXq2qC/RuJfrdIBxaF2xjKhRAqK57OPocZeFc5Va973B1gT38So318sumbrF0bp/QtPyIOGFKqXGiwCDPVdmGTlbFtO4/5SJYF7brMTZ/lADhSUofOP21PJbACRi28kJJdYohj+VmbjQ5uTmU2WyFQ51ecql8jBZKqhopPFbWVsSy7h8eF2YpVwdd1s3hf/jfSpK5lf0CVu2mmhXQPOkQ7/Icz9H89MDLt+TW4bqUj9+hcfWRgxh9Uw4DUw14RFAMYQpBrPAhGrwiF76iW1UmkuaPea2hWWWdDT5JTbRKNgcu9bmS7fFD4s=;NAE9ePntdmICAjUj02hcyg=="
 ---

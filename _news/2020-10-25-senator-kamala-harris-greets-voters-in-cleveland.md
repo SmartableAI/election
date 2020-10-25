@@ -1236,6 +1236,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Comments to Reporters in Detroit"
+    excerpt: "Democratic vice presidential nominee Senator Kamala Harris (D-CA) answered a reporter's question after landing at a Detroit airport for a campaign event. She talked about Vice President Pence continuing to campaign despite some of his staff testing positive for COVID-19 and White House Chief of Staff Mark Meadows' comments on controlling the coronavirus pandemic."
+    publishedDateTime: 2020-10-25T15:16:00Z
+    webUrl: "https://www.c-span.org/video/?477353-1/senator-kamala-harris-comments-reporters-detroit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Senator Kamala Harris Visits Cleveland, Ohio"
     excerpt: "T12:29:55-04:00 vice presidential nominee and Senator Kamala Harris (CA) visits Cleveland, Ohio, and greets citizens. Democratic vice presidential nominee and Senator Kamala Harris (CA) visits Cleveland,"
     publishedDateTime: 2020-10-24T17:26:00Z

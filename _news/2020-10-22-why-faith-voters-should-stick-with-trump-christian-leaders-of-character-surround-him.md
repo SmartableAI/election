@@ -575,6 +575,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump books are all the 'Rage': 10 books that offer a peek inside the White House"
+    excerpt: "Here are 10 of the most insightful titles about President Donald Trump and his White House, and what we learned from reading them."
+    publishedDateTime: 2020-10-25T14:07:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/10/25/donald-trump-books-inside-white-house-michael-cohen-john-bolton/3498535001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3498535001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498535001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/7e9f60a6-b218-4d48-a3e9-5488e4e51393-Rage.jpg?auto=webp&crop=595,335,x1,y516&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "The Justice Department lets itself be used to bully critics of Donald and Melania Trump"
     excerpt: "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms."
     publishedDateTime: 2020-10-16T02:36:00Z

@@ -64,6 +64,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden campaign: Joe Biden 'not going to end fossil fuel industry'"
+    excerpt: "In an exclusive interview with Meet the Press, Kate Bedingfield, Biden Deputy Campaign Manager, says that former Vice President wants to end energy subsidies but doesn't want to see people lose their jobs."
+    publishedDateTime: 2020-10-25T14:02:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/biden-campaign-joe-biden-not-going-to-end-fossil-fuel-industry-94604869798"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94604869798"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94604869798"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/mtp_clip_bedsenergy_201025_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Hey, SNL: Jim Carrey’s Joe Biden Just Isn’t Working"
     excerpt: "Bring back Jason Sudeikis already! Senior Entertainment Editor Some years back, Jim Carrey’s team reached out to me about placing an op-ed in The Daily Beast. The piece, written by Carrey, discussed the supposed dangers of vaccines,"
     publishedDateTime: 2020-10-20T07:56:00Z

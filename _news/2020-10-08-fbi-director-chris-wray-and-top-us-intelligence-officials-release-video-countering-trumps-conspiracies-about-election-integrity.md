@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'F*** Donald Trump': 50 Cent Says He 'Never Liked' Trump After Chelsea Handler Publicly Scolds Him for Endorsing President"
+    excerpt: "\"For all I know he had me set up and had my friend Angel Fernandez killed but that's history,\" 50 Cent said on Saturday night."
+    publishedDateTime: 2020-10-25T02:33:00Z
+    webUrl: "https://www.newsweek.com/f-donald-trump-50-cent-says-he-never-liked-trump-after-chelsea-handler-publicly-scolds-him-1541930"
+    ampWebUrl: "https://www.newsweek.com/f-donald-trump-50-cent-says-he-never-liked-trump-after-chelsea-handler-publicly-scolds-him-1541930?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/f-donald-trump-50-cent-says-he-never-liked-trump-after-chelsea-handler-publicly-scolds-him-1541930?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 99
+    images:
+      - url: "https://d.newsweek.com/en/full/1658159/50-cent.jpg"
+        width: 2937
+        height: 1951
+        isCached: true
   - title: "Christopher Ray: FBI Director Contradicts Trump on Vote by Mail Fraud"
     excerpt: "FBI Director Christopher Wray appeared to throw cold water on President Trump's repeated claims that mail-in voting will be tainted by massive voter fraud."
     publishedDateTime: 2020-09-24T15:51:00Z

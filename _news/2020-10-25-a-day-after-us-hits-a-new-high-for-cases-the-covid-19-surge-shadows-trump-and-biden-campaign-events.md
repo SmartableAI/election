@@ -495,6 +495,22 @@ related:
         width: 1119
         height: 545
         isCached: true
+  - title: "Donald Trump and Mike Pence both campaign Sunday, despite coronavirus cases among vice president's staff"
+    excerpt: "Pence aides have tested positive for the virus, but he is not subject to quarantine because he is an \"essential\" government official, aides said."
+    publishedDateTime: 2020-10-25T15:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6031990002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 live updates: Obama says Trump treats 'presidency like a reality show'"
     excerpt: "With 10 days to go until Election Day, President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3."
     publishedDateTime: 2020-10-24T23:43:00Z
@@ -830,6 +846,38 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538697782&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N0EP"
         width: 862
         height: 545
+        isCached: true
+  - title: "Did Donald Trump deliver to voters with that last debate performance?"
+    excerpt: "In the second and final presidential debate, Americans witnessed a much less raucous, more coherent, and more policy-oriented and traditional discussion than the first debate That"
+    publishedDateTime: 2020-10-25T15:00:00Z
+    webUrl: "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance"
+    ampWebUrl: "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald3_10222020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump-Biden race is tight in Florida, Georgia and North Carolina — CBS News Battleground Tracker poll"
+    excerpt: "Our estimates show Joe Biden with just a two-point edge over President Trump in Florida, Biden up four points in North Carolina, and the contest even in Georgia. Millions have already voted and many others say they've already decided."
+    publishedDateTime: 2020-10-25T14:32:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/25/46ae8717-8c38-4030-84bc-dbf4c833b39e/thumbnail/1200x630/d90ba7b812a4d1b3d439b605097676c8/gettyimages-1229228694.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump Resurrects False Testing Claim As Daily Covid Cases Hit New High"
     excerpt: "The president complained the media gives the virus too much coverage and focuses too much on cases, though deaths and hospitalizations have risen as well."

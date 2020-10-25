@@ -575,6 +575,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump books are all the 'Rage': 10 books that offer a peek inside the White House"
+    excerpt: "Here are 10 of the most insightful titles about President Donald Trump and his White House, and what we learned from reading them."
+    publishedDateTime: 2020-10-25T14:07:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/10/25/donald-trump-books-inside-white-house-michael-cohen-john-bolton/3498535001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3498535001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498535001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/7e9f60a6-b218-4d48-a3e9-5488e4e51393-Rage.jpg?auto=webp&crop=595,335,x1,y516&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Why faith voters should stick with Trump: Christian leaders of character surround him"
     excerpt: "Trump seldom reflects the desired fruits of the Spirit. But he kept his promises to the faith community and surrounded himself with key leaders from it."
     publishedDateTime: 2020-10-22T07:39:00Z
@@ -1414,6 +1430,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "yqQ/zHt8v1uKqRPLU133ziyVtWYxEyvk6acnZoryvErT0ERTX3Wv4pmHUNHmQyogdIamB9J6R0x5cJsNWk0EnkIYRyZcyEjPyES79X6PV+RwjtgeWEnau9OB0ZPrs+AbAxx8TQEYeOTucpcYsM5sa4KD0AVp5poDRyh5+c2TXRM2q8w6tkqBX87NDKp2k9mOG0iefIgECJCdG9Fe8PTO6ac9CkxDaDLtI9d/XYnnkDx15U6Q9r6mPRftexqC8VYQcHRqKrc8VvGty3m8hlnzqz2p5+/RpC+z8bvFBV1pLNCIeEI7XuF31vf6Z328ldxU4XRZ7boBKvgVYg1Hb9/UrdpGgPNQQeuiiDHcYXEyzgA=;Kd6cPFDL835KT6BlFz9beA=="
+secured: "PJ18qOG/4nspSAv779u2bj9no1FK3QL/FpKL+Ared0HNFPP00h+503pdzakSE9QhNj3511fsJN5iy6iFLWi27bw5suTqhCEdwtTRaOl6M27U+GQlTD/YIh9EPH+D2cnzEoIXRZ7lL4s5JTZI7dYJugse9ol4a+F23DPRfzvcb9eUtUBFGpVJdT/GF4V/b3ra5/ATUGOyRzsdPfCPldxNSZLxuHXcC1yH7LDTWfnTJgcb+VWbKyWXESnQ99FTCS0BScfOEhFjk4YDMT19nQE0ES09nMqmTQOUdSAcP8SFcRlPH89ctnFKWXnJ+d9zxT7BSC5yxWG7d4Qmmg1WyEV4f2DMauEY/2yG9idy8F+2QJasrHFs+m41AEoxV6vkja74LthZQAxtNo68HlqplvkSjGvtKDqwu9q7hZ6eFtP77ZlZAOW+L9rHjFBX+M85FRbqx5rYbHJLKRpB0DftfeIGbPGEiX5nU62+xJwnbsC4nu7x4l0uXrClpA+lB9IhWONw9CnVy1z8OQqrRwWS4LFoPA==;xdKrJLWiaCDvjs2Xr1LC5A=="
 ---
 

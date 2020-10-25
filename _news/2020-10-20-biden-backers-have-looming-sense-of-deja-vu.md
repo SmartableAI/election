@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-backers-have-looming-sense-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451a825a-4bce-48ca-ae30-4802571fc1db/63d6daa7-1718-4ae9-9181-044df4ee0013/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AOC claims young voters will choose Biden because they can influence him more easily"
+    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., said that young Americans will vote for Democratic presidential nominee Joe Biden, not because they think he is “their favorite person” but because they believe they can more easily sway him to act on behalf of their interests."
+    publishedDateTime: 2020-10-25T15:53:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CV-mMk_x4ZA/aoc-young-voters-choose-biden-influence-him"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-young-voters-choose-biden-influence-him.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-young-voters-choose-biden-influence-him.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86013dd9-61fb-4c71-84ef-02bc3da60248/f1bf3308-3ad3-485e-9fa1-66cba83206e8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

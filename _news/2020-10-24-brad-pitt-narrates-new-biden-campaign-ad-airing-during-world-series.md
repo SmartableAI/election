@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/brad-pitt-narrator-joe-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/brad-pitt-narrator-joe-biden-ad-world-series/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/19/us/politics/19biden-landslide-top/merlin_178713780_0331426e-fb13-423f-84cb-9a6f19e16007-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden campaign: Joe Biden 'not going to end fossil fuel industry'"
+    excerpt: "In an exclusive interview with Meet the Press, Kate Bedingfield, Biden Deputy Campaign Manager, says that former Vice President wants to end energy subsidies but doesn't want to see people lose their jobs."
+    publishedDateTime: 2020-10-25T14:02:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/biden-campaign-joe-biden-not-going-to-end-fossil-fuel-industry-94604869798"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94604869798"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94604869798"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/mtp_clip_bedsenergy_201025_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden campaign manager urges supporters to ‘campaign like we’re trailing’"
     excerpt: "In a memo obtained by NBC News, former Vice President Joe Biden’s campaign manager warned about complacency. Biden spoke to supporters at a drive-in rally in North Carolina."

@@ -1492,6 +1492,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden campaign aide: Trump trying to distort former vice president's position on oil"
+    excerpt: "A top campaign aide for Democratic presidential nominee Joe Biden said on Sunday that President Trump is “trying to distort” the former vice president’s position on oil."
+    publishedDateTime: 2020-10-25T15:56:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/522649-biden-campaign-aide-trump-trying-to-distort-former-vice-presidents"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/522649-biden-campaign-aide-trump-trying-to-distort-former-vice-presidents?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/522649-biden-campaign-aide-trump-trying-to-distort-former-vice-presidents?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 133
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_102420getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden Receives More Than Twice As Much Money From Billionaires As Trump In Final Push"
     excerpt: "Joe Biden picked up contributions from new donors like Yahoo cofounder Jerry Yang and Palantir chief Alex Karp. Meanwhile, old pals of Donald Trump, like Phil Ruffin and Andy Beal, sent his reelection committees big checks."
     publishedDateTime: 2020-10-25T00:28:00Z

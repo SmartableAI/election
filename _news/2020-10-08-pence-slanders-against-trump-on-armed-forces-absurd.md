@@ -1023,6 +1023,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pence-Harris debate: A polite battle over substance in a campaign about style (plus a fly)"
+    excerpt: "This is the subtext that led into Wednesday night’s debate between Republican Vice President Mike Pence and Democratic challenger Kamala Harris, and since 2020 is the year subtlety died ..."
+    publishedDateTime: 2020-10-08T13:23:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/08/pence-harris-debate-fly-substance-trumps-style-one-night-column/5914130002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5914130002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5914130002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/dc97230a-e74a-4d28-aecf-bc43087c617e-AP_Election_2020_Debate.jpg?auto=webp&crop=3148,1771,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump just nixed the second debate. Mike Pence showed us why."
     excerpt: "Which might help explain why he just announced that he will not attend the second presidential debate on Oct. 15th against Joe Biden, now that it will be a virtual one, as the Commission on Presidential Debates has decided."
     publishedDateTime: 2020-10-08T15:19:00Z

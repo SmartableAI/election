@@ -559,6 +559,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump books are all the 'Rage': 10 books that offer a peek inside the White House"
+    excerpt: "Here are 10 of the most insightful titles about President Donald Trump and his White House, and what we learned from reading them."
+    publishedDateTime: 2020-10-25T14:07:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/10/25/donald-trump-books-inside-white-house-michael-cohen-john-bolton/3498535001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3498535001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498535001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/7e9f60a6-b218-4d48-a3e9-5488e4e51393-Rage.jpg?auto=webp&crop=595,335,x1,y516&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Why faith voters should stick with Trump: Christian leaders of character surround him"
     excerpt: "Trump seldom reflects the desired fruits of the Spirit. But he kept his promises to the faith community and surrounded himself with key leaders from it."
     publishedDateTime: 2020-10-22T07:39:00Z

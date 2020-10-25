@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
 type: article
 quality: 120
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -95,7 +95,21 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Several People in Vice President Mike Pence’s World Now Have Covid-19"
+    excerpt: "At least five people in Vice President Mike Pence’s inner circle have tested positive for the coronavirus, according to a report from CNN. That tally includes some of his closest advisors, including his chief of staff Marc Short and an advisor named Marty Orbst."
+    publishedDateTime: 2020-10-25T15:25:00Z
+    webUrl: "https://www.motherjones.com/coronavirus-updates/2020/10/several-people-in-vice-president-mike-pences-world-now-have-covid-19/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 55
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/pencenormalize-10820.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "Zu/HzBG2hlLRxpAE3HWC2lXeB8jF9dNX5cMRFUypPYc96qut8br/YE5D7yJJ7frB/f/Y89tE2mIxYwGFWUeBPmgsOzwlqvyCelmXkkeK/qtPaH+wsbo9UQjNtu3tif0+5T3K2A0lI1y4Tr4f1vZ8LEUXCoJHjP5bTAg6s0+xPpTlIcy2JjX1OofQvglG0RFWsu3vgTdVp6y6m/EDAYhqmftUE/CMgGzw3Q/r0qU+qoDF9726SeYSSE4oAu9lnaZf0d+rJpVdmhRjvf/gV0s1ras+xADusrBUp7njQb5kKsRnTUCFPELqy6lnYv+OMmQiAuxDEJCrLci1hre8w12RyERDw07+lHWsNlq69Jv8TUA=;+SW2eL68vlFBVNQuVVRwTQ=="
+secured: "+5cEkFRB4jUeGPxfMv9/q4QSgJXSm4Uz+50wPD8IaiufLNs46f2iSkljSkPdT8jgGEWMTVy4vdSzwXdV6bSB4pR2rYLDDYdL8nvkok6ftxSaL8h+GBHFtnOOP7oy+wF0mLeymIUGntKyIFzUiqb0hCCydRtLXMiil0KRf/zJtcqHKlp7BY4Zyyexz3Uq+qRCBWa8TOK6r7kHZWB18pqSUoEDGHd7Y9Own2fhIFiiasFfM5yC62cXYZQjYQLwa6CQgBHVNzltyI/wapWiEfkYmrkFem5qOMH6sAfjcwb7Ax4pP10RS7wLeEKYrA1jdsGxSeSb2b67xScHa6Sg8miD6D0o7o81UED8pctbOQ1yLga9YMhlpSQXTTJBTyhSyDI3ZGpCT6t3p42SEKjOQ7aPPCYcgVQcBe9u/LpefD0AV9OHb5du38gRPcf4BIQFwKZoIWUwO5OL6qAyV3UTrn6iMexCwtwfiICj8nGZ3i+oI0CxY+6xJpZzWVhPnTkQZ65XF6yJhOEmiVcTHFD46N4nww==;UTKgbFr7MQbM+dddtgJmIQ=="
 ---
 

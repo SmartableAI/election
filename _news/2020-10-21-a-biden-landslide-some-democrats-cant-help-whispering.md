@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden campaign: Joe Biden 'not going to end fossil fuel industry'"
+    excerpt: "In an exclusive interview with Meet the Press, Kate Bedingfield, Biden Deputy Campaign Manager, says that former Vice President wants to end energy subsidies but doesn't want to see people lose their jobs."
+    publishedDateTime: 2020-10-25T14:02:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/biden-campaign-joe-biden-not-going-to-end-fossil-fuel-industry-94604869798"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94604869798"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94604869798"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/mtp_clip_bedsenergy_201025_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden campaign manager urges supporters to ‘campaign like we’re trailing’"
     excerpt: "In a memo obtained by NBC News, former Vice President Joe Biden’s campaign manager warned about complacency. Biden spoke to supporters at a drive-in rally in North Carolina."
     publishedDateTime: 2020-10-18T23:09:00Z
