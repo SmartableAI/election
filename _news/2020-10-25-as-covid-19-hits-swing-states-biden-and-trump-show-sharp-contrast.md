@@ -2,9 +2,9 @@
 category: news
 title: "As COVID-19 hits swing states, Biden and Trump show sharp contrast"
 excerpt: "President Donald Trump and his Democratic rival Joe Biden gave starkly contrasting messages on Saturday about the coronavirus pandemic, taking their campaigns for the White House on the road to swing states where COVID-19 cases are surging again."
-publishedDateTime: 2020-10-25T03:11:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election/biden-trump-rallies-show-sharp-contrast-amid-as-coronavirus-surges-again-idUSKBN27906N"
-webUrl: "https://www.reuters.com/article/us-usa-election/biden-trump-rallies-show-sharp-contrast-amid-as-coronavirus-surges-again-idUSKBN27906N"
+publishedDateTime: 2020-10-25T09:43:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27906N"
+webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27906N"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27906N"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27906N"
 type: article
@@ -386,7 +386,7 @@ related:
   - title: "Trump, Biden favorability unchanged as 2020 race heads into final week: POLL"
     excerpt: "Donald Trump and Joe Biden enter the final week of a bitter campaign with their favorability ratings unchanged, a new ABC News/Ipsos poll finds."
     publishedDateTime: 2020-10-25T13:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-biden-favorability-unchanged-2020-race-heads-final/story?id=73808383&ref=hvper.com"
+    webUrl: "https://abcnews.go.com/Politics/trump-biden-favorability-unchanged-2020-race-heads-final/story?id=73808383"
     ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-biden-favorability-unchanged-2020-race-heads-final/story?id=73808383"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-biden-favorability-unchanged-2020-race-heads-final/story?id=73808383"
     type: article
@@ -1754,6 +1754,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump Team Hit By Covid Again, Lashes Out At 'Failure' Biden"
+    excerpt: "Donald Trump's reelection campaign on Sunday sought to brush off another Covid outbreak in his team by focusing its attacks on Joe Biden's energy levels and accusing him of \"47 years of failure\" in Washington."
+    publishedDateTime: 2020-10-25T16:19:00Z
+    webUrl: "https://www.ibtimes.com/trump-team-hit-covid-again-lashes-out-failure-biden-3069437"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/25/us-president-donald-trump-dances-at-the-end.jpg"
+        width: 1024
+        height: 621
+        isCached: true
   - title: "Did The Donald Trump - Joe Biden Debate Get Better Ratings Than The 2016 Debate With Hillary Clinton?"
     excerpt: "The second and final debate between President Donald Trump and Democratic nominee Joe Biden drew a much smaller audience than the first debate. According to early Nielsen ratings, more than 55 million people watched compared to the 73."
     publishedDateTime: 2020-10-23T22:58:00Z
@@ -1941,6 +1955,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "536UY2LxOHYJABBTX8fZj2XCTTyGaQcliRHr7qg3bLK43TxduDs2LR5U18RYMN4p+pvUK5DLi820Kexz/d5a1teRJHrlnCcBdJ/SiL8TUSQBeDhtH+cM80oD1i3hIWPNQV9auZ/wZlWPulJf4qwjmxx/U6h/OFk6OhJdgswlI1/lVVM9rM3BOgbGxEv2JL12eYf5AQLAaP0Hk1nWbt9r62woEY7DJTHVWrLXVciOk92EeJYmYOUwUx4Fmh7DCaDI6oVWmap0yJMc6bt4fjlINwEpZNz3uarzYIx0Q1crwYwfrlBDtFYxxNOp7ZVmWukjaERHkfrxriV8AgwsCnzqY06gylyK0Z4mtPPCE3Ba0mccOQWPEUjwX0XQTtdMpgWWC92TjSLPVcSznPeS3Iz4ozvbK93lgkhqzAyprn9Oju9z9zQTUemARtPIx3M6EeRUDI9gxmcPqeAnWHHfNwRylA6ApWr2WI/j9UTzwxcUfXUwZvsDwtEnPtKQev3aNG7YLaujN/1oRowhq5CfZSLOKg==;bKQ/Qy2vaE7e0eFuseB3Tg=="
+secured: "q05+RialdJgBC6kEJH7vgruGuP3T+Tr6WyNSslsmZG5gWTESI/aNCNK3e/v6TttqWuWMzLwW/NMSLDqtp2lCJX2J3H8tXAwUIHvt5dX2FZH0xVcRS62rUIV8RTZxNBiOhfUGThcB1wTpqu81kRaalyI8qGx6gWGg640FHYBEO7tPvPqMgHqc6RAcbjVwQJGro6HG8VexSrQh7ZFYjnGflNl+guZCojleAOig6DTbfC7sIWkZsPdYqORlwc/fgfeTKD8Ri3XjwZS6knNDgsfsqZODXDFSnpLablSC0kU/odXZ4C0sGHfbOn70G4NkxOPZ+G/EAP4hUOZtgQzUAo/HWbWl24C91/qWTRn9IUwWalU=;dadbStYA9PVzpnQvUdKxLA=="
 ---
 

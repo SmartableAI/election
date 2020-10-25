@@ -389,6 +389,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘Tough and pointed’: Analysts say Harris got the better of Pence"
+    excerpt: "Vice President Mike Pence and Democratic vice-presidential nominee Kamala Harris matched wits in a more substantive debate on Wednesday night than the presidential candidates engaged in last week ..."
+    publishedDateTime: 2020-10-08T07:11:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/10/8/harris-slams-trumps-failed-leadership-on-covid-19-debate"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/8/harris-slams-trumps-failed-leadership-on-covid-19-debate"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/8/harris-slams-trumps-failed-leadership-on-covid-19-debate"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 150
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20282058890857.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "VP debate live updates: Pence vs. Harris and what you need to know"
     excerpt: "Vice President Mike Pence and Sen. Kamala Harris of California will debate in Salt Lake City on Tuesday in the sole matchup between the 2020 vice presidential candidates."
     publishedDateTime: 2020-10-08T01:05:00Z
@@ -3278,6 +3294,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/NPPP/6c982919-1a65-4965-a51e-896e9f6fd8c2-APTOPIX_Election_2020_Debate.jpg?auto=webp&crop=7246,4076,x0,y368&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mike Pence Put the Harris-Biden Agenda on the Spot"
+    excerpt: "Vice President Mike Pence (left) and Democratic vice presidential nominee Sen. Kamala Harris take part in the 2020 vice presidential debate in Salt Lake City, Utah, October 7, 2020. (Justin ..."
+    publishedDateTime: 2020-10-08T15:55:00Z
+    webUrl: "https://www.nationalreview.com/corner/mike-pence-put-the-harris-biden-agenda-on-the-spot/"
+    ampWebUrl: "https://www.nationalreview.com/corner/mike-pence-put-the-harris-biden-agenda-on-the-spot/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/mike-pence-put-the-harris-biden-agenda-on-the-spot/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 115
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/vp-debate-pence-harris-moderator-rear.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Twitter locked the official Trump campaign account after it referred to the New York Post's dubious story on Hunter Biden"
     excerpt: "TeamTrump was blocked from sharing new posts after referring to a New York Post story on Joe Biden's son which Twitter had taken action against."

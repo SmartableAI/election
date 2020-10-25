@@ -1041,8 +1041,8 @@ related:
         isCached: true
   - title: "Fact check: Pence echoes Trump's false claims at vice presidential debate"
     excerpt: "(CNN)Vice President Mike Pence echoed some of President Donald Trump's most common falsehoods and misleading statements during the lone vice presidential debate with Sen. Kamala Harris on ..."
-    publishedDateTime: 2020-10-08T04:27:00Z
-    webUrl: "https://www.cnn.com/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
+    publishedDateTime: 2020-10-08T08:08:00Z
+    webUrl: "https://edition.cnn.com/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
     type: article

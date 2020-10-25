@@ -524,6 +524,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The Latest: Harris insists Biden won't ban fracking"
+    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+    publishedDateTime: 2020-10-25T06:33:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-harris-insists-biden-wont-ban-fracking-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-harris-insists-biden-wont-ban-fracking-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-harris-insists-biden-wont-ban-fracking-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
   - title: "Jim Carrey and Maya Rudolph Transform into Joe Biden and Kamala Harris - SNL"
     excerpt: "Matt Brennan joined the Los Angeles Times as television editor in 2019. Previously, he served as Paste Magazine’s TV editor, and has written for Indiewire, Slate, Deadspin and LA Weekly, among others."
     publishedDateTime: 2020-10-04T05:23:00Z

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-26-trump-top-campaign-adviser-the-president-wants-to-see-every-republican-reelected.md",
+      "title": "Trump top campaign adviser: 'The president wants to see every Republican reelected'",
+      "excerpt": "The statement contradicts recent comments from the president, who reportedly said he doesn't \"want to help\" some Republican senators with reelection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/25/trump-campaign-president-republican-reelected-432290",
+      "originalUrl": "https://www.politico.com/news/2020/10/25/trump-campaign-president-republican-reelected-432290",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/34/2f/37a2bdae4e069ad2868adf02f2fa/gettyimages-650653526.jpg",
+          "width": 4834,
+          "height": 3221,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-saturday-night-live-sees-trump-as-a-man-without-a-covid-19-plan.md",
       "title": "'Saturday Night Live' sees Trump as a man without a Covid-19 plan",
       "excerpt": "Live\" hammered President Donald Trump for his lack of a clear plan to combat the spread of Covid-19, opening with a spoof of the last presidential debate. It featured Alec Baldwin as Trump, Jim Carrey as Joe Biden and SNL alum Maya Rudolph as moderator Kristen Welker,",
@@ -1627,63 +1684,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-does-team-trump-realize-that-hillary-clinton-isnt-running.md",
-      "title": "Does Team Trump realize that Hillary Clinton isn't running?",
-      "excerpt": "Clinton said of Republicans in 2017, \"It appears they don't know I'm not president.\" She could say now, \"It appears they don't know I'm not a candidate.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-team-trump-realize-hillary-clinton-isn-t-running-ncna1243882",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-team-trump-realize-hillary-clinton-isn-t-running-ncna1243882",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/j/newscms/2016_42/1758506/161020-final-debate-clinton-trump-end-1217a_10a97711107374366ede83a1d78e9a8d.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

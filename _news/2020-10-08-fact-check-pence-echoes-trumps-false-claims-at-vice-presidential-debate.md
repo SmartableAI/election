@@ -2,9 +2,9 @@
 category: news
 title: "Fact check: Pence echoes Trump's false claims at vice presidential debate"
 excerpt: "(CNN)Vice President Mike Pence echoed some of President Donald Trump's most common falsehoods and misleading statements during the lone vice presidential debate with Sen. Kamala Harris on ..."
-publishedDateTime: 2020-10-08T04:27:00Z
-originalUrl: "https://www.cnn.com/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
-webUrl: "https://www.cnn.com/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
+publishedDateTime: 2020-10-08T08:08:00Z
+originalUrl: "https://edition.cnn.com/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate"
+webUrl: "https://edition.cnn.com/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
 type: article
@@ -1803,6 +1803,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "naKidTYF+JWKeyLec4bu8t7bPVUsOSpHixsFhmjB03jx0J4EmKZFGgt+e3/0ifPTxvfWDlqhun5mrDPWgZTUSLf/WyjuFhtbQDFyH5gZRLZg1QrxfS74THXT5eoxyQR/hjF8ayS4Is65kLvz8kF2YtHR2avMHU0hJeDdi1PtGN/htL9FcsAI7fG/jlyuoT5lHe3wP5OcHb6kHej2G/c7eHwGnPuj2VwccP/tSDzEPIfxQrlg4xJvtCv79WJH0YBasKk2Nkq+K9UCI1XDjXERNgP2deHe4VuDr1VNx5B0pBVm8ri4oe3bRsF9LeJbuVSm3rUOOuL3PhUzawggPEai0jK0bQREn84GXVCm2HRjJCs=;WOI+6Lp4UWSbwG3Fyf6KdQ=="
+secured: "5PlMRLDjfeLj2vS+Y1rQAYQbk/qLvR7u+tai6sgZM+Gd4iMISDp43Y+xH13e3j4ZCVCj08ISFbEPJL+d6Lru5xoIGEYWjhzvNakSq4fgGm2ThfwdNvlb3pimwskWVo7VjShIkFeQuWjFFZ/enPxRoz/4Qh7kfQlvmxELWbvSksSH/b3ry3Q8IE+L9cunaYxLluxVkTvtu5xPQHwoC1AcsHp00ChEYKeCZj64pd3AiaDCJgCJTaVkVkzRwLEapNS4uZ7JVm7T9wUd+60uu0PRd0tMlPP6FMcduXUHvOTyIhzbg8xXnPGE55PyuNgm6z/yfEFQQHgVuHZ5p8q8WJQhD4AMEZzIgV3ZgFoy4XuMVmU=;EstW4iRtISYigElcdSNZgg=="
 ---
 

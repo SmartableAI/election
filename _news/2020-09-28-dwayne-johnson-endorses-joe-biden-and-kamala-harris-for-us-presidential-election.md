@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election"
 type: article
 quality: 160
-heat: 4320
+heat: 4340
 published: true
 
 provider:
@@ -508,6 +508,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The Latest: Harris insists Biden won't ban fracking"
+    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+    publishedDateTime: 2020-10-25T06:33:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-harris-insists-biden-wont-ban-fracking-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-harris-insists-biden-wont-ban-fracking-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-harris-insists-biden-wont-ban-fracking-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
   - title: "Mike Pence and Kamala Harris vice presidential debate to have plexiglass barrier because of coronavirus concerns"
     excerpt: "President Donald Trump has the coronavirus. And number of his people in his orbit have been diagnosed with Covid-19 since his debate with Joe Biden."
     publishedDateTime: 2020-10-05T22:03:00Z

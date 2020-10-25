@@ -473,6 +473,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What to make of the 'kinder, gentler' Donald Trump"
+    excerpt: "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st"
+    publishedDateTime: 2020-10-25T17:00:00Z
+    webUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump"
+    ampWebUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trump_smile_042020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "How to Watch, Live Stream Donald Trump's NBC Town Hall in Place of Debate"
     excerpt: "The event will be moderated by Today co-host Savannah Guthrie, who will direct a conversation between Trump and Florida voters."
     publishedDateTime: 2020-10-15T19:00:00Z
@@ -1402,6 +1418,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Foreign Students Show Less Zeal for US Since Trump Took Over"
+    excerpt: "America has been considered the premier destination for international students, with the promise of an education at top-notch universities leading to job opportunities."
+    publishedDateTime: 2020-10-25T15:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "International students in Minnesota feel anxiety as Trump administration proposes shortening visas"
     excerpt: "For the second time in three months, international college students in Minnesota and across the country fear for their academic future as the Trump administration mulls visa changes that would shorten the duration of their studies."
     publishedDateTime: 2020-10-24T23:26:00Z

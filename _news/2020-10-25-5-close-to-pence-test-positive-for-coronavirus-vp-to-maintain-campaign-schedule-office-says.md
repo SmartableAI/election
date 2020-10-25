@@ -1,14 +1,14 @@
 ---
 category: news
 title: "5 close to Pence test positive for coronavirus, VP to maintain campaign schedule, office says"
-excerpt: ""
+excerpt: "Vice President Mike Pence's office announced Sunday that three more staffers have now tested positive for coronavirus."
 publishedDateTime: 2020-10-25T15:34:25Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Uvr3YRHfkcc/5-close-to-pence-test-positive-for-coronavirus-vp-to-maintain-campaign-schedule-office-says"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Uvr3YRHfkcc/5-close-to-pence-test-positive-for-coronavirus-vp-to-maintain-campaign-schedule-office-says"
 ampWebUrl: "https://www.foxnews.com/politics/5-close-to-pence-test-positive-for-coronavirus-vp-to-maintain-campaign-schedule-office-says.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/5-close-to-pence-test-positive-for-coronavirus-vp-to-maintain-campaign-schedule-office-says.amp"
 type: article
-quality: 154
+quality: 174
 heat: -1
 published: false
 
@@ -24,6 +24,12 @@ topics:
   - Election
   - Republican Voice
   - Mike Pence
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20299062818187.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
+    isCached: true
 
 related:
   - title: "Marc Short, chief of staff for Vice President Mike Pence, tests positive for coronavirus"

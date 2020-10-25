@@ -881,6 +881,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden takes a break from campaign trail ahead of Thursday debate"
+    excerpt: "He will likely continue his attacks, almost certainly, on Joe Biden. And the latest e-mail controversy involving Biden's son Hunter. With just two weeks to go until Election Day, President Trump is desperately trying to paint the Biden family as what he calls a criminal enterprise."
+    publishedDateTime: 2020-10-24T12:08:00Z
+    webUrl: "https://www.foxnews.com/transcript/joe-biden-takes-a-break-from-campaign-trail-ahead-of-thursday-debate"
+    ampWebUrl: "https://www.foxnews.com/transcript/joe-biden-takes-a-break-from-campaign-trail-ahead-of-thursday-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/joe-biden-takes-a-break-from-campaign-trail-ahead-of-thursday-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bec8b00-fc8a-4767-9125-b7fa1bcc1321/d0efc9dc-cfec-444c-9856-7be0e63c538d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
     excerpt: "Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,"
     publishedDateTime: 2020-10-16T20:12:00Z

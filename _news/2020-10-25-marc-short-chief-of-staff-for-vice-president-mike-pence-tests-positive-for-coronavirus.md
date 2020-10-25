@@ -33,7 +33,7 @@ images:
 
 related:
   - title: "5 close to Pence test positive for coronavirus, VP to maintain campaign schedule, office says"
-    excerpt: ""
+    excerpt: "Vice President Mike Pence's office announced Sunday that three more staffers have now tested positive for coronavirus."
     publishedDateTime: 2020-10-25T15:34:25Z
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Uvr3YRHfkcc/5-close-to-pence-test-positive-for-coronavirus-vp-to-maintain-campaign-schedule-office-says"
     ampWebUrl: "https://www.foxnews.com/politics/5-close-to-pence-test-positive-for-coronavirus-vp-to-maintain-campaign-schedule-office-says.amp"
@@ -42,7 +42,12 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 154
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20299062818187.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "4CY54zELC3fnEDEfIeMWpiO+28v850+veeVJqxrYZzTvCbSuWhgz8gKqH7HGEtNDltqHLCRzm2LpyMaT9/vMrCgG8ucG4ybXX48W6Q1c+mokCJH47CqmRGyLl382/Sxy03x+PWiXXJbOM0CJBROCoTjK9ZPVXgeQ0UZ3y/0jAxHrLmpeqtZiot/b52zCK2AXtfrOo20U3HBhNh9dus1nUG3u5pZ9EpM0qabXKtPnsGXSBeuUKvjTByp0fcxAwNPnsnfEN0kGDml/UdKfhzdsFjmk6jHWlGtJvUOgkxbYX9h02NLoA4u4UNYJndfc4NlJtUqQOjHmq5FfK98AHSxaoJwQE7oMpa0+iNH5hIEs/4k=;po83P4vYnAl+uyh5tGlsWw=="
 ---

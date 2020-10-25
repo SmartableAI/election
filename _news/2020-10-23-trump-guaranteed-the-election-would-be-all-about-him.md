@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/?outputType=amp"
 type: article
 quality: 140
-heat: 1960
+heat: 2000
 published: true
 
 provider:
@@ -462,6 +462,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f948c9ea9e51e9c01aa12d2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D382%26cropY2%3D2914"
         width: 1200
         height: 675
+        isCached: true
+  - title: "What to make of the 'kinder, gentler' Donald Trump"
+    excerpt: "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st"
+    publishedDateTime: 2020-10-25T17:00:00Z
+    webUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump"
+    ampWebUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trump_smile_042020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "How to Watch, Live Stream Donald Trump's NBC Town Hall in Place of Debate"
     excerpt: "The event will be moderated by Today co-host Savannah Guthrie, who will direct a conversation between Trump and Florida voters."
@@ -1392,6 +1408,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Foreign Students Show Less Zeal for US Since Trump Took Over"
+    excerpt: "America has been considered the premier destination for international students, with the promise of an education at top-notch universities leading to job opportunities."
+    publishedDateTime: 2020-10-25T15:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "How the conservative movement and the rise of the hard right created Donald Trump"
     excerpt: "Author Edmund Fawcett on how the \"hard right\" — and the conflict within conservatism — led to the Trump calamity"
     publishedDateTime: 2020-10-25T02:24:00Z

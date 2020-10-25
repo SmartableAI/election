@@ -435,6 +435,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Breaking Down Joe Biden's Plan To Make The U.S. Carbon Neutral"
+    excerpt: "Joe Biden wants to make America carbon neutral by 2050 and says there will still be room for some fossil fuels. We look at how realistic this is and what activists make of it."
+    publishedDateTime: 2020-10-25T11:51:00Z
+    webUrl: "https://www.npr.org/2020/10/25/927564427/breaking-down-joe-bidens-plan-to-make-the-u-s-carbon-neutral"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Amy Coney Barrett refuses to tell Kamala Harris if she thinks climate change is happening"
     excerpt: "Supreme court nominee accuses Democratic senator of soliciting an opinion ‘on a very contentious matter of public debate’"
     publishedDateTime: 2020-10-15T05:03:00Z

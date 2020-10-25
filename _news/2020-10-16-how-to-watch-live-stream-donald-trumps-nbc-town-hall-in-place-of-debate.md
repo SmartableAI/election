@@ -479,6 +479,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What to make of the 'kinder, gentler' Donald Trump"
+    excerpt: "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st"
+    publishedDateTime: 2020-10-25T17:00:00Z
+    webUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump"
+    ampWebUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trump_smile_042020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Donald Trump Has Promoted QAnon-Linked Twitter Accounts More Than 250 Times"
     excerpt: "The president previously said \"is that supposed to be a bad thing?\" when asked about theory that he is taking down satanic pedophiles."
     publishedDateTime: 2020-10-16T12:47:00Z
@@ -1392,6 +1408,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Foreign Students Show Less Zeal for US Since Trump Took Over"
+    excerpt: "America has been considered the premier destination for international students, with the promise of an education at top-notch universities leading to job opportunities."
+    publishedDateTime: 2020-10-25T15:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "How the conservative movement and the rise of the hard right created Donald Trump"
     excerpt: "Author Edmund Fawcett on how the \"hard right\" — and the conflict within conservatism — led to the Trump calamity"
     publishedDateTime: 2020-10-25T02:24:00Z

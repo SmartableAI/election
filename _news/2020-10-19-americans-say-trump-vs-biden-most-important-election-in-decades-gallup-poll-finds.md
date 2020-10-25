@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-vs-biden-most-important-elect
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp"
 type: article
 quality: 199
-heat: 2039
+heat: 2059
 published: true
 
 provider:
@@ -1396,6 +1396,20 @@ related:
       - url: "https://assets.realclear.com/images/52/524942_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Trump Camp's Steve Cortes: 2020 Election is \"Morning In America\" vs. Biden's \"Dark Winter\""
+    excerpt: "Steve Cortes, Trump spokesman, told FNC's Jesse Watters that, for President Trump, it is \"Morning in America\" vs. Joe Biden's \"Dark Winter\" election. STEVE CORTES: Joe Biden thinks screaming at people and calling voters chump is a winning strategy."
+    publishedDateTime: 2020-10-25T15:06:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/25/trump_camps_steve_cortes_2020_election_is_morning_in_america_vs_bidens_dark_winter.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/525104.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "RNC Chair Asks Some Important Questions Ahead of Biden's Town Hall Event"
     excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"

@@ -1398,6 +1398,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Trump Camp's Steve Cortes: 2020 Election is \"Morning In America\" vs. Biden's \"Dark Winter\""
+    excerpt: "Steve Cortes, Trump spokesman, told FNC's Jesse Watters that, for President Trump, it is \"Morning in America\" vs. Joe Biden's \"Dark Winter\" election. STEVE CORTES: Joe Biden thinks screaming at people and calling voters chump is a winning strategy."
+    publishedDateTime: 2020-10-25T15:06:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/25/trump_camps_steve_cortes_2020_election_is_morning_in_america_vs_bidens_dark_winter.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/525104.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "RNC Chair Asks Some Important Questions Ahead of Biden's Town Hall Event"
     excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
     publishedDateTime: 2020-10-15T23:30:00Z
@@ -1489,6 +1503,6 @@ related:
         height: 500
         isCached: true
 
-secured: "k337klFFfyVo5MYc69lKomrxXYMfdITd4J/oZ8Qhbo2z2LUjmI+u6FDIK+eS7MPLC99ZswIXTgVJJ5tQd1YLruEkEu0cE4ohTh0JHYfj4c57bXAlnJf07JrPIC6nbbVDpEXPVDFIXCBmTNhFmv2t+oE1CushaGnXilH0ALb43cSJwfAg2J9rhaLcCUD1mQOH06dJ0+FQJb7E7axmeWni1CV09edkCXKV2qYvZQObwuL0NGKh0+pgfdQIABx7Qp+fVqptGoMOhehLjryO8bUR2ttHSPrFdRE4uEAG1WcAhgL6yZAPuvBUZ3lj3tMRJfl5DhcLCVV1I3PmOm0/md4L0gxfQdoDo/JE8+60Xvj4Oq4=;KasZcxQX/X5L8xkhMQWGGA=="
+secured: "bGlJGqoHP5HifUs9dYDBmbcbq4inT01f4/t8FPZfB9lQWQ1CrB2hMc4TEIPqyn2A5nCuGnuKcHIuMRQpvYN7FugqTe5eKveFY9MyOJhsp3qix1Kd0awZ/Qz+zlRVJIOXzjjvEfm9QqTOEz0NHde/awv2Y1Cg3JkboIiXvEMNARh+fTR5SYkPp+riX3oSoUE0zCx4d3M7VIjc/ncrtTrPAJ4Sir6C95ZXEgsqAuJFWOLDaT8wdS0Gi0e7eYhXrYa2+g0pchpMoid2acjbRRdr3PwvhvCHQPOmaRVhdYTck1aPyvM/kxpaS3n4TiLOTlZTVpuKOlthDrNFLhysyK0YLnYH2R65ZB6Gx3OAIEhwRNcJ51SMlWO5+2QO83QaYSQ7psy5S/zbCdYbYfwy1gzP99lvCs7xevchJewXG8MiXd+DDxYtOCwygzVTINqEHKxzmhnkOQsQCPxJ2zTKSXANHsKvKNV7FsOhRgbyrNoxdzZHd8pDQjoNqKWNUb2dRMwnY1rXB02D5dqisX9kXGhRNw==;Io8O9plWhnWMxMqDSr9gWQ=="
 ---
 

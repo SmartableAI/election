@@ -1414,6 +1414,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Trump Camp's Steve Cortes: 2020 Election is \"Morning In America\" vs. Biden's \"Dark Winter\""
+    excerpt: "Steve Cortes, Trump spokesman, told FNC's Jesse Watters that, for President Trump, it is \"Morning in America\" vs. Joe Biden's \"Dark Winter\" election. STEVE CORTES: Joe Biden thinks screaming at people and calling voters chump is a winning strategy."
+    publishedDateTime: 2020-10-25T15:06:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/25/trump_camps_steve_cortes_2020_election_is_morning_in_america_vs_bidens_dark_winter.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/525104.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "The Media Officially Becomes the Communications Department for Joe Biden"
     excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was turned over to the Post."
     publishedDateTime: 2020-10-21T09:09:00Z
