@@ -351,20 +351,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Trump and Biden Hit Swing States, With 10 Days Until Election Day"
-    excerpt: "Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."
-    publishedDateTime: 2020-10-25T08:17:00Z
-    webUrl: "https://www.nytimes.com/live/2020/10/24/us/trump-biden-election/trump-in-wisconsin-says-the-virus-is-rounding-the-turn-while-cases-climb"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 145
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/24/us/24elections-briefing-trump-wisc/merlin_179020233_0dd092b9-762b-42e8-b2c1-a5b48b4ef808-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Biden Is Not Out of the Woods"
     excerpt: "Recent headlines reflect the widespread view that Biden is poised to prevail: Washington Post: “As Trump stumbles, voters finalize their choices, and Biden’s lead grows”;: “Virus Pulls Down Trump, Poll Shows,"
     publishedDateTime: 2020-10-14T09:14:00Z
@@ -476,38 +462,6 @@ related:
       - url: "https://static.politico.com/fc/7c/0b75d555456c903ea64a176e72b5/gettyimages-1229154699-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "The Big Role That Big Donors Still Play, Quietly, for Joe Biden"
-    excerpt: "The Biden campaign has trumpeted its success with small donations, but in the last six months it has raised almost $200 million from donors who gave at least $100,000. As sums have grown, transparency has diminished."
-    publishedDateTime: 2020-10-20T10:18:00Z
-    webUrl: "https://www.nytimes.com/2020/10/20/us/politics/joe-biden-donors.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/20/us/politics/joe-biden-donors.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/20/us/politics/joe-biden-donors.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/19/us/politics/19biden-donors-1/merlin_178633746_6905179f-6b42-4eb0-a2b7-b2ca1221976d-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Social Media and the Hunter Biden Report"
-    excerpt: "In trying to insulate their platforms from the spread of dubious information, Facebook, Twitter and YouTube have ignited a different kind of firestorm."
-    publishedDateTime: 2020-10-21T10:10:00Z
-    webUrl: "https://www.nytimes.com/2020/10/21/podcasts/the-daily/hunter-biden-new-york-post-twitter-facebook.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/21/podcasts/the-daily/hunter-biden-new-york-post-twitter-facebook.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/podcasts/the-daily/hunter-biden-new-york-post-twitter-facebook.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/15/business/21daily-promo/21daily-promo-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Biden says he will be a president for all Americans in debate closer"
     excerpt: "In his closing address at the final presidential debate, Joe Biden says he would be an American president, “I represent all of you whether you voted for me or against me.”"

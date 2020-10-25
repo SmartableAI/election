@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/?outputType=amp"
 type: article
 quality: 140
-heat: 1900
+heat: 1940
 published: true
 
 provider:
@@ -751,6 +751,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Let's talk about how Trump's hands don't match his face and what that says about America right now"
+    excerpt: "The President has always asked Americans to suspend their reason, but now the tells that he is not what he seems are so obvious it's an insult."
+    publishedDateTime: 2020-10-25T12:31:00Z
+    webUrl: "https://www.businessinsider.com/trumps-myths-and-facade-are-falling-apart-presidential-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trumps-myths-and-facade-are-falling-apart-presidential-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-myths-and-facade-are-falling-apart-presidential-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f92dd80abcd0c0018d694d0?width=1200&format=jpeg"
+        width: 880
+        height: 440
+        isCached: true
   - title: "President Donald Trump said wind turbines kill 'all the birds.' Cats and radio towers kill far more."
     excerpt: "President Donald Trump's claim that wind turbines pose a great threat to our avian friends is dubious at best."
     publishedDateTime: 2020-10-24T02:28:00Z
@@ -911,6 +927,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "How Donald Trump's Presidency Has Changed The Media"
+    excerpt: "Navarro asks CNN's chief media correspondent Brian Stelter how Donald Trump's presidency has affected the media and what another four years could bring."
+    publishedDateTime: 2020-10-25T11:51:00Z
+    webUrl: "https://www.npr.org/2020/10/25/927564446/how-donald-trumps-presidency-has-changed-the-media"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump repeatedly refused to condemn QAnon and said he agreed with part of the far-right conspiracy movement during his NBC town hall"
     excerpt: "The president alternated between claiming he had no idea what QAnon was and expressing support for the conspiracy movement."
     publishedDateTime: 2020-10-16T01:43:00Z

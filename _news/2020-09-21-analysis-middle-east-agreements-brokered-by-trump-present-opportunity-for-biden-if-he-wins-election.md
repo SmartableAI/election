@@ -63,38 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How Trump contrasts Biden on Covid-19"
-    excerpt: "Joe Biden has questioned the reopening strategy around the country and called for an emphasis on testing. President Donald Trump has pushed for businesses and schools to open and has downplayed the importance of testing.\n    \n"
-    publishedDateTime: 2020-09-20T19:26:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eDic3atzBa4/trump-vs-biden-covid-19-policies-mh-orig.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/08/31/trump-vs-biden-covid-19-policies-mh-orig.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/08/31/trump-vs-biden-covid-19-policies-mh-orig.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200831122448-trump-vs-biden-covid-thumb-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How the coronavirus has defined Trump's reelection campaign"
-    excerpt: "President Donald Trump hoped to make his reelection campaign about the soaring economy at the start of 2020, but the coronavirus pandemic and Trump's response to it have largely defined what Americans are hearing about the presidential campaign.\n    \n"
-    publishedDateTime: 2020-09-23T11:05:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nmRy3NXQelI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/the-breakthrough-coronavirus-trump-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/the-breakthrough-coronavirus-trump-campaign/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922190137-trump-south-lawn-0922-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "New York judge rules Eric Trump must sit for deposition before election"
     excerpt: "A New York state judge ruled Wednesday that Eric Trump must sit to be deposed by the state attorney general's office by October 7, denying his request to delay an interview as part of an investigation into the Trump Organization until after the presidential election, according to the attorney general's"
     publishedDateTime: 2020-09-23T21:01:19Z

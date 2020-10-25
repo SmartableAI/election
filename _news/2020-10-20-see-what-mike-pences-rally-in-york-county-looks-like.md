@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ydr.com/amp/5982553002"
 cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/5982553002"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/5/69/569d3f64-120f-11eb-b03b-cf485488bd15/5f8d95192e5c9.image.jpg"
         width: 698
         height: 392
+        isCached: true
+  - title: "In Berks County, Vice President Mike Pence makes his case for four more years"
+    excerpt: "He touted President Donald Trump and the administration's accomplishments: \"That's what leadership looks like.\""
+    publishedDateTime: 2020-10-17T20:30:00Z
+    webUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.html"
+    ampWebUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
+    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
+    type: article
+    provider:
+      name: Daily Local News
+      domain: dailylocal.com
+    quality: 72
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/3/ee/3eeb823e-71d6-507c-ad7b-048ace5ca669/5f8bb6dee2c0a.image.jpg?resize=1024%2C735"
+        width: 1024
+        height: 735
         isCached: true
 
 secured: "YA0LEo8S6HEQnAAG66fkBBudIrNXzSOJeF5Feiu/NJuIV13O7sDUGHPh5AjdX3OL8JbDT6MC19Sw0+/s/+GR+qJdCzlEOXYStUyA8Abnr6grzvwsjUe4x2okSfDZ7tEJAYbXJ5fz1YqzxCglsFiO6Fft6tYQGBQDDDX7FGS7tiPra97mjCvzFwNkVFHnFj7gWl5RH4ysgWsNb6tm3GaFzi3EeKSxFZ4doYZSbosxYUvAiTiHnKkLqakSdV7RzCgFBXhaJ6stgcVC7LJnnn5EyzGB+IFz1mGlOPGJlfEql9M5CjTPhY+c3heIOMXa07c8JDSehNmWhehdHg814h5zFe6fstCC+Bz8/uFi6cxMMHE=;dmaFLQ2zq5vFpqyHEKLcAg=="

@@ -608,22 +608,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden calls out Trump for suggesting 'injecting bleach' to treat coronavirus"
-    excerpt: "While speaking about vaccine production, Joe Biden called out President Donald Trump for suggesting that \"injecting bleach\" could help treat the coronavirus, while the president claimed it was said \"sarcastically."
-    publishedDateTime: 2020-09-30T01:54:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-calls-out-trump-for-suggesting-injecting-bleach-to-treat-coronavirus-92820037882"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92820037882"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92820037882"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 147
-    images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nbc_mo_debate_bleach_200929_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Poll: Most voters didn’t enjoy Trump-Biden clash, say they should still keep debating"
     excerpt: "Half of all voters who watched Tuesday's debate said Joe Biden outperformed Donald Trump in their first televised showdown, according to a POLITICO/Morning Consult poll, with an overwhelming majority of respondents blaming the president for what they described as a disruptive event and an overall unpleasant viewing experience."
     publishedDateTime: 2020-10-01T15:05:00Z

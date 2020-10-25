@@ -3,8 +3,8 @@ category: news
 title: "Trump goes on offensive against Biden with trip to New Hampshire"
 excerpt: "President Donald Trump will go on the offensive against Democratic rival Joe Biden on Sunday with a campaign trip to New Hampshire, a state he narrowly lost in 2016 but is trying to reclaim in this year's White House race."
 publishedDateTime: 2020-10-25T05:00:00Z
-originalUrl: "https://www.reuters.com/article/idUSKBN27A04U"
-webUrl: "https://www.reuters.com/article/idUSKBN27A04U"
+originalUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27A04U"
+webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27A04U"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A04U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A04U"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538728882&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O03K"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538745436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O03K"
     width: 822
     height: 545
     isCached: true
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/255314e1-791b-42f3-a81d-484e6fb0b63d-AFP_AFP_8TN4LL.jpg?auto=webp&crop=4967,2794,x0,y140&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Election 2020 live updates: Trump, Biden racing toward Election Day with more rallies"
+    excerpt: "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more rallies and concerts on Sunday."
+    publishedDateTime: 2020-10-25T13:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73808945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73808945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73808945"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 148
+    images:
+      - url: "https://s.abcnews.com/images/US/biden-rally-pa-rt-rc-201024_1603555045915_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Immigration Makes It Into Election Debate For First Time —Here Is Where Trump And Biden Stand"
     excerpt: "Donald Trump’s hardline immigration crackdown was brought back into focus during Thursday’s second—and final—presidential debate."
@@ -366,6 +382,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538368029&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1VV"
         width: 942
         height: 545
+        isCached: true
+  - title: "Trump, Biden favorability unchanged as 2020 race heads into final week: POLL"
+    excerpt: "Donald Trump and Joe Biden enter the final week of a bitter campaign with their favorability ratings unchanged, a new ABC News/Ipsos poll finds."
+    publishedDateTime: 2020-10-25T13:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-biden-favorability-unchanged-2020-race-heads-final/story?id=73808383&ref=hvper.com"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-biden-favorability-unchanged-2020-race-heads-final/story?id=73808383"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-biden-favorability-unchanged-2020-race-heads-final/story?id=73808383"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/International/trump-nc-rt-rc-201024_1603562753966_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics"
     excerpt: "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware."
@@ -1415,6 +1447,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "‘SNL’: Alec Baldwin’s Trump and Jim Carrey’s Biden Face Off in Final Debate"
+    excerpt: "Live tackled the “second and, praise Jesus, final debate” in its latest cold open, with Alec Baldwin’s Donald Trump and Jim Carrey’s Joe Biden facing off for the last time before Election Day. “How does this mute button work?"
+    publishedDateTime: 2020-10-25T09:02:00Z
+    webUrl: "https://www.rollingstone.com/tv/tv-news/snl-alec-baldwin-trump-jim-carreys-biden-final-debate-1080758/"
+    ampWebUrl: "https://www.rollingstone.com/tv/tv-news/snl-alec-baldwin-trump-jim-carreys-biden-final-debate-1080758/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/tv/tv-news/snl-alec-baldwin-trump-jim-carreys-biden-final-debate-1080758/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 88
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2020/10/snl-1.jpg"
+        width: 2440
+        height: 1312
+        isCached: true
   - title: "President Trump, Mike Pence planning final campaign surge in Arizona next week"
     excerpt: "In the final days before the November 3 election, President Trump’s campaign is planning a final surge in Arizona."
     publishedDateTime: 2020-10-24T06:09:00Z
@@ -1845,6 +1893,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "k1G083e/GNm9NIIom1ejAW5vsnuZ69BYdQP3ONgGKjdVC892oC3Hx/P/c4GYdRf039bRcYNWBIUL/OrB9hC2U2xNVJr9Wd5CIdDk8qCcqjKFjA9ERQ0Fby12p/iF2JFVd8MCmc9OeAC4ocGxLu2sluy2rybfUHF17B/azNDLtZLtxW1xLs6E9+ausL+nQeuMlDDJ8sCWOKWhAjy/TnDyrn+uOhgZDYCL8mKN3UkYnQHbPrPwYzz+JGI3SXkMfygIF3mL0DLtQh3Q/shPG/qbl++iVl4GpyogOEyk5cy/bZg2/4T/bq8LXCFICzVpSvqoQcTEWYZ0i7Tl8Vip2m1AQReiQD5tBNmIWxx5E500KaE=;CfggLjV97Umri2sr8LbJBA=="
+secured: "+wid8bock4+/iraCTpminlH4bf3OK3g02VCm8OviS9aiehKRrTSbWNY9FogsBiOXyb7914Vow+EiOCeJXMamePx7RoxtPNXwi8pXiCbDoJQ9MCVdwuYM96nKBYFiwqyR6boOFnGQr4cJN1jC4AEadRzpYcYPSnuVhzYapMIxem7GLScOZ5lFfiB1fzevQBs9gUNwPT3db6Xa69v9hHEq5QDyLTr1aT06lplqqwuaggecQwbpAMS2cD3cTmOLi2TzKp4aYfVdEzHloMpmQn0skeCnS8aBvXToyW4ZsqZyp/XX6HspUgIMbJ0H8KiT8B11h0IgpT/a35X00sHDRE2kw2dXYVUWwDIP744wUAmZTgw=;aDvmZys9av5jbdti0ZsOrg=="
 ---
 

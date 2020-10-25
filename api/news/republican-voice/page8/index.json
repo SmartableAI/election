@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-24-sanders-charges-trump-is-aiming-to-de-legitimize-election-through-massive-voter-suppression.md",
+      "title": "Sanders charges Trump is aiming to ‘de-legitimize’ election through ‘massive voter suppression’",
+      "excerpt": "Sen. Bernie Sanders is warning that President Trump is going “down the path of authoritarianism” by refusing “to commit to a peaceful transition of power if he loses the election.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a267b29-9fd2-4f37-9c11-9f2f17de8532/7451902e-cb28-4a65-9801-5058469cf5d9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp",
+      "publishedDateTime": "2020-09-24T12:19:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-cuomo-whitmer-call-for-congress-to-investigate-trumps-response-to-covid-crisis.md",
       "title": "Cuomo, Whitmer call for Congress to investigate Trump's response to COVID crisis",
       "excerpt": "Two Democratic governors are calling for Congress to investigate the Trump administration’s handling of the coronavirus crisis, which they allege was politicized and impeded the U.S. response.",
@@ -1582,63 +1638,6 @@
         "name": "RealClearPolitics",
         "domain": "realclearpolitics.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburgs-passing.md",
-      "title": "Is Anyone Else Puzzled Over What Joe Biden Did the Day After Ruth Bader Ginsburg's Passing?",
-      "excerpt": "Justice Ruth Bader Ginsburg has died. She was 87. Her legacy is cemented. Period. The Left is going bananas. The meltdowns are pervasive. The Democrats want to pack the Supreme",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529",
-      "originalUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/258/41c8d6b9-9c0d-4269-8644-a02f7a4d4128.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529?amp=true",
-      "publishedDateTime": "2020-09-19T23:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

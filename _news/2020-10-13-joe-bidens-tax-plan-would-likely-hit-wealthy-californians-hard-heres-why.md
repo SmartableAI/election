@@ -121,6 +121,22 @@ related:
         width: 5000
         height: 2499
         isCached: true
+  - title: "3 Huge Tax Changes Joe Biden Wants to Make"
+    excerpt: "Of course, both President Trump and Democratic nominee Joe Biden have made their stances clear on a number of key issues, and one such matter that voters can't help but ignore are taxes. President Trump notably overhauled the tax system in late 2017 with his Tax Cuts and Jobs Act,"
+    publishedDateTime: 2020-10-25T11:18:00Z
+    webUrl: "https://tulsaworld.com/business/investment/personal-finance/3-huge-tax-changes-joe-biden-wants-to-make/article_971c98ed-7528-5849-a3ce-0a16ed801103.html"
+    ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/3-huge-tax-changes-joe-biden-wants-to-make/article_971c98ed-7528-5849-a3ce-0a16ed801103.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/3-huge-tax-changes-joe-biden-wants-to-make/article_971c98ed-7528-5849-a3ce-0a16ed801103.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/1/df/1df41f7d-9a14-5be7-b002-2ba7e645a0c2/5f9569430535e.image.jpg"
+        width: 700
+        height: 429
+        isCached: true
 
 secured: "P5fWMzxxm8LdrexyFCXm2hG3VA4Nm8KIOFUlx2SW0WVh/pweA1u6lO8xWuEn0CG2W1eI762A+oWITJuoNDJE6ug++mJTZl8eVcHdVAh3mwhDqE6VseGYJ6tsii830doYvDHeiMlYaOSKwhHvB8uvptvCspW/gEKSQaAehJRVmiX98mfbxZN/bPXEsbgyBF6Hc6eyeoMHjCBiCCJ8/GzJjYCsZ6nQwkPZHBvZI++TvogMFJ0vhznllbjGcfuaRxftGBTPaAAqRTosHDVw+fJLjM1JSgoPmR3N/FJGWIMHt4TrJWfPyJ7p9C1H/ZlERw1v2kJZi5/p45fmrpiIHgGClx87Cv6z17BTZbcddX6mC4J4KW2RlkYT7K5s/MYzWbQfOtfxdbTkovvVBOK7XJL2Nx5z0SadbQw9qMYFdIbB2kbmZfhUUv9lk4uCAjc4GyW93+MNplZ9Xhuc5PHBLd0kCQMIzVtySlSRJRaZEeDme0o/xfGGslktDPfF1+dO1o0dqHOtcYVp+c3Hzt4y0IshfA==;C4PEzrXktLyV7yVMh+cS3A=="
 ---

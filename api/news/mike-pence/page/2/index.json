@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-17-its-on-north-carolina-vice-president-pence-greets-supporters-in-selma.md",
+      "title": "'It's on, North Carolina': Vice President Pence greets supporters in Selma",
+      "excerpt": "Vice President Mike Pence traveled to Selma on Friday for a \"Make America Great Again\" event at The Farm at 95. Supporters were lined up well before the 2:30 p.m. event. \"I'm here for one reason and one reason only,",
+      "sourceUrl": null,
+      "webUrl": "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/",
+      "originalUrl": "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/7084491_101620-wtvd-Gloria-5pm-Pence-in-Selma-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/",
+      "cdnAmpWebUrl": "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/",
+      "publishedDateTime": "2020-10-16T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVD",
+        "domain": "abc11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-opponent-of-pences-brother-alleges-racist-threats-gunfire.md",
       "title": "Opponent of Pence's brother alleges racist threats, gunfire",
       "excerpt": "A Black woman running for Congress in Indiana against Vice President Mike Pence's brother says she has received numerous racist and threatening messages and thinks she heard gunfire before a campaign",
@@ -62,7 +105,7 @@
       "originalUrl": "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1460,64 +1503,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.md",
-      "title": "Vice presidential debate: Both Trump, Biden campaign claim victory after Pence, Harris showdown",
-      "excerpt": "Both the Trump campaign and the Biden campaign claimed victory after Wednesday night’s vice presidential debate—with team Trump touting Vice President Pence, saying he is “ready to lead,” and team Biden praising Sen. Kamala Harris for making a “forceful case” for a Biden presidency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsjExuOZgdE/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsjExuOZgdE/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 4448,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp",
-      "publishedDateTime": "2020-10-07T22:43:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Mike Pence",
         "Kamala Harris"
       ]

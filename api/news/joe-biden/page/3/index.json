@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-05-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden.md",
-      "title": "Will new Florida voters tip the election in favor of Joe Biden?",
-      "excerpt": "Are we there yet? After the first debate, and the news about Donald Trump, many Americans are wondering when the election will end.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden",
-      "originalUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 520,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_030820getty_2.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp",
-      "publishedDateTime": "2020-10-04T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-04-senior-adviser-biden-to-be-tested-again-sunday.md",
       "title": "Senior adviser: Biden to be tested again Sunday",
       "excerpt": "Symone Sanders, a senior adviser to the Biden campaign, said Sunday the campaign is not concerned about continuing events following President Donald Trump's Covid-19 diagnosis, because it is adhering to health guidelines and testing the former vice president \"regularly.",
@@ -1581,6 +1529,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-wsj-opinion-borks-warning-over-judicial-activism-still-haunts-joe-biden.md",
+      "title": "WSJ Opinion: Bork's Warning Over Judicial Activism Still Haunts Joe Biden",
+      "excerpt": "Today we call Supreme Court nominee Robert Bork back from 1987 as witness to what has happened to American politics, and why we’re going to war ove",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF",
+      "originalUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://m.wsj.net/video/20200923/092320opvidwonderland/092320opvidwonderland_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     }
   ],

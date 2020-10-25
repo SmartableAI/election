@@ -94,22 +94,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "First Trump-Biden debate to focus on Supreme Court, coronavirus and race"
-    excerpt: "The first presidential debate between President Donald Trump and Democratic nominee Joe Biden will focus on a number of topics, including the coronavirus pandemic, the Supreme Court and the racial reckoning in the country, the debate commission announced on Tuesday.\n    \n"
-    publishedDateTime: 2020-09-22T18:10:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QzOMDKh4Sl4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/debate-topics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/debate-topics/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 189
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden says there shouldn't be a second debate if Trump still has Covid-19"
     excerpt: "Democratic presidential nominee Joe Biden said Tuesday that the second presidential debate should not be held if President Donald Trump is still infected with coronavirus, but that he would base his participation in the debate upon recommendations from medical experts.\n    \n"
     publishedDateTime: 2020-10-07T01:01:06Z
@@ -187,22 +171,6 @@ related:
     quality: 183
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pence's former lead coronavirus task force aide slams Trump and endorses Biden in new video"
-    excerpt: "A former top aide to Vice President Mike Pence assailed President Donald Trump's response to the pandemic in a new video Thursday, adding to the growing list of former Trump administration officials who have criticized the President and, in several cases, endorsed his Democratic opponent Joe Biden.\n"
-    publishedDateTime: 2020-09-18T02:04:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xNnbxtNSoPQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/former-pence-aide-coronvirus-task-force-slams-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/former-pence-aide-coronvirus-task-force-slams-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 180
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -427,22 +395,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921115740-02-trump-un-2018-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden Courts Obama-Trump Voters as the President Seeks to Hold Them"
-    excerpt: "The Democratic nominee, in Wisconsin, tried to place himself on the side of American workers, while Mr. Trump used a trip to Ohio to blame his opponent for job losses there."
-    publishedDateTime: 2020-09-21T23:39:00Z
-    webUrl: "https://www.nytimes.com/2020/09/21/us/politics/biden-obama-trump-voters.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/politics/biden-obama-trump-voters.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/politics/biden-obama-trump-voters.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21biden-trump/21biden-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Rank-and-file union members snub Biden for Trump"
     excerpt: "In some unions, especially the building trades, support for the president remains solid despite the efforts of labor leaders to convince members otherwise."
@@ -1054,20 +1006,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden’s oil slip gives Trump campaign hope in Pa., Texas"
-    excerpt: "Joe Biden’s plan to move to a clean energy economy isn't new to those who've been paying attention: For months, he's promised to put the country on a path to be carbon-neutral by 2050. But Biden, who's been extraordinarily cautious throughout the campaign while talking about fossil fuels,"
-    publishedDateTime: 2020-10-24T09:23:00Z
-    webUrl: "https://www.politico.com/news/2020/10/23/biden-oil-pennsylvania-texas-432043"
-    type: article
-    provider:
-      name: YAHOO!
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/ea/ad/22202eee4753a4059b55cdc2f317/201023-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "‘Cindy can have Sleepy Joe!’: Trump targets McCain’s widow after Biden endorsement"
     excerpt: "The attack comes after Cindy McCain tweeted that there is “only one candidate” in the presidential race “who stands up for our values as a nation.”"
     publishedDateTime: 2020-09-23T13:52:00Z
@@ -1167,15 +1105,6 @@ related:
     excerpt: "He has experience, now, fighting the coronavirus as an individual,” a campaign spokesperson said of Trump. “Those firsthand experiences, Joe Biden, he doesn’t have those.”"
     publishedDateTime: 2020-10-05T20:01:00Z
     webUrl: "https://www.thedailybeast.com/trump-campaign-attacks-joe-biden-for-not-having-covid-19"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 60
-  - title: "Trump Had Sound Bites. Biden Had Substance and Heart."
-    excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."
-    publishedDateTime: 2020-10-25T04:00:00Z
-    webUrl: "https://www.thedailybeast.com/trump-had-soundbites-at-the-final-presidential-debate-biden-had-substance-and-heart"
     type: article
     provider:
       name: The Daily Beast

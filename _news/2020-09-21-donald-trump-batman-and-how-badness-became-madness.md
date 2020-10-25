@@ -1768,22 +1768,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump just became Exhibit A in the case that he failed on coronavirus"
-    excerpt: "Now the president has to square his assertion that he tamed the crisis with his positive test and an economy showing slower signs of recovery."
-    publishedDateTime: 2020-10-02T17:08:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-just-became-exhibit-case-he-failed-coronavirus-n1241845"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241845"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241845"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417003/201002-analysis-donald-trump-covid-rally-se-1050a_5b601510fb1ceb9a1dd044033b545236.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
     excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"
     publishedDateTime: 2020-09-25T15:20:00Z
@@ -2185,20 +2169,6 @@ related:
     quality: 115
     images:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_39/3414767/200924-donald-trump-healthcare-ew-509p_7cad4ce1f54bbef2aeae39994f84a3de.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "On a coronavirus vaccine, Trump hints at yet another conspiracy"
-    excerpt: "Trump's claims about a coronavirus vaccine have gotten a little weird lately. His claims about a conspiracy to delay a vaccine was even worse."
-    publishedDateTime: 2020-09-25T15:05:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/coronavirus-vaccine-trump-hints-yet-another-conspiracy-ncna1241079"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3414422/200923-blood-samples-covid-vaccine-se-455p_e9fcf162d35a6475396839cc99fd3e8b.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

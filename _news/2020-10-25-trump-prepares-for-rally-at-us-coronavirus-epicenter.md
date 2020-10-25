@@ -751,6 +751,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Let's talk about how Trump's hands don't match his face and what that says about America right now"
+    excerpt: "The President has always asked Americans to suspend their reason, but now the tells that he is not what he seems are so obvious it's an insult."
+    publishedDateTime: 2020-10-25T12:31:00Z
+    webUrl: "https://www.businessinsider.com/trumps-myths-and-facade-are-falling-apart-presidential-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trumps-myths-and-facade-are-falling-apart-presidential-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-myths-and-facade-are-falling-apart-presidential-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f92dd80abcd0c0018d694d0?width=1200&format=jpeg"
+        width: 880
+        height: 440
+        isCached: true
   - title: "President Donald Trump said wind turbines kill 'all the birds.' Cats and radio towers kill far more."
     excerpt: "President Donald Trump's claim that wind turbines pose a great threat to our avian friends is dubious at best."
     publishedDateTime: 2020-10-24T02:28:00Z
@@ -911,6 +927,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "How Donald Trump's Presidency Has Changed The Media"
+    excerpt: "Navarro asks CNN's chief media correspondent Brian Stelter how Donald Trump's presidency has affected the media and what another four years could bring."
+    publishedDateTime: 2020-10-25T11:51:00Z
+    webUrl: "https://www.npr.org/2020/10/25/927564446/how-donald-trumps-presidency-has-changed-the-media"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump repeatedly refused to condemn QAnon and said he agreed with part of the far-right conspiracy movement during his NBC town hall"
     excerpt: "The president alternated between claiming he had no idea what QAnon was and expressing support for the conspiracy movement."
     publishedDateTime: 2020-10-16T01:43:00Z
@@ -1384,6 +1414,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "c5Edh3JqqA1IFGfDCRvJVnDfk8VAFTZcLGB0oMYVw2167IFucQfjfLSL4Ko3V6mSW2tV6KGL2eDluzdLMyhe0W1eT9Wi/GZSzrsa59pwFods1myBR1pZQq5dKo+Wg8M6Nx2X7+aXETBJ7zvRHG63Idtdf3gsVUdjm6cPGqY1U34L255nk/FO34ubxsEhLbeWF+207/KfgDz+SGfu2jcN6bflTOiYcOUndTr0gxplFlhj2LASjBWJuFHLwQhnkE18UEmJXl0KyNfTRE2Q3UgJSPFQMedyVPaK3Ra+P48qDfUpfz/MAOrD4LK6667STpTcy2AXE4Ay8Jy8YwJEO99oRIsPnIKS7pp59ZudB2S1dH0=;gFIa2oOMcklKW09t3ZTQoQ=="
+secured: "Ph6MHZ91p7mcpavEFZ//A7AC85DAlhaqs6jWRqGQ+7vW25sucbwp6Fx1IWKIhqDwGewOmGcipkkv6CuMgjhF4GXIKnubBxgelQ4bYmMQSKcDRUEYJ8yNIktZ2nHgMJfFCHI8/ql55+h9gm3q6n9PlKhG9ZHOyDG2gb3RmPCE0Sho89RB4RkUB8frvzjgOLm53EPRA+N93Wqt06Iffowec7jEQW2Zau8yT6Js7slQtivEJ393oTbA8hwMOiEWET3E7CnAE7685eaGxuvuMp9U2/l6ZYG1/myGYd9AUU4n/BHh4QxmCiTNYehavVndcOj7TKpX+IKeRvCvMQtSiZMrYTIvaLShucxjyV/LjcQd3R+6vwo7suSAFwg0PxGRntwpbN0Nu/3H0spdOZrDUhhJwHGkwdN1dgiA8b42abt4rOwkNzVG14sEeyhvhqJqCw9Fy5L36F5gAedttMh4iYbq03y1BQsY5RCikhXZzRtoxJhtWjLWmt2TN4s66dgwLgKCdyyJ93ERN3vj4iR1WO6pxQ==;WYEOcE7Ia7x/lzUkWWLG/w=="
 ---
 

@@ -601,22 +601,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden calls out Trump for suggesting 'injecting bleach' to treat coronavirus"
-    excerpt: "While speaking about vaccine production, Joe Biden called out President Donald Trump for suggesting that \"injecting bleach\" could help treat the coronavirus, while the president claimed it was said \"sarcastically."
-    publishedDateTime: 2020-09-30T01:54:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-calls-out-trump-for-suggesting-injecting-bleach-to-treat-coronavirus-92820037882"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92820037882"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92820037882"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 147
-    images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nbc_mo_debate_bleach_200929_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden: Trump's refusal to commit to peaceful transfer of power 'typical distraction'"
     excerpt: "\"We’ll have an election in this country as we always have had, and he’ll leave,” Biden told NBC News' Stephanie Ruhle."
     publishedDateTime: 2020-09-25T21:19:00Z

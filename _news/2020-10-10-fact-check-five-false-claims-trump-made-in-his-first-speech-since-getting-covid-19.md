@@ -127,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump lashes out wildly as he seeks an election comeback"
-    excerpt: "President Donald Trump is struggling to find a compelling rationale for his reelection ahead of the final presidential debate, firing off wild, scattershot attacks against an expanding list of perceived political enemies.\n    \n"
-    publishedDateTime: 2020-10-21T10:54:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U0IMd0tS6iE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/2020-election-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/2020-election-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020081638-donald-trump-phoenix-rally-1019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Barrett declines to commit to recusing herself from a Trump election case"
     excerpt: "Judge Amy Coney Barrett on Tuesday eluded efforts by Democratic lawmakers to commit to recusing herself from any Supreme Court election dispute between President Donald Trump and former Vice President Joe Biden.\n    \n"
     publishedDateTime: 2020-10-13T16:14:50Z
@@ -431,22 +415,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's campaigning stoops to new lows as Covid cases spike "
-    excerpt: "President Donald Trump and the pandemic he is supposed to be fighting are running out of control with the two weeks until Election Day shaping up as among the most ugly and divisive periods ever ahead of a presidential vote.\n    \n"
-    publishedDateTime: 2020-10-19T04:59:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MLpnC0PNUzM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/donald-trump-joe-biden-election-2020-coronavirus-fauci-masks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/donald-trump-joe-biden-election-2020-coronavirus-fauci-masks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018210212-02-donald-trump-1018-nevada-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The Trump reset will never come no matter how much he needs it"
     excerpt: "Around the time the President fell ill with Covid-19, his friends called in to try and buck him up -- and offer some friendly nudging.\n    \n"
     publishedDateTime: 2020-10-20T13:00:32Z
@@ -476,22 +444,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020082430-the-point-trump-accidentally-revealed-about-taxes-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fauci and Trump spoke during the President's Covid-19 recovery"
-    excerpt: "Before President Donald Trump started trashing Dr. Anthony Fauci this week as a \"disaster,\" the two men spoke during the President's Covid-19 recovery, two administration officials tell CNN.\n    \n"
-    publishedDateTime: 2020-10-21T21:22:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VWiS8hVO5jw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/trump-fauci-covid-19-recovery/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/trump-fauci-covid-19-recovery/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -729,22 +681,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190201112219-20190201-trump-putin-nuclear-arms-treaty-breaking-news-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "In North Carolina, Biden slams Trump for Covid 'lie,' warns 'things are getting worse'"
-    excerpt: "Joe Biden lambasted President Donald Trump for his \"lies\" about the state of the Covid-19 pandemic during a campaign stop in Durham, North Carolina on Sunday. Biden highlighted increasing case counts,"
-    publishedDateTime: 2020-10-18T19:35:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/north-carolina-biden-slams-trump-covid-lie-warns-things-are-n1243849"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243849"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243849"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 142
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3421096/201018-biden-north-carolina-jm-1447_e25ba82d4b1676fecafeb3195aab37ea.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "2020 Election Live Updates: Trump Is Back on the Trail. He Still Faces an Uphill Battle."
     excerpt: "President Trump will hold a rally in Pennsylvania, as Joe Biden campaigns in Florida. Virginia’s online voter registration portal went down on the final day to register before the Nov. 3 election. Judges in Texas upheld an order limiting ballot drop boxes to one per county."
@@ -1002,22 +938,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Twitter removes tweet from top Trump Covid adviser saying masks don't work"
-    excerpt: "Twitter on Sunday removed a tweet from one of President Donald Trump's top Covid-19 advisers falsely claiming masks don't work to prevent the spread of coronavirus. The tweet no longer appeared on the site as of Sunday morning,"
-    publishedDateTime: 2020-10-18T14:41:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/twitter-removes-tweet-top-trump-covid-adviser-saying-masks-don-n1243841"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243841"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243841"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3421064/201018-scott-atlas-jm-0956_9068008567fcbb25af5a336daf35d123.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Trump chief of staff Mark Meadows refuses to speak to reporters with mask on"
     excerpt: "Meadows has been inside the White House interacting with President Donald Trump over the last week while the president was recovering from the disease."
     publishedDateTime: 2020-10-12T17:31:00Z
@@ -1031,22 +951,6 @@ related:
     quality: 132
     images:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3419420/201012-mark-meadows-se-100p_ffeb1013c4c4127403a6cc52d2414c26.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Twitter removes tweet from top Trump Covid-19 adviser saying masks don't work"
-    excerpt: "Twitter on Sunday removed a tweet from one of President Donald Trump's top Covid-19 advisers, which falsely claimed that masks don't work to prevent the spread of coronavirus. The tweet no longer appeared on the site Sunday morning,"
-    publishedDateTime: 2020-10-20T00:48:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/twitter-removes-tweet-top-trump-covid-adviser-saying-masks-don-n1243841"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243841"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243841"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3421064/201018-scott-atlas-jm-0956_9068008567fcbb25af5a336daf35d123.jpg"
         width: 2500
         height: 1667
         isCached: true
@@ -1323,20 +1227,6 @@ related:
       - url: "https://static.politico.com/d4/d1/856308bf4427acaf2e8b4e196b85/gettyimages-1153119576-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Trump is patient zero for misinformation. And we don't have a cure."
-    excerpt: "With President Donald Trump referring to Dr. Anthony Fauci as a “disaster” and complaining on a campaign call that “people are tired of hearing Fauci and all these idiots” continue to talk about the coronavirus,"
-    publishedDateTime: 2020-10-19T19:13:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/opinion/trump-patient-zero-misinformation-we-don-t-have-cure-ncna1243879"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2020_42/3419431/201012-one-time-use-donald-trump-balcony-cs-156p_6979ef6045902df3c5ed19163dc27bc1.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Where did the Trump campaign's $1 billion go?"
     excerpt: "A GOP strategist said, \"You could literally have 10 monkeys with flamethrowers go after the money, and they wouldn't have burned through it as stupidly.\""

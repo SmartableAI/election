@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "In Berks County, Vice President Mike Pence makes his case for four more years"
+    excerpt: "He touted President Donald Trump and the administration's accomplishments: \"That's what leadership looks like.\""
+    publishedDateTime: 2020-10-17T20:30:00Z
+    webUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.html"
+    ampWebUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
+    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
+    type: article
+    provider:
+      name: Daily Local News
+      domain: dailylocal.com
+    quality: 72
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/3/ee/3eeb823e-71d6-507c-ad7b-048ace5ca669/5f8bb6dee2c0a.image.jpg?resize=1024%2C735"
+        width: 1024
+        height: 735
+        isCached: true
 
 secured: "pKH91p87a1WUWUjO+S8+xhraMqVSXeLRXdXiuRrMtkS0Rc5d+4REV0SqxPAd1jp2S+m4NPuYsWAGLKXbpfwh6B89NR8y2svTs8MPqSkOfrhW2jBETYcWm4vooBjvA9pMr1jsDWkaRNF4mm+HmMBbBta7LmQD4kvbAPdUFXGOyGxQ2r5073i8Kjx5IQBvfd5nDG2R46yDuVUNDrPRDvxgXMduleCRFmt9P2pD8+s5kyb+SRY3aduoEzLaxml4DSLDW2gsJwHaV+oMueTye87t+0b4Y9t0ZTe05AEhhcppkmc5E5Wr56HFIYtIsZ5xozFHQogSXDzno6KGiYHMcv6wrpwh/10DobasYyg+xg8VqKtlQAb/YFBRsWCQvppn6wsogSbsxXuhzOW4QUckVm7wniEz3Ia0Srp00woF81l5QxJvcQp0l289FiCJWXe41nz+Vbe+jzeDiJpTeuGc/Wn6un+E2Ximavm3QkujBFA+Es0aqETSl/bOvZUyrYaM+u0C13o3uvh3iqWxoPxp1aVFkQ==;wxfA7Dnfn8R7hrWfyYM0Zw=="
 ---

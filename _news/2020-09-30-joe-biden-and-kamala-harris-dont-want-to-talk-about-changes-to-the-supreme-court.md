@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/joe-biden-court-packing/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/joe-biden-court-packing/index.html"
 type: article
 quality: 195
-heat: 795
+heat: 735
 published: true
 
 provider:
@@ -93,38 +93,6 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225349-dana-bash-jake-tapper-split-09292020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking Biden and Trump at the first debate"
-    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden will face off in the first 2020 presidential debate Tuesday night live from Cleveland.\n    \n"
-    publishedDateTime: 2020-09-30T01:43:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0QmIwOIDx7k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/fact-check-biden-trump-first-presidential-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/fact-check-biden-trump-first-presidential-debate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929202421-06-debate-cleveland-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Hits and misses from the first Trump-Biden debate"
-    excerpt: "The first general election debate between President Donald Trump and former Vice President Joe Biden is (thankfully) over.\n    \n"
-    publishedDateTime: 2020-09-30T04:29:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7-4bTE44c4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/first-presidential-debate-hits-and-misses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/first-presidential-debate-hits-and-misses/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225858-trump-biden-debate-faces-split-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -221,20 +189,6 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-polling1/29debate-polling1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Donald Trump and Joe Biden Debate Law and Order"
-    excerpt: "In the presidential debate Joseph R. Biden Jr. and Donald J. Trump debated the concept of law and order after recent unrest gripped the nation."
-    publishedDateTime: 2020-09-30T02:53:00Z
-    webUrl: "https://www.nytimes.com/video/us/elections/100000007368637/trump-biden-law-and-order-debate-video-clip.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 140
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29vid-debate-trump-2/29vid-debate-trump-2-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
         isCached: true

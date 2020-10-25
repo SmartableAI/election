@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-21-former-republican-national-committee-chairman-michael-steele-endorses-joe-biden.md",
+      "title": "Former Republican National Committee Chairman Michael Steele endorses Joe Biden",
+      "excerpt": "I'm a lifelong Republican – and I'm still a Republican. But this ballot is how we restore the soul of our nation,\" said Michael Steele, who called Joe Biden \"a good man.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/michael-steele-former-rnc-chairman-endorses-joe-biden/?intcid=CNI-00-10aaa3b",
+      "originalUrl": "https://www.cbsnews.com/news/michael-steele-former-rnc-chairman-endorses-joe-biden/?intcid=CNI-00-10aaa3b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/20/8b2ae190-028b-48df-97ab-e57073925f6d/thumbnail/1200x630/e15f5b854e52d31c88c781a758089c07/gettyimages-824448112.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/michael-steele-former-rnc-chairman-endorses-joe-biden/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/michael-steele-former-rnc-chairman-endorses-joe-biden/",
+      "publishedDateTime": "2020-10-20T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-trump-targets-pennsylvania-women-but-will-do-so-without-wife-melania.md",
+      "title": "Trump targets Pennsylvania women, but will do so without wife Melania",
+      "excerpt": "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\"",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-20-rt-er-190618_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
+      "publishedDateTime": "2020-10-20T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-vice-president-mike-pence-headed-to-waterford-this-week.md",
       "title": "Vice President Mike Pence headed to Waterford this week",
       "excerpt": "The vice president is returning to Michigan less than a week after President Trump was in west Michigan for a rally.",
@@ -57,7 +161,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 413,
+      "heat": 393,
       "tags": null,
       "images": [
         {
@@ -688,7 +792,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1130,
+      "heat": 1070,
       "tags": null,
       "images": [
         {
@@ -887,7 +991,7 @@
       "originalUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1096,63 +1200,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-20-joe-biden-continues-to-pander-this-time-its-the-haitian-american-community.md",
-      "title": "Joe Biden Continues to Pander: This Time It’s the Haitian-American Community",
-      "excerpt": "Joe Biden’s recent eight minute and 46 second speech while visiting the Haitian American community showed that it was just another last-minute attempt at pandering for minority votes.For 47 years",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/madgienicolas/2020/10/19/joe-biden-continues-to-pander-this-time-its-the-haitianamerican-community-n2578393",
-      "originalUrl": "https://townhall.com/columnists/madgienicolas/2020/10/19/joe-biden-continues-to-pander-this-time-its-the-haitianamerican-community-n2578393",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/283/91f0f38e-111e-4e1d-9961-599707f44f8c.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/madgienicolas/2020/10/19/joe-biden-continues-to-pander-this-time-its-the-haitianamerican-community-n2578393?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/madgienicolas/2020/10/19/joe-biden-continues-to-pander-this-time-its-the-haitianamerican-community-n2578393?amp=true",
-      "publishedDateTime": "2020-10-19T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-why-vice-president-pence-was-in-northern-maine-on-monday.md",
       "title": "Why Vice President Pence was in northern Maine on Monday",
       "excerpt": "When you think of the battlegrounds that could decide whether President Trump or Democratic nominee Joe Biden wins next month’s general election, Maine often doesn’t come to mind.",
@@ -1263,49 +1310,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-see-what-mike-pences-rally-in-york-county-looks-like.md",
-      "title": "See what Mike Pence's rally in York County looks like",
-      "excerpt": "Vice President Mike Pence visited York County on the final day Pa. residents are eligible to vote in the 2020 Election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ydr.com/story/news/2020/10/19/mike-pence-rally-pa-election-2020-york-county/5982553002/",
-      "originalUrl": "https://www.ydr.com/story/news/2020/10/19/mike-pence-rally-pa-election-2020-york-county/5982553002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/06/07/PPYR/da6f4f53-0dec-4b1e-94a0-66b032fdc6f5-YDR-CC-6619-MikePence11.JPG?auto=webp&crop=3025,1693,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ydr.com/amp/5982553002",
-      "cdnAmpWebUrl": "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/5982553002",
-      "publishedDateTime": "2020-10-19T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YDR",
-        "domain": "ydr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says Trump is 'responsible' for getting coronavirus"
-    excerpt: "Democratic presidential nominee Joe Biden said Monday night that President Donald Trump is responsible for contracting coronavirus, faulting Trump for failing to wear masks and follow social distancing guidelines.\n    \n"
-    publishedDateTime: 2020-10-06T01:14:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/voxiN2B7-L4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/biden-trump-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/biden-trump-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005171024-02-joe-biden-florida-1005-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump calls for stimulus negotiations to stop until after Election Day"
     excerpt: "President Donald Trump has ordered his negotiators to halt talks over a new stimulus package, after the two sides have struggled for months to reach a deal.\n    \n"
     publishedDateTime: 2020-10-06T19:25:47Z
@@ -224,22 +208,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Personal assistant to Trump tests positive for coronavirus"
-    excerpt: "One of the White House aides who works closest to President Donald Trump has tested positive for coronavirus, a White House official confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-10-04T04:19:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kuMOFZOxngc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/nicholas-luna-body-man-trump-positive-test/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/nicholas-luna-body-man-trump-positive-test/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004001356-36-trump-covid-circle-nicholas-luna-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "More than 80 miles of border wall may be painted black after Trump push"
     excerpt: "The Trump administration is considering painting more than 80 miles of border wall black in Texas, according to US Customs and Border Protection officials, a move in line with President Donald Trump's push to paint barriers that could cost tens of millions of dollars extra.\n    \n"
     publishedDateTime: 2020-10-05T23:21:02Z
@@ -368,38 +336,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump shuns opportunity to change tack on coronavirus approach"
-    excerpt: "Contracting coronavirus a month before the election was not in President Donald Trump's political playbook.\n    \n"
-    publishedDateTime: 2020-10-13T22:03:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kp7iI3wWtjs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/trump-coronavirus-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/trump-coronavirus-election-2020/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's case of coronavirus changed the conversation"
-    excerpt: "Coronavirus remains the most prominent thing Americans have seen, read or heard about President Donald Trump, but the details and the tone of what they have heard about it have shifted following Trump's own case of the virus.\n    \n"
-    publishedDateTime: 2020-10-22T16:00:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TiAeHMonQQU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/the-breakthrough-trump-biden-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/the-breakthrough-trump-biden-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009173159-trump-white-house-balcony-1005-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Here are the Cabinet members and others around Trump who have been tested"
     excerpt: "President Donald Trump's positive coronavirus diagnosis has raised questions about the health of those around him, including members of his cabinet and his Vice President.\n    \n"
     publishedDateTime: 2020-10-02T15:20:01Z
@@ -429,22 +365,6 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004121732-20201004-sunday-morning-covid-positive-negative-cases-v2-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump trashes Fauci and makes baseless coronavirus claims in campaign call"
-    excerpt: "President Donald Trump claimed on a campaign call that people are tired of hearing about coronavirus, which has killed more than 215,000 Americans and trashed Dr. Anthony Fauci as a \"disaster\" who has been around for \"500 years.\"\n    \n"
-    publishedDateTime: 2020-10-19T17:41:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gp4tnopmF2I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/donald-trump-anthony-fauci-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/donald-trump-anthony-fauci-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011151047-02-fauci-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -512,22 +432,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "As coronavirus cases hit daily record, Trump tries to reframe race about oil "
-    excerpt: "As the US recorded the highest single day of new coronavirus cases since the pandemic began, President Donald Trump looked to distract from the virus' deadly toll by seizing on Joe Biden's comment in Thursday night's debate that America should shift its reliance on oil toward greater renewable energy"
-    publishedDateTime: 2020-10-24T13:06:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Ddn11sQZx8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/donald-trump-joe-biden-oil-fracking-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/donald-trump-joe-biden-oil-fracking-election-2020/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023191819-01-donald-trump-florida-1023-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump's diagnosis brings coronavirus back to the forefront of a caustic campaign "
     excerpt: "President Donald Trump for months has stubbornly tried to change the subject, hoping to make his bid for reelection focused on anything but coronavirus.\n    \n"
     publishedDateTime: 2020-10-03T15:26:59Z
@@ -589,22 +493,6 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007181137-trump-video-update-coronavirus-1007-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump coronavirus adviser Scott Atlas undermines importance of masks as cases spike"
-    excerpt: "White House coronavirus task force member Dr. Scott Atlas sought to undermine the importance of face masks on Saturday as coronavirus cases spike across the US.\n    \n"
-    publishedDateTime: 2020-10-18T13:05:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5-y9zniiB4E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/scott-atlas-face-masks-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/scott-atlas-face-masks-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170925081333-scott-atlas-headshot-new-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
@@ -896,22 +784,6 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "Biden Tested Negative. He Could Still Have the Coronavirus."
-    excerpt: "President Trump and the first lady have tested positive for the coronavirus. Now everyone who has been anywhere near them will need to be tested too, ideally multiple times. That includes Joe Biden. He tested negative today,"
-    publishedDateTime: 2020-10-02T22:22:00Z
-    webUrl: "https://www.nytimes.com/2020/10/02/opinion/trump-positive-coronavirus-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/02/opinion/trump-positive-coronavirus-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/opinion/trump-positive-coronavirus-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/03/opinion/02moyerNew/02moyerNew-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "For a tired nation, Trump's Covid-19 diagnosis provides a wake-up call"
     excerpt: "The president's coronavirus case is a turning point not seen since March. But politicization of the pandemic means it might not matter."
     publishedDateTime: 2020-10-03T08:43:00Z
@@ -992,22 +864,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden again tests negative for coronavirus"
-    excerpt: "Joe Biden on Sunday tested negative for Covid-19, the third time since Friday, his campaign said. The Democratic presidential nominee had also tested negative twice on Friday. He had shared a stage with President Donald Trump during the presidential debate on Tuesday in Cleveland,"
-    publishedDateTime: 2020-10-05T01:18:00Z
-    webUrl: "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/af/b6/f1d573e448078b263ca5a7a960af/webp.net-resizeimage.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Trump says he's leaving hospital Monday evening"
     excerpt: "\"Don’t be afraid of Covid,\" Trump added of the virus that has killed more than 211,000 Americans so far this year."
     publishedDateTime: 2020-10-05T18:55:00Z
@@ -1040,22 +896,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump Does Fear the Coronavirus"
-    excerpt: "Something momentous happened late last week, a brief pinprick of clarity piercing through the haze: Donald Trump finally showed Americans the truth about the coronavirus. Not with his words, of course."
-    publishedDateTime: 2020-10-07T10:14:00Z
-    webUrl: "https://www.nytimes.com/2020/10/07/opinion/trump-coronavirus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/07/opinion/trump-coronavirus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/opinion/trump-coronavirus.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/07/opinion/07manjooWeb/07manjooWeb-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Trump Objects to Commission’s Virtual Debate Plan"
     excerpt: "Trump matchup would be virtual, because of virus concerns, but the president called the plan “ridiculous.” President Trump, in an extraordinary break from the norms of modern campaigning, said on Thursday that he would refuse to participate in the next presidential debate after organizers changed the event to a virtual format because of health concerns about the coronavirus."
     publishedDateTime: 2020-10-08T14:16:00Z
@@ -1071,22 +911,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/07/business/07Debate-Virtual-HFO/merlin_177819840_2cddf9be-c374-4cd0-b52f-b1eb452e5f5c-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Trump says coronavirus cure is imminent"
-    excerpt: "President Donald Trump declared that an experimental coronavirus drug he was given last week is a cure for the deadly virus and promised that it and similar medicines would soon be available for free to all Americans."
-    publishedDateTime: 2020-10-07T23:42:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/trump-says-coronavirus-cure-is-imminent-427603"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/trump-says-coronavirus-cure-is-imminent-427603"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/trump-says-coronavirus-cure-is-imminent-427603"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/ca/7b/9d0e876b442bbcb79abf452b0c4c/20201007-donald-trump-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Trump says Gold Star families could have given him Covid-19"
     excerpt: "President Donald Trump suggested Thursday that he might have contracted Covid-19 from Gold Star family members who were too close to him when telling stories of their loved ones who died in the line of duty."
@@ -1248,22 +1072,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump surrogates deflected questions about the coronavirus and the debate."
-    excerpt: "As President Trump continued to trail by double digits in polls, several of his surrogates tried on Sunday to shift attention away from the details of his coronavirus infection and his administration’s handling of the pandemic."
-    publishedDateTime: 2020-10-12T04:17:00Z
-    webUrl: "https://www.nytimes.com/2020/10/11/us/elections/trump-surrogates-deflected-questions-about-the-coronavirus-and-the-debate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/11/us/elections/trump-surrogates-deflected-questions-about-the-coronavirus-and-the-debate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/11/us/elections/trump-surrogates-deflected-questions-about-the-coronavirus-and-the-debate.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/11/multimedia/11elections-briefingMcDaniel/11elections-briefingMcDaniel-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Chris Christie, who helped Trump prep for debate, tests positive for coronavirus"
     excerpt: "Trump started remdesivir therapy, which is an experimental antiviral, and completed a first dose. Trump's coronavirus diagnosis has thrown his campaign into confusion with a little more than four weeks before the Nov."
     publishedDateTime: 2020-10-04T02:14:00Z
@@ -1341,22 +1149,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3419326/201012-trump-campaign-mc-1310_9b5e6eee9246dce37e30ba25345bd50e.JPG"
         width: 2500
         height: 1651
-        isCached: true
-  - title: "Three-quarters of Latino voters disapprove of Trump's coronavirus response in poll"
-    excerpt: "\"After seven weeks of tracking Latino sentiments leading up to the election, it is difficult to overstate the impact that COVID-19 has had on the Latino electorate,\" writes pollster Stephen Nuño-Perez."
-    publishedDateTime: 2020-10-22T12:48:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/three-quarters-latino-voters-disapprove-trump-s-coronavirus-response-poll-n1244072"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244072"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244072"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418083/201006-donald-trump-face-mask-ac-959p_1b3321239400e6b3c742ea617772ba65.jpg"
-        width: 2500
-        height: 1619
         isCached: true
   - title: "On Monday, Trump Updated the Nation on Virus Strategy. By Friday, He Tested Positive"
     excerpt: "President Trump has interacted with scores of staff, donors and supporters this week. Early Friday morning, it was still unclear how many other aides who had come into close contact with him had tested positive."
@@ -1493,34 +1285,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/3b88a5dc-37a9-4a23-9edc-0b1426d65fb7/42a236c9-0bf5-4bbc-896d-e4b37456e9a3/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "It's not just Trump: US coronavirus cases on the rise again"
-    excerpt: "Trump's ailment can help serve as a reminder that that the coronavirus crisis is far from over, and in many parts of the country, it's getting worse."
-    publishedDateTime: 2020-10-05T23:09:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/it-s-not-just-trump-us-coronavirus-cases-rise-again-ncna1242127"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2020_29/3397725/200716-texas-coronavirus-hospital-patient-ac-1104p_63ee9b40283d55febda82a463df640f2.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump puts a dangerous new spin on his coronavirus infection"
-    excerpt: "After Donald Trump acknowledged that he'd tested positive for the coronavirus, a political strategy slowly took shape in Republican circles. Sen. Lindsey Graham (R-S.C.), for example, made the case that the president could emerge from the crisis \"humbled,"
-    publishedDateTime: 2020-10-06T14:42:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-puts-dangerous-new-spin-his-coronavirus-infection-ncna1242246"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2020_41/3417708/201005-donald-trump-takes-off-mask-ew-736p_143124c09202f4a5ae26e07116994909.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Trump announces he's giving up on economic aid negotiations"
     excerpt: "Americans should stop worrying about a deadly pandemic and be satisfied with high unemployment and a weak economy."
