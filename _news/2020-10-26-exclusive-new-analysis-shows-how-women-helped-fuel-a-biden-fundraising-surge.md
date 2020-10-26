@@ -8,6 +8,9 @@ webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84HhvIq0irw/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/women-donors-biden-fundraising/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/women-donors-biden-fundraising/index.html"
 type: article
+quality: 172
+heat: 172
+published: true
 
 provider:
   name: CNN

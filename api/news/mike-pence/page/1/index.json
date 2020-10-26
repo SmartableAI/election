@@ -2,6 +2,120 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-26-pence-skips-public-health-recommended-self-quarantine-but-does-change-plans-after-staff-outbreak.md",
+      "title": "Pence skips public health recommended self-quarantine but does change plans after staff outbreak",
+      "excerpt": "Vice President Mike Pence, despite flouting public health guidelines by still campaigning after being exposed to people testing positive with coronavirus, is taking some precautions on the road.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G-ClNsokWxo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G-ClNsokWxo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201025103438-03-mike-pence-october-campaigning-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/26/politics/mike-pence-coronavirus-precautions/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/mike-pence-coronavirus-precautions/index.html",
+      "publishedDateTime": "2020-10-26T12:24:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.md",
+      "title": "Pence campaigns with 'medically informed' approach to events after staffers test positive for COVID-19",
+      "excerpt": "Vice President Pence has returned to the campaign trail after key staffers tested positive for the novel coronavirus, however his team is taking a “thoughtful” and “medically-informed” approach to his travel this week in the final stretch until Election Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MgfSKow3O8Y/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MgfSKow3O8Y/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.amp",
+      "publishedDateTime": "2020-10-26T11:50:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-pence-tests-negative-for-coronavirus-again-as-democrats-push-him-to-skip-barrett-vote.md",
       "title": "Pence tests negative for coronavirus again as Democrats push him to skip Barrett vote",
       "excerpt": "Senate Democrats are telling Vice President Mike Pence to stay away from Judge Amy Coney Barrett's confirmation vote on Capitol Hill after five people in Pence's orbit tested positive for coronavirus last week, although the vice president tested negative again on Monday.",
@@ -67,7 +181,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -84,6 +198,58 @@
       "ampWebUrl": "https://amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
       "publishedDateTime": "2020-10-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-mike-pence-running-and-typhoon-molave-mondays-best-photos.md",
+      "title": "Mike Pence running and Typhoon Molave – Monday's best photos",
+      "excerpt": "The Guardian’s picture editors select photo highlights from around the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos?ref=hvper.com",
+      "originalUrl": "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/27fe2d7b425f2cbeafb45ca28589c0356b43e2cc/0_132_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=059e8b43da7aa82fd9c5d7d3585cc117",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T06:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -335,7 +501,7 @@
       "originalUrl": "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 242,
+      "heat": 262,
       "tags": null,
       "images": [
         {
@@ -439,7 +605,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -609,7 +775,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1718,
+      "heat": 1738,
       "tags": null,
       "images": [
         {
@@ -831,49 +997,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-23-vp-mike-pence-returns-to-minnesota-monday.md",
-      "title": "VP Mike Pence returns to Minnesota Monday",
-      "excerpt": "Vice President Mike Pence will lead a rally on Minnesota's Iron Range Monday, as Republicans continue in their quest to capture key states in the Midwest. The Trump campaign announced that Pence will touch down in Hibbing at 1 p.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kare11.com/article/news/politics/vp-mike-pence-returns-to-minnesota-monday/89-63b7402a-be4f-48f7-8ff3-cfc17cf315da",
-      "originalUrl": "https://www.kare11.com/article/news/politics/vp-mike-pence-returns-to-minnesota-monday/89-63b7402a-be4f-48f7-8ff3-cfc17cf315da",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kare11.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kare11.com/amp/article/news/politics/vp-mike-pence-returns-to-minnesota-monday/89-63b7402a-be4f-48f7-8ff3-cfc17cf315da",
-      "cdnAmpWebUrl": "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/politics/vp-mike-pence-returns-to-minnesota-monday/89-63b7402a-be4f-48f7-8ff3-cfc17cf315da",
-      "publishedDateTime": "2020-10-23T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KARE 11",
-        "domain": "kare11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-23-election-2020-live-updates-after-a-more-civil-final-debate-trump-and-pence-head-to-battleground-states-biden-to-talk-covid.md",
       "title": "Election 2020 live updates: After a more civil final debate, Trump and Pence head to battleground states, Biden to talk COVID",
       "excerpt": "The final presidential debate between Joe Biden and Donald Trump was more civil Thursday. Now the two camps hit the campaign trail in final 11 days.",
@@ -882,7 +1005,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/23/election-2020-updates-trump-pence-head-battlegrounds-after-debate/3679810001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2893,
+      "heat": 2953,
       "tags": null,
       "images": [
         {
@@ -1220,7 +1343,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 473,
+      "heat": 493,
       "tags": null,
       "images": [
         {
@@ -1405,106 +1528,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-mike-pence-to-return-to-indy-to-vote-early.md",
-      "title": "Mike Pence to return to Indy to vote early",
-      "excerpt": "After canceling an earlier trip, Vice President Mike Pence will come back to Indianapolis to vote early. That's according to his communications director, Katie Mills. Mills released Pence's travel schedule this week on Twitter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wthr.com/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7",
-      "originalUrl": "https://www.wthr.com/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.tegna-media.com/assets/WTHR/images/d211e1dc-bb5e-468d-9207-9ec5e8a88223/d211e1dc-bb5e-468d-9207-9ec5e8a88223_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wthr.com/amp/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7",
-      "cdnAmpWebUrl": "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7",
-      "publishedDateTime": "2020-10-19T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTHR",
-        "domain": "wthr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sacha-baron-cohen-explains-how-he-crashed-pence-speech-dressed-as-trump.md",
-      "title": "Sacha Baron Cohen explains how he crashed Pence speech dressed as Trump",
-      "excerpt": "The actor talked to the New York Times about donning a prosthetic face and body and showing up at Vice President's Mike Pence speech at a Conservative Political Action Conference last February. \"Obviously, I'm wearing a fat suit,\" Cohen told the publication.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "originalUrl": "https://www.cnn.com/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201019083432-sacha-baron-cohen-brother-grimsby-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "publishedDateTime": "2020-10-19T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

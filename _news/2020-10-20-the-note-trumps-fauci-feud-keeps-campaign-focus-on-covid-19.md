@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 114
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/7385b54a-975b-40ee-bde4-adc23355f2c7-AFP_AFP_8RY3ZW.jpg?auto=webp&crop=4480,2520,x226,y95&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Downplays Pandemic Threat In Pennsylvania Rally, Pointing To His Recovery From Covid-19"
+    excerpt: "Pennsylvania is a crucial state for the president: polling experts say Trump will have an almost impossible path to reelection without victory in the state. Surpri"
+    publishedDateTime: 2020-10-26T18:52:00Z
+    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/26/trump-downplays-pandemic-threat-in-pennsylvania-rally-pointing-to-his-recovery-from-covid-19/"
+    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/26/trump-downplays-pandemic-threat-in-pennsylvania-rally-pointing-to-his-recovery-from-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/26/trump-downplays-pandemic-threat-in-pennsylvania-rally-pointing-to-his-recovery-from-covid-19/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 114
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f970c061245dce9c958e810%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3500%26cropY1%3D0%26cropY2%3D1969"
         width: 1200
         height: 675
         isCached: true

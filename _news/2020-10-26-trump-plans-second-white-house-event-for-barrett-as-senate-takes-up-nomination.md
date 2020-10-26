@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B143"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B143"
 type: article
 quality: 121
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538471929&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L17U"
         width: 810
         height: 521
+        isCached: true
+  - title: "Trump will host another White House gathering for Amy Coney Barrett even though the 1st one became a COVID-19 superspreader event"
+    excerpt: "White House chief of staff Mark Meadows said the event will be held outdoors and that the White House would urge people to maintain social distance."
+    publishedDateTime: 2020-10-26T16:39:00Z
+    webUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f96d54b4743a3001216b920?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "GH8GjrCc0pX3UHEtVtagr4joDS/Vz8U1vEqu8rIfdOnOFX4OvRzISxvUhcPLJF+GBn0q3yiahCUCsp2UccSLeBcquxt+3pZFTbmqF6YvgvTGsdySRgJv6EHxxPnT/L/S2wH08kyQltSscKQcJvN3UI72FOAvWTG8obveh8OGlA1xBiToT2LxbvLXC2tEd5BqNie97NixzLFqKrdSO9px3xyy0ekumlvOCh/kZruzCAvLHfBJdadThM9Llgj00YKbf+E8K92HWFkEYnDbAKIcWS9rGm8siQ4oTp57mQedFHMj/QVrhg1eveNdYj5x+ztdBIsnDM4353vDAcbevl2XEsHxd7J1mCfQqYllQOq5ja0=;xA0uUmuK+9fZmw4mK0DBLg=="

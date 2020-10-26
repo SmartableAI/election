@@ -359,6 +359,20 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Meadows defends against Biden virus criticism"
+    excerpt: "White House chief of staff Mark Meadows is taking issue with Democratic presidential nominee Joe Biden’s criticism that the Trump administration has given up on trying to control the coronavirus pandemic."
+    publishedDateTime: 2020-10-26T15:44:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/26/meadows-defends-against-biden-virus-criticism/6041105002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3325e1ea-38e7-4d73-af6f-2b6126f62cb1_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "CAL THOMAS: Can Joe Biden be trusted?"
     excerpt: "It was President Richard Nixon who said in the midst of the enveloping Watergate scandal: “People have got to know whether or not their president is a crook. Well, I’m"
     publishedDateTime: 2020-10-21T06:00:00Z

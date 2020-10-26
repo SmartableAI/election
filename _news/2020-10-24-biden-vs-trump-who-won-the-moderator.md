@@ -560,6 +560,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump continues to falsely claim that spike in coronavirus cases is due to heightened testing "
+    excerpt: "President Donald Trump has claimed over and over in the past week -- at campaign rallies, on Twitter and in an interview with \"60 Minutes\" -- that the US is only seeing so many coronavirus cases because the country is doing so much testing.\n    \n"
+    publishedDateTime: 2020-10-26T18:03:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/udd-TzG6aaQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/fact-check-testing-cases-october/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/fact-check-testing-cases-october/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026051259-01-donald-trump-new-hampshire-1025-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "2020 Election Live Updates: Trump to Travel to 3 States as Biden Focuses on Pennsylvania"
     excerpt: "President Trump and Joe Biden prepare for their closing arguments in the final stretch, taking them to some of the country’s top battlegrounds. An order allowing multiple drop boxes per county in Texas is upheld."
     publishedDateTime: 2020-10-24T14:46:00Z

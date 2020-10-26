@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-backers-have-looming-sense-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451a825a-4bce-48ca-ae30-4802571fc1db/63d6daa7-1718-4ae9-9181-044df4ee0013/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Florida man stole bulldozer, ran down Biden signs"
+    excerpt: "A 26-year-old man has been accused of stealing a bulldozer from a Florida construction site, driving it into a neighborhood and knocking down campaign signs for Democratic presidential nominee Joe Biden, according to authorities and homeowners."
+    publishedDateTime: 2020-10-26T18:03:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5liMovvhVCM/florida-man-stole-bulldozer-ran-down-biden-signs"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-man-stole-bulldozer-ran-down-biden-signs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-man-stole-bulldozer-ran-down-biden-signs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f04fe45e-87a1-475d-a66b-295fbe3e130c/c7912994-fd52-4144-aeca-86b794a1b61b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

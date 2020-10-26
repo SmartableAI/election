@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-william-barr-act-hunter-biden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp"
 type: article
 quality: 180
-heat: 240
+heat: 220
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden slams Trump as he distances himself from progressives: 'He thinks he's running against somebody else'"
-    excerpt: "The heated exchange occurred after Biden was asked to address Americans who are concerned about a shift toward socialized medicine."
-    publishedDateTime: 2020-10-23T02:56:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uuD2zqAfQow/biden-slams-trump-health-care-progressives"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-slams-trump-health-care-progressives.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slams-trump-health-care-progressives.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e21bc17-5c77-4fd8-8ff7-78461bebe7f4/80e892b7-3477-42a9-aed0-ebaeadcafe7a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Ex-Hunter Biden associate's records don't show proof of Biden business relationship amid unanswered questions"
     excerpt: "Hunter Biden's former business partner Tony Bobulinski claimed this week that former Vice President Joe Biden was allegedly involved in discussions about his son's business dealings, something the Democratic presidential nominee has repeatedly denied."
     publishedDateTime: 2020-10-23T17:44:44Z

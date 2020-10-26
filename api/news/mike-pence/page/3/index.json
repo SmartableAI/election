@@ -2,6 +2,120 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-09-halloween-store-selling-debate-fly-wig-inspired-by-bug-on-mike-pences-head-at-vp-debate.md",
+      "title": "Halloween store selling 'Debate Fly Wig' inspired by bug on Mike Pence's head at VP debate",
+      "excerpt": "Just in time for Halloween, an online shop is selling a bug-bedecked white wig inspired by the now-viral fly that landed in Vice President Mike Pence’s hair during the vice presidential debate on Wednesday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate",
+      "originalUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/3-wishes-fly-wig-.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate.amp",
+      "publishedDateTime": "2020-10-09T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-what-makes-mike-pences-complicity-so-chilling.md",
+      "title": "What Makes Mike Pence’s Complicity So Chilling",
+      "excerpt": "Somewhere under the cornfields and backyard hoop courts of Indiana is a small black box holding the conscience of Vice President Mike Pence. He buried it four years ago, when a tape emerged of Donald Trump boasting about sexually assaulting women.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/09/opinion/mike-pence-debate.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/09/opinion/mike-pence-debate.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/09/opinion/09Egan/09Egan-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/09/opinion/mike-pence-debate.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/opinion/mike-pence-debate.amp.html",
+      "publishedDateTime": "2020-10-09T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-vice-president-mike-pence-postpones-friday-appearance-to-vote-in-indianapolis.md",
       "title": "Vice President Mike Pence postpones Friday appearance to vote in Indianapolis",
       "excerpt": "Vice President Mike Pence cancels a Friday appearance in Indianapolis to vote early. His office says the trip to cast his ballot will be rescheduled.",
@@ -448,7 +562,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 4448,
+      "heat": 4468,
       "tags": null,
       "images": [
         {
@@ -1533,120 +1647,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-pence-to-maintain-aggressive-schedule-as-trump-remains-in-hospital-campaign-adviser-says.md",
-      "title": "Pence to maintain 'aggressive schedule' as Trump remains in hospital, campaign adviser says",
-      "excerpt": "A senior Trump campaign adviser said on Sunday that Vice President Mike Pence will maintain “a very full aggressive schedule” while the president is being treated in the hospital for COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQeLpeCdLwo/pence-maintain-aggressive-campaign-schedule-trump-hospital",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQeLpeCdLwo/pence-maintain-aggressive-campaign-schedule-trump-hospital",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 330,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275781881586.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp",
-      "publishedDateTime": "2020-10-04T13:15:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-vp-pence-and-second-lady-test-negative-for-covid-twice-in-three-days.md",
-      "title": "VP Pence and second lady test negative for COVID, twice in three days",
-      "excerpt": "Vice President Mike Pence and his wife, Karen, have against tested negative again for COVID-19 just days after President Trump and the first lady were diagnosed with the virus, White House officials confirmed to Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rXdgDG2TZEI/vp-pence-second-lady-negative-covid-again",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rXdgDG2TZEI/vp-pence-second-lady-negative-covid-again",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275782019817.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vp-pence-second-lady-negative-covid-again.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-pence-second-lady-negative-covid-again.amp",
-      "publishedDateTime": "2020-10-04T10:52:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Mike Pence"
       ]
     }

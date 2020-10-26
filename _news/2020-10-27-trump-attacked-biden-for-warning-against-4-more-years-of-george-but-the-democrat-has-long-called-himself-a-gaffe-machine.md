@@ -8,6 +8,9 @@ webUrl: "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush
 ampWebUrl: "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp"
 type: article
+quality: 123
+heat: 163
+published: true
 
 provider:
   name: Business Insider
@@ -20,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://i.insider.com/5f96ad79f21803001222bdca?width=1200&format=jpeg"
@@ -27,6 +31,40 @@ images:
     height: 600
     isCached: true
 
-secured: "IJQYkuzBXf76zU51gjEjxtjaoSUywgneQdcT+Eqg6iVEM1U18C7vlQQ6ci3hL71UsTSTM0NHV+y0bz5gns/qcufBa/tLql0CJhZw7NkTYppij0xcch0dUJqpebcj10WsG5hTOR4BBZzzCI3QXuP6ZiRZMQ/jR9kob5ipz0tgfOzQOsyyDK5rPw6oU9Rba7snLPD04D2IVvyNmFV+hNEzIkWbffd4e1oXF0JvIRJw3ORCDmp/BUVoydBIYZmaT+jG/Vo24t//5+BuHGYYXESc9VxtwIUt1lbuhjEkbxrxuo6UDOb8zccPSldu/RXrUsWWbTr9v1toS5/pan5mqXlsMnqIPBXQXe0gCqc5DuvVISY=;Zi30FWgVvSdV+lIjoVCsXQ=="
+related:
+  - title: "Trump's campaign is despondent as he keeps reusing strategies which worked against Hillary Clinton but aren't landing on Joe Biden, reports say"
+    excerpt: "The New York Times and The Associated Press reported that Trump's team worry that he has failed to adapt his strategy to his opponent."
+    publishedDateTime: 2020-10-19T10:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f8d4e0bc21cfb0019468ac4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Putin rejects Donald Trump's criticism of Biden family business, saying he sees nothing 'criminal' with Hunter Biden in Ukraine"
+    excerpt: "Putin was responding to comments made by President Trump during televised debates with Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-26T02:27:00Z
+    webUrl: "https://www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f962fd84743a3001216b879?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "9BKNgBtMHxByQIpUiULM7oSPXxipHI0cmSg2GPP0itDaxOja/LS5RHZ2tz+2dlgUy36D6QCKUZUnG8Y9ozXFK6uNQgAj3c79apMCuwj8pY4IuYxbA8c+AxxFYUwtYQRdTNCo5/lV0mTdyfDWjF/1Eu2Hcj7HK0ujXNR1/LlUTi/+JW57804z0RY4rw8Is+gqoirivMHQrvVnls45zru2/3XIKeYP0ouGzF2I83heN+zJCgGVCDhxlcWXnOANjrBtc0jOahDgS6IHxRMxw8Yqr2Wt8Mayb0lkn8ht++kKwmtdYqpIb+wTIQiYIkV1gsPO2SzX8QvDMWHeZ+Q2AWbr4QDoMwSady9PTG/YeE9YntUXJmeXXS92dEoKxUNcD97dPEhCpprhTDE3AlAKqUojizOo89lt0Bw4vnPNkIW5rEl3gIwFTnqPUhRytR2MyIdm4TaKU8EUdNjaoEpphasCHlqKHIUPCrd8oyKCgUJeB06AbaXTYhGFHm7KOxloMfW/ZCu2R/bgmDaS42p+0AtJdQ==;XHW9f0IicazhWXqN5Q18Tw=="
 ---
 

@@ -111,6 +111,22 @@ related:
         width: 4000
         height: 2938
         isCached: true
+  - title: "As Mike Pence speaks in Tallahassee, reports reveal 2 top aides tested positive for COVID-19"
+    excerpt: "WASHINGTON – Vice President Mike Pence was in the middle of his second campaign rally in Florida at Tallahassee International Airport Saturday when Bloomberg reported that one of his closest advisers had tested positive for the novel coronavirus earlier ..."
+    publishedDateTime: 2020-10-26T13:37:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/24/covid-vice-president-mike-pence-marty-obst/6029640002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/6029640002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/6029640002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/PTAL/057a072d-a817-4e5e-8e7d-945716bff373-Trump_supporters032.JPG?auto=webp&crop=5417,3048,x0,y189&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Several People in Vice President Mike Pence’s World Now Have Covid-19"
     excerpt: "At least five people in Vice President Mike Pence’s inner circle have tested positive for the coronavirus, according to a report from CNN. That tally includes some of his closest advisors, including his chief of staff Marc Short and an advisor named Marty Orbst."
     publishedDateTime: 2020-10-25T15:25:00Z
@@ -126,6 +142,6 @@ related:
         height: 630
         isCached: true
 
-secured: "BNDVL0huEUJpijIyqJhM1IPafHJdwMc3T3NnjSy3/JZg9nwOH7++zi7d3Dou3XOhKH2udVi8nK4R37qvYPWggkichZPHH2jrEsxeAohRgmM2i8DY4X5iTiG7UV8KE2y6AjFwOc8YM3PeVdwFWr1bPJOTHY/7fuZrHp9wOXz6vUzroubv+ujPc7hxDLJL+ZiIRkKFrhGKb4AoE3Pm4sjurRdGqTBDc/H9HNqvJTrliCzefj1FkAA5pTaA7RAxaX5bcxPKbruU+I2ILq0NCzLRJB1o3ocTqevW669D2PP/SAgrf37qGGL5EcKPI0qTvZz999IeSk+lrvtks0x+MY2PCdavAe4UQGeWIy3kaQm2XAo=;nWKU1dM5IyZDwZFkUF8E9A=="
+secured: "ZCd6q9UIBlc9TsdQloN5azExrdOrc3N2mRkrP1ggWLKexTsMDunp3ZtsQgcWb2ssjSdREOzMbjaZF/nk8wldJaFI5YfC8Ku1ua/+p7vLV9FDYMOJWQC+qVsybv9VvocqaS7NKQNoAr0T3phkAgRSS3SvMfa3U6voaq24/T31Euonw7Uyw6yvxJAtzRnJvG5B5z7Om/IHQIv26bd8umQN3Xzk8m1bWPDF8WCFr4LTzrXOGM8Xql7ZwoxsAvlOZeq9EX94hWBxFfoEHvEPdQ3oHvWZebOTpt/MAEZFujm5txj4Scsw2HHW8r7gEh/+J6vKK2YKKl2MnfWXMSsKLO+Csxi9oTa7jbE7dXyjJekcaD1H/kw/4VTl9wyWYx11dRv+im3ycqlU73i75pwz0ACWaIUwibln5c3Iu4AgFOT38xf2iupX6TAQhlf9KqlmymlH8/loqp0qBVs6zt2QOKBFhqIMWeGj6muswYOwRWry/NnLRWtvYKgRnzrmTKoFgTDcR/5Wa2vxQyQqHflhyCIxRA==;gO/ny/8pL4XuufGrZCvZmQ=="
 ---
 

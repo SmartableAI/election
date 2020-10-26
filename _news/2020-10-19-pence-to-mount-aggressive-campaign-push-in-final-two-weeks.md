@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressi
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20201019&Category=NEWS&ArtNo=201019599&Ref=AR"
         width: 2000
         height: 1694
+        isCached: true
+  - title: "Vice President Mike Pence schedules campaign rally in Flint Wednesday"
+    excerpt: "Vice President Mike Pence is coming back to Michigan Wednesday with only six days left until the Nov. 3 presidential election. The Trump campaign announced Pence will hold a campaign rally at Bishop International Airport in Flint on Oct."
+    publishedDateTime: 2020-10-26T17:26:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2AUJ4FPUWVA7PJPYE6YQN23GGQ.JPG"
+        width: 1300
+        height: 867
         isCached: true
   - title: "Vice President Mike Pence To Campaign In Oakland County Thursday"
     excerpt: "(CBS DETROIT) – Vice President Mike Pence is returning to Michigan Thursday for a campaign rally. The visit comes less than two weeks before Election Day and before the second presidential ..."

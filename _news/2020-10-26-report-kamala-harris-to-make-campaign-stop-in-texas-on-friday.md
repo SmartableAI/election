@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Report: Kamala Harris to make campaign stop in Texas on Friday"
-excerpt: "U.S. Sen. Kamala Harris, Democratic presidential candidate Joe Biden’s running mate, will head to Texas on Friday as recent polls show the former"
+excerpt: "U.S. Sen. Kamala Harris, Democratic presidential candidate Joe Biden’s running mate, will head to Texas on Friday, the Texas Tribune reported Sunday."
 publishedDateTime: 2020-10-25T19:24:00Z
-originalUrl: "https://www.statesman.com/news/20201025/kamala-harris-to-make-campaign-stop-in-texas-on-friday"
-webUrl: "https://www.statesman.com/news/20201025/kamala-harris-to-make-campaign-stop-in-texas-on-friday"
-ampWebUrl: "https://www.statesman.com/news/20201025/kamala-harris-to-make-campaign-stop-in-texas-on-friday?template=ampart"
-cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201025/kamala-harris-to-make-campaign-stop-in-texas-on-friday?template=ampart"
+originalUrl: "https://www.statesman.com/news/20201025/report-kamala-harris-to-make-campaign-stop-in-texas-on-friday"
+webUrl: "https://www.statesman.com/news/20201025/report-kamala-harris-to-make-campaign-stop-in-texas-on-friday"
+ampWebUrl: "https://www.statesman.com/news/20201025/report-kamala-harris-to-make-campaign-stop-in-texas-on-friday?template=ampart"
+cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201025/report-kamala-harris-to-make-campaign-stop-in-texas-on-friday?template=ampart"
 type: article
 quality: 75
 heat: -1
@@ -184,6 +184,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Man accused of stealing bulldozer to tear down Biden signs in Florida"
+    excerpt: "A man is facing charges of grand theft and trespassing after police say he stole a bulldozer from a construction site and drove around Haines City, Fla., destroying signs supporting former Vice President Joe Biden's (D) campaign."
+    publishedDateTime: 2020-10-26T16:50:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/522761-man-accused-of-stealing-bulldozer-to-tear-down-biden-signs-in-florida"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/522761-man-accused-of-stealing-bulldozer-to-tear-down-biden-signs-in-florida?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/522761-man-accused-of-stealing-bulldozer-to-tear-down-biden-signs-in-florida?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/biden_supporters_100120bc2_lead.jpg"
         width: 980
         height: 551
         isCached: true
@@ -1040,6 +1056,22 @@ related:
         width: 1680
         height: 876
         isCached: true
+  - title: "Alumni pressure Davidson to respond to NC congressman’s Twitter swipe at Kamala Harris | Charlotte Observer"
+    excerpt: "Some alumni want Davidson College to directly rebuke U.S. Rep. Greg Murphy, after his comment on U.S. Sen. Kamala Harris’ race and qualifications to be vice president. During the vice presidential debate Oct."
+    publishedDateTime: 2020-10-26T16:41:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article246577078.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article246577078.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article246577078.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 57
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/f9e938a4-2752-463b-b368-25aadb8292fb/d1549a08-6096-4106-a8ed-09b38529d259/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
     excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
     publishedDateTime: 2020-10-16T13:52:00Z
@@ -1382,6 +1414,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "k+0kNxgN7gEYMhUIXJsKZTtLaeB3HXQJm4T3wYvKk8WSPH6gCHMT9hMi0pUJZqkIUkFTlNYfAL20QFnJfhUsEKY4/+H5Es7s9a9g08IXiowlaB+PVMSt9/4SBA0V3qEBaI2JABvEgc6OpL0ECikrQulfbo3TEEuGN5lxH3AMn0Stz8OAcYLMKTf9YJQUGXMB9e4axWjlQy769JHZYXPfhW63TrEjF8S7rfcYl0Bc4k1vhAkb14vY6dNZ7uZ/0cni97W08FxUGM1JJHRbz5JcfQsYojr5d/A+fengo3QsGGOjSn+lKz8P8tRTuKWTFDD2hzlnyWf++azOPq1serAi+G0M7AwdPPlCJ59rVGEPrG5kirttK13r2xFdCF/gx/0XAGQqf+Ha5n8RdbHdO/WXfV7oqxxMPgoyrpqJYXLy3Cakn+NjpOZlU9aCXIVlgmrSGWJEclblOE6LHoi0LW/H/zSvPSYMeerCaHPAkwPYlodrReTa9KwTyba5wCNOF9RxGfJMcBtAMil64DY8xxtYfw==;NDr6lmYCEyMrFcskOgEp8g=="
+secured: "mxEYE+8tOcQXOofhmeI6WZLJ84HL7pMfZ7hPQAV9SGV6YPZlRWYm6GImtjIT/GKqyaRDjkUC3Mwu0PZCYErNJ0axxu88jHtdE1tiB0JpU9PlKiOdNcPJC+W+TAdkLpneeyeX33pie41+ezDQ5o2jnpbABb6yHBv5RcfoIGtfEFPioUtbmCllbpfzV9fZJwflVgEPEARuTO9bYpbIakGYalihY/7GOn6ZpAjMDtXsIhfcPCLN73Y0rNqkI2miCDEGhHlmFTq5jl7aLBngjkwt6SUB9aYmcdh0ebsh5MGWvArVa7fYEEqnjKKoTWelWnpFzyQVDB3AD/IFmSRB98F0A5b+ZGnZkjMBmYlBTBDxYao=;2l/dHcuf3oClcxcdErSyiQ=="
 ---
 

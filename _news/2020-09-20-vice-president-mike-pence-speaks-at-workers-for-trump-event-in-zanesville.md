@@ -4722,6 +4722,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Biden Bolsters Lead Over Trump Among Young Voters"
+    excerpt: "Since securing the Democratic nomination, Biden has not only coalesced support among young voters, he has become more popular with them."
+    publishedDateTime: 2020-10-26T17:34:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "WATCH: Trump Campaign Brags About Crowd of Fans Outside Biden Wisconsin Event — But There Were More Biden Backers"
     excerpt: "Trump's campaign posted video bragging about the crowd of supporters outside Joe Biden's Wisconsin event, but local news footage shows there were even more Biden supporters there."
     publishedDateTime: 2020-09-22T23:57:00Z

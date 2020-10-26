@@ -8,6 +8,9 @@ webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rvkk-01jc-Y/jared-kushn
 ampWebUrl: "https://www.foxnews.com/politics/jared-kushner-trump-israel-peace-deals.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jared-kushner-trump-israel-peace-deals.amp"
 type: article
+quality: 168
+heat: 168
+published: true
 
 provider:
   name: Fox News

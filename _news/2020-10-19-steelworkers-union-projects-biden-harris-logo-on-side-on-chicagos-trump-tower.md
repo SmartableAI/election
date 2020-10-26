@@ -96,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris to campaign in Texas as race between Trump, Biden tightens"
+    excerpt: "Democratic vice presidential nominee Kamala Harris is set to campaign in Texas this week as the battle between Joe Biden and incumbent President Trump for the Lone Star State tightens. "
+    publishedDateTime: 2020-10-26T19:11:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0C64N2ndZtc/kamala-harris-texas-campaign-visit-trump-biden-polling"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-texas-campaign-visit-trump-biden-polling.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-texas-campaign-visit-trump-biden-polling.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 214
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b3af0c2-f9cc-4b3b-bd9d-93c61693c087/996df19e-559f-4b9a-b1e1-f09714f72a86/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Host of Pence-Harris VP debate says they still plan on holding event"
     excerpt: "The vice presidential debate between Mike Pence and Sen. Kamala Harris is still going on as planned on Wednesday, despite President Trump’s positive Covid-19 test, a debate host spokesperson told Fox News. "
     publishedDateTime: 2020-10-02T19:12:39Z

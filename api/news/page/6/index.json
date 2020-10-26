@@ -2,6 +2,287 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-22-jennifer-lawrence-says-trump-altered-her-political-views-theres-been-a-line-drawn-in-the-sand.md",
+      "title": "Jennifer Lawrence says Trump altered her political views: ‘There’s been a line drawn in the sand’",
+      "excerpt": "Jennifer Lawrence said despite the fact she grew up in a Republican household, because of Trump, she has become more open-minded about politics \"based on the things I learned.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
+      "originalUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jennifer-Lawrence-reupload_AP.png?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
+      "publishedDateTime": "2020-10-21T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report.md",
+      "title": "Trump envoy Richard Grenell met with Venezuelan politician in bid to oust Maduro: report",
+      "excerpt": "Richard Grenell, the Trump administration's special envoy for Serbia and Kosovo Peace Negotiations, reportedly tried in September to negotiate with a Venezuelan politician close to the country's strongman president, Nicolas Maduro, in order to obtain the controversial leader's peaceful exit from office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2O_DUTKVGX8/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2O_DUTKVGX8/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a48f33cf-f562-420c-8473-8ca7a7d0522b/2b3b7cc9-f7cf-4984-bda2-bb84843fd1e4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report.amp",
+      "publishedDateTime": "2020-10-21T17:27:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-trump-grants-clemency-to-alice-marie-johnson-associate-4-other-nonviolent-criminals.md",
+      "title": "Trump grants clemency to Alice Marie Johnson associate, 4 other nonviolent criminals",
+      "excerpt": "President Trump granted clemency on Wednesday to five prisoners-- including one who was an associate of Alice Marie Johnson-- who were each serving time in prison for non-violent offenses. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J6z_-zdnn78/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J6z_-zdnn78/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ef2b296-8a08-4701-b0a4-a158c458d0f1/8bc4c25e-c990-4d71-8e66-cf2615c72ff4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals.amp",
+      "publishedDateTime": "2020-10-21T17:17:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-blackburn-trump-should-focus-on-his-incredible-record-at-presidential-debate-not-biden-inc.md",
+      "title": "Blackburn: Trump should focus on his 'incredible record' at presidential debate, not 'Biden Inc.'",
+      "excerpt": "President Trump should focus on his own accomplishments during Thursday night's second and final presidential debate against Joe Biden, Sen. Marsha Blackburn, R-Tenn., told \"Special Report\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tBqtjIl9JDM/presidential-debate-trump-biden-incorporated-marsha-blackburn",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tBqtjIl9JDM/presidential-debate-trump-biden-incorporated-marsha-blackburn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a0259c0-cd63-451e-9bfc-4b10f89422b0/6f81371c-788e-4c73-85c3-98b4d445127d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp",
+      "publishedDateTime": "2020-10-21T16:27:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-trump-campaign-nevada-gop-threaten-to-sue-clark-county-over-attempts-to-obstruct-election-observation.md",
+      "title": "Trump campaign, Nevada GOP threaten to sue Clark County over attempts to ‘obstruct’ election observation",
+      "excerpt": "The campaign and state Republicans claim that observers have been banned from certain areas where ballots are handled.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vh2lB-nwdTU/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vh2lB-nwdTU/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e7c038-31e9-41ca-b866-bc48a70fc439/b27add3f-3eae-4088-beb9-957a3678512b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp",
+      "publishedDateTime": "2020-10-21T16:17:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-chronicled-who-is-kamala-harris-new-podcast-by-the-chronicle-coming-soon.md",
       "title": "Chronicled: Who is Kamala Harris? New podcast by The Chronicle coming soon",
       "excerpt": "Is Kamala Harris a cop or progressive? A Berkeley radical or Beltway insider? This six-part podcast series from the San Francisco Chronicle delves into the making of a candidate. Listen to the trailer and subscribe on Apple,",
@@ -381,7 +662,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2083,
+      "heat": 2123,
       "tags": null,
       "images": [
         {
@@ -827,7 +1108,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/10/19/joe-biden-cameron-peak-fire-deadly-sign-climate-change/3711004001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1033,266 +1314,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-trump-targets-pennsylvania-women-but-will-do-so-without-wife-melania.md",
-      "title": "Trump targets Pennsylvania women, but will do so without wife Melania",
-      "excerpt": "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\"",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-20-rt-er-190618_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
-      "publishedDateTime": "2020-10-20T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-vice-president-mike-pence-headed-to-waterford-this-week.md",
-      "title": "Vice President Mike Pence headed to Waterford this week",
-      "excerpt": "The vice president is returning to Michigan less than a week after President Trump was in west Michigan for a rally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/politics/elections/2020/10/20/vice-president-mike-pence-waterford/5997631002/",
-      "originalUrl": "https://www.freep.com/story/news/politics/elections/2020/10/20/vice-president-mike-pence-waterford/5997631002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/14/PDTF/34e1604a-563f-45aa-a360-81bafe7830f3-1014Pence_GR_Visit_26.jpg?auto=webp&crop=1984,1116,x0,y137&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/5997631002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5997631002",
-      "publishedDateTime": "2020-10-20T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-abruptly-ends-60-minutes-interview-before-taping-joint-appearance-with-pence.md",
-      "title": "Trump abruptly ends '60 Minutes' interview before taping joint appearance with Pence",
-      "excerpt": "President Donald Trump abruptly ended a solo interview with CBS News' \"60 Minutes\" Tuesday and did not return for an appearance he was supposed to tape with Vice President Mike Pence, according to multiple sources familiar with what happened.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYSwD5qaplc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYSwD5qaplc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 473,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201019175506-donald-trump-october-18-2020-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html",
-      "publishedDateTime": "2020-10-20T14:23:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-activist-group-plans-widespread-disruptive-election-activities-to-thwart-potential-trump-coup.md",
-      "title": "Activist group plans widespread, ‘disruptive’ election activities to thwart potential Trump ‘coup’",
-      "excerpt": "'Trump will not leave office without mass mobilization and direct action,' the group says on its website.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqI-lfacqow/activist-group-election-protests-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqI-lfacqow/activist-group-election-protests-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7786f99-ad7f-4cdb-bd56-8793a0d5fd0b/505220a6-fdbe-42af-9fb5-742193594d08/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/activist-group-election-protests-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/activist-group-election-protests-trump.amp",
-      "publishedDateTime": "2020-10-20T13:39:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-call-the-proposed-probe-of-trump-and-his-enablers-what-it-really-is-mccarthyism.md",
-      "title": "Call the proposed probe of Trump and his ‘enablers’ what it really is: McCarthyism",
-      "excerpt": "It’s one thing to investigate whether Trump officials broke any laws during their service; that’s appropriate and should be handled by the Justice Department. Reich’s goal is much broader: “name every official,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6TSBQMARNQI6XISYMFFM6K4QNU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/?outputType=amp",
-      "publishedDateTime": "2020-10-20T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

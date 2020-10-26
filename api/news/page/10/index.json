@@ -2,6 +2,319 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-17-how-donald-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue.md",
+      "title": "How Donald Trump’s developer dad and a Brooklyn rabbi saved a synagogue",
+      "excerpt": "When congregants enter the Beach Haven Jewish Center in Gravesend, Brooklyn, they pass a small plaque hanging just outside the main sanctuary. “Fred Trump. Humanitarian,” declare the gold",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
+      "originalUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fred2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
+      "publishedDateTime": "2020-10-17T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-a-wall-street-chief-strategist-says-a-biden-blue-wave-could-spur-a-5-drop-in-the-sp-500-because-of-uncertainty-over-some-democrat-policies.md",
+      "title": "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies",
+      "excerpt": "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10",
+      "originalUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f3fa81089aff80028ab70e7?format=jpeg",
+          "width": 5000,
+          "height": 2499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp",
+      "publishedDateTime": "2020-10-17T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-scotus-to-hear-trump-administrations-argument-to-exclude-illegal-immigrants-from-census.md",
+      "title": "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census",
+      "excerpt": "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
+      "originalUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Supreme_Court.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
+      "publishedDateTime": "2020-10-17T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-watchdog-claims-trump-campaign-illegally-coordinated-with-a-super-pac-in-2016-through-its-work-with-cambridge-analytica.md",
+      "title": "Watchdog claims Trump campaign illegally coordinated with a Super PAC in 2016 through its work with Cambridge Analytica",
+      "excerpt": "The Campaign Legal Center claimed newly published emails showed Cambridge Analytica's overlapping work for the campaign and PAC violated federal law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f58a80ce6ff30001d4e7a9a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp",
+      "publishedDateTime": "2020-10-17T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-kimberly-klacik-reports-64m-in-fundraising-after-trump-shared-her-viral-campaign-video.md",
+      "title": "Kimberly Klacik reports $6.4M in fundraising after Trump shared her viral campaign video",
+      "excerpt": "Baltimore congressional candidate Kimberly Klacik reported $6.4 million in fundraising after President Trump shared her viral campaign video, which lambasted Democratic leadership in cities with large African American populations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h-oPOdnicA4/kimberly-klacik-fundraising-trump-campaign-video",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h-oPOdnicA4/kimberly-klacik-fundraising-trump-campaign-video",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07efecb3-25b4-4a16-90c7-62a678c0e391/008b1110-6bec-485c-a7c8-66fdca3df870/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kimberly-klacik-fundraising-trump-campaign-video.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kimberly-klacik-fundraising-trump-campaign-video.amp",
+      "publishedDateTime": "2020-10-16T19:10:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-facebook-reversing-ban-on-ad-that-claimed-biden-harris-supports-abortion-up-to-the-moment-of-birth.md",
+      "title": "Facebook reversing ban on ad that claimed Biden-Harris supports 'abortion up to the moment of birth'",
+      "excerpt": "Facebook is reinstating advertising it previously blocked from an anti-abortion organization claiming that former Vice President Joe Biden and his running mate, Sen. Kamala Harris, D-Calif., supported abortion up until the moment of birth.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Screen-Shot-2020-10-16-at-5.03.33-PM.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp",
+      "publishedDateTime": "2020-10-16T18:07:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-georgia-sen-david-perdues-mispronunciation-of-kamala-harris-name-draws-outrage.md",
       "title": "Georgia Sen. David Perdue's mispronunciation of Kamala Harris' name draws outrage",
       "excerpt": "Georgia Sen. David Perdue is drawing outrage after appearing to mock Democratic vice presidential nominee Kamala Harris' name while warming up the crowd ahead of a rally for President Donald Trump speech on Friday night.",
@@ -450,7 +763,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 559,
+      "heat": 519,
       "tags": null,
       "images": [
         {
@@ -973,321 +1286,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-end-this-nightmare-rudy-giulianis-daughter-urges-americans-to-vote-for-joe-biden-in-vanity-fair-editorial.md",
-      "title": "'End this nightmare': Rudy Giuliani's daughter urges Americans to vote for Joe Biden in Vanity Fair editorial",
-      "excerpt": "Caroline Giuliani called her father the \"president's personal bulldog,\" and described Trump's time in the White House as a \"reign of terror.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
-      "originalUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f88b9f19e9fe40019009a62?width=1200&format=jpeg",
-          "width": 733,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
-      "publishedDateTime": "2020-10-16T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-twitter-announces-new-policies-after-hunter-biden-report-imbroglio.md",
-      "title": "Twitter announces new policies after Hunter Biden report imbroglio",
-      "excerpt": "A top policy executive at Twitter announced policy changes at the social media giant late Thursday after the company faced its toughest allegations yet of censorship in order to protect Democratic candidates.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 815,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp",
-      "publishedDateTime": "2020-10-15T21:19:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-the-fbi-is-investigating-whether-purported-hunter-biden-burisma-emails-were-part-of-a-foreign-intelligence-operation.md",
-      "title": "The FBI is investigating whether purported Hunter Biden-Burisma emails were part of a foreign intelligence operation",
-      "excerpt": "The news comes shortly after it was reported that one of the sources of the emails, Rudy Giuliani, was a target for Russian intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10",
-      "originalUrl": "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f2232ad40c1f34f271cefc4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp",
-      "publishedDateTime": "2020-10-15T20:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-gloats-about-us-marshals-killing-of-portland-antifa-suspect.md",
-      "title": "Trump gloats about US Marshals' killing of Portland 'antifa' suspect",
-      "excerpt": "President Donald Trump on Thursday gloated over the September killing of Portland, Oregon, murder suspect Michael Reinoehl by law enforcement officers who had been deputized as US Marshals.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nwJfPhxlyA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nwJfPhxlyA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015154515-101-trump-lead-image-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/trump-fugitive-shooting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-fugitive-shooting/index.html",
-      "publishedDateTime": "2020-10-15T20:26:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-donald-trump-jr-and-special-guest-to-visit-volusia-saturday.md",
-      "title": "Donald Trump Jr. and 'special guest' to visit Volusia Saturday",
-      "excerpt": "Donald Trump Jr., son of the president, will headline a Trump campaign rally Saturday in Volusia County that's expected to attract thousands of supporters. The event also promises a \"special guest.\" The \"Fighting Against Socialism Bus Tour\" is expected to arrive at the 2A Ranch,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journalonline.com/story/news/politics/elections/2020/10/15/donald-trump-jr-and-special-guest-visit-volusia-saturday/3668401001/",
-      "originalUrl": "https://www.news-journalonline.com/story/news/politics/elections/2020/10/15/donald-trump-jr-and-special-guest-visit-volusia-saturday/3668401001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/10/NTFO/a30fece2-3b0c-4563-8054-f08340a39889-101020_Donald_Trump_Jr_11.jpg?auto=webp&crop=4511,2538,x0,y229&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.news-journalonline.com/amp/3668401001",
-      "cdnAmpWebUrl": "https://amp-news--journalonline-com.cdn.ampproject.org/c/s/amp.news-journalonline.com/amp/3668401001",
-      "publishedDateTime": "2020-10-15T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daytona Beach News-Journal",
-        "domain": "news-journalonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-savannah-guthrie-grills-trump-at-nbcs-town-hall.md",
-      "title": "Savannah Guthrie grills Trump at NBC's town hall",
-      "excerpt": "Savannah Guthrie used her skills as a former litigator to interrogate President Trump during NBC's town hall.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8av37VQVra0/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8av37VQVra0/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015222513-06-deuling-town-halls-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
-      "publishedDateTime": "2020-10-15T20:07:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

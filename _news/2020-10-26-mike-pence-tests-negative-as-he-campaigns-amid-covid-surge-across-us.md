@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-neg
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZHVGK7ZIFBGQBINZMERJYCYJMY.jpg"
         width: 4000
         height: 2938
+        isCached: true
+  - title: "As Mike Pence speaks in Tallahassee, reports reveal 2 top aides tested positive for COVID-19"
+    excerpt: "WASHINGTON – Vice President Mike Pence was in the middle of his second campaign rally in Florida at Tallahassee International Airport Saturday when Bloomberg reported that one of his closest advisers had tested positive for the novel coronavirus earlier ..."
+    publishedDateTime: 2020-10-26T13:37:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/24/covid-vice-president-mike-pence-marty-obst/6029640002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/6029640002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/6029640002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/PTAL/057a072d-a817-4e5e-8e7d-945716bff373-Trump_supporters032.JPG?auto=webp&crop=5417,3048,x0,y189&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Several People in Vice President Mike Pence’s World Now Have Covid-19"
     excerpt: "At least five people in Vice President Mike Pence’s inner circle have tested positive for the coronavirus, according to a report from CNN. That tally includes some of his closest advisors, including his chief of staff Marc Short and an advisor named Marty Orbst."

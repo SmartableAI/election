@@ -2,6 +2,167 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-24-telemundo-anchor-refutes-misleading-video-posted-by-eric-trump.md",
+      "title": "Telemundo anchor refutes misleading video posted by Eric Trump",
+      "excerpt": "Privacy Policy “In one moment the monitor went to black,” Diaz-Balart recounted, and Biden said, “‘I lost the lady.’” | Noam Galai/ Telemundo anchor José Díaz-Balart on Wednesday refuted an allegation by one of President Donald Trump’s sons that Democratic presidential nominee Joe Biden relied on a teleprompter in a recent interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
+      "originalUrl": "https://www.politico.com/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/09/56/eaf6f5d7478891770c7351d075f7/20200923-jose-diaz-balart-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
+      "publishedDateTime": "2020-09-23T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-donald-trump-calls-national-guard-deployment-during-kentucky-protests-a-positive-thing.md",
+      "title": "Donald Trump Calls National Guard Deployment During Kentucky Protests a 'Positive Thing'",
+      "excerpt": "\"That's a very positive thing,\" President Donald Trump said of Kentucky Governor Andy Beshear's decision to bring on National Guard units during protests in Louisville, Kentucky.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
+      "originalUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1641363/donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1",
+      "publishedDateTime": "2020-09-23T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-bob-woodwards-donald-trump-book-rage-sells-600000-copies-in-first-week.md",
+      "title": "Bob Woodward's Donald Trump book 'Rage' sells 600,000 copies in first week",
+      "excerpt": "Bob Woodward's \"Rage\" sold more than 600,000 copies in its first week of publication, continuing a yearlong wave of blockbuster books about the president. The first week sales include hardcovers, audiobooks and e-books.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/books/2020/09/23/bob-woodward-donald-trump-book-rage-first-week-sales/3510428001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/books/2020/09/23/bob-woodward-donald-trump-book-rage-first-week-sales/3510428001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/10/USAT/7e9f60a6-b218-4d48-a3e9-5488e4e51393-Rage.jpg?auto=webp&crop=595,335,x1,y516&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3510428001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3510428001",
+      "publishedDateTime": "2020-09-23T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-fact-check-in-2016-trump-didnt-tweet-about-replacing-scalia-on-supreme-court.md",
       "title": "Fact check: In 2016, Trump didn't tweet about replacing Scalia on Supreme Court",
       "excerpt": "A tweet that purports to be from Donald Trump in 2016 that said \"Obama should wait until he leaves office to pick another Justice\" is fake.",
@@ -1404,167 +1565,6 @@
       "ampWebUrl": "https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.amp.html",
       "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.amp.html",
       "publishedDateTime": "2020-09-20T18:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-can-donald-trump-maintain-new-momentum-until-this-november.md",
-      "title": "Can Donald Trump maintain new momentum until this November?",
-      "excerpt": "With just weeks until the election, Donald Trump Donald John Trump US reimposes UN sanctions on Iran amid increasing tensions Jeff Flake: Republicans 'should hold the same positio",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
-      "originalUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_091820getty_0.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp",
-      "publishedDateTime": "2020-09-20T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-backs-proposed-deal-to-keep-tiktok-operating-in-us.md",
-      "title": "Trump backs proposed deal to keep TikTok operating in US",
-      "excerpt": "President Donald Trump says he’s given his “blessing” to a proposed deal that would see the popular video-sharing app TikTok partner with Oracle and Walmart and form a U.S. company",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 725,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/WireAP_4dc911637176420589fa2c420c7839b1_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
-      "publishedDateTime": "2020-09-19T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-supporters-disrupt-early-voting-in-virginia.md",
-      "title": "Trump Supporters Disrupt Early Voting in Virginia",
-      "excerpt": "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
-      "publishedDateTime": "2020-09-19T17:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Times",

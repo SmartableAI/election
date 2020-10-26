@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump and Pence defy pandemic for political gain"
+    excerpt: "President Trump and Vice President Pence are holding events in battleground states, defiant about the pandemic, a White House outbreak and a climbing national case count."
+    publishedDateTime: 2020-10-26T19:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-lititz-rally-04-gty-jef-201026_1603739248715_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Election 2020 live updates: Trump to campaign in Pennsylvania, Biden off the trail"
     excerpt: "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday."
     publishedDateTime: 2020-10-26T15:12:00Z
@@ -413,6 +429,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538537555&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M023"
         width: 848
+        height: 545
+        isCached: true
+  - title: "Eight days before election, Trump focuses on pivotal state of Pennsylvania"
+    excerpt: "With eight days to go until the U.S. election, President Donald Trump on Monday wooed voters in Pennsylvania, a battleground state he won in 2016 that is crucial to his chances of defeating Democratic challenger Joe Biden and winning a second term."
+    publishedDateTime: 2020-10-26T17:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSL1N2HH10R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B0BZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B0BZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538871700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1EB"
+        width: 807
         height: 545
         isCached: true
   - title: "Biden appears to pull slightly ahead of Trump in Florida - Reuters/Ipsos poll"
@@ -942,6 +974,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/25/46ae8717-8c38-4030-84bc-dbf4c833b39e/thumbnail/1200x630/d90ba7b812a4d1b3d439b605097676c8/gettyimages-1229228694.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump charges into battleground states despite rising virus"
+    excerpt: "President Donald Trump is intensifying his already breakneck travel schedule in the final full week of the presidential campaign despite growing worries about the coronavirus nationwide"
+    publishedDateTime: 2020-10-26T18:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-escalate-campaigning-biden-steps-travel-73828950"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-escalate-campaigning-biden-steps-travel-73828950"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-escalate-campaigning-biden-steps-travel-73828950"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_540b4669b7be4a3dad8ec3a52f66494b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump COVID-19 live updates: Campaign manager Bill Stepien tests positive"
     excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."

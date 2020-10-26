@@ -69,6 +69,22 @@ related:
         width: 2000
         height: 1694
         isCached: true
+  - title: "Vice President Mike Pence schedules campaign rally in Flint Wednesday"
+    excerpt: "Vice President Mike Pence is coming back to Michigan Wednesday with only six days left until the Nov. 3 presidential election. The Trump campaign announced Pence will hold a campaign rally at Bishop International Airport in Flint on Oct."
+    publishedDateTime: 2020-10-26T17:26:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2AUJ4FPUWVA7PJPYE6YQN23GGQ.JPG"
+        width: 1300
+        height: 867
+        isCached: true
 
 secured: "HsyNqexmA4ySBuVk7bIeWBx79jmS6qM3SJtMiQDEtt7WONGhsa8Neoohz8JOMukjnSvXy+c+86h/PqAa1u8UXV0ZtSYF3PxwxM4Ree6SUjEqNB3ImJbC2Xtq3UR2eq0SxzHnvPHGuSbGpD4dqUQG3vuQTYD6mXmWJ94mYZnUX1U2F5eaXfNjHbm3G5Y/dSNErQAjI9tGLUnks5I66GYObh9Gk3/MRSzlEbMrhaoeyWfqX4JvuiGfXkmMpvElTDuVpTR3gCpxULcJ5lDYapF5Pr8Ygu3LJIPBRCJ7pgDZzwBBMC6ctutx+7gpw3YmBehoajQ5FrNln1b7SbWF0GjJri2miAt+rxO0rcAdvSYk8tp8N6rTF0jvwhbAYnB7e/fwcsV7s185hfL/sTcb+VaHmxdILuX7ewOUyMX5/Kz9e1ceHwWiGvvDND+567PTdD6BFryZ+XzMvxhHgle8sZjs0Oy/OLdHmvE0Sw3z+vddqiXv4T20IFUv5IT20sSKQRPXnrfKC6LI+h1vDM0Edr5Q6A==;19IffmbaimjO1y5Iwn38ww=="
 ---

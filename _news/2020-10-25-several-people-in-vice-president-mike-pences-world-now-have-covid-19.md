@@ -121,6 +121,22 @@ related:
         width: 4000
         height: 2938
         isCached: true
+  - title: "As Mike Pence speaks in Tallahassee, reports reveal 2 top aides tested positive for COVID-19"
+    excerpt: "WASHINGTON – Vice President Mike Pence was in the middle of his second campaign rally in Florida at Tallahassee International Airport Saturday when Bloomberg reported that one of his closest advisers had tested positive for the novel coronavirus earlier ..."
+    publishedDateTime: 2020-10-26T13:37:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/24/covid-vice-president-mike-pence-marty-obst/6029640002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/6029640002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/6029640002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/PTAL/057a072d-a817-4e5e-8e7d-945716bff373-Trump_supporters032.JPG?auto=webp&crop=5417,3048,x0,y189&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "fphRLIR47nk8wWDcfbZnI74i3hUb0vzlxjTiGxVbh3KWiPKpPWt/0vequOPM+jNquIOBZaGMfopKN1/INlZ39MeqCP4aa6OJ4GV8v77nIDR23zMJhRZy8IwVF3zaT7sqQd8XkByu3iFlB1415yOVsAxetWflLYlKLpPx3Vu171ewbSSolHAonPwKw5bEr91MvJuoIUrRDIYnBzCmXE5JEvZ8L4pf2HE/GgFzvX0dGkAxvzOdgucUQuJXjjG38B0s+vvGe/uG7BWnsSNjKVZe5ZB+guyTyZ1k/1o6mU1WqAkxlEY66M4H07K672E3MelNZfEeTO0nici/Ujh1houhe0sCptU0/4DH1e4qUwSjghBskEXgBWKAAeR3bRAAE16d/AWPd3V1ctIYSPH07/Fu3lxvaXDCJH8lEL/2eOmSEEy71OASTHiS3Hw6TH6ipdw1bQSBM9EV3EUXtcK5BJPsAX1qNf+nYdKoFA1ZXoZCSleQdiJ7Z0rIsYIvPxqdUTVsj8NU7PNzcwosUgBYMuIWkw==;6abDEFRWHCsAdVUvAl7RIQ=="
 ---

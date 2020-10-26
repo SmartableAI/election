@@ -119,6 +119,22 @@ related:
         width: 1024
         height: 579
         isCached: true
+  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
+    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
+    publishedDateTime: 2020-10-25T18:11:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6028911002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6028911002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "BxYcPlxWVEg7IwiDtepZ6/etz3HC2Y5WLREutssUFo06Y5da8SY9/cSYIJ3+E+Zg/naen3zd2gqqCApfIOdxwpc9RZFTE/nWa6zFiMUohjJTokiAszpI/rxZ4kKPPglmVm4PvxlHH0VopY/oQ1jvcTT1smZCydfMUMGvP/Jxg3VIH6tUmR42YcasLRVNh2CFj2FjCGFb9+TNF3yh5to2IRnsQS8L6OUe1Qhbm7ilnO+WFKGHuI8efodtGPoDJVI7+ctHmt5kegyK5xet5v0j3trcIEQucVCIn4apri7jXo29Dvbc9++CSErzNdkhSussFZlr7KIjajsW+LfQG3Md2YUx4jrmQbNt7HN1gyB2nHs=;zFGucTU/g+htKMcIbt2Pdw=="
 ---

@@ -45,6 +45,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump will host another White House gathering for Amy Coney Barrett even though the 1st one became a COVID-19 superspreader event"
+    excerpt: "White House chief of staff Mark Meadows said the event will be held outdoors and that the White House would urge people to maintain social distance."
+    publishedDateTime: 2020-10-26T16:39:00Z
+    webUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f96d54b4743a3001216b920?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "+n4YFYa4XR13T82tjwy3KwVH5Lx3hJVCMOq/SqmAZSnZRkBs7MDyCV31/u9JLm7K2QHw582dSGjt9HcGaey5rjT7t/p43RugZ3oXNBzrSoLOLqJNsdnF3FbhUw8uy7L0m8LEBnGurOf9n+E+pC6pXdoumvAPEiY/KOzO2hU24w3ykij0CzyEbSkuzo9ApQnUT7f8UyXA5GUxBoG1L3w29BN6713f1/JKqzMF7HAHJchZs411ZX279ruvK35z9VO7CK5Dv+MxMirDUxqeYvKxwFcBbI61vjfFPNsW4GVyFkJbV9piiFMC/wSsLxaHHKZ3gZPYg4fszPYbyZwVVOw9+ES3vEXU8D2qas0i4bH7OzU=;a40ub6x6XS7Vy6AA0e3KPg=="
 ---

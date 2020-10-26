@@ -2896,6 +2896,22 @@ related:
         width: 1200
         height: 761
         isCached: true
+  - title: "Is Donald Trump trying to lose or just trying to burn it all down?"
+    excerpt: "President Donald Trump's reelection chances are, um — how to put this — not great right now. The Economist's model gives him only a 10% chance of winning the electoral college. FiveThirtyEight ..."
+    publishedDateTime: 2020-10-07T20:35:00Z
+    webUrl: "https://www.newsday.com/opinion/commentary/donald-trump-coronavirus-covid-19-2020-presidential-election-strategy-1.50029096"
+    ampWebUrl: "https://www.newsday.com/amp/opinion/commentary/donald-trump-coronavirus-covid-19-2020-presidential-election-strategy-1.50029096"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/commentary/donald-trump-coronavirus-covid-19-2020-presidential-election-strategy-1.50029096"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 75
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.50029097.1602085968!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
     excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
     publishedDateTime: 2020-10-02T12:11:00Z

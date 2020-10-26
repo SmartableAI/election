@@ -80,22 +80,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden pressed over debate comment that he would 'transition from the oil industry'"
-    excerpt: "After the final debate on Thursday night, Democratic presidential nominee Joe Biden was pressed by reporters on his comments about fossil fuels, following his remarks that he plans to \"transition from the oil industry.\""
-    publishedDateTime: 2020-10-23T14:17:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8a93LtPsXgk/biden-pressed-debate-comment-transition-oil-industry"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pressed-debate-comment-transition-oil-industry.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pressed-debate-comment-transition-oil-industry.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden to look at court-packing 'alternatives,' form commission to 'reform' court system"
     excerpt: "Democratic presidential nominee Joe Biden said, if elected, he would form a commission to examine \"how to reform the court system.\""
     publishedDateTime: 2020-10-22T13:50:50Z
@@ -305,20 +289,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
-  - title: "'The Tape' Shows Biden Is Lying About Fracking"
-    excerpt: "Democratic nominee Joe Biden is lying. On Thursday, during the final 2020 presidential debate, Biden denied ever saying he opposes fracking. But he absolutely did. To claim otherwise, as the former vice president did Thursday evening,"
-    publishedDateTime: 2020-10-23T19:16:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/23/the_tape_shows_biden_is_lying_about_fracking_527327.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/524968_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "BD8O0OE2+nIxonF1dWZ78GvfK63Akv6mzg8x70NMHpfPqBRC8BAbQusvUGiiWEAU0g6uR9xidjT2OzY7N9F8a4tRvCGohv1EO67Ix3iAm7INxnyk8NuVukZvr3gImu0bR8MmroikBG2KnLBHwxa6sFjXA7NArf9h3Vf74JkWdDeEojXaNlLr1tX/K3Q/o3b/CJLgho6ZlbmvZeNHApK9I8XNz1FPmGsS9Tq4kC4eZUjRjMjYMpfwSEElCIy917AmHueboq02IvH2UMd32f39JYgYlVtIV9pTLYZzz1FJvQXqM2OaSpAtkve4sTrArfw3q9wVWeN3km6JGE8cAKOyTy1Jl/YeIXBIQMRpMBTYbNssy2ueSU4x5liTbsPhkOpKdJNKVXTtPztEeI9rx3IRwJJ+afB7KZwZMD8zSAdytfX31THirq70Ls78DS9njnvBc48Wzzbu1ZkJ/by//FZfxLJRbMSg1ls2QLrgcSMffRjX+P5A+ukWU2L/T3KQq++G1jABfvMsllxa230zbgx+Zw==;aW+TB6IXllCGbigbKFy2sA=="
 ---

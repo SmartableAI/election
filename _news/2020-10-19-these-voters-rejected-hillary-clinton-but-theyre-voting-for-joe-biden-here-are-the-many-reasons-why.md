@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hil
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
 type: article
 quality: 109
-heat: -1
-published: false
+heat: 169
+published: true
 
 provider:
   name: Chicago Tribune
@@ -31,99 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's campaign is despondent as he keeps reusing strategies which worked against Hillary Clinton but aren't landing on Joe Biden, reports say"
-    excerpt: "The New York Times and The Associated Press reported that Trump's team worry that he has failed to adapt his strategy to his opponent."
-    publishedDateTime: 2020-10-19T10:40:00Z
-    webUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
+  - title: "The FBI is investigating whether purported Hunter Biden-Burisma emails were part of a foreign intelligence operation"
+    excerpt: "The news comes shortly after it was reported that one of the sources of the emails, Rudy Giuliani, was a target for Russian intelligence."
+    publishedDateTime: 2020-10-16T03:43:00Z
+    webUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 114
+    quality: 102
     images:
-      - url: "https://i.insider.com/5f8d4e0bc21cfb0019468ac4?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f2232ad40c1f34f271cefc4?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Putin rejects Donald Trump's criticism of Biden family business, saying he sees nothing 'criminal' with Hunter Biden in Ukraine"
-    excerpt: "Putin was responding to comments made by President Trump during televised debates with Democratic challenger Joe Biden."
-    publishedDateTime: 2020-10-26T02:27:00Z
-    webUrl: "https://www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10?amp"
+  - title: "Hunter Biden emails were reportedly shopped around in Ukraine for $5 million, while Giuliani met with officials and businessmen there last year"
+    excerpt: "Two people told Time that they were approached with the emails, and one said the person making the offer already had a buyer in mind, Trump's allies."
+    publishedDateTime: 2020-10-22T05:21:00Z
+    webUrl: "https://www.businessinsider.com/time-hunter-biden-emails-shopped-around-ukraine-last-year-5m-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/time-hunter-biden-emails-shopped-around-ukraine-last-year-5m-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/time-hunter-biden-emails-shopped-around-ukraine-last-year-5m-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 112
+    quality: 89
     images:
-      - url: "https://i.insider.com/5f962fd84743a3001216b879?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f90ed74abcd0c0018d68f6e?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump didn't deny New York Times report that claims hes $400 million debt when pressed during town hall"
-    excerpt: "\"What I'm saying is that it's a tiny percentage of my net worth... The amount of money — $400 million, is a peanut,\" Trump said."
-    publishedDateTime: 2020-10-16T06:54:00Z
-    webUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
+  - title: "Joe Biden's polling lead is considerably stronger than Hillary Clinton's was 6 weeks before election"
+    excerpt: "Any mention of the word \"polls\" when discussing the 2020 election will evoke the predictable, and semi-understandable response of \"The polls are meaningless! They were way off in 2016! We can't trust the polls!"
+    publishedDateTime: 2020-09-23T18:31:00Z
+    webUrl: "https://www.chron.com/politics/article/Joe-Biden-polls-lead-averages-2016-Clinton-wrong-15584094.php"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
     images:
-      - url: "https://i.insider.com/5f8916f1d260780019341bf5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "3 Cities Designated As 'Anarchist' Filing Lawsuit Against Trump Administration"
-    excerpt: "After months of street protests, President Trump described New York City, Portland and Seattle as lawless places and threatened to withhold federal aid. City officials say the law is on their side."
-    publishedDateTime: 2020-10-22T18:38:00Z
-    webUrl: "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/10/22/926695864/3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 101
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/22/ap_20133094368037_wide-0ecc215828e095c74a18670fb311744097545173.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Donald Trump, NBC News Set Town Hall Event For Thursday, Competing With ABC News’ Joe Biden Event"
-    excerpt: "Donald Trump will do a town hall for NBC News on Thursday, after an agreement was reached between the network and his presidential campaign on the details for the event. That means that Trump and"
-    publishedDateTime: 2020-10-14T12:14:00Z
-    webUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/#!"
-    ampWebUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 77
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20280081514930.jpg?w=1024"
-        width: 1024
-        height: 741
-        isCached: true
-  - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
-    excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."
-    publishedDateTime: 2020-10-20T11:37:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 64
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-18-at-5.11.31-PM.png"
-        width: 800
-        height: 430
+      - url: "https://s.hdnux.com/photos/51/02/71/10759807/3/rawImage.jpg"
+        width: 2048
+        height: 1440
         isCached: true
 
 secured: "D6FoDfuhSw4w8bKh5b+uFai+NJ++V8ofQ9oDmR4nGD4JjMIpd0leZXna5HoOft4JOZHNpsYgSgOHUdGbTkskoyIbDZdQv77y5ebXdZHKmLOSKEhi0PiGryxfJ01ysuf/1Q+wi894JMXd72mAjSvPxLjY/bOoHK31iXemndnFdlRnZk1+Ac3SWQAFIo6LFo53JnqHxt1/niiDxwW50guHmI+I+Qugo5fPKWlESX9ICVGxlwVt051u8WYOncvU49QqRJxtExQX5L8F7WFS4UYltY3+UDBuigSqtzYF2zYMHXrbu3U4aaDqSxF3k58jbAGgiTMtU3wkx+3r8osQeWXpEdNBe4pfusSwVnblTyxF5zq9nlRq+QEtirUsaIcQwbeitnkot42B8/tBq+2sxMOHVZCAkaMm80D+25+a2mS5xjaqx3FhpGuclvU8+yK5q8PQR4idOXkosjoojMnmNTocHdwz5mQhCVrB8ZtmxOxGCYBp8Rg11U0qqSb3mSvYcdoT0zOjz8gx6Ir2z+5TYjvAfw==;va9lQGwYpDcV6sOhqR+E4A=="

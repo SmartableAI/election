@@ -2,6 +2,450 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-26-pence-skips-public-health-recommended-self-quarantine-but-does-change-plans-after-staff-outbreak.md",
+      "title": "Pence skips public health recommended self-quarantine but does change plans after staff outbreak",
+      "excerpt": "Vice President Mike Pence, despite flouting public health guidelines by still campaigning after being exposed to people testing positive with coronavirus, is taking some precautions on the road.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G-ClNsokWxo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G-ClNsokWxo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201025103438-03-mike-pence-october-campaigning-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/26/politics/mike-pence-coronavirus-precautions/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/mike-pence-coronavirus-precautions/index.html",
+      "publishedDateTime": "2020-10-26T12:24:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.md",
+      "title": "Pence campaigns with 'medically informed' approach to events after staffers test positive for COVID-19",
+      "excerpt": "Vice President Pence has returned to the campaign trail after key staffers tested positive for the novel coronavirus, however his team is taking a “thoughtful” and “medically-informed” approach to his travel this week in the final stretch until Election Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MgfSKow3O8Y/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MgfSKow3O8Y/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.amp",
+      "publishedDateTime": "2020-10-26T11:50:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-trump-mocks-biden-to-pennsylvania-crowd-over-oil-comment-he-blew-it.md",
+      "title": "Trump mocks Biden to Pennsylvania crowd over oil comment: 'He blew it'",
+      "excerpt": "President Trump warned Pennsylvania residents that a Joe Biden administration would sink their state's economy, while mocking his Democratic rival for what he called a \"shocking admission\" about his energy policy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 390,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5237d17-29f2-4497-97f7-90df3b44d487/d8f57439-b93c-40ab-a426-5b9656ebedfa/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp",
+      "publishedDateTime": "2020-10-26T11:49:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-kamala-harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.md",
+      "title": "Kamala Harris thinks she can laugh her way through serious questions: Pavlich",
+      "excerpt": "Editor Katie Pavlich called Democratic vice-presidential nominee Sen. Kamala Harris “the most far-left Democrat in Washington, D.C.,\" and said Joe Biden picked her to \"make sure that the left wing of the party felt comfortable\" that they would have a voice in his administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pb5kaipyfMc/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pb5kaipyfMc/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp",
+      "publishedDateTime": "2020-10-26T11:32:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-fact-check-voa-video-is-not-a-biden-ad-to-address-the-muslim-community.md",
+      "title": "Fact check: VOA video is not a Biden ad to address the Muslim community",
+      "excerpt": "Users on social media are sharing a video with Urdu subtitles showing democratic presidential candidate Joe Biden. Some posts refer to the clip as “Biden’s Muslim Commercial” claiming it was produced by the Biden campaign and that it is “being promoted in areas of",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-biden-not-muslim-ad-idUSKBN27B22U",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-biden-not-muslim-ad-idUSKBN27B22U",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538869649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1D7",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27B22U",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B22U",
+      "publishedDateTime": "2020-10-26T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-trump-attacked-biden-for-warning-against-4-more-years-of-george-but-the-democrat-has-long-called-himself-a-gaffe-machine.md",
+      "title": "Trump attacked Biden for warning against '4 more years of George,' but the Democrat has long called himself a 'gaffe machine'",
+      "excerpt": "Joe Biden called President Donald Trump \"George\" during a campaign event. Biden has been open about his stutter, calling himself a \"gaffe machine.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
+      "originalUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f96ad79f21803001222bdca?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
+      "publishedDateTime": "2020-10-26T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-jared-kushner-peace-deals-are-much-harder-than-president-trump-is-making-them-look.md",
+      "title": "Jared Kushner: Peace deals 'are much harder than President Trump is making them look'",
+      "excerpt": "Peace deals “are much harder than President Trump is making them look,” White House adviser Jared Kushner, who has been involved in brokering the Middle East peace deals, told “Fox & Friends” on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rvkk-01jc-Y/jared-kushner-trump-israel-peace-deals",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rvkk-01jc-Y/jared-kushner-trump-israel-peace-deals",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jared-kushner-trump-israel-peace-deals.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jared-kushner-trump-israel-peace-deals.amp",
+      "publishedDateTime": "2020-10-26T09:25:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-exclusive-new-analysis-shows-how-women-helped-fuel-a-biden-fundraising-surge.md",
+      "title": "Exclusive: New analysis shows how women helped fuel a Biden fundraising surge",
+      "excerpt": "EDITOR'S NOTE: This story was reported by the Center for Responsive Politics and CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84HhvIq0irw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84HhvIq0irw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201026105557-alpha-kappa-alpha-harris-biden-supporters-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/26/politics/women-donors-biden-fundraising/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/women-donors-biden-fundraising/index.html",
+      "publishedDateTime": "2020-10-26T09:00:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-trump-plans-second-white-house-event-for-barrett-as-senate-takes-up-nomination.md",
       "title": "Trump plans second White House event for Barrett as Senate takes up nomination",
       "excerpt": "The White House on Monday planned a celebration to celebrate the Republican Senate's expected confirmation of President Donald Trump's conservative nominee Amy Coney Barrett to the Supreme Court, one a month after a similar event was linked to a COVID-19 outbreak that",
@@ -10,7 +454,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-court-barrett/update-1-trump-plans-second-white-house-event-for-barrett-as-senate-takes-up-nomination-idUSL1N2HH17E",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -111,63 +555,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-ben-shapiro-nothing-funny-about-kamala-harris-laughing-off-questions-about-socialism.md",
-      "title": "Ben Shapiro: 'Nothing funny' about Kamala Harris laughing off questions about socialism",
-      "excerpt": "Podcast host and author Ben Shapiro on Monday ripped Sen. Kamala Harris, D-Calif., for laughing at an interviewer who asked if she had socialist views.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zNjyUmwcoA/kamala-harris-laughs-socialist-views-ben-shapiro",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zNjyUmwcoA/kamala-harris-laughs-socialist-views-ben-shapiro",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp",
-      "publishedDateTime": "2020-10-26T07:56:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-mike-pence-tests-negative-as-he-campaigns-amid-covid-surge-across-us.md",
       "title": "Mike Pence tests negative as he campaigns amid Covid surge across US",
       "excerpt": "Cases are rising rapidly, with more than 8.5m cases and a death toll of 225,000, as battleground states see surging case numbers",
@@ -176,7 +563,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -193,6 +580,58 @@
       "ampWebUrl": "https://amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
       "publishedDateTime": "2020-10-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-mike-pence-running-and-typhoon-molave-mondays-best-photos.md",
+      "title": "Mike Pence running and Typhoon Molave – Monday's best photos",
+      "excerpt": "The Guardian’s picture editors select photo highlights from around the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos?ref=hvper.com",
+      "originalUrl": "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/27fe2d7b425f2cbeafb45ca28589c0356b43e2cc/0_132_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=059e8b43da7aa82fd9c5d7d3585cc117",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T06:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -388,7 +827,7 @@
       "originalUrl": "https://www.theguardian.com/commentisfree/2020/oct/26/could-rejected-mail-in-ballots-cost-joe-biden-the-election?ref=hvper.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 860,
+      "heat": 880,
       "tags": null,
       "images": [
         {
@@ -432,62 +871,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-biden-staff-tells-60-minutes-he-misspoke-on-cost-of-free-public-college.md",
-      "title": "Biden staff tells '60 Minutes' he misspoke on cost of free public college",
-      "excerpt": "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OKvJtRcm96Q/biden-staff-misspoke-60-minutes-free-public-college-cost",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OKvJtRcm96Q/biden-staff-misspoke-60-minutes-free-public-college-cost",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp",
-      "publishedDateTime": "2020-10-26T05:35:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-senate-to-confirm-trumps-supreme-court-nominee-a-week-ahead-of-election-day.md",
       "title": "Senate to confirm Trump's Supreme Court nominee a week ahead of Election Day",
       "excerpt": "Senate Republicans are poised to confirm President Trump's Supreme Court nominee Judge Amy Coney Barrett on Monday, a major victory for the President and his party just days before November 3, that promises to push the high court in a more conservative direction for generations to come.\n    \n",
@@ -500,7 +883,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 827,
+      "heat": 847,
       "tags": null,
       "images": [
         {
@@ -973,387 +1356,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-kamala-harris-to-campaign-in-texas-first-dem-vp-candidate-to-do-so-in-30-plus-years.md",
-      "title": "Kamala Harris to Campaign in Texas, First Dem VP Candidate to Do So in 30-Plus Years",
-      "excerpt": "\"Texas is not a battleground state. It's that simple,\" former Texas Gov. Rick Perry said of Trump not campaigning in Texas prior to the election. Polls show the race as very tight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kamala-harris-campaign-texas-first-dem-vp-candidate-do-so-30-plus-years-1542001",
-      "originalUrl": "https://www.newsweek.com/kamala-harris-campaign-texas-first-dem-vp-candidate-do-so-30-plus-years-1542001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1658247/kamala-harris.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kamala-harris-campaign-texas-first-dem-vp-candidate-do-so-30-plus-years-1542001?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-campaign-texas-first-dem-vp-candidate-do-so-30-plus-years-1542001?amp=1",
-      "publishedDateTime": "2020-10-25T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-trump-keeps-calling-750-tax-payment-a-filing-fee-experts-say-theres-no-such-thing.md",
-      "title": "Trump keeps calling $750 tax payment a 'filing fee.' Experts say there's no such thing",
-      "excerpt": "President Donald Trump keeps bringing up what he calls a $750 filing fee for his federal income tax returns. What's that all about?",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/columnist/2020/10/23/president-donald-trump-keeps-bringing-up-what-he-calls-750-filing-fee-his-federal-income-tax-returns/6010994002/",
-      "originalUrl": "https://www.usatoday.com/story/money/columnist/2020/10/23/president-donald-trump-keeps-bringing-up-what-he-calls-750-filing-fee-his-federal-income-tax-returns/6010994002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6010994002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6010994002",
-      "publishedDateTime": "2020-10-25T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-trump-shirks-covid-19-guidelines-while-greeting-a-nearly-maskless-crowd.md",
-      "title": "Trump shirks Covid-19 guidelines while greeting a nearly maskless crowd",
-      "excerpt": "During a campaign stop in Maine, President Donald Trump, without a mask, greeted a largely maskless crowd and signed autographs while in close proximity. CNN medical analyst Dr. Jonathan Reiner says the President's messaging undermines the effort of health professionals advising their patients.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7YgfpVAODTk/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7YgfpVAODTk/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201025173013-trump-campaign-maine-crowd-no-mask-reiner-nr-vpx-00001905-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
-      "publishedDateTime": "2020-10-25T15:02:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-large-audience-few-masks-at-trumps-new-hampshire-rally.md",
-      "title": "Large audience, few masks at Trump's New Hampshire rally",
-      "excerpt": "Since losing the state’s race for the governorship by only 50,000 votes, Stacey Abrams and her voter rights organization, Fair Fight, have helped register more than 800,000 new voters in the state. From becoming the first Afro-Latina or LGBTQ congresswoman to the first Native American veteran in Congress,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244646",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244646",
-      "publishedDateTime": "2020-10-25T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-anti-protesters-attack-jews-for-trump-vehicle-convoy-in-new-york-city.md",
-      "title": "Anti-protesters attack 'Jews for Trump' vehicle convoy in New York City",
-      "excerpt": "A “Jews For Trump” vehicle convoy was repeatedly attacked and heckled as it made its way through New York City Sunday morning to show its support of the president, video shows.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PND8gQGleCM/anti-protesters-attack-jews-trump-vehicle-convoy-new-york",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PND8gQGleCM/anti-protesters-attack-jews-trump-vehicle-convoy-new-york",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a64957c-f086-429b-be60-90d1939c0490/0f5ce448-efab-4db0-be44-9bc4a9b4079a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/anti-protesters-attack-jews-trump-vehicle-convoy-new-york.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-protesters-attack-jews-trump-vehicle-convoy-new-york.amp",
-      "publishedDateTime": "2020-10-25T12:44:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-fact-checking-trumps-exaggerated-claims-that-democratic-run-states-are-shut-down.md",
-      "title": "Fact-checking Trump's exaggerated claims that Democratic-run states are 'shut down'",
-      "excerpt": "President Donald Trump keeps saying that Democratic-run states are \"closed\" or \"shut down.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kUz5z7yPhso/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kUz5z7yPhso/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201025114911-01-trump-lumberton-nc-rally-1024-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/25/politics/fact-check-trump-shut-down-pennsylvania-michigan-wisconsin/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/fact-check-trump-shut-down-pennsylvania-michigan-wisconsin/index.html",
-      "publishedDateTime": "2020-10-25T12:34:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-mike-pence-will-not-quarantine-after-four-aides-test-positive-for-coronavirus.md",
-      "title": "Mike Pence will not quarantine after four aides test positive for coronavirus",
-      "excerpt": "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
-      "originalUrl": "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 242,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769",
-          "width": 2965,
-          "height": 1977,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
-      "publishedDateTime": "2020-10-25T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

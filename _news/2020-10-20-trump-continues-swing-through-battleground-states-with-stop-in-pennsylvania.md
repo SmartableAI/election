@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pennsylvania sheriff, lifelong Dem, decides to back Trump amid unrest"
-    excerpt: "A Pennsylvania sheriff switched from Democrat to Republican amid unrest."
-    publishedDateTime: 2020-09-26T16:21:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-5AijZiy3M/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp"
+  - title: "Trump mocks Biden to Pennsylvania crowd over oil comment: 'He blew it'"
+    excerpt: "President Trump warned Pennsylvania residents that a Joe Biden administration would sink their state's economy, while mocking his Democratic rival for what he called a \"shocking admission\" about his energy policy."
+    publishedDateTime: 2020-10-26T18:49:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5237d17-29f2-4497-97f7-90df3b44d487/d8f57439-b93c-40ab-a426-5b9656ebedfa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Melania Trump to travel to Pennsylvania in final stretch of campaign"
     excerpt: "First lady Melania Trump is hitting the campaign trail this week, traveling to Pennsylvania on Tuesday to speak directly to voters before they cast their ballots in the final stretch before Election Day."
@@ -79,100 +79,111 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump heads to Pennsylvania for the second time in a week: What's at stake"
-    excerpt: "President Trump is in Pennsylvania on Saturday for the second time in a week, in an effort to court some of the same rural and White working-class voters who supported him four years ago."
-    publishedDateTime: 2020-09-26T14:24:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iMO1_9FnhnU/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake.amp"
+  - title: "Biden staff tells '60 Minutes' he misspoke on cost of free public college"
+    excerpt: "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount."
+    publishedDateTime: 2020-10-26T12:35:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OKvJtRcm96Q/biden-staff-misspoke-60-minutes-free-public-college-cost"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/Trump-PA-AP-2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
-    excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button.\" "
-    publishedDateTime: 2020-10-01T18:41:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/97AE_d__ZEU/trump-debate-change-mute-button"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-change-mute-button.amp"
+  - title: "Biden slams Trump as he distances himself from progressives: 'He thinks he's running against somebody else'"
+    excerpt: "The heated exchange occurred after Biden was asked to address Americans who are concerned about a shift toward socialized medicine."
+    publishedDateTime: 2020-10-23T02:56:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uuD2zqAfQow/biden-slams-trump-health-care-progressives"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-slams-trump-health-care-progressives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slams-trump-health-care-progressives.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e21bc17-5c77-4fd8-8ff7-78461bebe7f4/80e892b7-3477-42a9-aed0-ebaeadcafe7a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Dem 'Squad' accuses Twitter of shielding Trump from hate-tweets after dismissing attacks on them"
-    excerpt: "Democratic Reps. Rashida Tlaib and Alexandria Ocasio-Cortez are complaining that Twitter has gone the extra mile to shield President Trump from tweets wishing him harm or death after the platform failed to protect others. "
-    publishedDateTime: 2020-10-03T15:29:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8j34q_yq790/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them"
-    ampWebUrl: "https://www.foxnews.com/politics/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them.amp"
+  - title: "Biden pressed over debate comment that he would 'transition from the oil industry'"
+    excerpt: "After the final debate on Thursday night, Democratic presidential nominee Joe Biden was pressed by reporters on his comments about fossil fuels, following his remarks that he plans to \"transition from the oil industry.\""
+    publishedDateTime: 2020-10-23T14:17:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8a93LtPsXgk/biden-pressed-debate-comment-transition-oil-industry"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pressed-debate-comment-transition-oil-industry.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pressed-debate-comment-transition-oil-industry.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pennsylvania Republicans push back after report alleges plan to circumvent popular vote and appoint Trump electors"
-    excerpt: "Top Republicans in Pennsylvania are pushing back after a report by The Atlantic alleged that they are planning to potentially have the state legislature disregard the popular vote and appoint electors for the state in the case that election returns are disputed or delayed, saying the report took their"
-    publishedDateTime: 2020-09-28T19:47:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/14tVlDr-r7o/pennsylvania-republicans-report-alleges-plan-to-circumvent-popular-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-republicans-report-alleges-plan-to-circumvent-popular-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-republicans-report-alleges-plan-to-circumvent-popular-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
+    quality: 169
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Federal judge rejects Trump suit to block ballot drop boxes in Pennsylvania"
-    excerpt: "A federal judge in Pennsylvania rejected a lawsuit from the Trump administration to limit the number of drop boxes in the state for mail-in ballots. "
-    publishedDateTime: 2020-10-11T01:33:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MC1frMzaAB0/federal-judge-rejects-trump-suit-to-block-ballot-drop-boxes-in-pennsylvania"
+  - title: "Biden grilled on 'transition' away from oil and gas comment in Pennsylvania TV interviews"
+    excerpt: "Democratic presidential nominee Joe Biden is getting grilled in Pennsylvania ever since he said during last week’s debate that he plans to “transition” away from the oil industry."
+    publishedDateTime: 2020-10-25T12:48:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0UZIaeAkKNQ/biden-grilled-transition-oil-and-gas-pennsylvania-tv-interviews"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-grilled-transition-oil-and-gas-pennsylvania-tv-interviews.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-grilled-transition-oil-and-gas-pennsylvania-tv-interviews.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 153
+    quality: 166
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/PA-Ballot-iStock.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8443ab57-1626-487f-9624-7278281d270c/19c7fad6-bc7a-4665-8a01-bc332f8b4b61/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
-    excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button."
-    publishedDateTime: 2020-10-01T18:50:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-change-mute-button.amp"
+  - title: "RNC Chair McDaniel calls out Biden for energy comments: 'He's lying to the American people'"
+    excerpt: "Republican National Committee Chair Ronna McDaniel accused Democratic presidential nominee Joe Biden of \"lying to the American people\" regarding his energy policies, specifically regarding fracking and the oil industry."
+    publishedDateTime: 2020-10-25T13:46:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDKAnypyY1U/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people"
+    ampWebUrl: "https://www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 131
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb5cdf00-5b6d-4af6-b264-c0ff6017ed79/c9002694-65a4-4cc7-8db6-e863b64a048b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c12189ec-a656-4aec-b107-11d3bc0ac4f5/5ec31af4-90ba-4cb1-9c02-e0d45010d724/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
+  - title: "'The Tape' Shows Biden Is Lying About Fracking"
+    excerpt: "Democratic nominee Joe Biden is lying. On Thursday, during the final 2020 presidential debate, Biden denied ever saying he opposes fracking. But he absolutely did. To claim otherwise, as the former vice president did Thursday evening,"
+    publishedDateTime: 2020-10-23T19:16:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/23/the_tape_shows_biden_is_lying_about_fracking_527327.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524968_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Philadelphia-area Biden supporters confident they'll make the difference for him in Pennsylvania"
+    excerpt: "The path to the White House for Joe Biden could run through the suburbs of Philadelphia. While there's little doubt that the former vice president will win the liberal suburbs of Bucks, Chester, Delaware,"
+    publishedDateTime: 2020-10-21T19:07:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 52
 
 secured: "TXdqb++Dc3Qn1NKC46GwBKMopU5UpI0iAnEIBhDgOhLEAjR4FN2MLmZ9U0OCRuobx/tQ3aQM0REszHMZvxtrrT+FVFUtQdSby5hjDCi+ZLnAjkNtPSUe3/Fw8HbkM+L9El5wzgGzAJXHTUBfJD1V2hggsKLW/4JXkveejo2anshJCkmp8lGLz+KtA4hyayr/ZUVC8onoiUKFDeQ03OlkJIS3yCSISSqaoX6gxltjTgofAAUOHPR3V3aT6/GTSA6t3HfORV58xW10cNYh35wx7Squ9HKPMIXAe5ujorREpWW6ty9NYhb7BvEudA42Z4BNIaCNIf/eEOytXnMYmMwnqJX0RPZK+iSfnI28uIxAYPk=;57b5vgLOgbFiI1LlDVnIiw=="
 ---

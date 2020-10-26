@@ -464,6 +464,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump makes weekend swing through battleground states"
+    excerpt: "With only nine days until Election Day, the campaigns for both President Donald Trump and Democratic nominee Joe Biden are ramping up their public events in battleground states in their final full week on the trail."
+    publishedDateTime: 2020-10-26T17:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244677"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244646"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244646"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Trump Tried to Blur Responsibility for His Family Separation Policy in Final Debate"
     excerpt: "President Trump repeatedly hurled the phrase “They built the cages” at his debate opponent Thursday, but separating children from parents was a policy all his own."
     publishedDateTime: 2020-10-23T23:27:00Z

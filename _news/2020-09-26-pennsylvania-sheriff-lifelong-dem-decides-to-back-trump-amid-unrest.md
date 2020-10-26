@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp"
 type: article
 quality: 175
-heat: 355
+heat: 295
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Melania Trump to travel to Pennsylvania in final stretch of campaign"
-    excerpt: "First lady Melania Trump is hitting the campaign trail this week, traveling to Pennsylvania on Tuesday to speak directly to voters before they cast their ballots in the final stretch before Election Day."
-    publishedDateTime: 2020-10-26T12:47:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pYXosr2zN_g/melania-trump-travel-pennsylvania-campaign-trail"
-    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-travel-pennsylvania-campaign-trail.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-travel-pennsylvania-campaign-trail.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump stumping in Pennsylvania in presidential campaign's final week"
-    excerpt: "With the November election just a little over one week away and tens of millions of Americans already voting, President Trump is heading to Pennsylvania looking to erase Democratic challenger Joe Biden's lead."
-    publishedDateTime: 2020-10-26T11:56:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tg8lqFP3hvY/trump-biden-harris-pence-campaign-trail-october-26"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-26.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-26.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ece5c9a-651c-46db-b47f-755e18f7e523/5133f7d3-7d2e-4430-b650-ea3546d339ed/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump heads to Pennsylvania for the second time in a week: What's at stake"
     excerpt: "President Trump is in Pennsylvania on Saturday for the second time in a week, in an effort to court some of the same rural and White working-class voters who supported him four years ago."
     publishedDateTime: 2020-09-26T14:24:50Z
@@ -78,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/Trump-PA-AP-2.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Trump continues swing through battleground states with stop in Pennsylvania"
-    excerpt: "With the November election exactly two weeks away, President Trump is continuing his tour of the pivotal battleground states with a campaign stop in Pennsylvania, where he's currently trailing Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-20T11:49:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkEnqKrT4kw/trump-biden-harris-pence-campaign-trail-october-20"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44a51563-b1f8-4175-9291-2372bfcfd512/993301a0-09e7-401d-b6b2-8cd86a8d4fe1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
     excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button.\" "

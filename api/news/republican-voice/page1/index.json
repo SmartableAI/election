@@ -2,6 +2,232 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-26-pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.md",
+      "title": "Pence campaigns with 'medically informed' approach to events after staffers test positive for COVID-19",
+      "excerpt": "Vice President Pence has returned to the campaign trail after key staffers tested positive for the novel coronavirus, however his team is taking a “thoughtful” and “medically-informed” approach to his travel this week in the final stretch until Election Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MgfSKow3O8Y/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MgfSKow3O8Y/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.amp",
+      "publishedDateTime": "2020-10-26T11:50:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-trump-mocks-biden-to-pennsylvania-crowd-over-oil-comment-he-blew-it.md",
+      "title": "Trump mocks Biden to Pennsylvania crowd over oil comment: 'He blew it'",
+      "excerpt": "President Trump warned Pennsylvania residents that a Joe Biden administration would sink their state's economy, while mocking his Democratic rival for what he called a \"shocking admission\" about his energy policy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 390,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5237d17-29f2-4497-97f7-90df3b44d487/d8f57439-b93c-40ab-a426-5b9656ebedfa/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp",
+      "publishedDateTime": "2020-10-26T11:49:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-kamala-harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.md",
+      "title": "Kamala Harris thinks she can laugh her way through serious questions: Pavlich",
+      "excerpt": "Editor Katie Pavlich called Democratic vice-presidential nominee Sen. Kamala Harris “the most far-left Democrat in Washington, D.C.,\" and said Joe Biden picked her to \"make sure that the left wing of the party felt comfortable\" that they would have a voice in his administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pb5kaipyfMc/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pb5kaipyfMc/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp",
+      "publishedDateTime": "2020-10-26T11:32:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-jared-kushner-peace-deals-are-much-harder-than-president-trump-is-making-them-look.md",
+      "title": "Jared Kushner: Peace deals 'are much harder than President Trump is making them look'",
+      "excerpt": "Peace deals “are much harder than President Trump is making them look,” White House adviser Jared Kushner, who has been involved in brokering the Middle East peace deals, told “Fox & Friends” on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rvkk-01jc-Y/jared-kushner-trump-israel-peace-deals",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rvkk-01jc-Y/jared-kushner-trump-israel-peace-deals",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jared-kushner-trump-israel-peace-deals.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jared-kushner-trump-israel-peace-deals.amp",
+      "publishedDateTime": "2020-10-26T09:25:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-pence-tests-negative-for-coronavirus-again-as-democrats-push-him-to-skip-barrett-vote.md",
       "title": "Pence tests negative for coronavirus again as Democrats push him to skip Barrett vote",
       "excerpt": "Senate Democrats are telling Vice President Mike Pence to stay away from Judge Amy Coney Barrett's confirmation vote on Capitol Hill after five people in Pence's orbit tested positive for coronavirus last week, although the vice president tested negative again on Monday.",
@@ -59,63 +285,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-ben-shapiro-nothing-funny-about-kamala-harris-laughing-off-questions-about-socialism.md",
-      "title": "Ben Shapiro: 'Nothing funny' about Kamala Harris laughing off questions about socialism",
-      "excerpt": "Podcast host and author Ben Shapiro on Monday ripped Sen. Kamala Harris, D-Calif., for laughing at an interviewer who asked if she had socialist views.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zNjyUmwcoA/kamala-harris-laughs-socialist-views-ben-shapiro",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zNjyUmwcoA/kamala-harris-laughs-socialist-views-ben-shapiro",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp",
-      "publishedDateTime": "2020-10-26T07:56:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-tiffany-trump-hitting-campaign-trail-in-nc-michigan-other-battleground-states.md",
       "title": "Tiffany Trump hitting campaign trail in NC, Michigan, other battleground states",
       "excerpt": "President Trump's youngest daughter, Tiffany Trump, will be campaigning for her father in four battleground states, North Carolina, Pennsylvania, Michigan and Minnesota, after keeping a low profile during the 2016 campaign.",
@@ -145,62 +314,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp",
       "publishedDateTime": "2020-10-26T06:00:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-biden-staff-tells-60-minutes-he-misspoke-on-cost-of-free-public-college.md",
-      "title": "Biden staff tells '60 Minutes' he misspoke on cost of free public college",
-      "excerpt": "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OKvJtRcm96Q/biden-staff-misspoke-60-minutes-free-public-college-cost",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OKvJtRcm96Q/biden-staff-misspoke-60-minutes-free-public-college-cost",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp",
-      "publishedDateTime": "2020-10-26T05:35:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -624,62 +737,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-25-rnc-chair-mcdaniel-calls-out-biden-for-energy-comments-hes-lying-to-the-american-people.md",
-      "title": "RNC Chair McDaniel calls out Biden for energy comments: 'He's lying to the American people'",
-      "excerpt": "Republican National Committee Chair Ronna McDaniel accused Democratic presidential nominee Joe Biden of \"lying to the American people\" regarding his energy policies, specifically regarding fracking and the oil industry.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDKAnypyY1U/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDKAnypyY1U/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c12189ec-a656-4aec-b107-11d3bc0ac4f5/5ec31af4-90ba-4cb1-9c02-e0d45010d724/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp",
-      "publishedDateTime": "2020-10-25T06:46:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-25-biden-says-in-video-he-has-created-voter-fraud-organization.md",
       "title": "Biden says in video he has created 'voter fraud organization'",
       "excerpt": "Democratic nominee Joe Biden said his team has created \"the most extensive and inclusive voter fraud organization in the history of American politics\" in a recent video.",
@@ -692,7 +749,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1626,63 +1683,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-joy-behar-says-trump-should-be-charged-with-crimes-against-humanity-over-immigration-policy.md",
-      "title": "Joy Behar says Trump should be charged with ‘crimes against humanity’ over immigration policy",
-      "excerpt": "The View” co-host Joy Behar said on Friday that President Trump and members of his administration should be charged with “crimes against humanity” because of its immigration policy and vowed to not “be a part of a country” that separates children from their parents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/joy-behar-trump-crimes-against-humanity-immigration-child-separations",
-      "originalUrl": "https://www.foxnews.com/media/joy-behar-trump-crimes-against-humanity-immigration-child-separations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/07/16/694940094001_6059924440001_6059932352001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/joy-behar-trump-crimes-against-humanity-immigration-child-separations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joy-behar-trump-crimes-against-humanity-immigration-child-separations.amp",
-      "publishedDateTime": "2020-10-23T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

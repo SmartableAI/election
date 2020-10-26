@@ -2900,6 +2900,22 @@ related:
         width: 1200
         height: 761
         isCached: true
+  - title: "Is Donald Trump trying to lose or just trying to burn it all down?"
+    excerpt: "President Donald Trump's reelection chances are, um — how to put this — not great right now. The Economist's model gives him only a 10% chance of winning the electoral college. FiveThirtyEight ..."
+    publishedDateTime: 2020-10-07T20:35:00Z
+    webUrl: "https://www.newsday.com/opinion/commentary/donald-trump-coronavirus-covid-19-2020-presidential-election-strategy-1.50029096"
+    ampWebUrl: "https://www.newsday.com/amp/opinion/commentary/donald-trump-coronavirus-covid-19-2020-presidential-election-strategy-1.50029096"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/commentary/donald-trump-coronavirus-covid-19-2020-presidential-election-strategy-1.50029096"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 75
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.50029097.1602085968!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Trump administration targets diversity hiring by contractors"
     excerpt: "But advocates for corporate diversity initiatives worry that more cautious executives will halt or scale back efforts to make their workplaces more inclusive out of fear that a wrong step could jeopardize lucrative public contracts."
     publishedDateTime: 2020-10-09T15:51:00Z

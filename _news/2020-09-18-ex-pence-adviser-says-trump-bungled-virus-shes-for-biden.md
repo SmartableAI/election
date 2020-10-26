@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 6815
+heat: 6835
 published: true
 
 provider:
@@ -4707,6 +4707,17 @@ related:
     webUrl: "https://www.usnews.com/news/world/articles/2020-10-25/putin-rejects-donald-trumps-criticism-of-biden-family-business"
     ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-25/putin-rejects-donald-trumps-criticism-of-biden-family-business?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-25/putin-rejects-donald-trumps-criticism-of-biden-family-business?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Biden Bolsters Lead Over Trump Among Young Voters"
+    excerpt: "Since securing the Democratic nomination, Biden has not only coalesced support among young voters, he has become more popular with them."
+    publishedDateTime: 2020-10-26T17:34:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

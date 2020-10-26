@@ -254,6 +254,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Posts ‘60 Minutes’ Interview He Cut Short After Bristling at Questions"
+    excerpt: "Republican senators advanced President Trump’s Supreme Court nominee, setting up a final vote on Monday. Joe Biden, pressed to take a stand on court packing, said courts were “getting out of whack” and that he’d ask scholars for advice rather than take quick action."
+    publishedDateTime: 2020-10-26T18:25:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/22/us/trump-biden-debate-tonight"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/22/us/trump-biden-debate-tonight.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/22/us/trump-biden-debate-tonight.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/22/us/politics/live-blog-20201022-promo5/live-blog-20201022-promo5-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "yp9BZqH+7z8GIYe/Bh5GXIBRpMEx9Y4EeomFVEtc4UiY7u/bHYODFTxEzkNFcErnuDJ9ChDHMz8j64PP6+E5GLsRRfbC+6nrttop/AfMvN04jAj+P+TIG7vCErels0LXkA5FctvEJgLwQZ0StA2vm91yiJav8bufJv9HagyJTY6M0j2DNELdLWHCf+LePLk0tBTiEqmPRrZEU2ayGWSqWRa2S5PbOmQ7XdnW58/GmRYmoqapNgR8TjEkxJ4moNAhbXO0la4QRdDJLN8m4F5uCuT8SN1bQxxeJWXBAQ+TSFkGKdRtweiUsihj1Lll5Hs298+p2Zs8iVufp7PXCgZysIsX0Y8+tHG1uXGSyrn+15TtpVki2AZMhAJMsvrj63TPzoyYsUSmd+hnQuFMGf988VYkRQPqyNYaXF2WCVEy0Q2uNIoerRuUyYWD+avbpxOuI5hHRMMsHIs4QbF8fXKfHTIOqdIPJR5OXVZe2SQwR90/7fNnjmZ2JrZgvSh18SAMzjINsmya0rpnt4ucM/9MDQ==;EfGdpRPUf3pUKMU+2PV7Fw=="
 ---

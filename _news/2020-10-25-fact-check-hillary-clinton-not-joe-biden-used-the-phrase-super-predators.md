@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: VOA video is not a Biden ad to address the Muslim community"
+    excerpt: "Users on social media are sharing a video with Urdu subtitles showing democratic presidential candidate Joe Biden. Some posts refer to the clip as “Biden’s Muslim Commercial” claiming it was produced by the Biden campaign and that it is “being promoted in areas of"
+    publishedDateTime: 2020-10-26T17:26:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-not-muslim-ad-idUSKBN27B22U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B22U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B22U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538869649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1D7"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Fact check: Post claiming Joe Biden wants to put farms in 'land banks' is missing context"
     excerpt: "At a September town hall, Biden said he wants to put farms into \"land banks.\" Some have taken this to mean he wants a government takeover of farmland."
     publishedDateTime: 2020-10-23T23:03:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/18/PWIL/ad743977-7d3a-417e-994d-eeee1172d267-AP20262045476717.jpg?auto=webp&crop=5580,3139,x0,y283&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Brad Pitt Calls Joe Biden A President For 'All Americans' In New Campaign Ad"
+    excerpt: "Actor Brad Pitt narrated the new campaign ad for Joe Biden's presidential campaign, praising him as a \"president for all Americans\" and someone who understands \"their hopes, their dreams, their pain.\""
+    publishedDateTime: 2020-10-26T03:22:00Z
+    webUrl: "https://www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609"
+    ampWebUrl: "https://www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/25/brad-pitt.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "GGGLE/3kqIDDPmgcK2JkEtm7P1avkb6zlbtfGJO0W3wTds3A5JqNeJaFtCdjGOtuxn5LPlWjLJ+UvwWpXB2k6o5/pmeCU4c8Sh9uIAQopbbwgRQ1cZ7m6gstcDIloCtUgOqQcp+JratB/CAJ9poi+XeJetNLvVm5MVwDtkuX0fTLNThb8uBR3bkeXdvIOkA5AkpXTDQRn/MvcOiohRAsGJ+WD3OL00M1bryZLQUV9HSoknVdRoGOPheYjkkhCecwIaxjk7q/+OrrNgPzKHSj+E/OeXhEVj3yyYENTGsMvhcvncWU3068XWefAh5IuwrblMbGtzHl/F7sueI6q1aR7QTsVY3HGxEe+mWsMvTnclzg72omSMkISIN7NMSrVdoJrRZ5uZ7ltCyYMImNNNP/DthCqJziediijiyf9Sa+nhip2kHfTTH/M3qK4cKjz79rgcVJ+SRikj/w/4WAYMOb0ZKnlDZ6cR0z6dnUdA7IlDxpN7PaINlpACprWSLWXU+5iivHymbyqfvl5oOQl+1/hA==;k9WAMJ4uiHEW0lKVmmmOkg=="

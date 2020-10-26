@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 1110
+heat: 1130
 published: true
 
 provider:
@@ -558,6 +558,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/20/us/politics/00biden-cops1/00biden-cops1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "With Weakness Among Hispanic Voters, Biden Trails in Texas"
+    excerpt: "Large Democratic gains among white suburbanites suggest risks down the ballot for Republicans in congressional and state House races, our poll shows."
+    publishedDateTime: 2020-10-26T19:47:00Z
+    webUrl: "https://www.nytimes.com/2020/10/26/upshot/poll-texas-hispanics-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/26/upshot/poll-texas-hispanics-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/26/upshot/poll-texas-hispanics-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/26/us/undefined-promo-1603729902206/undefined-promo-1603729902206-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Teen with van full of guns had checklist to 'execute' Joe Biden, authorities say"
     excerpt: "Authorities alleged that Alexander Treisman posted a meme about killing the Democratic presidential nominee and had a checklist with a note to \"execute\" him."

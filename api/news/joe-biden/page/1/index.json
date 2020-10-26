@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-27-fact-check-voa-video-is-not-a-biden-ad-to-address-the-muslim-community.md",
+      "title": "Fact check: VOA video is not a Biden ad to address the Muslim community",
+      "excerpt": "Users on social media are sharing a video with Urdu subtitles showing democratic presidential candidate Joe Biden. Some posts refer to the clip as “Biden’s Muslim Commercial” claiming it was produced by the Biden campaign and that it is “being promoted in areas of",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-biden-not-muslim-ad-idUSKBN27B22U",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-biden-not-muslim-ad-idUSKBN27B22U",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538869649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1D7",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27B22U",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B22U",
+      "publishedDateTime": "2020-10-26T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-trump-attacked-biden-for-warning-against-4-more-years-of-george-but-the-democrat-has-long-called-himself-a-gaffe-machine.md",
+      "title": "Trump attacked Biden for warning against '4 more years of George,' but the Democrat has long called himself a 'gaffe machine'",
+      "excerpt": "Joe Biden called President Donald Trump \"George\" during a campaign event. Biden has been open about his stutter, calling himself a \"gaffe machine.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
+      "originalUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f96ad79f21803001222bdca?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
+      "publishedDateTime": "2020-10-26T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-police-florida-man-stole-bulldozer-ran-down-biden-signs.md",
       "title": "Police: Florida man stole bulldozer, ran down Biden signs",
       "excerpt": "Authorities and homeowners in central Florida have accused a 26-year-old man of stealing a bulldozer from a construction site and driving it into a neighborhood to knock down campaign signs promoting",
@@ -62,7 +167,7 @@
       "originalUrl": "https://www.theguardian.com/commentisfree/2020/oct/26/could-rejected-mail-in-ballots-cost-joe-biden-the-election?ref=hvper.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 860,
+      "heat": 880,
       "tags": null,
       "images": [
         {
@@ -275,58 +380,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-fact-check-post-claiming-joe-biden-wants-to-put-farms-in-land-banks-is-missing-context.md",
-      "title": "Fact check: Post claiming Joe Biden wants to put farms in 'land banks' is missing context",
-      "excerpt": "At a September town hall, Biden said he wants to put farms into \"land banks.\" Some have taken this to mean he wants a government takeover of farmland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-claim-lacks-important-details-biden-and-land-banks/6011931002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-claim-lacks-important-details-biden-and-land-banks/6011931002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/18/PWIL/ad743977-7d3a-417e-994d-eeee1172d267-AP20262045476717.jpg?auto=webp&crop=5580,3139,x0,y283&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6011931002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6011931002",
-      "publishedDateTime": "2020-10-23T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -712,7 +765,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2083,
+      "heat": 2123,
       "tags": null,
       "images": [
         {
@@ -921,7 +974,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/10/19/joe-biden-cameron-peak-fire-deadly-sign-climate-change/3711004001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1112,6 +1165,63 @@
       ]
     },
     {
+      "path": "_news/2020-10-20-joe-biden-continues-to-pander-this-time-its-the-haitian-american-community.md",
+      "title": "Joe Biden Continues to Pander: This Time It’s the Haitian-American Community",
+      "excerpt": "Joe Biden’s recent eight minute and 46 second speech while visiting the Haitian American community showed that it was just another last-minute attempt at pandering for minority votes.For 47 years",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/madgienicolas/2020/10/19/joe-biden-continues-to-pander-this-time-its-the-haitianamerican-community-n2578393",
+      "originalUrl": "https://townhall.com/columnists/madgienicolas/2020/10/19/joe-biden-continues-to-pander-this-time-its-the-haitianamerican-community-n2578393",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/283/91f0f38e-111e-4e1d-9961-599707f44f8c.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/madgienicolas/2020/10/19/joe-biden-continues-to-pander-this-time-its-the-haitianamerican-community-n2578393?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/madgienicolas/2020/10/19/joe-biden-continues-to-pander-this-time-its-the-haitianamerican-community-n2578393?amp=true",
+      "publishedDateTime": "2020-10-19T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-what-joe-biden-can-learn-from-jacinda-ardern.md",
       "title": "What Joe Biden Can Learn from Jacinda Ardern",
       "excerpt": "The reelection of New Zealand’s prime minister was “one for the history books.” Her formula for success was simple.",
@@ -1212,21 +1322,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-trumps-campaign-is-despondent-as-he-keeps-reusing-strategies-which-worked-against-hillary-clinton-but-arent-landing-on-joe-biden-reports-say.md",
-      "title": "Trump's campaign is despondent as he keeps reusing strategies which worked against Hillary Clinton but aren't landing on Joe Biden, reports say",
-      "excerpt": "The New York Times and The Associated Press reported that Trump's team worry that he has failed to adapt his strategy to his opponent.",
+      "path": "_news/2020-10-19-these-voters-rejected-hillary-clinton-but-theyre-voting-for-joe-biden-here-are-the-many-reasons-why.md",
+      "title": "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why.",
+      "excerpt": "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10",
+      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html",
+      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 169,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f8d4e0bc21cfb0019468ac4?width=1200&format=jpeg",
+          "url": "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg",
           "width": 1200,
-          "height": 600,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1234,16 +1344,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp",
-      "publishedDateTime": "2020-10-19T03:40:00-07:00",
+      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-18T11:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1260,7 +1370,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Joe Biden"
       ]
     },
@@ -1466,110 +1575,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency.md",
-      "title": "Joe Biden Urged To Grant 2.2 Million Deferred Enforced Departure On ‘Day One Of His Presidency’",
-      "excerpt": "In a letter shared exclusively with this publication, Democratic presidential nominee Joe Biden is being urged to promise roughly 2.2 million people at risk of future deportation protections to remain in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/",
-      "originalUrl": "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88e1ce890b284b1282a55b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/",
-      "publishedDateTime": "2020-10-16T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-column-big-tech-slaps-the-new-york-post-to-shield-joe-biden.md",
-      "title": "Column: Big Tech slaps The New York Post to shield Joe Biden",
-      "excerpt": "We were always told it would come from the right, but now we see that it comes from Big Tech, which has interfered with a news organization’s coverage of a Joe Biden campaign issue. Social media giants Twitter and Facebook on Wednesday limited the sharing on their platforms of a story from The New York Post about questionable business dealings of Joe Biden’s son Hunter in Ukraine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
-      "originalUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/P2hqGpWjNVftSNcBqXQMwth4Lbs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H2RW7ZNH7DBS77JXMSLEEFLGFI.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-16T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

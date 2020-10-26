@@ -278,6 +278,22 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 65
+  - title: "Presidential candidate Joe Biden visits Toledo, giving drive-in style speech at UAW Local 14"
+    excerpt: "TOLEDO, Ohio — Democratic presidential candidate Joe Biden addressed a private event at the UAW Local 14 union hall on Jackman Road in west Toledo on Monday, taking shots at President Donald ..."
+    publishedDateTime: 2020-10-12T16:46:00Z
+    webUrl: "https://www.wkyc.com/article/news/local/presidential-candidate-joe-biden-set-to-visit-toledo-monday/512-77e45b40-0b5c-4834-97d2-72893ec0ff25"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/local/presidential-candidate-joe-biden-set-to-visit-toledo-monday/512-77e45b40-0b5c-4834-97d2-72893ec0ff25"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/presidential-candidate-joe-biden-set-to-visit-toledo-monday/512-77e45b40-0b5c-4834-97d2-72893ec0ff25"
+    type: article
+    provider:
+      name: WKYC3
+      domain: wkyc.com
+    quality: 64
+    images:
+      - url: "https://media.wkyc.com/assets/WTOL/images/7d68553c-36db-417a-b36b-ef34589bda34/7d68553c-36db-417a-b36b-ef34589bda34_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Joe Biden Appeals for National Unity, Return to Bipartisanship"
     excerpt: "In a speech at Gettysburg, Pennsylvania, Democratic presidential candidate Joe Biden calls for national unity and a return to bipartisanship in order to get things done for the country, including combating the coronavirus pandemic."
     publishedDateTime: 2020-10-06T22:21:00Z
