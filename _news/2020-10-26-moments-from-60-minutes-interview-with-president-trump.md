@@ -3,8 +3,8 @@ category: news
 title: "Moments from 60 Minutes' interview with President Trump"
 excerpt: "This week on 60 Minutes, correspondent Lesley Stahl interviewed President Donald Trump and Vice President Mike Pence. It is the fourth time Stahl has interviewed Mr. Trump and her second sit-down with Pence."
 publishedDateTime: 2020-10-26T01:14:00Z
-originalUrl: "https://www.cbsnews.com/news/president-trump-60-minutes-interview-highlights-2020-10-25/"
-webUrl: "https://www.cbsnews.com/news/president-trump-60-minutes-interview-highlights-2020-10-25/"
+originalUrl: "https://www.cbsnews.com/news/president-trump-60-minutes-interview-highlights-2020-10-25/?fbclid=IwAR3SVvEE6mFEduGafMrqqswMpfsuf_7RqxuKQDID2J8SIezdK837G7KpafU&ftag=CNM-00-10aab7e"
+webUrl: "https://www.cbsnews.com/news/president-trump-60-minutes-interview-highlights-2020-10-25/?fbclid=IwAR3SVvEE6mFEduGafMrqqswMpfsuf_7RqxuKQDID2J8SIezdK837G7KpafU&ftag=CNM-00-10aab7e"
 ampWebUrl: "https://www.cbsnews.com/amp/news/president-trump-60-minutes-interview-highlights-2020-10-25/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-trump-60-minutes-interview-highlights-2020-10-25/"
 type: article
@@ -1573,6 +1573,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Z8IBWQig3KtC+1cYyI+keq5KrRbOBG7TP5ObKOGVAmeSMCW3+0oS9TINry4qNAFdDRE8SL0xd+rn3DG2YyZVJ24pXWfuU5VxiSrxqBWt5u2/f2J/0cdKN0WMTwuQWTd7sTc6VzixSFT+Gyh0W7da2LevybrLJBaIM2tNhk1sW8kDIxoeZfPKMMxhR9zV1nUWFn9+ZYieQz9V4+vRcFIZg+qPjJmpzt8Funpw2p64S98o/VtEDRa9yRU/Usn8lMOliTuazSs1Ez0Prjajyvi2k6ct6gPlN79ycV+8mwcnwxm8f98qjmLyuaoaylyHA5GD6IlOCz8xYTXXpcYAMqt60sxbgWlOVrhN0Tyoau9wZAcIYaUckrJzRoCU7EuFYe8puD0Gh6HnpwulpHXRt1nh9+gpVzHzjcxo/UQ6ZNFEPUed8aqnftpSc07Wxzpf3N17auwZQcx9KMi/gMNzyjPbmPqVE9R3ShMZqKgohRia5IPbvg9dvVSkQt1F5t915ImlnFtydq+YJQinebM0ua8wYA==;yOcjIDDMql3VWG/j/Lznfg=="
+secured: "e07qdIrzpdnY6Jd9yAT9a1Zf/DkNlnoCGhFL0bhRPMeAsCcJjd7NJVWaeOBBffuzF2KuN+HVIWHxrn1rvXOADOxHiCUPp5oFsEQ7E4ToA9ZAs2t3VUMR/d+y3TXcVrWL4k5BlupIrrBOEBwVLPX+yUvaeR6xTFzEl1gx0G17+SUqTq9kgMpiKrSnV4BKj2n8kV7qACResvLSTx5Frt24bGyCXqbEgMmoaDtK/4qKjCOzVoi6Bav1HVvm0pCoqGeCObaZsuXGztGrRXaKJuEMROg1aoMZ0yx0ZRCkAZjw+EwsvzyzpKHeySFZ296Fhd9U+JJFWP1reORPTdt6cgor5tcX9SXeKZ7Uwv0ynyiL+d0=;R5km4K6Buhpy4LsmDJTOHA=="
 ---
 

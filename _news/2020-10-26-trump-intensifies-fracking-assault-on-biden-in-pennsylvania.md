@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump Intensifies Fracking Assault on Biden in Pennsylvania"
-excerpt: "In a persistent gambit to win the battleground state of Pennsylvania, President Donald Trump has worked to peel off voters connected to its booming natural gas industry and accuse former Vice President Joe Biden of plotting to shut it down."
-publishedDateTime: 2020-10-25T17:03:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania?context=amp"
+title: "Trump intensifies fracking assault on Biden in Pennsylvania"
+excerpt: "In a late gambit to win the battleground state of Pennsylvania, President Donald Trump and his GOP allies have intensified attacks on Joe Biden over fracking, hoping to drive a wedge between the former vice president and the white,"
+publishedDateTime: 2020-10-26T02:28:00Z
+originalUrl: "https://www.businessinsider.com/trump-intensifies-fracking-assault-on-biden-in-pennsylvania-2020-10"
+webUrl: "https://www.businessinsider.com/trump-intensifies-fracking-assault-on-biden-in-pennsylvania-2020-10"
+ampWebUrl: "https://www.businessinsider.com/trump-intensifies-fracking-assault-on-biden-in-pennsylvania-2020-10?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-intensifies-fracking-assault-on-biden-in-pennsylvania-2020-10?amp"
 type: article
-quality: 70
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -28,9 +28,9 @@ related:
   - title: "Pence staff hit by COVID-19 outbreak as Biden says Trump has surrendered to pandemic"
     excerpt: "Vice President Mike Pence campaigned on Sunday despite a COVID-19 outbreak among his aides and President Donald Trump claimed progress as the United States set records for daily infections, prompting Democratic challenger Joe Biden to accuse Trump of surrendering to"
     publishedDateTime: 2020-10-26T03:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUKKBN27A04U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27A04U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27A04U"
+    webUrl: "https://www.reuters.com/article/us-usa-election-idINKBN27A04U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A04U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A04U"
     type: article
     provider:
       name: Reuters
@@ -2047,6 +2047,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Putin rejects Donald Trump's criticism of Biden family business, saying he sees nothing 'criminal' with Hunter Biden in Ukraine"
+    excerpt: "Putin was responding to comments made by President Trump during televised debates with Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-26T02:27:00Z
+    webUrl: "https://www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f962fd84743a3001216b879?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "After Fauci said he's not surprised Trump got COVID-19, president calls top disease expert a 'disaster'"
     excerpt: "\"I think deep down, he believes in science,\" Fauci said of Trump. \"If he didn't, he would not have entrusted his health\" to the Walter Reed doctors."
     publishedDateTime: 2020-10-19T23:45:00Z
@@ -2501,22 +2517,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AP Explains: Trump pushes questions about Joe Biden's son"
-    excerpt: "Looking to undermine Democratic rival Joe Biden, President Donald Trump’s campaign is pushing a familiar line of attack: unverified allegations about Biden's son and his foreign business ties. But reporting in the New York Post,"
-    publishedDateTime: 2020-10-25T20:24:00Z
-    webUrl: "https://www.chron.com/news/article/AP-Explains-Trump-pushes-questions-about-Joe-15673945.php"
-    ampWebUrl: "https://www.chron.com/news/amp/AP-Explains-Trump-pushes-questions-about-Joe-15673945.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-Explains-Trump-pushes-questions-about-Joe-15673945.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "‘SNL’: Alec Baldwin’s Trump and Jim Carrey’s Biden Face Off in Final Debate"
     excerpt: "Live tackled the “second and, praise Jesus, final debate” in its latest cold open, with Alec Baldwin’s Donald Trump and Jim Carrey’s Joe Biden facing off for the last time before Election Day. “How does this mute button work?"
     publishedDateTime: 2020-10-25T09:02:00Z
@@ -2701,6 +2701,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Russia's Putin Defends Hunter Biden Against Trump's Claims: 'I Don’t See Anything Criminal'"
+    excerpt: "Russian President Vladimir Putin defended Hunter Biden against President Trump's accusations, claiming he sees nothing wrong with the son's business dealings with Ukrainian firms."
+    publishedDateTime: 2020-10-26T02:04:00Z
+    webUrl: "https://www.ibtimes.com/russias-putin-defends-hunter-biden-against-trumps-claims-i-dont-see-anything-criminal-3069584"
+    ampWebUrl: "https://www.ibtimes.com/russias-putin-defends-hunter-biden-against-trumps-claims-i-dont-see-anything-criminal-3069584?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/russias-putin-defends-hunter-biden-against-trumps-claims-i-dont-see-anything-criminal-3069584?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/15/six-senior-russian-officials-including-the-head-of.jpg"
+        width: 1024
+        height: 726
         isCached: true
   - title: "Presidential Debate Facts: What To Know About Trump, Biden, Welker And More In Final Showdown"
     excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden meet Thursday at Belmont University in Nashville, Tennessee, in the final debate of the 2020 campaign. In a big change from past debates,"
@@ -3103,6 +3119,17 @@ related:
         width: 1024
         height: 621
         isCached: true
+  - title: "AP Explains: Trump Pushes Questions About Joe Biden's Son"
+    excerpt: "President Donald Trump’s campaign is pushing a familiar line of attack against Democrat Joe Biden in the final days of the presidential campaign: unverified allegations about Biden’s son and his foreign business ties."
+    publishedDateTime: 2020-10-25T20:31:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Joe Biden is selling seniors fear: Rudy Giuliani says the Democratic campaign is misrepresenting Donald Trump’s record"
     excerpt: "As this presidential campaign enters its final act, Joe Biden is attempting to con American seniors into abandoning their greatest ally in the federal government, Donald J. Trump."
     publishedDateTime: 2020-10-21T09:04:00Z
@@ -3312,6 +3339,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "a6sCJ7I+BuwP7+wyMvl2MQGr/v+mTZh+ugKhVkFzXH9yXJlgdE1SuI/estSGYC/24Hg+MzD6XhSRYJrnoekm5beJFhA1kqQZsnPAp61eR0JLfpkIri524RUrNnYUOiaSeGiS+lcTYSNmTugUKrRlFviXjSH5tvOfuhvifsf7Y+glFiQDRBEjUy8+jK3wlfFoaACFegxjxdsxiFLvnF55p04GIou4lewNmk3p4NCxjQzTM8VyjmytW0x/J5z5dLKOi8iIhoe2yeLZha8lHZsPtiSBrjbwZyE5mZunuUOKWNGZYe91oEpnYa46EXI30YZscYJxOqmOtQ/M1IbASFD5Bixitqxl7I97BajI/i7r5HMORYK471/RYbCAnV0gh6LEITQWxYn/ie6G/61ntNvNxMSY7CvzmE7aZDJbCs7ZRVBbz4BC+i/AOHK8nC/N+PTZl5mukcMXWM3+YeJsUZkbPiKSB76ty68yPiRbq1DW8EYfAkNVAjX0sYWHSuKZwxaNlngqKqlnuVndyNkLlwrK4Q==;cJfV4+d25H73Zzt+mGdobA=="
+secured: "67UplI1fIAsZg2UGo6sOGgh2/FOXfu9NyMc1Zyn1JbuGlseJL7JM+pKlJsOR5TjOqMW01IHjHERWw0R1LT2oEIqdPJHzfQMN7ZPhDXkfIGfsTOarpUUzMKsmkRDHkcWQj/pxznFDDqdXBkWGoyseDCKJc2deTOFreTvy7vtZjw1UtaYUCtmAFEtQ9CTw8luQXTS2FBNQppOsC1T1vjALfpW5dZIllUy8xNDTI+ghlu7zlz4w9TpTXSjCj5dqD6WOX3xOzhqHIR4M1ov7KpwgXjhzIT33+Zc1D8XPLMvSDwctI6s0N1exXcCRsIMAjR1/zcwRHUIM8LvTNlQYjCKui444KLCj7L1526L8+tB1Uhc=;sT/dT+BwCLPq2SQzyizuqA=="
 ---
 

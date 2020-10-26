@@ -1,38 +1,36 @@
 ---
 category: news
-title: "AP Explains: Trump pushes questions about Joe Biden's son"
-excerpt: "Looking to undermine Democratic rival Joe Biden, President Donald Trump’s campaign is pushing a familiar line of attack: unverified allegations about Biden's son and his foreign business ties. But reporting in the New York Post,"
-publishedDateTime: 2020-10-25T20:24:00Z
-originalUrl: "https://www.chron.com/news/article/AP-Explains-Trump-pushes-questions-about-Joe-15673945.php"
-webUrl: "https://www.chron.com/news/article/AP-Explains-Trump-pushes-questions-about-Joe-15673945.php"
-ampWebUrl: "https://www.chron.com/news/amp/AP-Explains-Trump-pushes-questions-about-Joe-15673945.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-Explains-Trump-pushes-questions-about-Joe-15673945.php"
+title: "AP Explains: Trump Pushes Questions About Joe Biden's Son"
+excerpt: "President Donald Trump’s campaign is pushing a familiar line of attack against Democrat Joe Biden in the final days of the presidential campaign: unverified allegations about Biden’s son and his foreign business ties."
+publishedDateTime: 2020-10-25T20:31:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son?context=amp"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
-images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
-    isCached: true
-
 related:
   - title: "Pence staff hit by COVID-19 outbreak as Biden says Trump has surrendered to pandemic"
     excerpt: "Vice President Mike Pence campaigned on Sunday despite a COVID-19 outbreak among his aides and President Donald Trump claimed progress as the United States set records for daily infections, prompting Democratic challenger Joe Biden to accuse Trump of surrendering to"
     publishedDateTime: 2020-10-26T03:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUKKBN27A04U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27A04U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27A04U"
+    webUrl: "https://www.reuters.com/article/us-usa-election-idINKBN27A04U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A04U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A04U"
     type: article
     provider:
       name: Reuters
@@ -1824,6 +1822,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump intensifies fracking assault on Biden in Pennsylvania"
+    excerpt: "In a late gambit to win the battleground state of Pennsylvania, President Donald Trump and his GOP allies have intensified attacks on Joe Biden over fracking, hoping to drive a wedge between the former vice president and the white,"
+    publishedDateTime: 2020-10-26T02:28:00Z
+    webUrl: "https://www.businessinsider.com/trump-intensifies-fracking-assault-on-biden-in-pennsylvania-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-intensifies-fracking-assault-on-biden-in-pennsylvania-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-intensifies-fracking-assault-on-biden-in-pennsylvania-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Joe Biden says he's praying for President Trump's recovery from COVID-19"
     excerpt: "Joe Biden spoke at a campaign event in Grand Rapids, Michigan on Friday and said he is praying for a swift recovery for President Trump and first lady Melania Trump, who both tested positive for COVID-19."
     publishedDateTime: 2020-10-02T21:23:00Z
@@ -2048,6 +2057,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/debate-barriers-gty-ps-201022_1603372308209_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Putin rejects Donald Trump's criticism of Biden family business, saying he sees nothing 'criminal' with Hunter Biden in Ukraine"
+    excerpt: "Putin was responding to comments made by President Trump during televised debates with Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-26T02:27:00Z
+    webUrl: "https://www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f962fd84743a3001216b879?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "After Fauci said he's not surprised Trump got COVID-19, president calls top disease expert a 'disaster'"
     excerpt: "\"I think deep down, he believes in science,\" Fauci said of Trump. \"If he didn't, he would not have entrusted his health\" to the Walter Reed doctors."
@@ -2688,6 +2713,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Russia's Putin Defends Hunter Biden Against Trump's Claims: 'I Don’t See Anything Criminal'"
+    excerpt: "Russian President Vladimir Putin defended Hunter Biden against President Trump's accusations, claiming he sees nothing wrong with the son's business dealings with Ukrainian firms."
+    publishedDateTime: 2020-10-26T02:04:00Z
+    webUrl: "https://www.ibtimes.com/russias-putin-defends-hunter-biden-against-trumps-claims-i-dont-see-anything-criminal-3069584"
+    ampWebUrl: "https://www.ibtimes.com/russias-putin-defends-hunter-biden-against-trumps-claims-i-dont-see-anything-criminal-3069584?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/russias-putin-defends-hunter-biden-against-trumps-claims-i-dont-see-anything-criminal-3069584?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/15/six-senior-russian-officials-including-the-head-of.jpg"
+        width: 1024
+        height: 726
+        isCached: true
   - title: "Presidential Debate Facts: What To Know About Trump, Biden, Welker And More In Final Showdown"
     excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden meet Thursday at Belmont University in Nashville, Tennessee, in the final debate of the 2020 campaign. In a big change from past debates,"
     publishedDateTime: 2020-10-23T01:08:00Z
@@ -3089,17 +3130,6 @@ related:
         width: 1024
         height: 621
         isCached: true
-  - title: "Trump Intensifies Fracking Assault on Biden in Pennsylvania"
-    excerpt: "In a persistent gambit to win the battleground state of Pennsylvania, President Donald Trump has worked to peel off voters connected to its booming natural gas industry and accuse former Vice President Joe Biden of plotting to shut it down."
-    publishedDateTime: 2020-10-25T17:03:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Joe Biden is selling seniors fear: Rudy Giuliani says the Democratic campaign is misrepresenting Donald Trump’s record"
     excerpt: "As this presidential campaign enters its final act, Joe Biden is attempting to con American seniors into abandoning their greatest ally in the federal government, Donald J. Trump."
     publishedDateTime: 2020-10-21T09:04:00Z
@@ -3309,6 +3339,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "0zKt4nP6h0e4kV+mrcheiK09KdQlaBWKs6EqXrhdDrcBDESWVpNLCRGExPlxn0vbQ59emgl58YHLJwo0g7kzo54EeMzCE71uJ/+uQIMM9B+qmMFX9m1IpgudCrXdKIjRKPfR21/T6CKwCEXto9hHcXCpE0JeBXgeVixvHfl6V3yZbULJzQBZzxqtHlLQYRG4wdBrJGNLAgHe3rGnkh196JSOyE3VfJvB0mi6NhBKqZyT8nSLrhrv4FOjNRVr5F2iMXHCDB7C2vrcnI2W1j9GxSUyIwokXB/Ebq+LozMVTnXJ5YaHzzPpUMc9WtFigRo3SShks+trLfqB9rpgFfUAltqdyF5gWVjCZiN1f0iDybQ4IRcHEOt6+CD4cmkmCphpBrjjDqDPfEcOVIYVni375rQHU2vk/vywOwfixVOIKJHGZZXVLkTduXkeAbgzMPf+wXj+jRugyM/YGZ0q5OZFjc+zCQ5cFzp2OvzJT2NvIFXRt0jF4k4dOifb3lTl4g8tF4UZeMX6fQT3zV2hA42Sdg==;pa0A7U3KBgH24LTqzEadvA=="
+secured: "RhZzdL3Cq7B5dT40eyQDv6c0q6D/BpMIfDQVt+9s7nUkJIaC3ABEoCb3M86buDjedqulMuH4UTciRAihEYFHDLj7VC3Tkg5TN/koSAJTgFsQdQENKf0qpeEtxSEIGHs1gG/9/czT9mlcNFcR4vT2RmjWkvP7rSnvaIPB98Jh2jqZ85Gvj9T6oDaZoYirQt8ZRNSg78dk2C9vWtbSDoy38kEXqXZqjvnvfVUw06HghDX3XdLGvg6IcHBC33gxdea7lS221Tp/X8LWo/RW0kN1UKCj8D5NRcQMMg9pS+cSaG5HJAEO21YFlQx3cAY7MCDRZozd8DoiNzyy8aGOlGeUTSlHOLgb/xu2Bsc7lbf68CyfJBCit5xYguWIdxx1mM1VuPiQyHsltlBmPbPe2+JdLE5sz7iLOimuosWMaP8wlNnuUexOG9GsomlLcZnoNobjCNljy5dkBUq61lqIwqbScrbHsVVj1FFb5vInLb3CP310DHbTQbc4VL+GJnZpv0Q/nqWV0CVhO8wUMbL+7CafQw==;EgZVch29iESFb5cWbwpWMw=="
 ---
 

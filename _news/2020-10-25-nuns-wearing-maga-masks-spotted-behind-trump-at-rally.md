@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "'SNL' mocks final debate, voters whose 'entire personality is hating Donald Trump'"
+    excerpt: "Live\" satirized last week’s final presidential debate in this weekend's cold open by first making fun of the novel mute button that was introduced Thursday to keep the candidates from interrupting each other."
+    publishedDateTime: 2020-10-26T04:20:00Z
+    webUrl: "https://www.foxnews.com/entertainment/snl-mocks-final-debate-voters-whose-entire-personality-is-hating-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/entertainment/snl-mocks-final-debate-voters-whose-entire-personality-is-hating-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/snl-mocks-final-debate-voters-whose-entire-personality-is-hating-donald-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12727fc9-d37d-42d9-aaeb-e92957f211ce/58127d0c-5a71-49ac-87da-d85ad71e947b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Some media liberals urge revenge, payback if Trump loses"
     excerpt: "Media commentators, who are unloading everything they have on President Trump, are no longer content with the idea of him merely losing."
     publishedDateTime: 2020-10-21T16:27:00Z

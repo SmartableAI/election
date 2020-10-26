@@ -482,7 +482,7 @@ related:
   - title: "Moments from 60 Minutes' interview with President Trump"
     excerpt: "This week on 60 Minutes, correspondent Lesley Stahl interviewed President Donald Trump and Vice President Mike Pence. It is the fourth time Stahl has interviewed Mr. Trump and her second sit-down with Pence."
     publishedDateTime: 2020-10-26T01:14:00Z
-    webUrl: "https://www.cbsnews.com/news/president-trump-60-minutes-interview-highlights-2020-10-25/"
+    webUrl: "https://www.cbsnews.com/news/president-trump-60-minutes-interview-highlights-2020-10-25/?fbclid=IwAR3SVvEE6mFEduGafMrqqswMpfsuf_7RqxuKQDID2J8SIezdK837G7KpafU&ftag=CNM-00-10aab7e"
     ampWebUrl: "https://www.cbsnews.com/amp/news/president-trump-60-minutes-interview-highlights-2020-10-25/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-trump-60-minutes-interview-highlights-2020-10-25/"
     type: article
@@ -1573,6 +1573,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Yt4Xd7QbkFUqXkpnjjBBwL/MyETmjM8NFskbs/wgabkk5yeVpqEZ4hCu4UcFefJhiePZhlgRnKLypbGqwmgHYNkqjpRWcmHgF1hwSxpXb8VqBJzQMdcrgOiNWc8l6eQvdcLLguQoomdecLehAVLl4fgpuZZcV8Zdqkou0wlEdgKPB+GZPGm1t6ikNw9B7UMgm+ICRLbhxyAxGPOAl1anbjmLabvOn11H7e2yJHcBO+6eJREZp9K2hiX+i+9gUVgjRRwp9Ivib3YW4SgE0qaaXFjbMzC7xBcYmygUg2UFGxspPUuMWt3oEdcb4zFiFrNEZX/jnGhPldYYbgbvwcv9z1WsySLip+FT1/nsGn88ous=;sQMQIsid/gleeLQDfVFgMg=="
+secured: "zWgPejQsrR4AqPT7aloiY9+xb0pSPLw8Z7ZEBx8yWS6vJ6ec1khjDfZEcZrE0WOv2Um+3Cx9czhEYMNVwza/DAmgBErnuN1lIiqTPJs1te93uH//TmLRrcN/CUbnUwUcu5rI+VfYvY8whj8sCgXTB+hP1dGWJ/NGXOXw6sGMfH+im/4cQST0aVO/cHnPT7fLAZlci23RS1sO5BvItiWHbVC2NhQgk+ZjIKLtgkwqYUK2mQjYKztE6fbJ4po/OIfYJOM5cLYtr3/6Klra4TVVsi3ppNqcrPVVbWmeuwQ442TL/K/H93E2j6fPe73IgF7AAq7jiaJOer8MKbw5A7Ilx43BmV4pT9M05p1kYuXHJ1CYT25Oi9DXfSBqVscwKhBCIF1u3FBgAigD6BM+CEE2kymqvaqfUt6/cVGSc7m0w1rGJpszjtFwf2+A/Du4xqzSGhx6oE9oYojzJGVd2hCm0l6F65KIHO3POdJoHxeZqd0CVnuNYgn4S+i04XBSs0Jq8HLE9A8Dm+L+m7dhv7lcQw==;kBx9Zs65zpxDJaq2hgkBIg=="
 ---
 
