@@ -2,6 +2,214 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-24-court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election.md",
+      "title": "Court orders Eric Trump to testify before New York attorney general ahead of election",
+      "excerpt": "The New York attorney general is investigating whether President Trump and the Trump Organization committed fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
+      "originalUrl": "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 573,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2017/01/20/27e8b99b-46aa-47de-8661-1bbc3f933766/thumbnail/1200x630/63562a2c456817dadce249140e6b51b8/king-eric-trump-sot-frame-1551.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
+      "publishedDateTime": "2020-09-23T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-donald-trump-and-richard-nixon-exchanged-letters-in-the-80s-read-some-of-them-here.md",
+      "title": "Donald Trump and Richard Nixon exchanged letters in the 80s. Read some of them here.",
+      "excerpt": "I think that you are one of this country’s great men, and it was an honor to spend an evening with you,” Trump writes to Nixon in June 1982, less than eight years after Nix",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/dRmA3Z-OerO_mNQ_2cuYGF954mY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IL2Q6GTPVLYRN273X7QD4NNRKA.aspx",
+          "width": 1200,
+          "height": 927,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-23T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-has-shady-political-motives-in-blaming-china-for-pandemic-beijing-official-says.md",
+      "title": "Trump has 'shady political motives' in blaming China for pandemic, Beijing official says",
+      "excerpt": "The attacks from China's foreign ministry come a day after Trump accused Beijing of allowing the virus to escape its borders and “infect the world.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
+      "originalUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/ada6adda-5826-4b6f-a434-e2abeef42892-AFP_AFP_1VP17Q.jpg?auto=webp&crop=4170,2346,x0,y211&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3502844001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502844001",
+      "publishedDateTime": "2020-09-23T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-rep-ilhan-omar-responds-to-president-donald-trumps-attacks-this-is-my-country.md",
+      "title": "Rep. Ilhan Omar responds to President Donald Trump's attacks: 'This is my country'",
+      "excerpt": "President Donald Trump again attacked Rep. Ilhan Omar at a campaign stop Tuesday, when he referenced her birth country of Somalia, drawing a rebuke from the Minnesota Democrat. At a campaign rally near Pittsburgh,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/07/18/USAT/7edc08c0-f71e-4775-b4d5-ff01613d72fe-VPC_TRUMP_SEND_HER_BACK_CHANTS_DESK_THUMB.00_00_05_21.Still001.jpg?auto=webp&crop=1919,1080,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3501453001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3501453001",
+      "publishedDateTime": "2020-09-23T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-judd-apatow-rob-reiner-accuse-donald-trump-of-mass-murder-in-separate-tweets.md",
       "title": "Judd Apatow, Rob Reiner accuse Donald Trump of 'mass murder' in separate tweets",
       "excerpt": "Filmmakers Judd Apatow and Rob Reiner took to Twitter on Tuesday to accuse Donald Trump of dishonesty and murder.",
@@ -337,7 +545,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -381,58 +589,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-how-to-watch-live-stream-trumps-tuesday-rally-in-pennsylvania-a-crucial-state-for-the-president.md",
-      "title": "How to Watch, Live Stream Trump's Tuesday Rally in Pennsylvania, a Crucial State for the President",
-      "excerpt": "The Trump campaign hopes to pull off a repeat victory next month in securing all 20 of the state's electoral votes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317",
-      "originalUrl": "https://www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1639685/trump-pennsylvania-rally.jpg",
-          "width": 594,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317?amp=1",
-      "publishedDateTime": "2020-09-22T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results.md",
       "title": "Bernie Sanders: U.S. Must Prepare For 'Nightmare Scenario' Of Trump Delegitimizing Election Results",
       "excerpt": "As President Donald Trump continues to attempt to sow doubts about the legitimacy of the voting process in the United States, Senator Bernie Sanders (I-Vt.) said he plans to spend the next six weeks urging the country to prepare for a \"nightmare scenario\" in which Trump declares himself the winner of the election and refuses to leave the White House even if he loses.",
@@ -441,7 +597,7 @@
       "originalUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -493,7 +649,7 @@
       "originalUrl": "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 471,
       "tags": null,
       "images": [
         {
@@ -671,58 +827,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/5853211002",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002",
       "publishedDateTime": "2020-09-22T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-president-donald-trump-welcomes-high-school-football-players-on-stage-at-rally-who-carried-thin-bluered-flags.md",
-      "title": "President Donald Trump welcomes high school football players on stage at rally who carried thin blue/red flags",
-      "excerpt": "President Trump brought the Little Miami High School football players who carried police and fire support flags on stage at a rally outside Toledo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/sports/highschool/2020/09/22/little-miami-players-who-carried-thin-line-flags-stage-trump/5862815002/?ref=hvper.com",
-      "originalUrl": "https://www.usatoday.com/story/sports/highschool/2020/09/22/little-miami-players-who-carried-thin-line-flags-stage-trump/5862815002/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/22/PCIN/b74366ce-49e5-477d-87f1-7f64aec7241e-0921_Trump_Little_Miami.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5862815002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5862815002",
-      "publishedDateTime": "2020-09-22T04:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -963,59 +1067,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-22-2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process.md",
-      "title": "2020 Daily Trail Markers: Pence says Trump is \"anxious\" to move forward with SCOTUS nominee process",
-      "excerpt": "In an interview with CBS Evening News anchor and managing editor Norah O'Donnell, Vice President Mike Pence said President Trump's Supreme Court nominee will be announced by the end of the week, adding that the president \"is anxious to move the process forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/",
-      "originalUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/",
-      "publishedDateTime": "2020-09-21T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-09-22-watch-live-trump-holds-a-great-american-comeback-rally-in-swanton-ohio.md",
       "title": "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Swanton, Ohio",
       "excerpt": "President Donald Trump will hold a campaign rally at Toledo Express Airport in Swanton, Ohio on Monday. The rally is expected to begin at 8:00 pm ET.",
@@ -1061,58 +1112,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio.md",
-      "title": "WATCH LIVE: Trump speaks at campaign rally in Swanton, Ohio",
-      "excerpt": "Republican strategists say Trump has lost support in suburbs across the state he carried in 2016, prompting debate among Republicans about whether his rural outreach can offset the continued decline in metro areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio",
-      "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/07/main10-1024x693.jpg",
-          "width": 1024,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio",
-      "publishedDateTime": "2020-09-21T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1220,58 +1219,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-21-trump-says-supreme-court-pick-coming-friday-or-saturday.md",
-      "title": "Trump says Supreme Court pick coming 'Friday or Saturday'",
-      "excerpt": "President Trump said Monday morning that he would reveal his Supreme Court pick \"Friday or Saturday\" in deference to memorial services for Justice Ruth Bader Ginsburg.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/GMA/trump-wh-gty-rc-200918_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303",
-      "publishedDateTime": "2020-09-21T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-arms-cofounder-warned-donald-trump-will-take-the-opportunity-to-screw-china-with-40-billion-nvidia-deal.md",
       "title": "Arm's cofounder warned Donald Trump will take the 'opportunity to screw China' with $40 billion Nvidia deal",
       "excerpt": "\"Trump doesn't give a damn about his allies. Britain is a minor issue if he sees an opportunity to screw China.\"",
@@ -1356,58 +1303,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-japans-suga-holds-1st-phone-talks-with-trump-as-leader.md",
-      "title": "Japan's Suga holds 1st phone talks with Trump as leader",
-      "excerpt": "Japan’s Prime Minister Yoshihide Suga held his first talks with U.S. President Donald Trump since he took office, a diplomatic phone call that was one of his first as the country’s leader and one that",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_fccbc16f8d65453ab031c7b6b3cba13d_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314",
-      "publishedDateTime": "2020-09-20T20:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1545,7 +1440,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
       "featuredContent": null,
       "highlight": null,
-      "heat": 745,
+      "heat": 725,
       "tags": null,
       "images": [
         {
@@ -1569,6 +1464,115 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-trump-supporters-disrupt-early-voting-in-virginia.md",
+      "title": "Trump Supporters Disrupt Early Voting in Virginia",
+      "excerpt": "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
+      "publishedDateTime": "2020-09-19T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight.md",
+      "title": "Trump Describes Journalist Hit By Rubber Bullet ‘A Beautiful Sight’",
+      "excerpt": "At a rally in Minnesota, President Trump described an MSNBC anchor hit by a rubber bullet while covering protests after the death of George Floyd in May as “a beautiful sight,” comments quickly condemned by journalists including CNN’s Jake Tapper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/",
+      "originalUrl": "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6660da5b997708e4308108%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/amp/",
+      "publishedDateTime": "2020-09-19T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -41,22 +41,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "President Trump taken to Walter Reed Medical Center"
-    excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."
-    publishedDateTime: 2020-10-03T15:13:00Z
-    webUrl: "https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
-    ampWebUrl: "https://abcnews.go.com/amp/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-8-rt-er-201002_1601678432669_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Dan Rather criticizes Trump over Walter Reed 'photo ops'"
     excerpt: "Veteran news anchor Dan Rather on Sunday issued a pair of tweets criticizing President Trump for his brief appearance in an SUV outside Walter Reed Medical Center as just the latest in a series of what Rather referred to as “photo ops."
     publishedDateTime: 2020-10-05T15:56:00Z
@@ -118,6 +102,22 @@ related:
     quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/de4cfbdd-28ba-44c0-996c-54de93022efb-AP_Mary_Trump_Lawsuit.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
+    excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
+    publishedDateTime: 2020-09-24T19:01:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/09/24/donald-trump-niece-mary-trump-sues-him-fraud-after-book/3520817001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3520817001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3520817001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

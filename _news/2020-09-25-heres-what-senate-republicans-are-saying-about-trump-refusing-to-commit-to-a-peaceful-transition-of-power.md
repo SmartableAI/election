@@ -31,69 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump has made Americans’ lives worse. Here’s the proof."
-    excerpt: "After 2008, for example, Democrats and Democratic constituencies (minorities, women, low-income Americans) felt better about their lives, while Republicans and their constituencies felt worse. But something very different happened after 2016: Well-being measures dropped substantially for Democratic constituencies,"
-    publishedDateTime: 2020-09-18T21:02:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp"
+  - title: "Former Pence adviser: 'It does not' surprise her Trump would't commit to peaceful transfer of power"
+    excerpt: "President Trump has said \"we're going to have to see what happens,\" when asked if he would commit to a peaceful transition if he lost the election."
+    publishedDateTime: 2020-09-26T18:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3547679001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3547679001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JGN5OUGNLEI6RLIKBYA67OR4YE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Cuban-American judge Barbara Lagoa on Trump high court list"
-    excerpt: "Barbara Lagoa is the daughter of Cuban exiles who grew up in a heavily Hispanic suburb of Miami and has had a swift rise as a lawyer and judge — and she is on President Donald Trump’s short list to replace Ruth Bader Ginsburg on the U."
-    publishedDateTime: 2020-09-22T22:52:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_198f87206c4d45b49579210783354282_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump Launches Plan For Black America, With Some Holes"
-    excerpt: "As protests swept the country following the death of George Floyd, Trump lumped peaceful protesters and the Black Lives Matter movement with rioters and looters. D"
-    publishedDateTime: 2020-09-25T21:40:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/25/trump-launches-plan-for-black-america-with-some-holes/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/25/trump-launches-plan-for-black-america-with-some-holes/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/25/trump-launches-plan-for-black-america-with-some-holes/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e5da0205871d7b30c7bf3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D304%26cropY2%3D1992"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/20/USAT/c4e7b672-eeca-4e1a-bd9c-abba2401577f-AP_Trump_3.jpg?auto=webp&crop=4076,2293,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "5 tax breaks Trump took advantage of that the average American can't"
-    excerpt: "President Trump filed a $70,000 tax deduction for his hairstyling, listing it as a business expense, per last weekend's New York Times bombshell."
-    publishedDateTime: 2020-09-29T17:00:00Z
-    webUrl: "https://www.businessinsider.com/trump-tax-breaks-returns-new-york-times-ultrawealthy-normal-people-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-tax-breaks-returns-new-york-times-ultrawealthy-normal-people-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tax-breaks-returns-new-york-times-ultrawealthy-normal-people-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f2929b15af6cc2fdc1eed75?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump can’t avoid a transfer of power. He just wants us to think he can."
     excerpt: "And so, on Wednesday, when a journalist asked President Trump if he would commit to making sure there’s a peaceful transfer of power after the election, Trump responded by saying, “We're going to have to see what happens."
@@ -111,129 +63,174 @@ related:
         width: 1440
         height: 1133
         isCached: true
-  - title: "Donald Trump And The Democrats Have This In Common: They’re Afraid Of Marijuana"
-    excerpt: "President Donald Trump is afraid of it. A majority of Americans want it. So why did the Democrats avoid a symbolic vote on marijuana legalization this week?"
-    publishedDateTime: 2020-09-18T15:14:00Z
-    webUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/"
-    ampWebUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64cb97f0b0cf790cefa936%2F0x0.jpg"
-        width: 1200
-        height: 1319
-        isCached: true
-  - title: "Central American refugees stopped by Trump, then by pandemic"
-    excerpt: "Because of the coronavirus pandemic, only about 338 of the 2,700 Central Americans approved to come to the U.S. through a small refugee program have been able to travel"
-    publishedDateTime: 2020-09-13T18:01:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/central-american-refugees-stopped-trump-pandemic-72984183"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/central-american-refugees-stopped-trump-pandemic-72984183"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/central-american-refugees-stopped-trump-pandemic-72984183"
+  - title: "Unanimous Senate commits to peaceful transfer of power after Trump refuses"
+    excerpt: "The Senate on Thursday unanimously committed to a peaceful transfer of power after President Donald Trump refused to do so if he loses the November election."
+    publishedDateTime: 2020-09-24T22:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/unanimous-senate-commits-peaceful-transfer-power-trump-refuses/story?id=73216758"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/unanimous-senate-commits-peaceful-transfer-power-trump-refuses/story?id=73216758"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/unanimous-senate-commits-peaceful-transfer-power-trump-refuses/story?id=73216758"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 115
+    quality: 123
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_b9036c0e66874f0697f207d08096ebd9_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/donald-trump-departure-02-rtr-jc-200924_1600983331641_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Bernie Sanders says Trump is ready \"to undermine American democracy in order to stay in power\""
-    excerpt: "The senator slammed the president's refusal to commit to a peaceful transfer of power and his opposition to mail-in voting."
-    publishedDateTime: 2020-09-24T18:19:00Z
-    webUrl: "https://www.cbsnews.com/news/bernie-sanders-trump-transfer-of-power/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/bernie-sanders-trump-transfer-of-power/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/bernie-sanders-trump-transfer-of-power/"
+  - title: "Trump won’t commit to peaceful transfer of power if he loses election: ‘We’re going to have to see what happens’"
+    excerpt: "President Trump declined to commit to a peaceful transfer of power if he loses the Nov. 3 presidential election."
+    publishedDateTime: 2020-09-23T15:30:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/n4TskA4tcPcS7lDvMVk90YiIny4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UO7YGKTA6BAM5JNVWYOMGKDMFY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Sarah Huckabee Sanders says Trump doesn't expect to have a 'transfer of power' because he's going to win the election"
+    excerpt: "The former White House press secretary also claimed that many Americans \"will question that final result\" due to increased mail-in ballots."
+    publishedDateTime: 2020-09-25T14:55:00Z
+    webUrl: "https://www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f6df2b6c4049200115cb96b?width=1200&format=jpeg"
+        width: 1004
+        height: 502
+        isCached: true
+  - title: "McConnell pushes back at Trump's refusal to commit to peaceful transfer of power if he loses"
+    excerpt: "Senate Majority Leader Mitch McConnell on Thursday pushed back at President Trump's refusal to commit to a peaceful transfer of power if he loses the November election."
+    publishedDateTime: 2020-09-24T14:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 114
+    images:
+      - url: "https://s.abcnews.com/images/US/mcconnell-rt-ml-200924_1600956008787_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump declines to commit to peaceful transfer of power, drawing swift criticism on social media"
+    excerpt: "Trump's response to a question about whether he would commit to a peaceful transfer of power drew a firestorm of criticism on social media."
+    publishedDateTime: 2020-09-24T00:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/23/trump-declined-commit-peaceful-transfer-power-if-he-loses-election/3510914001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3510914001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3510914001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Bernie Sanders gave a dire warning over Trump's refusal to promise a peaceful transition of power"
+    excerpt: "The Vermont senator described \"an election between Donald Trump and democracy,\" and added that \"democracy must win.\""
+    publishedDateTime: 2020-09-24T20:27:00Z
+    webUrl: "https://www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f6cf4cf0f4d5500110322f2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "2020 Daily Trail Markers: Top GOP lawmakers dismiss Trump's refusal to commit to a peaceful transfer of power"
+    excerpt: "The president's comments come days before he is expected to announce his nominee to the Supreme Court to fill the vacancy left by Justice Ruth Bader Ginsburg's death."
+    publishedDateTime: 2020-09-25T00:17:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-top-gop-lawmakers-dismiss-trumps-refusal-to-commit-to-a-peaceful-transfer-of-power-2020-09-24/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-top-gop-lawmakers-dismiss-trumps-refusal-to-commit-to-a-peaceful-transfer-of-power-2020-09-24/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-top-gop-lawmakers-dismiss-trumps-refusal-to-commit-to-a-peaceful-transfer-of-power-2020-09-24/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 113
+    quality: 106
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/18/6137ee8a-ede1-4d3c-acc3-ab8f06fb7a23/thumbnail/1200x630/0b4ab92020d5cf2ba13edd554d5b0df1/ap-20231101371898.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump insists protesters are throwing Bumble Bee tuna cans, in the midst of pandemic tuna shortage"
-    excerpt: "Cans of tuna fish. They go out and buy tuna fish and soup. You know that, right?” Trump said. “They throw it. It’s the perfect weight, tuna fish, they can really rip it,"
-    publishedDateTime: 2020-09-23T20:54:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/09/23/bumble-bee-tuna-protesters/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/09/23/bumble-bee-tuna-protesters/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/09/23/bumble-bee-tuna-protesters/?outputType=amp"
+  - title: "Trump senior campaign adviser Parscale steps down after arrest"
+    excerpt: "U.S. President Donald Trump's former campaign manager Brad Parscale has stepped down from a senior role at the campaign after his arrest at his home in Florida, a campaign official said on Wednesday."
+    publishedDateTime: 2020-10-01T03:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-parscale-idUSKBN26M49C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M49C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M49C"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 111
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Bernie Sanders says there are a 'number of plans' to force Trump from office if he refuses to peacefully transfer power"
+    excerpt: "There are a \"number of plans\" to force Donald Trump out if he refuses to allow a peaceful transfer of power after losing the election, Sanders said."
+    publishedDateTime: 2020-09-27T10:55:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HCENOQH5VMI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.insider.com/5f7064e374fe5b0018a8daab?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "The American People Deserve to Know More About President Trump's Condition"
-    excerpt: "T he world’s attention turned to U.S. President Donald Trump on Friday, when we learned via his early morning tweet that he and First Lady Melania Trump had tested positive for"
-    publishedDateTime: 2020-10-03T19:39:00Z
-    webUrl: "https://time.com/5895970/trump-covid-19-health/"
+  - title: "'It's self-delusion': Trump's former national security adviser said he wishes the president 'would just realize' that 'Putin is not his friend'"
+    excerpt: "For years, Trump has been more friendly towards Putin — and other authoritarian leaders — than many top US allies."
+    publishedDateTime: 2020-09-24T03:19:00Z
+    webUrl: "https://www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9?amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 103
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/trump-health-covid-19.jpg"
+      - url: "https://i.insider.com/5f401fcc89aff80028ab747b?width=1200&format=jpeg"
         width: 1024
-        height: 683
+        height: 512
         isCached: true
-  - title: "Donald Trump Is Losing On An Issue Voters Care A Lot About. Here's How He's Trying to Change That"
-    excerpt: "With nearly 200,000 Americans dead from COVID-19 and millions more who lost their health insurance when they lost their jobs this year, President Donald Trump tried this week—as he has done throughout his presidency—to change the conversation."
-    publishedDateTime: 2020-09-17T15:52:00Z
-    webUrl: "https://time.com/5889478/donald-trump-health-care/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 92
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/Donald-Trump-prescription-drug-costs-election.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
-  - title: "Millions of poor Americans could get left out of Trump's legally dubious plan to send $200 drug discount cards to 33 million Medicare beneficiaries"
-    excerpt: "Trump's legally dubious pledge could leave out 13 million low-income Americans receiving federal aid within Medicare."
-    publishedDateTime: 2020-09-25T23:53:00Z
-    webUrl: "https://www.businessinsider.com/millions-poor-americans-trumps-plan-medicare-cards-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/millions-poor-americans-trumps-plan-medicare-cards-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/millions-poor-americans-trumps-plan-medicare-cards-2020-9?amp"
+  - title: "Trump refused to commit to a peaceful transfer of power if he loses the election, drawing fierce pushback from Democrats and Mitt Romney"
+    excerpt: "\"We're going to have to see what happens,\" Trump told reporters. The US has not had a violent transfer of power in its 244-year history as a nation."
+    publishedDateTime: 2020-09-24T06:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-refuses-to-commit-to-peaceful-transfer-of-power-2020-9"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 87
     images:
-      - url: "https://i.insider.com/5f2fd7ad3f73707f003f0ab3?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f6c1005c4049200115cb4dd?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Chuck Todd Presses HHS Sec. Azar on Trump Covid Messaging: Who Should Americans Be Listening to on Masks?"
-    excerpt: "Chuck Todd pressed HHS Secretary Alex Azar on Meet the Press Sunday over President Donald Trump's public health messaging being at odds with top officials like the head of the CDC."
-    publishedDateTime: 2020-09-20T21:04:00Z
-    webUrl: "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/"
-    ampWebUrl: "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 58
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/chuck-todd-azar.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "7eIFzwZXfm0273v4iyyuN7CIoDenTJOeuWuFAuKmlbs5Sarbp+Bz00LtHGHwbGzDHjo8thLlHabTsY8T/1SqWju8bVECAYYEwC9dwiHqzjUx1nKEwqt4N9O1kzRAJWjt6DP+2xZDx7T8QaFybzt/50oxN1z/bY2Zvq7jioT/gXQ3ZhJIu/EQssf+r4LQGeejq7L+OKjKJ1pIpX52O9v/1BkXtqXRqzO9yMQPsjCBboLMmSidjrRpfKUg0XKK05rlRAOQGpBgausIp2HWW/GXVrMtldm+Ui9BqcmijYnPV1Ba8oV78sTVuzpuR2JsvJcJfRKMHiDJsXwxrmoLazUrgBLOSfNXzfZj5I/o32MP8h7hNrOMtqxUddgXssqyEE9K1KtvvwM0aeCGBHrHPH/hSeorm4rBrJFdA3jwd7962JNu2Ojjb5SwZxoJ0uxgBQD/QCh+9xxggqZSNTuysd1w4xAybcW3QWvXllBbMOfeHH0pKy824F/CiC5tcKRm8Xn06EcKKBn7F8S95PaMxveedQ==;2Q0NPeygzz1FEtlF6p/0IA=="

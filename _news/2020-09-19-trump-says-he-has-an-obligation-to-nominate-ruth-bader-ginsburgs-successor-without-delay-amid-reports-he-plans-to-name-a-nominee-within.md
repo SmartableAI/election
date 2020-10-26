@@ -31,53 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden says winner of 2020 election should pick Ruth Bader Ginsburg’s successor"
-    excerpt: "Democratic presidential nominee Joe Biden says the winner of the November election should pick a successor to the late Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-18T17:25:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
+  - title: "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election"
+    excerpt: "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue."
+    publishedDateTime: 2020-09-19T15:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5837691002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5837691002"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 134
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
     images:
-      - url: "https://www.chicagotribune.com/resizer/3klB_ohaCYH1f4gIIiP-Y5AgQ1k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXPD4QA7XRDLHD6VHHG5ZO25OU.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/64bfff5e-1f2f-4c5b-88e9-89942fb64e3b-AP_Election_2020_Trump_2.jpg?auto=webp&crop=5853,3293,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden senior adviser says campaign has 'work to do' with Latino voters"
-    excerpt: "Joe Biden's campaign senior adviser Symone Sanders acknowledged Sunday that the former vice president's campaign has work to do to woo Latino voters with just over 50 days until the November election."
-    publishedDateTime: 2020-09-14T00:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421"
+  - title: "Trump calls on Senate Republicans to act 'without delay' on SCOTUS pick"
+    excerpt: "President Trump called on Senate Republicans to act \"without delay\" on his Supreme Court nominee, saying that had said an \"obligation\" to confirm his pick."
+    publishedDateTime: 2020-09-19T23:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/symone-sanders-gty-rc-200912_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Informed by reporters of Ginsburg's death, Trump says she was 'an amazing woman'"
-    excerpt: "President Donald Trump, informed by reporters after a rally about the death of Supreme Court Justice Ruth Bader Ginsburg, said: \"She was an amazing woman.\""
-    publishedDateTime: 2020-09-19T01:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-trump-idUSKBN26A036"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A036"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A036"
+  - title: "Trump may have chosen a Supreme Court justice over the stock market"
+    excerpt: "The fight over RBG's Supreme Court seat is making another COVID-19 relief bill look unlikely. That could end up crushing the stock market."
+    publishedDateTime: 2020-09-23T17:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-chose-supreme-court-justice-over-stock-market-us-economy-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-chose-supreme-court-justice-over-stock-market-us-economy-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-chose-supreme-court-justice-over-stock-market-us-economy-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f6b6dfae3e76700117160fd?width=1200&format=jpeg"
+        width: 1004
+        height: 502
+        isCached: true
+  - title: "Trump will nominate a woman next week to succeed Ginsburg on Supreme Court"
+    excerpt: "President Donald Trump said on Saturday he will nominate a woman to sit on the U.S. Supreme Court, a move that would tip the court further to the right following the death of liberal Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-20T03:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-ginsburg/trump-says-he-will-name-supreme-court-successor-to-liberal-ginsburg-without-delay-idUSKCN26A0IO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0IM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0IM"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 120
+    quality: 123
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534073403&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I025"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200920&t=2&i=1534162492&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8J00X"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump calls on Senate Republicans to act 'without delay' on Supreme Court pick"
+    excerpt: "President Trump called on Senate Republicans to act \"without delay\" on his Supreme Court nominee, saying that had said an \"obligation\" to confirm his pick."
+    publishedDateTime: 2020-09-19T23:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump says he will name Supreme Court successor to liberal Ginsburg 'without delay'"
     excerpt: "A fierce political battle was shaping up over the future of the U.S. Supreme Court on Saturday, with President Donald Trump saying he would quickly name a successor to liberal Justice Ruth Bader Ginsburg,"
@@ -95,217 +127,90 @@ related:
         width: 797
         height: 545
         isCached: true
-  - title: "The brazen claim by Trump and Tucker Carlson about Ruth Bader Ginsburg’s dying wish"
-    excerpt: "Carlson says he doesn't believe Ginsburg actually made her dying wish \"for a second.\" Trump suggested it had been written by Democrats. But it's eminently believable that she said this."
-    publishedDateTime: 2020-09-22T17:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/22/tucker-carlson-trump-baselessly-suggest-ginsburgs-granddaughter-lied-about-ginsburgs-dying-wish/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/22/tucker-carlson-trump-baselessly-suggest-ginsburgs-granddaughter-lied-about-ginsburgs-dying-wish/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/22/tucker-carlson-trump-baselessly-suggest-ginsburgs-granddaughter-lied-about-ginsburgs-dying-wish/?outputType=amp"
+  - title: "Republicans prepare to move quickly on Supreme Court opening as Trump weighs top contenders"
+    excerpt: "Democratic leaders, including presidential nominee Joe Biden, accused Republicans of political opportunism and hypocrisy and vowed to fight any effort to rush confirmation of a Trump nominee in the GOP-controlled Senate."
+    publishedDateTime: 2020-09-20T23:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-supreme-court-ginsburg-barrett-lagoa/2020/09/20/53aa9472-fb45-11ea-b555-4d71a9254f4b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-supreme-court-ginsburg-barrett-lagoa/2020/09/20/53aa9472-fb45-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-supreme-court-ginsburg-barrett-lagoa/2020/09/20/53aa9472-fb45-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 119
+    quality: 115
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFO4QXWDXMI6VCIINCRLT2XJ4A.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TCSH3H3OQI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "'Honor her wish': Trump jeered as he pays his respects to Ruth Bader Ginsburg at Supreme Court"
-    excerpt: "Members of the public booed Trump as he approached the casket atop the marble steps of the Supreme Court building to honor Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-24T19:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/24/trump-faces-jeers-chants-he-honors-justice-ruth-bader-ginsburg/3515823001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3515823001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3515823001"
+  - title: "'I want them to do it': Donald Trump says he welcomes second impeachment over Supreme Court seat"
+    excerpt: "Trump said he wants Democrats to launch a second impeachment probe if he tries to push through his Supreme Court pick to replace Ruth Bader Ginsberg."
+    publishedDateTime: 2020-09-22T03:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/supreme-court-trump-says-he-welcomes-democratic-impeachment-threat/5855392002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5855392002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5855392002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 113
+    quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/f5179fcc-9956-4a7c-973a-e582234c864c-AP_Supreme_Court_Ginsburg.jpg?auto=webp&crop=4925,2771,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/4308ed0f-ac3d-4420-9278-e87feee6b420-AP_Election_2020_Trump_1.jpg?auto=webp&crop=4146,2333,x0,y211&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden speaks about Supreme Court in Philadelphia"
-    excerpt: "Democratic presidential nominee Joe Biden is expected to make remarks in Philadelphia, two days after the death of Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-20T18:33:00Z
-    webUrl: "https://www.washingtonpost.com/video/national/joe-biden-speaks-about-supreme-court-in-philadelphia/2020/09/20/a04eccb1-7423-4c53-ba27-4b91cd99d5fb_live.html"
+  - title: "Trump says he sees no reason to delay TikTok decision"
+    excerpt: "U.S. President Donald Trump said on Friday there was no need to delay a decision on a proposed deal for popular Chinese-owned social media app TikTok, adding he would be looking at it shortly."
+    publishedDateTime: 2020-09-18T21:39:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-tiktok-trump-deal-idUKKBN26934M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26934M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26934M"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/09-20-2020/t_9297af0036cb4b3399eab29fba386abf_name_20200911_biden_jabin_thumb.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "These Are Donald Trump's Top Candidates for Ruth Bader Ginsburg's Seat"
-    excerpt: "The White House has zeroed in on judges Amy Coney Barrett and Barbara Lagoa as the leading contenders to replace Ginsburg on the Supreme Court"
-    publishedDateTime: 2020-09-24T08:43:00Z
-    webUrl: "https://time.com/5891199/donald-trump-supreme-court-nominee-barrett-lagoa/"
+  - title: "'Fill That Seat!' How Donald Trump Is Weaponizing His Supreme Court Pick on the Campaign Trail"
+    excerpt: "Faced with a Supreme Court vacancy, President Trump is weaponizing his novel move to release a list of potential nominees"
+    publishedDateTime: 2020-09-23T23:52:00Z
+    webUrl: "https://time.com/5891404/trump-weaponizing-sumpreme-court-pick/"
     type: article
     provider:
       name: Time
       domain: time.com
-    quality: 105
+    quality: 93
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/Amy-Coney-Barrett-Barbara-Lagoa.jpg"
-        width: 2400
-        height: 1200
-        isCached: true
-  - title: "Crowd boos President Trump as he paid respects to Ruth Bader Ginsburg"
-    excerpt: "President Donald Trump was booed by crowds at the Supreme Court when he and Melania Trump paid their respects to the late Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-24T17:53:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/trump-booed-and-chanted-he-paid-respects-ruth-bader-ginsburg/3518743001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/f5179fcc-9956-4a7c-973a-e582234c864c-AP_Supreme_Court_Ginsburg.jpg?quality=10"
-        width: 4926
-        height: 3284
-        isCached: true
-  - title: "Democrats' last hope to stop Trump from replacing Ruth Bader Ginsburg rests with a handful of Republican senators"
-    excerpt: "The fate of the Supreme Court now rests with a handful of Republican senators who could stop Trump and McConnell from forcing a confirmation."
-    publishedDateTime: 2020-09-19T03:27:00Z
-    webUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f1436aaaee6a842a3031f63?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Tucker Carlson joined Trump in questioning whether Ruth Bader Ginsburg's dying wish is real, and called it 'pathetic'"
-    excerpt: "\"If it were true, it would be pathetic because life is bigger than politics, even this year,\" said Carlson on his Monday night Fox News show."
-    publishedDateTime: 2020-09-22T10:39:00Z
-    webUrl: "https://www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f69c58e323fc4001e0d7a61?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "President Trump says he doubts Ruth Bader Ginsburg’s dying request, baselessly suggesting Democratic leaders wrote it"
-    excerpt: "I don’t know that she said that, or if that was written out by Adam Schiff, and Schumer and Pelosi. That came out of the wind....\""
-    publishedDateTime: 2020-09-22T20:58:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 102
-    images:
-      - url: "https://www.chicagotribune.com/resizer/yXVEQJZlqmY1uNAfiiUtJZL8Qco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SK7VWRUXUY33VHH6TV5WLYUAYI.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Some in GOP See a Political Opening for Trump in the Death of Ruth Bader Ginsburg"
-    excerpt: "Hours after the death of the powerful liberal Justice, Republican Senators and donors endorsed replacing her before the next inauguration."
-    publishedDateTime: 2020-09-19T03:49:00Z
-    webUrl: "https://time.com/5890626/some-in-gop-see-a-political-opening-for-trump-in-the-death-of-ruth-bader-ginsburg/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 100
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/donald-trump-supreme-court.jpg"
+      - url: "https://api.time.com/wp-content/uploads/2020/09/Trump_Ohio_September_2020_014.jpg"
         width: 2400
         height: 1600
         isCached: true
-  - title: "Trump expects to announce Supreme Court pick by weekend, says Ruth Bader Ginsburg’s deathbed wish likely made up by Democrats"
-    excerpt: "President Donald Trump says he expects to announce his pick for the Supreme Court on Friday or Saturday, after funeral services for Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T12:48:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
+  - title: "Will Trump Rush to Replace RBG on the Supreme Court?"
+    excerpt: "It’s obvious the GOP will view RBG’s sad demise as a windfall. But odds remain high that her replacement will be made by the next president"
+    publishedDateTime: 2020-09-19T07:36:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/09/will-trump-rush-to-replace-rbg-on-the-supreme-court.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/09/will-trump-rush-to-replace-rbg-on-the-supreme-court.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/09/will-trump-rush-to-replace-rbg-on-the-supreme-court.html"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 98
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
     images:
-      - url: "https://www.chicagotribune.com/resizer/7QvrcaReTVRHWO0xEfSNL-EkIP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3G4ZXEGK7VH57IA2YRZ4NSQUJY.aspx"
+      - url: "https://pyxis.nymag.com/v1/imgs/083/e1b/7864a5746759efb70306798570a5d4e559-rgb-01.1x.rsocial.w1200.jpg"
         width: 1200
-        height: 675
+        height: 632
         isCached: true
-  - title: "Trump supporter shouts 'Ginsburg is dead' at a Minnesota rally to clue in the president about passing of Supreme Court justice"
-    excerpt: "\"The next president will get one, two, three or four Supreme Court justices,\" Trump said at a Minnesota rally, seemingly unaware of Ginsburg's death."
-    publishedDateTime: 2020-09-19T01:32:00Z
-    webUrl: "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp"
+  - title: "Trump to Senate: Vote 'Without Delay' on His High Court Pick"
+    excerpt: "President Donald Trump is urging the Republican-run Senate to consider “without delay” his upcoming nomination to fill the Supreme Court vacancy created by the death of Justice Ruth Bader Ginsburg just six weeks before the election."
+    publishedDateTime: 2020-09-19T18:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-19/mcconnell-vows-quick-vote-on-next-justice-biden-says-wait"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-19/mcconnell-vows-quick-vote-on-next-justice-biden-says-wait?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-19/mcconnell-vows-quick-vote-on-next-justice-biden-says-wait?context=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/5f655dd157b7da001ee129c9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump and Melania booed, greeted with 'vote him out' and 'honor her wish' chants as they visit Ruth Bader Ginsburg's casket at the Supreme Court"
-    excerpt: "The Trumps rarely venture out of the White House while in Washington and thus rarely face public criticism in the way they did on Thursday."
-    publishedDateTime: 2020-09-24T15:01:00Z
-    webUrl: "https://www.businessinsider.com/trump-boos-vote-him-out-chants-visits-rbg-casket-video-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-boos-vote-him-out-chants-visits-rbg-casket-video-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-boos-vote-him-out-chants-visits-rbg-casket-video-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/5f6caa80c4049200115cb5a1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden Reaction to Death of Justice Ruth Bader Ginsburg"
-    excerpt: "T21:40:50-04:00 presidential nominee Joe Biden pays tribute to Justice Ruth Bader Ginsburg. He recalls presiding over her confirmation hearing and says she was a “beloved figure.” He also says the voters should have a say in who picks her successor."
-    publishedDateTime: 2020-09-19T02:23:00Z
-    webUrl: "https://www.c-span.org/video/?476039-1/joe-biden-pays-tribute-late-justice-ruth-bader-ginsburg"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Delivers Remarks in Philadelphia"
-    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on the next steps in replacing Supreme Court Justice Ruth Bader Ginsburg, whose death was announced two days prior. Speaking from Philadelphia's National Constitution Center,"
-    publishedDateTime: 2020-09-20T15:54:00Z
-    webUrl: "https://www.c-span.org/video/?476046-1/joe-biden-speaks-replacing-justice-ruth-bader-ginsburg"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Carpenter Union Training Center Tour in Duluth, Minnesota"
-    excerpt: "T15:01:02-04:00 presidential candidate Joe Biden tours a carpenter union training center in Duluth, Minnesota, and meets with some of the trainees. Democratic presidential candidate Joe Biden tours a carpenter union training center in Duluth,"
-    publishedDateTime: 2020-09-21T01:58:00Z
-    webUrl: "https://www.c-span.org/video/?476025-1/joe-biden-tours-carpenter-union-training-center-duluth-minnesota"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "b+SJmLf1nn3nABhyGrfx5uymZ7VU731Ro3tTKBE2i2SFARmUozKuF4lfyBBLXqTV1Jq3Y0DFOF0N+txvU0bYuw/ZryOwtFOL19xJSce/l6CSpyF69znN2OKnpZz+W+m/I6XIc0kguvsPI12XPAfTSrGDzqfOcmn/miuA/CZgDWzgWnXGqf9FOJUd45pabfP37ObeGGGcA72e8aDERL+1ua/Hprr+C3AaLE9vV2t1vwY7ur2fqi38xT5ikvL6ovzcLaXAOM426KSssYwG70QvCg+gLO1iqfksBqL5sZlLewqQpAkxl0Hhn58F2deivxg+aO2oEvi38J+Xwf1C6hvUYriQcN3wHoCP9OPe9bZeEt/mVSvJj2hqkuees3TFuinHsL5Alry7Tx9l1HbOFwPry0LIXYDP3I91VwLzj7syLQP2+4CC2M6b9dfiieF8FCDTitTqnPBmZxsAx9tUp/0J9Cefmym22iZKxfZBWm8d8FMupdErYav0RddlF+BMMiQmoQjeOEX8raz3OFUOXOsv2Q==;ir+X0N1E/+m0elMzDAX5vA=="
 ---

@@ -59,6 +59,22 @@ related:
         width: 698
         height: 392
         isCached: true
+  - title: "Vice President Mike Pence To Visit Oakland County Thursday"
+    excerpt: "Vice President Mike Pence will be visiting Oakland County on Thursday for a Make America Great Again! just weeks ahead of the Nov. 3 election. Pence will speak at a rally located at Barnstormers, 1675 Airport Rd."
+    publishedDateTime: 2020-10-20T22:13:00Z
+    webUrl: "https://patch.com/michigan/troy/vice-president-mike-pence-visit-oakland-county-thursday"
+    ampWebUrl: "https://patch.com/michigan/troy/amp/29031441/vice-president-mike-pence-to-visit-oakland-county-thursday"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/troy/amp/29031441/vice-president-mike-pence-to-visit-oakland-county-thursday"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/getty/24007010/20201020/061203/styles/patch_image/public/gettyimages-1280045144___20181119393.jpg?width=984"
+        width: 852
+        height: 639
+        isCached: true
 
 secured: "wOPMYxn57JQiet6P7IxPJttUXHGn1pFkyTi91UDfaTyRy4cVoTVXwwSYyxWw+Q+ctp1ZKEJXaeVDItL5xZnnRrFrn7pR7zLch5OyDkCGz7IJ+J21rTJJvgXypdnbRhNpuF1KmoH2jjadvxzquot1eFAHDGr354I7jdUmUrjSIXfPDrut9Abe8tgDpEFRkRtycR7WXnq5ezMOASoPZx1H39paFz10qkjMVyBCjhBzvkX+XUXuTtzj2Am+hiGJzizC3Bz6ABqi1cHGGQgGt/LiW+sDjvgVyPTmsl/YBcCxsSvJYA3zSPe4yGVpd/F9HBhtIMHg5cvAW9AyQAJm7XjOqqBoVuc7Lpy5yyWJ1IA3eVzqc0GrYfiJIcPPra2Ov3htJEt/zqS6nswFgfLCn+FScXJzsTqFTK249W8UL0H3TM0ID5CA9azb0Ek3hcY3SXSDtjRPHCZauwwqyF+lgCD9gVnhdzAcqqmYThMtf7dG+30SFq3QD1Y3oJ592ZXJEayslbnalobZXN9eak3ywy0kIg==;t7Lmq+mwrsPMe3DJkZ+sMQ=="
 ---

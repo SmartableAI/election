@@ -137,6 +137,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
+    excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
+    publishedDateTime: 2020-09-27T09:19:00Z
+    webUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html"
+    ampWebUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 75
+    images:
+      - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
+        width: 1200
+        height: 864
+        isCached: true
   - title: "Editorial: Weary nation needs Joe Biden as president"
     excerpt: "Biden has grown in leadership and stature to meet the historic challenges under which President Donald Trump has shrunk."
     publishedDateTime: 2020-10-11T09:18:00Z
@@ -243,6 +259,15 @@ related:
         width: 760
         height: 630
         isCached: true
+  - title: "Joe Biden Remarks to U.S. Conference of Mayors"
+    excerpt: "Democratic presidential nominee Joe Biden spoke at the 2020 fall leadership meeting of the U.S. Conference of Mayors. He talked about the importance of local government, the need to address systemic racism,"
+    publishedDateTime: 2020-09-27T17:52:00Z
+    webUrl: "https://www.c-span.org/video/?476255-1/joe-biden-remarks-us-conference-mayors"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Joe Biden Get-Out-The-Vote Event in Las Vegas, Nevada"
     excerpt: "Democratic presidential candidate Joe Biden appeals to members of the Latino community at a “Get-Out-The-Vote” event in Las Vegas, Nevada. Pete Buttigieg, a 2020 Democratic presidential candidate, spoke to supporters in Las Vegas after the close of"
     publishedDateTime: 2020-10-09T21:08:00Z

@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Vice President Mike Pence to stay on campaign trail despite exposure to chief of staff Marc Short, who tested positive for COVID-19"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
+    publishedDateTime: 2020-10-25T12:19:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 95
+    images:
+      - url: "https://www.chicagotribune.com/resizer/u0DCzdkXJN-RGYRvSSr43-jHmvc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BSXXSPCSCJF4FHNE6RFJZESBP4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence to keep up travel despite contact with infected aide"
     excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said Saturday."
     publishedDateTime: 2020-10-25T03:52:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/10/AP20299110164423.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Vice President Mike Pence’s top aide tests positive for coronavirus"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said Saturday. Pence himself tested negative,"
+    publishedDateTime: 2020-10-25T04:03:00Z
+    webUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KTIDZGVA4VEXFPEH37ETNHERVA.jpg"
+        width: 3600
+        height: 2400
         isCached: true
 
 secured: "+5cEkFRB4jUeGPxfMv9/q4QSgJXSm4Uz+50wPD8IaiufLNs46f2iSkljSkPdT8jgGEWMTVy4vdSzwXdV6bSB4pR2rYLDDYdL8nvkok6ftxSaL8h+GBHFtnOOP7oy+wF0mLeymIUGntKyIFzUiqb0hCCydRtLXMiil0KRf/zJtcqHKlp7BY4Zyyexz3Uq+qRCBWa8TOK6r7kHZWB18pqSUoEDGHd7Y9Own2fhIFiiasFfM5yC62cXYZQjYQLwa6CQgBHVNzltyI/wapWiEfkYmrkFem5qOMH6sAfjcwb7Ax4pP10RS7wLeEKYrA1jdsGxSeSb2b67xScHa6Sg8miD6D0o7o81UED8pctbOQ1yLga9YMhlpSQXTTJBTyhSyDI3ZGpCT6t3p42SEKjOQ7aPPCYcgVQcBe9u/LpefD0AV9OHb5du38gRPcf4BIQFwKZoIWUwO5OL6qAyV3UTrn6iMexCwtwfiICj8nGZ3i+oI0CxY+6xJpZzWVhPnTkQZ65XF6yJhOEmiVcTHFD46N4nww==;UTKgbFr7MQbM+dddtgJmIQ=="

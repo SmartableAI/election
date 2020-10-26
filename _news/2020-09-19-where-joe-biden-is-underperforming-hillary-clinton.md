@@ -43,6 +43,47 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Britain is upholding Northern Irish peace, PM Johnson's spokesman says after Biden comments"
+    excerpt: "British Prime Minister Boris Johnson is taking legislative measures to protect Northern Irish peace, his spokesman said on Thursday after U.S. Democratic presidential candidate Joe Biden warned the United Kingdom."
+    publishedDateTime: 2020-09-17T12:18:00Z
+    webUrl: "https://www.reuters.com/article/us-britain-eu-biden-johnson-idUKKBN2681ZZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2681ZZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2681ZZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 95
+  - title: "Britain is upholding Northern Irish peace, PM Johnson's spokesman says after Biden comments"
+    excerpt: "British Prime Minister Boris Johnson is taking legislative measures to protect Northern Irish peace, his spokesman said on Thursday after U.S. Democratic presidential candidate Joe Biden warned the United Kingdom."
+    publishedDateTime: 2020-09-17T17:19:00Z
+    webUrl: "https://www.reuters.com/article/uk-britain-eu-biden-johnson/britain-is-upholding-northern-irish-peace-pm-johnsons-spokesman-says-after-biden-comments-idUSKBN2681VS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 95
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
+    excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
+    publishedDateTime: 2020-09-19T13:31:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5833065002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5833065002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/9e578b7e-e37c-43b2-b6be-1425012e5705-AP_19183805465920.jpg?auto=webp&crop=2022,1138,x0,y102&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "IQc4lqINldx6C3YmM6xE0+pmbowlRjPgXFoClJTm5NTLdx1tVEpZBGTTXbBe+dU3OM8YMz7OUjyG+X3sgxqWgZOvw9RTs2zhpaW1iuXCQ2CZiRw/AocIWtBZ8xPcrpLBFCRlNyNrNW0UtP39zi99GnD4RFzP6jTciNNoVqFWqpxp8gsnX0TkVXFmjZuz/vnQ2mqRfJv0axh9qtT8uBJSYOc7qR/Fzw/2lb+pSeCpdicxm2LE6TWHhCjpnLXgaUC2HvbABD07Kw4bgedYE3NU2MISOXgTGOQIVAAg3VsQdBmZavaQgu3hSFPXUm6VtYKQgNko9Qm3QJzBWWniZTZ/imYL/F1zEq2xRMjr9woVzY2WhKcpQkKM9ihlk+D5RrkJ1yALXASUmIFKz80Bf+sU63sS0kpVLrqaxNNGPzp3scl5AaGgTcytIJIxGhJfP9zIcw7fLhwro++wR/7qarLSQz3CTXAA1kfcszp+NFTnSTGHikWVDwIFKoBduuSfHBdvBBnxGmb2A+RYrJORXV04dQ==;Jz6CFrOO8+gI7UZEmLS2TA=="
 ---

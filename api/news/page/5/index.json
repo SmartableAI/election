@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-22-jennifer-lawrence-says-trump-changed-everything-about-her-political-views.md",
+      "title": "Jennifer Lawrence says Trump 'changed everything' about her political views",
+      "excerpt": "Jennifer Lawrence said on Wednesday that despite formerly voting Republican, she won't be supporting Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/12/26/USAT/27985702-65b1-4f3c-bd87-16531ef2393b-1040038846.JPG?auto=webp&crop=3999,2249,x1,y144&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6004508002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6004508002",
+      "publishedDateTime": "2020-10-22T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-trump-finds-yet-another-democrat-hes-eager-to-lock-up.md",
       "title": "Trump finds yet another Democrat he's eager to 'lock up'",
       "excerpt": "Trump now wants to \"lock up\" the chairman of the House Intelligence Committee. Adam Schiff at least has quite a bit of company.",
@@ -165,6 +217,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-obama-reminds-voters-of-a-trump-less-america.md",
+      "title": "Obama reminds voters of a Trump-less America",
+      "excerpt": "In a reminder of better times, former president Barack Obama traveled to Philadelphia on Wednesday and delivered a stemwinder for the Democratic ticket. His topic was deadly serious — the need to rescue America — but he was joyous,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVFJJHQT6AI6XISYMFFM6K4QNU.jpg&w=1440",
+          "width": 1440,
+          "height": 962,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/?outputType=amp",
+      "publishedDateTime": "2020-10-22T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -489,7 +593,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -545,7 +649,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 208,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -597,7 +701,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1120,62 +1224,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-21-trump-administration-notifies-congress-of-18b-in-proposed-weapons-sales-to-taiwan.md",
-      "title": "Trump administration notifies Congress of $1.8B in proposed weapons sales to Taiwan ",
-      "excerpt": "The US formally notified Congress of a proposed $1.8 billion in advanced weapons systems sales to Taiwan -- a move sure to increase tensions with Beijing.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jL8O3RBxnEw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jL8O3RBxnEw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/taiwan-arms-sales-formal-notification/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/taiwan-arms-sales-formal-notification/index.html",
-      "publishedDateTime": "2020-10-21T15:10:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-21-biden-drops-la-mayor-eric-garcetti-from-event-after-two-more-men-accuse-close-adviser-of-sexual-misconduct.md",
       "title": "Biden drops LA Mayor Eric Garcetti from event after two more men accuse close adviser of sexual misconduct",
       "excerpt": "Los Angeles Mayor Eric Garcetti’s chances for a cabinet post in a Biden administration are increasingly in doubt now that two more men have accused Garcetti’s close adviser of sexual misconduct.",
@@ -1229,49 +1277,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-tyler-perry-jennifer-lopez-more-stars-endorse-joe-biden-for-president.md",
-      "title": "Tyler Perry, Jennifer Lopez & More Stars Endorse Joe Biden For President",
-      "excerpt": "Joe Biden and Kamala Harris have gained endorsements from plenty of powerful celebrities, like Tyler Perry, Jennifer Lopez and Taylor Swift. Here’s who else is voting for them on November 3.",
-      "sourceUrl": null,
-      "webUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
-      "originalUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pmchollywoodlife.files.wordpress.com/2020/10/joe-biden-celebs-endorse-vote-ftr.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
-      "cdnAmpWebUrl": "https://hollywoodlife-com.cdn.ampproject.org/c/s/hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
-      "publishedDateTime": "2020-10-21T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hollywood Life",
-        "domain": "hollywoodlife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

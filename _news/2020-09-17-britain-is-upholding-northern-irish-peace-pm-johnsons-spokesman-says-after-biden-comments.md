@@ -25,94 +25,21 @@ topics:
   - Joe Biden
 
 related:
-  - title: "What Bruce Springsteen Has Said About Joe Biden"
-    excerpt: "Though his disdain for Donald Trump is well-known, Springsteen has revealed he supports Joe Biden and believes his election will help repair America's global reputation."
-    publishedDateTime: 2020-09-21T09:25:00Z
-    webUrl: "https://www.newsweek.com/what-bruce-springsteen-has-said-about-joe-biden-democrat-trump-rnc-1533209"
-    ampWebUrl: "https://www.newsweek.com/what-bruce-springsteen-has-said-about-joe-biden-democrat-trump-rnc-1533209?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-bruce-springsteen-has-said-about-joe-biden-democrat-trump-rnc-1533209?amp=1"
+  - title: "The Note: Biden squares Scranton up vs. Park Avenue as in-person voting begins"
+    excerpt: "Biden was not and is not the candidate Trump thought he would be running against. Part of what he brings to the campaign's final stretch will be where he is from."
+    publishedDateTime: 2020-09-18T10:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
     images:
-      - url: "https://d.newsweek.com/en/full/1639517/bruce-springsteen.jpg"
-        width: 2500
-        height: 1828
-        isCached: true
-  - title: "Joe Biden should enact critical government reforms if he wins"
-    excerpt: "If Joe Biden wins the presidency, one of his first orders of business should be to enact his proposed package of ethics reforms that ensures no future president can replicate the corruption of the Tru"
-    publishedDateTime: 2020-09-26T22:06:00Z
-    webUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins"
-    ampWebUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_030820getty_progressives.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden refuses to say whether he would support expanding Supreme Court"
-    excerpt: "Democratic nominee Joe Biden refused on Sunday to answer a question about whether he’d back expanding the Supreme Court to have more justices."
-    publishedDateTime: 2020-09-27T18:48:00Z
-    webUrl: "https://thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme"
-    ampWebUrl: "https://thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_09252020gn.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden has foreign policy ideals that can work in this chaotic world"
-    excerpt: "On trade policy, Biden supported the North American Free Trade Agreement and also promoted the Trans Pacific Partnership. The latter, which Hillary Clinton and Trump both opposed in 2016, sought to elevate standards for free trade on issues like labor rights,"
-    publishedDateTime: 2020-09-28T15:00:00Z
-    webUrl: "https://thehill.com/opinion/international/518548-joe-biden-has-foreign-policy-ideals-that-can-work-in-this-chaotic-world"
-    ampWebUrl: "https://thehill.com/opinion/international/518548-joe-biden-has-foreign-policy-ideals-that-can-work-in-this-chaotic-world?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/518548-joe-biden-has-foreign-policy-ideals-that-can-work-in-this-chaotic-world?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_03122020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Asked about Biden criticism, UK says N.Irish peace deal not at risk"
-    excerpt: "British junior health minister Edward Argar said on Thursday that he did not believe the 1998 Northern Irish peace deal was at risk, responding to criticism from U.S. Democratic presidential candidate Joe Biden."
-    publishedDateTime: 2020-09-17T07:11:00Z
-    webUrl: "https://www.reuters.com/article/britain-eu-biden-brexit-idUSS8N2CN04J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSS8N2CN04J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSS8N2CN04J"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Your Evening Briefing: Russia’s Growing Fear of a President Joe Biden"
-    excerpt: "But Vladimir Putin is also wondering what a President Joe Biden would mean for issues from nuclear arms to relations with China, energy exports and sanctions. The conclusion from the Kremlin seems to be that Biden would be bad news for Russia."
-    publishedDateTime: 2020-09-25T21:51:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2020-09-25/your-evening-briefing-russia-s-growing-fear-of-a-president-joe-biden"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 105
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDQ3EuU3l5ng/v0/1200x966.jpg"
-        width: 1200
-        height: 966
+      - url: "https://s.abcnews.com/images/Politics/biden-2-rt-er-200917_1600388645705_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Britain is upholding Northern Irish peace, PM Johnson's spokesman says after Biden comments"
     excerpt: "British Prime Minister Boris Johnson is taking legislative measures to protect Northern Irish peace, his spokesman said on Thursday after U.S. Democratic presidential candidate Joe Biden warned the United Kingdom."
@@ -128,104 +55,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Bidin’ his time’: Joe Biden battles being chronically late"
-    excerpt: "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at"
-    publishedDateTime: 2020-09-23T04:08:00Z
-    webUrl: "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669"
+  - title: "Where Joe Biden Is Underperforming Hillary Clinton"
+    excerpt: "Joe Biden leads Donald Trump by a solid margin—about 7 percentage points nationally, as of this writing. He’s built his advantage by improving on Hillary Clinton’s 2016 success with suburban voters, seniors,"
+    publishedDateTime: 2020-09-18T20:54:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616394/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616394/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 85
-  - title: "Seriously, Can We Talk about Joe Biden Now?"
-    excerpt: "It’s always difficult to talk about the afflictions attending to old age. And Donald Trump has started talking about Joe Biden in a rude way, suggesting that Biden is getting drugged “in the ass” before he has to do an appearance."
-    publishedDateTime: 2020-09-24T10:30:00Z
-    webUrl: "https://www.nationalreview.com/2020/09/joe-biden-basement-campaign-strategy-can-we-talk-about-it-now/"
-    ampWebUrl: "https://www.nationalreview.com/2020/09/joe-biden-basement-campaign-strategy-can-we-talk-about-it-now/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2020/09/joe-biden-basement-campaign-strategy-can-we-talk-about-it-now/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
+      name: The Atlantic
+      domain: theatlantic.com
     quality: 75
     images:
-      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/joe-biden-charlotte-nc.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
+      - url: "https://cdn.theatlantic.com/thumbor/oktNQqWBkKkFe2CSOEgLdYvNTrk=/0x140:5000x2952/570x321/media/img/mt/2020/09/h_19.00264525/original.jpg"
+        width: 570
+        height: 321
         isCached: true
-  - title: "‘Bidin’ his time': Joe Biden battles being chronically late"
-    excerpt: "Joe Biden was running late. Again.On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at a subsequent press conference. When it was finally over,"
-    publishedDateTime: 2020-09-27T03:06:00Z
-    webUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late"
-    ampWebUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
-    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
+  - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
+    excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
+    publishedDateTime: 2020-09-19T13:31:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5833065002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5833065002"
     type: article
     provider:
-      name: The Oklahoman
-      domain: oklahoman.com
-    quality: 75
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 68
     images:
-      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-4cb4ae21b3530f5411a1621d59b8d043.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden urges peace, patience following Breonna Taylor grand jury decision"
-    excerpt: "Protests in Louisville have continued for months following the March 13 police shooting of the 26-year-old EMT who was killed in her home."
-    publishedDateTime: 2020-09-24T01:40:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/23/breonna-taylor-decision-joe-biden-urges-action-policing-reforms/3511616001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3511616001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3511616001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/PLOU/5f203284-924b-4954-a263-1be8ff457995-breonna_strupp__n3i7797092320.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/9e578b7e-e37c-43b2-b6be-1425012e5705-AP_19183805465920.jpg?auto=webp&crop=2022,1138,x0,y102&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "West Michigan man says yard signs were stolen. So he put up Joe Biden freeway billboards."
-    excerpt: "Marshall Stern, a Democrat who lives in Newaygo County, started a GoFundMe for a billboard supporting Joe Biden's presidential campaign."
-    publishedDateTime: 2020-09-22T00:41:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/21/joe-biden-billboards-newyago-michigan/5845062002/"
-    ampWebUrl: "https://amp.freep.com/amp/5845062002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5845062002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDTF/236fce4f-44df-4cc3-995d-311c6e79ab63-thumbnail_IMG_0236.jpg?auto=webp&crop=1279,720,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Joe Biden’s new Georgia ad volley courts Black men"
-    excerpt: "Joe Biden’s presidential campaign will launch a new round of TV ads in Georgia this week focused on his criminal justice policies in a targeted appeal to Black men who are critical to his hopes of flipping the battleground state."
-    publishedDateTime: 2020-09-21T11:32:00Z
-    webUrl: "https://www.ajc.com/politics/politics-blog/joe-bidens-new-georgia-ad-volley-courts-black-men/PKZ4EV3HPRF5ZCOP6UIKBFIIU4/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 55
-    images:
-      - url: "https://www.ajc.com/resizer/g6vfa30Oldka_iikBYxld39Ak5s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/2O6QRXWAWXWLUZ67677DEO4AXI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
-    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
-    publishedDateTime: 2020-09-24T14:57:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "t2j/m78qznsR9+gBb6TOy4Tjrmyxe2qXlMuLb3NglEOAeI8x8SS7WRbgwvyzzsH3KVDsl67E0P+fbAUMn1kjpjMXSI+0wagoy3ZgjP2pJjtMS4gcm/Zp1BPlk5XAH7K/yE5fXXHytX5qtfsBhl9I2pX1O+urUprcYhBwnliSp0XKm8qLvr8alpx/UxuLsRXm0ZoJ0P8lgk0DcpVrDAwun1q3HMKlLUJ1mMHbhRUUVonMmmeC3u6t+LsJhiB3xSY20qU9AI0zxVPCkCYGR0yuUGmx0gmcyuP2OpI933WyroSI8DPutFCAS1JH2IDpZE8SrdqjkpMIxJJaiWD+PBRnzIu5Dhyvje5c6dOPgaFPWR4=;kq2G0lBm8TqKrxZdaZOvWw=="
 ---

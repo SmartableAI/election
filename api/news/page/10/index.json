@@ -2,6 +2,144 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-17-barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo.md",
+      "title": "Barbra Streisand shades Donald Trump at event for Gov. Andrew Cuomo",
+      "excerpt": "Barbra Streisand got back to her New York roots while introducing Gov. Andrew Cuomo at a virtual event for his new book, “American Crisis: Leadership Lessons from the COVID-19 Pandemic,” on Thursday night.",
+      "sourceUrl": null,
+      "webUrl": "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/",
+      "originalUrl": "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pagesix.com/wp-content/uploads/sites/3/2020/10/barbra-streisand-donald-trump-andrew-cuomo.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/amp/",
+      "cdnAmpWebUrl": "https://pagesix-com.cdn.ampproject.org/c/s/pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/amp/",
+      "publishedDateTime": "2020-10-16T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Page Six",
+        "domain": "pagesix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-joe-bidens-animal-crossing-island-was-definitely-made-by-a-pro-gamer.md",
+      "title": "Joe Biden’s ‘Animal Crossing’ island was definitely made by a pro gamer",
+      "excerpt": "Whoever worked on Joe Biden’s “Animal Crossing” island is a real professional. That was probably the most surprising takeaway from the surreal 2020 presidential campaign promotion, which debuted Friday afternoon on KindaFunnyGames,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/",
+      "originalUrl": "https://www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6KP7ZZ3CARDYRM2XJMLBXRCAWU.jpg&w=1440",
+          "width": 975,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/?outputType=amp",
+      "publishedDateTime": "2020-10-16T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-its-on-north-carolina-vice-president-pence-greets-supporters-in-selma.md",
+      "title": "'It's on, North Carolina': Vice President Pence greets supporters in Selma",
+      "excerpt": "Vice President Mike Pence traveled to Selma on Friday for a \"Make America Great Again\" event at The Farm at 95. Supporters were lined up well before the 2:30 p.m. event. \"I'm here for one reason and one reason only,",
+      "sourceUrl": null,
+      "webUrl": "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/",
+      "originalUrl": "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/7084491_101620-wtvd-Gloria-5pm-Pence-in-Selma-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/",
+      "cdnAmpWebUrl": "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/",
+      "publishedDateTime": "2020-10-16T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVD",
+        "domain": "abc11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-opponent-of-pences-brother-alleges-racist-threats-gunfire.md",
       "title": "Opponent of Pence's brother alleges racist threats, gunfire",
       "excerpt": "A Black woman running for Congress in Indiana against Vice President Mike Pence's brother says she has received numerous racist and threatening messages and thinks she heard gunfire before a campaign",
@@ -518,6 +656,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-16-joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency.md",
+      "title": "Joe Biden Urged To Grant 2.2 Million Deferred Enforced Departure On ‘Day One Of His Presidency’",
+      "excerpt": "In a letter shared exclusively with this publication, Democratic presidential nominee Joe Biden is being urged to promise roughly 2.2 million people at risk of future deportation protections to remain in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/",
+      "originalUrl": "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88e1ce890b284b1282a55b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/",
+      "publishedDateTime": "2020-10-16T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-trump-and-biden-and-americas-two-polarized-political-realities-live-on-prime-time.md",
       "title": "Trump and Biden and America's two, polarized political realities live on prime time",
       "excerpt": "More than 800 Americans died from Covid-19 Thursday, yet President Donald Trump still played the victim.\n    \n",
@@ -582,7 +772,7 @@
       "originalUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -686,7 +876,7 @@
       "originalUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -727,58 +917,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-didnt-deny-new-york-times-report-that-claims-hes-400-million-debt-when-pressed-during-town-hall.md",
-      "title": "Trump didn't deny New York Times report that claims hes $400 million debt when pressed during town hall",
-      "excerpt": "\"What I'm saying is that it's a tiny percentage of my net worth... The amount of money — $400 million, is a peanut,\" Trump said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8916f1d260780019341bf5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp",
-      "publishedDateTime": "2020-10-15T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -835,6 +973,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-the-fbi-is-investigating-whether-purported-hunter-biden-burisma-emails-were-part-of-a-foreign-intelligence-operation.md",
+      "title": "The FBI is investigating whether purported Hunter Biden-Burisma emails were part of a foreign intelligence operation",
+      "excerpt": "The news comes shortly after it was reported that one of the sources of the emails, Rudy Giuliani, was a target for Russian intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10",
+      "originalUrl": "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f2232ad40c1f34f271cefc4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp",
+      "publishedDateTime": "2020-10-15T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1078,217 +1268,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/rudy-giuliani-russian-intelligence-misinformation-operation-trump/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/rudy-giuliani-russian-intelligence-misinformation-operation-trump/index.html",
       "publishedDateTime": "2020-10-15T18:48:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.md",
-      "title": "Trump says if he and Pelosi agree on stimulus package, Senate GOP will get on board",
-      "excerpt": "President Trump said Thursday that he is “ready to sign” a fourth coronavirus stimulus package, and said that if he and House Speaker Nancy Pelosi are able to come to an agreement, he believes Senate Republicans will get on board.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
-      "publishedDateTime": "2020-10-15T18:14:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-biden-said-its-absolutely-ok-to-raise-taxes-during-economic-downturn.md",
-      "title": "Biden said it's 'absolutely' OK to raise taxes during economic downturn",
-      "excerpt": "Former Vice President Joe Biden defended his plan to repeal President Trump's tax cuts on the wealthy and said it's \"absolutely\" appropriate to raise taxes during a struggling economy.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0V75ExXRaPQ/biden-absolutely-ok-raise-taxes-economic-downturn",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0V75ExXRaPQ/biden-absolutely-ok-raise-taxes-economic-downturn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8f66c7a-be69-4034-b3d3-230f8b3654d6/b726d4b2-1d50-4804-9dde-0078e85158ae/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-absolutely-ok-raise-taxes-economic-downturn.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-absolutely-ok-raise-taxes-economic-downturn.amp",
-      "publishedDateTime": "2020-10-15T18:07:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-pence-touts-anti-socialism-in-miami-campaign-stop.md",
-      "title": "Pence touts anti-socialism in Miami campaign stop",
-      "excerpt": "Vice President Mike Pence traveled to Florida on Thursday to rally Hispanic voters by highlighting President Donald Trump's record opposing socialist leaders across Latin America. (Oct. 15)",
-      "sourceUrl": null,
-      "webUrl": "https://www.jsonline.com/videos/news/nation/2020/10/15/pence-touts-anti-socialism-miami-campaign-stop/3671610001/",
-      "originalUrl": "https://www.jsonline.com/videos/news/nation/2020/10/15/pence-touts-anti-socialism-miami-campaign-stop/3671610001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/91dffbe1-e4dc-4656-8571-0b21820a99e0_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "jsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-gop-senator-unloads-on-trump-in-constituent-call-saying-he-mocks-evangelicals-and-has-flirted-with-white-supremacists.md",
-      "title": "GOP senator unloads on Trump in constituent call, saying 'he mocks evangelicals' and has 'flirted with White supremacists'",
-      "excerpt": "Republican Sen. Ben Sasse criticized President Donald Trump earlier this week during a private phone call with constituents, saying a number of unflattering things about the President, including that he's \"flirted with White supremacists\" and \"kisses dictators' butts,\" his office confirmed to CNN.\n ",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YDHojv2L_M0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YDHojv2L_M0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/ben-sasse-trump-criticism/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/ben-sasse-trump-criticism/index.html",
-      "publishedDateTime": "2020-10-15T16:17:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

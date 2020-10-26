@@ -31,21 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Breakingviews - Debate chaos is a gift for a conflicted Biden"
-    excerpt: "Donald Trump just gave Joe Biden a gift. The first televised debate of the 2020 election could have forced the Democratic presidential nominee to explain how he can appease both economic moderates and progressives."
-    publishedDateTime: 2020-09-30T04:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26L0G1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L0G1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L0G1"
+  - title: "Fauci: Trump Receiving ‘Incorrect’ Information On Coronavirus"
+    excerpt: "President Donald Trump might be receiving “either out of context or actually incorrect” information about coronavirus, Dr. Anthony Fauci told CNN on Monday after being asked about Dr. Scott Atlas, who was added to the White House Coronavirus Task Force last month."
+    publishedDateTime: 2020-09-28T23:16:00Z
+    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/"
+    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Forbes
+      domain: forbes.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535463441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T0C5"
-        width: 859
-        height: 545
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f726dbc6600384172144241%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2820%26cropY1%3D143%26cropY2%3D1729"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Study shows Trump is a super-spreader — of coronavirus misinformation"
+    excerpt: "The study from Cornell University claims to be the first to take a broad look at how misinformation has spread during the pandemic, and the one factor uniting much of it is Trump."
+    publishedDateTime: 2020-10-01T15:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/01/study-shows-trump-is-super-spreader-coronavirus-misinformation/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/01/study-shows-trump-is-super-spreader-coronavirus-misinformation/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/01/study-shows-trump-is-super-spreader-coronavirus-misinformation/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HCXLDSHGGAI6VFYKMTDTUHBDSI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Vice President Mike Pence, second lady test negative for coronavirus"
+    excerpt: "Spokesman Devin O’Malley says Vice President Pence “remains in good health and wishes the Trumps well in their recovery.”"
+    publishedDateTime: 2020-10-02T12:59:00Z
+    webUrl: "https://www.pbs.org/newshour/nation/vice-president-mike-pence-second-lady-test-negative-for-coronavirus"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/vice-president-mike-pence-second-lady-test-negative-for-coronavirus"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/vice-president-mike-pence-second-lady-test-negative-for-coronavirus"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/pence-1024x785.jpg"
+        width: 1024
+        height: 785
+        isCached: true
+  - title: "Coronavirus diagnosis of Donald Trump raises number of 'what ifs'"
+    excerpt: "We are experiencing a potential crisis in the coming election for which our Constitution provides no clear resolution. A multitude of “what ifs” could occur between now and Inauguration Day, Jan."
+    publishedDateTime: 2020-10-02T19:00:00Z
+    webUrl: "https://thehill.com/opinion/judiciary/519367-coronavirus-diagnosis-of-donald-trump-raises-number-of-what-ifs"
+    ampWebUrl: "https://thehill.com/opinion/judiciary/519367-coronavirus-diagnosis-of-donald-trump-raises-number-of-what-ifs?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519367-coronavirus-diagnosis-of-donald-trump-raises-number-of-what-ifs?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_09242020_1.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Joe and Jill Biden test negative for coronavirus"
     excerpt: "Democratic nominee and his wife underwent PCR testing for Covid-19 after Trump announced he has coronavirus"
@@ -63,81 +111,213 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden to Democrats: Keep focus on health care, not expanding Supreme Court"
-    excerpt: "The former vice president sidestepped any talk of expanding the court to counter conservative gains should he win in November and Democrats regain a Senate majority."
-    publishedDateTime: 2020-09-27T18:17:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html?outputType=amp"
+  - title: "GOP faces reckoning over Trump's virus strategy, diagnosis"
+    excerpt: "President Donald Trump ’s coronavirus diagnosis was a moment of reckoning for his Republican Party, whose leaders largely adopted his strategy of playing down the disease but are now confronted with a stark political nightmare a month from Election Day."
+    publishedDateTime: 2020-10-03T17:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 121
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/_PA3J5pS0nFUPeIzjC67IR6vTUE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ED4OMV2TAJEKLKWKRNMHJFESTY.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b646160b63fb44cc87cda580de0d383c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "What Mike Pence needs to tell us about coronavirus"
+    excerpt: "Vice President Mike Pence was present at the Sept. 26 event at the White House introducing Judge Amy Coney Barrett as President Trump’s Supreme Court nominee. Among the several attendees who have subsequently tested positive for the novel coronavirus are Sen."
+    publishedDateTime: 2020-10-04T14:05:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/04/what-mike-pence-needs-tell-us/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/04/what-mike-pence-needs-tell-us/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/04/what-mike-pence-needs-tell-us/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FWTBPOAAIII6XMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "What to know about Trump's coronavirus treatment regimen"
+    excerpt: "These are Business Insider's biggest healthcare stories for October 5."
+    publishedDateTime: 2020-10-05T13:22:00Z
+    webUrl: "https://www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-5-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-5-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-5-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f77adce2400440019129cce?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Democratic Armed Services chairman predicts defense budget fight if Biden wins"
-    excerpt: "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win."
-    publishedDateTime: 2020-10-01T23:46:00Z
-    webUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins"
-    ampWebUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
-    images:
-      - url: "https://thehill.com/sites/default/files/smithadam_070920gn2_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Democratic nominee Joe Biden campaigns in Michigan after testing negative for coronavirus"
-    excerpt: "The former vice president delayed his scheduled trip to the battleground state in order to take two coronavirus tests Friday morning."
-    publishedDateTime: 2020-10-03T01:39:00Z
-    webUrl: "https://www.cnbc.com/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 116
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106712128-16007764692020-09-21t201730z_1749449824_rc283j97mwkc_rtrmadp_0_usa-election-biden.jpeg?v=1600776508"
-        width: 3500
-        height: 2334
-        isCached: true
-  - title: "George W. Bush's first EPA chief on why she supports Joe Biden"
-    excerpt: "Christine Todd Whitman, the former Republican governor of New Jersey who headed the Environmental Protection Agency under President George W. Bush, is endorsing Joe Biden in the presidential race. She joined CBSN to explain why she believes the Democratic nominee is a better choice for the country than President Trump."
-    publishedDateTime: 2020-09-28T21:56:00Z
-    webUrl: "https://www.cbsnews.com/video/george-w-bushs-first-epa-chief-on-why-she-supports-joe-biden/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/28/82a5b4b7-6b45-4a2f-9c68-17503be50c3b/thumbnail/1200x630/0daa3e25a97217bff1b74715ab3504d1/cbsn-fusion-george-w-bushs-first-epa-chief-on-why-she-supports-joe-biden-thumbnail-555771-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden to Proud Boys: 'Cease and desist'"
-    excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
-    publishedDateTime: 2020-09-30T21:01:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
+  - title: "Analysts' view: Trump goes into quarantine, awaits coronavirus test results"
+    excerpt: "U.S. stock futures dipped on Friday after President Donald Trump said he and his wife will quarantine after a close aide, Hope Hicks, tested positive for the coronavirus. Trump said they are awaiting test results."
+    publishedDateTime: 2020-10-02T05:16:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-markets-idUSKBN26N0IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0IQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0IQ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
+    quality: 123
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20200930&i=OVCXVZ5CV&r=OVCXVZ5CV&t=2"
-        width: 960
-        height: 540
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535805144&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910CI"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "210,000 deaths later, Trump reverts to comparing the coronavirus to the flu"
+    excerpt: "They thought about it when the toll of covid-19, the disease caused by the coronavirus, passed 27,000 deaths on Apri"
+    publishedDateTime: 2020-10-06T19:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/06/210000-deaths-later-trump-reverts-comparing-coronavirus-flu/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/06/210000-deaths-later-trump-reverts-comparing-coronavirus-flu/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/06/210000-deaths-later-trump-reverts-comparing-coronavirus-flu/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHXBOQQHSUI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump begins quarantine as close aide Hope Hicks tests positive for coronavirus"
+    excerpt: "Hope Hicks, a close adviser to President Trump who traveled with him several times this week aboard Air Force One, has tested positive for the coronavirus, a senior administration official confirmed Thursday."
+    publishedDateTime: 2020-10-02T05:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/hope-hicks-close-trump-aide-tests-positive-for-coronavirus/2020/10/01/af238f7c-0444-11eb-897d-3a6201d6643f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/hope-hicks-close-trump-aide-tests-positive-for-coronavirus/2020/10/01/af238f7c-0444-11eb-897d-3a6201d6643f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/hope-hicks-close-trump-aide-tests-positive-for-coronavirus/2020/10/01/af238f7c-0444-11eb-897d-3a6201d6643f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KHKHD5QEJEI6XN7NCQO5RBLA5I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "CDC director contradicts Trump on coronavirus: 'We're nowhere near the end' - NBC"
+    excerpt: "The head of a top U.S. government health agency gave a grim assessment of the coronavirus pandemic that contradicts that of President Donald Trump, saying \"We're nowhere near the end,\" NBC News reported on Monday."
+    publishedDateTime: 2020-09-28T13:26:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-cdc-idUSKBN26J21A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J21A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J21A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535210522&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1A7"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump COVID-19 live updates: Doctor won't comment on Trump tweet about coronavirus"
+    excerpt: "President Trump's condition is continuing to improve as he fights a coronavirus infection, doctors say, and he is able to leave the hospital on Monday."
+    publishedDateTime: 2020-10-05T20:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Trump calls on UN to hold China accountable for 'unleashing' the coronavirus pandemic"
+    excerpt: "The president used his United Nations speech to attack China for spreading the coronavirus and claimed the U.S. was leading on environmental causes."
+    publishedDateTime: 2020-09-22T16:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/trump-blasts-china-coronavirus-pandemic-un-speech/5864039002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5864039002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864039002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/a4f56ede-1a22-4f11-ac75-97eff15f499f-AP_UN_General_Assembly.jpg?auto=webp&crop=2879,1620,x0,y86&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Hope Hicks, one of President Trump's closest advisers, tests positive for coronavirus"
+    excerpt: "Hope Hicks, one of President Donald Trump's closest advisers, has tested positive for the coronavirus, ABC News has confirmed. Hicks, who serves as counselor to the president and is among a tight group of advisers to the president,"
+    publishedDateTime: 2020-10-02T00:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/hope-hicks-president-trumps-closest-advisers-tests-positive/story?id=73377363"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/hope-hicks-president-trumps-closest-advisers-tests-positive/story?id=73377363"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/hope-hicks-president-trumps-closest-advisers-tests-positive/story?id=73377363"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/hope-hicks-ap-ps-190619_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump starts \"quarantine process\" after aide Hope Hicks tests positive for coronavirus"
+    excerpt: "U.S. President Donald Trump said on Thursday he was beginning a quarantine process after Hope Hicks, a top adviser and trusted aide, tested positive for the coronavirus."
+    publishedDateTime: 2020-10-02T04:33:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN26N01B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N01B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N01B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535797498&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910AU"
+        width: 811
+        height: 545
+        isCached: true
+  - title: "Explained: Donald Trump's coronavirus symptoms, including a cough, mild fever, and lethargy"
+    excerpt: "President Trump is reportedly experiencing mild symptoms of the coronavirus, including a cough and mild fever. Mild cases can turn severe."
+    publishedDateTime: 2020-10-02T21:54:00Z
+    webUrl: "https://www.businessinsider.com/what-to-know-about-trumps-coronavirus-symptoms-cough-fatigue-fever-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/what-to-know-about-trumps-coronavirus-symptoms-cough-fatigue-fever-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-to-know-about-trumps-coronavirus-symptoms-cough-fatigue-fever-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f774a3974fe5b0018a8ebb7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump, Melania tests positive for coronavirus, president vows to bring quarantine 'immediately'"
+    excerpt: "The revelation Trump and first lady Melania Trump tested positive for coronavirus came after a top aide announced she also had a positive test result."
+    publishedDateTime: 2020-10-02T05:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/trump-melania-test-positive-coronavirus/5891100002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5891100002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5891100002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden tests negative for coronavirus"
     excerpt: "Democratic presidential nominee Joe Biden said he and his wife Jill tested negative for coronavirus on Friday. “I’m happy to report that Jill and I have tested negative,” Biden said on Twitter. “Thank you to everyone for your messages of concern."
@@ -153,95 +333,231 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "'He's from here': Biden and the battle for Scranton"
-    excerpt: "Biden and the battle for Scranton. Posted . Democratic presidential nominee Joe Biden's hometown of Scranton, Pennsylvania has become one of the cent"
-    publishedDateTime: 2020-10-06T18:36:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP2xd?now=true"
+  - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
+    excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
+    publishedDateTime: 2020-10-02T05:07:00Z
+    webUrl: "https://www.businessinsider.com/trump-tests-positive-covid-19-after-hope-hicks-tested-positive-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-tests-positive-covid-19-after-hope-hicks-tested-positive-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tests-positive-covid-19-after-hope-hicks-tested-positive-2020-10?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7c7fa6e4b04f7ff7c2adc5-1601994662901?location=LANDSCAPE"
+      - url: "https://i.insider.com/5f768a3674fe5b0018a8e9f6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Coronavirus live updates: Donald Trump, Melania test positive for COVID-19; 20,000 Amazon workers have tested positive"
+    excerpt: "President Trump and First Lady Melania have tested positive for COVID-19. About 20K Amazon workers infected. Latest COVID-19 news."
+    publishedDateTime: 2020-10-02T12:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/02/covid-news-trump-melania-positive-california-equity-amazon/5888740002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5888740002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5888740002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/6000d549-6f0f-4dd7-b2d2-820321df3c1e-AFP_AFP_8QZ69N.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden releases 2019 returns, paid nearly $300,000 in taxes"
-    excerpt: "Democratic presidential nominee Joe Biden released his 2019 tax returns hours before the first debate with President Donald Trump, showing that he paid $299,346 in income taxes in 2019."
-    publishedDateTime: 2020-09-29T17:07:00Z
-    webUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/"
-    ampWebUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
+  - title: "President Trump, first lady test positive for coronavirus days after first debate"
+    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for COVID-19 and \"will begin our quarantine and recovery process immediately.\""
+    publishedDateTime: 2020-10-02T11:08:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/02/president-donald-trump-first-lady-test-positive-coronavirus/5892626002/"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/Election_2020_Biden_70169-2.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f9c98f2a-76c0-49ad-9597-929b4bf1dc43-VPC_TRUMP_COVID_POSITIVE_DESK_THUMB.00_00_00_00.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Michelle Obama: 'Vote for Joe Biden like your lives depend on it'"
-    excerpt: "Former first lady Michelle Obama launched a 24-minute campaign video for Joe Biden on Tuesday, slamming President Trump and urging Americans to vote for the Democratic presidential nominee like their “lives depend on it."
-    publishedDateTime: 2020-10-06T20:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
+  - title: "Your questions about Trump and COVID-19, answered: Who gave Trump coronavirus? What is the Regeneron antibody 'cocktail'?"
+    excerpt: "Our readers from across the US are asking important questions about President Trump's positive COVID-19 test. We answer your questions."
+    publishedDateTime: 2020-10-04T02:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/02/trump-tests-positive-coronavirus-reader-questions-answers/5893893002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5893893002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5893893002"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/06/michelle_obama_c20-0-880-502_s1200x700.jpg?fb980a6d3389ca7cc435a478cad5a7e1c62b1a57"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
-  - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
-    excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
-    publishedDateTime: 2020-09-29T22:50:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2020/09/29/fact-check-allegations-joe-biden-wearing-earpiece-false/3578805001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3578805001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3578805001"
+  - title: "Coronavirus updates: Trump calls 200K deaths a 'shame'; Miami schools to resume in-person classes; Sizzler files bankruptcy"
+    excerpt: "Miami-Dade County schools will return to in-person instruction beginning Oct. 14. Donald Trump says U.S. death toll is \"a shame.\" Latest COVID news."
+    publishedDateTime: 2020-09-23T10:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/09/23/covid-19-florida-schools-vaccine-strict-rules-fda/3498403001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3498403001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498403001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/8106815f-e50c-4989-9c37-c3d7dcda342e-AP_Virus_Outbreak_Florida_Cyberattack.jpg?auto=webp&crop=2399,1349,x0,y71&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Campaign Manager, Kellyanne Conway Are Latest To Test Positive For Coronavirus"
+    excerpt: "Stepien took over Trump's campaign in July and attended the debate on Tuesday. Although Conway no longer works at the White House, she recently attended an event at the Rose Garden."
+    publishedDateTime: 2020-10-03T08:31:00Z
+    webUrl: "https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/03/919821048/trump-campaign-manager-kellyanne-conway-are-latest-to-test-positive-for-coronavi"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 98
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/03/ap_20233729964769_wide-8408f37dfac959679b411484ec8fbc0d2fa04d50.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "'I am feeling well!': President Trump emerges to tweet to his followers amid conflicting reports about his coronavirus diagnosis"
+    excerpt: "The president tweeted from Walter Reed Hospital while questions lingered about his COVID-19 diagnosis and who else may have been exposed."
+    publishedDateTime: 2020-10-03T18:28:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-walter-reed-hospital-coronavirus-twitter-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-walter-reed-hospital-coronavirus-twitter-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-walter-reed-hospital-coronavirus-twitter-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f78c0a5282c500018c7874e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Department of Transportation rejected a public transit mask mandate on the same day Trump's coronavirus diagnosis was revealed"
+    excerpt: "CIO submitted a request to the government in July to better protect workers against the coronavirus."
+    publishedDateTime: 2020-10-04T22:26:00Z
+    webUrl: "https://www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5f7a3ea2282c500018c787dc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Virginia Gov. Ralph Northam and his wife test positive for coronavirus as health officials warn against Trump's scheduled campaign rally"
+    excerpt: "Trump is slated to host a Friday night campaign rally in Virginia with roughly 4,000 supporters. One local official called it a \"public health risk.\""
+    publishedDateTime: 2020-09-26T03:22:00Z
+    webUrl: "https://www.businessinsider.com/virginia-gov-northam-tests-positive-for-coronavirus-before-trump-rally-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/virginia-gov-northam-tests-positive-for-coronavirus-before-trump-rally-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-gov-northam-tests-positive-for-coronavirus-before-trump-rally-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5f6e0ffc0f4d550011032517?width=1200&format=jpeg"
+        width: 911
+        height: 455
+        isCached: true
+  - title: "'That makes no sense': Doctors say Trump is either getting overtreated for coronavirus, which could be risky, or he's more seriously ill than we know"
+    excerpt: "The decision to give the president steroids raises questions about how severe his coronavirus infection is, doctors say."
+    publishedDateTime: 2020-10-05T17:29:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-treatments-prognosis-puzzle-doctors-remdesivir-dexamethasone-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-treatments-prognosis-puzzle-doctors-remdesivir-dexamethasone-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-treatments-prognosis-puzzle-doctors-remdesivir-dexamethasone-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5f78cb9e2400440019129d78?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "A Fox News host has cast Trump as a war hero who got the coronavirus because he 'put himself on the line'"
+    excerpt: "Fox News host Greg Gutfeld compared Trump's coronavirus diagnosis to a solider's sacrifice on the battlefield while speaking on \"The Five\" talk."
+    publishedDateTime: 2020-10-03T11:31:00Z
+    webUrl: "https://www.businessinsider.com/fox-news-host-greg-gutfeld-trump-covid-19-for-us-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+  - title: "Trump Suffering From 'Severe' Case of Coronavirus? Doctors Question Use Of Dexamethasone"
+    excerpt: "Medical experts are concerned about the president's use of dexamethasone, a steroid normally reserved for more serious cases."
+    publishedDateTime: 2020-10-05T05:32:00Z
+    webUrl: "https://www.ibtimes.com/trump-suffering-severe-case-coronavirus-doctors-question-use-dexamethasone-3056687"
+    ampWebUrl: "https://www.ibtimes.com/trump-suffering-severe-case-coronavirus-doctors-question-use-dexamethasone-3056687?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-suffering-severe-case-coronavirus-doctors-question-use-dexamethasone-3056687?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 66
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/donald-trump-tweeted-from-hospital-calling-for-us.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Kanye West Sends Prayers To Donald And Melania Trump After Both Tested Positive For Coronavirus"
+    excerpt: "Kanye West sent well-wishes to President Donald Trump and first lady Melania Trump after they tested positive for COVID-19."
+    publishedDateTime: 2020-10-04T09:40:00Z
+    webUrl: "https://www.ibtimes.com/kanye-west-sends-prayers-donald-melania-trump-after-both-tested-positive-coronavirus-3056370"
+    ampWebUrl: "https://www.ibtimes.com/kanye-west-sends-prayers-donald-melania-trump-after-both-tested-positive-coronavirus-3056370?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kanye-west-sends-prayers-donald-melania-trump-after-both-tested-positive-coronavirus-3056370?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/04/26/donald-trump-kanye-west.jpg"
+        width: 1024
+        height: 759
+        isCached: true
+  - title: "The Coronavirus Cases In Trump's Inner Circle"
+    excerpt: "The coronavirus has not only reached the White House, infecting President Donald Trump, but it has also spread among members of his family, inner circle and his Republican allies. The following is a list of some of the people surrounding the American president who have tested positive for Covid-19: Trump,"
+    publishedDateTime: 2020-10-06T01:25:00Z
+    webUrl: "https://www.ibtimes.com/coronavirus-cases-trumps-inner-circle-3057171"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/this-combination-of-file-pictures-shows-l-r.jpg"
+        width: 768
+        height: 768
+        isCached: true
+  - title: "Mike Pence, Karen Pence test negative as White House coronavirus cases climb"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence both tested negative Monday as a number of new cases were confirmed in the nation's capital."
+    publishedDateTime: 2020-10-05T18:47:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/05/mike-pence-tests-negative-covid-19-white-house-coronavirus-trump/3626064001/"
     type: article
     provider:
       name: Indianapolis Star
       domain: indystar.com
-    quality: 67
+    quality: 52
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/presto/2019/09/26/PIND/f459176d-794d-415b-b2f4-9a80abebd0f8-Pence1.JPG?crop=2735,1539,x0,y0&width=1600&height=800&fit=bounds"
+        width: 1422
+        height: 800
         isCached: true
-  - title: "M. Night Shyamalan Teams Up with Joe Biden Campaign for Filmmaking Contest to Encourage Voting"
-    excerpt: "We really feel this is an important way that all of us can be a part of this incredible moment in history,” M. Night Shyamalan said of the contest"
-    publishedDateTime: 2020-10-01T19:05:00Z
-    webUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/"
-    ampWebUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 63
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B405%2C380%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F01%2FM-Night-Shyamalan-Joe-Biden.jpg"
-        width: 1500
-        height: 785
-        isCached: true
-  - title: "Joe Biden, Jill Biden Test Negative for Coronavirus"
-    excerpt: "The negative test results for the Democratic presidential nominee come hours after President Donald Trump received a positive diagnosis."
-    publishedDateTime: 2020-10-02T17:47:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-02/joe-biden-jill-biden-test-negative-for-coronavirus"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-02/joe-biden-jill-biden-test-negative-for-coronavirus?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-02/joe-biden-jill-biden-test-negative-for-coronavirus?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Joe Biden tests negative for coronavirus before events in Grand Rapids"
     excerpt: "Democratic presidential nominee Joe Biden and his wife Jill Biden tested negative for the coronavirus Friday morning, hours before he is scheduled to campaign in Michigan. Bidens"
     publishedDateTime: 2020-10-03T04:25:00Z

@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-19-americans-say-trump-vs-biden-most-important-election-in-decades-gallup-poll-finds.md",
+      "title": "Americans say Trump vs. Biden most important election in decades, Gallup poll finds",
+      "excerpt": "A recent Gallup poll found 77% of registered voters said the outcome of the November election between President Trump and Joe Biden matters more to them than prior U.S. elections. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PICO34t4BnY/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PICO34t4BnY/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 2079,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp",
+      "publishedDateTime": "2020-10-19T13:59:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-harris-spotlights-trumps-weird-obsession-with-obamas-legacy.md",
       "title": "Harris spotlights Trump’s ‘weird obsession’ with Obama's legacy",
       "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris – campaigning in Florida on the first day of in-person early voting in the largest of the traditional general election battleground states – is taking aim once again at President Trump over his repeated moves to repeal the national health care law",
@@ -416,6 +472,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp",
       "publishedDateTime": "2020-10-18T13:55:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.md",
+      "title": "Buttigieg blasts Trump foreign policy, calls him 'destabilizing force literally everywhere he goes'",
+      "excerpt": "Former South Bend, Ind., Mayor Pete Buttigieg once blasted Democratic presidential nominee Joe Biden for his foreign policy record, but now defends him while claiming that President Trump is a \"disaster\" in that area.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
+      "publishedDateTime": "2020-10-18T06:21:57-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1509,118 +1621,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.amp",
       "publishedDateTime": "2020-10-14T19:43:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-governor-cuomo-claims-trump-convinced-american-their-loved-ones-died-due-to-nursing-home-policy.md",
-      "title": "Governor Cuomo claims Trump convinced American their loved ones died due to nursing home policy",
-      "excerpt": "New York Gov. Andrew Cuomo on Wednesday blamed President Donald Trump for convincing people that the governor’s controversial March 25 nursing home mandate was responsible for 6,600 deaths",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/esR8Q-gvFHs/governor-cuomo-trump-nursing-home-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/esR8Q-gvFHs/governor-cuomo-trump-nursing-home-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288757069959.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/governor-cuomo-trump-nursing-home-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/governor-cuomo-trump-nursing-home-policy.amp",
-      "publishedDateTime": "2020-10-14T14:56:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-hunter-biden-emails-giuliani-attorney-questions-if-fbi-dismissed-potentially-damaging-findings.md",
-      "title": "Hunter Biden emails: Giuliani attorney questions if FBI dismissed potentially damaging findings",
-      "excerpt": "As bombshell revelations concerning Hunter Biden, the son of former Vice President Joe Biden, begin to unravel from an abandoned hard drive, red flags are being raised over what – if anything – federal investigators did with the findings.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hD1b9QecZRo/hunter-biden-emails-giuliani-attorney-fbi",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hD1b9QecZRo/hunter-biden-emails-giuliani-attorney-fbi",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp",
-      "publishedDateTime": "2020-10-14T12:10:58-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

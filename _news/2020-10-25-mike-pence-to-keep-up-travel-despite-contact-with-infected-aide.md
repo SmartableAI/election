@@ -59,6 +59,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Vice President Mike Pence to stay on campaign trail despite exposure to chief of staff Marc Short, who tested positive for COVID-19"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
+    publishedDateTime: 2020-10-25T12:19:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 95
+    images:
+      - url: "https://www.chicagotribune.com/resizer/u0DCzdkXJN-RGYRvSSr43-jHmvc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BSXXSPCSCJF4FHNE6RFJZESBP4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence’s top aide tests positive for coronavirus"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said Saturday. Pence himself tested negative,"
+    publishedDateTime: 2020-10-25T04:03:00Z
+    webUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KTIDZGVA4VEXFPEH37ETNHERVA.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
 
 secured: "TGoQBuLVF4YHN9LvaT25mkAsU4o3qdoMygsQ2/MssUqJGrh/jUFtG6zyOmlT2lYkaSsTee17E8k5Jr1r2jFd4JwbxT/8dQmv8QvC8Sw3J6P5pkEj1PMGH/tIkpbBpjzjw5e/2jzDYCFUoU5hrJhat9L4UHkWs4z/mRYMtpSpPrUV8bstyVOWzlQbGHfOvmz7cr2Cml/hy+EFMDwPuv9WvQQXU+REHC9UW85nzJFhCaADfDG/wQt4yLtztZ91yOr5gPBCDh1PKf5u4F1dzxREgPjCBU2lRZ3utYpOLnUdKvS4Me8/44Bg4gBJrllHUfrTto1gzzgpAN5FE69EI1wxleM22pzqt5Sz5mqsdnqZYrZLyPNVXns1lGPZl+rAJ95goHMJs+benCE6eZypFS+OUE5azzUhScvCFuVZRyVWnbF81F0pwsSVcBFrs51ZT2erm0zsn98+ODxI4ZRkmzpnqrNXJhoT0o/HxDloMUEkFD6i4p6vi0t5kDogtbj9EGLMq6uxwxJcHzJ9IX0nTW29mQ==;cSfBVGbHy2Rg1BOGiaHiGA=="
 ---

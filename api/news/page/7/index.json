@@ -2,6 +2,106 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-21-greenwald-slams-schiff-over-biden-emails-on-fox.md",
+      "title": "Greenwald slams Schiff over Biden emails on Fox",
+      "excerpt": "Greenwald, the journalist who in 2013 worked with whistleblower Edward Snowden to published leaked intelligence on the National Security Agency's surveillance programs, accused Schiff of lying about Russia being behind a New York Post story on Hunter Biden 's emails.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox",
+      "originalUrl": "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/greenwaldglenn_01222020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox?amp",
+      "publishedDateTime": "2020-10-20T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-trump-hosting-sinclair-town-hall-in-white-house-rose-garden.md",
+      "title": "Trump hosting Sinclair ‘town hall’ in White House Rose Garden",
+      "excerpt": "President Trump on Tuesday will tape a “town hall” event in the White House Rose Garden with Eric Bolling, the former Fox News host, for the Sinclair Broadcasting Network. The event",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
+      "originalUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201020-trump-sinclair-town-hall.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
+      "publishedDateTime": "2020-10-20T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-fact-check-donald-trump-and-mar-a-lagos-fight-with-palm-beach-over-a-flagpole.md",
       "title": "Fact check: Donald Trump and Mar-a-Lago's fight with Palm Beach over a flagpole",
       "excerpt": "Donald Trump and Palm Beach sparred over the size of a flag at his estate. A post about that fight is a mixture of true and false.",
@@ -10,7 +110,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-donald-trump-and-mar-lagos-fight-over-flagpole/5921390002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -420,6 +520,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-20-the-note-trumps-fauci-feud-keeps-campaign-focus-on-covid-19.md",
+      "title": "The Note: Trump's Fauci feud keeps campaign focus on COVID-19",
+      "excerpt": "It takes head-spinning logic to cast Trump's feud with Fauci as a winning campaign message for an incumbent who is down in the polls. The campaign is continuing to air ads that feature Fauci -- out of context -- appearing to applaud the president's decisions on COVID-19,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469",
+      "originalUrl": "https://abcnews.go.com/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 645,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-2-rt-er-201019_1603145312156_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469",
+      "publishedDateTime": "2020-10-20T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-exxon-mobil-said-a-hypothetical-call-where-trump-got-its-ceo-to-donate-25-million-to-his-campaign-never-happened.md",
       "title": "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened",
       "excerpt": "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign.",
@@ -428,7 +580,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -452,110 +604,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-joe-bidens-love-of-amtrak-tells-us-how-he-would-govern.md",
-      "title": "Joe Biden’s love of Amtrak tells us how he would govern",
-      "excerpt": "After the first presidential debate, Joe Biden did what he has done many times before: boarded a train. “The Build Back Better Express” would lumber for the better part of a day between Cleveland and Johnstown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/",
-      "originalUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVBWLIQDUII6XOJOAKLHN6PL5Q.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp",
-      "publishedDateTime": "2020-10-20T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-calls-fauci-a-disaster-and-seeks-to-reassure-his-team-he-can-win.md",
-      "title": "Trump calls Fauci a 'disaster' and seeks to reassure his team he can win",
-      "excerpt": "President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday, airing his frustration with the scientist during a call meant to reassure campaign staff he has a path to victory on Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2742AD",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2742AD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538074915&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9I1MX",
-          "width": 799,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2742AD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742AD",
-      "publishedDateTime": "2020-10-20T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -810,7 +858,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2039,
+      "heat": 2079,
       "tags": null,
       "images": [
         {
@@ -862,7 +910,7 @@
       "originalUrl": "https://www.ydr.com/story/news/2020/10/19/mike-pence-rally-pa-election-2020-york-county/5982553002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1254,58 +1302,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sen-cory-gardner-tied-to-president-trumps-vindictive-base-faces-conundrum-in-colorado.md",
-      "title": "Sen. Cory Gardner, tied to President Trump's 'vindictive' base, faces conundrum in Colorado",
-      "excerpt": "Larimer County has never shown strong voter support for U.S. Sen. Cory Gardner. Not in 2014, when Larimer County, home to Colorado State University, handed the CSU alumnus his Senate seat by a margin of 0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/19/colorado-election-2020-cory-gardner-donald-trump-campaign-base-conundrum/3711527001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/19/colorado-election-2020-cory-gardner-donald-trump-campaign-base-conundrum/3711527001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/14/PFTC/271b51e9-c3fa-4b03-8386-6fdcd3e33fc6-101320_GardnerHickenlooperDebate_15_bb.jpg?auto=webp&crop=3299,1856,x0,y306&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3711527001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3711527001",
-      "publishedDateTime": "2020-10-19T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

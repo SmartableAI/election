@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump makes at least 16 false or misleading claims to '60 Minutes'"
+    excerpt: "President Donald Trump continued his dishonesty blitz in an interview with Lesley Stahl of \"60 Minutes.\"\n    \n"
+    publishedDateTime: 2020-10-26T11:17:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LeWY3tNeZ0g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/fact-check-trump-60-minutes-lesley-stahl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/fact-check-trump-60-minutes-lesley-stahl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025114911-01-trump-lumberton-nc-rally-1024-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration pushes for last-minute foreign policy wins in final campaign sprint"
     excerpt: "Less than two weeks from Election Day, the Trump administration is working hard to secure foreign policy victories aimed at providing a last-minute boost in the polls.\n    \n"
     publishedDateTime: 2020-10-21T12:20:05Z

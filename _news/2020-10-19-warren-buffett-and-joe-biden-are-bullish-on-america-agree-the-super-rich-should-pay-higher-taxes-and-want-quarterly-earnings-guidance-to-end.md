@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/warren-buffett-joe-biden-share-views
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden’s tax plan would likely hit wealthy Californians hard. Here’s why"
+    excerpt: "Because the rich in California tend to be richer than most and pay a higher share of state income taxes, Californians could feel more of a sting than other states from Joe Biden’s tax plan. The Democratic presidential candidate has proposed steep tax increases on people earning more than $400,"
+    publishedDateTime: 2020-10-13T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 73
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/6bbb92b6-9b86-4fe9-aafa-96c3e56b9b22/f3f62c82-9b9f-4647-92a7-18f79ea97253/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden in Michigan: 'It's time to unite America' and increase affordable health care"
     excerpt: "The promises to expand health care access come less than three weeks before Election Day, as both candidates vie for Michigan's votes."
     publishedDateTime: 2020-10-17T10:55:00Z

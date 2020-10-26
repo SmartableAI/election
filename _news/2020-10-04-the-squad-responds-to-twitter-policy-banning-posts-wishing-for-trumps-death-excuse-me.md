@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234?amp=1"
 type: article
 quality: 114
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       name: Daily Mail
       domain: dailymail.co.uk
     quality: 81
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "'Excuse me?' What Trump said when Mike Pence asked him the first time they met to 'bow your head and pray', leaked recording between the President and Christian group reveals"
-    excerpt: "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals."
-    publishedDateTime: 2020-09-29T17:17:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 38
     images:
       - url: "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg"
         width: 636

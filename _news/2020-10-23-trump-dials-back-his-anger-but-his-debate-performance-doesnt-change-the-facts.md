@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Already in a health care ditch, Trump gets shovel, keeps digging"
-    excerpt: "Trump's health care comments to \"60 Minutes\" were a mess. His related rhetoric during the presidential debate wasn't any better."
-    publishedDateTime: 2020-10-23T16:56:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/already-health-care-ditch-trump-gets-shovel-keeps-digging-ncna1244551"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244551"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244551"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_18/2800321/190327-obamacare-mc-mc-828_5bc91cbc317e1ed253c83b660125e6dc.JPG"
-        width: 2500
-        height: 1684
-        isCached: true
   - title: "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short"
     excerpt: "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\""
     publishedDateTime: 2020-10-24T00:27:00Z

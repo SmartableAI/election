@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/"
 type: article
 quality: 126
-heat: 206
+heat: 166
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bernie Sanders gave a dire warning over Trump's refusal to promise a peaceful transition of power"
-    excerpt: "The Vermont senator described \"an election between Donald Trump and democracy,\" and added that \"democracy must win.\""
-    publishedDateTime: 2020-09-24T20:27:00Z
-    webUrl: "https://www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5f6cf4cf0f4d5500110322f2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Bernie Sanders says Trump threatens to undermine American democracy"
     excerpt: "In a speech Thursday, Senator Bernie Sanders warned that President Donald Trump \"is prepared to undermine American democracy in order to stay in power.\" His comments came a day after the president refused to promise a peaceful transfer of power if he loses."
     publishedDateTime: 2020-09-24T18:48:00Z
@@ -76,22 +60,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/24/d4a7ca55-d0f9-47cb-ac94-abec30bd916c/thumbnail/1200x630/2f9d19b970a6495996c527aa1747e0e7/cbsn-fusion-bernie-sanders-trump-undermine-american-democracy-to-stay-in-power-thumbnail-553717-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Bernie Sanders says there are a 'number of plans' to force Trump from office if he refuses to peacefully transfer power"
-    excerpt: "There are a \"number of plans\" to force Donald Trump out if he refuses to allow a peaceful transfer of power after losing the election, Sanders said."
-    publishedDateTime: 2020-09-27T10:55:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5f7064e374fe5b0018a8daab?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "dWJ004fxVQEA/20j2iVNX7/SobjAwkxeLLc/M1/h/u9rfQufCmcxsMnwwWsGX1lySemsC4fKtLvjm+pZ9I1OPZzO0qh/Ji4c7RjN9X9eEpZFQ8VwFuDIy0FeHEOpoa/ozu6OofH2qA8nwv/o6cG1DGnbc2xPz1O4btGOgdkyLBJ/XLhdqnxPf3SqDMH8K4DkKkdNY5UL9FLC6yehFNJq5wOPMyegvSus6uhs62YVsI27A0HqRj7i9iFb3caEi4lcRoB0X8Tga1vCcMyNmRJOjneWNqhBOzdqOBztB42gJhgjcBpmSFjeyx/LP/ntJUashdrwvOA/+XnmW04ZUD7tS29Zqi2usI94crVkQRXdzuk=;rrVj2SOPXRs9hliTXU1pUg=="

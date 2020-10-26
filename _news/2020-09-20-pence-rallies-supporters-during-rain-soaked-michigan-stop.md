@@ -43,22 +43,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "President Donald Trump says Big Ten football might happen without Michigan, Michigan State"
-    excerpt: "President Donald Trump believes Big Ten is getting closer to a return to football, but says Michigan and Michigan State might not be part of it."
-    publishedDateTime: 2020-09-13T15:31:00Z
-    webUrl: "https://www.usatoday.com/story/sports/college/2020/09/06/big-ten-football-donald-trump-tweet-michigan-football-michigan-state/5735041002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5735041002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5735041002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Election 2020: About 400 Michigan Overseas Ballots Erroneously Omit Mike Pence's Name"
     excerpt: "It wasn't clear how many of those ballots were sent to voters. The voters who received faulty ballots can expect to get another mail with the correct one."
     publishedDateTime: 2020-09-16T12:07:00Z

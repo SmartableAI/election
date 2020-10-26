@@ -227,17 +227,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "The Latest: Aide: Trump Tests Negative for Virus Pre-Debate"
-    excerpt: "The White House chief of staff says President Donald Trump tested negative for the coronavirus before Thursday night’s final presidential debate."
-    publishedDateTime: 2020-10-22T22:29:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "f57eDw179FOZ2El4Uw2cF6IqQJvMuU63PFMJzRUcmRhYiXdFNIQ6Zagzyuu8Nx0dCgZDpMmGgYTUkZGoZFDn52zGpZqFvWqdcC0pDM+5WtnnI3u0Muu+h2WsT/+c/OQMLVXPZ8X+joWrQv6mRAi/iM9qRrkujYJnWBaSsKdtKdHoxdegyQzk+N4VZcfnfS8PgIOwytufnJUVjeWrLHpjbjlbBE4ToVFQOcN2l7/WWQQK4CmQl+ROoQH+UX0KFf5KU+MWq9oPQchKIPYdQ2HpK528Ps7A83hr//2phBBmgxfrjex+cV3nKUJegS4tRVrZ5WqrKZiV5c0IE6AOhp8L1PwdG7Sj8z1dnzL9pqtlFYypg0+WukrvYP0Ky9qOk3jiUdmICNO3Bbz/keiys4pybRcs96G1VzpwRWxFxz9h39pyU+EsnJDLQ+uKk3VX3x7UrPUMzZgrYVunXsmF+PfCjs0UHAwg9h/1aum8vKUW7ZuCpkMTMkclepERN09woh/M59pYBOiIsEcajclRCRkLZQ==;VdgBojoTuo+ZVB9ZCLChEA=="
 ---

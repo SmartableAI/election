@@ -223,6 +223,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trailer park residents say landlord threatened to double rent if Biden wins"
+    excerpt: "A Colorado trailer park's owner is accused of threatening tenants with sharp rent increases and other costs if President Trump does not win reelection."
+    publishedDateTime: 2020-10-22T17:04:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10152020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Republican senator faces backlash after mocking colleague Kamala Harris’ name"
     excerpt: "Sen. David Perdue purposefully butchered his colleague Sen. Kamala Harris' name at a Trump rally, drawing criticism. They've served together since 2017."
     publishedDateTime: 2020-10-17T02:33:00Z
@@ -252,22 +268,6 @@ related:
     quality: 119
     images:
       - url: "https://thehill.com/sites/default/files/bidenyardsign_092220getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden denies unethical behavior involving his son Hunter during questioning at debate"
-    excerpt: "Democratic presidential nominee Joe Biden on Thursday denied any unethical behavior related to his son Hunter Biden under questioning at the second presidential debate with President Trump."
-    publishedDateTime: 2020-10-23T02:59:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 118
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_102202020_0.jpg"
         width: 980
         height: 551
         isCached: true
@@ -392,6 +392,62 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201023&i=OVD17UBJ3&r=OVD17UBJ3&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "19-year-old man suspected of plotting to kill Biden"
+    excerpt: "Prosecutors say Alexander Treisman, who was arrested for possessing child pornography, posted evidence of wanting to kill Democratic presidential candidate Joe Biden. Jeff Pegues has the latest details."
+    publishedDateTime: 2020-10-23T23:02:00Z
+    webUrl: "https://www.cbsnews.com/video/19-year-old-man-suspected-of-plotting-to-kill-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/23/88f90fd5-e8f8-4ec8-9f20-6bfd902e5298/thumbnail/1200x630/8eed3a1d31ca5cceb637f3920bcc8490/cbsn-fusion-19-year-old-man-suspected-of-plotting-to-kill-biden-thumbnail-573331-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Man Arrested In N.C. Had Plan To Kill Joe Biden, Feds Say"
+    excerpt: "Alexander Hillel Treisman, 19, was indicted on child pornography charges. Federal agents presented evidence suggesting he was obsessed with mass shootings – and drove within 4 miles of Biden's home."
+    publishedDateTime: 2020-10-23T20:03:00Z
+    webUrl: "https://www.npr.org/2020/10/23/927181809/man-arrested-in-n-c-had-plan-to-kill-joe-biden-feds-say"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/23/ap_20282488538797_wide-dbc4104ac85aea3cee58df3cf4fad51eb21d9270.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Breaking Down Joe Biden's Plan To Make The U.S. Carbon Neutral"
+    excerpt: "Joe Biden wants to make America carbon neutral by 2050 and says there will still be room for some fossil fuels. We look at how realistic this is and what activists make of it."
+    publishedDateTime: 2020-10-25T11:51:00Z
+    webUrl: "https://www.npr.org/2020/10/25/927564427/breaking-down-joe-bidens-plan-to-make-the-u-s-carbon-neutral"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Joe Biden on expanding the Supreme Court"
+    excerpt: "Under pressure from his party to consider increasing the number of justices, Biden says that if elected, he’d form a commission to study and advise on potential judicial reform"
+    publishedDateTime: 2020-10-25T23:46:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-on-expanding-the-supreme-court/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/25/2524ac00-dc39-41b5-a416-1bff2fc7803e/thumbnail/1200x630/c14eb01a97fc7707f5ef961e54f49405/bidenot3supremecourt0-574202-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Watch Kamala Harris corner Amy Coney Barrett into sharing her view on climate change"
     excerpt: "Supreme Court nominee Amy Coney Barrett has repeatedly dodged questions from Democrats and refrained from revealing her opinion on hot-button issues such as abortion in this week's hearing."
@@ -628,6 +684,38 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/30/soundbitedemocratic-presidential-challenger-joe-biden-calls-republican-incumbent.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Joe Biden's big lead on health care issues"
+    excerpt: "Health care has fragmented into multiple issues in this campaign cycle, and Joe Biden leads President Trump on almost all of them, according to our KFF polling. The big picture: Biden’s commanding leads on protecting people with pre-existing conditions and managing the coronavirus outbreak suggest that Trump’s record and rhetoric on those issues,"
+    publishedDateTime: 2020-10-21T09:48:00Z
+    webUrl: "https://www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
+    ampWebUrl: "https://www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 75
+    images:
+      - url: "https://images.axios.com/iiMe_pWvOG9thYzTHy1HDzV_dOo=/fit-in/1366x1366/2020/10/20/1603237182398.png"
+        width: 1366
+        height: 898
+        isCached: true
+  - title: "One-on-one with Joe Biden"
+    excerpt: "Democratic presidential nominee Joe Biden talks exclusively with WISN 12 News' Adrienne Pedersen about his confidence in winning Wisconsin, the surge in coronavirus cases and about Hunter Biden."
+    publishedDateTime: 2020-10-21T01:59:00Z
+    webUrl: "https://www.wisn.com/article/one-on-one-with-joe-biden/34431537"
+    ampWebUrl: "https://www.wisn.com/amp/article/one-on-one-with-joe-biden/34431537"
+    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/one-on-one-with-joe-biden/34431537"
+    type: article
+    provider:
+      name: WISN 12 NEWS
+      domain: wisn.com
+    quality: 75
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/images/joe-biden-1603240622.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris to NC supporters: You will decide this race"
     excerpt: "Democratic vice-presidential candidate Kamala Harris heaped pressure on North Carolina voters Wednesday, telling supporters in Asheville they will decide the presidential race and the direction of the nation."
@@ -880,6 +968,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Joe Biden is selling seniors fear: Rudy Giuliani says the Democratic campaign is misrepresenting Donald Trump’s record"
+    excerpt: "As this presidential campaign enters its final act, Joe Biden is attempting to con American seniors into abandoning their greatest ally in the federal government, Donald J. Trump."
+    publishedDateTime: 2020-10-21T09:04:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 66
+    images:
+      - url: "https://www.nydailynews.com/resizer/cxsZviuXKgbKG4lQLR2McijWxtM=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MCDACMTOPNHVXKNFHZGTBPONQE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "What Happens To Kamala Harris' Senate Seat After The Election? There's A Process"
     excerpt: "Ever since Democratic presidential nominee Joe Biden named Sen. Kamala Harris (D-California) as his running mate, Harris has been taking on both her congressional responsibilities and campaigning duties."
     publishedDateTime: 2020-10-20T13:37:00Z
@@ -1065,7 +1169,7 @@ related:
   - title: "Kamala Harris coming to Texas on Friday, including a stop in Houston, sources say"
     excerpt: "Vice presidential candidate Kamala Harris is expected to be in Texas on Friday to campaign on the final day of early voting. Democratic sources say they expect Houston will be one of her stops"
     publishedDateTime: 2020-10-25T22:54:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/politics/texas/article/Kamala-Harris-coming-to-Houston-on-Friday-15673946.php"
+    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-coming-to-Houston-on-Friday-15673946.php"
     type: article
     provider:
       name: San Francisco Chronicle
@@ -1161,6 +1265,15 @@ related:
     excerpt: "Senator Kamala Harris (D-CA) campaigns at an early voting mobilization event in Atlanta. 2020 vice presidential candidate Senator Kamala Harris (D-CA) delivered remarks at an early voter mobilization event"
     publishedDateTime: 2020-10-23T12:49:00Z
     webUrl: "https://www.c-span.org/video/?477306-1/senator-kamala-harris-campaigns-atlanta"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Remarks on the Pandemic Response"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Wilmington, Delaware, on the coronavirus pandemic and his campaign’s plan to combat the virus. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
+    publishedDateTime: 2020-10-23T18:00:00Z
+    webUrl: "https://www.c-span.org/video/?477287-1/joe-biden-unveils-coronavirus-pandemic-recovery-plan"
     type: article
     provider:
       name: C-SPAN

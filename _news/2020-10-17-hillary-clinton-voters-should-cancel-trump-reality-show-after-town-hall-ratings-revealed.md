@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Hillary Clinton 'sick to my stomach' over possible second Trump term"
+    excerpt: "Former Secretary of State and Democratic presidential nominee Hillary Clinton said the thought of President Trump winning reelection makes her \"literally sick to my stomach\" on a podcast released Monday."
+    publishedDateTime: 2020-10-26T11:07:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IFfHOIbM_0/hillary-clinton-trump-re-election-sick-to-stomach"
+    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-trump-re-election-sick-to-stomach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-trump-re-election-sick-to-stomach.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Clinton-Foundation-Bill-Hillary-Getty-thumb.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump authorizes declassification of all Russia collusion, Hillary Clinton email probe documents"
     excerpt: "President Trump on Tuesday said he has “full authorized the total declassification” of “any & all” documents related to the Russia investigation and the FBI’s investigation into former Secretary of State Hillary Clinton’s use of a private email server."
     publishedDateTime: 2020-10-07T00:54:57Z

@@ -63,22 +63,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Obama endorses Espy in Mississippi; Trump backs Hyde-Smith"
-    excerpt: "Mike Espy has a great chance to win this election for the Senate and keep Mississippi moving forward,\" Obama said in a radio ad and the text of a fundraising appeal. Espy was U.S. agriculture secretary under President Bill Clinton,"
-    publishedDateTime: 2020-10-21T23:25:00Z
-    webUrl: "https://www.chron.com/news/article/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "WATCH: Trump Rallygoers Praise, Defend Trump for Not Condemning Bonkers QAnon Conspiracy Theory in Wild CNN Segment"
     excerpt: "CNN reporter Gary Tuchman interviews Trump rallygoers who unanimously praise and defend Trump for not condemning absurd QAnon conspiracy theory"
     publishedDateTime: 2020-10-17T01:54:00Z

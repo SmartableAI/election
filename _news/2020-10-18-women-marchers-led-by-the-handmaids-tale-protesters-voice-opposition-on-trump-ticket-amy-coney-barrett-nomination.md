@@ -43,6 +43,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump mulling Appeals Court judges Barbara Lagoa, Amy Coney Barrett for Supreme Court - source"
+    excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy opened up by the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
+    publishedDateTime: 2020-09-19T16:48:00Z
+    webUrl: "https://www.reuters.com/article/usa-courts-ginsburg-candidates/trump-mulling-appeals-court-judges-barbara-lagoa-amy-coney-barrett-for-supreme-court-source-idUSKCN26A0S8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 93
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20200919&t=2&i=1534134972&r=LYNXNPEG8I0NV&w=800"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Ted Cruz is 'honored' Trump is considering him for a Supreme Court seat, but he said he's not interested in leaving the Senate"
+    excerpt: "Trump announced 20 possible appointments that included three conservative senators: Cruz of Texas, Tom Cotton of Arizona, and Josh Hawley of Missouri."
+    publishedDateTime: 2020-09-13T20:13:00Z
+    webUrl: "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Trump boasts Amy Coney Barrett was ‘toying’ with ‘evil’ Democrats"
     excerpt: "President Donald Trump is bragging that his nominee for the U.S. Supreme Court, the supposedly non-partisan and non-political branch of government, was “toying” with the Democratic U.S. Senators on the Judiciary Committee this week."
     publishedDateTime: 2020-10-15T23:20:00Z

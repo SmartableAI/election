@@ -91,67 +91,51 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Longtime ally to Trump's postal chief was paid by RNC"
-    excerpt: "A former executive who worked in the private sector for Postmaster General Louis DeJoy is now on the payroll of President Donald Trump’s reelection effort"
-    publishedDateTime: 2020-09-22T05:54:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/longtime-ally-trumps-postal-chief-paid-rnc-73157800"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/longtime-ally-trumps-postal-chief-paid-rnc-73157800"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/longtime-ally-trumps-postal-chief-paid-rnc-73157800"
+  - title: "Judge dismisses Trump challenge to Nevada mail voting law"
+    excerpt: "A federal judge has dismissed a lawsuit from President Donald Trump’s reelection campaign challenging Nevada’s new vote-by-mail law, saying the campaign failed to show how it could be harmed by the la"
+    publishedDateTime: 2020-09-21T21:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1a2f8752c6f3433ea6cebe1bf54016cc_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "A MAGA Militia? How The President’s Campaign Is Recruiting An “Army For Trump”"
-    excerpt: "President Trump’s campaign website, Army For Trump, encourages his supporters to sign-up and help the President. But as concerns about post-election violence grow, does the provocatively named website have a more troubling purpose?"
-    publishedDateTime: 2020-09-21T19:41:00Z
-    webUrl: "https://www.forbes.com/sites/sethcohen/2020/09/21/a-maga-militia-how-the-presidents-campaign-is-recruiting-an-army-for-trump/"
-    ampWebUrl: "https://www.forbes.com/sites/sethcohen/2020/09/21/a-maga-militia-how-the-presidents-campaign-is-recruiting-an-army-for-trump/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethcohen/2020/09/21/a-maga-militia-how-the-presidents-campaign-is-recruiting-an-army-for-trump/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f68cd157484d4e42885c4de%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Manhattan prosecutor, in fight over Trump tax returns, says president could be investigated for fraud"
-    excerpt: "The Manhattan District Attorney's office said \"mountainous\" allegations of misconduct against Trump could justify a grand jury probe into tax fraud."
-    publishedDateTime: 2020-09-22T04:06:00Z
-    webUrl: "https://www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9?amp"
+  - title: "Students are in a lose-lose situation during the pandemic, and Trump is to blame"
+    excerpt: "Trump's leadership during the pandemic has left students stuck between a rock and a hard place. Joe Biden has the skills necessary to succeed."
+    publishedDateTime: 2020-09-20T14:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 110
+    quality: 120
     images:
-      - url: "https://i.insider.com/5f6971ca323fc4001e0d7a28?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f5fd19757b7da001ee1185e?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Airport: Trump rally would break 50-person limit; president says he's coming to Nevada"
-    excerpt: "President Donald Trump may have to find a new home for planned weekend campaign rallies in Reno and Las Vegas after local officials warned the events would violate Nevada’s ban on gatherings of more than 50 people during the coronavirus pandemic."
-    publishedDateTime: 2020-09-13T17:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/09/laxalt-planned-weekend-trump-rallies-canceled/5760246002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5760246002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5760246002"
+  - title: "If the Justice Department intervenes for Trump in defamation lawsuit, the case would ‘end’"
+    excerpt: "Constitutional law expert Leah Litman explains the latest twist in E. Jean Carroll’s lawsuit against the president."
+    publishedDateTime: 2020-09-18T11:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5779515002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5779515002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 107
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/13/PREN/2ce5b263-e2ba-492e-9a31-9c918f0c5e76-The_Reno_Tahoe_International_Airport_5.JPG?auto=webp&crop=1999,1125,x0,y137&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2019/07/09/USAT/90437511-bbb0-44bb-9c79-6c0b74341c23-01_AP_Trump_New_Accuser.JPG?auto=webp&crop=3599,2024,x0,y47&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -168,38 +152,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/09/GettyImages-1228515042.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Vice President Mike Pence launches 'Farmers and Ranchers for Trump' coalition in Des Moines"
-    excerpt: "Vice President Mike Pence visited Iowa Thursday to campaign for President Donald Trump with 82 days until the election. Pence, who last visited Iowa in June, arrived at the Des Moines International Airport shortly after noon before delivering remaerks at the Iowa State Fairgrounds to launch the \"Farmers and Ranchers for Trump\" coalition."
-    publishedDateTime: 2020-09-11T22:26:00Z
-    webUrl: "https://www.kvue.com/article/news/politics/vp-mike-pence-iowa-trip-trump-campaign-2020-election-coronavirus/524-fa477ece-cbfa-46a6-ab8c-7fd2838f97e9"
-    ampWebUrl: "https://www.kvue.com/amp/article/news/politics/vp-mike-pence-iowa-trip-trump-campaign-2020-election-coronavirus/524-fa477ece-cbfa-46a6-ab8c-7fd2838f97e9"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/politics/vp-mike-pence-iowa-trip-trump-campaign-2020-election-coronavirus/524-fa477ece-cbfa-46a6-ab8c-7fd2838f97e9"
-    type: article
-    provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 80
-    images:
-      - url: "https://media.kvue.com/assets/WOI/images/b0cb9f08-1569-4490-a336-6e2f8dd8c7ae/b0cb9f08-1569-4490-a336-6e2f8dd8c7ae_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "President Donald Trump, Vice President Mike Pence to visit Wisconsin as campaign season heats up"
-    excerpt: "The events come on the heels of several other visits in recent weeks, underscoring Wisconsin's role in the presidential election."
-    publishedDateTime: 2020-09-11T12:30:00Z
-    webUrl: "https://www.greenbaypressgazette.com/story/news/2020/09/10/wisconsin-elections-donald-trump-jr-visit-rothschild-tuesday/3462040001/"
-    ampWebUrl: "https://amp.greenbaypressgazette.com/amp/3462040001"
-    cdnAmpWebUrl: "https://amp-greenbaypressgazette-com.cdn.ampproject.org/c/s/amp.greenbaypressgazette.com/amp/3462040001"
-    type: article
-    provider:
-      name: Green Bay Press-Gazette
-      domain: greenbaypressgazette.com
-    quality: 77
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/24/PAPN/243c7fb0-b334-4a16-bc13-03f905f36139-APC_President_Trump_visit_OHS_3432_081720_wag.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Live updates: Vice President Mike Pence in Arizona"
     excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
@@ -249,6 +201,17 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Vice President Pence heads to Arizona on campaign swing"
+    excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
+    publishedDateTime: 2020-09-18T13:57:00Z
+    webUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html"
+    ampWebUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 55
   - title: "The Latest: Trump Statement Calls RBG a 'Titan of the Law'"
     excerpt: "President Donald Trump says in a statement that the late Supreme Court Justice Ruth Bader Ginsburg was a “titan of the law.”."
     publishedDateTime: 2020-09-19T03:56:00Z

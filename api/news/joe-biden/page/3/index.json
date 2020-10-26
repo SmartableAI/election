@@ -2,6 +2,172 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-05-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden.md",
+      "title": "Will new Florida voters tip the election in favor of Joe Biden?",
+      "excerpt": "Are we there yet? After the first debate, and the news about Donald Trump, many Americans are wondering when the election will end.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden",
+      "originalUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 520,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_030820getty_2.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp",
+      "publishedDateTime": "2020-10-04T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-senior-adviser-biden-to-be-tested-again-sunday.md",
+      "title": "Senior adviser: Biden to be tested again Sunday",
+      "excerpt": "Symone Sanders, a senior adviser to the Biden campaign, said Sunday the campaign is not concerned about continuing events following President Donald Trump's Covid-19 diagnosis, because it is adhering to health guidelines and testing the former vice president \"regularly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006",
+      "originalUrl": "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/74/6d/5471731740c89a4a860f39cfaf1c/apsanders.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006",
+      "publishedDateTime": "2020-10-04T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-jim-carrey-plays-joe-biden-in-snl-season-premiere.md",
+      "title": "Jim Carrey Plays Joe Biden in ‘S.N.L.’ Season Premiere",
+      "excerpt": "Chris Rock hosted the first live episode since “S.N.L.” was driven from its studio by the coronavirus, and the show didn’t hold back on jokes about President Trump’s diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/arts/04snl/04snl-facebookJumbo.jpg",
+          "width": 1000,
+          "height": 523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.amp.html",
+      "publishedDateTime": "2020-10-04T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-joe-bidens-other-questionable-chinese-concern-and-involvement-hollywood-part-two.md",
       "title": "Joe Biden’s OTHER Questionable Chinese Concern and Involvement - Hollywood (Part Two)",
       "excerpt": "This piece is part two in a series. You can read the first installment here.SELF-CENSORING THEIR OWN SELF-INTERESTSThe pandemic has created a constant stream of challenges for the studios",
@@ -116,49 +282,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-kyle-rittenhouse-to-sue-joe-biden-after-campaign-ad-links-teen-to-white-supremacy-charlotte-observer.md",
-      "title": "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy | Charlotte Observer",
-      "excerpt": "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/news/nation-world/national/article246142010.html",
-      "originalUrl": "https://www.charlotteobserver.com/news/nation-world/national/article246142010.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/news/nation-world/national/article246142010.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246142010.html",
-      "publishedDateTime": "2020-10-01T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-former-commander-of-us-forces-in-afghanistan-endorses-biden.md",
       "title": "Former commander of US forces in Afghanistan endorses Biden",
       "excerpt": "It's striking how many retired military leaders, many of whom have been apolitical for decades, have stepped up to denounce Trump, endorse Biden, or both.",
@@ -213,6 +336,49 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-kyle-rittenhouse-to-sue-joe-biden-after-campaign-ad-links-teen-to-white-supremacy.md",
+      "title": "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy",
+      "excerpt": "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/nation-world/national/article246142010.html",
+      "originalUrl": "https://www.miamiherald.com/news/nation-world/national/article246142010.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/nation-world/national/article246142010.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html",
+      "publishedDateTime": "2020-10-01T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -325,58 +491,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-01-joe-biden-tells-white-supremacist-groups-to-cease-and-desist-video.md",
-      "title": "Joe Biden tells white supremacist groups to 'cease and desist' – video",
-      "excerpt": "Joe Biden warned white supremacist groups including the Proud Boys, an extremist rightwing group, to 'cease and desist'",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/video/2020/sep/30/biden-trump-proud-boys-white-supremacists-cease-and-desist?ref=hvper.com",
-      "originalUrl": "https://www.theguardian.com/us-news/video/2020/sep/30/biden-trump-proud-boys-white-supremacists-cease-and-desist?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2c96dc4c3432c3b225914fc3d1566fe0e60f6cff/0_97_6214_3731/master/6214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf33728528f043a1130adf56f1ec6fd1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-biden-kicks-off-train-tour-through-ohio-pennsylvania-after-raucous-debate.md",
       "title": "Biden kicks off train tour through Ohio, Pennsylvania after raucous debate",
       "excerpt": "Joe Biden is embarking on a roughly 200-mile train tour on Wednesday through Ohio and Pennsylvania, appealing to voters who have strayed from Democrats in recent years.",
@@ -438,7 +552,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-joe-biden-delaware-state-un-idUSKBN26L2RD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -462,58 +576,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-joe-bidens-plans-to-hike-taxes-for-rich-americans-will-be-key-for-markets-if-he-wins-the-election-a-strategist-says.md",
-      "title": "Joe Biden's plans to hike taxes for rich Americans will be key for markets if he wins the election, a strategist says",
-      "excerpt": "Robertson said markets will factor in whether Biden's tax plans pressure domestic equities and credit markets at the expense of foreign markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9",
-      "originalUrl": "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f745c180ab50d00184ad34d?format=jpeg",
-          "width": 3500,
-          "height": 1750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp",
-      "publishedDateTime": "2020-09-30T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -703,7 +765,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26L0G1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -799,58 +861,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-30-beto-orourke-says-texas-is-joe-bidens-to-lose.md",
-      "title": "Beto O’Rourke says Texas is ‘Joe Biden’s to lose’",
-      "excerpt": "O'Rourke argued that public polling tends to underestimate Democratic performance in Texas, pointing to results from his 2018 Senate race, and Hillary Clinton in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/14/33/41/20035650/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php",
-      "publishedDateTime": "2020-09-29T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-30-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in-cross-country-trip.md",
       "title": "ABC's Martha Raddatz says she didn't see a lot of 'enthusiasm for Joe Biden' in cross-country trip",
       "excerpt": "ABC's chief global affairs correspondent Martha Raddatz reports “there wasn't a whole lot of enthusiasm for Joe Biden\" during her recent 6,000-mile road trip across America, and that the economy is voters’ main focus.",
@@ -911,7 +921,7 @@
       "originalUrl": "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1117,21 +1127,21 @@
       ]
     },
     {
-      "path": "_news/2020-09-28-joe-biden-makes-plea-to-gop-senators-to-take-a-step-back-from-the-brink-and-hold-off-on-amy-coney-barrett-vote.md",
-      "title": "Joe Biden makes plea to GOP Senators to 'take a step back from the brink' and hold off on Amy Coney Barrett vote",
-      "excerpt": "The Democratic presidential nominee urged the GOP to \"take off the blinders of politics for just one critical moment\" in pushing a Supreme Court vote.",
+      "path": "_news/2020-09-28-despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.md",
+      "title": "Despite what you heard, Joe Biden did not use a teleprompter on Telemundo",
+      "excerpt": "An image of a woman appears on the monitor's screen. “How can you guarantee this will not continue happening in our communities,” she asks. While answering the question, Joe Biden faces the monitor.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9",
-      "originalUrl": "https://www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9",
+      "webUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
+      "originalUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f70c83b74fe5b0018a8dae8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OOVYMYK4TVDOZDJRTX3FWSMZXQ.jpg",
+          "width": 4923,
+          "height": 3282,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1139,23 +1149,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9?amp",
-      "publishedDateTime": "2020-09-27T11:22:00-07:00",
+      "ampWebUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
+      "publishedDateTime": "2020-09-27T16:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1284,6 +1285,49 @@
       ]
     },
     {
+      "path": "_news/2020-09-27-joe-biden-amy-coney-barrett-is-a-threat-to-obamacare.md",
+      "title": "Joe Biden: Amy Coney Barrett is a threat to Obamacare",
+      "excerpt": "Joseph R. Biden warned Saturday Obamacare is doomed if Amy Coney Barrett wins confirmation to the Supreme Court.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "originalUrl": "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/09/26/election_2020_biden_13918_c0-164-5833-3566_s1200x700.jpg?9f7efeb7b81d45783e417f0bb02a19bf07526104",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "publishedDateTime": "2020-09-26T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-bloomberg-rolls-out-40m-ad-buy-to-boost-biden-in-florida.md",
       "title": "Bloomberg rolls out $40M ad buy to boost Biden in Florida",
       "excerpt": "Former New York City Mayor Michael Bloomberg on Friday rolled out a new $40 million ad buy in Florida as Democrats look to bolster Joe Biden’s chances of winning the Sunshine State.",
@@ -1292,7 +1336,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1316,58 +1360,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-leaked-internal-memos-reveal-the-democratic-plan-to-use-the-battle-over-rgbs-replacement-to-joe-bidens-advantage.md",
-      "title": "Leaked internal memos reveal the Democratic plan to use the battle over RGB's replacement to Joe Biden's advantage",
-      "excerpt": "Talking points urge congressional Democrats to highlight the stakes for healthcare as they fight the GOP over filling a SCOTUS seat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/democrats-healthcare-pelosi-schumer-scotus-ginsburg-rbg-obamacare-2020-9",
-      "originalUrl": "https://www.businessinsider.com/democrats-healthcare-pelosi-schumer-scotus-ginsburg-rbg-obamacare-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6d060f0f4d550011032355?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-25T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1488,6 +1480,58 @@
       ]
     },
     {
+      "path": "_news/2020-09-24-opinion-im-a-christian-veteran-texas-republican-and-i-support-joe-biden.md",
+      "title": "Opinion: I’m a Christian, veteran, Texas Republican and I support Joe Biden",
+      "excerpt": "I am casting my vote for Joe Biden because of, not in spite of, my beliefs and experiences as a veteran, a Christian, a conservative and a native rural Texan. In many ways, the president sits atop what sociologist Robert Bellah called our American “civil religion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "originalUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/24/20/20005899/4/rawImage.jpg",
+          "width": 2048,
+          "height": 1501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "publishedDateTime": "2020-09-24T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-biden-urges-protests-be-peaceful-after-prosecutors-clear-police-of-criminal-charges-in-breonna-taylor-death.md",
       "title": "Biden urges protests be peaceful after prosecutors clear police of criminal charges in Breonna Taylor death",
       "excerpt": "U.S. Democratic presidential candidate Joe Biden urged that protests be peaceful after prosecutors on Wednesday cleared police officers of criminal charges in the death of Breonna Taylor, a Black medical worker killed in March in her Louisville,",
@@ -1496,7 +1540,7 @@
       "originalUrl": "https://www.reuters.com/article/us-global-race-usa-louisville-biden-idUSKCN26E3LK",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1537,63 +1581,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-wsj-opinion-borks-warning-over-judicial-activism-still-haunts-joe-biden.md",
-      "title": "WSJ Opinion: Bork's Warning Over Judicial Activism Still Haunts Joe Biden",
-      "excerpt": "Today we call Supreme Court nominee Robert Bork back from 1987 as witness to what has happened to American politics, and why we’re going to war ove",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF",
-      "originalUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20200923/092320opvidwonderland/092320opvidwonderland_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,533 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-09-25-trump-foments-mistrust-of-election-he-claims-wont-be-honest.md",
+      "title": "Trump foments mistrust of election he claims won't be honest",
+      "excerpt": "President Donald Trump and top aides are responding to the uproar over his failure to guarantee a peaceful transfer of power by intensifying their efforts to create election chaos he can use to cling onto power should he lose in November.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UWYsLzAX4eM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UWYsLzAX4eM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 3270,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200924212439-23-week-in-photos-0924-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html",
+      "publishedDateTime": "2020-09-25T01:57:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-pence-ivanka-visit-salon-damaged-by-minneapolis-unrest.md",
+      "title": "Pence, Ivanka visit salon damaged by Minneapolis unrest",
+      "excerpt": "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd's death, part of a campaign visit aimed at driving home President Donald Trump's law-and-order message in a key swing state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9",
+      "originalUrl": "https://www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9?amp",
+      "publishedDateTime": "2020-09-24T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-touts-return-of-pac-12s-college-football-season-youre-welcome.md",
+      "title": "Trump touts return of Pac-12's college football season: 'You're welcome!!!'",
+      "excerpt": "Trump called out Pac-12 officials at a White House press briefing last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/50m0FrRHHys/trump-pac-12-college-football-season",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/50m0FrRHHys/trump-pac-12-college-football-season",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab215347-e557-4d3f-9fc7-e778370fc4e0/f369f538-086f-4f4d-b2bf-476624d1cbab/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pac-12-college-football-season.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pac-12-college-football-season.amp",
+      "publishedDateTime": "2020-09-24T18:47:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-new-flynn-court-docs-show-fbi-employees-discussing-probe-of-trump-aide-a-nightmare.md",
+      "title": "New Flynn court docs show FBI employees discussing probe of Trump aide: 'A nightmare'",
+      "excerpt": "In an Aug. 2016 exchange obtained by the Justice Department, an FBI analyst said that some agents “want a Clinton presidency.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9104d171-3d0a-4adc-aaa2-28dcf12f0fd8/20d61489-587a-47cc-880a-3116f235afb3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp",
+      "publishedDateTime": "2020-09-24T17:21:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-mcconnell-tells-fox-news-night-there-will-be-orderly-transfer-of-power-if-trump-loses-election.md",
+      "title": "McConnell tells 'Fox News @ Night' there will be 'orderly transfer of power' if Trump loses election",
+      "excerpt": "If President Trump loses the November election to Joe Biden, there will be \"an orderly transfer of power\" in January, just as there has been \"every four years since Washington was elected for a second term in 1792,\" Senate Majority Leader Mitch McConnell, R-Ky., told \"Fox News @ Night\" in an exclusive",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0f8720c-7bc5-4334-b77b-8c7031364901/7a7bdb0d-42b9-46f7-a2b1-e782e65a8d10/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp",
+      "publishedDateTime": "2020-09-24T15:44:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule.md",
+      "title": "Jeff Daniels On Donald Trump And Becoming James Comey In ‘The Comey Rule’",
+      "excerpt": "We hoped that it would be okay. He’ll have ten guys around him who won’t let him do anything crazy. That’s where the country was in 2016. Well, those ten guys are gone. And now look where we are.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/",
+      "originalUrl": "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cbe4b325b91c6fcc8a873%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/",
+      "publishedDateTime": "2020-09-24T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-this-time-is-different-biden-attracts-slew-of-endorsements-from-retired-military-gop-officials.md",
+      "title": "\"This time is different\": Biden attracts slew of endorsements from retired military, GOP officials",
+      "excerpt": "\"I haven't seen this volume of people willing to publicly say, 'I can't support my party,'\" former New Jersey Governor Christine Todd Whitman.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/2020-endorsements-biden-retired-military-republicans/",
+      "originalUrl": "https://www.cbsnews.com/news/2020-endorsements-biden-retired-military-republicans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/24/db5c10b4-b0de-4607-bb97-1fdd7b25da36/thumbnail/1200x630/940b788cd34f714523860e592b1f4a00/gettyimages-1228642604.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/2020-endorsements-biden-retired-military-republicans/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-endorsements-biden-retired-military-republicans/",
+      "publishedDateTime": "2020-09-24T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-mike-pence-returns-to-wisconsin-for-campaign-bus-tour-and-event-at-eau-claire-manufacturing-plant.md",
+      "title": "Mike Pence returns to Wisconsin for campaign bus tour and event at Eau Claire manufacturing plant",
+      "excerpt": "Vice President Mike Pence stopped in western Wisconsin on Thursday to rally support for the Trump administration's efforts to revive the nation's economy clobbered by the coronavirus pandemic and to fight for voters in a politically unpredictable area of the state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/24/mike-pence-returns-wisconsin-campaign-bus-tour-eau-claire-event/3515310001/",
+      "originalUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/24/mike-pence-returns-wisconsin-campaign-bus-tour-eau-claire-event/3515310001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/24/PMJS/07411742-e187-478e-86c1-f264abf0bc4d-MJS-pence25_web.jpg?auto=webp&crop=3599,2024,x1,y314&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.jsonline.com/amp/3515310001",
+      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3515310001",
+      "publishedDateTime": "2020-09-24T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-sanders-charges-trump-is-aiming-to-de-legitimize-election-through-massive-voter-suppression.md",
+      "title": "Sanders charges Trump is aiming to ‘de-legitimize’ election through ‘massive voter suppression’",
+      "excerpt": "Sen. Bernie Sanders is warning that President Trump is going “down the path of authoritarianism” by refusing “to commit to a peaceful transition of power if he loses the election.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a267b29-9fd2-4f37-9c11-9f2f17de8532/7451902e-cb28-4a65-9801-5058469cf5d9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp",
+      "publishedDateTime": "2020-09-24T12:19:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-says-da-is-using-speculation-and-innuendo-to-get-his-tax-returns.md",
+      "title": "Trump Says D.A. Is Using ‘Speculation and Innuendo’ to Get His Tax Returns",
+      "excerpt": "Prosecutors have suggested in court papers that an investigation into the president could focus on a range of possible crimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/nyregion/24nytrumptaxes/24nytrumptaxes-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.amp.html",
+      "publishedDateTime": "2020-09-24T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-mary-trump-alleges-in-lawsuit-her-family-fleeced-her-out-of-millions-of-dollars.md",
       "title": "Mary Trump alleges in lawsuit her family 'fleeced' her out of millions of dollars",
       "excerpt": "President Donald Trump and his siblings \"fleeced\" their niece out of tens of millions of dollars, Mary L. Trump alleges in a lawsuit filed on Thursday. The president's niece is suing her uncle, his sister,",
@@ -10,7 +537,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -107,6 +634,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-and-melania-booed-greeted-with-vote-him-out-and-honor-her-wish-chants-as-they-visit-ruth-bader-ginsburgs-casket-at-the-supreme-court.md",
+      "title": "Trump and Melania booed, greeted with 'vote him out' and 'honor her wish' chants as they visit Ruth Bader Ginsburg's casket at the Supreme Court",
+      "excerpt": "The Trumps rarely venture out of the White House while in Washington and thus rarely face public criticism in the way they did on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-boos-vote-him-out-chants-visits-rbg-casket-video-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-boos-vote-him-out-chants-visits-rbg-casket-video-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6caa80c4049200115cb5a1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-boos-vote-him-out-chants-visits-rbg-casket-video-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-boos-vote-him-out-chants-visits-rbg-casket-video-2020-9?amp",
+      "publishedDateTime": "2020-09-24T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -276,58 +855,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-donald-trump-vs-meghan-markle-4-times-the-president-has-slammed-the-duchess.md",
-      "title": "Donald Trump Vs. Meghan Markle: 4 Times The President Has Slammed The Duchess",
-      "excerpt": "Donald Trump’s recent comments about Meghan Markle are only the latest ones he has made which appear to levy criticism at the Duchess of Sussex.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236",
-      "originalUrl": "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/24/donald-trump-vs-meghan-markle.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1",
-      "publishedDateTime": "2020-09-24T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -553,21 +1080,21 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-vice-president-mike-pence-defends-trump-holding-rallies-amid-coronavirus.md",
-      "title": "Vice President Mike Pence defends Trump holding rallies amid coronavirus",
-      "excerpt": "Vice President Mike Pence defended Donald Trump's decision to hold rallies at which COVID-19 guidelines were ignored.",
+      "path": "_news/2020-09-24-opinion-im-a-christian-veteran-texas-republican-and-i-support-joe-biden.md",
+      "title": "Opinion: I’m a Christian, veteran, Texas Republican and I support Joe Biden",
+      "excerpt": "I am casting my vote for Joe Biden because of, not in spite of, my beliefs and experiences as a veteran, a Christian, a conservative and a native rural Texan. In many ways, the president sits atop what sociologist Robert Bellah called our American “civil religion,",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
-      "originalUrl": "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
+      "webUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "originalUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3769,
+      "heat": 143,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/mike-pence-linsey-davis-interview-03-abc-jc-200923_1600889779907_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://s.hdnux.com/photos/01/14/24/20/20005899/4/rawImage.jpg",
+          "width": 2048,
+          "height": 1501,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -575,16 +1102,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
-      "publishedDateTime": "2020-09-24T01:31:00-07:00",
+      "ampWebUrl": "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "publishedDateTime": "2020-09-24T01:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -601,8 +1128,7 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence",
-        "Donald Trump"
+        "Joe Biden"
       ]
     },
     {
@@ -666,7 +1192,7 @@
       "originalUrl": "https://www.reuters.com/article/us-global-race-usa-louisville-biden-idUSKCN26E3LK",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -821,538 +1347,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-donald-trump-calls-national-guard-deployment-during-kentucky-protests-a-positive-thing.md",
-      "title": "Donald Trump Calls National Guard Deployment During Kentucky Protests a 'Positive Thing'",
-      "excerpt": "\"That's a very positive thing,\" President Donald Trump said of Kentucky Governor Andy Beshear's decision to bring on National Guard units during protests in Louisville, Kentucky.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
-      "originalUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1641363/donald-trump.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1",
-      "publishedDateTime": "2020-09-23T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-bob-woodwards-donald-trump-book-rage-sells-600000-copies-in-first-week.md",
-      "title": "Bob Woodward's Donald Trump book 'Rage' sells 600,000 copies in first week",
-      "excerpt": "Bob Woodward's \"Rage\" sold more than 600,000 copies in its first week of publication, continuing a yearlong wave of blockbuster books about the president. The first week sales include hardcovers, audiobooks and e-books.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/books/2020/09/23/bob-woodward-donald-trump-book-rage-first-week-sales/3510428001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/books/2020/09/23/bob-woodward-donald-trump-book-rage-first-week-sales/3510428001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/10/USAT/7e9f60a6-b218-4d48-a3e9-5488e4e51393-Rage.jpg?auto=webp&crop=595,335,x1,y516&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3510428001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3510428001",
-      "publishedDateTime": "2020-09-23T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-exits-news-briefing-for-emergency-phone-call-after-being-pressed-on-breonna-taylor-case.md",
-      "title": "Trump exits news briefing for 'emergency phone call' after being pressed on Breonna Taylor case",
-      "excerpt": "President Trump exited his news conference Wednesday, telling reporters he had an “emergency” phone call as they continued to heckle him with questions, particularly on the Breonna Taylor case. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIw-bUyA_jY/trump-emergency-call-breonna-taylor-case",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIw-bUyA_jY/trump-emergency-call-breonna-taylor-case",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20258862118481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-emergency-call-breonna-taylor-case.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-emergency-call-breonna-taylor-case.amp",
-      "publishedDateTime": "2020-09-23T15:50:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-fact-check-in-2016-trump-didnt-tweet-about-replacing-scalia-on-supreme-court.md",
-      "title": "Fact check: In 2016, Trump didn't tweet about replacing Scalia on Supreme Court",
-      "excerpt": "A tweet that purports to be from Donald Trump in 2016 that said \"Obama should wait until he leaves office to pick another Justice\" is fake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/23/fact-check-trump-didnt-tweet-replacing-scalia-supreme-court/3492943001/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/23/fact-check-trump-didnt-tweet-replacing-scalia-supreme-court/3492943001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/08/USAT/e1f3a2f9-834b-472b-996a-026721e73ac6-AP_Trump_6.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3492943001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3492943001",
-      "publishedDateTime": "2020-09-23T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-nominates-former-nunes-aide-as-intelligence-community-inspector-general.md",
-      "title": "Trump nominates former Nunes aide as intelligence community inspector general",
-      "excerpt": "President Donald Trump intends to nominate Allen Souza as the next inspector general for the intel community after firing the previous inspector general, Michael Atkinson, in April.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LuBMuI-wNg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LuBMuI-wNg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180202084927-donald-trump-returns-to-white-house-02-01-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/allen-souza-inspector-general-intelligence-community/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/allen-souza-inspector-general-intelligence-community/index.html",
-      "publishedDateTime": "2020-09-23T14:50:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-gop-report-no-wrongdoing-in-biden-son-ties-to-ukraine-firm-but-still-problematic.md",
-      "title": "GOP report: No wrongdoing in Biden son ties to Ukraine firm, but still 'problematic'",
-      "excerpt": "A Senate GOP report issued Wednesday on Joe Biden's son's Hunter and his ties to a Ukrainian energy firm found only that his role was \"problematic\" for U.S. policymakers.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146",
-      "originalUrl": "https://abcnews.go.com/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/johnson-burisma-hunter-biden-01-rt-llr-200923_1600877903370_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146",
-      "publishedDateTime": "2020-09-23T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election.md",
-      "title": "Court orders Eric Trump to testify before New York attorney general ahead of election",
-      "excerpt": "The New York attorney general is investigating whether President Trump and the Trump Organization committed fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
-      "originalUrl": "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 493,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2017/01/20/27e8b99b-46aa-47de-8661-1bbc3f933766/thumbnail/1200x630/63562a2c456817dadce249140e6b51b8/king-eric-trump-sot-frame-1551.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
-      "publishedDateTime": "2020-09-23T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-donald-trump-and-richard-nixon-exchanged-letters-in-the-80s-read-some-of-them-here.md",
-      "title": "Donald Trump and Richard Nixon exchanged letters in the 80s. Read some of them here.",
-      "excerpt": "I think that you are one of this country’s great men, and it was an honor to spend an evening with you,” Trump writes to Nixon in June 1982, less than eight years after Nix",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/dRmA3Z-OerO_mNQ_2cuYGF954mY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IL2Q6GTPVLYRN273X7QD4NNRKA.aspx",
-          "width": 1200,
-          "height": 927,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-23T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-milwaukee-suburbs-could-be-key-for-trump-re-election.md",
-      "title": "Milwaukee suburbs could be key for Trump re-election",
-      "excerpt": "As more of American suburbia reportedly tilts toward Democratic presidential nominee Joe Biden ahead of the November election, the suburbs on the outskirts of Milwaukee remain a bulwark of support for President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FR7kKS4SAyY/milwaukee-suburbs-could-be-key-for-trump-re-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FR7kKS4SAyY/milwaukee-suburbs-could-be-key-for-trump-re-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 550,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/b468a97b-AP20247796882570-e1599575764803.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp",
-      "publishedDateTime": "2020-09-23T10:42:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-has-shady-political-motives-in-blaming-china-for-pandemic-beijing-official-says.md",
-      "title": "Trump has 'shady political motives' in blaming China for pandemic, Beijing official says",
-      "excerpt": "The attacks from China's foreign ministry come a day after Trump accused Beijing of allowing the virus to escape its borders and “infect the world.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
-      "originalUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/ada6adda-5826-4b6f-a434-e2abeef42892-AFP_AFP_1VP17Q.jpg?auto=webp&crop=4170,2346,x0,y211&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3502844001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502844001",
-      "publishedDateTime": "2020-09-23T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

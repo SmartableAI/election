@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden campaign faces backlash for TV ad depicting Michigan tech CEO as struggling bar owner"
-    excerpt: "The Biden team is under fire for releasing a TV campaign ad last week depicting a Michigan bar owner struggling to keep his business afloat during the pandemic."
-    publishedDateTime: 2020-10-20T15:27:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nLpF-VPDeIQ/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/blind-pig.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "zHYEPFA2zFApWNiaU5XUU5x8oCOiAoiUXr28U7mxpL6woLBd/ShjoLem/DwOjSl5weq7n/Y+Q2GQbHId/KgC0RKtvT2V5uIqg6YQZzC4dPTqgi+rHKIOZlc9piDS4BbFtwuiencv1r4JEnAfzJmHWaCVxrNl02ZyvbBdddw2CkGMOoJMuRFvngQuF8lWG0RDb2G+xXh0EeBQO889m7U0eqhaooz6xVhLK5vw+bgG8/ip6aEm0UqCQTDxoEojjieopm6cch6C6AKSnRnwQgIzBqmYhkgoWh8zHrNqgOOQ5HpLcgwLRPfPpq4hibdjaB11Co7P5k0h7nXtaxVoQIRKzyBzdz3LPU02dILxr1+zMzs=;p5iQfmRRVGG5+pV+QS8HUA=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Hunter's Emails Confirm Claims of Biden Corruption"
-excerpt: "Thanks to three brave Americans, we now know that Joe Biden has long misled the public about his involvement with his family’s foreign business entanglements while he served as vice president."
+excerpt: "Leslie Stahl saying that the NY Post Hunter Biden media blackout is because the story is “unverified” just takes the cake. Like that has stopped the press from running with stories every day the last four years sourced only to anonymous officials familiar with this or that,"
 publishedDateTime: 2020-10-25T18:18:00Z
-originalUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html"
-webUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html"
+originalUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html#!"
+webUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html#!"
 type: article
 quality: 65
 heat: -1
@@ -249,6 +249,6 @@ related:
         height: 720
         isCached: true
 
-secured: "qWEfZ+7noHTtHrKSkfAipdNEIiDWR8soZHyaQBkDOuxDm7HqDkd9sZswmNZktRJGPfDgv6Uz5FYDKxtoOHGWFFPQOeKW7ljKY9o0aNGmbNLv0mGFB4IgE64EG1vzTN2mXr93ZpDUYgXIAQINUi3AjkX+1WCHYrwTH/VqnNT7VtMkdf0G7kySZVvja4s+Yi5L1WxB53lGsT5Cn69Z0ggo2dClIrxd6cunHFJnrJxnor4GarXO6irdiCIEdGeaguef9hJtdIJvIyuR5s6Acxxf9BK1tjDdwMua0vSi5KhWdW4pdf/CoFzmxQ0ypYXCJ7JJmh9M3bP0byULyToG5i0yxAgvLzukMGxfUyx+felrLz0=;tqk01OfJnLpMESSrZ7fm/g=="
+secured: "W/Pmcdnl/elv77OR44nR4MUITeQsod+VV9kTwrCaT2A2W9f36ZRGgGt0Ax9OqVAYlmEKD4dp2hHbeyd+M+XGUlCL2nt4ozGhBFYDfKjqsw9fi/Cas3Bo+67cUIKN/br+WXyACK8TbcEpcalHX3E7DYvfCyk/CZj/GFFoOyVGjzwtlmfI6xo2Nd5LZI2TLoVnDZoXdc8CaIPSQE/IxV6KFZcHz4C4hqjXhq29taJlY3rAOMMPynN+Q/Aan7MitCSQ47A48CZaQx9qUtB7NP7pIkZGZRiIWEmqbgrrxB80x2dyiHqq8cNJZy0oVTUt8BvU4iJSkrHzL22leFj+L6kVDH3xS5/P9M/i3+/OgLdnyOk=;E0G1pmuwx190/mcBX2WXfQ=="
 ---
 

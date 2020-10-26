@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Why Trump doesn’t want to talk about abortion rights"
+    excerpt: "President Donald Trump doesn’t want to talk about abortion. After years of saying he would appoint “pro-life” judges and bragging that the landmark Roe v. Wade decision would be overturned “automatically” if he won,"
+    publishedDateTime: 2020-10-02T05:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/why-trump-doesnt-want-to-talk-about-abortion-rights/2020/10/02/79580e82-046b-11eb-b92e-029676f9ebec_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/why-trump-doesnt-want-to-talk-about-abortion-rights/2020/10/02/79580e82-046b-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/why-trump-doesnt-want-to-talk-about-abortion-rights/2020/10/02/79580e82-046b-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump's top federal prosecutors are overwhelmingly white men"
     excerpt: "The nation’s top federal prosecutors have become less diverse under President Donald Trump than under his three predecessors"
     publishedDateTime: 2020-10-06T11:36:00Z
@@ -111,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "World leaders react after President Trump, first lady test positive for coronavirus"
+    excerpt: "World leaders expressed their hope for a swift recovery for President Donald Trump after he announced that he and the first lady tested positive for COVID-19 overnight."
+    publishedDateTime: 2020-10-03T20:23:00Z
+    webUrl: "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    ampWebUrl: "https://abcnews.go.com/amp/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/International/Boris_Johnson_201_hpMain_20201002-062128_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump's failure to condemn white supremacy at debate part of a well-established pattern"
     excerpt: "President Trump's failure to condemn white supremacists at Tuesday's debate is part of a well-established pattern in which he shows a reluctance to disavow racist groups."
     publishedDateTime: 2020-09-30T15:42:00Z
@@ -157,6 +189,33 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Trump could face a relapse, experts warn, as president opts to downplay nation's coronavirus threat despite massive death toll"
+    excerpt: "President Donald Trump rolled out of Walter Reed hospital confidently urging the nation not to fear the coronavirus despite experts warning the U.S. death toll, at more than 210,000, could almost double by year's end."
+    publishedDateTime: 2020-10-06T19:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/fauci-warns-trump-relapse-president-downplays-coronavirus-death-toll/3634631001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3634631001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634631001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/9b1ca01d-1e46-4a77-b125-e2569de56541-GettyImages-1228897458.jpg?auto=webp&crop=4637,2608,x0,y366&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Ready for 1st Rally Since Contracting Coronavirus"
+    excerpt: "President Donald Trump is returning to the campaign trail as he tries to stage a late comeback just a week after his release from the hospital over a serious case of COVID-19."
+    publishedDateTime: 2020-10-12T21:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "qWjstRGcXItJ6V58/QEBHP0xgqFakqK+iDiCJcR3ZlNqAWjROVQl9qtUhcfnDEwoxODJUEdEFBTroJtugk3ZZ2P96+Bs2jW4NeVlGIDaQG4TC62iwh14KlSoNpq6KRXmHrfs5R3xevGLP2VQqiMkG67pvOE5n1mbXC/ech0z2ZUhL+tZ+XYnRP0Zq0Da2Qd91WxT0n2Hoe3WSlhFyXmwgw2QcDwiD+SJK69eLZzaVqsXWcsHl7A3JhTIxFLaHsn9FeU/xV03k/n03wjlYVdmsEjA4gqp3UpVeE6Vprz3g6Qg3LDBoqUfHMt37/FY0Ejrs6CFUsXUiuBq3i70V4R6V1fWxvM8l15sQ7ChPSb2NEM=;ZeUS3/fqrNDt1sQ/8gXbUg=="
 ---

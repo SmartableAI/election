@@ -59,6 +59,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "How Joe Biden can win Tuesday’s debate"
+    excerpt: "What Joe Biden needs from Tuesday’s opening debate with President Trump is, at one level, quite simple: Voters must see Biden as good enough. The Democratic nominee has enjoyed a steady lead in the polls."
+    publishedDateTime: 2020-09-28T12:06:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YS5THVX52YI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Ex-Pennsylvania Gov. Ridge explains vote for Biden in Philadelphia paper"
     excerpt: "Tom Ridge, the former Republican governor of Pennsylvania and the first U.S. secretary of Homeland Security, has announced he will be backing former Vice President Joe Biden Joe Biden Biden says voters should choose who nominates Supreme Court justice Trump,"
     publishedDateTime: 2020-09-27T15:26:00Z
@@ -230,20 +246,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODUGFEJGCBFJRFZ6HSCOUQXKQA.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Vice-President Joe Biden visits Chester Fire Station in Pennsylvania"
-    excerpt: "Vice-President Joe Biden holds a small child (right) as he and Sen. Arlen Specter (D-Pa.) greet fire fighters and their families during a campaign visit to the Chester Fire Station, in downtown Chester,"
-    publishedDateTime: 2020-09-22T11:33:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/59841906e99eae0f189afd8e5c8f21d9/Vice-President-Joe-Biden-visits-Chester-Fire-Station-in-Pennsylvania/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/59841906e99eae0f189afd8e5c8f21d9/Biden-Chester-Fire-Station.jpg"
-        width: 650
-        height: 422
         isCached: true
   - title: "Joe Biden Tours Ohio and Pennsylvania By Train"
     excerpt: "Democratic presidential candidate Joe Biden and his wife, Jill, tour eastern Ohio and western Pennsylvania by train. 2020 Democratic presidential candidate Joe Biden and his wife, Jill, tour eastern Ohio and western Pennsylvania by train."

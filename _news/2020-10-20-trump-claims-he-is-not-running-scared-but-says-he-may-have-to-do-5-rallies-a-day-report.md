@@ -31,51 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened"
-    excerpt: "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign."
-    publishedDateTime: 2020-10-20T10:04:00Z
-    webUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
+  - title: "Trump's campaign is despondent as he keeps reusing strategies which worked against Hillary Clinton but aren't landing on Joe Biden, reports say"
+    excerpt: "The New York Times and The Associated Press reported that Trump's team worry that he has failed to adapt his strategy to his opponent."
+    publishedDateTime: 2020-10-19T10:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 103
+    quality: 114
     images:
-      - url: "https://i.insider.com/5f8eb486c21cfb0019468efc?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f8d4e0bc21cfb0019468ac4?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump's campaign nearly went broke for the 2020 home stretch amid Brad Parscale's $200 million budgeting misfire, Republicans tell Insider."
-    excerpt: "Money has been tight for the 2020 reelection effort since the demotion of the Trump campaign manager, even as the president tweets that all is well."
-    publishedDateTime: 2020-10-13T23:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-nearly-went-broke-amid-200-million-budget-shortfall-2020-10"
+  - title: "Putin rejects Donald Trump's criticism of Biden family business, saying he sees nothing 'criminal' with Hunter Biden in Ukraine"
+    excerpt: "Putin was responding to comments made by President Trump during televised debates with Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-26T02:27:00Z
+    webUrl: "https://www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 71
+    quality: 112
     images:
-      - url: "https://i.insider.com/5f8603ee91aa9e001880b6a2?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f962fd84743a3001216b879?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Donald Trump Jr. is scheduled to visit in Kernersville Monday to campaign for his father"
-    excerpt: "Donald Trump Jr., the son of the Republican president, is scheduled to visit Kernersville on Monday to campaign for his father who is running for re-election."
-    publishedDateTime: 2020-10-17T22:54:00Z
-    webUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.html"
-    ampWebUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
-    cdnAmpWebUrl: "https://journalnow-com.cdn.ampproject.org/c/s/journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
+  - title: "Trump didn't deny New York Times report that claims hes $400 million debt when pressed during town hall"
+    excerpt: "\"What I'm saying is that it's a tiny percentage of my net worth... The amount of money — $400 million, is a peanut,\" Trump said."
+    publishedDateTime: 2020-10-16T06:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
     type: article
     provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 66
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/3f/93f90a3a-974a-5aa9-82d3-a392afd2d0db/5f8b7e7bbb587.image.jpg?resize=1024%2C683"
+      - url: "https://i.insider.com/5f8916f1d260780019341bf5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why."
+    excerpt: "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small."
+    publishedDateTime: 2020-10-18T18:48:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "3 Cities Designated As 'Anarchist' Filing Lawsuit Against Trump Administration"
+    excerpt: "After months of street protests, President Trump described New York City, Portland and Seattle as lawless places and threatened to withhold federal aid. City officials say the law is on their side."
+    publishedDateTime: 2020-10-22T18:38:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/10/22/926695864/3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 101
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/22/ap_20133094368037_wide-0ecc215828e095c74a18670fb311744097545173.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Donald Trump, NBC News Set Town Hall Event For Thursday, Competing With ABC News’ Joe Biden Event"
+    excerpt: "Donald Trump will do a town hall for NBC News on Thursday, after an agreement was reached between the network and his presidential campaign on the details for the event. That means that Trump and"
+    publishedDateTime: 2020-10-14T12:14:00Z
+    webUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/#!"
+    ampWebUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 77
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20280081514930.jpg?w=1024"
         width: 1024
-        height: 683
+        height: 741
         isCached: true
 
 secured: "vGeWzqgMxhZdKrnzaay7qCLasyNWLoFSeCMJWaR+327i8RT/rEQtEL7USLQi8HVaNbdvqbUtedJ9LyNH/e0xEQkA+rgks0cV9yhKpykwQG6IKsAi33eeTL7uHY1N5XL6LhuxTWln/nxb1prLUXP2f6143jJ8ynCXOgSzpE3MX7UnwlvQ46numQkItuWXEWVfBFxBFX1jIHDlCY2vXT3ZiLPpUiYGVpCuW5lBeN78J8ZH2fJZGBFEroKaRDwBpv2nRYWs+kEI61SnseyGObvg8uhVzFXCAUN6WGmIK5XAJmZj+m95oOpcW74iR4SSL5wqShymQi9JIcMR8NR+IG2lzVhvFRIWlfVZ/S1ZC0zjYWI=;k3lQizcc7+OR2Uk74zFKDA=="

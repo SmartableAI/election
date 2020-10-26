@@ -2,6 +2,162 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-02-nato-insiders-believe-trumps-tax-and-debt-problems-make-him-vulnerable-to-blackmail-by-foreign-powers.md",
+      "title": "NATO insiders believe Trump's tax and debt problems make him vulnerable to blackmail by foreign powers",
+      "excerpt": "\"Everything about his finances smells like blood and we are trained to be sharks,\" one source told Insider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10",
+      "originalUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f589478e6ff30001d4e7a7e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10?amp",
+      "publishedDateTime": "2020-10-01T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-a-step-by-step-look-at-trumps-falsehoods-on-mail-in-voting-analysis.md",
+      "title": "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis",
+      "excerpt": "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "originalUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "publishedDateTime": "2020-10-01T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-getting-warmer-trump-concedes-human-role-in-climate-change.md",
+      "title": "Getting warmer: Trump concedes human role in climate change",
+      "excerpt": "At the first presidential debate, President Donald Trump publicly acknowledged some human blame for climate change",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_0062919532a148d4a6fd087944aa558e_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
+      "publishedDateTime": "2020-10-01T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-trump-denies-knowing-who-proud-boys-are-again-declines-to-condemn-white-supremacy-by-name.md",
       "title": "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name",
       "excerpt": "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name.",
@@ -10,7 +166,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -263,6 +419,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-01-mark-cuban-says-idiot-donald-trump-once-told-him-to-run-for-president.md",
+      "title": "Mark Cuban says 'idiot' Donald Trump once told him to run for president",
+      "excerpt": "Dallas Mavericks owner Mark Cuban said President Donald Trump is an \"idiot\" for how he's run the country as president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/sports/nba/mavericks/2020/09/30/mark-cuban-calls-president-donald-trump-an-idiot/3587381001/",
+      "originalUrl": "https://www.usatoday.com/story/sports/nba/mavericks/2020/09/30/mark-cuban-calls-president-donald-trump-an-idiot/3587381001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/30/USAT/bb91078b-8ea8-4702-b16e-61c98afa0ed4-USP_NBA__Dallas_Mavericks_at_Indiana_Pacers_1.JPG?auto=webp&crop=2248,1265,x0,y310&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3587381001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3587381001",
+      "publishedDateTime": "2020-09-30T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-why-did-trumps-intel-chief-launch-a-dubious-pre-debate-gambit.md",
       "title": "Why did Trump's Intel chief launch a dubious pre-debate gambit?",
       "excerpt": "The disclosure from DNI was quickly overshadowed by last night's debate, but even by 2020 standards, this was extraordinary.",
@@ -374,6 +582,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-trump-said-portlands-sheriff-supports-him-the-sheriff-disputes-that.md",
+      "title": "Trump said Portland's sheriff supports him. The sheriff disputes that.",
+      "excerpt": "\"In tonight's presidential debate the President said the 'Portland Sheriff' supports him. As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,\" Sheriff Mike Reese tweeted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "originalUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/dbf8d5f7-cc73-41b9-81a0-053b416b4ac2/thumbnail/1200x630/55135e432af3c30438ab4da906fbdd7a/ap-20274041554822.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "publishedDateTime": "2020-09-30T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -499,7 +759,7 @@
       "originalUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -982,7 +1242,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1970,
+      "heat": 2250,
       "tags": null,
       "images": [
         {
@@ -1024,6 +1284,58 @@
         "Election",
         "Donald Trump",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-fauci-trump-receiving-incorrect-information-on-coronavirus.md",
+      "title": "Fauci: Trump Receiving ‘Incorrect’ Information On Coronavirus",
+      "excerpt": "President Donald Trump might be receiving “either out of context or actually incorrect” information about coronavirus, Dr. Anthony Fauci told CNN on Monday after being asked about Dr. Scott Atlas, who was added to the White House Coronavirus Task Force last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/",
+      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 825,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f726dbc6600384172144241%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2820%26cropY1%3D143%26cropY2%3D1729",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/",
+      "publishedDateTime": "2020-09-28T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1240,58 +1552,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-29-trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-votingheres-what-it-is.md",
-      "title": "Trump Has Turned ‘Ballot Harvesting’ Into A Rallying Cry Against Mail-In Voting—Here’s What It Is",
-      "excerpt": "On Monday, Trump called for an investigation into an unsubstantiated report from Project Veritas — a right-wing activist group that has a track record of publishing misleading stories — that claimed Rep.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/",
-      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f723ce187ec74e766144241%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/amp/",
-      "publishedDateTime": "2020-09-28T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-engage-or-proceed-debating-trump-the-unpredictable-aggressor.md",
       "title": "Engage or Proceed? Debating Trump, the Unpredictable Aggressor",
       "excerpt": "Joe Biden has the scouting report of the president’s past debates and four years in office. One way to use it? Respond to unpredictability with a simple, “Here’s my stability plan.”",
@@ -1346,266 +1606,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-the-note-stagnant-race-battleground-deficits-highlight-trump-debate-season-challenges.md",
-      "title": "The Note: Stagnant race, battleground deficits highlight Trump debate-season challenges",
-      "excerpt": "The race for president keeps not changing and the latest ABC News/Washington Post poll shows a 53-43 Biden advantage among registered voters in the upcoming race.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215",
-      "originalUrl": "https://abcnews.go.com/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-rally_hpMain_20200926-182602_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215",
-      "publishedDateTime": "2020-09-28T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-trump-taxes-california-wildfires-stanley-cup-5-things-to-know-monday.md",
-      "title": "Trump taxes, California wildfires, Stanley Cup: 5 things to know Monday",
-      "excerpt": "Questions about President Trump's taxes continue, California braces for more wildfires and more news to start your Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/09/28/trump-taxes-california-wildfires-stanley-cup-5-things-know-monday/3530752001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/09/28/trump-taxes-california-wildfires-stanley-cup-5-things-know-monday/3530752001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/28/USAT/59aff9ec-70a1-4434-b761-70d13b08116b-AFP_AFP_8QV4ZJ.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3530752001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3530752001",
-      "publishedDateTime": "2020-09-27T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-reports-former-donald-trump-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself.md",
-      "title": "Reports: Former Donald Trump campaign manager Brad Parscale hospitalized after threatening to harm himself",
-      "excerpt": "Multiple outlets reported former Donald Trump campaign manager Brad Parscale was taken to a hospital without incident after police were called.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/27/brad-parscale-donald-trump-florida-hospitalized/3557987001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/27/brad-parscale-donald-trump-florida-hospitalized/3557987001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/28/USAT/14a80ae8-91ab-40af-9e4e-33a0a81364af-AP19227844022730.jpg?auto=webp&crop=5258,2958,x0,y267&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3557987001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557987001",
-      "publishedDateTime": "2020-09-27T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-trump-says-he-did-not-discuss-election-with-court-nominee-barrett.md",
-      "title": "Trump says he did not discuss election with court nominee Barrett",
-      "excerpt": "U.S. President Donald Trump said on Sunday he hopes his Supreme Court nominee Amy Coney Barrett is paying attention to the issue of mail-in ballot security but said he did not discuss the upcoming U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128",
-      "originalUrl": "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535128732&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0RE",
-          "width": 838,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26I128",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I128",
-      "publishedDateTime": "2020-09-27T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-ny-times-trump-paid-750-in-us-income-taxes-in-2016-2017.md",
-      "title": "NY Times: Trump paid $750 in US income taxes in 2016, 2017",
-      "excerpt": "President Donald Trump paid no federal income taxes in 10 of the past 15 years, according to a report in The New York Times",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_a532243e815c4ae78ad8b2a16ad8894a_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930",
-      "publishedDateTime": "2020-09-27T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

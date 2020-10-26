@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump has mild symptoms, will remain on job: chief of staff"
-    excerpt: "President Donald Trump has mild symptoms after testing positive for COVID-19 but he was expected to remain on the job, White House Chief of Staff Mark Meadows said on Friday."
-    publishedDateTime: 2020-10-02T15:43:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-meadows/trump-has-mild-symptoms-will-remain-on-job-chief-of-staff-idUSKBN26N2MD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2MD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2MD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535885118&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG911NE"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump has more in common with Lincoln than you might think"
     excerpt: "Lincoln governed during the most divided era in our nation’s history — Trump is governing in the most acrimonious period since."
     publishedDateTime: 2020-10-02T17:41:00Z
@@ -95,22 +79,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Who’s Hurt The Most By Trump Halting Second Stimulus Talks?"
-    excerpt: "Trump's tweeted on Tuesday his decision to end stimulus negotiations. Here's who is hurt the most by this decision."
-    publishedDateTime: 2020-10-08T11:39:00Z
-    webUrl: "https://www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/"
-    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ef7aab5571027102156b2%2F0x0.jpg"
-        width: 1200
-        height: 784
-        isCached: true
   - title: "Facebook pulls Trump post comparing COVID-19 to flu; Twitter adds warning"
     excerpt: "Facebook removed a post by President Trump comparing the coronavirus to the seasonal flu, while Twitter added a warning about \"misleading\" info."
     publishedDateTime: 2020-10-06T16:46:00Z
@@ -126,22 +94,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The health of his political opponents has always been fair game for Trump"
-    excerpt: "During the 2016 and 2020 presidential campaigns, Donald Trump repeatedly mocked the health of Hillary Clinton and Joe Biden."
-    publishedDateTime: 2020-10-06T16:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2020/t_374a983ef17b4a77be9edafed014a5ce_name_71828b02_b366_11ea_98b5_279a6479a1e4_scaled.jpg&w=1440"
-        width: 1440
-        height: 810
         isCached: true
   - title: "Trump calls for the FDA to approve one of the COVID-19 treatments he got"
     excerpt: "These are Business Insider's biggest healthcare stories for October 8."
@@ -239,6 +191,22 @@ related:
         width: 780
         height: 439
         isCached: true
+  - title: "Trump eyes return to rallies Saturday after doctor says COVID-19 therapy completed"
+    excerpt: "President Donald Trump said on Thursday he may return to the campaign trail with a rally on Saturday after the White House physician said he had completed his course of therapy for the novel coronavirus and could resume public events."
+    publishedDateTime: 2020-10-09T03:33:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump/trump-eyes-return-to-rallies-saturday-after-doctor-says-covid-19-therapy-completed-idUSKBN26T0KU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T0KU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T0KU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536820675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG970CV"
+        width: 1007
+        height: 545
+        isCached: true
   - title: "Trump May Have ‘Serious Risk Factors’ For Covid-19 Complications, Health Experts Say"
     excerpt: "Health experts warn that factors including President Donald Trump’s age and weight could put him at a higher risk of contracting serious complications of Covid-19, after he announced early Friday that he had contracted the virus."
     publishedDateTime: 2020-10-02T19:15:00Z
@@ -270,22 +238,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f776156cc87b821f703b80d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D316%26cropY2%3D3448"
         width: 1200
         height: 675
-        isCached: true
-  - title: "7 crucial questions Trump's doctor has declined to answer — and what he said instead"
-    excerpt: "We don't know for sure when Trump's last negative test was, whether he's received supplemental oxygen, how how high his fever has gotten."
-    publishedDateTime: 2020-10-03T21:24:00Z
-    webUrl: "https://www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
-    images:
-      - url: "https://i.insider.com/5f78c360282c500018c78754?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
         isCached: true
   - title: "Trump COVID-19 live updates: President did not disclose 1st positive test, sources say"
     excerpt: "President Trump's condition is continuing to improve as he fights a coronavirus infection, doctors say, and he may be able to leave the hospital as early as Monday."
@@ -527,22 +479,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "3 congressmen flew on a commercial Delta flight after a journey on Air Force One with President Trump"
-    excerpt: "The Republican politicians have been criticized after they flew on a Delta flight to Washington DC, hours after Trump tested positive for COVID-19."
-    publishedDateTime: 2020-10-04T15:47:00Z
-    webUrl: "https://www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5f79a8fc2400440019129d95?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump says he is awaiting the results of a COVID-19 test after his counselor Hope Hicks tested positive"
     excerpt: "Hicks reportedly traveled with President Donald Trump on Air Force One to and from the first debate on Tuesday."
     publishedDateTime: 2020-10-02T09:07:00Z
@@ -683,6 +619,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump could face a relapse, experts warn, as president downplays coronavirus threat despite massive death toll"
+    excerpt: "President Donald Trump rolled out of Walter Reed hospital confidently urging the nation not to fear the coronavirus despite experts' warning that the U.S. death toll, at more than 210,000, could almost double by year's end."
+    publishedDateTime: 2020-10-06T23:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/fauci-warns-trump-relapse-president-downplays-coronavirus-death-toll/3634631001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3634631001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634631001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/9b1ca01d-1e46-4a77-b125-e2569de56541-GettyImages-1228897458.jpg?auto=webp&crop=4637,2608,x0,y366&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump: Getting COVID-19 'Blessing from God'"
     excerpt: "President Donald Trump says getting infected with COVID-19 was a \"blessing from God.\" Trump attributes him feeling well to the experimental antibody therapy he got from Regeneron Pharmaceuticals Inc."
     publishedDateTime: 2020-10-07T23:35:00Z
@@ -745,22 +697,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Coronavirus live updates: Donald Trump, Melania test positive for COVID-19; 20,000 Amazon workers have tested positive"
-    excerpt: "President Trump and First Lady Melania have tested positive for COVID-19. About 20K Amazon workers infected. Latest COVID-19 news."
-    publishedDateTime: 2020-10-02T12:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/02/covid-news-trump-melania-positive-california-equity-amazon/5888740002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5888740002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5888740002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 101
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/6000d549-6f0f-4dd7-b2d2-820321df3c1e-AFP_AFP_8QZ69N.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cowboys' Jerry Jones calls Donald Trump 'hardest worker you've ever seen,' is confident he can govern through COVID-19"
     excerpt: "Cowboys owner Jerry Jones on Friday shared his concern for the president but said the \"hardest worker\" Donald Trump could govern through COVID-19."
     publishedDateTime: 2020-10-02T18:13:00Z
@@ -793,22 +729,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Your questions about Trump and COVID-19, answered: Who gave Trump coronavirus? What is the Regeneron antibody 'cocktail'?"
-    excerpt: "Our readers from across the US are asking important questions about President Trump's positive COVID-19 test. We answer your questions."
-    publishedDateTime: 2020-10-04T02:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/02/trump-tests-positive-coronavirus-reader-questions-answers/5893893002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5893893002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5893893002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 100
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "You Asked, We Answered: What to know about President Donald Trump's COVID-19 diagnosis"
     excerpt: "USA TODAY breaking news reporter Grace Hauck answers some of your biggest questions after President Donald Trump tested positive for COVID-19."
     publishedDateTime: 2020-10-03T18:50:00Z
@@ -822,6 +742,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?quality=10"
         width: 2883
         height: 1922
+        isCached: true
+  - title: "Trump is still comparing COVID-19 to the flu. But the coronavirus has already killed 3 times more people than flu does in a year."
+    excerpt: "President Trump suggested COVID-19 can be less lethal than the flu, and said the flu kills \"over 100,000\" people per year. Those claims are wrong."
+    publishedDateTime: 2020-10-06T22:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-incorrectly-compares-coronavirus-flu-deaths-lethality-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-incorrectly-compares-coronavirus-flu-deaths-lethality-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-incorrectly-compares-coronavirus-flu-deaths-lethality-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f7c8351282c500018c78ce2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "'I could be one of the diers': Trump recognized own mortality after COVID-19 diagnosis, according to a report from New York Magazine"
     excerpt: "\"This thing could go either way,\" Trump said, according to New York Magazine's Intelligencer. \"It's tricky. They told me it's tricky. You can tell it can go either way.\""
@@ -1037,22 +973,6 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Donald-Trump-Walter-Reed-Marine-One-GettyImages-1228855247-1200x675.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Kanye West Sends Prayers To Donald And Melania Trump After Both Tested Positive For Coronavirus"
-    excerpt: "Kanye West sent well-wishes to President Donald Trump and first lady Melania Trump after they tested positive for COVID-19."
-    publishedDateTime: 2020-10-04T09:40:00Z
-    webUrl: "https://www.ibtimes.com/kanye-west-sends-prayers-donald-melania-trump-after-both-tested-positive-coronavirus-3056370"
-    ampWebUrl: "https://www.ibtimes.com/kanye-west-sends-prayers-donald-melania-trump-after-both-tested-positive-coronavirus-3056370?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kanye-west-sends-prayers-donald-melania-trump-after-both-tested-positive-coronavirus-3056370?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 63
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/04/26/donald-trump-kanye-west.jpg"
-        width: 1024
-        height: 759
         isCached: true
   - title: "Is Trump really 'doing very well’ with COVID-19? Reports raise questions about president’s health"
     excerpt: "Trump was admitted Friday to Walter Reed National Military Medical Center after testing positive for the coronavirus."

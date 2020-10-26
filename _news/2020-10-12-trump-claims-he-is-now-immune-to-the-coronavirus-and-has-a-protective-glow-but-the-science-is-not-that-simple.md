@@ -63,19 +63,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Campaign Manager, Kellyanne Conway Are Latest To Test Positive For Coronavirus"
-    excerpt: "Stepien took over Trump's campaign in July and attended the debate on Tuesday. Although Conway no longer works at the White House, she recently attended an event at the Rose Garden."
-    publishedDateTime: 2020-10-03T08:31:00Z
-    webUrl: "https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/03/919821048/trump-campaign-manager-kellyanne-conway-are-latest-to-test-positive-for-coronavi"
+  - title: "Trump: Barron 'free' of coronavirus"
+    excerpt: "The president was using his son to underscore his frequent argument that kids have less serious cases of the coronavirus and should be back in school. (Oct. 14)"
+    publishedDateTime: 2020-10-15T01:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/15/trump-barron-free-coronavirus/3660232001/"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 98
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://media.npr.org/assets/img/2020/10/03/ap_20233729964769_wide-8408f37dfac959679b411484ec8fbc0d2fa04d50.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fc79aa69-ab33-42c5-8465-fe58960ba183_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
     excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
@@ -93,31 +93,33 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "A Fox News host has cast Trump as a war hero who got the coronavirus because he 'put himself on the line'"
-    excerpt: "Fox News host Greg Gutfeld compared Trump's coronavirus diagnosis to a solider's sacrifice on the battlefield while speaking on \"The Five\" talk."
-    publishedDateTime: 2020-10-03T11:31:00Z
-    webUrl: "https://www.businessinsider.com/fox-news-host-greg-gutfeld-trump-covid-19-for-us-2020-10"
+  - title: "Eric Trump, Vice President Mike Pence to visit Pa. Friday, Saturday"
+    excerpt: "Eric Trump is hosting several campaign events for his father President Donald Trump in Pennsylvania Friday and Saturday. There is a Catholics for Trump event"
+    publishedDateTime: 2020-10-16T09:18:00Z
+    webUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/"
+    ampWebUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-  - title: "Trump Suffering From 'Severe' Case of Coronavirus? Doctors Question Use Of Dexamethasone"
-    excerpt: "Medical experts are concerned about the president's use of dexamethasone, a steroid normally reserved for more serious cases."
-    publishedDateTime: 2020-10-05T05:32:00Z
-    webUrl: "https://www.ibtimes.com/trump-suffering-severe-case-coronavirus-doctors-question-use-dexamethasone-3056687"
-    ampWebUrl: "https://www.ibtimes.com/trump-suffering-severe-case-coronavirus-doctors-question-use-dexamethasone-3056687?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-suffering-severe-case-coronavirus-doctors-question-use-dexamethasone-3056687?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 66
+      name: abc27.com
+      domain: abc27.com
+    quality: 90
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/donald-trump-tweeted-from-hospital-calling-for-us.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/07/0b4e231f4016435c96a9d4630ea6f691.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
+  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
+    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
+    publishedDateTime: 2020-10-11T16:13:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 75
 
 secured: "sGDemPwHfDXv061wBJDO4+j/Xca18sH+pDZOFsXmYhTc9H6iLWmCkkdl37Ai2kZBOsxTAiN7nSQ7u4Km+OzqOEx4yO7nFD3AERim/cSpsJG5za7LL0aBmPAdv57ErD8tAJ86MlDLxEhXLV8UhcUpAuW/oHeVV8Uc3DYHQK/jnUX1chpK7o4/1Wck6sslapTNMrH/coEReLG579DaWMd6EAdVjcPOY8S5PS71v4LOja1Yl36/efdU9tqgbylxOJBTGQzhdP5lpZd+n7Col1SVkO0V16ym1+3r18wB68iU4d0kaX8hn37HBkQ3LmsihnHRJwTdyBfApxVJVyQRMj5frYvI572tYOl5DDqaClO3CV3S7s4Mjk2nkYzVvLKeH3BeFck9WHG7H5YqHxsY7fRKCEjNTpdcWoMycReAoYPyOx6Si8/kig3aX5bjL6ncwE57dw4Iwav26lWWOwJiwrriSnPzOreuQkA5vIDoFtwzHz3Uj6jYG60Oxi3Jz/1jFELHV0sOAYmuJ8bL00haLi9bWw==;iVhEyxgqWKOklBj+rDM9Ow=="
 ---

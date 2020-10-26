@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-19-revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor.md",
+      "title": "REVEALED: Birx confronted Pence with demand he fire Trump’s ‘dishonest’ herd immunity doctor",
+      "excerpt": "Delving into the battle inside the White House task force overseeing the government’s response to the coronavirus pandemic, the Washington Post is reporting that Dr. Deborah Birx has grown fed up with Dr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/",
+      "originalUrl": "https://www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/mike-pencescreen-grab-via-youtube.jpeg",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/amp/",
+      "publishedDateTime": "2020-10-19T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-pence-to-mount-aggressive-campaign-push-in-final-two-weeks.md",
       "title": "Pence to mount 'aggressive' campaign push in final two weeks",
       "excerpt": "Vice President Mike Pence will travel at least five days a week and ramp up to at least two campaign rallies each day as part of a “very aggressive schedule” in the final days before the election, Pen",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday",
       "featuredContent": null,
       "highlight": null,
-      "heat": 455,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -83,6 +135,49 @@
       "provider": {
         "name": "WTXL ABC 27",
         "domain": "wtxl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump.md",
+      "title": "Sacha Baron Cohen reveals how he snuck into a Mike Pence speech dressed as Trump",
+      "excerpt": "Sacha Baron Cohen has detailed how he managed to sneak into a speech by Mike Pence dressed as Donald Trump for his 'Borat' sequel",
+      "sourceUrl": null,
+      "webUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022",
+      "originalUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2020/10/borat-mike-pence.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp",
+      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp",
+      "publishedDateTime": "2020-10-19T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -169,49 +264,6 @@
       "provider": {
         "name": "Beliefnet",
         "domain": "beliefnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sacha-baron-cohen-reveals-how-he-was-able-to-sneak-into-mike-pence-speech-to-film-borat-2.md",
-      "title": "Sacha Baron Cohen reveals how he was able to sneak into Mike Pence speech to film Borat 2",
-      "excerpt": "Sacha Baron Cohen has revealed how he managed to sneak into a Mike Pence speech during a rally earlier this year while filming a scene for the upcoming Borat sequel. The actor, believe it or not, managed to disguise himself as none other than President Donald Trump in order to gain access into the speech,",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/",
-      "originalUrl": "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/10/PRI_169142927.jpg?quality=90&strip=all&zoom=1&resize=600%2C315&ssl=1",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/amp/",
-      "publishedDateTime": "2020-10-18T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -506,7 +558,7 @@
       "originalUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 489,
+      "heat": 469,
       "tags": null,
       "images": [
         {
@@ -558,7 +610,7 @@
       "originalUrl": "https://www.wkyc.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -730,7 +782,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10600,
+      "heat": 10620,
       "tags": null,
       "images": [
         {
@@ -1400,58 +1452,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-vice-president-mike-pence-postpones-friday-appearance-to-vote-in-indianapolis.md",
-      "title": "Vice President Mike Pence postpones Friday appearance to vote in Indianapolis",
-      "excerpt": "Vice President Mike Pence cancels a Friday appearance in Indianapolis to vote early. His office says the trip to cast his ballot will be rescheduled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/mike-pence-cancels-appearance-vote-friday-indy/5911905002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/mike-pence-cancels-appearance-vote-friday-indy/5911905002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 602,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/08/PIND/a4c4657d-4f89-4e21-ad93-fd72a40134a3-pence.jpg?auto=webp&crop=4607,2592,x0,y691&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5911905002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5911905002",
-      "publishedDateTime": "2020-10-08T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

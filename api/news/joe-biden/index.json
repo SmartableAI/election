@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-26-police-florida-man-stole-bulldozer-ran-down-biden-signs.md",
+      "title": "Police: Florida man stole bulldozer, ran down Biden signs",
+      "excerpt": "Authorities and homeowners in central Florida have accused a 26-year-old man of stealing a bulldozer from a construction site and driving it into a neighborhood to knock down campaign signs promoting",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210",
+      "publishedDateTime": "2020-10-26T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-could-rejected-mail-in-ballots-cost-joe-biden-the-election.md",
+      "title": "Could rejected mail-in ballots cost Joe Biden the election?",
+      "excerpt": "Donald Trump is the one who has complained most loudly about mail-in ballot problems. But problems with mailed ballots could in fact hurt Biden",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2020/oct/26/could-rejected-mail-in-ballots-cost-joe-biden-the-election?ref=hvper.com",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2020/oct/26/could-rejected-mail-in-ballots-cost-joe-biden-the-election?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 840,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dbb1e58d8fd83a03f135bedbcc139b05bf631cc9/0_197_5629_3379/master/5629.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78d65689fe4d2bcf0853d35957d02a23",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2020/oct/26/could-rejected-mail-in-ballots-cost-joe-biden-the-election",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/oct/26/could-rejected-mail-in-ballots-cost-joe-biden-the-election",
+      "publishedDateTime": "2020-10-26T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-pence-hits-biden-for-undermining-law-enforcement-tells-levin-all-my-heroes-wear-uniforms.md",
       "title": "Pence hits Biden for 'undermining' law enforcement, tells Levin 'all my heroes wear uniforms'",
       "excerpt": "Vice President Mike Pence contrasted the Trump administration's support of law enforcement to that of Joe Biden's on Sunday, telling \"Life, Liberty & Levin\" that unlike his Democratic challenger, his support for the thin blue line dates back to his childhood.",
@@ -57,58 +161,6 @@
         "Joe Biden",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall-street-journal-nyt.md",
-      "title": "White House lawyer helped shop controversial Hunter Biden story to Wall Street Journal: NYT",
-      "excerpt": "A controversial story alleging wrongdoing by former Vice President Joe Biden's family in foreign business dealings was pitched by Trump allies to the Wall Street Journal before it appeared in the New York Post,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall",
-      "originalUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp",
-      "publishedDateTime": "2020-10-25T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -387,6 +439,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-23-north-carolina-man-with-van-full-of-guns-asked-should-i-kill-joe-biden-online-authorities-say.md",
+      "title": "North Carolina man with van full of guns asked 'Should I kill Joe Biden?' online, authorities say",
+      "excerpt": "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3740228001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740228001",
+      "publishedDateTime": "2020-10-23T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-people-embrace-rebranding-of-proud-boys-to-poor-boys-after-biden-misspeaks.md",
       "title": "People embrace rebranding of 'Proud Boys' to 'Poor Boys' after Biden misspeaks",
       "excerpt": "Social media users expressed amusement Thursday when Democratic nominee for president Joe Biden mistakenly called the Proud Boys the \"poor boys\" during a debate with President Trump.",
@@ -548,49 +652,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-tyler-perry-jennifer-lopez-more-stars-endorse-joe-biden-for-president.md",
-      "title": "Tyler Perry, Jennifer Lopez & More Stars Endorse Joe Biden For President",
-      "excerpt": "Joe Biden and Kamala Harris have gained endorsements from plenty of powerful celebrities, like Tyler Perry, Jennifer Lopez and Taylor Swift. Here’s who else is voting for them on November 3.",
-      "sourceUrl": null,
-      "webUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
-      "originalUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pmchollywoodlife.files.wordpress.com/2020/10/joe-biden-celebs-endorse-vote-ftr.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
-      "cdnAmpWebUrl": "https://hollywoodlife-com.cdn.ampproject.org/c/s/hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
-      "publishedDateTime": "2020-10-21T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hollywood Life",
-        "domain": "hollywoodlife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-22-biden-endorses-texas-democratic-house-candidate-julie-oliver.md",
       "title": "Biden endorses Texas Democratic House candidate Julie Oliver",
       "excerpt": "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas.",
@@ -599,7 +660,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -643,58 +704,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-biden-corruption-and-the-thursday-debate-opinion.md",
-      "title": "Biden Corruption and the Thursday Debate | Opinion",
-      "excerpt": "We have a scandal involving Vice President Joe Biden, his brothers and his son dealing with China, Russia, Ukraine, Romania, Kazakhstan, Oman and possibly other foreign influence buyers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101",
-      "originalUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1656418/bidens.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1",
-      "publishedDateTime": "2020-10-21T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-22-maryland-man-charged-with-threatening-biden-harris-in-letter-on-supporters-doorstep.md",
       "title": "Maryland man charged with threatening Biden, Harris in letter on supporter's doorstep",
       "excerpt": "Federal prosecutors on Wednesday charged a Maryland man with threatening Democratic presidential candidate Joe Biden and running mate Kamala Harris in a letter left on the doorstep of a someone with a yard sign supporting their campaign.",
@@ -703,7 +712,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1903,
+      "heat": 2063,
       "tags": null,
       "images": [
         {
@@ -808,7 +817,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/barack-obama-hold-person-event-biden-73729555",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -860,7 +869,7 @@
       "originalUrl": "https://www.washingtonpost.com/national-security/fbi-hunter-biden-laptop-russia/2020/10/20/3478408a-133d-11eb-bc10-40b25382f1be_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -956,58 +965,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-21-joe-biden-is-making-a-late-push-for-cuban-american-voters-in-florida-will-it-matter.md",
-      "title": "Joe Biden is making a late push for Cuban American voters in Florida. Will it matter?",
-      "excerpt": "The Biden campaign made what one pollster called \"night and day difference\" in its outreach to Hispanic voters in Florida, which lifted its support.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/",
-      "originalUrl": "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/c5107522-4dbb-4bb7-bc07-5a9025a578a7-AFP_AFP_8T24WG.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5884192002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884192002",
-      "publishedDateTime": "2020-10-20T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-21-former-republican-national-committee-chairman-michael-steele-endorses-joe-biden.md",
       "title": "Former Republican National Committee Chairman Michael Steele endorses Joe Biden",
       "excerpt": "I'm a lifelong Republican – and I'm still a Republican. But this ballot is how we restore the soul of our nation,\" said Michael Steele, who called Joe Biden \"a good man.\"",
@@ -1060,6 +1017,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-21-greenwald-slams-schiff-over-biden-emails-on-fox.md",
+      "title": "Greenwald slams Schiff over Biden emails on Fox",
+      "excerpt": "Greenwald, the journalist who in 2013 worked with whistleblower Edward Snowden to published leaked intelligence on the National Security Agency's surveillance programs, accused Schiff of lying about Russia being behind a New York Post story on Hunter Biden 's emails.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox",
+      "originalUrl": "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/greenwaldglenn_01222020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox?amp",
+      "publishedDateTime": "2020-10-20T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-gov-doug-ducey-did-not-mock-joe-biden-he-mocked-doug-ducey.md",
       "title": "Gov. Doug Ducey did not mock Joe Biden, he mocked Doug Ducey",
       "excerpt": "How can Arizona Gov. Doug Ducey proclaim his decency while promoting the election of a man who engages in ugly, insolent, disrespectful diatribes?",
@@ -1090,58 +1099,6 @@
         "name": "The Arizona Republic",
         "domain": "azcentral.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-joe-bidens-love-of-amtrak-tells-us-how-he-would-govern.md",
-      "title": "Joe Biden’s love of Amtrak tells us how he would govern",
-      "excerpt": "After the first presidential debate, Joe Biden did what he has done many times before: boarded a train. “The Build Back Better Express” would lumber for the better part of a day between Cleveland and Johnstown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/",
-      "originalUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVBWLIQDUII6XOJOAKLHN6PL5Q.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp",
-      "publishedDateTime": "2020-10-20T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1211,7 +1168,7 @@
       "originalUrl": "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1255,21 +1212,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-these-voters-rejected-hillary-clinton-but-theyre-voting-for-joe-biden-here-are-the-many-reasons-why.md",
-      "title": "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why.",
-      "excerpt": "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small.",
+      "path": "_news/2020-10-19-trumps-campaign-is-despondent-as-he-keeps-reusing-strategies-which-worked-against-hillary-clinton-but-arent-landing-on-joe-biden-reports-say.md",
+      "title": "Trump's campaign is despondent as he keeps reusing strategies which worked against Hillary Clinton but aren't landing on Joe Biden, reports say",
+      "excerpt": "The New York Times and The Associated Press reported that Trump's team worry that he has failed to adapt his strategy to his opponent.",
       "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html",
+      "webUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 234,
       "tags": null,
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg",
+          "url": "https://i.insider.com/5f8d4e0bc21cfb0019468ac4?width=1200&format=jpeg",
           "width": 1200,
-          "height": 675,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1277,16 +1234,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-18T11:48:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp",
+      "publishedDateTime": "2020-10-19T03:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1303,6 +1260,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Joe Biden"
       ]
     },
@@ -1315,7 +1273,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1339,6 +1297,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-a-wall-street-chief-strategist-says-a-biden-blue-wave-could-spur-a-5-drop-in-the-sp-500-because-of-uncertainty-over-some-democrat-policies.md",
+      "title": "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies",
+      "excerpt": "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10",
+      "originalUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f3fa81089aff80028ab70e7?format=jpeg",
+          "width": 5000,
+          "height": 2499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp",
+      "publishedDateTime": "2020-10-17T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1459,6 +1469,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-16-joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency.md",
+      "title": "Joe Biden Urged To Grant 2.2 Million Deferred Enforced Departure On ‘Day One Of His Presidency’",
+      "excerpt": "In a letter shared exclusively with this publication, Democratic presidential nominee Joe Biden is being urged to promise roughly 2.2 million people at risk of future deportation protections to remain in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/",
+      "originalUrl": "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88e1ce890b284b1282a55b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/",
+      "publishedDateTime": "2020-10-16T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-column-big-tech-slaps-the-new-york-post-to-shield-joe-biden.md",
       "title": "Column: Big Tech slaps The New York Post to shield Joe Biden",
       "excerpt": "We were always told it would come from the right, but now we see that it comes from Big Tech, which has interfered with a news organization’s coverage of a Joe Biden campaign issue. Social media giants Twitter and Facebook on Wednesday limited the sharing on their platforms of a story from The New York Post about questionable business dealings of Joe Biden’s son Hunter in Ukraine.",
@@ -1467,7 +1529,7 @@
       "originalUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1491,58 +1553,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-sean-hannity-says-savannah-guthrie-was-joe-bidens-surrogate-in-trump-town-hall-ambush.md",
-      "title": "Sean Hannity says Savannah Guthrie was 'Joe Biden's Surrogate' in Trump Town Hall 'Ambush'",
-      "excerpt": "Fox News host Sean Hannity accused the chair of Donald Trump's televised town hall of acting as Joe Biden's \"surrogate,\" claiming the president had been \"ambushed\" when challenged over previous comments he made on the subject of white supremacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659",
-      "originalUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 350,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1653728/trump-guthrie-town-hall.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1",
-      "publishedDateTime": "2020-10-16T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

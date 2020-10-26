@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Progressives say they’ll pressure Joe Biden to expand Supreme Court if Democrats win White House, Senate"
+    excerpt: "Joe Biden, who ran a relatively centrist primary campaign, hasn’t embraced calls to expand the Supreme Court, worried they may intensify the nation’s partisan split."
+    publishedDateTime: 2020-09-24T11:45:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-democrats-supreme-court-expansion-20200924-l36qlehccvdczh3jtst5tnn3ui-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-democrats-supreme-court-expansion-20200924-l36qlehccvdczh3jtst5tnn3ui-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-democrats-supreme-court-expansion-20200924-l36qlehccvdczh3jtst5tnn3ui-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 108
+    images:
+      - url: "https://www.chicagotribune.com/resizer/DxWzqZI1QE7tEtrndw12KSl0bDg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TCOGRWTQJVBL7GIBBETLBI6U7A.aspx"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "IO9UUzu+2TuQsAYAfn8xO9HKHjw0AxoJUnJwVzL2r2EP5gMr3M/TLfSp2Mdez9oYbdHEd3UWIGGbcQjReLFs/qGtPpV/Jq9VqNNOut0MT4F1+kmcCIRPghIiCbrnVASppdT1B9tXiDOuvAd0kDqBkxcaO1LdEv0hVbQOgTa7ytND8O8eEsrlpgirnwL2RSnUMa4p7JJ+K/4HqimcgExpfsei9DFiu9GrfAxLMnhKsHcSh1LNAcvCaI3zOgdPtX5cQtGjeUkMF9YGMhnbL+UD/SvLJ3UyGSQ9jNo+pUdnVcsnAleCPck1t6na4y5WZReNnnYqHC3Aq9sadwXWAPfi0VNhIUyeLgex+V8jF4nJO23ATamKDR+BVMS/8obhhZWrEUaeok5s+FcolDGo3BCkUsyK9KcT8HRXX1cnNkTJlouo8y9XU60DyMGVlM40vbqtS8B/Vtvi9GCRdKNhtpmAdfHJSJX9QbqMtyIqwjMVRa62jEcGb4dNSAF/profKQwN1Dg6cyourjGWUN+fbUYMAw==;fJTSUHKS7mH4zAkCu24O8Q=="
 ---

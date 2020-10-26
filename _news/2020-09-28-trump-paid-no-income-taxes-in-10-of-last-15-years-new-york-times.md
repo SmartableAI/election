@@ -63,6 +63,38 @@ related:
         width: 1024
         height: 727
         isCached: true
+  - title: "5 takeaways from New York Times report on President Trump's tax returns"
+    excerpt: "Report raises doubts about Trump's self-image as a successful businessman just weeks before his re-election bid."
+    publishedDateTime: 2020-09-28T13:48:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-tax-returns-new-york-times-takeaways/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tax-returns-new-york-times-takeaways/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-new-york-times-takeaways/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/23/13286490-920c-4212-8cb2-6eceacf0444d/thumbnail/1200x630/8be04da2549cc820055f45a895510781/cbsn-fusion-pres-trump-blasts-china-in-speech-to-un-general-assembly-thumbnail-552575-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "7 takeaways from New York Times report on President Trump's tax returns"
+    excerpt: "Report raises doubts about Trump's self-image as a successful businessman just weeks before his re-election bid."
+    publishedDateTime: 2020-09-28T20:58:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-tax-returns-new-york-times-report-takeaways/?intcid=CNI-00-10aaa3b"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tax-returns-new-york-times-report-takeaways/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-new-york-times-report-takeaways/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/23/13286490-920c-4212-8cb2-6eceacf0444d/thumbnail/1200x630/8be04da2549cc820055f45a895510781/cbsn-fusion-pres-trump-blasts-china-in-speech-to-un-general-assembly-thumbnail-552575-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Senior U.S. lawmakers ask Trump to investigate Navalny poisoning"
     excerpt: "The leaders of the U.S. Senate Foreign Relations Committee asked President Donald Trump on Wednesday to consider whether the Russian government poisoned Russian opposition politician Alexei Navalny with a chemical nerve agent,"
     publishedDateTime: 2020-09-30T23:05:00Z
@@ -79,21 +111,21 @@ related:
         width: 814
         height: 545
         isCached: true
-  - title: "Gender pay gap in Trump administration wider than national average: The 19th"
-    excerpt: "A new analysis shows a gender pay gap in President Donald Trump’s administration is wider than the national pay gap."
-    publishedDateTime: 2020-09-19T23:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
+  - title: "Lawyer for Trump's son Eric defends delayed questioning in New York probe"
+    excerpt: "A New York judge on Wednesday ordered President Donald Trump's son Eric to make himself available by Oct. 7 to be interviewed under oath for a state probe into financing for properties owned by his family's company."
+    publishedDateTime: 2020-09-24T01:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-new-york-lawsuit-idUSKCN26E34J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E34J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E34J"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Politics/white-house-women-pay-gap-02-gty-llr-200918_1600444065508_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534649566&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1YY"
+        width: 817
+        height: 545
         isCached: true
   - title: "How Trump fell out of love with his generals — and why the feeling is mutual"
     excerpt: "Trump's relationship with the military has curdled, and with weeks to go before he faces reelection, he has attacked the Pentagon and its leaders."
@@ -156,6 +188,22 @@ related:
       - url: "https://media.npr.org/assets/img/2020/09/26/ap_20270089080658_wide-5819f27a4bc2145791fd6d38496297a4386da5db.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Trump frequently paid no federal income taxes in years leading up to presidency: New York Times"
+    excerpt: "President Donald Trump paid just $750 in federal income taxes in both 2016 and 2017, after years of reporting heavy losses from his business enterprises to offset hundreds of millions of dollars in income,"
+    publishedDateTime: 2020-09-28T08:07:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN26I10L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I10L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I10L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 113
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535124680&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0Q6"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump administration expected to urge state attorneys general to probe social media bias at Wednesday meeting"
     excerpt: "The Wednesday meeting comes nearly four months after the president signed an executive order that opened the door for the federal government to oversee the way tech companies police political speech online."
@@ -260,21 +308,21 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 95
-  - title: "Donald Trump Target Of Ricin Poisoned Letter For Second Time"
-    excerpt: "A letter containing the poison Ricin was intercepted before arrival on President Donald Trump’s desk for the second time, according to law enforcement officials. The New York Times reports that a package containing the poison and addressed to the President was intercepted earlier this week and is undergoing investigation by both the FBI and the Secret Service."
-    publishedDateTime: 2020-09-19T20:45:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-target-ricin-poisoned-letter-second-time-3048572"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-target-ricin-poisoned-letter-second-time-3048572?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-target-ricin-poisoned-letter-second-time-3048572?amp=1"
+  - title: "Reuniting America after Donald Trump"
+    excerpt: "Like it or not, it seems our entire political and social experience in the United States right now is defined by President Trump. Love him or hate him or (rarely) somewhere in between, the Trump years have accelerated divisions in our culture that predate him and brought our country to the point of a kind of collective madness."
+    publishedDateTime: 2020-09-19T09:07:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-how-trump-exacerbated-madness-america-20200919-ul6pfi4d2ver5mdktp7ubnxwwe-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-how-trump-exacerbated-madness-america-20200919-ul6pfi4d2ver5mdktp7ubnxwwe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-how-trump-exacerbated-madness-america-20200919-ul6pfi4d2ver5mdktp7ubnxwwe-story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: New York Daily News
+      domain: nydailynews.com
     quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/13/us-president-donald-trump-speaks-during-a-campaign-AFP_8PW36G-2.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.nydailynews.com/resizer/MAn0Z8NhRe_SpBr6lMpAfWYPPDQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DZNM6OSVGN642RCBAAWBXBHQPQ.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Legal Trouble For Trump Family? President's Son Must Testify In New York Fraud Investigation Before Election"
     excerpt: "A judge said Eric Trump must testify as part of New York Attorney General Letitia James' investigation into the financial dealings of The Trump Organization."
@@ -307,6 +355,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/11/us-president-donald-trump-hugs-his-daughter-and.jpg"
         width: 1004
         height: 768
+        isCached: true
+  - title: "Trump's record in federal courts is the worst of any recent president — as his administration loses case after case"
+    excerpt: "Donald Trump is the biggest loser. While he and Senate Majority Leader Mitch McConnell may get a chance to ram through another justice on the Supreme Court before the November election, it may not do them much good."
+    publishedDateTime: 2020-09-21T11:47:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 53
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/2018-01-29_12-02-07-793x430.jpg"
+        width: 793
+        height: 430
         isCached: true
 
 secured: "jeRpH4aspaagjlCYVJE80eLyUqcmMl0FCadzaCZmjRCTmaDTlBtW9cpuRrLFEMNZWjxmN54xM+qjuKlJgyIjrQGIFORNzRkvQFsFh+z+R94abNk7ZDBV9ZLlgtJOotXHWfCG1R2zOAHRCm92xXPlEXYWvIMBHsDIUNfTnqwrZ+OFrOHW0uU0I6hwryT1Qpa191HALRQzI0riQOHZj4vJoK7QROuF6LPz3oY6QqIUBJfVsowGh53xnDHMwcx9HcT8kg+SMLKJE80oayHDd4kM4/CEkHs74LCwx1frpgPWHdv+cbLQQOAdAlCyMLEq69YRthcupDANVluQAwtGBSDSPUFjCJ+OI534UA7CsQNlL5OT/rL09D+xd5wV2s+iRildclN1vJ16Kkaj4zeEUZJJH8T3saiGsQoKBXhmlSAlmMiXjbHEXjMzrp7mBM36tG8356IK0aJsL/Rvo+jjOv4gby+F8HOXN1G/F6dbagbe33rh6TzR/0ONrt0OEgKvO8OO1iYhAqL0P0JJk0M/Qp59NQ==;/M+jbqJWOS66G+oIUMk3Sw=="

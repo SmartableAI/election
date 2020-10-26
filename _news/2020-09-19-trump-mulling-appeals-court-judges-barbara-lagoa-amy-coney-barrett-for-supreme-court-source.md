@@ -29,111 +29,70 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says Supreme Court pick coming 'Friday or Saturday'"
-    excerpt: "President Trump said Monday morning that he would reveal his Supreme Court pick \"Friday or Saturday\" in deference to memorial services for Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T13:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
+  - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
+    excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
+    publishedDateTime: 2020-09-19T01:12:00Z
+    webUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
     images:
-      - url: "https://s.abcnews.com/images/GMA/trump-wh-gty-rc-200918_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump is expected to announce Supreme Court pick Saturday. Here's what we know."
-    excerpt: "\"They say the biggest thing you can do (as president) is the appointment of judges, but especially the appointment of Supreme Court justices,\" Trump said Friday."
-    publishedDateTime: 2020-09-26T16:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/26/what-we-know-trumps-supreme-court-pick/3546199001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3546199001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3546199001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Trump eyes return to rallies Saturday after doctor says COVID-19 therapy completed"
-    excerpt: "President Donald Trump said on Thursday he may return to the campaign trail with a rally on Saturday after the White House physician said he had completed his course of therapy for the novel coronavirus and could resume public events."
-    publishedDateTime: 2020-10-09T03:33:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump/trump-eyes-return-to-rallies-saturday-after-doctor-says-covid-19-therapy-completed-idUSKBN26T0KU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T0KU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T0KU"
+  - title: "Ted Cruz is 'honored' Trump is considering him for a Supreme Court seat, but he said he's not interested in leaving the Senate"
+    excerpt: "Trump announced 20 possible appointments that included three conservative senators: Cruz of Texas, Tom Cotton of Arizona, and Josh Hawley of Missouri."
+    publishedDateTime: 2020-09-13T20:13:00Z
+    webUrl: "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536820675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG970CV"
-        width: 1007
-        height: 545
+      - url: "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "Trump: 'very, very close' to a Supreme Court pick"
-    excerpt: "President Donald Trump says he'll announce his decision on a Supreme Court nominee to replace the late Justice Ruth Bader Ginsburg this Saturday at 5pm. He says he has \"a constitutional obligation\" to make sure nine justices are seated."
-    publishedDateTime: 2020-09-23T00:12:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/22/trump-very-very-close-supreme-court-pick/3498142001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3471c510-dd32-4f41-908b-5ed00da6803b_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Eric Trump, Vice President Mike Pence to visit Pa. Friday, Saturday"
-    excerpt: "Eric Trump is hosting several campaign events for his father President Donald Trump in Pennsylvania Friday and Saturday. There is a Catholics for Trump event"
-    publishedDateTime: 2020-10-16T09:18:00Z
-    webUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/"
-    ampWebUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
-    type: article
-    provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 90
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/07/0b4e231f4016435c96a9d4630ea6f691.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Pence tells rallygoers woman will be nominated to Supreme Court Saturday"
-    excerpt: "Vice President Mike Pence told supporters at a rally in Gilford on Tuesday that a conservative woman will be Saturday to serve as a justice on the Supreme Court, and he promised the seat will be filled during an election year."
-    publishedDateTime: 2020-09-22T22:40:00Z
-    webUrl: "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
-    ampWebUrl: "https://www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
-    type: article
-    provider:
-      name: WMUR9
-      domain: wmur.com
-    quality: 74
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump tells Fox & Friends that RBG’s dying wish may be a hoax written by Adam Schiff"
-    excerpt: "President Donald Trump on Monday told “Fox & Friends” that he believed Supreme Court Justice Ruth Bader Ginsburg’s dying wish may have been a “hoax” concocted by Democrats. During the interview, the president was asked about Ginsburg saying that she did not want to be replaced until after the 2020 presidential election."
-    publishedDateTime: 2020-09-21T13:39:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-tells-fox-friends-that-rbgs-dying-wish-may-be-a-hoax-written-by-adam-schiff/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-tells-fox-friends-that-rbgs-dying-wish-may-be-a-hoax-written-by-adam-schiff/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-tells-fox-friends-that-rbgs-dying-wish-may-be-a-hoax-written-by-adam-schiff/amp/"
+  - title: "Trump boasts Amy Coney Barrett was ‘toying’ with ‘evil’ Democrats"
+    excerpt: "President Donald Trump is bragging that his nominee for the U.S. Supreme Court, the supposedly non-partisan and non-political branch of government, was “toying” with the Democratic U.S. Senators on the Judiciary Committee this week."
+    publishedDateTime: 2020-10-15T23:20:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 48
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/barrett.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Women Marchers Led By ‘The Handmaid’s Tale’ Protesters Voice Opposition On Trump Ticket, Amy Coney Barrett Nomination"
+    excerpt: "Mike Pence presidential ticket and the Supreme Court nomination of Amy Coney Barrett was coordinated Saturday by the Women’s March organization."
+    publishedDateTime: 2020-10-17T23:35:00Z
+    webUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/"
+    ampWebUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 52
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20291710573192.jpg?w=512"
+        width: 512
+        height: 341
+        isCached: true
 
 secured: "jNDDURopu8h3alVbtGAEDCa4iP2t2w6mrmB5iIzmY+IRQjcP68Sv7OPdKYRfDBo0MHAXOtKz8oXjK84/X7yMHkDCyS9GVjpl0rKMQSDS7vsHLnTbltxyrEHkcnQ9ZPBVqEVEeTYhjsVFPdBWodRZtUepZ3sFLx8pX6zuDeunLMLn5I495r3fNHYmYnvDR+KzTtRnVJPyWrCyHiVXmfH50b42/3AejjBrtfEtY+TjnrCeZS/FPZoMJrpqQjfmyjgMGrcdw/ybvBtsklIRj39HLpovDNkF5ujY2oxColFeLVBh8gcaTtnxMXs5rnC0yr20ML8ca/+9Jm4jHKFmOXi1d6D7Jo7fgOsbmB4nSISrLao=;2dWksylNEhNE0OgDkwRqhg=="
 ---

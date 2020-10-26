@@ -47,6 +47,22 @@ related:
         width: 780
         height: 551
         isCached: true
+  - title: "Watch live: Biden holds town hall event"
+    excerpt: "Democratic presidential nominee Joe Biden is slated to hold a town hall event Thursday evening on ABC.The event is scheduled to begin at 8 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-10-15T22:46:00Z
+    webUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event"
+    ampWebUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "What we know – and don't know – about Hunter Biden's alleged laptop"
     excerpt: "A central figure has contradicted himself about his actions and motivations, raising questions about his account."
     publishedDateTime: 2020-10-15T22:04:00Z
@@ -79,22 +95,6 @@ related:
         width: 3606
         height: 2549
         isCached: true
-  - title: "Biden campaign removing retired general from ad after his complaint"
-    excerpt: "The Biden campaign will remove images of a former commander of the U.S.-led anti-ISIS military coalition from an ad after he called out the campaign for including him without his permission, a spokesman said Monday."
-    publishedDateTime: 2020-10-19T21:32:00Z
-    webUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint"
-    ampWebUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Biden up by single point in Florida: poll"
     excerpt: "Democratic presidential nominee Joe Biden has a single-point lead over President Trump in Florida, according to a poll released Tuesday from the University of No"
     publishedDateTime: 2020-10-20T18:55:00Z
@@ -111,19 +111,19 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "The best case against a Biden presidency: Him"
-    excerpt: "When you take a clear-eyed look at Biden, there is no meaningful case for his candidacy. His biggest argument is that he is the “good guy” in this election, which he describes as a “battle for the soul of the nation."
-    publishedDateTime: 2020-10-21T16:45:00Z
-    webUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him"
-    ampWebUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
+  - title: "Biden endorses Democratic challenger in Texas House district"
+    excerpt: "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas."
+    publishedDateTime: 2020-10-21T19:20:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg"
         width: 980
         height: 551
         isCached: true
@@ -205,20 +205,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden prepares for final debate as Obama hits the campaign trail"
-    excerpt: "Democratic nominee Joe Biden has no public events scheduled Wednesday as he prepares for Thursday's second and final presidential debate. Meanwhile, former President Barack Obama will make his first in-person campaign appearance on Biden's behalf in Philadelphia."
-    publishedDateTime: 2020-10-21T15:43:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-campaign-prepare-debate-obama-philadelphia/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/21/a429cbc0-5775-483b-87d7-24f0a697b41d/thumbnail/1200x630/e72afb088e1d6bd07f186c30bf1ae09c/cbsn-fusion-joe-biden-takes-break-from-campaign-trail-to-prepare-for-last-debate-before-election-thumbnail-571471-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Insiders at the NY Post are griping about the Hunter Biden coverage, highlighting a political divide in the tabloid newsroom"
     excerpt: "The publication of the story so close to the election quickly stirred questions and conspiracy theories among some Post rank-and-file."
     publishedDateTime: 2020-10-16T23:49:00Z
@@ -297,20 +283,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "The greatest risk for a Biden administration"
-    excerpt: "The greatest risk for a possible Biden administration and Democratic majority is not attacking these disasters aggressively enough. Big problems call for big solutions — and if the problems are not fixed,"
-    publishedDateTime: 2020-10-21T09:48:00Z
-    webUrl: "https://theweek.com/articles/944800/greatest-risk-biden-administration"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 55
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/biden_go_big.jpg?itok=0cFJOnsA"
-        width: 1260
-        height: 560
-        isCached: true
   - title: "Twitter erupts over Sam Elliott TV ad for Joe Biden during World Series"
     excerpt: "Actor Sam Elliott lent his voice to a Joe Biden campaign video that aired during the World Series Tuesday and became a Twitter magnet. See the ad and responses to"
     publishedDateTime: 2020-10-21T03:45:00Z
@@ -325,17 +297,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Charlie Baker Reportedly Under Consideration For Potential Joe Biden Cabinet Position"
-    excerpt: "Massachusetts Republican Gov. Charlie Baker is reportedly being considered for a spot in a potential Joe Biden cabinet."
-    publishedDateTime: 2020-10-21T01:11:00Z
-    webUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/"
-    ampWebUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
-    type: article
-    provider:
-      name: CBS Boston
-      domain: cbslocal.com
-    quality: 48
   - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
     excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
     publishedDateTime: 2020-10-20T00:32:00Z

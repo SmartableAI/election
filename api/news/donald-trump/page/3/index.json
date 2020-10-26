@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-19-supreme-court-to-review-trumps-remain-in-mexico-policy.md",
-      "title": "Supreme Court to review Trump's 'Remain in Mexico' policy",
-      "excerpt": "The Supreme Court is agreeing to review a Trump administration policy that makes asylum-seekers wait in Mexico for U.S. court hearings",
+      "path": "_news/2020-10-19-trumps-campaign-is-despondent-as-he-keeps-reusing-strategies-which-worked-against-hillary-clinton-but-arent-landing-on-joe-biden-reports-say.md",
+      "title": "Trump's campaign is despondent as he keeps reusing strategies which worked against Hillary Clinton but aren't landing on Joe Biden, reports say",
+      "excerpt": "The New York Times and The Associated Press reported that Trump's team worry that he has failed to adapt his strategy to his opponent.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573",
+      "webUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 234,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_baedd00b2d3c4ea3a5162698b8a957e7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://i.insider.com/5f8d4e0bc21cfb0019468ac4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573",
-      "publishedDateTime": "2020-10-19T06:55:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp",
+      "publishedDateTime": "2020-10-19T03:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Donald Trump",
+        "Joe Biden"
       ]
     },
     {
@@ -210,15 +211,15 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-coronavirus-updates-trump-pelosi-mcconnell-face-deadline-for-stimulus-deal-sturgis-rally-linked-to-cases.md",
-      "title": "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases",
-      "excerpt": "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news.",
+      "path": "_news/2020-10-19-coronavirus-updates-donald-trump-nancy-pelosi-mitch-mcconnell-face-stimulus-deal-deadline-sturgis-rally-linked-to-cases-219k-us-deaths.md",
+      "title": "Coronavirus updates: Donald Trump, Nancy Pelosi, Mitch McConnell face stimulus deal deadline; Sturgis rally linked to cases; 219K US deaths",
+      "excerpt": "Monday talks could determine the fate of a stimulus package President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest news.",
       "sourceUrl": null,
       "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
       "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -234,7 +235,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.usatoday.com/amp/3695793001",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001",
-      "publishedDateTime": "2020-10-18T12:43:00-07:00",
+      "publishedDateTime": "2020-10-18T16:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -262,21 +263,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-18-donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things.md",
-      "title": "Donald Trump Jr. says dad’s ‘next move’ is to ‘break up’ FBI: ‘He has to get rid of these things’",
-      "excerpt": "Donald Trump Jr. on Sunday called on his father to “break up” the FBI if he wins a second term. During an interview on Fox News, host Maria Bartiromo asked the president’s son what his father would do if the FBI does not do his bidding by smearing the son of Democratic nominee Joe Biden",
+      "path": "_news/2020-10-19-trump-attends-church-service-in-las-vegas.md",
+      "title": "Trump attends church service in Las Vegas",
+      "excerpt": "U.S. President Donald Trump made a rare visit to church Sunday as he and Democratic rival Joe Biden campaigned across the country from one another. (Oct. 18)",
       "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/",
-      "originalUrl": "https://www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/",
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/VID_20201018_10.52.09-0001-794x430.jpg",
-          "width": 794,
-          "height": 430,
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/210c8f2c-cf3c-46f1-803f-5fbfcb0902fc_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -284,16 +285,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/amp/",
-      "publishedDateTime": "2020-10-18T09:19:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T12:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -374,7 +375,7 @@
       "originalUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1041,58 +1042,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-trump-didnt-deny-new-york-times-report-that-claims-hes-400-million-debt-when-pressed-during-town-hall.md",
-      "title": "Trump didn't deny New York Times report that claims hes $400 million debt when pressed during town hall",
-      "excerpt": "\"What I'm saying is that it's a tiny percentage of my net worth... The amount of money — $400 million, is a peanut,\" Trump said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8916f1d260780019341bf5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp",
-      "publishedDateTime": "2020-10-15T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-16-donald-trump-jr-and-special-guest-to-visit-volusia-saturday.md",
       "title": "Donald Trump Jr. and 'special guest' to visit Volusia Saturday",
       "excerpt": "Donald Trump Jr., son of the president, will headline a Trump campaign rally Saturday in Volusia County that's expected to attract thousands of supporters. The event also promises a \"special guest.\" The \"Fighting Against Socialism Bus Tour\" is expected to arrive at the 2A Ranch,",
@@ -1248,7 +1197,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 346,
+      "heat": 386,
       "tags": null,
       "images": [
         {
@@ -1279,6 +1228,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat.md",
+      "title": "WATCH: Trump Rally Crowd Boos Dr. Fauci as President Calls Him a ‘Nice Guy,’ Then Trashes Him as ‘A Democrat’",
+      "excerpt": "President Donald Trump supporters erupted into boos at his Thursday rally after the president called Dr. Anthony Fauci a \"nice guy\" before trashing him as \"a Democrat.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/",
+      "originalUrl": "https://www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mediaite.com/wp-content/uploads/2020/10/Outnumbered-Overtime-With-Harris-Faulkner-01_54_30-PM-1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/amp/",
+      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/amp/",
+      "publishedDateTime": "2020-10-15T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mediaite",
+        "domain": "mediaite.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1453,21 +1445,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-trump-tries-to-shore-up-support-from-big-business-iowans.md",
-      "title": "Trump tries to shore up support from big business, Iowans",
-      "excerpt": "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa",
+      "path": "_news/2020-10-15-melania-trump-said-she-chose-to-go-a-more-natural-route-relying-on-vitamins-and-healthy-food-to-treat-her-covid-19.md",
+      "title": "Melania Trump said she 'chose to go a more natural route,' relying on 'vitamins and healthy food' to treat her COVID-19",
+      "excerpt": "The First Lady didn't specify the supplements she used in her \"natural route\" to treat the coronavirus. Here's what we know about vitamins and COVID.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
+      "webUrl": "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10",
+      "originalUrl": "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_d47b702268724e7b9f1ab4a4522bab57_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://i.insider.com/5f7bc7b2282c500018c78bd1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1475,16 +1467,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
-      "publishedDateTime": "2020-10-14T18:38:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp",
+      "publishedDateTime": "2020-10-14T23:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

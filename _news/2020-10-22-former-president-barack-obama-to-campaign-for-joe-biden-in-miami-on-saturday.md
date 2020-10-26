@@ -53,22 +53,6 @@ related:
         width: 646
         height: 363
         isCached: true
-  - title: "Moments from 60 Minutes' interview with Joe Biden"
-    excerpt: "Newsworthy moments from the Democratic presidential nominee's talk with Norah O'Donnell ahead of the 2020 election."
-    publishedDateTime: 2020-10-26T00:45:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-60-minutes-interview-highlights-2020-10-25/?ftag=CNM-00-10aab0g"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-60-minutes-interview-highlights-2020-10-25/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-60-minutes-interview-highlights-2020-10-25/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/25/0e9b2773-d547-4792-a3dc-e56411115ade/thumbnail/1200x630/315a7c68a409584441e46781988478a6/bidenotarticle0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden reiterates in Philadelphia town hall that he does not want to ban fracking"
     excerpt: "Democratic presidential contender and former Vice President Joe Biden on Thursday again said he won't ban fracking"
     publishedDateTime: 2020-10-16T02:54:00Z
@@ -101,6 +85,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "'Black lives matter': Navy SEAL who oversaw bin Laden raid says he voted for Joe Biden"
+    excerpt: "The retired Navy SEAL did not specifically name President Trump, but ended the op-ed by saying \"I voted for Joe Biden.\""
+    publishedDateTime: 2020-10-21T05:12:00Z
+    webUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5d07f57cf2f4796a1323eb05?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign"
     excerpt: "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,"
     publishedDateTime: 2020-10-15T21:00:00Z
@@ -130,6 +130,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/7da6feff-35ad-459e-a4f3-719d800900f6/thumbnail/1200x630/0ee680c81d086467d3596858c2b98876/cbsn-fusion-democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall-thumbnail-567096-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "North America’s Building Trades Unions Issue Formal Endorsement of Joe Biden for President"
+    excerpt: "Today, North America’s Building Trades Unions (NABTU) formally endorsed former Vice President Joe Biden and Senator Kamala Harris for President and Vice President of the United States. The organization issued the following statement from NABTU President Sean McGarvey: “North America’s Building Trades Unions are proud to endorse former Vice President Joe Biden for President of the United States."
+    publishedDateTime: 2020-10-23T17:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/joe-biden-business-building-construction-construction-and-engineering-industrial-products-and-services-dbfaad2cabd003fffb18a350f7b64888"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 95
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Barack Obama holds first in-person rally for Joe Biden Wednesday"
     excerpt: "Obama will be speaking to a crowd at a drive-in rally in Philadelphia, where supporters will listen to him over the radio inside their cars."
@@ -163,22 +177,6 @@ related:
         width: 1700
         height: 1133
         isCached: true
-  - title: "3 Important Social Security Changes That Joe Biden Wants to Make"
-    excerpt: "The Democratic presidential candidate has big plans for Social Security. Here are a few key points all voters should know about."
-    publishedDateTime: 2020-10-24T11:36:00Z
-    webUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
-    ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/a/71/a7186a1d-b66f-5ada-b123-fd3c09c16eb0/5f941b810bbe1.image.jpg"
-        width: 700
-        height: 465
-        isCached: true
   - title: "Barack Obama Disses Donald Trump, Waka Flocka Thinks Trump Is A Better President"
     excerpt: "The rapper weighed in with his opinion and people can't stop talking about it. Former President Barack Obama seemed as if he was having a grand time throwing jabs at President Donald Trump. Obama spoke at a drive-in rally for former Vice President Joe Biden and his running mate Kamala Harris and"
     publishedDateTime: 2020-10-22T06:25:00Z
@@ -211,22 +209,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Why Florida’s Treasure Coast could back Joe Biden but elect a Republican to Congress"
-    excerpt: "While Florida’s Treasure Coast backed Donald Trump in 2016, four years later Joe Biden has a chance to flip it. But the partisan dynamics at the top of the ticket in what was once Florida’s most competitive congressional district aren’t likely to topple incumbent Republican Rep."
-    publishedDateTime: 2020-10-23T19:27:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246650928.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246650928.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246650928.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c7732d23-e2ae-4dbb-b1fc-f59e3e74be61/f2e1bfc2-be57-4900-b234-0d0dbced69fd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Obama tells south Florida not to fall for 'okey-doke:' 'Joe Biden is not a socialist'"
     excerpt: "Former President Barack Obama told Floridians on Saturday not to fall for the “okey-doke” from Republicans who say that Joseph R. Biden is a secret communist or socialist."
     publishedDateTime: 2020-10-24T21:19:00Z
@@ -243,22 +225,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "This Bay of Pigs vet in Miami is all in for Joe Biden, rejects GOP’s socialist attacks | Opinion"
-    excerpt: "But finally, somebody with credibility and authority — a Bay of Pigs veteran, no less — is addressing the most damaging accusation by the Donald Trump campaign and the Florida GOP against Joe Biden and down-ballot Democrats."
-    publishedDateTime: 2020-10-20T19:14:00Z
-    webUrl: "https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article246563553.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article246563553.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article246563553.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 62
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/768a4e71-5e14-4b0c-ba99-683904aba9e4/9e7359bc-5471-40fb-bf91-0c8183522592/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
     excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"
     publishedDateTime: 2020-10-18T18:11:00Z
@@ -270,20 +236,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
-  - title: "Bitcoin Proponents Bemoan Joe Biden's Proposed Capital Gains Hike"
-    excerpt: "A number of bitcoin proponents have been discussing the capital gains tax Joe Biden plans to invoke if he wins the American presidency."
-    publishedDateTime: 2020-10-20T21:18:00Z
-    webUrl: "https://news.bitcoin.com/bitcoin-proponents-bemoan-joe-bidens-proposed-capital-gains-hike/"
-    type: article
-    provider:
-      name: Bitcoin.com
-      domain: bitcoin.com
-    quality: 55
-    images:
-      - url: "https://news.bitcoin.com/wp-content/uploads/2020/10/bitcoin-proponents-bemoan-joe-bidens-proposed-capital-gains-hike.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Waka Flocka Flame Thinks Donald Trump Is A Better President Than Barack Obama"
     excerpt: "Over the last few weeks, Hip Hop artists have revealed their support for incumbent President Donald Trump over former Vice President Joe Biden. For example, 50 Cent suggested having lower taxes for wealthy people is more important than being concerned about Trump’s racist rhetoric and policies."
     publishedDateTime: 2020-10-22T11:04:00Z
@@ -297,20 +249,6 @@ related:
       - url: "https://s34449.pcdn.co/wp-content/uploads/2020/09/waka-flocka-1.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
-    excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
-    publishedDateTime: 2020-10-16T13:14:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/joe-biden-tackles-tough-issues-abc-town-hall/3676337001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 47
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/87bcbe73-aab7-4ac2-9750-967703e56d5a-VPC_BIDEN_TOWN_HALL_WRAP_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Former President Barack Obama Fires Up Crowd At South Philadelphia Rally For Joe Biden"
     excerpt: "Striking a personal tone, the former president implored voters to support the Biden-Harris ticket, calling this the most important election in our lifetime."

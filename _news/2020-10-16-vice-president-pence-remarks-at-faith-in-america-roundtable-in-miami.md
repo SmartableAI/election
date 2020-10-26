@@ -51,17 +51,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Pence to host ‘Make America Great Again!’ event in NH"
-    excerpt: "GILFORD, N.H. (WHDH) - Vice President Mike Pence will be hosting a “Make America Great Again!” event in Gilford, New Hampshire on Tuesday. This event comes as President Donald Trump and Pence ..."
-    publishedDateTime: 2020-09-22T09:44:00Z
-    webUrl: "https://whdh.com/news/pence-to-host-make-america-great-again-event-in-nh/"
-    ampWebUrl: "https://whdh.com/news/pence-to-host-make-america-great-again-event-in-nh/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/pence-to-host-make-america-great-again-event-in-nh/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 55
 
 secured: "Dwd3GIBZLUN0GysghHpzC4NA++0ULns0ItcCtiJ5vPi9LicdhkIRpVgPLsAWkMgz7I4AUBf1RNujncgf6okax7ziLlxuSdqsKif1WsMPrfFcRfWSyB/uqkAXV2T2ng/C3f5lArO0a/kjkrevaQx3khYGNQsM8SneutT0Kz6MM8TwQubW7f288xvzKOaS0ZI/gE9ROvbybOo9sGqwJw6bYBk4PO5Zk73n/qj2/Z2LHQ7ohDoecGx6IrKf2wxCpIUsAVTinolb9Os6/2k1EQuJJ8vTz7jkHhG/crsXVpP+s9lJfOPKjmzcImMfMbA06Ua7LVuDlx1leNXPsayLbByDLfdqhK/ywForuFeLKbYoGRgBsh2ay+4fqDYxqz3UHkqoOwX4RAS+/v5S5aCI+c9sxZDICTeWizQ4xzZHAU8Ny93HxeEMreMyj/VRqIslbYZKXck//qtfxRM9Wfm/JnWd9pkIFaT3aJWt1Br+eWkDThG2rwDZaK7oJBjCht1EIWWZmFiGW1sEOaI65uVEXoIGSQ==;7EqFv77uVJ13PWE1EDgp/g=="
 ---

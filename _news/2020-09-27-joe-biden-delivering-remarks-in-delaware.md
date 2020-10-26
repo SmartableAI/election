@@ -45,21 +45,35 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Democrat Biden and his allies had $466 million at end of August - official"
-    excerpt: "Democratic U.S. presidential nominee Joe Biden and his party allies increased their cash holdings to $466 million at the end of August, a campaign official said on Sunday, as President Donald Trump's campaign reported that its cash pile was little changed from a month"
-    publishedDateTime: 2020-09-21T02:36:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-fundraising-idUKKCN26C00P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN26C00P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26C00P"
+  - title: "Joe Biden town hall: Fact-checking the Democratic nominee's answers"
+    excerpt: "Former Vice President Joe Biden answered questions from voters in a CNN town hall held in Moosic, Pennsylvania."
+    publishedDateTime: 2020-09-18T01:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-covid-vaccine-campaign-01-rt-llr-200915_1600274203316_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden: Next president should fill Ginsburg's seat"
+    excerpt: "Next president should fill Ginsburg's seat. Posted . Democratic presidential nominee Joe Biden said on Friday that \"there is no doubt\" that the next U.S. Supreme C"
+    publishedDateTime: 2020-09-19T04:15:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVCW81EQN"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 123
+    quality: 105
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200921&t=2&i=1534233505&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8K00A"
-        width: 817
-        height: 545
+      - url: "https://static.reuters.com/resources/r/?d=20200919&i=OVCW81EQN&r=OVCW81EQN&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Joe Biden to return to Wisconsin for a Monday stop in Manitowoc"
     excerpt: "Democratic presidential nominee Joe Biden will be back in Wisconsin on Monday for a campaign stop in Manitowoc. In what is shaping up to be a busy political week in Wisconsin, Biden's visit will be followed by Vice President Mike Pence,"
@@ -77,21 +91,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden and Vice President Mike Pence Greet Each Other at 9/11 Ceremony -- See More Celebrity Tributes"
-    excerpt: "Joe Biden and Vice President Mike Pence respectfully greeted each other while attending a special 9/11 memorial in New York City on Friday. The Democratic presidential candidate and Pence were photographed bumping elbows and wearing masks ahead of the ceremony at Ground Zero."
-    publishedDateTime: 2020-09-12T02:32:00Z
-    webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity-tributes/603-686f52cb-a850-4458-8e43-7380a15c3404"
-    ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity-tributes/603-686f52cb-a850-4458-8e43-7380a15c3404"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity-tributes/603-686f52cb-a850-4458-8e43-7380a15c3404"
+  - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
+    excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"
+    publishedDateTime: 2020-09-19T10:09:00Z
+    webUrl: "https://www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html"
+    ampWebUrl: "https://www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html?outputType=amp"
     type: article
     provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 73
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 69
     images:
-      - url: "https://media.kvue.com/assets/ETONLINE/images/42592d6f-f4a5-45c1-b838-83fc931249bf/42592d6f-f4a5-45c1-b838-83fc931249bf_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://www.inquirer.com/resizer/BUfzokt_CBr0lfSmbwm9bgLHhNA=/1200x0/center/middle/www.inquirer.com/resizer/fdiMM4odTJuFhdJKxXPYm4RjFQI=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/ZK3RRB2DYJDXTK5GDV376BPE7E.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Joe Biden will visit Charlotte Wednesday in his first visit to NC since spring | Charlotte Observer"
     excerpt: "Democratic presidential candidate Joe Biden will visit Charlotte Wednesday, marking his first trip to North Carolina since the primary. Details of the former vice president’s campaign stop were unavailable Monday."
@@ -118,10 +132,19 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Joe Biden Campaign Remarks in Wisconsin"
-    excerpt: "Democratic presidential nominee Joe Biden delivered remarks to the “Moral Monday Mass Assembly” virtual event held by… Vice President Pence delivered remarks on the economy and trade at Ripon College in Ripon,"
-    publishedDateTime: 2020-09-21T13:47:00Z
-    webUrl: "https://www.c-span.org/video/?476047-1/joe-biden-campaign-remarks-wisconsin"
+  - title: "Joe Biden Remarks on Climate Change and the California Wildfires"
+    excerpt: "Democratic presidential candidate Joe Biden delivered remarks on the grounds of the Delaware Museum of Natural History in Wilmington, DE on climate change and a series of catastrophic wildfires affecting California communities."
+    publishedDateTime: 2020-09-14T14:05:00Z
+    webUrl: "https://www.c-span.org/event/?475755/campaign-2020-joe-biden-remarks-climate-change-california-wildfires"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Delivers Remarks in Philadelphia"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on the next steps in replacing Supreme Court Justice Ruth Bader Ginsburg, whose death was announced two days prior. Speaking from Philadelphia's National Constitution Center,"
+    publishedDateTime: 2020-09-20T15:54:00Z
+    webUrl: "https://www.c-span.org/video/?476046-1/joe-biden-speaks-replacing-justice-ruth-bader-ginsburg"
     type: article
     provider:
       name: C-SPAN

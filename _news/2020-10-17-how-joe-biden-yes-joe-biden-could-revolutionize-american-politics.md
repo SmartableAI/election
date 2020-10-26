@@ -59,102 +59,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "How come we never talk about Joe Biden’s health care plan?"
-    excerpt: "We're preoccupied with Trump's attack on Obamacare, but Biden's plan could produce the most intense fight of his presidency."
-    publishedDateTime: 2020-10-22T19:31:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NFPHNGAROEI6XISYMFFM6K4QNU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "More than 300 military family members endorse Biden"
-    excerpt: "More than 300 military family members are endorsing Democratic nominee Joe Biden for president. In an open letter released Friday, the spouses, parents, siblings and children of service members endorsed Biden as a “man of integrity with a lifelong record of public service and leadership."
-    publishedDateTime: 2020-10-23T09:38:00Z
-    webUrl: "https://thehill.com/policy/defense/522366-more-than-300-military-family-members-endorse-biden"
-    ampWebUrl: "https://thehill.com/policy/defense/522366-more-than-300-military-family-members-endorse-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/522366-more-than-300-military-family-members-endorse-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Progressives blast Biden plan to form panel on Supreme Court reform"
-    excerpt: "Progressive groups are blasting Democratic nominee Joe Biden’s plan to form a commission to study judiciary reforms and whether justices should be added to the Supreme Court."
-    publishedDateTime: 2020-10-22T19:37:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden gets late boost with key union endorsement"
-    excerpt: "Democratic presidential nominee Joe Biden got a late boost in the White House race Friday when he scored the endorsement of a prominent alliance of construction unions."
-    publishedDateTime: 2020-10-23T21:31:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522515-biden-gets-late-boost-with-key-union-endorsement"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522515-biden-gets-late-boost-with-key-union-endorsement?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522515-biden-gets-late-boost-with-key-union-endorsement?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe3_10222020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden, squeezed on the Supreme Court, promises a commission to consider changes"
-    excerpt: "Joe Biden tells CBS’s “60 Minutes” that he would create a bipartisan commission to tackle a system that’s “out of whack.” He hopes to thread the needle between liberals demanding more justices and swing voters who show little interest in that idea."
-    publishedDateTime: 2020-10-23T01:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RZCQ57AUOUI6XOSC5RVFQCBW5U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Barr should appoint a special counsel to investigate the Hunter Biden allegations"
-    excerpt: "White House Chief of Staff Mark Meadows confirmed to me Wednesday morning that he has discussed the need for such a special counsel with President Trump."
-    publishedDateTime: 2020-10-22T15:28:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/barr-should-appoint-special-counsel-investigate-hunter-biden-allegations/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/barr-should-appoint-special-counsel-investigate-hunter-biden-allegations/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/barr-should-appoint-special-counsel-investigate-hunter-biden-allegations/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WNDO7AQOQQI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "How would Joe Biden handle a Supreme Court dangerously out of touch with the people?"
     excerpt: "The pertinent question is not whether Biden believes in court packing but if or how he'd correct for some 40 years of blatant conservative activism."
     publishedDateTime: 2020-10-15T10:14:00Z
@@ -228,38 +132,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "CAL THOMAS: Can Joe Biden be trusted?"
-    excerpt: "It was President Richard Nixon who said in the midst of the enveloping Watergate scandal: “People have got to know whether or not their president is a crook. Well, I’m"
-    publishedDateTime: 2020-10-21T06:00:00Z
-    webUrl: "https://starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.html"
-    ampWebUrl: "https://starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.amp.html"
-    cdnAmpWebUrl: "https://starherald-com.cdn.ampproject.org/c/s/starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.amp.html"
-    type: article
-    provider:
-      name: Scottsbluff Star Herald
-      domain: starherald.com
-    quality: 75
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/starherald.com/content/tncms/assets/v3/editorial/c/4c/c4c50070-b312-11e8-a5a2-574bfb12c724/5b9322aedfd4a.image.jpg"
-        width: 900
-        height: 1217
-        isCached: true
-  - title: "Would Joe Biden Transition To Clean Energy Destroy The Oil Industry?"
-    excerpt: "Biden's energy plan calls for net-zero emissions by 2050, saying the oil industry has to go because of pollution Biden denies he would eliminate fracking, an issue in the key swing state of Pennsylvania The oil industry lobbying group API calls Biden's proposed leasing ban \"extreme\" President Donald Trump and the oil industry tried to gin up fears of a Democratic victory in energy producing swing states with Election Day little more than a week away,"
-    publishedDateTime: 2020-10-23T17:06:00Z
-    webUrl: "https://www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445"
-    ampWebUrl: "https://www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/01/the-decision-to-halt-fracking-comes-weeks-before.jpg"
-        width: 1024
-        height: 611
-        isCached: true
   - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
     excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
     publishedDateTime: 2020-10-15T11:07:00Z
@@ -322,29 +194,6 @@ related:
         width: 1122
         height: 748
         isCached: true
-  - title: "A Fox News reporter just debunked the latest conservative effort to smear Joe Biden"
-    excerpt: "The latest conservative effort to smear Democratic presidential nominee has now been debunked by a reporter at Fox News. On Thursday night, President Donald Trump invited Tony Bobulinski, an ex-business associate of Hunter Biden,"
-    publishedDateTime: 2020-10-23T16:18:00Z
-    webUrl: "https://www.salon.com/2020/10/23/a-fox-news-reporter-just-debunked-the-latest-conservative-effort-to-smear-joe-biden-_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 49
-    images:
-      - url: "https://media.salon.com/2020/07/fox-news-hosts-0714201.jpg"
-        width: 846
-        height: 571
-        isCached: true
-  - title: "NY Post: Ex-Biden Business Partner Says Joe Was In On Family Deal 'to Make Millions' From China"
-    excerpt: "A former business partner of Hunter Biden issued a statement to The New York Post overnight, asserting that the Biden family, including Joe, Hunter and Joe's brother James, \"aggressively leveraged the Biden family name to make millions of dollars from foreign entities even though some were from communist controlled China."
-    publishedDateTime: 2020-10-22T09:43:00Z
-    webUrl: "https://www.cnsnews.com/article/national/susan-jones/ny-post-ex-biden-business-partner-says-joe-was-family-deal-make"
-    type: article
-    provider:
-      name: CNSNews.com
-      domain: cnsnews.com
-    quality: 23
 
 secured: "MFCfe3BUqbpdH66DWh9wrW7Bx7BspJg0aVqpldW34001SRj016zp0Kmhe0qvNc1pWNYwgqkiFoQx7Ejb0FqMb16IOobZx5ABq5m7FzICLZbUx5WheAOh2JrFKSdEPt6p+fv8IMbkL8J9ntw7FSu/q0i9qytGTZCRB0g33m5SLAqceRHKoLiFBp0b9t/c1f66/mX8DKs1lHRvI0udq6UyKAakVYkynD74nn877NI8XPrCOF69ktUv9KlZKdRJPYYLil9AmfERSF4D/IT6k2Ip+ldkk/3h+tYvhM0B1gI8ZDSbl3oEJ1PWOfe7cw/tsBiOVzR9yLhLdoLAngyzzSIvwvZJgLESfQGbeqzHpfmPw9TT5aeVbJ5IntUKmqw5cZ6p/VDdGhD5xsro8Ro5C6tJ3e9dsVQmUsIRjwQuCkL3pVBcCh+NyeEozJjT9NRP79q0O3HxKKmA115Ui1cBLTAMIlnxIpPhmqY5eBQ9NuxyJuOAeA9mw2lkXoNZ+51/LXE9dxkpRXm5u3IaJUaF5/GzKg==;Yut/1R8Q02JPMeXCV2tVdg=="
 ---

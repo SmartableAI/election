@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-cr
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/amp/"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,98 @@ images:
     width: 736
     height: 430
     isCached: true
+
+related:
+  - title: "Trump Calls for Big Stimulus Proposal, Contradicting GOP Leaders"
+    excerpt: "President Donald Trump told Congress to “Go big or go home!!” on a coronavirus stimulus package, directly contradicting Senate Majority Leader Mitch McConnell’s plan to put a narrow bill on the Senate floor next week."
+    publishedDateTime: 2020-10-13T15:31:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "What Trump's comments about ceasing stimulus-package negotiations mean for future $1,200 payments — in one minute or less"
+    excerpt: "Confused on all the news around the stimulus talks and Trump's tweets? Catch up on what it all means for the chances of another stimulus check here."
+    publishedDateTime: 2020-10-08T09:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5f63d42757b7da001ee125e3?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
+    excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
+    publishedDateTime: 2020-10-07T02:35:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 67
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "‘Where are the surrogates?’ Fox News corners White House aide on GOP lawmakers refusing to campaign for Trump"
+    excerpt: "White House Communications Director Alyssa Farah on Wednesday faced questions from Fox News about why Republican lawmakers have been absent from President Donald Trump’s re-election campaign. “If you look at the polls,"
+    publishedDateTime: 2020-10-14T16:00:00Z
+    webUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 56
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Kilmeade-Farah-2-787x430.jpg"
+        width: 787
+        height: 430
+        isCached: true
+  - title: "Trump Mulls Higher US Stimulus Offer As Mnuchin Downplays Deal"
+    excerpt: "Getting a new stimulus spending package approved by Congress is unlikely before the November election, US Treasury Secretary Steven Mnuchin said Thursday, even as his boss President Donald Trump indicated he may raise his offer amid an impasse with the Democrats."
+    publishedDateTime: 2020-10-15T21:11:00Z
+    webUrl: "https://www.ibtimes.com/trump-mulls-higher-us-stimulus-offer-mnuchin-downplays-deal-3062833"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/15/us-treasury-secretary-steven-mnuchin-has-spent-weeks-AFP_8T74F9.jpg"
+        width: 1024
+        height: 673
+        isCached: true
+  - title: "New Trump Golf Course In Scotland Gets Go-head Despite Environmental Fears"
+    excerpt: "President Donald Trump's company has been given permission by Scottish authorities to build a second golf course in northeast Scotland despite local objections. Plans for a new 18-hole golf course have been approved by Aberdeenshire council."
+    publishedDateTime: 2020-10-17T20:34:00Z
+    webUrl: "https://www.ibtimes.com/new-trump-golf-course-scotland-gets-go-head-despite-environmental-fears-3063804"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/president-donald-trump-pictured-during-construction-of-his.jpg"
+        width: 1024
+        height: 689
+        isCached: true
 
 secured: "NRz6m0JlO0wh5GjZUfEr6i1X4NXXSDUec+k9Rl44mE+IlXLPa+bazG5s1dlUn+B7dOX2vYcck7r1hugSU+Jhidmnyy5KTnBZP3vOeeS2tW0W2g+PuYdUqLct2BoLZN4uHZfS4/99KREUNFEZaHBo8yR2b3mBqJCOK+8fcNdwAcF9wuuYhAtlMKeAtrnxRYTzcwMRGJX7HBNf0i2J3IZQBQP/oAKI7frR8nWU2S7SMB/4tXTUXBb9IKLOPDJmTxWZuv2SHBtq3tIE+Awxn5tzSvFVr7cDyZH2y2+rCM15f+TqqB9l23EeSEmSXWr8rNQQhWGbxla13tpvssa/hErV96hAAg6Vq9WimsFRG9CHD9Y=;LUjTTRNUqlw5EAlCNZu9fg=="
 ---

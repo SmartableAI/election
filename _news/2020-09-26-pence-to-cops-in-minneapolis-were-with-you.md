@@ -36,54 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Mike Pence and Ivanka Trump bring law-and-order tour to Minneapolis"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law"
-    publishedDateTime: 2020-09-23T19:14:00Z
-    webUrl: "https://www.twincities.com/2020/09/23/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/"
-    ampWebUrl: "https://www.twincities.com/2020/09/23/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
-    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/09/23/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
-    type: article
-    provider:
-      name: TwinCities.com
-      domain: twincities.com
-    quality: 90
-    images:
-      - url: "https://www.twincities.com/wp-content/uploads/2020/09/AP20267052626761.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Mike Pence and Ivanka Trump visit salon damaged in Minneapolis unrest"
-    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd’s death, part"
-    publishedDateTime: 2020-09-25T00:38:00Z
-    webUrl: "https://www.twincities.com/2020/09/24/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest/"
-    ampWebUrl: "https://www.twincities.com/2020/09/24/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest/amp/"
-    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/09/24/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest/amp/"
-    type: article
-    provider:
-      name: TwinCities.com
-      domain: twincities.com
-    quality: 90
-    images:
-      - url: "https://www.twincities.com/wp-content/uploads/2020/09/AP20268792125378.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Pence, Ivanka Trump Visit Salon Damaged By Minneapolis Unrest"
-    excerpt: "The stop was part of a campaign visit aimed at driving home President Trump's law-and-order message in a key swing state."
-    publishedDateTime: 2020-09-25T19:23:00Z
-    webUrl: "https://patch.com/minnesota/southwestminneapolis/pence-ivanka-trump-visit-salon-damaged-minneapolis-unrest"
-    ampWebUrl: "https://patch.com/minnesota/southwestminneapolis/amp/28982475/pence-ivanka-trump-visit-salon-damaged-by-minneapolis-unrest"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/southwestminneapolis/amp/28982475/pence-ivanka-trump-visit-salon-damaged-by-minneapolis-unrest"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 90
-    images:
-      - url: "https://patch.com/img/cdn20/ap/22940811/20200925/102305/styles/patch_image/public/ap20267669718233___25102249030.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
   - title: "Pence and Ivanka Trump visit metro, pushing law-and-order message. Dems: What about the pandemic?"
     excerpt: "Vice President Mike Pence and Ivanka Trump swung through the metro Thursday with a law-and-order message, seeking to frame the civil unrest following George Floyd’s killing as most notably"
     publishedDateTime: 2020-09-25T01:23:00Z
@@ -116,20 +68,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Mike Pence, Ivanka Trump to bring law-and-order tour to Minneapolis"
-    excerpt: "MINNEAPOLIS — Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and ..."
-    publishedDateTime: 2020-09-23T22:34:00Z
-    webUrl: "https://www.stripes.com/mike-pence-ivanka-trump-to-bring-law-and-order-tour-to-minneapolis-1.646187"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 70
-    images:
-      - url: "https://www.stripes.com/polopoly_fs/1.646189.1600893434!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
-        width: 490
-        height: 327
-        isCached: true
   - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
     excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement"
     publishedDateTime: 2020-09-24T09:43:00Z
@@ -143,6 +81,20 @@ related:
       - url: "https://www.wsoctv.com/resizer/OfjKAtgntrfUZoAA-Ah1H6xylh8=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/Z6Y2IMATLM3FKG2DWL2WVOLAZE.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "President's daughter, Pence visit Minnesota"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order campaign message to Minneapolis today."
+    publishedDateTime: 2020-09-24T09:16:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/sep/24/presidents-daughter-pence-visit-minnesota/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/196197612_196196292-326a6878a6fb45c9ab801fb10bd30956_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
   - title: "Gov. Tim Walz calls out National Guard for Pence visit in Minneapolis"
     excerpt: "Gov. Tim Walz activated the Minnesota National Guard Thursday in anticipation of protests surrounding Vice President Mike Pence’s campaign stop in Minneapolis. “Out of an abundance of caution for the safety of Minnesotans,"
@@ -207,6 +159,20 @@ related:
       - url: "https://APPREMIUM.images.worldnow.com/images/19914411_G.jpg?lastEditedDate=1600872460000"
         width: 512
         height: 341
+        isCached: true
+  - title: "Vice President Mike Pence highlights Minneapolis destruction in wake of George Floyd's killing"
+    excerpt: "Vice President Mike Pence invited all the police officers in the audience to stand and be recognized with applause. Vice President Mike Pence and Ivanka Trump are holding a 'Cops for Trump' listening session in Minneapolis,"
+    publishedDateTime: 2020-09-25T03:57:00Z
+    webUrl: "https://www.startribune.com/pence-uses-visit-to-highlight-minneapolis-destruction-in-wake-of-george-floyd-s-killing/572523491/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 43
+    images:
+      - url: "https://stmedia.stimg.co/1600987531_19469741+2pence092520.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "aXUDSlnSH3fwMwbtrBAiAcw9FbVy3Mru/W8vsinPLBU5YuRX3lhIQnQ5apb3+dK8c6bh+tpQlYJsCLZA1ZWYHCHWa2b5I8dPeh2pYuOihhLsF6gkYy9LmEAw0uK+4NzYHugFlRopmxTsxNo6BV/QV0uaeahIJjAhAElLanDf/miGHPniP8Uig0EDZXIaTM5kONroe7QKrS9g25jPib116Dz8dwfT27bJ3ur97tB2pLdZ1IwIkEp1QrHvqXLtE+w4Vmd6qPg1ktqje07Vr2CQeFvGscJN9N1JRMN44q/BQikcrJ7dlDY+GnpE/94k2Z7w2q/Jkr5pko1EhU791vZ7aGJCpZYpCEm4oB4GgOTrcY0=;X0CXF5B2l27QnRg85hAMiA=="

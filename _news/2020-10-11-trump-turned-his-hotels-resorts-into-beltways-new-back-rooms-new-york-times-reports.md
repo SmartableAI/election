@@ -63,17 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump senior campaign adviser Parscale steps down after arrest"
-    excerpt: "U.S. President Donald Trump's former campaign manager Brad Parscale has stepped down from a senior role at the campaign after his arrest at his home in Florida, a campaign official said on Wednesday."
-    publishedDateTime: 2020-10-01T03:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-parscale-idUSKBN26M49C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M49C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M49C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
 
 secured: "6hrCdrAkKPwcUM/lwD4JSg5F0u+2WulTFrLjVr2RYBsnfUp3bz6fGZherFtqJs/NFs+cSPqf6lRhW14Tq+w7gWuXkZjqzPytSnjOXcncK1tmdiqJd9+x8gD/ZmRppgPEsraBtQu1x4L+CGPEFQ+ugYDVOLB/+4P9wdzcG2bmIxGC/EoSnV2XDA7TvnM9dhmB6yMVyEChbD6QWPamAdkkHgTycOGDkzPQvrPjVi6/ODC5cTRdzF/HIeYv7KhyARX7FbTALkMMR1nF+BBCqe38mPNCSDjZI0FMYHGQ2M+kffBMes1X/xHI3TKV2I0XRr9mOCqMATneu8ljUtTDm+ku+FRYWkCtGPMrDPD8JSo8XkU=;ENPA4ljuSIc7N+mSYcybUw=="
 ---

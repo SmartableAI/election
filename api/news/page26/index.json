@@ -2,6 +2,482 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-09-28-dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election.md",
+      "title": "Dwayne Johnson endorses Joe Biden and Kamala Harris for US presidential election",
+      "excerpt": "The Rock has posted his support on social media for the Democratic candidates, including an interview with both",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "originalUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 4340,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/724005ad4b55aec19d62a3d2e4a4fa66c1a05f16/0_446_720_432/master/720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7c431f8af56acdb0a2cd5ce2439ccf98",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "publishedDateTime": "2020-09-28T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-trump-taxes-california-wildfires-stanley-cup-5-things-to-know-monday.md",
+      "title": "Trump taxes, California wildfires, Stanley Cup: 5 things to know Monday",
+      "excerpt": "Questions about President Trump's taxes continue, California braces for more wildfires and more news to start your Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/09/28/trump-taxes-california-wildfires-stanley-cup-5-things-know-monday/3530752001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/09/28/trump-taxes-california-wildfires-stanley-cup-5-things-know-monday/3530752001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/28/USAT/59aff9ec-70a1-4434-b761-70d13b08116b-AFP_AFP_8QV4ZJ.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3530752001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3530752001",
+      "publishedDateTime": "2020-09-27T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-analysis-tax-bombshell-reveals-trumps-image-is-a-sham.md",
+      "title": "Analysis: Tax bombshell reveals Trump's image is a sham",
+      "excerpt": "It was the moment when Donald Trump's \"Art of the Deal\" fabulism, billionaire tycoon bluster and populist standard-bearing for forgotten Americans was revealed to be what it always looked like: a sham.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IxedFhXWNDQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IxedFhXWNDQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 615,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200927181158-02-trump-press-briefing-0927-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html",
+      "publishedDateTime": "2020-09-27T22:23:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-reports-former-donald-trump-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself.md",
+      "title": "Reports: Former Donald Trump campaign manager Brad Parscale hospitalized after threatening to harm himself",
+      "excerpt": "Multiple outlets reported former Donald Trump campaign manager Brad Parscale was taken to a hospital without incident after police were called.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/27/brad-parscale-donald-trump-florida-hospitalized/3557987001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/27/brad-parscale-donald-trump-florida-hospitalized/3557987001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/28/USAT/14a80ae8-91ab-40af-9e4e-33a0a81364af-AP19227844022730.jpg?auto=webp&crop=5258,2958,x0,y267&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3557987001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557987001",
+      "publishedDateTime": "2020-09-27T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-former-trump-campaign-manager-brad-parscale-hospitalized-following-reported-suicide-attempt.md",
+      "title": "Former Trump campaign manager Brad Parscale hospitalized following reported suicide attempt",
+      "excerpt": "President Donald Trump's former campaign manager Brad Parscale was hospitalized Sunday following reports of a suicide attempt at his Florida home, CNN has learned.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kFS_t63N4OQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kFS_t63N4OQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200430103423-02-brad-parscale-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/27/politics/brad-parscale-hospitalized/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/brad-parscale-hospitalized/index.html",
+      "publishedDateTime": "2020-09-27T18:50:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-trump-slams-medias-treatment-of-barretts-catholicism-i-thought-we-settled-this-with-jfk.md",
+      "title": "Trump slams media’s treatment of Barrett’s Catholicism: ‘I thought we settled this’ with JFK",
+      "excerpt": "President Donald Trump on Sunday took the media to task for going after the Catholicism of his Supreme Court justice pick, Amy Coney Barrett, saying he thought the matter had been put to rest with the election of President John F. Kennedy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rifGT98GjDk/trump-treatment-barretts-catholicism",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rifGT98GjDk/trump-treatment-barretts-catholicism",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20271781176125.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-treatment-barretts-catholicism.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-treatment-barretts-catholicism.amp",
+      "publishedDateTime": "2020-09-27T17:13:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-trump-continues-to-malign-mail-in-voting-says-dems-attacking-election-integrity.md",
+      "title": "Trump continues to malign mail-in voting; says Dems attacking 'election integrity'",
+      "excerpt": "President Trump continued on Sunday his attack on mail-in balloting and other alternative voting measures as the country enters the final month before this year’s presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zkAINlSBtfo/trump-mailgn-mail-voting-dems-attacking-election-integrity",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zkAINlSBtfo/trump-mailgn-mail-voting-dems-attacking-election-integrity",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp",
+      "publishedDateTime": "2020-09-27T17:00:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.md",
+      "title": "Despite what you heard, Joe Biden did not use a teleprompter on Telemundo",
+      "excerpt": "An image of a woman appears on the monitor's screen. “How can you guarantee this will not continue happening in our communities,” she asks. While answering the question, Joe Biden faces the monitor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
+      "originalUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OOVYMYK4TVDOZDJRTX3FWSMZXQ.jpg",
+          "width": 4923,
+          "height": 3282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
+      "publishedDateTime": "2020-09-27T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-trump-says-he-did-not-discuss-election-with-court-nominee-barrett.md",
+      "title": "Trump says he did not discuss election with court nominee Barrett",
+      "excerpt": "U.S. President Donald Trump said on Sunday he hopes his Supreme Court nominee Amy Coney Barrett is paying attention to the issue of mail-in ballot security but said he did not discuss the upcoming U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128",
+      "originalUrl": "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1460,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535128732&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0RE",
+          "width": 838,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26I128",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I128",
+      "publishedDateTime": "2020-09-27T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-trump-calls-new-york-times-report-that-he-avoid-paying-taxes-totally-made-up.md",
       "title": "Trump calls New York Times report that he avoid paying taxes 'totally made up'",
       "excerpt": "President Trump lambasted on Sunday a New York Times report that said he paid no federal income taxes in 10 of the past 15 years – calling the story “fake news” and arguing that he paid large sums of both federal and state taxes.",
@@ -66,7 +542,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -107,58 +583,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-joe-biden-makes-plea-to-gop-senators-to-take-a-step-back-from-the-brink-and-hold-off-on-amy-coney-barrett-vote.md",
-      "title": "Joe Biden makes plea to GOP Senators to 'take a step back from the brink' and hold off on Amy Coney Barrett vote",
-      "excerpt": "The Democratic presidential nominee urged the GOP to \"take off the blinders of politics for just one critical moment\" in pushing a Supreme Court vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9",
-      "originalUrl": "https://www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f70c83b74fe5b0018a8dae8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9?amp",
-      "publishedDateTime": "2020-09-27T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -553,58 +977,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-27-election-2020-today-trump-sows-voting-doubt-biden-lays-low.md",
-      "title": "Election 2020 Today: Trump sows voting doubt; Biden lays low",
-      "excerpt": "President Donald Trump’s refusal to commit to a peaceful transfer of power if he loses drew swift blowback from both parties in Congress",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-sows-voting-doubt-biden-73237381",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-sows-voting-doubt-biden-73237381",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 5835,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-sows-voting-doubt-biden-73237381",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-sows-voting-doubt-biden-73237381",
-      "publishedDateTime": "2020-09-26T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-27-live-updates-presidential-election-2020-biden-vs-trump.md",
       "title": "Live updates: presidential election 2020: Biden vs. Trump",
       "excerpt": "The campaign trail is starting to heat up between President Trump and Joe Biden, a week before the first presidential debate is scheduled to take place in Cleveland and just six weeks before Election Day. ",
@@ -704,58 +1076,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-27-thousands-march-in-washington-to-pray-and-show-trump-support.md",
-      "title": "Thousands march in Washington to pray and show Trump support",
-      "excerpt": "Thousands of people have packed the National Mall in downtown Washington to pray and show their support for President Donald Trump",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_a3581d4df1d94cf4a23bbeb57c97e7f4_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550",
-      "publishedDateTime": "2020-09-26T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-27-former-pence-aide-says-staffers-discussed-trumps-potential-refusal-to-leave-the-white-house.md",
       "title": "Former Pence aide says staffers discussed Trumps potential refusal to leave the White House",
       "excerpt": "A former White House aide said Friday that staffers discussed the possibility that President Trump would refuse to peacefully leave his post and transfer power should he lose the Nov. 3 election.",
@@ -810,6 +1130,49 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-joe-biden-amy-coney-barrett-is-a-threat-to-obamacare.md",
+      "title": "Joe Biden: Amy Coney Barrett is a threat to Obamacare",
+      "excerpt": "Joseph R. Biden warned Saturday Obamacare is doomed if Amy Coney Barrett wins confirmation to the Supreme Court.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "originalUrl": "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/09/26/election_2020_biden_13918_c0-164-5833-3566_s1200x700.jpg?9f7efeb7b81d45783e417f0bb02a19bf07526104",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "publishedDateTime": "2020-09-26T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -912,133 +1275,21 @@
       ]
     },
     {
-      "path": "_news/2020-09-26-trump-plans-visit-to-minnesota-next-week-whats-at-stake.md",
-      "title": "Trump plans visit to Minnesota next week — what's at stake",
-      "excerpt": "President Trump has plans to visit Duluth, Minn., next Wednesday.",
+      "path": "_news/2020-09-27-biden-likens-trump-to-nazi-spin-minister-goebbels.md",
+      "title": "Biden Likens Trump To Nazi Spin Minister Goebbels",
+      "excerpt": "The GOP has struggled to effectively pin a negative label on the Democratic presidential contender with 38 days to go before Election Day.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20263040959005.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-minnesota-duluth-visit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-minnesota-duluth-visit.amp",
-      "publishedDateTime": "2020-09-26T13:39:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-pennsylvania-sheriff-lifelong-dem-decides-to-back-trump-amid-unrest.md",
-      "title": "Pennsylvania sheriff, lifelong Dem, decides to back Trump amid unrest",
-      "excerpt": "A Pennsylvania sheriff switched from Democrat to Republican amid unrest.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-5AijZiy3M/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-5AijZiy3M/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp",
-      "publishedDateTime": "2020-09-26T09:21:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-trump-falsely-claimed-an-incident-where-an-election-worker-improperly-discarded-9-votes-shows-widespread-voter-fraud-heres-what-happened.md",
-      "title": "Trump falsely claimed an incident where an election worker improperly discarded 9 votes shows widespread 'voter fraud.\" Here's what happened.",
-      "excerpt": "Luzerne County officials said a \"temporary seasonal independent contractor\" had \"incorrectly discarded (the ballots) into the office trash.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9",
+      "webUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
+      "originalUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 2160,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f6ea36474fe5b0018a8da37?width=1200&format=jpeg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6fa65099d643a545683ac2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3320%26cropY1%3D65%26cropY2%3D2278",
           "width": 1200,
-          "height": 600,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1046,276 +1297,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9?amp",
-      "publishedDateTime": "2020-09-26T07:35:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/",
+      "publishedDateTime": "2020-09-26T13:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-trumps-acting-bureau-of-land-management-director-just-got-removed-by-a-federal-judge-who-said-he-was-serving-unlawfully.md",
-      "title": "Trump's acting Bureau of Land Management director just got removed by a federal judge, who said he was serving unlawfully",
-      "excerpt": "Willam Perry Pendley has been key to Trump's push to loosen environmental protections and has a long history of undermining Native Americans' rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6e949874fe5b0018a8da33?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp",
-      "publishedDateTime": "2020-09-26T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-four-years-ago-trump-survived-access-hollywood-and-a-media-myth-of-indestructibility-was-born.md",
-      "title": "Four years ago, Trump survived ‘Access Hollywood’ — and a media myth of indestructibility was born",
-      "excerpt": "In the warped sense of time born of the Trump presidency and the pandemic pause, it seems both eons ago and only yesterday that the “Access Hollywood” story rocked the mediasphere. In fact, it was just about four years ago,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AIEDKYHZ6II6VBPXLFARRCUYZU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-26T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-sheriff-from-kenosha-county-president-donald-trump-was-with-us-when-we-needed-him.md",
-      "title": "Sheriff from Kenosha County: President Donald Trump was with us when we needed him",
-      "excerpt": "Trump supported us law officers when it counted and we needed it most and I am proud to endorse him as a leader who will uphold law and order.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/8568704d-b649-4981-9423-06790f2eebf0-AFP_AFP_1WX1KK.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3509523001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3509523001",
-      "publishedDateTime": "2020-09-26T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-historians-and-election-experts-warn-trump-is-behaving-like-mussolini-and-despots-that-the-us-usually-condemns.md",
-      "title": "Historians and election experts warn Trump is behaving like Mussolini and despots that the US usually condemns",
-      "excerpt": "\"This is the way dictators come to power,\" historian Michael Beschloss warned of Trump's behavior in an MSNBC appearance on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9",
-      "originalUrl": "https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6e5c7d74fe5b0018a8d9df?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9?amp",
-      "publishedDateTime": "2020-09-26T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-its-now-or-never-for-ex-trump-aides-weighing-speaking-out.md",
-      "title": "It’s ‘now or never’ for ex-Trump aides weighing speaking out",
-      "excerpt": "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-25T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

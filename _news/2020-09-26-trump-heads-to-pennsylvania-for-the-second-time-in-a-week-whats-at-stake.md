@@ -47,6 +47,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Melania Trump to travel to Pennsylvania in final stretch of campaign"
+    excerpt: "First lady Melania Trump is hitting the campaign trail this week, traveling to Pennsylvania on Tuesday to speak directly to voters before they cast their ballots in the final stretch before Election Day."
+    publishedDateTime: 2020-10-26T12:47:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pYXosr2zN_g/melania-trump-travel-pennsylvania-campaign-trail"
+    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-travel-pennsylvania-campaign-trail.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-travel-pennsylvania-campaign-trail.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump stumping in Pennsylvania in presidential campaign's final week"
+    excerpt: "With the November election just a little over one week away and tens of millions of Americans already voting, President Trump is heading to Pennsylvania looking to erase Democratic challenger Joe Biden's lead."
+    publishedDateTime: 2020-10-26T11:56:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tg8lqFP3hvY/trump-biden-harris-pence-campaign-trail-october-26"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-26.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-26.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ece5c9a-651c-46db-b47f-755e18f7e523/5133f7d3-7d2e-4430-b650-ea3546d339ed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump continues swing through battleground states with stop in Pennsylvania"
     excerpt: "With the November election exactly two weeks away, President Trump is continuing his tour of the pivotal battleground states with a campaign stop in Pennsylvania, where he's currently trailing Democratic rival Joe Biden."
     publishedDateTime: 2020-10-20T11:49:03Z

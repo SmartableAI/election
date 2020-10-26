@@ -45,69 +45,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump didn't accomplish his goals in 1st presidential debate: ANALYSIS"
-    excerpt: "Entering the first debate on Tuesday, President Donald Trump was behind nationally by approximately 7 points on average, and was behind by similar margins in nearly every target state to win the Electoral College."
-    publishedDateTime: 2020-09-30T23:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
+  - title: "Trump Demands No Debate Changes As His Campaign Alleges Debate Commission Bias"
+    excerpt: "The Trump campaign said the president will participate in the remaining debates and described second debate moderator Steve Scully as ‘pretty fair’"
+    publishedDateTime: 2020-10-01T20:55:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/01/trump-demands-no-debate-changes-as-his-campaign-alleges-debate-commission-bias/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/01/trump-demands-no-debate-changes-as-his-campaign-alleges-debate-commission-bias/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/01/trump-demands-no-debate-changes-as-his-campaign-alleges-debate-commission-bias/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "GOP faces reckoning over Trump's virus strategy, diagnosis"
-    excerpt: "President Donald Trump ’s coronavirus diagnosis was a moment of reckoning for his Republican Party, whose leaders largely adopted his strategy of playing down the disease but are now confronted with a stark political nightmare a month from Election Day."
-    publishedDateTime: 2020-10-03T17:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b646160b63fb44cc87cda580de0d383c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Asian shares gain on stimulus hopes, Trump leaving hospital"
-    excerpt: "Shares are higher in Asia after hopes for economic aid from Washington helped Wall Street recover its losses from the initial shock of learning President Donald Trump had tested positive for the coron"
-    publishedDateTime: 2020-10-06T03:48:00Z
-    webUrl: "https://www.washingtonpost.com/business/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital/2020/10/05/8c4774f2-0785-11eb-8719-0df159d14794_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital/2020/10/05/8c4774f2-0785-11eb-8719-0df159d14794_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital/2020/10/05/8c4774f2-0785-11eb-8719-0df159d14794_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Judge rules against Trump campaign in New Jersey lawsuit over counting ballots"
-    excerpt: "A federal judge denied the campaign's motion for a preliminary injunction halting two New Jersey election rules."
-    publishedDateTime: 2020-10-07T06:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/06/election-2020-trump-campaign-ruled-against-in-ballot-counting-lawsuit/5902285002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5902285002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5902285002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Forbes
+      domain: forbes.com
     quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/03/31/PNJM/284dd463-8af7-4ae5-a440-d2adf017a73f-AP20091840255665.jpg?auto=webp&crop=3718,2091,x1,y36&format=pjpg&width=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76414d4b296e2b640e7395%2F0x0.jpg%3FcropX1%3D619%26cropX2%3D5463%26cropY1%3D292%26cropY2%3D2603"
         width: 1200
-        height: 675
+        height: 573
         isCached: true
   - title: "Photo of Mark Meadows rubbing his head during update on Trump's health goes viral"
     excerpt: "A photo of President Trump’s chief of staff Mark Meadows rubbing his head during Sunday’s update on the president’s health went viral."
@@ -124,22 +76,6 @@ related:
       - url: "https://thehill.com/sites/default/files/meadowsmark_10022020getty.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Trump and aides oppose debate rule changes and hint they could put future debates at risk"
-    excerpt: "Donald Trump's re-election campaign opposes plans to put in place new rules for his next two debates with Democratic challenger Joe Biden."
-    publishedDateTime: 2020-10-01T23:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/trump-campaign-president-may-boycott-debates-biden/5884750002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5884750002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884750002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/aa10e6f7-8da7-4efd-b579-d8a503f84d0f-AP_Election_2020_Debate.jpg?auto=webp&crop=5563,3130,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Pandemic overwhelms Trump's message in critical N. Carolina"
     excerpt: "President Donald Trump is fighting to fill a Supreme Court vacancy, howling with unsubstantiated claims of voter fraud and warning that violent mobs are infiltrating the suburbs."
@@ -168,21 +104,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Art gets political at new Trump gallery in Katy"
-    excerpt: "Two ardent supporters of President Donald Trump have taken an artistic approach to backing the commander-in-chief’s reelection efforts. Longtime friends Bruce Badeau and Andy Valadez have opened a Trump-themed art gallery in homage to the president."
-    publishedDateTime: 2020-10-05T20:37:00Z
-    webUrl: "https://www.chron.com/neighborhood/katy/news/article/Art-gets-political-at-new-Trump-gallery-in-Katy-15622889.php"
-    ampWebUrl: "https://www.chron.com/neighborhood/katy/news/amp/Art-gets-political-at-new-Trump-gallery-in-Katy-15622889.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/neighborhood/katy/news/amp/Art-gets-political-at-new-Trump-gallery-in-Katy-15622889.php"
+  - title: "Borat 2 Trailer: Sacha Baron Cohen Dresses As Trump To Prank Mike Pence"
+    excerpt: "The first trailer for the sequel to \"Borat\" dropped on Thursday and it appears Sacha Baron Cohen is up to his old tricks again."
+    publishedDateTime: 2020-10-01T19:01:00Z
+    webUrl: "https://toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/"
+    ampWebUrl: "https://amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/"
+    cdnAmpWebUrl: "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: TooFab
+      domain: toofab.com
+    quality: 90
     images:
-      - url: "https://s.hdnux.com/photos/01/14/42/31/20063862/3/375x250.jpg"
-        width: 333
-        height: 250
+      - url: "https://images.toofab.com/image/5a/16by9/2020/10/01/5aaded4cdb5145c0ada0b1c570b0b3b1_xl.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "John Oliver Says Donald Trump's COVID-19 Diagnosis Was 'Utterly Inevitable'"
     excerpt: "John Oliver talked about President Donald Trump’s COVID-19 diagnosis and blasted the first family for not wearing masks during the first presidential debate."

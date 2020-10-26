@@ -279,22 +279,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Kamala Harris slams Trump's handling of coronavirus: 'He was scared'"
-    excerpt: "Democratic vice presidential nominee Kamala Harris lambasted President Donald Trump's handling of the coronavirus pandemic in a speech Thursday designed to prebut Trump's own appearance at the Republi"
-    publishedDateTime: 2020-09-12T16:23:00Z
-    webUrl: "https://www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.html"
-    ampWebUrl: "https://www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 90
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/da/eda6af2d-f006-59b3-88df-277a4b5d9f0d/5f4911bf87a15.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Melania Trump Ridiculed, Kamala Harris Praised After Wearing Same Timberland Boots: 'Media Bias'"
     excerpt: "Melania Trump and Kamala Harris sported the same footwear but received different reception, which Amy Kremer, co-founder for Women for Trump blamed to \"media bias.\""
     publishedDateTime: 2020-09-18T11:25:00Z

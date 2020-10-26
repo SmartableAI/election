@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/obama-skewers-tru
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/?outputType=amp"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 265
+published: true
 
 provider:
   name: Washington Post
@@ -31,113 +31,118 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020 live updates: Obama says Trump treats 'presidency like a reality show'"
-    excerpt: "With 10 days to go until Election Day, President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3."
-    publishedDateTime: 2020-10-24T23:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/election blog/?id=73795075"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075"
+  - title: "Trump is definitely not a ‘typical politician.’ America could use one right now."
+    excerpt: "In the most revealing line of the night, Trump expressed his disgust with politicians who talk about families and the kitchen tables."
+    publishedDateTime: 2020-10-23T09:08:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 133
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://s.abcnews.com/images/International/obama-miami-2-ap-rc-201024_1603571842167_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TZ5XIUAU3EI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 928
         isCached: true
-  - title: "Election 2020 updates: Trump delivers shorter-than-usual speech in chilly Pennsylvania"
-    excerpt: "With 14 days to go until Election Day, and President Donald Trump and former Vice President Joe Biden racing toward Nov. 3, voters are turning out in record numbers to cast their ballots early. Roughly 31 million Americans have already voted in the 2020 election,"
-    publishedDateTime: 2020-10-22T23:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73702022"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73702022"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73702022"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 132
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-pa-rally_hpMain_20201020-214116_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world"
-    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
-    publishedDateTime: 2020-10-21T03:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
+  - title: "Beat Trump and rewrite democracy rules to build a fair America that serves its people"
+    excerpt: "Trump keeps giving us new reasons to vote him out. Biden will fight for a functioning democracy that delivers the change most Americans want."
+    publishedDateTime: 2020-10-19T07:34:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/19/beat-trump-elect-biden-nd-democracy-time-reform-and-vote-trump-out-column/3702219001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3702219001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702219001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 129
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/44d82bc8-b5e7-465a-8356-77d198bf1114-Stacey_Abrams.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Election 2020 live updates: 2 weeks until Election Day, Trump in Pennsylvania as Democrats try to win over Cuban American voters"
-    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
-    publishedDateTime: 2020-10-20T12:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
+  - title: "Trump Votes In Person And Slams Mail-In Voting As Campaign Urges Voters To Vote By Mail"
+    excerpt: "Despite his denunciations of mail-in voting, Trump has said the practice is ‘safe in secure’ in Florida, where he voted, because of its Republican governor."
+    publishedDateTime: 2020-10-24T16:26:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 117
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f94542b84e077087f844587%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2854%26cropY1%3D89%26cropY2%3D1694"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Senate Republicans moving to confirm Trump's Supreme Court nominee but blocked Obama's"
+    excerpt: "A claim addressing the double standard for consideration of the two presidents' Supreme Court nominees was correct on substance, off on timing."
+    publishedDateTime: 2020-10-20T23:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-gop-senators-blocked-nomination-merrick-garland-2016/5916555002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5916555002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5916555002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/2568520a-0391-4b0b-a87d-5d04c5a5eae7-AFP_AFP_8TE9PJ.jpg?auto=webp&crop=4114,2315,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2019/12/17/USAT/304f1850-0bf1-4dd3-8a14-837260789dff-AP_17128533809612.jpg?auto=webp&crop=1701,957,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Coronavirus updates: Feared surge is underway; masks can still save 63K lives; Trump missing from task force meetings, Fauci says"
-    excerpt: "A long-predicted surge in COVID-19 cases and deaths has begun in the United States, but Americans aren't changing their behaviors. Latest COVID news."
-    publishedDateTime: 2020-10-24T12:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/24/covid-news-fall-winter-surge-trump-rally-masks-can-save-63-k-lives/3743485001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3743485001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3743485001"
+  - title: "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'"
+    excerpt: "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\""
+    publishedDateTime: 2020-10-19T21:25:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: usatoday.com
-    quality: 96
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/85141cd530c0facfb3015ac08455e120005288b5/c=0-8-3000-1696/local/-/media/2020/10/22/USATODAY/usatsports/MotleyFool-TMOT-81b0d5d3-4a9ffab2.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/democratic-presidential-nominee-joe-biden-leads-in-polls.jpg"
+        width: 1024
+        height: 681
         isCached: true
-  - title: "Voting 2020 live updates: Trump campaign loses appeal on satellite offices; Ohio's legal battle over drop boxes is officially over"
-    excerpt: "As Trump plans to early vote in Florida, Pence cast his ballot in Indianapolis. 52M have already voted. Latest voting news from across the U.S."
-    publishedDateTime: 2020-10-23T19:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/23/voting-2020-problems-and-news-how-vote-court-battles-russia/3728419001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3728419001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3728419001"
+  - title: "Obama endorses Espy in Mississippi; Trump backs Hyde-Smith"
+    excerpt: "Mike Espy has a great chance to win this election for the Senate and keep Mississippi moving forward,\" Obama said in a radio ad and the text of a fundraising appeal. Espy was U.S. agriculture secretary under President Bill Clinton,"
+    publishedDateTime: 2020-10-21T23:25:00Z
+    webUrl: "https://www.chron.com/news/article/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 95
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/73823eae-9c73-41f8-ae97-15b449bec90b-AFP_AFP_8T79DM.jpg?auto=webp&crop=5920,3330,x0,y300&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
-  - title: "Trump, Pence, Obama All in Florida as Campaign Heats Up"
-    excerpt: "Battleground Florida was again a central focus of the presidential campaign Saturday as President Donald Trump, Vice President Mike Pence and former President Barack Obama all had high-profile events in the state."
-    publishedDateTime: 2020-10-24T21:08:00Z
-    webUrl: "https://www.usnews.com/news/best-states/florida/articles/2020-10-24/trump-pence-obama-all-in-florida-as-campaign-heats-up"
-    ampWebUrl: "https://www.usnews.com/news/best-states/florida/articles/2020-10-24/trump-pence-obama-all-in-florida-as-campaign-heats-up?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/florida/articles/2020-10-24/trump-pence-obama-all-in-florida-as-campaign-heats-up?context=amp"
+  - title: "How Donald Trump’s ‘America first’ agenda has damaged global human rights"
+    excerpt: "The Trump administration's overt transgressions of international norms embolden other world leaders to violate human rights."
+    publishedDateTime: 2020-10-22T13:50:00Z
+    webUrl: "https://theconversation.com/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030"
+    ampWebUrl: "https://theconversation.com/amp/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 80
+      name: The Conversation
+      domain: theconversation.com
+    quality: 74
+    images:
+      - url: "https://images.theconversation.com/files/364520/original/file-20201020-17-oqamgw.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
 
 secured: "d5nnWoWTk/OmVi2hOVJ5uS0HcjpPaUQm89xjTXl94wUnLM+fQjiyN0KRKJ7FE1Y7EWDjYveR831OZhULMrKLQOTbZZ4A6/zMRF8wy8gNvF20VJ6fO0ikyNkuxPI+QVhhCkfPur0UiwBsg/jHMVMUyKSYtIdNKUEDhQ8ewTUxH9pEEmz5BEs/EpzqphMJ7moqHc7Dfkuc3WPsRWm5AKgIYqCD70T6Hwefht/UGKgRSABoQka0N16HCQUxGA8M7implPDEReMfnHOhcsK/dQQVprCchFQPRfTFMk+gq5gpMEPxWMWz4zNe32U3GpvSyAjzSBSl3OokVgKwfAGzQY6YK4KKH0RipTeSeG6z6mkbauWf51ybKZRjpbyDGzs8109CMN5iPxx2tPHB+t5/7F+7Ddpgeahf4cu6ZHcHP+NvqO8FVCr4IS5Wik/2QAhLbasabzus3WC9z/2WeGwM8XLYl4PNRDOjuT/PSGfoNRuSZQ5WAx1kBXONWEje7J/MlMGdixJyU/yNDg6ScYhvSr6UGQ==;rDQyVXWV7ztCuJrEwcq7sw=="
 ---

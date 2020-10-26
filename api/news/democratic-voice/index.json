@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-26-white-house-admission-on-pandemic-overshadows-trumps-last-push-for-reelection.md",
-      "title": "White House admission on pandemic overshadows Trump's last push for reelection",
-      "excerpt": "A stunning White House claim that the US cannot control the fast-worsening pandemic is overshadowing President Donald Trump's frantic last-ditch bid to turn around his reelection race with Democrat Joe Biden with eight days to go.\n    \n",
+      "path": "_news/2020-10-26-senate-to-confirm-trumps-supreme-court-nominee-a-week-ahead-of-election-day.md",
+      "title": "Senate to confirm Trump's Supreme Court nominee a week ahead of Election Day",
+      "excerpt": "Senate Republicans are poised to confirm President Trump's Supreme Court nominee Judge Amy Coney Barrett on Monday, a major victory for the President and his party just days before November 3, that promises to push the high court in a more conservative direction for generations to come.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LMcEuOsTz8M/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LMcEuOsTz8M/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e6Lcj4NHcQQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e6Lcj4NHcQQ/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 686,
+      "heat": 807,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201025114911-01-trump-lumberton-nc-rally-1024-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200929102308-07-barrett-capitol-hill-0929-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/26/politics/election-2020-donald-trump-joe-biden-pandemic/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/election-2020-donald-trump-joe-biden-pandemic/index.html",
-      "publishedDateTime": "2020-10-25T21:42:34-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/26/politics/senate-confirmation-vote-supreme-court-amy-coney-barrett/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/senate-confirmation-vote-supreme-court-amy-coney-barrett/index.html",
+      "publishedDateTime": "2020-10-26T03:04:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -285,63 +285,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-trump-travel-anticipates-a-race-potentially-decided-by-a-single-electoral-college-vote.md",
-      "title": "Trump travel anticipates a race potentially decided by a single Electoral College vote",
-      "excerpt": "The president heads to Maine and Nebraska this week, with the Trump team citing several possible scenarios where the election could come down to one or two Electoral College votes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/trump-travel-anticipates-race-potentially-decided-single-electoral-college-vote-n1244706",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/trump-travel-anticipates-race-potentially-decided-single-electoral-college-vote-n1244706",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3422882/201025-donald-trump-north-carolina-jm-1448_3761c78bcb6803d91b93fd938bd6fde3.jpg",
-          "width": 2500,
-          "height": 1628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244706",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244706",
-      "publishedDateTime": "2020-10-25T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-25-fact-checking-trumps-exaggerated-claims-that-democratic-run-states-are-shut-down.md",
       "title": "Fact-checking Trump's exaggerated claims that Democratic-run states are 'shut down'",
       "excerpt": "President Donald Trump keeps saying that Democratic-run states are \"closed\" or \"shut down.\"\n    \n",
@@ -524,7 +467,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1658,
+      "heat": 1718,
       "tags": null,
       "images": [
         {
@@ -738,23 +681,23 @@
       ]
     },
     {
-      "path": "_news/2020-10-23-trump-makes-return-to-much-changed-mar-a-lago.md",
-      "title": "Trump makes return to much-changed Mar-a-Lago",
-      "excerpt": "In Mar-a-Lago's disco-lit main ballroom, he watched as a large crowd serenaded his son's girlfriend while sparklers flared. On the stone dining patio, he hosted the Brazilian President for talks as diners sat at tables nearby, crammed together like normal. Eager to appear like everything was fine, he",
+      "path": "_news/2020-10-24-trump-is-playing-up-chinas-threat-to-the-2020-election-but-the-evidence-shows-russia-is-the-real-danger.md",
+      "title": "Trump is playing up China's threat to the 2020 election. But the evidence shows, Russia is the real danger",
+      "excerpt": "For months, the Trump administration has been warning of the dangers of political interference by China in the US election.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JdXyqyBUghg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JdXyqyBUghg/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLMzvjEUR0M/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLMzvjEUR0M/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 172,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200527133726-trump-bolsonaro-0307-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201021182050-20201021-us-election-china-russia-interference-illo-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -764,9 +707,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html",
-      "publishedDateTime": "2020-10-23T12:14:06-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/china-russia-trolls-trump-election-hnk-dst-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/china-russia-trolls-trump-election-hnk-dst-intl/index.html",
+      "publishedDateTime": "2020-10-23T18:17:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -794,23 +737,23 @@
       ]
     },
     {
-      "path": "_news/2020-10-23-trump-announces-that-israel-and-sudan-have-agreed-to-normalize-relations.md",
-      "title": "Trump announces that Israel and Sudan have agreed to normalize relations",
-      "excerpt": "President Donald Trump announced Friday that Sudan and Israel have agreed to normalize relations -- a foreign policy achievement for the incumbent president less than two weeks before the US presidential election.\n    \n",
+      "path": "_news/2020-10-23-trump-makes-return-to-much-changed-mar-a-lago.md",
+      "title": "Trump makes return to much-changed Mar-a-Lago",
+      "excerpt": "In Mar-a-Lago's disco-lit main ballroom, he watched as a large crowd serenaded his son's girlfriend while sparklers flared. On the stone dining patio, he hosted the Brazilian President for talks as diners sat at tables nearby, crammed together like normal. Eager to appear like everything was fine, he",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mpQdPNhUfAk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mpQdPNhUfAk/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JdXyqyBUghg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JdXyqyBUghg/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 174,
+      "heat": 215,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201023110745-sudan-israel-trump-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200527133726-trump-bolsonaro-0307-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -820,9 +763,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/trump-sudan-israel/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-sudan-israel/index.html",
-      "publishedDateTime": "2020-10-23T09:29:33-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html",
+      "publishedDateTime": "2020-10-23T12:14:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1304,62 +1247,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-21-trump-administration-notifies-congress-of-18b-in-proposed-weapons-sales-to-taiwan.md",
-      "title": "Trump administration notifies Congress of $1.8B in proposed weapons sales to Taiwan ",
-      "excerpt": "The US formally notified Congress of a proposed $1.8 billion in advanced weapons systems sales to Taiwan -- a move sure to increase tensions with Beijing.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jL8O3RBxnEw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jL8O3RBxnEw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/taiwan-arms-sales-formal-notification/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/taiwan-arms-sales-formal-notification/index.html",
-      "publishedDateTime": "2020-10-21T15:10:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-21-cnn-polls-biden-leads-in-pennsylvania-and-tight-race-remains-in-florida.md",
       "title": "CNN Polls: Biden leads in Pennsylvania and tight race remains in Florida",
       "excerpt": "Former Vice President Joe Biden holds a lead in Pennsylvania and neither he nor President Donald Trump leads in the critical state of Florida, according to new CNN polls conducted by SSRS.\n    \n",
@@ -1416,6 +1303,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-21-trump-administration-continues-to-send-mixed-messages-about-future-of-us-troops-in-afghanistan.md",
+      "title": "Trump administration continues to send mixed messages about future of US troops in Afghanistan",
+      "excerpt": "The Trump administration continued to send contradictory messages about the future of US troops in Afghanistan on Wednesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n8CGetyeKJI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n8CGetyeKJI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 243,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190908155230-afghanistan-us-soldiers-file-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/us-troops-afghanistan-obrien-hutchison/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/us-troops-afghanistan-obrien-hutchison/index.html",
+      "publishedDateTime": "2020-10-21T13:03:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-inside-melania-trumps-unprecedented-campaign-trail-absence.md",
       "title": "Inside Melania Trump's unprecedented campaign trail absence",
       "excerpt": "First lady Melania Trump -- in a historic break from precedent -- has yet to set foot on the campaign trail this year even as her husband, President Donald Trump, fights for votes, especially among suburban White women with whom she could hold appeal.\n    \n",
@@ -1428,7 +1371,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1597,7 +1540,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 413,
+      "heat": 433,
       "tags": null,
       "images": [
         {
@@ -1694,6 +1637,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-demi-lovatos-new-song-commander-in-chief-lets-trumps-enablers-off-too-easy.md",
+      "title": "Demi Lovato's new song 'Commander In Chief' lets Trump's enablers off too easy",
+      "excerpt": "Though “Commander in Chief” is a valiant and valid entry into America's protest music canon, it lets everyone but Trump off the hook.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/demi-lovato-s-new-song-commander-chief-lets-trump-s-ncna1243929",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/demi-lovato-s-new-song-commander-chief-lets-trump-s-ncna1243929",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3421333/201019-demi-lovato-bbma-ew-421p_2cf653fb217f5a628908233be7d9b23f.jpg",
+          "width": 2500,
+          "height": 1642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1243929",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243929",
+      "publishedDateTime": "2020-10-19T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     }

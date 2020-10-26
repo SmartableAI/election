@@ -63,38 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump says he's not tested for COVID-19 every day but claims he is 'tested a lot'"
-    excerpt: "\"I was really tested a lot after I got rid of it because they wanted to make sure,\" Trump said on Fox Business. \"I said, 'How many tests do I have to take?'\""
-    publishedDateTime: 2020-10-16T01:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
-        width: 911
-        height: 455
-        isCached: true
-  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
-    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
-    publishedDateTime: 2020-10-13T12:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump claims he no longer has COVID-19 as White House dodges questions on whether he has tested negative"
     excerpt: "Trump did not say in the interview whether he has tested negative for COVID-19. A memo by his physician, Dr. Sean Conley, didn’t address that either."
     publishedDateTime: 2020-10-12T00:45:00Z
@@ -122,17 +90,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
-    excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
-    publishedDateTime: 2020-10-14T13:00:00Z
-    webUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.html"
-    ampWebUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 22
 
 secured: "isBR6UG75hLNCNqZL9jU0Uw1I8jseO9MbKCyPE6aVQ2DgAFPs1lxlG0GFrzuRU9DhGl2O4kIZy1vypul+v+uD5ge7rtY9qLMM/yJH9fr80nLXqeyfPkTZDH1rWS6fKYgLw2n8n5oVF3qnLAHwS35NbQE485JaGN5Rn8BCHYO3omDO3EwxR+ynaEjEIHq8GvT2tlXDs/tnyiY/Azwtsk4PDMxNR6zSKzSEVdFXgEIP5Rip7sezfineGSKldOYXNPvXF8P5X3aX8f8TrybQ0Hch+QfCUoppZvAJUiGU6W06VMI8eyheB5iyrQbfsZ8oytpg9ZVPD9IzHY+iBvjG7P4LMSnmnhSBfkXJP5yONkR2Us=;Uz4GOTLOtABeKb1f6oT6/Q=="
 ---

@@ -27,109 +27,95 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says Supreme Court pick coming 'Friday or Saturday'"
-    excerpt: "President Trump said Monday morning that he would reveal his Supreme Court pick \"Friday or Saturday\" in deference to memorial services for Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T13:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/GMA/trump-wh-gty-rc-200918_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump is expected to announce Supreme Court pick Saturday. Here's what we know."
-    excerpt: "\"They say the biggest thing you can do (as president) is the appointment of judges, but especially the appointment of Supreme Court justices,\" Trump said Friday."
-    publishedDateTime: 2020-09-26T16:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/26/what-we-know-trumps-supreme-court-pick/3546199001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3546199001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3546199001"
+  - title: "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday"
+    excerpt: "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday."
+    publishedDateTime: 2020-10-09T17:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 121
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e6664b80-fe7d-4dad-9b2c-c09c701add86-AFP_8RH3J6.jpg?auto=webp&crop=1999,1124,x0,y42&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump eyes return to rallies Saturday after doctor says COVID-19 therapy completed"
-    excerpt: "President Donald Trump said on Thursday he may return to the campaign trail with a rally on Saturday after the White House physician said he had completed his course of therapy for the novel coronavirus and could resume public events."
-    publishedDateTime: 2020-10-09T03:33:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump/trump-eyes-return-to-rallies-saturday-after-doctor-says-covid-19-therapy-completed-idUSKBN26T0KU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T0KU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T0KU"
+  - title: "Trump hosts White House event, Delta threatens Louisiana, NBA Finals: 5 things to know this weekend"
+    excerpt: "Trump plans White House event amid coronavirus questions, Delta threatens Louisiana, NBA Finals Game 6 and more things to start your weekend."
+    publishedDateTime: 2020-10-10T08:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592092001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592092001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536820675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG970CV"
-        width: 1007
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/687fdb68-1f73-456a-8a89-73c4208ff441-12345.jpg?auto=webp&crop=2160,1215,x226,y22&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump: 'very, very close' to a Supreme Court pick"
-    excerpt: "President Donald Trump says he'll announce his decision on a Supreme Court nominee to replace the late Justice Ruth Bader Ginsburg this Saturday at 5pm. He says he has \"a constitutional obligation\" to make sure nine justices are seated."
-    publishedDateTime: 2020-09-23T00:12:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/22/trump-very-very-close-supreme-court-pick/3498142001/"
+  - title: "Trump: Barron 'free' of coronavirus"
+    excerpt: "The president was using his son to underscore his frequent argument that kids have less serious cases of the coronavirus and should be back in school. (Oct. 14)"
+    publishedDateTime: 2020-10-15T01:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/15/trump-barron-free-coronavirus/3660232001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3471c510-dd32-4f41-908b-5ed00da6803b_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fc79aa69-ab33-42c5-8465-fe58960ba183_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump mulling Appeals Court judges Barbara Lagoa, Amy Coney Barrett for Supreme Court - source"
-    excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy opened up by the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
-    publishedDateTime: 2020-09-19T16:48:00Z
-    webUrl: "https://www.reuters.com/article/usa-courts-ginsburg-candidates/trump-mulling-appeals-court-judges-barbara-lagoa-amy-coney-barrett-for-supreme-court-source-idUSKCN26A0S8"
+  - title: "Trump claims he is now immune to the coronavirus and has 'a protective glow' — but the science is not that simple"
+    excerpt: "The president said on Sunday he now has \"a protective glow\" — a concept which does not appear in medical or scientific research about the coronavirus."
+    publishedDateTime: 2020-10-12T02:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 93
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20200919&t=2&i=1534134972&r=LYNXNPEG8I0NV&w=800"
-        width: 800
-        height: 532
+      - url: "https://i.insider.com/5f83204cbab422001979aa7c?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
         isCached: true
-  - title: "Pence tells rallygoers woman will be nominated to Supreme Court Saturday"
-    excerpt: "Vice President Mike Pence told supporters at a rally in Gilford on Tuesday that a conservative woman will be Saturday to serve as a justice on the Supreme Court, and he promised the seat will be filled during an election year."
-    publishedDateTime: 2020-09-22T22:40:00Z
-    webUrl: "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
-    ampWebUrl: "https://www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+  - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
+    excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
+    publishedDateTime: 2020-10-06T09:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
     images:
-      - url: "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
+      - url: "https://i.insider.com/5f7c319c94fce90018f7b416?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "Trump tells Fox & Friends that RBG’s dying wish may be a hoax written by Adam Schiff"
-    excerpt: "President Donald Trump on Monday told “Fox & Friends” that he believed Supreme Court Justice Ruth Bader Ginsburg’s dying wish may have been a “hoax” concocted by Democrats. During the interview, the president was asked about Ginsburg saying that she did not want to be replaced until after the 2020 presidential election."
-    publishedDateTime: 2020-09-21T13:39:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-tells-fox-friends-that-rbgs-dying-wish-may-be-a-hoax-written-by-adam-schiff/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-tells-fox-friends-that-rbgs-dying-wish-may-be-a-hoax-written-by-adam-schiff/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-tells-fox-friends-that-rbgs-dying-wish-may-be-a-hoax-written-by-adam-schiff/amp/"
+  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
+    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
+    publishedDateTime: 2020-10-11T16:13:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 48
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 75
 
 secured: "vZAVlY6B9lqtyH5gCgQuNNKxw+Hx81jpwJaW8qnqFRqjxFfVFe8IKGYKZ+YPRI19a5PycVgc6bMcmV+9/44h0ktDbaOzBl+bNmGSp163W23q/pkxHjQcGCdP+2M6O9osSKQr2lWyCZ5fohC+I5jZHljzngcINEi/qk2DNd4Ys3dIElMc1Z9+ocqtFAYw0MnkJH0p88FSwetPG/0J3U3e2yUhJqI8sJoGy4ViPe8WDFBwzR1H0pT/80Jpf4C5pVqJkSuxewcIYHX3DKE0tYUxeVCHsHHoTwFO17lrtMGmLvJ43AMAscQ8k2iHatPXbATttNtNDRbNxnETUg86RE4+32gY1wG8MU7xmnhOJEGxLa8LUUC02nciHhwl5njnBUUiBKMbMZDZO7hpjRteVzp2bmhIkUMorvRfGW9Nf8qTn3SHXrLNYDau3X80NXfE400BUImh6FgyXsnwpmVnT5dkm2hkFfT8hU92r1fwFtdmZXsh/VoSYHhheO91Xu3O6hS7HAz8Lxt4Rd1gyfvXMHMrAg==;3P1RvO9zxSbk6EP/wpuZnw=="
 ---

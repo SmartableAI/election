@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Vice President Mike Pence's chief of staff Marc Short tests positive for COVID-19"
     excerpt: "\"Vice President Pence and Mrs. Pence both tested negative for COVID-19 today, and remain in good health,\" Pence's press secretary Devin O'Malley said."
-    publishedDateTime: 2020-10-25T04:13:00Z
-    webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3a&ftag=CNM-00-10aab4i"
+    publishedDateTime: 2020-10-25T05:20:00Z
+    webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?ftag=CNM-00-10aab7e"
     ampWebUrl: "https://www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
     type: article
@@ -76,6 +76,20 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/25/bdaeb978-9219-49f6-9ea9-e24ff5096a1f/thumbnail/1200x630/afe499c7b4ca27a38a56c1948ca16e05/gettyimages-1206471082.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Multiple people in Vice President Mike Pence's orbit test positive for the coronavirus"
+    excerpt: "Vice President Mike Pence will not quarantine after multiple people in his orbit test positive for the coronavirus. Pence's press secretary says the vice president is essential personnel and will maintain his schedule."
+    publishedDateTime: 2020-10-26T12:35:00Z
+    webUrl: "https://www.cbsnews.com/video/multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/ea344a62-27f3-43f3-bc18-064eec3db129/thumbnail/1200x630/2b643b630ac6e7dca1e24427c4417fa2/cbsn-fusion-multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus-thumbnail-574507-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -126,6 +140,20 @@ related:
       - url: "https://www.ocregister.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
         width: 1024
         height: 579
+        isCached: true
+  - title: "Several People in Vice President Mike Pence’s World Now Have Covid-19"
+    excerpt: "At least five people in Vice President Mike Pence’s inner circle have tested positive for the coronavirus, according to a report from CNN. That tally includes some of his closest advisors, including his chief of staff Marc Short and an advisor named Marty Orbst."
+    publishedDateTime: 2020-10-25T15:25:00Z
+    webUrl: "https://www.motherjones.com/coronavirus-updates/2020/10/several-people-in-vice-president-mike-pences-world-now-have-covid-19/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 55
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/pencenormalize-10820.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "JY+wCPkKo1qTLtcyj7/K1LdyuLr2mWtYrqjweKFRKwGr/JbcotBtcxKNWqA+nNzmle1NUvXTKfAcbOVfFBDN8hdqWyxgLyRZLRdkArHrXS6AFOi3RjrXkwLDoyTVju7lvsjFvInTZ154+lKCJ/zPSuc0RruBS+zrt0OChgnl1zFM7RoLIctln52lAlWzFyP+xs1sxN+XpFmz0k9QgjenCTd/The75gJwkSWNJvvAWS7d2o3eKdsfPBFLVgGNSTMX3EH3b9dHVKMmMz6V+oPxWap/zvkhVscrZRac/PdrAaxeektjVpyUNSz4dtZKRtDhwfPw2wWA2owQp81MlsVyTvJl6Th7CwoHbWI5TEm0prNcZ5hQdp0vcXtedKz6puGOtKIQNsyR6Wx1plMe75Bs9lOYa4MO6YGYixxf1VqG6WxmWXphc0j6LTJbj3rc4KqgMSmR2CzaNh8jACykGD/8yY6OpqdGfjUKtmZaz7BYyQE61BRwnYGJKS85SoGWts0fKK4bQBlWuJntRG3e8xbILg==;1A42SXS8+knEm+m+sdNgDg=="

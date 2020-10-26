@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-vice-president-
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies"
 type: article
 quality: 125
-heat: 665
+heat: 685
 published: true
 
 provider:
@@ -396,6 +396,15 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 40
+  - title: "Vice President Pence Holds Rally in Council Bluffs, IA"
+    excerpt: "President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs, IA. Vice President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs,"
+    publishedDateTime: 2020-10-01T09:01:00Z
+    webUrl: "https://www.c-span.org/video/?476385-1/vice-president-pence-holds-rally-council-bluffs-ia"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Vice President Pence Campaign Rally in Carter Lake, Iowa"
     excerpt: "2020-10-01T16:33:13-04:00https://images.c-span.org/Files/a9a/20201001164553002_hd.jpgVice President Mike Pence delivered remarks at a rally in support of his and President Trump’s reelection campaign held in Carter Lake, Iowa. Vice President Mike Pence ..."
     publishedDateTime: 2020-10-02T01:53:00Z

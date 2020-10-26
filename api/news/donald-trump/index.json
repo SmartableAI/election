@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-26-pence-staff-hit-by-covid-19-outbreak-as-biden-says-trump-has-surrendered-to-pandemic.md",
-      "title": "Pence staff hit by COVID-19 outbreak as Biden says Trump has surrendered to pandemic",
-      "excerpt": "Vice President Mike Pence campaigned on Sunday despite a COVID-19 outbreak among his aides and President Donald Trump claimed progress as the United States set records for daily infections, prompting Democratic challenger Joe Biden to accuse Trump of surrendering to",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-idINKBN27A04U",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-idINKBN27A04U",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 4598,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538802200&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P07V",
-          "width": 716,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27A04U",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A04U",
-      "publishedDateTime": "2020-10-25T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-biden-on-attacks-on-mental-fitness-trump-thought-911-attack-was-711-attack.md",
       "title": "Biden on attacks on mental fitness: Trump thought '9/11 attack was 7/11 attack'",
       "excerpt": "Former Vice President Joe Biden (D) defended his mental acuity and took shots at President Trump during an interview airing Sunday on CBS's \"60 Minutes.\"",
@@ -63,7 +10,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -164,6 +111,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-26-president-trump-casts-a-very-secure-vote-for-himself-in-person-in-florida.md",
+      "title": "President Trump casts a 'very secure vote' for himself in-person in Florida",
+      "excerpt": "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f9447ca4743a3001216b782?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp",
+      "publishedDateTime": "2020-10-25T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-trump-keeps-calling-750-tax-payment-a-filing-fee-experts-say-theres-no-such-thing.md",
       "title": "Trump keeps calling $750 tax payment a 'filing fee.' Experts say there's no such thing",
       "excerpt": "President Donald Trump keeps bringing up what he calls a $750 filing fee for his federal income tax returns. What's that all about?",
@@ -245,63 +244,6 @@
       "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244646",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244646",
       "publishedDateTime": "2020-10-25T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-trump-travel-anticipates-a-race-potentially-decided-by-a-single-electoral-college-vote.md",
-      "title": "Trump travel anticipates a race potentially decided by a single Electoral College vote",
-      "excerpt": "The president heads to Maine and Nebraska this week, with the Trump team citing several possible scenarios where the election could come down to one or two Electoral College votes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/trump-travel-anticipates-race-potentially-decided-single-electoral-college-vote-n1244706",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/trump-travel-anticipates-race-potentially-decided-single-electoral-college-vote-n1244706",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3422882/201025-donald-trump-north-carolina-jm-1448_3761c78bcb6803d91b93fd938bd6fde3.jpg",
-          "width": 2500,
-          "height": 1628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244706",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244706",
-      "publishedDateTime": "2020-10-25T12:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -439,162 +381,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-25-did-donald-trump-deliver-to-voters-with-that-last-debate-performance.md",
-      "title": "Did Donald Trump deliver to voters with that last debate performance?",
-      "excerpt": "In the second and final presidential debate, Americans witnessed a much less raucous, more coherent, and more policy-oriented and traditional discussion than the first debate That",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance",
-      "originalUrl": "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald3_10222020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp",
-      "publishedDateTime": "2020-10-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-trump-biden-race-is-tight-in-florida-georgia-and-north-carolina-cbs-news-battleground-tracker-poll.md",
-      "title": "Trump-Biden race is tight in Florida, Georgia and North Carolina — CBS News Battleground Tracker poll",
-      "excerpt": "Our estimates show Joe Biden with just a two-point edge over President Trump in Florida, Biden up four points in North Carolina, and the contest even in Georgia. Millions have already voted and many others say they've already decided.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/25/46ae8717-8c38-4030-84bc-dbf4c833b39e/thumbnail/1200x630/d90ba7b812a4d1b3d439b605097676c8/gettyimages-1229228694.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/",
-      "publishedDateTime": "2020-10-25T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-election-2020-live-updates-obama-says-trump-treats-presidency-like-a-reality-show.md",
-      "title": "Election 2020 live updates: Obama says Trump treats 'presidency like a reality show'",
-      "excerpt": "With 10 days to go until Election Day, President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/live-updates/election blog/?id=73795075",
-      "originalUrl": "https://abcnews.go.com/Politics/live-updates/election blog/?id=73795075",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 273,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/obama-miami-2-ap-rc-201024_1603571842167_hpMain_16x9_1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075",
-      "publishedDateTime": "2020-10-24T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-25-trump-campaign-files-lawsuit-requesting-nevada-court-to-block-election-officials-from-counting-early-votes.md",
       "title": "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes",
       "excerpt": "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week.",
@@ -603,7 +389,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -908,6 +694,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-24-forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease.md",
+      "title": "Forbes Estimates China Paid Trump At Least $5.4 Million Since He Took Office, Via Mysterious Trump Tower Lease",
+      "excerpt": "Donald Trump maintained a stake in Trump Tower when he became president, and with it, a financial connection to the Chinese government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/",
+      "originalUrl": "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f92da59cdd9baa8c7aac7f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-is-the-trump-administration-really-working-very-hard-to-reunite-migrant-parents-and-children.md",
       "title": "Is the Trump administration really 'working very hard' to reunite migrant parents and children?",
       "excerpt": "Advocates say Trump admin is only offering assistance now to reunite parents and kids because of \"backlash\" over reports about 545 kids still separated.",
@@ -962,6 +800,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-no-need-for-security-checks-or-covid-tests-borat-star-meets-donald-trump-jr-and-visits-white-house-in-deleted-scenes.md",
+      "title": "'No need for security checks or COVID tests': Borat star meets Donald Trump Jr. and visits White House in deleted scenes",
+      "excerpt": "President Donald Trump also makes an appearance in a deleted scene from the new movie posted to Borat's Twitter account.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10",
+      "originalUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f934591f21803001222bbe2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10?amp",
+      "publishedDateTime": "2020-10-23T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1123,6 +1013,59 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-election-2020-live-updates-after-a-more-civil-final-debate-trump-and-pence-head-to-battleground-states-biden-to-talk-covid.md",
+      "title": "Election 2020 live updates: After a more civil final debate, Trump and Pence head to battleground states, Biden to talk COVID",
+      "excerpt": "The final presidential debate between Joe Biden and Donald Trump was more civil Thursday. Now the two camps hit the campaign trail in final 11 days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/23/election-2020-updates-trump-pence-head-battlegrounds-after-debate/3679810001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/23/election-2020-updates-trump-pence-head-battlegrounds-after-debate/3679810001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2853,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/255314e1-791b-42f3-a81d-484e6fb0b63d-AFP_AFP_8TN4LL.jpg?auto=webp&crop=4967,2794,x0,y140&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3679810001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679810001",
+      "publishedDateTime": "2020-10-23T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
       ]
     },
     {
@@ -1391,58 +1334,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-23-trump-is-definitely-not-a-typical-politician-america-could-use-one-right-now.md",
-      "title": "Trump is definitely not a ‘typical politician.’ America could use one right now.",
-      "excerpt": "In the most revealing line of the night, Trump expressed his disgust with politicians who talk about families and the kitchen tables.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TZ5XIUAU3EI6XISYMFFM6K4QNU.jpg&w=1440",
-          "width": 1440,
-          "height": 928,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/?outputType=amp",
-      "publishedDateTime": "2020-10-23T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-23-they-are-so-well-taken-care-of-trump-defends-separating-migrant-children-from-parents.md",
       "title": "'They are so well taken care of': Trump defends separating migrant children from parents",
       "excerpt": "Former Vice President Joe Biden promised citizenship for the nation's undocumented immigrants while President Donald Trump defended his own record.",
@@ -1503,7 +1394,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2200,
+      "heat": 2240,
       "tags": null,
       "images": [
         {
@@ -1579,6 +1470,110 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-ex-trump-aide-manafort-beats-manhattan-prosecutors-bid-to-revive-ny-fraud-charges.md",
+      "title": "Ex-Trump aide Manafort beats Manhattan prosecutor's bid to revive NY fraud charges",
+      "excerpt": "A New York appeals court on Thursday upheld the dismissal of state fraud charges against Paul Manafort, saying that reviving the case against U.S. President Donald Trump's former campaign chairman would violate double jeopardy rules.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-manafort-idUSKBN2772UT",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-manafort-idUSKBN2772UT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538504910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1LU",
+          "width": 837,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2772UT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2772UT",
+      "publishedDateTime": "2020-10-22T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-jason-whitlocks-friendly-interview-with-donald-trump-shows-our-new-media-ecosystem.md",
+      "title": "Jason Whitlock’s Friendly Interview With Donald Trump Shows Our New Media Ecosystem",
+      "excerpt": "Donald Trump has given friendly interviews to Jason Whitlock and Barstool Sports founder Dave Portnoy in the closing months of the highly fraught presidential campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexreimer/2020/10/22/jason-whitlocks-friendly-interview-with-donald-trump-shows-our-new-media-ecosystem/",
+      "originalUrl": "https://www.forbes.com/sites/alexreimer/2020/10/22/jason-whitlocks-friendly-interview-with-donald-trump-shows-our-new-media-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a2dc10b6772ea895493de%2F0x0.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexreimer/2020/10/22/jason-whitlocks-friendly-interview-with-donald-trump-shows-our-new-media-ecosystem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexreimer/2020/10/22/jason-whitlocks-friendly-interview-with-donald-trump-shows-our-new-media-ecosystem/amp/",
+      "publishedDateTime": "2020-10-22T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

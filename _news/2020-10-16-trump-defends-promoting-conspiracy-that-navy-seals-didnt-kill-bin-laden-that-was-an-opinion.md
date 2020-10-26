@@ -57,37 +57,37 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Mike Pence touts Donald Trump's Supreme Court pick at Wisconsin rally"
-    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
-    publishedDateTime: 2020-10-13T19:47:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
+  - title: "Twitter Flags Trump Tweet He’s That Immune To Covid-19 Coronavirus, Not Contagious"
+    excerpt: "Presumably, Trump was referring to the Covid-19 coronavirus infection that he’s had over the past week or so and not something like cat scratch fever or Bieber fever. The tweet sounds like positive news for the President."
+    publishedDateTime: 2020-10-11T22:13:00Z
+    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/"
+    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/amp/"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 100
+      name: Forbes
+      domain: forbes.com
+    quality: 119
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/84/08445a8c-87a2-5c8a-9a36-c7fcbd793e7e/5f8603fe6cff5.image.jpg"
-        width: 512
-        height: 360
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f837ffc613e1c0cfca4dd19%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D227%26cropY2%3D2759"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Pence touts Trump's Supreme Court pick at Wisconsin rally"
-    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
-    publishedDateTime: 2020-10-13T19:22:00Z
-    webUrl: "https://www.chron.com/news/article/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
+  - title: "Trump officials, while painting a rosy picture in public, warned conservative allies that coronavirus could harm economy"
+    excerpt: "On television, Larry Kudlow was optimistic. \"We have contained this,\" President Donald Trump's top economic advisor said of the coronavirus."
+    publishedDateTime: 2020-10-15T03:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-officials-privately-warned-conservative-allies-covid-19-harm-nyt-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-officials-privately-warned-conservative-allies-covid-19-harm-nyt-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-privately-warned-conservative-allies-covid-19-harm-nyt-2020-10?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 100
     images:
-      - url: "https://s.hdnux.com/photos/01/14/53/75/20102983/5/rawImage.jpg"
-        width: 1527
-        height: 2048
+      - url: "https://i.insider.com/5f87afa5ea23a5001903d79f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Twitter said it had to temporarily lock Trump's account after he shared a columnist's email address, violating the company's policies"
     excerpt: "Twitter confirmed that it locked Trump's account after he shared the email address of a journalist to his 87 million followers."
@@ -105,22 +105,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "'That makes no sense': Doctors say Trump is either getting overtreated for coronavirus, which could be risky, or he's more seriously ill than we know"
-    excerpt: "The decision to give the president steroids raises questions about how severe his coronavirus infection is, doctors say."
-    publishedDateTime: 2020-10-05T17:29:00Z
-    webUrl: "https://www.businessinsider.com/trump-coronavirus-treatments-prognosis-puzzle-doctors-remdesivir-dexamethasone-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-treatments-prognosis-puzzle-doctors-remdesivir-dexamethasone-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-treatments-prognosis-puzzle-doctors-remdesivir-dexamethasone-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-    images:
-      - url: "https://i.insider.com/5f78cb9e2400440019129d78?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "'That's bulls---. No way!': Trump supporters say they'd take a pass on Trump in 2024 no matter if he wins or loses in November"
     excerpt: "They love Trump and will wait for hours in line to see him. But even his most ardent supporters don't want the president on the ballot after 2020."
     publishedDateTime: 2020-10-14T21:23:00Z
@@ -134,22 +118,6 @@ related:
       - url: "https://i.insider.com/5f8604dffd1f49001964d62a?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Joe Biden Claps Back at Lara Trump Over Coronavirus Comments: ‘She Doesn’t Know What She’s Talking About’"
-    excerpt: "Joe Biden rebuked Lara Trump's assertion that had he been president when the coronavirus pandemic started, there would be 2 million Americans dead rather than the 218,000 who have died on President Donald Trump's watch."
-    publishedDateTime: 2020-10-17T19:10:00Z
-    webUrl: "https://www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/"
-    ampWebUrl: "https://www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 73
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-16.jpg"
-        width: 1200
-        height: 624
         isCached: true
   - title: "Collins: Maskless Trump Set a Poor Example at White House"
     excerpt: "Republican U.S. Sen. Susan Collins of Maine says she was “shocked” to see President Donald Trump discharged from the hospital so soon."

@@ -31,83 +31,96 @@ images:
     isCached: true
 
 related:
-  - title: "Trump said to be improving but next 48 hours 'critical'"
-    excerpt: "President Donald Trump says in a video from his hospital quarters that he is feeling better as he battles the novel coronavirus and hopes to “be back soon.”"
-    publishedDateTime: 2020-10-04T06:28:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_d2b4023d2f934b70b528779f972f8185_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Global stocks rise as signs of Trump's improving health calm markets"
-    excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
-    publishedDateTime: 2020-10-05T04:27:00Z
-    webUrl: "https://www.reuters.com/article/global-markets-idINKBN26Q03N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26Q03N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26Q03N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536147605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400A"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Rick Santorum said asking Trump to condemn right-wing extremists is unfair because they're his base"
-    excerpt: "The president had told the right-wing Proud Boys group to \"stand back and stand by\" after host Chris Wallace asked him to denounce white supremacy."
-    publishedDateTime: 2020-09-30T09:14:00Z
-    webUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5f7440b10ab50d00184ad31a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "In First Video From Hospital, Trump Says He Feels ‘Much Better,’ But Next Few Days Will Be ‘The Real Test’"
-    excerpt: "President Donald Trump Saturday night said in a video from Walter Reed Medical Center he is feeling “much better now” after White House officials gave conflicting accounts about his condition throughout the day."
-    publishedDateTime: 2020-10-03T23:54:00Z
-    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f790ccb33b8b5974bcf95f6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3530%26cropY1%3D179%26cropY2%3D2165"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Doctors say Trump doing 'very well' at hospital"
-    excerpt: "Doctors say US President Donald Trump is doing “very well” as he spends the weekend at a military hospital for treatment of COVID-19. (Oct. 3)"
-    publishedDateTime: 2020-10-03T17:30:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/03/doctors-say-trump-doing-very-well-hospital/3609245001/"
+  - title: "Mark Cuban says 'idiot' Donald Trump once told him to run for president"
+    excerpt: "Dallas Mavericks owner Mark Cuban said President Donald Trump is an \"idiot\" for how he's run the country as president."
+    publishedDateTime: 2020-09-30T17:18:00Z
+    webUrl: "https://www.usatoday.com/story/sports/nba/mavericks/2020/09/30/mark-cuban-calls-president-donald-trump-an-idiot/3587381001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3587381001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3587381001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6202483-2d89-4536-b228-2432ce9d25ba_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/bb91078b-8ea8-4702-b16e-61c98afa0ed4-USP_NBA__Dallas_Mavericks_at_Indiana_Pacers_1.JPG?auto=webp&crop=2248,1265,x0,y310&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The health of his political opponents has always been fair game for Trump"
+    excerpt: "During the 2016 and 2020 presidential campaigns, Donald Trump repeatedly mocked the health of Hillary Clinton and Joe Biden."
+    publishedDateTime: 2020-10-06T16:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2020/t_374a983ef17b4a77be9edafed014a5ce_name_71828b02_b366_11ea_98b5_279a6479a1e4_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "President Donald Trump, during debate, declares, 'I brought back Big Ten football'"
+    excerpt: "While addressing debate topic of economy, President Donald Trump brought up the return of Big Ten football: \"It was me, and I'm very happy to do it.\""
+    publishedDateTime: 2020-09-30T03:50:00Z
+    webUrl: "https://www.usatoday.com/story/sports/ncaaf/bigten/2020/09/29/presidential-debate-donald-trump-i-brought-back-big-ten-football/3583550001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3583550001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583550001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/37cbe3b4-7723-43c6-be0d-80b4491682d5-donald_trump.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "3 congressmen flew on a commercial Delta flight after a journey on Air Force One with President Trump"
+    excerpt: "The Republican politicians have been criticized after they flew on a Delta flight to Washington DC, hours after Trump tested positive for COVID-19."
+    publishedDateTime: 2020-10-04T15:47:00Z
+    webUrl: "https://www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5f79a8fc2400440019129d95?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "UK PM Johnson says 'resilient' Trump will make strong recovery"
+    excerpt: "British Prime Minster Boris Johnson said on Saturday he has no doubt U.S. President Donald Trump will make a very strong recovery from COVID-19, calling him a very \"resilient character\"."
+    publishedDateTime: 2020-10-03T12:39:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-johnson/uk-pm-johnson-says-resilient-trump-will-make-strong-recovery-idUSKBN26O0HX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O0HX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0HX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Donald Trump Vs. Meghan Markle: 4 Times The President Has Slammed The Duchess"
+    excerpt: "Donald Trump’s recent comments about Meghan Markle are only the latest ones he has made which appear to levy criticism at the Duchess of Sussex."
+    publishedDateTime: 2020-09-24T14:23:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/24/donald-trump-vs-meghan-markle.jpg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "cS7tz6XIzkKJ7Al5VJetzTiKCm0IdqRUD3Dl1XY6DSfmSBDTwh0TZkgbkUp+3M9ZkiRLhNCV9F0DXDqerXMvX00QHtJlUNkJydFtHAV0SU7vZYaN4ovvYKX0Bwrmj2K+57RnpQ0i9vNTSi2A+IwWx3bwUK3rhzi+xC/oRq+Ba0wOZN7+pf2L9nxSavDYecFnc8gwiXF10ufzfBBN4susFWf+sBAS7E8dV6O+7EerAvBJmxS95J4PRaAl21XNiO4+Eeq+uQeWcvPYTK+nAcv92H9CVhrTIdMRUyP6+sqjdWaUUj920DppwEwhfezLZRd350ES0HB8H0lYuf0wXmODo6HCNjL+gPZZx9X0SX5OQ/A=;dOSgAMz48hAPo35MhSq90Q=="

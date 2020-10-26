@@ -209,6 +209,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden's socially distanced campaign"
+    excerpt: "Deanna White of Durham looks on from her vehicle as Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event at Riverside High School in Durham, North Carolina, Octob"
+    publishedDateTime: 2020-10-19T20:41:00Z
+    webUrl: "https://www.reuters.com/news/picture/joe-bidens-socially-distanced-campaign-idUSRTX83IZT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538082264&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-19T202713Z_37091_MRPRC26LJ9NSXSX_RTRMADP_0_USA-ELECTION-BIDEN"
+        width: 810
+        height: 611
+        isCached: true
   - title: "Biden town hall: Win or lose on Election Day, Joe Biden calls for unity and dignity"
     excerpt: "Democratic presidential nominee Joe Biden, in a primetime town hall Thursday, made the case that Americans want more inclusion and dignity across the board, an outlook at odds with what Biden described as President Donald Trump ’s “divide and conquer” strategy."
     publishedDateTime: 2020-10-16T02:42:00Z
@@ -241,6 +255,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Former Republican National Committee chairman endorses Joe Biden for president"
+    excerpt: "Former Republican National Committee Chairman Michael Steele announced in an ad by the Lincoln Project that he is voting for Democratic presidential nominee Joe Biden on Election Day."
+    publishedDateTime: 2020-10-21T00:43:00Z
+    webUrl: "https://www.kjrh.com/news/election-2020/former-republican-national-committee-chairman-endorses-joe-biden-for-president"
+    ampWebUrl: "https://www.kjrh.com/news/election-2020/former-republican-national-committee-chairman-endorses-joe-biden-for-president?_amp=true"
+    cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/election-2020/former-republican-national-committee-chairman-endorses-joe-biden-for-president?_amp=true"
+    type: article
+    provider:
+      name: KJRH
+      domain: kjrh.com
+    quality: 71
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9530e12/2147483647/strip/true/crop/1000x563+0+81/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F79%2Fd8%2Facd014b74556a695e7f764d3cf97%2Fmichael-steele.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
     excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."
     publishedDateTime: 2020-10-13T22:24:00Z
@@ -262,6 +292,17 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 55
+  - title: "Go From There | Joe Biden For President 2020"
+    excerpt: "Actor Sam Elliott lent his voice to a Joe Biden campaign video that aired during the World Series Tuesday and became a Twitter magnet. See the ad and responses to it. Get up-to-the-minute news sent straight to your device."
+    publishedDateTime: 2020-10-21T05:56:00Z
+    webUrl: "https://www.stltoday.com/go-from-there-joe-biden-for-president-2020/video_9ef511f8-1135-59f6-baa7-4ed7fb41fa55.html"
+    ampWebUrl: "https://www.stltoday.com/go-from-there-joe-biden-for-president-2020/video_9ef511f8-1135-59f6-baa7-4ed7fb41fa55.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/go-from-there-joe-biden-for-president-2020/video_9ef511f8-1135-59f6-baa7-4ed7fb41fa55.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 55
   - title: "Joe Biden Delivers Remarks in Toledo on the Economy"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation’s economy. 2020 Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation’s economy."

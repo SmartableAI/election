@@ -112,19 +112,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Why Trump's road to 270 is narrow"
-    excerpt: "President Donald Trump faces a large deficit in the polls right now. If the election were held today, he'd very likely lose.\n    \n"
-    publishedDateTime: 2020-10-20T11:02:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IIy2Q0CQ1ss/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/trump-electoral-map-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-electoral-map-analysis/index.html"
+  - title: "Analysis: How Trump is dragging down fellow Republicans"
+    excerpt: "President Donald Trump's struggles in the polls have been well documented. He entered the final debate down about 10 points to former Vice President Joe Biden and trailed in key swing states.\n    \n"
+    publishedDateTime: 2020-10-24T12:42:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zVyvuYrIgys/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/trump-republicans-down-ballot-races-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/trump-republicans-down-ballot-races-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201019175506-donald-trump-october-18-2020-01-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022214220-09-debate-nashville-1022-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -221,22 +221,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: How the debate on the climate crisis ricocheted from Planet Earth to Planet Trump"
-    excerpt: "\"We're running out of time so we gotta get on to climate change,\" moderator Kristen Welker said as the final Presidential debate of 2020 came to a close.\n    \n"
-    publishedDateTime: 2020-10-23T14:14:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HWhVonfUSwo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/climate-crisis-presidential-debate-analysis-weir-wxc/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/climate-crisis-presidential-debate-analysis-weir-wxc/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023085411-coal-plant-generic-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

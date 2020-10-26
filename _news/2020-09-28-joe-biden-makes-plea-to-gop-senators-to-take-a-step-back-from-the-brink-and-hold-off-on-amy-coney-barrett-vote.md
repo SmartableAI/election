@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/joe-biden-supreme-court-senate-repub
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9?amp"
 type: article
 quality: 104
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,31 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden: Amy Coney Barrett is a threat to Obamacare"
-    excerpt: "Joseph R. Biden warned Saturday Obamacare is doomed if Amy Coney Barrett wins confirmation to the Supreme Court."
-    publishedDateTime: 2020-09-27T00:17:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
+  - title: "Joe Biden told Senate Republicans to 'follow your conscience' on nominee vote to fill Ruth Bader Ginsburg's seat"
+    excerpt: "Democratic presidential nominee Joe Biden appealed to a \"handful\" of Republican senators that could block a Supreme Court nomination made by Trump."
+    publishedDateTime: 2020-09-20T22:10:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/26/election_2020_biden_13918_c0-164-5833-3566_s1200x700.jpg?9f7efeb7b81d45783e417f0bb02a19bf07526104"
+      - url: "https://i.insider.com/5f67c7e357b7da001ee12aba?width=1200&format=jpeg"
         width: 1200
-        height: 700
+        height: 600
         isCached: true
-  - title: "Judge Amy Coney Barrett Meets with Vice President Pence and Majority Leader McConnell"
-    excerpt: "Senate Majority Leader Mitch McConnell (R-KY) met with Supreme Court nominee Judge Amy Coney Barrett on Capitol Hill. As part of the confirmation process, it is customary for the nominee to meet with senators individually."
-    publishedDateTime: 2020-09-29T14:50:00Z
-    webUrl: "https://www.c-span.org/event/?476354/supreme-court-nominee-amy-coney-barrett-meets-senators-capitol-hill"
+  - title: "Joe Biden Reaction to Death of Justice Ruth Bader Ginsburg"
+    excerpt: "T21:40:50-04:00 presidential nominee Joe Biden pays tribute to Justice Ruth Bader Ginsburg. He recalls presiding over her confirmation hearing and says she was a “beloved figure.” He also says the voters should have a say in who picks her successor."
+    publishedDateTime: 2020-09-19T02:23:00Z
+    webUrl: "https://www.c-span.org/video/?476039-1/joe-biden-pays-tribute-late-justice-ruth-bader-ginsburg"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 28
+    quality: 35
 
 secured: "N1nsBEqFXXw4pvvGBN6/j728h4jCkFQC0kHxhOckNKxU70Zl7LfW3ubmM2dlTmzf/VUzCZlsR65BQOg1FrcZPhXF76aqrwlNT1iLz2Y+h5RlHPthp69lRN/dFqVlaeDDrInpQBpxnKwgr8lz2Q8UZGNzuohvbYFO3MOwXP24XUAiF3wUdOvkjICr6dYQHbGW8jLsK3Mkl60zd4cQ1sszcohxQJpZm6pBrRqT15j+fqONaFnG39oSxfi94WUm5tXFmHZDTmXaTBSABdBld2YcXAqo8uvr0yiPJ9V1T4Z2vYOws7YQKy3c6USahODtfbME8osyzRlGlAPwY13x/b5rYABsn6HmViSNOaxS3sutof/3bLSgLm3xsjybrKMiKp0IncQZn8kF+lcNBWT0MfXmY4n0f/YLqCDvB5qVG0LKO48YAcLyHFj8L6XEhos4HaJozCyoTFFJMsgtO2ErBsJ7xaxIv+XV5b5l6o5QUbwzmhJeYYssKZR4P5532bvpKu+5/SQAWGWlO7TmpPMMtjow1w==;xmx+hYnYt+GljDKv+joaiw=="
 ---

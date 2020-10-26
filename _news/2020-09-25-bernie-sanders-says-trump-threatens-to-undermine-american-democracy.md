@@ -61,38 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bernie Sanders gave a dire warning over Trump's refusal to promise a peaceful transition of power"
-    excerpt: "The Vermont senator described \"an election between Donald Trump and democracy,\" and added that \"democracy must win.\""
-    publishedDateTime: 2020-09-24T20:27:00Z
-    webUrl: "https://www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5f6cf4cf0f4d5500110322f2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Bernie Sanders says there are a 'number of plans' to force Trump from office if he refuses to peacefully transfer power"
-    excerpt: "There are a \"number of plans\" to force Donald Trump out if he refuses to allow a peaceful transfer of power after losing the election, Sanders said."
-    publishedDateTime: 2020-09-27T10:55:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5f7064e374fe5b0018a8daab?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "lnllO3IgVb1w+9sNkUyjiVYAvyadL6VE44np50FJ4ovL3yXK500StTHjZJcty834Fl2V+VPgh5FjmvSsCOiOZS2qPYOi4x9iqfjDN76Zf2kLC8h8quNmYh65ZXUXsA4xDW8b8VJSxMNgzgd5JUpnE8nRU6JCtWHE7jxFRjq8LlB/pHZfCMjLgC4L5dnMZoPmOHFcqHeIStC7aRU/DtKM1GY9T0/wF53m/FK6kAe6yLVOWuclOg6Qh52uXMYxgItOwoesIu/G9LCfgzfHvEXQD1Qep+riLl+f/qKsuu9ddEK0CagdVqy9r14XnBxHllCI8vOk+uBycPTdQc3i8zd8Y/VDXYVBSZ+HkLIi1ex/M6E=;ieMY6Uv7UotnQFHEnm2S5g=="
 ---

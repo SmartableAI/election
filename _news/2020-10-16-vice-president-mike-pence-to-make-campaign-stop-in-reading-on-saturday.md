@@ -326,6 +326,17 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 55
+  - title: "Vice President Mike Pence to make 2 South Florida stops on Thursday"
+    excerpt: "President Trump and Vice President Mike Pence will both be in South Florida on Thursday, attending separate events. At 12:30 p.m.,"
+    publishedDateTime: 2020-10-15T13:09:00Z
+    webUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/"
+    ampWebUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 55
   - title: "Vice President Mike Pence attends 2 events ahead of president’s arrival"
     excerpt: "President Donald Trump and Vice President Mike Pence will both be in South Florida on Thursday and will be attending separate events throughout the day. Pence spoke at an event at the Memorial Cubano at Tamiami Park in West Miami-Dade just after 12:30 p."
     publishedDateTime: 2020-10-15T20:46:00Z

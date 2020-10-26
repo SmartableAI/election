@@ -2,21 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-25-did-donald-trump-deliver-to-voters-with-that-last-debate-performance.md",
-      "title": "Did Donald Trump deliver to voters with that last debate performance?",
-      "excerpt": "In the second and final presidential debate, Americans witnessed a much less raucous, more coherent, and more policy-oriented and traditional discussion than the first debate That",
+      "path": "_news/2020-10-26-trump-top-campaign-adviser-the-president-wants-to-see-every-republican-reelected.md",
+      "title": "Trump top campaign adviser: 'The president wants to see every Republican reelected'",
+      "excerpt": "The statement contradicts recent comments from the president, who reportedly said he doesn't \"want to help\" some Republican senators with reelection.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance",
-      "originalUrl": "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance",
+      "webUrl": "https://www.politico.com/news/2020/10/25/trump-campaign-president-republican-reelected-432290",
+      "originalUrl": "https://www.politico.com/news/2020/10/25/trump-campaign-president-republican-reelected-432290",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/trumpdonald3_10222020getty.jpg",
-          "width": 980,
-          "height": 551,
+          "url": "https://static.politico.com/34/2f/37a2bdae4e069ad2868adf02f2fa/gettyimages-650653526.jpg",
+          "width": 4834,
+          "height": 3221,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp",
-      "publishedDateTime": "2020-10-25T08:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T10:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,25 +54,26 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
-      "path": "_news/2020-10-25-trump-biden-race-is-tight-in-florida-georgia-and-north-carolina-cbs-news-battleground-tracker-poll.md",
-      "title": "Trump-Biden race is tight in Florida, Georgia and North Carolina — CBS News Battleground Tracker poll",
-      "excerpt": "Our estimates show Joe Biden with just a two-point edge over President Trump in Florida, Biden up four points in North Carolina, and the contest even in Georgia. Millions have already voted and many others say they've already decided.",
+      "path": "_news/2020-10-25-pence-to-keep-up-travel-despite-contact-with-infected-aide.md",
+      "title": "Pence to keep up travel despite contact with infected aide",
+      "excerpt": "The White House says Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/",
+      "webUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/25/46ae8717-8c38-4030-84bc-dbf4c833b39e/thumbnail/1200x630/d90ba7b812a4d1b3d439b605097676c8/gettyimages-1229228694.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +81,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/",
-      "publishedDateTime": "2020-10-25T07:32:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-25T09:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -102,7 +107,63 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.md",
+      "title": "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson",
+      "excerpt": "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6NWqlGnUVw/joe-hunter-biden-china-ron-johnson",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6NWqlGnUVw/joe-hunter-biden-china-ron-johnson",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp",
+      "publishedDateTime": "2020-10-25T09:15:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -400,7 +461,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1658,
+      "heat": 1718,
       "tags": null,
       "images": [
         {
@@ -614,58 +675,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-25-election-2020-live-updates-obama-says-trump-treats-presidency-like-a-reality-show.md",
-      "title": "Election 2020 live updates: Obama says Trump treats 'presidency like a reality show'",
-      "excerpt": "With 10 days to go until Election Day, President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/live-updates/election blog/?id=73795075",
-      "originalUrl": "https://abcnews.go.com/Politics/live-updates/election blog/?id=73795075",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 273,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/obama-miami-2-ap-rc-201024_1603571842167_hpMain_16x9_1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075",
-      "publishedDateTime": "2020-10-24T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-24-brad-pitt-narrates-new-biden-campaign-ad-airing-during-world-series.md",
       "title": "Brad Pitt narrates new Biden campaign ad airing during World Series ",
       "excerpt": "Actor Brad Pitt narrated an ad for Joe Biden's presidential campaign that's airing Saturday night during the fourth game of the World Series.\n    \n",
@@ -730,7 +739,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 143,
       "tags": null,
       "images": [
         {

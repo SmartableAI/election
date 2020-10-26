@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Donald Trump to return to Minnesota next week, visit Duluth"
+    excerpt: "President Donald Trump will visit Minnesota once again next week, making a campaign appearance in Duluth. The president has made multiple campaign stops in the state this year. Trump and former Vice President Joe Biden made appearances on the same day in northern Minnesota last week."
+    publishedDateTime: 2020-09-26T03:10:00Z
+    webUrl: "https://www.startribune.com/president-trump-to-return-to-minnesota-next-week/572542951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/1601076390_19535581+1mndt092620.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cTg3SybPABTE5SFl4BId/f0ZTa8L7K8mREp7OBC1L2IPy5m0cYdzRsyPqDZi0JAklCgRLmoefOhAyEkqgX1XZiAymE9+bB7HUnlA+kTd5H570slLJy2Y4cxuummR/TT5cc74h5cRtO5i4juJUPVEgQg3l4+AWHhlPQQKG55nx9UK6kTIqKrYuqaTDiRs83/9b2Tje5ik5px92zbfr/CrRlku8jaRvN6CepjPrEg5yJp/bizh+y4WY1pmr5aeiRIhlKoEGcAeG0mLYOgz/HWIqi1B9Afabk2VwwzAKzH7S+MrkLvjmwz94S0PxFMSlDO4J2RWp1JO9YYxcag9FCK/As6hkuHA8LqQ7/IMro03P7E=;3Agd4bfwNyJP+6PicK63oA=="
 ---

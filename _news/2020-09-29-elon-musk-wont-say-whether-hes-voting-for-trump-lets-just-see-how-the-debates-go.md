@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Donald Trump's tax returns has many wondering what they're doing wrong"
+    excerpt: "Tax breaks for businesses likely helped cushion the tax bill for President Donald Trump, as the speculation continues about Trump's tax audit and tax returns."
+    publishedDateTime: 2020-09-29T11:18:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/09/29/donald-trump-tax-returns-income/3570417001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3570417001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3570417001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump gets experimental drug aimed at curbing severe illness"
     excerpt: "The experimental antibody drug given to President Donald Trump has been called one of the most promising approaches to preventing serious illness from a COVID-19 infection"
     publishedDateTime: 2020-10-02T23:34:00Z
@@ -95,22 +111,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Former Pence aide blasts Trump for putting law enforcement in danger to advance his ‘law and order’ campaign"
-    excerpt: "The former Homeland Security and Counterterrorism adviser for Vice President Mike Pence is speaking out against President Trump’s “law and order” campaign in a new ad, Newsweek reports. Olivia Troye appears in the latest ad for Republican Voters Against Trump (RVAT),"
-    publishedDateTime: 2020-09-25T17:53:00Z
-    webUrl: "https://www.rawstory.com/2020/09/former-pence-aide-blasts-trump-for-putting-law-enforcement-in-danger-to-advance-his-law-and-order-campaign/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/former-pence-aide-blasts-trump-for-putting-law-enforcement-in-danger-to-advance-his-law-and-order-campaign/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/former-pence-aide-blasts-trump-for-putting-law-enforcement-in-danger-to-advance-his-law-and-order-campaign/amp/"
+  - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
+    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
+    publishedDateTime: 2020-09-29T06:26:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 71
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Olivia-Troye-screen-grab-via-Republican-Voters-Against-Trump.jpeg"
-        width: 800
-        height: 430
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
 
 secured: "p2wlX4T8SLo+S/rW+6+q6v79Qur2DIfjPKTKCX785zf0YH5IxPkath+Cc6m6+UsMp2wLaeyY5BBVeYRkHwkt5z9u60iajzMb3us/uA5BYZsHDzZXMGfTjNw6eoSl4NlptrOa8n2DwFoZRm9qmJA5kjawlYVzDpaGewuU3c4YiwSgyyHe5r7RpoYPf+lA8hQn5mYhpmDdwykxI1CRJuurqKmoGYLxMP3pF1/Aw22HopwXo7/3NWj52xyTpR4Qi/aj6ZK/Khz4XLk1nubAD+dfug5aSCE2Cvyp9gvohdp5yOsAv2PzDtfWKV6AyYiTf3bCpKOsSEP5mItByhjyUECvUqKUkZ0JFVAxTvoh/GphPhc=;hZyTHgi17mq8HOn/e7qQeA=="
 ---

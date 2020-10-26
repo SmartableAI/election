@@ -65,6 +65,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump makes at least 16 false or misleading claims to '60 Minutes'"
+    excerpt: "President Donald Trump continued his dishonesty blitz in an interview with Lesley Stahl of \"60 Minutes.\"\n    \n"
+    publishedDateTime: 2020-10-26T11:17:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LeWY3tNeZ0g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/fact-check-trump-60-minutes-lesley-stahl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/fact-check-trump-60-minutes-lesley-stahl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025114911-01-trump-lumberton-nc-rally-1024-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration pushes for last-minute foreign policy wins in final campaign sprint"
     excerpt: "Less than two weeks from Election Day, the Trump administration is working hard to secure foreign policy victories aimed at providing a last-minute boost in the polls.\n    \n"
     publishedDateTime: 2020-10-21T12:20:05Z
@@ -208,6 +224,6 @@ related:
         height: 773
         isCached: true
 
-secured: "y0QVRa0F5+c/oPHPz48KkxHV88uk4YU2ugH1ArtF9BBGgKKKlYAa2tAvcJ61+2ViD4wbi+h/+iBQ2KLyu/MsQKfMNidcZarC1ZzUK7W+Apk3c2GzC35VMHy4HPo20zr4agb7OPW2NI9EnlQ7lfVDPHFIOOnCiiwi4sintLYFT64h0+g0soYB6zlmM0agSX3R13zh4WnIhgxpe9V9aq8lMkb4qsQBy3RnW62k/UVgWgHt8REBf24pp6G2Rtvwdx6V/OzV19lWF+Hc2p+rmTUums5Z1e2mSu2WZYtTyVYL7RIlNpwS8O4vqF9loHxwjALxMCXW3HWXrd9MpCkiUrPLSjcgKV08mY0m7S0SnpaU+Zw=;DPifd6Xoocvg2mo4D5wXvg=="
+secured: "6lIUFTwCbBVsb0zGcGfXPZHNoZxEzc/gU59ahvvP4R22fJp29nGC4M3TkTZSMh1E0CJrBdlDyHVwZapQkll7ESMtGswdi2T7Gk/wE9spP3/EG5keY9Wo+w/THHlX34x6m3Rc8/3AM7Hx5yUMqM0cHQU1PdHpte1Ur5vPOiD5VHbQVDS96wQbJ4mb1MZNUCKBp8AKJdWEDUtVEVWFd9TgoryCQV3jVKPYdkr2650AiEoLvA7Ti5Q+TKYKCoG0jre24JDR5rWkDAAgI5GcFbHidieimzJazqrzNny4i80AmPWzQY2Sa/m228G2IzBrKTh6J9+YTLC7T772EdqmKzRV0x3pWpfg6AL4JvAT0w2yxktS+VgLn9ocGsal2PMkc6seXrPKN8lNTNMRe5cE3mPRkif5T4bWZyeex9I/Qfo82IdlzYSJ0rUbGIvqCqTie86X59d/xBC81MvNw3LubWq9Vy6NB4jEjkkkOWAjSMEXJzwYg2+20P5rre3cidrOTs6Alih6cyhOtY6bNoUDYbMw0Q==;xpD7mrJtMe7ZrWM126sIUA=="
 ---
 

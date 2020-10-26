@@ -9,8 +9,8 @@ ampWebUrl: "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-b
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/amp/"
 type: article
 quality: 66
-heat: 146
-published: true
+heat: -1
+published: false
 
 provider:
   name: Metro
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sacha Baron Cohen reveals how he snuck into a Mike Pence speech dressed as Trump"
+    excerpt: "Sacha Baron Cohen has detailed how he managed to sneak into a speech by Mike Pence dressed as Donald Trump for his 'Borat' sequel"
+    publishedDateTime: 2020-10-19T11:27:00Z
+    webUrl: "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022"
+    ampWebUrl: "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 85
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/10/borat-mike-pence.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Sacha Baron Cohen Listened to ‘Conservative Men Go to the Toilet for 5 Hours’ to Prank Mike Pence"
     excerpt: "Subsequent Moviefilm, Sacha Baron Cohen revealed the smelly, cramped lengths he had to go to in order to prank V"
     publishedDateTime: 2020-10-18T03:20:00Z

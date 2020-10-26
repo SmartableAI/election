@@ -95,6 +95,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "When Trump gets coronavirus, Chinese Americans pay a price"
+    excerpt: "Researchers monitoring Twitter several days after Trump announced his diagnosis noticed a startling spike in hateful sentiments against both China and Asian-Americans, as well as the recycling of other conspiracies."
+    publishedDateTime: 2020-10-09T10:09:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WQGDHEAIY4I6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "WATCH LIVE: Trump holds campaign rally in Sanford, Florida"
     excerpt: "The White House doctor has said Trump is no longer at risk of transmitting the coronavirus but has not said explicitly whether Trump has tested negative for it."
     publishedDateTime: 2020-10-12T19:58:00Z

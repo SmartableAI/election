@@ -43,6 +43,22 @@ related:
         width: 733
         height: 366
         isCached: true
+  - title: "Hunter Biden emails were reportedly shopped around in Ukraine for $5 million, while Giuliani met with officials and businessmen there last year"
+    excerpt: "Two people told Time that they were approached with the emails, and one said the person making the offer already had a buyer in mind, Trump's allies."
+    publishedDateTime: 2020-10-22T05:21:00Z
+    webUrl: "https://www.businessinsider.com/time-hunter-biden-emails-shopped-around-ukraine-last-year-5m-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/time-hunter-biden-emails-shopped-around-ukraine-last-year-5m-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/time-hunter-biden-emails-shopped-around-ukraine-last-year-5m-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5f90ed74abcd0c0018d68f6e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "zVjzea76RXJiZ7YmduP7dr5L+dekINIODBCVNV2S8tKVRrW4HvhjNHAHfZ/eyzeDhnhLdvJP5Z3Pe1kv46ef1CHdyTMjIrrVNFMUFmslWlGl+6oPNVoC+uvX8CXEv7gMEkOapR+X1KwCVvuJCUmUjEwV73MTjjHsHVp5ESKSnyvKEht9MHDUn9C9g4EyjtqjqzHHb83YoSCnMH8kbYjOfXxZMQqS63N7fWVZqaMhyCQ4UN4YnflVZfGVCe5N/P/mHwOdP7VRWV1VHLr4NW3cx+uxnKUilfaRLKd8vGdYkXQd7jbXlrAaQdAJYUDkRNfgkRQJUEj9vj35tvj9jpWuNcvJAMzca3esZtseMfuhTOA=;uhDJHGeiKm3s6BxcCrjI4Q=="
 ---

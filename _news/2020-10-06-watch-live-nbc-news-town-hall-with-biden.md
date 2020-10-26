@@ -31,128 +31,196 @@ images:
     isCached: true
 
 related:
-  - title: "Beto O’Rourke says Texas is ‘Joe Biden’s to lose’"
-    excerpt: "O'Rourke argued that public polling tends to underestimate Democratic performance in Texas, pointing to results from his 2018 Senate race, and Hillary Clinton in 2016."
-    publishedDateTime: 2020-09-29T23:43:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php"
+  - title: "Breakingviews - Debate chaos is a gift for a conflicted Biden"
+    excerpt: "Donald Trump just gave Joe Biden a gift. The first televised debate of the 2020 election could have forced the Democratic presidential nominee to explain how he can appease both economic moderates and progressives."
+    publishedDateTime: 2020-09-30T04:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26L0G1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L0G1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L0G1"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://s.hdnux.com/photos/01/14/33/41/20035650/3/rawImage.jpg"
-        width: 2048
-        height: 1283
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535463441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T0C5"
+        width: 859
+        height: 545
         isCached: true
-  - title: "Opinion: I’m a Christian, veteran, Texas Republican and I support Joe Biden"
-    excerpt: "I am casting my vote for Joe Biden because of, not in spite of, my beliefs and experiences as a veteran, a Christian, a conservative and a native rural Texan. In many ways, the president sits atop what sociologist Robert Bellah called our American “civil religion,"
-    publishedDateTime: 2020-09-24T08:25:00Z
-    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
-    ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
+  - title: "Democratic Armed Services chairman predicts defense budget fight if Biden wins"
+    excerpt: "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win."
+    publishedDateTime: 2020-10-01T23:46:00Z
+    webUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins"
+    ampWebUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 123
+      name: The Hill
+      domain: thehill.com
+    quality: 121
     images:
-      - url: "https://s.hdnux.com/photos/01/14/24/20/20005899/4/rawImage.jpg"
-        width: 2048
-        height: 1501
+      - url: "https://thehill.com/sites/default/files/smithadam_070920gn2_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "‘You can win this!’: how Beto O'Rourke is becoming Joe Biden’s greatest ally"
-    excerpt: "The El Paso politician is on a mission to take back Texas for the Democrats, urging Biden’s team to court the state’s many undecided voters"
-    publishedDateTime: 2020-09-23T09:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally"
+  - title: "Democratic nominee Joe Biden campaigns in Michigan after testing negative for coronavirus"
+    excerpt: "The former vice president delayed his scheduled trip to the battleground state in order to take two coronavirus tests Friday morning."
+    publishedDateTime: 2020-10-03T01:39:00Z
+    webUrl: "https://www.cnbc.com/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
+      name: CNBC
+      domain: cnbc.com
+    quality: 116
     images:
-      - url: "https://i.guim.co.uk/img/media/c63a765ef52204cdd445505513fbc7981ab30757/0_0_5472_3648/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2054f764993b62ddf0cdec7aaa7b6070"
-        width: 600
-        height: 400
+      - url: "https://image.cnbcfm.com/api/v1/image/106712128-16007764692020-09-21t201730z_1749449824_rc283j97mwkc_rtrmadp_0_usa-election-biden.jpeg?v=1600776508"
+        width: 3500
+        height: 2334
         isCached: true
-  - title: "Detroit pastor wants Biden to reach out more to Black community"
-    excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
-    publishedDateTime: 2020-10-01T19:52:00Z
-    webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
+  - title: "Your Evening Briefing: Russia’s Growing Fear of a President Joe Biden"
+    excerpt: "But Vladimir Putin is also wondering what a President Joe Biden would mean for issues from nuclear arms to relations with China, energy exports and sanctions. The conclusion from the Kremlin seems to be that Biden would be bad news for Russia."
+    publishedDateTime: 2020-09-25T21:51:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2020-09-25/your-evening-briefing-russia-s-growing-fear-of-a-president-joe-biden"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/0b79fbfd-2239-43f0-8b45-220c14a49773/thumbnail/1200x630/5dd6caec806d41fa8bf76a61c547bca6/1001-cbsn-camcan-detroitbidenblackcom-557960-640x360.jpg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDQ3EuU3l5ng/v0/1200x966.jpg"
         width: 1200
-        height: 630
+        height: 966
         isCached: true
-  - title: "Joe Biden tells Proud Boys and white supremacist groups to 'cease and desist'"
-    excerpt: "US Democratic presidential candidate Joe Biden has told far-right group Proud Boys and white supremacist groups to \"cease and desist\". It follows Tuesday night's presidential debate, when President Donald Trump refused to condemn white supremacist and militia groups - and called on Proud Boys to \"stand back and stand by\"."
-    publishedDateTime: 2020-09-30T20:04:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
+  - title: "Biden to Proud Boys: 'Cease and desist'"
+    excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
+    publishedDateTime: 2020-09-30T21:01:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 102
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08sztpk.jpg"
-        width: 400
-        height: 225
+      - url: "https://static.reuters.com/resources/r/?d=20200930&i=OVCXVZ5CV&r=OVCXVZ5CV&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Joe Biden Is an Overhyped Debater"
-    excerpt: "Throughout Biden’s shaky 2020 Democratic primary debate performances, observers remarked that this wasn’t the same guy we saw debating Paul Ryan years ago."
-    publishedDateTime: 2020-09-29T15:47:00Z
-    webUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/"
-    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
+  - title: "'He's from here': Biden and the battle for Scranton"
+    excerpt: "Biden and the battle for Scranton. Posted . Democratic presidential nominee Joe Biden's hometown of Scranton, Pennsylvania has become one of the cent"
+    publishedDateTime: 2020-10-06T18:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2xd?now=true"
     type: article
     provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/08/Joe-Biden-1-DNC-scaled.jpg?resize=300%2C300&ssl=1"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
-    excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
-    publishedDateTime: 2020-10-05T20:50:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2020/10/AP_20280035813476.jpg?crop=0px%2C0px%2C4245px%2C2388px&resize=1200%2C675"
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7c7fa6e4b04f7ff7c2adc5-1601994662901?location=LANDSCAPE"
         width: 1200
         height: 675
         isCached: true
-  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
-    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
-    publishedDateTime: 2020-10-03T09:13:00Z
-    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
+  - title: "‘Bidin’ his time’: Joe Biden battles being chronically late"
+    excerpt: "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at"
+    publishedDateTime: 2020-09-23T04:08:00Z
+    webUrl: "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 51
+      name: Associated Press
+      domain: apnews.com
+    quality: 85
+  - title: "‘Bidin’ his time': Joe Biden battles being chronically late"
+    excerpt: "Joe Biden was running late. Again.On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at a subsequent press conference. When it was finally over,"
+    publishedDateTime: 2020-09-27T03:06:00Z
+    webUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late"
+    ampWebUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
+    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
+    type: article
+    provider:
+      name: The Oklahoman
+      domain: oklahoman.com
+    quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-4cb4ae21b3530f5411a1621d59b8d043.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Joe Biden releases 2019 returns, paid nearly $300,000 in taxes"
+    excerpt: "Democratic presidential nominee Joe Biden released his 2019 tax returns hours before the first debate with President Donald Trump, showing that he paid $299,346 in income taxes in 2019."
+    publishedDateTime: 2020-09-29T17:07:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/Election_2020_Biden_70169-2.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Michelle Obama: 'Vote for Joe Biden like your lives depend on it'"
+    excerpt: "Former first lady Michelle Obama launched a 24-minute campaign video for Joe Biden on Tuesday, slamming President Trump and urging Americans to vote for the Democratic presidential nominee like their “lives depend on it."
+    publishedDateTime: 2020-10-06T20:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/06/michelle_obama_c20-0-880-502_s1200x700.jpg?fb980a6d3389ca7cc435a478cad5a7e1c62b1a57"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
+    excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
+    publishedDateTime: 2020-09-29T22:50:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2020/09/29/fact-check-allegations-joe-biden-wearing-earpiece-false/3578805001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3578805001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3578805001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "M. Night Shyamalan Teams Up with Joe Biden Campaign for Filmmaking Contest to Encourage Voting"
+    excerpt: "We really feel this is an important way that all of us can be a part of this incredible moment in history,” M. Night Shyamalan said of the contest"
+    publishedDateTime: 2020-10-01T19:05:00Z
+    webUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/"
+    ampWebUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 63
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B405%2C380%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F01%2FM-Night-Shyamalan-Joe-Biden.jpg"
+        width: 1500
+        height: 785
+        isCached: true
+  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
+    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
+    publishedDateTime: 2020-09-24T14:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "2wxgmJR2jCLEdKO+dz29zxfcTxHSoR7W1DFriDbeVPHI/KaAJhQNAoJuhCahuTrKIWoVn83LG/iZChN6PNqpEQCcb9zK1nd+hOckzGKBCGjkLgZP+gh5gca6zISAAEbZH5gFIm513+miLsrvj4Wx+7M4WhZdDJ/7I3dFCpHEarwIHawkmSvkUbo/8k9Jvw3Kd2vkMMbxIx/LAsBwqYK/roo9SuLIwdiW91gL4dJabuZCTYnBfKWoIrHnW50LWOhUSFAbu5tUQxHJ/LNKn6Dk3/BjM0U9VymtD6Ctt4re7bLqaEO/p0MvODiKCNas7dv9x2+CiVnxqn7PqNyAyIfzqAN0285QaysXGYpmSXPEjE+nAw2BWNeKQEle0e24M9qsJ4kXsEl/rpZja5Gc4YSMaHBACH5Zb0/Z4ZShLWlbRBK0yEN7wMr8A3TZUFbTWcaX0fFGM0GL7NKBYLGaN1D88HUiPywkb5fwfXxA1uSm/jUC+Tjnslyz2RfUyE7dfrMliIe2kwitjf+XlRseuBIMhg==;+a+sFNeaQH/FRmzEJVSx1w=="
 ---

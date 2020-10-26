@@ -2,6 +2,384 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-10-02-pete-wilson-endorses-trump-says-president-has-very-good-judgment.md",
+      "title": "Pete Wilson endorses Trump, says president has 'very good judgment'",
+      "excerpt": "Wilson was among nearly seven dozen members of past GOP administrations and Congress who backed Trump in a signed letter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/california/story/2020/10/01/pete-wilson-endorses-trump-says-president-has-very-good-judgment-1319581",
+      "originalUrl": "https://www.politico.com/states/california/story/2020/10/01/pete-wilson-endorses-trump-says-president-has-very-good-judgment-1319581",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/0f/98/71f042ff4c01b1a5186cc20ae208/gettyimages-77065138-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-cruz-slams-biden-for-dodging-court-packing-questions-claims-ex-vp-doesnt-want-to-be-honest-with-americans.md",
+      "title": "Cruz slams Biden for dodging court-packing questions, claims ex-VP 'doesn't want to be honest' with Americans",
+      "excerpt": "Joe Biden does not possess the strength to stand up to the \"rage and fury\" of the far left as evidenced by his refusal to say whether he supports expanding the Supreme Court if elected, Sen. Ted Cruz, R-Texas, told \"The Story\" Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4xeYqBRfJA/ted-cruz-joe-biden-court-packing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4xeYqBRfJA/ted-cruz-joe-biden-court-packing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80823b08-3de2-4be6-9bfa-dfba50c92343/bc295ce7-692b-40d3-b0de-3ab64ac13454/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ted-cruz-joe-biden-court-packing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-joe-biden-court-packing.amp",
+      "publishedDateTime": "2020-10-01T17:57:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-trump-says-hell-overturn-ridiculous-gender-neutral-navy-terms.md",
+      "title": "Trump says he'll overturn 'ridiculous' gender-neutral Navy terms",
+      "excerpt": "The Navy had made the changes to the two elite units' ethos and creed because the terms were outdated and because of the potential for women to join the units.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-says-he-ll-overturn-ridiculous-gender-neutral-navy-terms-n1241747",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-says-he-ll-overturn-ridiculous-gender-neutral-navy-terms-n1241747",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_40/3416796/201001-donald-trump-ac-657p_ef196f3bad86123d2fe2140702b49840.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241747",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241747",
+      "publishedDateTime": "2020-10-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-trump-slams-navy-seal-orders-to-use-gender-neutral-language-calls-it-ridiculous.md",
+      "title": "Trump slams Navy SEAL orders to use gender-neutral language, calls it 'ridiculous'",
+      "excerpt": "The change would have altered the Navy SEAL creed from \"a common man\" to \"common citizens.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-navy-seal-gender-neutral-language-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-navy-seal-gender-neutral-language-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7654750ab50d00184adb64?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-navy-seal-gender-neutral-language-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-navy-seal-gender-neutral-language-2020-10?amp",
+      "publishedDateTime": "2020-10-01T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-mcmaster-mostly-silent-until-now-says-trump-is-aiding-and-abetting-putins-efforts.md",
+      "title": "McMaster, Mostly Silent Until Now, Says Trump Is ‘Aiding and Abetting Putin’s Efforts’",
+      "excerpt": "This sustained campaign of disruption, disinformation, and denial, is aided by any leader who doesn’t acknowledge it,” President Trump’s former national security adviser said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-mcmaster/01dc-mcmaster-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.amp.html",
+      "publishedDateTime": "2020-10-01T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-leader-of-proud-boys-also-leads-grassroots-group-latinos-for-trump.md",
+      "title": "Leader of Proud Boys also leads grassroots group Latinos for Trump",
+      "excerpt": "The leader of the Proud Boys, a far-right group thrust into the spotlight earlier this week during the presidential debate, is also the leader of the grassroots group Latinos for Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hhvzj_wxJYE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hhvzj_wxJYE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200926165616-01-proud-boys-portland-0926-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latinos-for-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latinos-for-trump/index.html",
+      "publishedDateTime": "2020-10-01T15:26:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-borat-sequel-trailer-sacha-baron-cohen-returns-to-terrorize-yankeeland-mike-pence.md",
+      "title": "‘Borat’ Sequel Trailer: Sacha Baron Cohen Returns to Terrorize ‘Yankeeland,’ Mike Pence",
+      "excerpt": "“The Democrats,” they reply. The preview also features a scene where Borat — in a Trump costume — attempts to deliver his daughter to a confused Mike Pence mid-speech. Along with the trailer, Amazon Prime — which recently acquired the comedy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/",
+      "originalUrl": "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rollingstone.com/wp-content/uploads/2020/10/borat-sequel-amazon.jpg",
+          "width": 1800,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/amp/",
+      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/amp/",
+      "publishedDateTime": "2020-10-01T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rolling Stone",
+        "domain": "rollingstone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-trump-bears-responsibility-for-debate-unraveling-chris-wallace-says.md",
       "title": "Trump ‘Bears Responsibility’ For Debate Unraveling, Chris Wallace Says",
       "excerpt": "Wallace cited a Fox News’ analysis that found President Trump interrupted Joe Biden’s answers or Wallace’s questions 145 times during the debate on Tuesday.",
@@ -342,7 +720,7 @@
       "originalUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -550,21 +928,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-kyle-rittenhouse-to-sue-joe-biden-after-campaign-ad-links-teen-to-white-supremacy-charlotte-observer.md",
-      "title": "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy | Charlotte Observer",
-      "excerpt": "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video.",
+      "path": "_news/2020-10-02-nato-insiders-believe-trumps-tax-and-debt-problems-make-him-vulnerable-to-blackmail-by-foreign-powers.md",
+      "title": "NATO insiders believe Trump's tax and debt problems make him vulnerable to blackmail by foreign powers",
+      "excerpt": "\"Everything about his finances smells like blood and we are trained to be sharks,\" one source told Insider.",
       "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/news/nation-world/national/article246142010.html",
-      "originalUrl": "https://www.charlotteobserver.com/news/nation-world/national/article246142010.html",
+      "webUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10",
+      "originalUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 149,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 719,
+          "url": "https://i.insider.com/5f589478e6ff30001d4e7a7e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -572,14 +950,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/news/nation-world/national/article246142010.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246142010.html",
-      "publishedDateTime": "2020-10-01T10:04:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10?amp",
+      "publishedDateTime": "2020-10-01T10:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -589,7 +976,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Donald Trump"
       ]
     },
     {
@@ -601,7 +988,7 @@
       "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
       "featuredContent": null,
       "highlight": null,
-      "heat": 665,
+      "heat": 685,
       "tags": null,
       "images": [
         {
@@ -699,6 +1086,49 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-kyle-rittenhouse-to-sue-joe-biden-after-campaign-ad-links-teen-to-white-supremacy.md",
+      "title": "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy",
+      "excerpt": "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/nation-world/national/article246142010.html",
+      "originalUrl": "https://www.miamiherald.com/news/nation-world/national/article246142010.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/nation-world/national/article246142010.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html",
+      "publishedDateTime": "2020-10-01T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -907,425 +1337,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-biden-calls-first-debate-embarrassing-for-the-country-wonders-how-many-people-took-kids-away-from-the-television.md",
-      "title": "Biden calls first debate 'embarrassing for the country,' wonders how many people took 'kids away from the television'",
-      "excerpt": "Democratic presidential nominee Joe Biden on Wednesday called the first presidential debate \"embarrassing for the country\" and speculated that some parents took their children away from the television as President Trump regularly interrupted the former vice president and moderator Chris Wallace and hammered",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tTSxeg_17nQ/biden-calls-first-debate-embarrassing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tTSxeg_17nQ/biden-calls-first-debate-embarrassing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-first-debate-embarrassing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-first-debate-embarrassing.amp",
-      "publishedDateTime": "2020-10-01T04:27:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-getting-warmer-trump-concedes-human-role-in-climate-change.md",
-      "title": "Getting warmer: Trump concedes human role in climate change",
-      "excerpt": "At the first presidential debate, President Donald Trump publicly acknowledged some human blame for climate change",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_0062919532a148d4a6fd087944aa558e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
-      "publishedDateTime": "2020-10-01T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-trump-signs-spending-bill-to-keep-government-open-until-december-11.md",
-      "title": "Trump signs spending bill to keep government open until December 11",
-      "excerpt": "President Donald Trump early Thursday morning signed a spending bill to keep the government open until December 11, according to a tweet from White House spokesman Judd Deere.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RGjy995Eutc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RGjy995Eutc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200930173745-02-donald-trump-0928-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/01/politics/trump-signs-government-spending-bill/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-signs-government-spending-bill/index.html",
-      "publishedDateTime": "2020-09-30T21:53:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-trump-denies-knowing-who-proud-boys-are-again-declines-to-condemn-white-supremacy-by-name.md",
-      "title": "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name",
-      "excerpt": "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "originalUrl": "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trumpdeparture-01-gty-iwb-200930_1601496890434_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "publishedDateTime": "2020-09-30T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-trump-falsely-claims-poll-watchers-blocked-from-observing-early-voting-sites-in-philadelphia.md",
-      "title": "Trump falsely claims 'poll watchers' blocked from observing early voting sites in Philadelphia",
-      "excerpt": "President Trump falsely claimed that \"poll watchers\" were blocked from entering early voting locations in Philadelphia, an issue his campaign and the RNC are litigating.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/pennsylvania-election-01-gty-llr-200930_1601499860422_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
-      "publishedDateTime": "2020-09-30T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-second-lady-karen-pence-makes-3-veteran-themed-stops-in-jacksonville-area.md",
-      "title": "Second lady Karen Pence makes 3 veteran-themed stops in Jacksonville area",
-      "excerpt": "Karen Pence, wife of Vice President Mike Pence, made three stops in Jacksonville, focused on veterans' issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jacksonville.com/story/news/politics/2020/09/30/second-lady-karen-pence-talks-veteran-issues-jacksonville-stops/3574834001/",
-      "originalUrl": "https://www.jacksonville.com/story/news/politics/2020/09/30/second-lady-karen-pence-talks-veteran-issues-jacksonville-stops/3574834001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/30/NFTU/4ea6f2a0-019f-4279-8b50-56fa316692ef-FLJAX_093020_KarenPence_01.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.jacksonville.com/amp/3574834001",
-      "cdnAmpWebUrl": "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/3574834001",
-      "publishedDateTime": "2020-09-30T18:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Florida Times-Union",
-        "domain": "jacksonville.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-biden-mr-rogers-widow-joanne-hold-virtual-call-during-pennsylvania-campaign-stop.md",
-      "title": "Biden, Mr. Rogers' widow Joanne hold virtual call during Pennsylvania campaign stop",
-      "excerpt": "Rogers, 92, is an outspoken critic of President Trump and supporter of the Biden campaign.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhMH2EpasXA/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhMH2EpasXA/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-Facetime-Rogers-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp",
-      "publishedDateTime": "2020-09-30T17:46:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-sen-chuck-grassley-id-be-very-concerned-about-how-donald-trumps-tax-returns-got-out.md",
-      "title": "Sen. Chuck Grassley: 'I'd be very concerned' about how Donald Trump's tax returns got out",
-      "excerpt": "Asked about the substance of the New York Times' reporting that Trump paid $750 in income tax in 2016 and 2017, Grassley said he doesn't have enough evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/09/17/PDEM/80644d4b-a019-4ee7-a6b1-39785f7db425-grassley.jpg?auto=webp&crop=5999,3360,x0,y39&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5874449002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874449002",
-      "publishedDateTime": "2020-09-30T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

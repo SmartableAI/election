@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says Trump can win because of 'how he plays' "
+    excerpt: "Democratic presidential nominee Joe Biden says President Donald Trump can still win the 2020 election because delegitimizing the race's outcome is \"how he plays.\"\n    \n"
+    publishedDateTime: 2020-10-26T01:10:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/izRd5_fTnyY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-60-minutes-donald-trump-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-60-minutes-donald-trump-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025140131-02-biden-pa-rally-1024-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First Trump-Biden debate to focus on Supreme Court, coronavirus and race"
     excerpt: "The first presidential debate between President Donald Trump and Democratic nominee Joe Biden will focus on a number of topics, including the coronavirus pandemic, the Supreme Court and the racial reckoning in the country, the debate commission announced on Tuesday.\n    \n"
     publishedDateTime: 2020-09-22T18:10:03Z
@@ -630,6 +646,38 @@ related:
     webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244697"
     ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244646"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244646"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Poll: Biden, Trump virtually tied in Georgia"
+    excerpt: "Constitution poll released Monday reports that 47 percent of Georgia likely voters prefer Democratic presidential nominee Joe Biden and 46 percent favor President Donald Trump. An additional 3 percent of likely voters support Libertarian presidential nominee Jo Jorgensen,"
+    publishedDateTime: 2020-10-26T12:25:00Z
+    webUrl: "https://www.politico.com/news/2020/10/26/biden-trump-georgia-poll-432460"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/26/biden-trump-georgia-poll-432460"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/26/biden-trump-georgia-poll-432460"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/84/df/c1f46dc94b86a048714c1441e37f/ap20298464647139.jpg"
+        width: 5359
+        height: 3571
+        isCached: true
+  - title: "Trump, Biden campaign after final debate"
+    excerpt: "President Donald Trump and Joe Biden are heading back to the trail on Friday after Thursday night's final presidential debate. The candidates will deliver speeches from their respective home states. Biden will deliver remarks on Covid-19 in Wilmington,"
+    publishedDateTime: 2020-10-26T12:49:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/blog/2020-10-23-trump-biden-election-n1244355"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1244355"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1244355"
     type: article
     provider:
       name: NBC News
@@ -1163,6 +1211,6 @@ related:
       domain: thedailybeast.com
     quality: 58
 
-secured: "Yjdu/fNuiO196dFHU6qzG8YaFMUaFt4c3RolENQEnmcmDZM8rQjWXYfEuTYAyM+bAqcbhh+qxR0yxGhq3GhJ7LLVmsDcYfeOLiJw96GZRoeHaA01Q7znYfXcVjy1sRtZ2+jmb6VrGLv/m72XbpwVaEd3vA68B2Q2O8bO5Vc6ThafkLMJKXI/rzjOROZBciyEcO/UdoOUcxeTct6DOcrxWKJukpwgQGL4P0nwg5VDn4E7BV6zdipytpfq+19b41TODd8dxHlvQzkUJpQqgyxKa2ovzjymEM56LiivK0dO0Pd627wsY/HFfkZlBunNWhLGp9nFMyVzgOrGs3dhZ4+jJxq405G1pRdFswJ/3L358KE=;mPKwV+fNGLhsygheWT8T7w=="
+secured: "d/RDjL7DIr5PI7KNea+v+ucGk0vq/Xdd3NJZCVnRuNwHlaYfwmZlGGTX8awMdbTFXOaS1m5NCo9qLzM/Ut/r9gVfCAXcUuv+DngV8vbCLFMaZyu5VuSlBwmJ+j8pDCnbQFAolpH3xHaFp1EDAQmFAqYGem0nsHowMF6xToh6znzF2hmw00Wp0YqGMFruewb/SQUofOF2wOdqXbWVhbNElryBh++MJO409kJLpav6Av6+vQKlbok3QWxKQOTnfH9fGaKqyfT6hSkUsikFAuUqA8g/GvfOogdco27MO1n4mwtZQNkPLAav6xbAS6lCqJbqwEZocEg8k/XSwLCAMJJQ8604iRsNQkuI47h2aT2mCgbP3J+HknUWyjgoJwWJdLxpfzcwc4HFnNROK9XB37/2/UJDTf2cWUtdAnprTarhc0DL7TnYqRT5tZp4MREaztuCUDC3lbSbjBjgdsbAoTEKJn3PpZhXgoCBmBf74yQ3+HFWzBiLFrneBbU0VoL4s2Wfm2SALNe3ZpYP9VCmoVN3Wg==;r9t3jjtuoFzedJOTrqZ6iQ=="
 ---
 

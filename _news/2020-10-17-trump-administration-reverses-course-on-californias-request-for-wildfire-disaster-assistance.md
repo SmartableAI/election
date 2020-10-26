@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Trump administration rejects California's request for wildfire disaster assistance"
+    excerpt: "The federal government has denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
+    publishedDateTime: 2020-10-16T10:11:00Z
+    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Report: Trump Campaign Has Videotaped Philadelphia Voters In Potentially Illegal Voter Intimidation"
     excerpt: "Members of President Donald Trump’s re-election campaign have been filming Philadelphia voters as they put their ballots in drop boxes, which poll watchers are not permitted to do in Pennsylvania and could be an act of illegal voter intimidation,"
     publishedDateTime: 2020-10-22T22:53:00Z

@@ -6574,6 +6574,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "The Sedition of Donald Trump"
+    excerpt: "Before Donald Trump got himself infected with the coronavirus, he had firmly secured his place as the worst president in American history. Now, after mocking Joe Biden at their first debate for ..."
+    publishedDateTime: 2020-10-11T13:13:00Z
+    webUrl: "https://www.rollingstone.com/politics/politics-features/donald-trump-sedition-william-barr-1073455/"
+    ampWebUrl: "https://www.rollingstone.com/politics/politics-features/donald-trump-sedition-william-barr-1073455/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/politics/politics-features/donald-trump-sedition-william-barr-1073455/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 75
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2020/10/R1345_NA_TRUMP_C.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Kamala Harris to attend SCOTUS confirmation hearings virtually"
     excerpt: "Kamala Harris (D-Calif.) will participate in Supreme Court nominee Amy Coney Barrett's confirmation hearing virtually, the vice presidential nominee's communications director Chris Harris tweeted Sunday."
     publishedDateTime: 2020-10-11T18:43:00Z

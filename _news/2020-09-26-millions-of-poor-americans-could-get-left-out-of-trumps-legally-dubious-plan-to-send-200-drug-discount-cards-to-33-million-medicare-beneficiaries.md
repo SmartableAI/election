@@ -95,21 +95,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump can’t avoid a transfer of power. He just wants us to think he can."
-    excerpt: "And so, on Wednesday, when a journalist asked President Trump if he would commit to making sure there’s a peaceful transfer of power after the election, Trump responded by saying, “We're going to have to see what happens."
-    publishedDateTime: 2020-09-25T10:05:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/?outputType=amp"
+  - title: "Trump says he expects to have coronavirus vaccine for every American by April"
+    excerpt: "President Donald Trump said on Friday he expects to have available enough doses of a coronavirus vaccine for every American by April."
+    publishedDateTime: 2020-09-18T19:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2692YK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2692YK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2692YK"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
+      name: Reuters
+      domain: reuters.com
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EAGTO3X6UEI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 1133
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1534047651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H1RH"
+        width: 817
+        height: 545
         isCached: true
   - title: "Donald Trump And The Democrats Have This In Common: They’re Afraid Of Marijuana"
     excerpt: "President Donald Trump is afraid of it. A majority of Americans want it. So why did the Democrats avoid a symbolic vote on marijuana legalization this week?"
@@ -127,21 +127,21 @@ related:
         width: 1200
         height: 1319
         isCached: true
-  - title: "Central American refugees stopped by Trump, then by pandemic"
-    excerpt: "Because of the coronavirus pandemic, only about 338 of the 2,700 Central Americans approved to come to the U.S. through a small refugee program have been able to travel"
-    publishedDateTime: 2020-09-13T18:01:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/central-american-refugees-stopped-trump-pandemic-72984183"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/central-american-refugees-stopped-trump-pandemic-72984183"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/central-american-refugees-stopped-trump-pandemic-72984183"
+  - title: "Trump went golfing 25 times as a virus swept across the US and killed over 200,000 Americans"
+    excerpt: "As the virus swept across the US, Trump downplayed the threat, deflected blame to others, and routinely visited his properties to play golf."
+    publishedDateTime: 2020-09-23T02:06:00Z
+    webUrl: "https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 115
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_b9036c0e66874f0697f207d08096ebd9_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/5f6a3d4049479600287bd8bf?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Bernie Sanders says Trump is ready \"to undermine American democracy in order to stay in power\""
     excerpt: "The senator slammed the president's refusal to commit to a peaceful transfer of power and his opposition to mail-in voting."
@@ -175,21 +175,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Here's what Senate Republicans are saying about Trump refusing to commit to a peaceful transition of power"
-    excerpt: "Republicans on Capitol Hill tried to thread the needle between supporting democracy and avoiding a full rebuke of what Trump actually said."
-    publishedDateTime: 2020-09-24T21:41:00Z
-    webUrl: "https://www.businessinsider.com/what-top-republicans-say-about-trumps-transition-of-power-comments-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/what-top-republicans-say-about-trumps-transition-of-power-comments-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-top-republicans-say-about-trumps-transition-of-power-comments-2020-9?amp"
+  - title: "Trump says all Americans will have coronavirus vaccine by April, health officials skeptical of timeline"
+    excerpt: "Trump's assessment differs from the one offered by CDC director Robert Redfield, who said a vaccine could be available by late spring or next summer."
+    publishedDateTime: 2020-09-18T20:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5825486002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5825486002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
     images:
-      - url: "https://i.insider.com/5f6cf9980f4d55001103230c?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
   - title: "The American People Deserve to Know More About President Trump's Condition"
     excerpt: "T he world’s attention turned to U.S. President Donald Trump on Friday, when we learned via his early morning tweet that he and First Lady Melania Trump had tested positive for"
@@ -219,6 +219,22 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Norah O’Donnell Confronts Pence on Trump Health Care Plan: ‘Why Should Americans Believe You’ on Preexisting Conditions?"
+    excerpt: "A new clip of Norah O'Donnell's interview with Vice President Mike Pence focuses on President Donald Trump's recent pledges about a health care plan."
+    publishedDateTime: 2020-09-23T01:53:00Z
+    webUrl: "https://www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/"
+    ampWebUrl: "https://www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 65
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/pence-odonnell-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chuck Todd Presses HHS Sec. Azar on Trump Covid Messaging: Who Should Americans Be Listening to on Masks?"
     excerpt: "Chuck Todd pressed HHS Secretary Alex Azar on Meet the Press Sunday over President Donald Trump's public health messaging being at odds with top officials like the head of the CDC."
     publishedDateTime: 2020-09-20T21:04:00Z
@@ -234,6 +250,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/09/chuck-todd-azar.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kilmeade Asks Trump if China is Going to ‘Get Away’ With Coronavirus: They’re ‘Responsible For the Deaths of 200,000 Americans’"
+    excerpt: "Fox & Friends host Brian Kilmeade urged President Donald Trump in a Monday interview to punish China for the fact that the coronavirus has killed approximately 200,000 Americans."
+    publishedDateTime: 2020-09-21T13:54:00Z
+    webUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/"
+    ampWebUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 47
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-9.22.39-AM-1200x669.jpg"
+        width: 1200
+        height: 669
         isCached: true
 
 secured: "+u9us+HkL0Yki4wSa5ARp0G9T97t4Of1npVfwQ92JsXDn8gdQalcBJqM8C0aytgOshJClVU1sSbqYtBNoTMgevkYgNCAUrlcOyAQQL3DmynhzFZVKRHdCHPgxxXJlBZn85YcK6q5mDKRdMY15Ux65jOw35swPx9mk5wm8YOTN9DoECGQcS/im8P4Iz8SJt3tj8gleiYmE+eR7KSgWtxCJ7xL4sMY/SKLC3Vr59skdXsXGdfblXhTZRduOSKmj7txMaNiMX/8Mn5IJVRGV/IL6fT7Y+MKqDyQJlEdxwZ7eDQU7Radhjhgy2i4JIvKzS3F8BBgVzGkYCjhY5s35x2azqEIldQplSDAYgwtZntvA7jWNOmOIP+PWiecaTSFweKRLzEhubqFuG8TpBZ14/vFZ5H4Au1YEslZSBI41oKMAGiN2+VBjE4ocRqY6NORapO9KqVUCarrwz2MdNlDR/YTJ6+fJ9caDw3R4bWQfYirwR6P9+MYwEcCzNAAs2hpFXmphXzTNhFm/ORN/pYIxJcPOw==;gRsxyEmqg7saogQ6fGU14w=="

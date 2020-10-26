@@ -1,7 +1,7 @@
 ---
 category: news
 title: "’60 Minutes’ airs Trump interview cut short by president"
-excerpt: ""
+excerpt: "“60 Minutes” aired the interview on Sunday night. Stahl warned viewers that the interview started politely but “ended, regrettably, contentiously.”"
 publishedDateTime: 2020-10-26T08:53:56Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xXIEPNZqjZM/60-minutes-airs-trump-interview-cut-short-by-president"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xXIEPNZqjZM/60-minutes-airs-trump-interview-cut-short-by-president"

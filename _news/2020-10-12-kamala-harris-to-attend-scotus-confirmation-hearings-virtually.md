@@ -6589,6 +6589,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "The Sedition of Donald Trump"
+    excerpt: "Before Donald Trump got himself infected with the coronavirus, he had firmly secured his place as the worst president in American history. Now, after mocking Joe Biden at their first debate for ..."
+    publishedDateTime: 2020-10-11T13:13:00Z
+    webUrl: "https://www.rollingstone.com/politics/politics-features/donald-trump-sedition-william-barr-1073455/"
+    ampWebUrl: "https://www.rollingstone.com/politics/politics-features/donald-trump-sedition-william-barr-1073455/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/politics/politics-features/donald-trump-sedition-william-barr-1073455/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 75
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2020/10/R1345_NA_TRUMP_C.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Joe Biden should rebuke court-packing idea"
     excerpt: "Democratic nominee Joe Biden’s refusal to answer a straightforward question about “court packing” not only is frustrating for voters, but undermines his main election theme of rolling back the"
     publishedDateTime: 2020-10-12T20:08:00Z

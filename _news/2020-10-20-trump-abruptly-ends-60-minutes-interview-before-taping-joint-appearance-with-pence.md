@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minut
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html"
 type: article
 quality: 193
-heat: 413
+heat: 433
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Trump makes at least 16 false or misleading claims to '60 Minutes'"
+    excerpt: "President Donald Trump continued his dishonesty blitz in an interview with Lesley Stahl of \"60 Minutes.\"\n    \n"
+    publishedDateTime: 2020-10-26T11:17:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LeWY3tNeZ0g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/fact-check-trump-60-minutes-lesley-stahl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/fact-check-trump-60-minutes-lesley-stahl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025114911-01-trump-lumberton-nc-rally-1024-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

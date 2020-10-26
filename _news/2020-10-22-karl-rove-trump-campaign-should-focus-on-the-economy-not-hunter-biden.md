@@ -304,6 +304,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden appears to confuse Trump with former President George W. Bush"
+    excerpt: "Democratic presidential nominee Joe Biden misspoke on Sunday and appeared to begin saying the name of former President George W. Bush rather than President Trump while emphasizing that the 2020 election is important \"because who I'm running against.\""
+    publishedDateTime: 2020-10-26T09:53:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3A-QwrRwuyg/joe-biden-bush-trump-misspeak"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-bush-trump-misspeak.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-bush-trump-misspeak.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Twitter employees openly rip Trump, praise Biden: 'Trump must be defeated'"
     excerpt: "Twitter’s senior executives have a long history of anti-Trump hatred, a review of dozens of accounts of top employees found."
     publishedDateTime: 2020-10-18T02:33:14Z
@@ -1111,6 +1127,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d324f611-449f-4cce-b9d9-0f7603f88888/e95f1d00-27d6-42ed-8614-2ddce9364233/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Dave Bautista talks 'toughness' in campaign video for Joe Biden that's critical of Donald Trump"
+    excerpt: "Former WWE star Dave Bautista is the latest celebrity to endorse Joe Biden for president by appearing in a campaign ad that’s critical of Donald Trump."
+    publishedDateTime: 2020-10-26T13:36:00Z
+    webUrl: "https://www.foxnews.com/entertainment/dave-bautista-toughness-campaign-video-joe-biden-critical-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/entertainment/dave-bautista-toughness-campaign-video-joe-biden-critical-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dave-bautista-toughness-campaign-video-joe-biden-critical-donald-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/DaveBautista1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "David Bossie: Biden must answer these questions at presidential debate with Trump"
     excerpt: "Thursday night’s final debate between President Trump and former Vice President Joe Biden is certain to be a historic event."

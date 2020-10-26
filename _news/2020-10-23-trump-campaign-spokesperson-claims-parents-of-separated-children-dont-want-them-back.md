@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump campaign is under fire for videotaping voters"
+    excerpt: "The Trump campaign is under fire as accusations of illegal voter intimidation surface for videotaping Philadelphia voters placing their ballots in a drop box. CNN's Pamela Brown reports.\n    \n"
+    publishedDateTime: 2020-10-24T00:31:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qUSY1-q59fA/philadelphia-voter-surveillance-claims-trump-campaign-brown-dnt-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/philadelphia-voter-surveillance-claims-trump-campaign-brown-dnt-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/philadelphia-voter-surveillance-claims-trump-campaign-brown-dnt-ebof-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023201609-philadelphia-voter-surveillance-claims-trump-campaign-brown-dnt-ebof-vpx-00000303-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump renews focus on ex-friend with essay railing against 'pettiness'"
     excerpt: "First lady Melania Trump penned an essay on the White House website on Friday that railed against what she described as the \"pettiness\" of the media and ex-friend and former adviser Stephanie Winston Wolkoff.\n    \n"
     publishedDateTime: 2020-10-16T15:37:32Z
@@ -110,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump seeds the ground for possible loss with personal attacks"
+    excerpt: "It’s a change from 2016, where Trump presented himself as an outsider eager to disrupt the entire establishment. Now, he’s the president."
+    publishedDateTime: 2020-10-22T08:36:00Z
+    webUrl: "https://www.politico.com/news/2020/10/22/trump-attacks-election-431051"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/10/7c/3ed4f2a444579dbeb55d41268dd6/201021-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Needed a Big Break. His Fox News Brain Got in the Way."
     excerpt: "There’s no way to spin it. Trump’s in trouble. But Thursday night’s debate didn’t appear to give him the lifeline he needed."
     publishedDateTime: 2020-10-23T03:36:00Z
@@ -119,15 +149,6 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
-  - title: "The Trump Campaign Is Mysteriously Sending Money Back and Forth to State Parties"
-    excerpt: "The president, like Joe Biden, is taking advantage of loopholes in campaign finance laws to score huge checks. From there, however, the money trail gets bizarre."
-    publishedDateTime: 2020-10-22T09:02:00Z
-    webUrl: "https://www.thedailybeast.com/the-trump-campaign-is-mysteriously-sending-money-back-and-forth-to-state-parties"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 40
   - title: "Trump Said He'd Ban Foreign Lobbyist Fundraising. Now They’re Bankrolling His Campaign."
     excerpt: "Lobbyists representing foreign governments have bundled nearly 2 million dollars for the president’s re-elect."
     publishedDateTime: 2020-10-20T08:42:00Z

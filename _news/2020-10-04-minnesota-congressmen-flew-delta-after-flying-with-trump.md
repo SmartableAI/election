@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-d
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
     quality: 70
     images:
       - url: "https://stmedia.stimg.co/ows_9babe6fb-0a7f-420a-9f48-8d32d2cfad36.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "President Donald Trump to return to Minnesota next week, visit Duluth"
+    excerpt: "President Donald Trump will visit Minnesota once again next week, making a campaign appearance in Duluth. The president has made multiple campaign stops in the state this year. Trump and former Vice President Joe Biden made appearances on the same day in northern Minnesota last week."
+    publishedDateTime: 2020-09-26T03:10:00Z
+    webUrl: "https://www.startribune.com/president-trump-to-return-to-minnesota-next-week/572542951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/1601076390_19535581+1mndt092620.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
         isCached: true

@@ -45,53 +45,21 @@ related:
         width: 859
         height: 545
         isCached: true
-  - title: "Joe and Jill Biden test negative for coronavirus"
-    excerpt: "Democratic nominee and his wife underwent PCR testing for Covid-19 after Trump announced he has coronavirus"
-    publishedDateTime: 2020-10-02T17:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/oct/02/joe-biden-coronavirus-negative-test-wife-jill"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/02/joe-biden-coronavirus-negative-test-wife-jill"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/02/joe-biden-coronavirus-negative-test-wife-jill"
+  - title: "Watch Live: NBC News town hall with Biden"
+    excerpt: "NBC News’s Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday evening in Miami. The event is scheduled to begin at 8 p."
+    publishedDateTime: 2020-10-05T23:00:00Z
+    webUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe"
+    ampWebUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/25a42ce0e9f290e768851aa1e37a3c8bc3e792a6/0_157_3272_1963/master/3272.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a5491efcfbf99560e98a5e2e6edb1f10"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Joe Biden and his wife test negative for coronavirus"
-    excerpt: "Biden recently attended a presidential debate against President Donald Trump, and Trump later tested positive for the virus."
-    publishedDateTime: 2020-10-03T01:11:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f77304f0ab50d00184adc56?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden to Democrats: Keep focus on health care, not expanding Supreme Court"
-    excerpt: "The former vice president sidestepped any talk of expanding the court to counter conservative gains should he win in November and Democrats regain a Senate majority."
-    publishedDateTime: 2020-09-27T18:17:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 121
-    images:
-      - url: "https://www.chicagotribune.com/resizer/_PA3J5pS0nFUPeIzjC67IR6vTUE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ED4OMV2TAJEKLKWKRNMHJFESTY.jpg"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10022020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Democratic Armed Services chairman predicts defense budget fight if Biden wins"
     excerpt: "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win."
@@ -125,19 +93,19 @@ related:
         width: 3500
         height: 2334
         isCached: true
-  - title: "George W. Bush's first EPA chief on why she supports Joe Biden"
-    excerpt: "Christine Todd Whitman, the former Republican governor of New Jersey who headed the Environmental Protection Agency under President George W. Bush, is endorsing Joe Biden in the presidential race. She joined CBSN to explain why she believes the Democratic nominee is a better choice for the country than President Trump."
-    publishedDateTime: 2020-09-28T21:56:00Z
-    webUrl: "https://www.cbsnews.com/video/george-w-bushs-first-epa-chief-on-why-she-supports-joe-biden/"
+  - title: "Your Evening Briefing: Russia’s Growing Fear of a President Joe Biden"
+    excerpt: "But Vladimir Putin is also wondering what a President Joe Biden would mean for issues from nuclear arms to relations with China, energy exports and sanctions. The conclusion from the Kremlin seems to be that Biden would be bad news for Russia."
+    publishedDateTime: 2020-09-25T21:51:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2020-09-25/your-evening-briefing-russia-s-growing-fear-of-a-president-joe-biden"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/28/82a5b4b7-6b45-4a2f-9c68-17503be50c3b/thumbnail/1200x630/0daa3e25a97217bff1b74715ab3504d1/cbsn-fusion-george-w-bushs-first-epa-chief-on-why-she-supports-joe-biden-thumbnail-555771-640x360.jpg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDQ3EuU3l5ng/v0/1200x966.jpg"
         width: 1200
-        height: 630
+        height: 966
         isCached: true
   - title: "Biden to Proud Boys: 'Cease and desist'"
     excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
@@ -153,19 +121,30 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Joe Biden tests negative for coronavirus"
-    excerpt: "Democratic presidential nominee Joe Biden said he and his wife Jill tested negative for coronavirus on Friday. “I’m happy to report that Jill and I have tested negative,” Biden said on Twitter. “Thank you to everyone for your messages of concern."
-    publishedDateTime: 2020-10-03T12:22:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Joe-Biden-tests-negative-for-coronavirus-15616211.php"
+  - title: "‘Bidin’ his time’: Joe Biden battles being chronically late"
+    excerpt: "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at"
+    publishedDateTime: 2020-09-23T04:08:00Z
+    webUrl: "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
+      name: Associated Press
+      domain: apnews.com
+    quality: 85
+  - title: "‘Bidin’ his time': Joe Biden battles being chronically late"
+    excerpt: "Joe Biden was running late. Again.On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at a subsequent press conference. When it was finally over,"
+    publishedDateTime: 2020-09-27T03:06:00Z
+    webUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late"
+    ampWebUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
+    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
+    type: article
+    provider:
+      name: The Oklahoman
+      domain: oklahoman.com
+    quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/14/37/26/20051343/5/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-4cb4ae21b3530f5411a1621d59b8d043.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Biden releases 2019 returns, paid nearly $300,000 in taxes"
     excerpt: "Democratic presidential nominee Joe Biden released his 2019 tax returns hours before the first debate with President Donald Trump, showing that he paid $299,346 in income taxes in 2019."
@@ -231,26 +210,17 @@ related:
         width: 1500
         height: 785
         isCached: true
-  - title: "Joe Biden, Jill Biden Test Negative for Coronavirus"
-    excerpt: "The negative test results for the Democratic presidential nominee come hours after President Donald Trump received a positive diagnosis."
-    publishedDateTime: 2020-10-02T17:47:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-02/joe-biden-jill-biden-test-negative-for-coronavirus"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-02/joe-biden-jill-biden-test-negative-for-coronavirus?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-02/joe-biden-jill-biden-test-negative-for-coronavirus?context=amp"
+  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
+    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
+    publishedDateTime: 2020-09-24T14:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Joe Biden tests negative for coronavirus before events in Grand Rapids"
-    excerpt: "Democratic presidential nominee Joe Biden and his wife Jill Biden tested negative for the coronavirus Friday morning, hours before he is scheduled to campaign in Michigan. Bidens"
-    publishedDateTime: 2020-10-03T04:25:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 35
 
 secured: "K6kh3rZqvtEMNNpnMKlkiUYeF0LNfOTuo3eg/L1COzc3Ce8/GRQ8rCacOZ6+mcSCdUS9eHfPFQD0PbBsLjyl+j4D7MgDK1/D5RPSnVGucZuinZeg+1QcsxwugHSUOD9YfYZhxVobXWU1RO9veefbsJo9U1/L/g3dKh6aMin8kMHkOKawo41cPBarACMIlKwqrA8i8/poiVlmeN/T2iGEGDXhh0cU54OgvVcBd9GQS3BNQJC3QMn4kCbVaveri/JV7yYZnt0GHczOGVyC8ykGuieMkkEAAG5b5VkpAdbnxJdJ2+7noPflLeQPWlBww+3QOC3zQ2GUtLjpnba9p+ZADP4rw1E74aFxihJqxnKDwOzhxi7RWux5DK7HXOBs5ETI8hya0i5JcKYjqOs1jmxykVoLX2bnDewCXcKK+PCLAtoJWI+dOFT8ZtABcezTXAVfaKYRC3uW0hi+PQDHnUmbBgt3a+yCx+2p4PWx/hx6ROJkLN1zQxCQGa2ByaWy06ccql3MRJNtNczN+P8oQ1LMQQ==;7txEjyFH5hFW/OiXS310rQ=="
 ---

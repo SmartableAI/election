@@ -2,6 +2,214 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-23-colberts-message-to-debate-viewers-who-wanted-even-less-trump-the-ultimate-mute-button-is-in-your-hands.md",
+      "title": "Colbert’s message to debate viewers who wanted even less Trump: ‘The ultimate mute button is in your hands’",
+      "excerpt": "The \"Late Show with Stephen Colbert\" host said the highlight of the night was that he would “never have to watch Donald Trump debate ever again.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-23-2020/t_4513567856534e928d248f5715c1d6bf_name_thumb.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/?outputType=amp",
+      "publishedDateTime": "2020-10-23T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-north-carolina-man-with-van-full-of-guns-asked-should-i-kill-joe-biden-online-authorities-say.md",
+      "title": "North Carolina man with van full of guns asked 'Should I kill Joe Biden?' online, authorities say",
+      "excerpt": "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3740228001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740228001",
+      "publishedDateTime": "2020-10-23T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-president-trump-weighing-firing-of-fbi-director-christopher-wray-after-election.md",
+      "title": "President Trump weighing firing of FBI Director Christopher Wray after election",
+      "excerpt": "President Trump regards FBI Director Christopher Wray as having gone out of his way to separate himself from the president on multiple occasions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/22/president-trump-weighing-firing-fbi-director-wray-after-election/3731576001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/22/president-trump-weighing-firing-fbi-director-wray-after-election/3731576001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/12/10/USAT/35138d1c-09b6-47ee-9233-e39128c5332c-XXX__JG24825.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3731576001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3731576001",
+      "publishedDateTime": "2020-10-23T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-donald-trumps-abraham-lincoln-comparison-at-debate-sparks-wave-of-memes.md",
+      "title": "Donald Trump's Abraham Lincoln Comparison at Debate Sparks Wave of Memes",
+      "excerpt": "Joe Biden mocked the comparison and called Trump \"one of the most racist presidents we've had in modern history,\" in the final presidential debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593",
+      "originalUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1657664/donald-trump.jpg",
+          "width": 2500,
+          "height": 1563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1",
+      "publishedDateTime": "2020-10-23T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects.md",
       "title": "‘I’m going to do what’s right’: Bramnick criticism of Trump could hurt his statewide prospects",
       "excerpt": "He is one of three major Republicans either running or known to be openly flirting with seeking the party’s nomination to challenge Democratic Gov. Phil Murphy next year.",
@@ -56,58 +264,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-trump-is-definitely-not-a-typical-politician-america-could-use-one-right-now.md",
-      "title": "Trump is definitely not a ‘typical politician.’ America could use one right now.",
-      "excerpt": "In the most revealing line of the night, Trump expressed his disgust with politicians who talk about families and the kitchen tables.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TZ5XIUAU3EI6XISYMFFM6K4QNU.jpg&w=1440",
-          "width": 1440,
-          "height": 928,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/?outputType=amp",
-      "publishedDateTime": "2020-10-23T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -603,7 +759,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2200,
+      "heat": 2240,
       "tags": null,
       "images": [
         {
@@ -644,62 +800,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-trump-claims-obama-campaigning-for-us-after-former-presidents-scathing-rebuke.md",
-      "title": "Trump claims Obama 'campaigning for us' after former president's scathing rebuke",
-      "excerpt": "President Trump claimed that former President Obama was campaigning for him “every time he speaks,” after Trump’s predecessor slammed him at a rally for Joe Biden Wednesday night. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xDnpvv7VpU/trump-obama-campaigning-for-us",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xDnpvv7VpU/trump-obama-campaigning-for-us",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Obama-Trump-AP.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-obama-campaigning-for-us.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-obama-campaigning-for-us.amp",
-      "publishedDateTime": "2020-10-22T14:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -916,58 +1016,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration.md",
-      "title": "3 Cities Designated As 'Anarchist' Filing Lawsuit Against Trump Administration",
-      "excerpt": "After months of street protests, President Trump described New York City, Portland and Seattle as lawless places and threatened to withhold federal aid. City officials say the law is on their side.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/10/22/926695864/3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration",
-      "originalUrl": "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/10/22/926695864/3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/10/22/ap_20133094368037_wide-0ecc215828e095c74a18670fb311744097545173.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1279,58 +1327,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-jennifer-lawrence-says-trump-changed-everything-about-her-political-views.md",
-      "title": "Jennifer Lawrence says Trump 'changed everything' about her political views",
-      "excerpt": "Jennifer Lawrence said on Wednesday that despite formerly voting Republican, she won't be supporting Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/12/26/USAT/27985702-65b1-4f3c-bd87-16531ef2393b-1040038846.JPG?auto=webp&crop=3999,2249,x1,y144&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6004508002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6004508002",
-      "publishedDateTime": "2020-10-22T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

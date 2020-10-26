@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Hillary Clinton 'sick to my stomach' over possible second Trump term"
+    excerpt: "Former Secretary of State and Democratic presidential nominee Hillary Clinton said the thought of President Trump winning reelection makes her \"literally sick to my stomach\" on a podcast released Monday."
+    publishedDateTime: 2020-10-26T11:07:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IFfHOIbM_0/hillary-clinton-trump-re-election-sick-to-stomach"
+    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-trump-re-election-sick-to-stomach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-trump-re-election-sick-to-stomach.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Clinton-Foundation-Bill-Hillary-Getty-thumb.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Hillary Clinton: Voters should 'cancel' Trump 'reality show' after town hall ratings revealed"
     excerpt: "Former Democratic nominee Hillary Clinton on Friday urged her supporters to \"cancel\" the “Trump reality show” in the November election. "
     publishedDateTime: 2020-10-17T05:24:12Z

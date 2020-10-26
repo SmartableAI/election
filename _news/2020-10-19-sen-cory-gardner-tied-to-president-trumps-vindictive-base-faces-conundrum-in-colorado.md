@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3711527001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3711527001"
 type: article
 quality: 115
-heat: 135
+heat: 115
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Legendary Florida State coach Bobby Bowden says he beat coronavirus to vote for Donald Trump"
-    excerpt: "The Florida State coaching legend added another win to his career total, it just didn’t come on a football field. Bowden, 91, beat coronavirus. His motivation? He says it was so he could participate in the presidential election in November."
-    publishedDateTime: 2020-10-22T14:44:00Z
-    webUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html"
-    ampWebUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 64
-    images:
-      - url: "https://www.nydailynews.com/resizer/n86PgTsxzNsdGCH3r9bUqsW9kQo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7VS5ZK3VDHRSTYX6YFC7QYAD7A.aspx"
-        width: 1200
-        height: 816
-        isCached: true
 
 secured: "yBrP4zT8lCS6o4J2Pt+XitU1nCWJAQ0WVg1hes1O3oWRhsT9md6wq9L+/2pLIPutrfgWsf4UjIS/vb0W3fBbYmVjzzbSYlNzMhGRk79p4gOZ1orbetF0BrPyjSXIqrp3UyCqZeUV7Lqvd/n3flZJC/Vjo4zruFO3mZOnePQXJacroGLt4LG4b6gFTPBSMQE69OI967Xc9qa+QfkHzNcqsP0T2mHpVpnkssC8ghAfnCmsiqGixHBCDe8QENIbgBNYXCQWDFJjrcaR+LL3svUUT6IYUtdKV61ZC0t/Z9w4oHUIFnlUFtpgf3AwV3CVLbhRXEmAIXbitbnAXJEoTssI3fShsw+h+jcjSuT4GIhxi1k=;1P7WyBjuzPfTz/jH61EoVA=="
 ---

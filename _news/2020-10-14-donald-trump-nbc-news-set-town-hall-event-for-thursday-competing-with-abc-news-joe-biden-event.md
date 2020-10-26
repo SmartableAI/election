@@ -27,147 +27,99 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Corruption and the Thursday Debate | Opinion"
-    excerpt: "We have a scandal involving Vice President Joe Biden, his brothers and his son dealing with China, Russia, Ukraine, Romania, Kazakhstan, Oman and possibly other foreign influence buyers."
-    publishedDateTime: 2020-10-21T19:14:00Z
-    webUrl: "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101"
-    ampWebUrl: "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1"
+  - title: "Trump's campaign is despondent as he keeps reusing strategies which worked against Hillary Clinton but aren't landing on Joe Biden, reports say"
+    excerpt: "The New York Times and The Associated Press reported that Trump's team worry that he has failed to adapt his strategy to his opponent."
+    publishedDateTime: 2020-10-19T10:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
     images:
-      - url: "https://d.newsweek.com/en/full/1656418/bidens.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Joe Biden: The 60 Minutes 2020 Election Interview"
-    excerpt: "The former vice president talks with Norah O’Donnell about the pandemic, taxes, the Supreme Court, and the “stark” differences between himself and President Trump. O'Donnell also speaks with Mr. Biden's running mate,"
-    publishedDateTime: 2020-10-25T23:46:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-democratic-presidential-candidate-kamala-harris-60-mintues-interview-norah-odonnell-2020-10-25/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/25/583ea69b-34a5-4aa4-bc64-ccefe22e1e78/thumbnail/1200x630/c2443e27109d146a623e10263b12ee66/bidenvideo-574150-640x360.jpg"
+      - url: "https://i.insider.com/5f8d4e0bc21cfb0019468ac4?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Joe Biden Urged To Grant 2.2 Million Deferred Enforced Departure On ‘Day One Of His Presidency’"
-    excerpt: "In a letter shared exclusively with this publication, Democratic presidential nominee Joe Biden is being urged to promise roughly 2.2 million people at risk of future deportation protections to remain in the U."
-    publishedDateTime: 2020-10-16T12:35:00Z
-    webUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/"
-    ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
+  - title: "Putin rejects Donald Trump's criticism of Biden family business, saying he sees nothing 'criminal' with Hunter Biden in Ukraine"
+    excerpt: "Putin was responding to comments made by President Trump during televised debates with Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-26T02:27:00Z
+    webUrl: "https://www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-rejects-donald-trumps-criticism-of-biden-family-business-2020-10?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 113
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88e1ce890b284b1282a55b%2F0x0.jpg"
+      - url: "https://i.insider.com/5f962fd84743a3001216b879?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "Vice President Mike Pence to visit Oakland County on Thursday"
-    excerpt: "Vice President Mike Pence will be back in Michigan on Thursday as a string of high-profile visits to the state continues ahead of the Nov. 3 election."
-    publishedDateTime: 2020-10-21T05:46:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/20/vice-president-mike-pence-vsit-oakland-county-thursday/3708766001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3708766001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3708766001"
+  - title: "Trump didn't deny New York Times report that claims hes $400 million debt when pressed during town hall"
+    excerpt: "\"What I'm saying is that it's a tiny percentage of my net worth... The amount of money — $400 million, is a peanut,\" Trump said."
+    publishedDateTime: 2020-10-16T06:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/14/PDTN/ed9d6f3f-e47c-4dec-ad0d-c99eac40fd8c-2020-1014-dm-pence-grandrapids0723.jpg?auto=webp&crop=1854,1043,x0,y125&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f8916f1d260780019341bf5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why."
+    excerpt: "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small."
+    publishedDateTime: 2020-10-18T18:48:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence To Visit Oakland County Thursday"
-    excerpt: "Vice President Mike Pence will be visiting Oakland County on Thursday for a Make America Great Again! just weeks ahead of the Nov. 3 election. Pence will speak at a rally located at Barnstormers, 1675 Airport Rd."
-    publishedDateTime: 2020-10-20T22:13:00Z
-    webUrl: "https://patch.com/michigan/troy/vice-president-mike-pence-visit-oakland-county-thursday"
-    ampWebUrl: "https://patch.com/michigan/troy/amp/29031441/vice-president-mike-pence-to-visit-oakland-county-thursday"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/troy/amp/29031441/vice-president-mike-pence-to-visit-oakland-county-thursday"
+  - title: "3 Cities Designated As 'Anarchist' Filing Lawsuit Against Trump Administration"
+    excerpt: "After months of street protests, President Trump described New York City, Portland and Seattle as lawless places and threatened to withhold federal aid. City officials say the law is on their side."
+    publishedDateTime: 2020-10-22T18:38:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/10/22/926695864/3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
+      name: NPR
+      domain: npr.org
+    quality: 101
     images:
-      - url: "https://patch.com/img/cdn20/getty/24007010/20201020/061203/styles/patch_image/public/gettyimages-1280045144___20181119393.jpg?width=984"
-        width: 852
-        height: 639
+      - url: "https://media.npr.org/assets/img/2020/10/22/ap_20133094368037_wide-0ecc215828e095c74a18670fb311744097545173.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
-  - title: "Vice President Pence to campaign in Waterford Thursday"
-    excerpt: "Vice President Mike Pence is scheduled to hold a “Make America Great Again” rally in Michigan on Thursday, Oct. 22."
-    publishedDateTime: 2020-10-21T01:32:00Z
-    webUrl: "https://www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/"
-    ampWebUrl: "https://www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/?outputType=amp"
+  - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
+    excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."
+    publishedDateTime: 2020-10-20T11:37:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
     type: article
     provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 75
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 64
     images:
-      - url: "https://www.clickondetroit.com/resizer/VC9YfWLy9HeJe-EysXd4Zgl3g5Y=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/Q6W35VUWDNFGLOOIQX4ZAQQTGE.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden Said He Wants to 'Transition From the Oil Industry.' That Shouldn't Be a Surprise"
-    excerpt: "W hen former Vice President Joe Biden said at Thursday’s presidential debate that he wanted to “transition from the oil industry,” President Donald Trump pounced. “Oh, that’s a big statement,” Trump said,"
-    publishedDateTime: 2020-10-23T23:29:00Z
-    webUrl: "https://time.com/5903235/joe-biden-oil-industry-debate/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 75
-  - title: "Vice President Mike Pence to make 2 South Florida stops on Thursday"
-    excerpt: "President Trump and Vice President Mike Pence will both be in South Florida on Thursday, attending separate events. At 12:30 p.m.,"
-    publishedDateTime: 2020-10-15T13:09:00Z
-    webUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/"
-    ampWebUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 55
-  - title: "Pence to visit Fort Wayne on Thursday"
-    excerpt: "Vice President Mike Pence is scheduled to campaign Thursday in Fort Wayne, according to a tweet by his communications director."
-    publishedDateTime: 2020-10-19T18:10:00Z
-    webUrl: "https://journalgazette.net/news/local/local-politics/20201019/pence-to-visit-fort-wayne-on-thursday"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 55
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20201019/WEB/310199788/AR/0/AR-310199788.jpg"
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-18-at-5.11.31-PM.png"
         width: 800
-        height: 528
-        isCached: true
-  - title: "Editorial: Joe Biden can restore nation to normalcy"
-    excerpt: "At this point some might question the utility of an endorsement regarding the race for the President of the United States; supporters of President Trump or former Vice President Joe Biden will have long ago locked in their decisions,"
-    publishedDateTime: 2020-10-22T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/editorial-joe-biden-can-restore-nation-to-normalcy/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 55
-    images:
-      - url: "https://www.heraldnet.com/wp-content/uploads/2020/10/23074911_web1_TSR-201022-edh-opi-EndorseBiden2.jpg"
-        width: 1302
-        height: 868
+        height: 430
         isCached: true
 
 secured: "rchbo4gqkN/pdz6W8mx7ZC3xkrxKBzjMNvYThBR3k22/+8LC6v+341WphThAgED5Eh6jNyO4wcjT2SYWrqFuExuEgs7fUJ6qfXuKXKSQcHOuLIvY3Zd+xMWlU+SdfQpdV9+ANlov3aSbwy3zGhXvSi4W1Sk+5RQONGHsOWH7IB0DQMkv6E/JhAGBx5pr1DplZngeGw6G/XtT+fCWvPLAeA2h48+5zU71w2BSuczsvdOilJXZcWuRAWuxhYjJZaW1e0NYakFga/Wppzqbyd3H4XRUfnLjYt1s6ZZDzPBVjlHZ2OeBGG+eAzBDcJmMIRx/e9BGpeMug56teZR654r+4zM8YiwOFH4UiZxH52raDyw=;E81yzxPsJgpB9+T35suZ2g=="

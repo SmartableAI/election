@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ydr.com/amp/5982553002"
 cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/5982553002"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/5/69/569d3f64-120f-11eb-b03b-cf485488bd15/5f8d95192e5c9.image.jpg"
         width: 698
         height: 392
+        isCached: true
+  - title: "Vice President Mike Pence To Visit Oakland County Thursday"
+    excerpt: "Vice President Mike Pence will be visiting Oakland County on Thursday for a Make America Great Again! just weeks ahead of the Nov. 3 election. Pence will speak at a rally located at Barnstormers, 1675 Airport Rd."
+    publishedDateTime: 2020-10-20T22:13:00Z
+    webUrl: "https://patch.com/michigan/troy/vice-president-mike-pence-visit-oakland-county-thursday"
+    ampWebUrl: "https://patch.com/michigan/troy/amp/29031441/vice-president-mike-pence-to-visit-oakland-county-thursday"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/troy/amp/29031441/vice-president-mike-pence-to-visit-oakland-county-thursday"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/getty/24007010/20201020/061203/styles/patch_image/public/gettyimages-1280045144___20181119393.jpg?width=984"
+        width: 852
+        height: 639
         isCached: true
   - title: "In Berks County, Vice President Mike Pence makes his case for four more years"
     excerpt: "He touted President Donald Trump and the administration's accomplishments: \"That's what leadership looks like.\""

@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "John Daly after being President Donald Trump's guest at debate: 'He's like me and Jesus'"
-    excerpt: "Golfer John Daly was at the second and final presidential debate on Thursday and caught up with USA TODAY Sports during the after party."
-    publishedDateTime: 2020-10-23T13:34:00Z
-    webUrl: "https://www.usatoday.com/story/sports/2020/10/23/john-daly-presidential-debate-donald-trump-like-me-and-jesus/3739947001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3739947001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3739947001"
+  - title: "Kamala Harris in Michigan: Trump administration 'is admitting defeat' on COVID-19"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris said that the Trump administration \"is admitting defeat\" after White House Chief of Staff Mark Meadows said the United States \"is not going to control\" the virus."
+    publishedDateTime: 2020-10-25T23:35:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: usatoday.com
-    quality: 116
+      name: UPI.com
+      domain: upi.com
+    quality: 85
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/9a2c80c6-bfe7-4509-861b-b4d57d8da789-AP_Election_2020_Debate.jpg?auto=webp&crop=4405,2478,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdnph.upi.com/ph/st/th/4321603644464/2020/upi/3ad59f43d1778808fde5591a836b2b2a/v1.5/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19.jpg?lg=5"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "6enQnmsv16jBMOiqp3oHAk6pSSrLtO8X919m/8IL3sLS4XZVAP2XqhRsDQDKXnFDOWzlHccFYjQCWJlGNdPpkkjcP585fHidAemF0M/Hz1kSVyqah/8CdvNhtZt3TyNchOnzHgt9Q5nBmv2UtUWgylP20psRdrrsP8vxVTZII1vTCtiKit0K3K5R9LDSMQJcJ7LsBYMV9H9NP7ghSYWjwEcrXjLMS+S4nZYtnzFO8xfJKTvmVdde3Uy4waXLMTI+dGOEZNHKPw1TY1iXqomhKV5fdaSMCehcaKnKoWCHlDaOMT7na7L7+av/VHfUH2IXr1LIlG7NYe6iYq0FjmAgc43u1eVIIkFd0JmjqkofQa/SAgZjvevRzCiNK9cu3LZt3czQn+YCaV9mVFXejPJihAESxmVuG5lsnImnaRPWXWewc+Wvf/klNBncQ5On6XXrdHvjrVAyCtl9Sr6u39X8kRJMixG06HWl2zCA8nHXea7RSKZJe9UFseDSYS4ZToVQL+MAQR0pXCnLtdawAkPAQQ==;JDvyiWV1RIKnxuCks59VtA=="
