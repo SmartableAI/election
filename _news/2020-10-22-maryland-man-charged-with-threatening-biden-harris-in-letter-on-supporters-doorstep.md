@@ -1066,7 +1066,7 @@ related:
   - title: "Kamala Harris coming to Texas on Friday, including a stop in Houston, sources say"
     excerpt: "Vice presidential candidate Kamala Harris is expected to be in Texas on Friday to campaign on the final day of early voting. Democratic sources say they expect Houston will be one of her stops"
     publishedDateTime: 2020-10-25T22:54:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-coming-to-Houston-on-Friday-15673946.php"
+    webUrl: "https://www.sfchronicle.com/news/article/politics/texas/article/Kamala-Harris-coming-to-Houston-on-Friday-15673946.php"
     type: article
     provider:
       name: San Francisco Chronicle

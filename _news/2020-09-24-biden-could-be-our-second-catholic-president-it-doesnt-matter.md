@@ -208,6 +208,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How Kamala Harris and Jill Biden are subverting stepmom stigma in America"
+    excerpt: "Democratic vice presidential candidate Kamala Harris and Democratic presidential nominee Joe Biden's wife, Jill, are now two of the highest-profile examples of stepmotherhood in America. (Melania Trump is also a stepmom."
+    publishedDateTime: 2020-10-25T22:38:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244373"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422264/201022-kamala-harris-family-ac-719p_c7acd8698887b667884fa7eb98bdca9c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Joe Biden’s Stutter Is His Superpower"
     excerpt: "Embracing a lifelong struggle to overcome a stutter, and the stumbles that have happened along the way, Uncle Joe is a hard man to dislike. In that same vein, Biden has finally gone where Hillary Clinton would not,"
     publishedDateTime: 2020-09-25T09:06:00Z

@@ -2,19 +2,19 @@
 category: news
 title: "Amy Coney Barrett, Mike Pence, Tropical Storm Zeta: 5 things to know Monday"
 excerpt: "Amy Coney Barrett is poised to become the ninth Supreme Court justice, Tropical Storm Zeta expected to develop into a hurricane and more things to start your Monday."
-publishedDateTime: 2020-10-26T07:02:00Z
-originalUrl: "https://www.azcentral.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/"
-webUrl: "https://www.azcentral.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/"
-ampWebUrl: "https://amp.azcentral.com/amp/6031654002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6031654002"
+publishedDateTime: 2020-10-26T09:02:00Z
+originalUrl: "https://www.tennessean.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/"
+webUrl: "https://www.tennessean.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/"
+ampWebUrl: "https://amp.tennessean.com/amp/6031654002"
+cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6031654002"
 type: article
 quality: 73
 heat: 73
 published: true
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Tennessean
+  domain: tennessean.com
 
 topics:
   - Election
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "9HVF6mitxr4zSEj+Tpre76cegO2sX3C9ao6dhbrrGVI6QZ2ixg70980Z0JCZKIYnqayqCf1Oz+CkAEbAOifDXiTi3qLq+YA11AR7EhC6qEsSpvlKz7+wwgeRc25PMEtk3aprL/a52SZpPigm6JJicN2FNo12jlvABwtVoT968S/wtvXldG3O/o+VYKQobtLq5C8mNbg0+BY5FZJjG6qGjVXJpCOc6UHZbhICkD7DUKbFtF8jTPcf0QLJUxAsG3tZbWrqKbg7mueDK92fuMHbw7a1K0iEsu5d1UBr10XeoUcnc7TFfevcr+fAcOb7bve0NYTcpysbiS98KEVc9gNJYzrvkfbpvK0slgqFTxG7L5Q=;BtSbA0VNSZJNUsE1Zck7VA=="
+secured: "QQM7eWOv73M9aDHzOTwbIHSSDiQSF/H1/+tb3lvBGyhW70xUn8n1Se5bllhow3PIH9tdWGdKjLdxGXb3eK6ly+FFvoQuDGzqX6WsgUI0KRkTuIkevwExZQKwXiFSu+4/ExmOe2anvmDT73I4MoeLSAzkPT85x06TlpOymcWLOeWnXCzAitHYfshrkmzvy97Iw52n/1KxlzSKk3xo7SVGAG9uSmT3SX/pQLEk2AxD6mnjaVMN2ypfgD3O2Kl71blSlIV+BVtMMGIKHOenBXUlR+FBRKfkwXelGpcHfqbHUlqAYawFklryaqt2b93z3Q7BWksVdjg92HBiCWRRb+psd4gDIfJ9MjUoY1noGZdXaEo=;v23tGTOe7Qw0537l8Nf9Fw=="
 ---
 

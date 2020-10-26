@@ -2,12 +2,64 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-26-mike-pences-chief-of-staff-marc-short-4-others-test-positive-for-covid-19.md",
+      "title": "Mike Pence's chief of staff Marc Short, 4 others test positive for COVID-19",
+      "excerpt": "ABC News has confirmed at least five individuals in the vice president's orbit have tested positive for the coronavirus as of Saturday night. Marc Short is among them.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825",
+      "originalUrl": "https://abcnews.go.com/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 243,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pence-campaign-01-ap-jef-201025_1603635158083_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825",
+      "publishedDateTime": "2020-10-26T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-amy-coney-barrett-mike-pence-tropical-storm-zeta-5-things-to-know-monday.md",
       "title": "Amy Coney Barrett, Mike Pence, Tropical Storm Zeta: 5 things to know Monday",
       "excerpt": "Amy Coney Barrett is poised to become the ninth Supreme Court justice, Tropical Storm Zeta expected to develop into a hurricane and more things to start your Monday.",
       "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
-      "originalUrl": "https://www.azcentral.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
+      "webUrl": "https://www.tennessean.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
+      "originalUrl": "https://www.tennessean.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
       "featuredContent": null,
       "highlight": null,
       "heat": 73,
@@ -24,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/6031654002",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6031654002",
-      "publishedDateTime": "2020-10-26T00:02:00-07:00",
+      "ampWebUrl": "https://amp.tennessean.com/amp/6031654002",
+      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6031654002",
+      "publishedDateTime": "2020-10-26T02:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
+        "name": "Tennessean",
+        "domain": "tennessean.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -167,7 +219,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-idINKBN27A04U",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4538,
+      "heat": 4598,
       "tags": null,
       "images": [
         {
@@ -209,6 +261,58 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-biden-on-attacks-on-mental-fitness-trump-thought-911-attack-was-711-attack.md",
+      "title": "Biden on attacks on mental fitness: Trump thought '9/11 attack was 7/11 attack'",
+      "excerpt": "Former Vice President Joe Biden (D) defended his mental acuity and took shots at President Trump during an interview airing Sunday on CBS's \"60 Minutes.\"",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11",
+      "originalUrl": "https://thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe2_102202020_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11?amp",
+      "publishedDateTime": "2020-10-25T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -878,58 +982,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-mike-pence-will-not-quarantine-after-four-aides-test-positive-for-coronavirus.md",
-      "title": "Mike Pence will not quarantine after four aides test positive for coronavirus",
-      "excerpt": "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
-      "originalUrl": "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 302,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769",
-          "width": 2965,
-          "height": 1977,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
-      "publishedDateTime": "2020-10-25T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-25-trump-insists-us-rounding-the-turn-on-coronavirus-pandemic-at-new-hampshire-rally.md",
       "title": "Trump insists US 'rounding the turn' on coronavirus pandemic at New Hampshire rally",
       "excerpt": "President Trump attacked Democratic nominee Joe Biden as the \"shutdown candidate\" and claimed Biden would reverse the U.S.'s \"economic comeback\" at a rally in Manchester, N.H., on Sunday.",
@@ -1308,58 +1360,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-did-donald-trump-deliver-to-voters-with-that-last-debate-performance.md",
-      "title": "Did Donald Trump deliver to voters with that last debate performance?",
-      "excerpt": "In the second and final presidential debate, Americans witnessed a much less raucous, more coherent, and more policy-oriented and traditional discussion than the first debate That",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance",
-      "originalUrl": "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald3_10222020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp",
-      "publishedDateTime": "2020-10-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

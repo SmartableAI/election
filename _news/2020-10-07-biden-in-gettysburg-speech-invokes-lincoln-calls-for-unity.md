@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-spe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-07-2020/t_2ec76ecc923d4db1b6fa0dbd5a05337d_name_56ad741c_0722_11eb_8719_0df159d14794.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
+        isCached: true
+  - title: "Joe Biden On Race: What The Democratic Presidential Nominee Has Said About Busing"
+    excerpt: "In the first of a two part series on former Vice President Joe Biden's record on race, Steve Inskeep examines his controversial stance on busing. STEVE INSKEEP, HOST: What is Joe Biden's record on ..."
+    publishedDateTime: 2020-10-12T09:10:00Z
+    webUrl: "https://www.npr.org/2020/10/12/922936067/joe-biden-on-race-what-the-democratic-presidential-nominee-has-said-about-busing"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 100
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Jim Carrey becomes Joe Biden in 'Saturday Night Live' teaser"
     excerpt: "Jim Carrey transforms into Democratic presidential nominee Joe Biden in a new teaser for \"Saturday Night Live\" Season 46."

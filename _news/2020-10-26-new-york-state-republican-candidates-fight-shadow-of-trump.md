@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "’60 Minutes’ airs Trump interview cut short by president"
+    excerpt: ""
+    publishedDateTime: 2020-10-26T08:53:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xXIEPNZqjZM/60-minutes-airs-trump-interview-cut-short-by-president"
+    ampWebUrl: "https://www.foxnews.com/politics/60-minutes-airs-trump-interview-cut-short-by-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/60-minutes-airs-trump-interview-cut-short-by-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Russian hackers 'can't change votes,' Trump's national security adviser says"
     excerpt: "U.S. officials said that Russian hackers have targeted the networks of dozens of state and local governments in the United States in recent days, stealing data from at least two servers."
     publishedDateTime: 2020-10-25T20:30:55Z
@@ -191,6 +207,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Dxx10Zkzl647TVzRdMrasOUT6v6Vroy7AI2EVUH0ra0fH209ik9iacCwAsYkAzA1708Y4ETwK3V4W4Vt4aQRsvS3YTzsJpmxlE4lxMljXgknvt7Iu70hrhWAhiF5OGfafwXHFuVNzrVgBujVBWlDPlRRy1aQH3LQgwuXB3HmhZKzEHKCrX2BbVCmEAbwVnn++0N/gCRV/4PxTMtFZVM4dG2Ht3GI0jnoWnrRghrV5gRVxgvbiNQXkbuzna/DGcLtkQjT54lS8RJS9xojJD4ToH9uiHwPSGIhJTHOKBtFsKxBWpK13k0UlfEVP9LIdnhV4SQ/WuLAlwSA8+Si+NFBhe4x7XUtxzo2PQr9Bz3zYww=;1LWMqZL+Im5kE/aRSleFkQ=="
+secured: "U3fH+2wNUDzr4kUKdV0To2Pc8YXHbcglkurz3VWabp3DHw/Zog9KKKDGnXdtAM4XB5afMXN6wBh3AZ/Zzh1oql9zJkYg6eTYx2ispTt/IbvuW/6qRgIoQdWiXueJYXa/eqhjILBSXNALiyKitTgcTMD54HqwRdvvnXoq5dPbg7MPL0FYMUkz+W8eoOqidey++gZfwR9ZTtrgndrJaDSMlwZngdNVl98IRdiDv0KHVkkM6IVTR8muvzSiWTLFau/LnVZ/6w4/9GqGZS78hdW412r2OE5YMtGYBUL28jxhNw78jg4eprt0gjhjN3LDa2vTy1klYOTBfpS6d6j+lsxqSLkDmI4QEr5OernMAJXsB7EHVjQWHSFltiLftMPDweZDNe5sKJaI55+zIS5lnnZI7v2xqyHFbLHr86dS3F31iWNnEzYoxWxbIXdZLE+8g1x7ht6cQSBVKZfTlWyfc65MHhwyqUTIVkaH+hd5YTeRzWySSQqjCjAmqPW7sIKV4tYTWpgsokXD/XDEUWifk2qBMQ==;GLD/LOnClMP0M14yI+apBQ=="
 ---
 

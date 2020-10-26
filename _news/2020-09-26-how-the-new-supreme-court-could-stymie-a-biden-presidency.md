@@ -208,6 +208,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How Kamala Harris and Jill Biden are subverting stepmom stigma in America"
+    excerpt: "Democratic vice presidential candidate Kamala Harris and Democratic presidential nominee Joe Biden's wife, Jill, are now two of the highest-profile examples of stepmotherhood in America. (Melania Trump is also a stepmom."
+    publishedDateTime: 2020-10-25T22:38:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244373"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422264/201022-kamala-harris-family-ac-719p_c7acd8698887b667884fa7eb98bdca9c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden Could Be Our Second Catholic President. It Doesn’t Matter."
     excerpt: "Kennedy in 1960, Catholic America achieved a long-sought victory. But what did we win? By Elizabeth Bruenig Ms. Bruenig is an Opinion writer. As Election Day approached 60 years ago, Catholics across the country followed the news with a nervous thrill of anticipation."
     publishedDateTime: 2020-09-24T04:27:00Z

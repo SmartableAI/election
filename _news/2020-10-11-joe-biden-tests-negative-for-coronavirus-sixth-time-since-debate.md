@@ -7,7 +7,7 @@ originalUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coro
 webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
 type: article
 quality: 55
-heat: 95
+heat: 75
 published: true
 
 provider:
@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
-    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
-    publishedDateTime: 2020-10-13T10:03:00Z
-    webUrl: "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/5966027002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002"
+  - title: "Mike Pence, Karen Pence test negative as White House coronavirus cases climb"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence both tested negative Monday as a number of new cases were confirmed in the nation's capital."
+    publishedDateTime: 2020-10-05T18:47:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/05/mike-pence-tests-negative-covid-19-white-house-coronavirus-trump/3626064001/"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 53
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 52
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
-    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
-    publishedDateTime: 2020-10-14T06:03:00Z
-    webUrl: "https://www.azcentral.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5966027002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5966027002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://www.gannett-cdn.com/presto/2019/09/26/PIND/f459176d-794d-415b-b2f4-9a80abebd0f8-Pence1.JPG?crop=2735,1539,x0,y0&width=1600&height=800&fit=bounds"
+        width: 1422
+        height: 800
         isCached: true
 
 secured: "+Rd0rB/IjyA3PCf5z5ObUPKD6j1wKuBszTR8CFH56oU1yjJ9A+zGC2MOFMW48Nm2J2DMRjUDEZYzTj01Nu4gvoFuDA75+K+gIMEJYfFzNc6kjP36cHUlyn3h4Ge5z5Qs3wnpeeKuu/87MdJsbbrHHbm+p82gI/78agxx7anPbCmlm6me6AdU6KQ49+GA7ZAY8qMiRNi6lfKsqQNCI+e8olJOJnSOhmMil668euitXSKo6D2r4Mbwbx0KHDfT1bRFUK0ymG4kpx39yyAn9MAilNlEr9Hg2OX+321Vh/GV1GAdzAFbxE4SCBhJ9xH64xMUNiZbXnmVJnu+W0ZIlgZCu3MC1XmhmTedt0OhArP+6wM=;rcUc/8zmDyxrg6wN9J5FCw=="

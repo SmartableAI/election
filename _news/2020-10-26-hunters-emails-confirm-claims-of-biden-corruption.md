@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Hunter's Emails Confirm Claims of Biden Corruption"
-excerpt: "Leslie Stahl saying that the NY Post Hunter Biden media blackout is because the story is “unverified” just takes the cake. Like that has stopped the press from running with stories every day the last four years sourced only to anonymous officials familiar with this or that,"
+excerpt: "Thanks to three brave Americans, we now know that Joe Biden has long misled the public about his involvement with his family’s foreign business entanglements while he served as vice president."
 publishedDateTime: 2020-10-25T18:18:00Z
-originalUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html#!"
-webUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html#!"
+originalUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html"
+webUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html"
 type: article
 quality: 65
 heat: -1
@@ -249,6 +249,6 @@ related:
         height: 720
         isCached: true
 
-secured: "yfxS2UwMqu1byeKxyfvsz4KCM4fhp5uevaDzM96fIrH7SO12LF58tMe+f9bssN5n8tKAa9En75hRb5NykHzZcxk+clMbk8Ua8AFr2H82swKcujZ8hqQblIFUF5AR8rsT/I0scFXsfygq61o4a1O4ytHwyaVeUHVJw0YRl3ErtPBWmEGdgt0sZwVjC7jLyFIt9mjM/nVVbDMq+A6nXkqdln0eIcnmo/NxBScleUALbdTtuTcFjRZPz4Z7dJw4whkJ51CrTg9AQQikhaC0HoyfSmiwO27z3FXk3bsZhLpHlK0KBWdUdlm6WlvpeIVRrngsDesD/5ZPpoHD3gQbPjV5OcEiR5ZiaUmWzuYSk/L2wN1bBFIPP9NnBlEYfDViIB/m9QgZrZ9HeTeBWyGEejCeID9MEbQXQ5SzCL9rOIDDobu9BoOPj930wSxquVkpd1rtjSyM6jI3VhwEFgeyma0BYG0cV7Cfwt2xWrD4v0rMMYs+nl2+pkJTpmw28Ei2+MLFstXeCzzRBfCF//7hAX9OCQ==;TtwAZQb5RXKbUdKSgNd1qQ=="
+secured: "qWEfZ+7noHTtHrKSkfAipdNEIiDWR8soZHyaQBkDOuxDm7HqDkd9sZswmNZktRJGPfDgv6Uz5FYDKxtoOHGWFFPQOeKW7ljKY9o0aNGmbNLv0mGFB4IgE64EG1vzTN2mXr93ZpDUYgXIAQINUi3AjkX+1WCHYrwTH/VqnNT7VtMkdf0G7kySZVvja4s+Yi5L1WxB53lGsT5Cn69Z0ggo2dClIrxd6cunHFJnrJxnor4GarXO6irdiCIEdGeaguef9hJtdIJvIyuR5s6Acxxf9BK1tjDdwMua0vSi5KhWdW4pdf/CoFzmxQ0ypYXCJ7JJmh9M3bP0byULyToG5i0yxAgvLzukMGxfUyx+felrLz0=;tqk01OfJnLpMESSrZ7fm/g=="
 ---
 

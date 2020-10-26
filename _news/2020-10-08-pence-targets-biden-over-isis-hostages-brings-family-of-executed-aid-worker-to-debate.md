@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/defense/520134-pence-targets-biden-over-i
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp"
 type: article
 quality: 142
-heat: 1222
+heat: 1242
 published: true
 
 provider:
@@ -770,6 +770,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Joe Biden’s polling better than any challenger since 1936"
+    excerpt: "Former Vice President Joe Biden is dominating President Donald Trump in the latest polls. No, the election is not over yet, and Trump still has a non-negligible chance of winning. But a look ..."
+    publishedDateTime: 2020-10-12T07:22:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/12/joe-bidens-polling-better-than-any-challenger-since-1936/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/12/joe-bidens-polling-better-than-any-challenger-since-1936/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/12/joe-bidens-polling-better-than-any-challenger-since-1936/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 55
   - title: "Joe Biden's polling lead expands since first debate - but 2016 offers lessons"
     excerpt: "Every Tuesday between now and Election Day, SFGATE will report on how the current 2020 presidential election polling averages compare to the polling averages at the same time in the 2016 presidential election."
     publishedDateTime: 2020-10-07T04:38:00Z

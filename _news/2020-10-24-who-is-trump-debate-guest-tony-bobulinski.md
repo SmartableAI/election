@@ -664,6 +664,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "President Donald Trump: The 60 Minutes 2020 Election Interview"
+    excerpt: "In an interview that's made headlines this week, Lesley Stahl presses President Trump on once-again rising coronavirus cases and what his priorities would be if re-elected. Stahl also speaks with Mr."
+    publishedDateTime: 2020-10-25T23:46:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/25/5d18ba86-d377-43c5-baea-8ac2a6d83e33/thumbnail/1200x630/d5f9d08f729916b60c98fd6b5c9e1742/trumpvideo0-574143-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Slovenian premier endorses Trump's reelection, joins others"
     excerpt: "Slovenian Prime Minister Janez Jansa endorsed U.S. President Donald Trump’s reelection on Friday, saying Joe Biden would be a weak leader."
     publishedDateTime: 2020-10-25T17:57:00Z

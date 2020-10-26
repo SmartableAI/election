@@ -27,19 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
-    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
-    publishedDateTime: 2020-10-10T19:43:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
+  - title: "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases"
+    excerpt: "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news."
+    publishedDateTime: 2020-10-18T19:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
     type: article
     provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
-        width: 769
-        height: 433
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Calls for Big Stimulus Proposal, Contradicting GOP Leaders"
+    excerpt: "President Donald Trump told Congress to “Go big or go home!!” on a coronavirus stimulus package, directly contradicting Senate Majority Leader Mitch McConnell’s plan to put a narrow bill on the Senate floor next week."
+    publishedDateTime: 2020-10-13T15:31:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Coronavirus updates: Donald Trump, Nancy Pelosi, Mitch McConnell face stimulus deal deadline; Sturgis rally linked to cases; 219K US deaths"
+    excerpt: "Monday talks could determine the fate of a stimulus package President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest news."
+    publishedDateTime: 2020-10-18T23:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Second Stimulus Check Update: Pelosi Slams Trump's Relief Proposal As 'Grossly Inadequate'"
+    excerpt: "The Trump administration's $1.8 trillion offer remains below the $2.2 trillion bill passed by House Democrats last week."
+    publishedDateTime: 2020-10-12T01:20:00Z
+    webUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446"
+    ampWebUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/democratic-house-speaker-nancy-pelosi-wants-to-spend.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
     excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."

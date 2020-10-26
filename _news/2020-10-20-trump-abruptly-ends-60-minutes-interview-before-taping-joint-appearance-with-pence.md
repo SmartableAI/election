@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minut
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html"
 type: article
 quality: 193
-heat: 393
+heat: 413
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 160
     images:
       - url: "https://static.politico.com/48/22/54f78c37495fb6d30fd19b619c77/1021guiliani.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump and Pence attempt another come-from-behind act"
+    excerpt: "MAGA diehards and on-the-fence suburban Republicans — in a way many conservatives wish they had seen from Trump all along. It’s an alternate universe that highlights his own potential path in 2024."
+    publishedDateTime: 2020-10-26T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/26/trump-pence-attempt-come-from-behind-act-432428"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/26/trump-pence-attempt-come-from-behind-act-432428"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/26/trump-pence-attempt-come-from-behind-act-432428"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 160
+    images:
+      - url: "https://static.politico.com/43/d5/868095814055bfecc3a2a6b7073f/gettyimages-1228712999-1.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-d
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
 type: article
 quality: 125
-heat: 905
+heat: 925
 published: true
 
 provider:
@@ -422,6 +422,22 @@ related:
       - url: "https://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20201010&Category=OPINION&ArtNo=201019995&Ref=AR"
         width: 520
         height: 816
+        isCached: true
+  - title: "VERIFY: Did Joe Biden say he would ban fracking?"
+    excerpt: "Vice President Mike Pence claimed that under a Biden administration, Joe Biden has said he wants to ban fracking. \"The American people can go look at the record, I know Joe Biden says otherwise ..."
+    publishedDateTime: 2020-10-09T18:01:00Z
+    webUrl: "https://www.wusa9.com/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240"
+    ampWebUrl: "https://www.wusa9.com/amp/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240"
+    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240"
+    type: article
+    provider:
+      name: WUSA9
+      domain: wusa9.com
+    quality: 75
+    images:
+      - url: "https://media.wusa9.com/assets/WUSA/images/7ebf6abb-c393-470c-891b-b614125c3413/7ebf6abb-c393-470c-891b-b614125c3413_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Joe Biden's tax returns: 3 things we can learn about Social Security"
     excerpt: "Although many retirees pay no tax on the benefits, those whose \"provisional income\" exceeds $25,000 or $32,000 for joint filers are taxed."

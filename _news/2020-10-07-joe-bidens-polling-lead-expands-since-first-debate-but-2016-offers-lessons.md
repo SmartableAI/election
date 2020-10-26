@@ -779,6 +779,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Joe Biden’s polling better than any challenger since 1936"
+    excerpt: "Former Vice President Joe Biden is dominating President Donald Trump in the latest polls. No, the election is not over yet, and Trump still has a non-negligible chance of winning. But a look ..."
+    publishedDateTime: 2020-10-12T07:22:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/12/joe-bidens-polling-better-than-any-challenger-since-1936/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/12/joe-bidens-polling-better-than-any-challenger-since-1936/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/12/joe-bidens-polling-better-than-any-challenger-since-1936/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 55
   - title: "Pence: Biden COVID Plan ‘Looks a Little Bit Like Plagiarism, Which Is Something Joe Biden Knows a Little Bit About’"
     excerpt: "Vice President Mike Pence accused Democratic presidential nominee Joe Biden of plagiarizing the Trump administration’s coronavirus plan, saying it “talks about advancing testing, creating new PPE,” and developing a vaccine."
     publishedDateTime: 2020-10-09T01:08:00Z

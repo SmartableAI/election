@@ -61,6 +61,20 @@ related:
         width: 1440
         height: 957
         isCached: true
+  - title: "Kamala Harris suspends campaign travel after aide, crew member test positive for coronavirus"
+    excerpt: "California Sen. Kamala Harris has suspended her vice presidential campaign travel through Sunday after two members of her staff and crew tested positive for the coronavirus."
+    publishedDateTime: 2020-10-16T11:49:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-cancels-campaign-travel-after-aide-15649875.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 94
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/56/25/20112734/5/rawImage.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’"
     excerpt: "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced."
     publishedDateTime: 2020-10-11T12:00:00Z

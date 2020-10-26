@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "’60 Minutes’ airs Trump interview cut short by president"
+    excerpt: ""
+    publishedDateTime: 2020-10-26T08:53:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xXIEPNZqjZM/60-minutes-airs-trump-interview-cut-short-by-president"
+    ampWebUrl: "https://www.foxnews.com/politics/60-minutes-airs-trump-interview-cut-short-by-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/60-minutes-airs-trump-interview-cut-short-by-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Russian hackers 'can't change votes,' Trump's national security adviser says"
     excerpt: "U.S. officials said that Russian hackers have targeted the networks of dozens of state and local governments in the United States in recent days, stealing data from at least two servers."
     publishedDateTime: 2020-10-25T20:30:55Z

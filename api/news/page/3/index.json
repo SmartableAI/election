@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-24-trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.md",
+      "title": "Trump 'coyote' remark confuses Twitter, including Georgia state Democrat",
+      "excerpt": "When President Trump suggested at the Thursday presidential debate that the more than 500 migrant children who the government hasn’t been able to reunite with their parents were brought to the border by coyotes, many on social media were left confused.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KJFaQyPGq4U/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KJFaQyPGq4U/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/kendrick.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.amp",
+      "publishedDateTime": "2020-10-23T21:15:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-trump-on-kamala-harris-us-wont-have-socialist-president-especially-a-female-socialist.md",
       "title": "Trump on Kamala Harris: U.S. won't have socialist president, \"especially a female socialist\"",
       "excerpt": "President Trump was back on the campaign trail Friday in his \"home state\" of Florida after the second and final debate against Democratic nominee Joe Biden. Mr. Trump is trying to win over seniors and women,",
@@ -1260,63 +1316,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects.md",
-      "title": "‘I’m going to do what’s right’: Bramnick criticism of Trump could hurt his statewide prospects",
-      "excerpt": "He is one of three major Republicans either running or known to be openly flirting with seeking the party’s nomination to challenge Democratic Gov. Phil Murphy next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/new-jersey/story/2020/10/22/im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects-1329556",
-      "originalUrl": "https://www.politico.com/states/new-jersey/story/2020/10/22/im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects-1329556",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/fb/f6/788d630745c693ac95fb3e095bba/201022-bramnick-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

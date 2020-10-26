@@ -705,9 +705,9 @@ related:
   - title: "Trump, Biden in final full week of campaigning as virus looms large"
     excerpt: "President Donald Trump and Democratic challenger Joe Biden on Monday are down to the final full week of campaigning before the Nov. 3 election, as surging coronavirus cases and a COVID-19 outbreak within Vice President Mike Pence's staff keep the focus of the race on"
     publishedDateTime: 2020-10-26T05:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27B0BZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B0BZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B0BZ"
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27B0FP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B0FP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B0FP"
     type: article
     provider:
       name: Reuters
@@ -2624,6 +2624,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 85
+  - title: "Kamala Harris in Michigan: Trump administration 'is admitting defeat' on COVID-19"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris said that the Trump administration \"is admitting defeat\" after White House Chief of Staff Mark Meadows said the United States \"is not going to control\" the virus."
+    publishedDateTime: 2020-10-25T23:35:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 85
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/4321603644464/2020/upi/3ad59f43d1778808fde5591a836b2b2a/v1.5/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19.jpg?lg=5"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Could Seniors Deliver The Presidential Election To Biden? Trump Struggles With Elderly Voters Amid COVID Pandemic"
     excerpt: "Concerns about COVID-19 have resulted in seniors moving away from Donald Trump and towards Joe Biden, recent polls suggest."
     publishedDateTime: 2020-09-18T22:59:00Z
@@ -2639,6 +2655,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/17/democratic-presidential-nominee-joe-biden-voiced-his-support.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Kamala Harris blames Trump for COVID-19 'mass casualty event’ during Michigan visit"
+    excerpt: "Democratic vice presidential nominee Kamala Harris said President Donald Trump’s handling of the coronavirus pandemic caused the “greatest mass casualty event s"
+    publishedDateTime: 2020-10-26T04:15:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GJWXLVLC75EXNLWNT2JDQ3BBFM.JPG"
+        width: 4992
+        height: 4006
         isCached: true
   - title: "Joe Biden to be tested for COVID after President Donald Trump reports positive result"
     excerpt: "Democratic presidential nominee Joe Biden will be tested for coronavirus Friday morning, a source familiar with the plans confirmed."
@@ -3141,6 +3173,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Putin Rejects Donald Trump's Criticism of Biden Family Business"
+    excerpt: "Russian President Vladimir Putin said on Sunday that he saw nothing criminal in Hunter Biden's past business ties with Ukraine or Russia, marking out his disagreement with one of Donald Trump's attack lines in the U."
+    publishedDateTime: 2020-10-25T18:29:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-25/putin-rejects-donald-trumps-criticism-of-biden-family-business"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-25/putin-rejects-donald-trumps-criticism-of-biden-family-business?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-25/putin-rejects-donald-trumps-criticism-of-biden-family-business?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

@@ -79,6 +79,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump and Pence attempt another come-from-behind act"
+    excerpt: "MAGA diehards and on-the-fence suburban Republicans — in a way many conservatives wish they had seen from Trump all along. It’s an alternate universe that highlights his own potential path in 2024."
+    publishedDateTime: 2020-10-26T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/26/trump-pence-attempt-come-from-behind-act-432428"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/26/trump-pence-attempt-come-from-behind-act-432428"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/26/trump-pence-attempt-come-from-behind-act-432428"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 160
+    images:
+      - url: "https://static.politico.com/43/d5/868095814055bfecc3a2a6b7073f/gettyimages-1228712999-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "QAnon supporters behind canceled Pence fundraiser gave Trump $1 million"
     excerpt: "The couple made their donation in August before a scheduled fundraiser with Pence was canceled after their promotion of the QAnon conspiracy theory came to light."
     publishedDateTime: 2020-10-17T13:27:00Z

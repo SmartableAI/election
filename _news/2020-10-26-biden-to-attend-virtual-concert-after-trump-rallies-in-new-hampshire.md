@@ -608,6 +608,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden flips script on Trump in campaign’s final week"
+    excerpt: "Donald Trump is chasing every possible opening across the electoral map. Joe Biden is sitting on his lead, carefully surveying the landscape for states that might serve as insurance policies. It’s a jarring flip of the script for an incumbent president and his challenger eight days before Election Day."
+    publishedDateTime: 2020-10-26T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/26/biden-and-trump-role-reversal-432347"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/26/biden-and-trump-role-reversal-432347"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/26/biden-and-trump-role-reversal-432347"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/e4/86/c4e1d4ae45bfae3d3a47e7ef7223/gettyimages-1229279582-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Election live updates: Trump, Biden campaign as Senate readies Barrett Supreme Court nomination vote"
+    excerpt: "President Donald Trump and Joe Biden are heading into their last full week of campaigning before Election Day. The candidates and their surrogates will spend the week in key battleground states like Michigan and Pennsylvania."
+    publishedDateTime: 2020-10-26T09:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-trump-biden-campaign-senate-readies-barrett-supreme-n1244715"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244715"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244715"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Biden calls out Trump for suggesting 'injecting bleach' to treat coronavirus"
     excerpt: "While speaking about vaccine production, Joe Biden called out President Donald Trump for suggesting that \"injecting bleach\" could help treat the coronavirus, while the president claimed it was said \"sarcastically."
     publishedDateTime: 2020-09-30T01:54:00Z

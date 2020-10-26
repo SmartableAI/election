@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-19-supreme-court-to-review-trumps-remain-in-mexico-policy.md",
+      "title": "Supreme Court to review Trump's 'Remain in Mexico' policy",
+      "excerpt": "The Supreme Court is agreeing to review a Trump administration policy that makes asylum-seekers wait in Mexico for U.S. court hearings",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_baedd00b2d3c4ea3a5162698b8a957e7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573",
+      "publishedDateTime": "2020-10-19T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-deep-in-trump-country-alabamans-hope-hell-win-90-percent-or-more.md",
       "title": "Deep in ‘Trump Country,’ Alabamans hope he’ll win 90 percent or more",
       "excerpt": "A solemn prayer rings out in a wood-paneled courtroom in Winston County, where Donald Trump won a resounding 90 percent of the vote in 2016. Republicans in this conservative bastion in northern Alabama say they hope God will allow the president — a man so unlike them in so many ways — to do even",
@@ -158,15 +210,15 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-coronavirus-updates-donald-trump-nancy-pelosi-mitch-mcconnell-face-stimulus-deal-deadline-sturgis-rally-linked-to-cases-219k-us-deaths.md",
-      "title": "Coronavirus updates: Donald Trump, Nancy Pelosi, Mitch McConnell face stimulus deal deadline; Sturgis rally linked to cases; 219K US deaths",
-      "excerpt": "Monday talks could determine the fate of a stimulus package President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest news.",
+      "path": "_news/2020-10-19-coronavirus-updates-trump-pelosi-mcconnell-face-deadline-for-stimulus-deal-sturgis-rally-linked-to-cases.md",
+      "title": "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases",
+      "excerpt": "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news.",
       "sourceUrl": null,
       "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
       "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -182,7 +234,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.usatoday.com/amp/3695793001",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001",
-      "publishedDateTime": "2020-10-18T16:37:00-07:00",
+      "publishedDateTime": "2020-10-18T12:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -322,7 +374,7 @@
       "originalUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1440,49 +1492,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe.md",
-      "title": "Rick Gates Calls on Trump to Pardon Him — And Everyone Convicted of Crimes by Mueller Probe",
-      "excerpt": "Donald Trump's former 2016 deputy camping manager Rick Gates calls on the president to pardon him — and everyone else convicted of crimes by the Mueller Probe",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/",
-      "originalUrl": "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mediaite.com/wp-content/uploads/2020/10/Rick-Gates-Calls-on-Trump-to-Pardon-Him-And-Everyone-Convicted-of-Crimes-by-Mueller-Probe-1200x672.jpg",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/",
-      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/",
-      "publishedDateTime": "2020-10-14T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mediaite",
-        "domain": "mediaite.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris coming to Texas on Friday, including a stop in Houston, sources say"
 excerpt: "Vice presidential candidate Kamala Harris is expected to be in Texas on Friday to campaign on the final day of early voting. Democratic sources say they expect Houston will be one of her stops"
 publishedDateTime: 2020-10-25T22:54:00Z
-originalUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-coming-to-Houston-on-Friday-15673946.php"
-webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-coming-to-Houston-on-Friday-15673946.php"
+originalUrl: "https://www.sfchronicle.com/news/article/politics/texas/article/Kamala-Harris-coming-to-Houston-on-Friday-15673946.php"
+webUrl: "https://www.sfchronicle.com/news/article/politics/texas/article/Kamala-Harris-coming-to-Houston-on-Friday-15673946.php"
 type: article
 quality: 50
 heat: -1
@@ -1253,6 +1253,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "bwSYElNz4sLvGndCYwy6/QajXRSm03wv57cDBvCNkHc6nJSLiB81DEa2iRXQWA6wcdZhVMwl5DnyK4YofDZDbzu018MaI6FSTTEX/x0CIT71Leuo+W4W+qGMwXfBgKBnM35VjhuBXBWG/ay6YFa0ZapY4n21pdYySW5gccpVDqUxo7hkAg4YdKyeP3w0yGWnDVXElogjD/4N8lK5F8hrqgzFs1t4vtA60Dp/oBd6v/1UGx+53OJU+V/dZojz4CFaCeDA4rCAuIZNTys6Lv83iHPWDuAZ7jx07sXEbgOVujHGumRLno16gAgdKB4vP4Z+QdXNhpoUjGPIOwVZp31kRBAyqD8WNEyZeySMv3xh3vyBTlnclBSowvomjoNpqbRUljfEGtcjo9y0VSjsRmKZPGZI/S5/tWBJit4zWTXsKqLkxdjmR2shLnpOB6Nhr6ZbEVV+ekS38CTlt+Zar9o9aBugbuJNfpj5kCW0GnF/GB1PbKPsrSvoP7Tb/ZyqZEqtNr18adsLa+5IhvwAnxbwqw==;aFx2lvtK88Y0U4izJv/UIw=="
+secured: "hKCYhSk5ZlAV+C8oRexcHR+3Bn6MjXuRhbCPHfmIhoCms2xynpDatMB/i2OqKE7pCDOa+4wlfW49DOiXuJtxzC5gmYPw1gB7wFr4x0Qz/xrInbBVFa3L28mux9VAKhh4+3gspXAn8Qdj4WhqAslqClJ3wPvBW2l9NoPbFAZmbGqDUcLuTEqhc0lyC2q4TI5rKz+YBQxPXh+POqeWnTXF9wqwRE/Hte2WNkcEMJpT8X8DAhQQjxLjSkXZiIvOx43r+cnrvbsIMVCwh6T76Ks3fozH6Osvks7+KeVY9TIivo/rmjPRpjnZquVIoKJla2rDHLP+efaFd2yf+GIMLSqfYO3wbtezaxOy+SNPgFQxbcc=;nZwrze8zhpXK5TPec6k+JQ=="
 ---
 

@@ -89,6 +89,20 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Joe Biden On Race: What The Democratic Presidential Nominee Has Said About Busing"
+    excerpt: "In the first of a two part series on former Vice President Joe Biden's record on race, Steve Inskeep examines his controversial stance on busing. STEVE INSKEEP, HOST: What is Joe Biden's record on ..."
+    publishedDateTime: 2020-10-12T09:10:00Z
+    webUrl: "https://www.npr.org/2020/10/12/922936067/joe-biden-on-race-what-the-democratic-presidential-nominee-has-said-about-busing"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 100
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Joe Biden calls for unity in visit to historic Gettysburg"
     excerpt: "Democratic presidential nominee Joe Biden called for unity amid ongoing protests against racial injustice and political division over the COVID-19 pandemic in a campaign speech in Gettysburg on Tuesday."
     publishedDateTime: 2020-10-07T00:10:00Z

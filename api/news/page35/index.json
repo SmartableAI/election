@@ -2,6 +2,105 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-09-15-steil-joined-vice-president-mike-pence-in-janesville.md",
+      "title": "Steil Joined Vice President Mike Pence in Janesville",
+      "excerpt": "Congressman Bryan Steil (R-Janesville) got to meet the Vice President Mike Pence in his hometown of Janesville on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/wisconsin/mountpleasant/steil-joined-vice-president-mike-pence-janesville",
+      "originalUrl": "https://patch.com/wisconsin/mountpleasant/steil-joined-vice-president-mike-pence-janesville",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22881893/20200914/060610/styles/patch_image/public/bryan-vp-2___14180427334.jpg?width=984",
+          "width": 984,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/wisconsin/mountpleasant/amp/28962011/steil-joined-vice-president-mike-pence-in-janesville",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/wisconsin/mountpleasant/amp/28962011/steil-joined-vice-president-mike-pence-in-janesville",
+      "publishedDateTime": "2020-09-14T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-netflix-star-under-fbi-investigation-for-soliciting-sex-from-minors-previously-held-instagram-session-with-biden.md",
+      "title": "Netflix star under FBI investigation for soliciting sex from minors previously held Instagram session with Biden",
+      "excerpt": "A popular Netflix personality who is reportedly under FBI investigation for soliciting nude photos from minors helped boost Joe Biden's presidential campaign earlier this year. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/61ZbZ5xY5R0/netflix-cheer-jerry-harris-joe-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/61ZbZ5xY5R0/netflix-cheer-jerry-harris-joe-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Harris-Biden_getty-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/netflix-cheer-jerry-harris-joe-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/netflix-cheer-jerry-harris-joe-biden.amp",
+      "publishedDateTime": "2020-09-14T19:02:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-kid-rock-performs-at-trump-rally-in-michigan-announces-one-last-monster-tour-coming.md",
       "title": "Kid Rock performs at Trump rally in Michigan, announces 'one last monster tour' coming",
       "excerpt": "On a night that felt like a late-summer concert, Kid Rock joined Donald Trump Jr. and supporters of the president at a campaign rally east of Detroit.",
@@ -1240,118 +1339,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc.md",
-      "title": "Trump slams Bill de Blasio for telling New Yorkers to enjoy ‘beautiful’ day in NYC",
-      "excerpt": "President Trump mocked New York City Mayor Bill de Blasio on Twitter Sunday for telling city residents to enjoy the day amid heightened crime.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VHEm0kz1zAg/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VHEm0kz1zAg/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc.amp",
-      "publishedDateTime": "2020-09-13T13:52:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-trump-signs-executive-order-to-lower-drug-prices-in-fight-against-big-pharma.md",
-      "title": "Trump signs executive order to lower drug prices in fight against Big Pharma",
-      "excerpt": "The new order follows a series of four orders President Trump signed in July that similarly lowered prices of prescription drugs.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_gCgq2taRdA/trump-executive-order-lowers-drug-prices",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_gCgq2taRdA/trump-executive-order-lowers-drug-prices",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/peter-aitken.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-executive-order-lowers-drug-prices.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-executive-order-lowers-drug-prices.amp",
-      "publishedDateTime": "2020-09-13T13:02:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
