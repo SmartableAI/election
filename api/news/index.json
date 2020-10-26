@@ -2,6 +2,224 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-26-trump-plans-second-white-house-event-for-barrett-as-senate-takes-up-nomination.md",
+      "title": "Trump plans second White House event for Barrett as Senate takes up nomination",
+      "excerpt": "The White House on Monday planned a celebration to celebrate the Republican Senate's expected confirmation of President Donald Trump's conservative nominee Amy Coney Barrett to the Supreme Court, one a month after a similar event was linked to a COVID-19 outbreak that",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-court-barrett/update-1-trump-plans-second-white-house-event-for-barrett-as-senate-takes-up-nomination-idUSL1N2HH17E",
+      "originalUrl": "https://www.reuters.com/article/usa-court-barrett/update-1-trump-plans-second-white-house-event-for-barrett-as-senate-takes-up-nomination-idUSL1N2HH17E",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538830036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P0RV",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27B143",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B143",
+      "publishedDateTime": "2020-10-26T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-pence-tests-negative-for-coronavirus-again-as-democrats-push-him-to-skip-barrett-vote.md",
+      "title": "Pence tests negative for coronavirus again as Democrats push him to skip Barrett vote",
+      "excerpt": "Senate Democrats are telling Vice President Mike Pence to stay away from Judge Amy Coney Barrett's confirmation vote on Capitol Hill after five people in Pence's orbit tested positive for coronavirus last week, although the vice president tested negative again on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bvCvQgx_uzQ/mike-pence-coronavirus-test-barrett-vote-schumer",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bvCvQgx_uzQ/mike-pence-coronavirus-test-barrett-vote-schumer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pence-coronavirus-test-barrett-vote-schumer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-coronavirus-test-barrett-vote-schumer.amp",
+      "publishedDateTime": "2020-10-26T08:01:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-ben-shapiro-nothing-funny-about-kamala-harris-laughing-off-questions-about-socialism.md",
+      "title": "Ben Shapiro: 'Nothing funny' about Kamala Harris laughing off questions about socialism",
+      "excerpt": "Podcast host and author Ben Shapiro on Monday ripped Sen. Kamala Harris, D-Calif., for laughing at an interviewer who asked if she had socialist views.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zNjyUmwcoA/kamala-harris-laughs-socialist-views-ben-shapiro",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zNjyUmwcoA/kamala-harris-laughs-socialist-views-ben-shapiro",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp",
+      "publishedDateTime": "2020-10-26T07:56:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-mike-pence-tests-negative-as-he-campaigns-amid-covid-surge-across-us.md",
+      "title": "Mike Pence tests negative as he campaigns amid Covid surge across US",
+      "excerpt": "Cases are rising rapidly, with more than 8.5m cases and a death toll of 225,000, as battleground states see surging case numbers",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dce33209681cd0593109afbbad29c19a48ba23d5/0_71_4782_2872/master/4782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e23fe7e1cf3f49903dad84507f1bf4ba",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
+      "publishedDateTime": "2020-10-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-journalist-peggy-noonan-blasted-for-calling-kamala-harris-dancing-embarrassing.md",
       "title": "Journalist Peggy Noonan Blasted For Calling Kamala Harris’ Dancing ‘Embarrassing’",
       "excerpt": "Wall Street Journal columnist Peggy Noonan was heavily criticized for her comments on Sen. Kamala Harris in a recent op-ed.",
@@ -170,7 +388,7 @@
       "originalUrl": "https://www.theguardian.com/commentisfree/2020/oct/26/could-rejected-mail-in-ballots-cost-joe-biden-the-election?ref=hvper.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 840,
+      "heat": 860,
       "tags": null,
       "images": [
         {
@@ -282,7 +500,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 807,
+      "heat": 827,
       "tags": null,
       "images": [
         {
@@ -326,64 +544,12 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-mike-pences-chief-of-staff-marc-short-4-others-test-positive-for-covid-19.md",
-      "title": "Mike Pence's chief of staff Marc Short, 4 others test positive for COVID-19",
-      "excerpt": "ABC News has confirmed at least five individuals in the vice president's orbit have tested positive for the coronavirus as of Saturday night. Marc Short is among them.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825",
-      "originalUrl": "https://abcnews.go.com/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 283,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/pence-campaign-01-ap-jef-201025_1603635158083_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825",
-      "publishedDateTime": "2020-10-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-amy-coney-barrett-mike-pence-tropical-storm-zeta-5-things-to-know-monday.md",
       "title": "Amy Coney Barrett, Mike Pence, Tropical Storm Zeta: 5 things to know Monday",
       "excerpt": "Amy Coney Barrett is poised to become the ninth Supreme Court justice, Tropical Storm Zeta expected to develop into a hurricane and more things to start your Monday.",
       "sourceUrl": null,
-      "webUrl": "https://www.tennessean.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
-      "originalUrl": "https://www.tennessean.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
+      "webUrl": "https://www.freep.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
+      "originalUrl": "https://www.freep.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
       "featuredContent": null,
       "highlight": null,
       "heat": 73,
@@ -400,13 +566,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.tennessean.com/amp/6031654002",
-      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6031654002",
-      "publishedDateTime": "2020-10-26T02:02:00-07:00",
+      "ampWebUrl": "https://amp.freep.com/amp/6031654002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6031654002",
+      "publishedDateTime": "2020-10-26T01:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tennessean",
-        "domain": "tennessean.com",
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1140,133 +1306,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-25-trump-insists-us-rounding-the-turn-on-coronavirus-pandemic-at-new-hampshire-rally.md",
-      "title": "Trump insists US 'rounding the turn' on coronavirus pandemic at New Hampshire rally",
-      "excerpt": "President Trump attacked Democratic nominee Joe Biden as the \"shutdown candidate\" and claimed Biden would reverse the U.S.'s \"economic comeback\" at a rally in Manchester, N.H., on Sunday.",
+      "path": "_news/2020-10-26-mike-pence-will-not-quarantine-after-four-aides-test-positive-for-coronavirus.md",
+      "title": "Mike Pence will not quarantine after four aides test positive for coronavirus",
+      "excerpt": "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bZs1iDy7lKo/trump-rally-nh-biden-shutdown-candidate-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bZs1iDy7lKo/trump-rally-nh-biden-shutdown-candidate-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20299623021498.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-rally-nh-biden-shutdown-candidate-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-nh-biden-shutdown-candidate-coronavirus.amp",
-      "publishedDateTime": "2020-10-25T12:10:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-ice-cube-im-not-playing-politics-by-working-with-trump-campaign-on-platinum-plan-for-black-americans.md",
-      "title": "Ice Cube: 'I'm not playing politics' by working with Trump campaign on 'Platinum Plan' for Black Americans",
-      "excerpt": "Rapper Ice Cube continued to defend himself against social media attacks for working with President Trump on his \"Platinum Plan\" for Black Americans, telling “Fox News Sunday” that he is “not playing politics with this.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NwDXyao1Jko/ice-cube-interview-trump-campaign-platinum-plan-black-americans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NwDXyao1Jko/ice-cube-interview-trump-campaign-platinum-plan-black-americans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ice-cube-interview-trump-campaign-platinum-plan-black-americans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-cube-interview-trump-campaign-platinum-plan-black-americans.amp",
-      "publishedDateTime": "2020-10-25T11:37:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-conservative-news-sites-are-misleading-millions-of-readers-about-voter-fraud-pushing-debunked-conspiracy-theories-amplified-by-president-trump.md",
-      "title": "Conservative news sites are misleading millions of readers about voter fraud, pushing debunked conspiracy theories amplified by President Trump",
-      "excerpt": "Right-leaning news sites with millions of readers have published dozens of false or misleading headlines and articles that back unsubstantiated claims by President Donald Trump on voter fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html",
+      "webUrl": "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
+      "originalUrl": "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 242,
       "tags": null,
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/i9c1o9nbm-hxcciyCgULDOsWMnM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ONYTZMGAMNHETHSZOHDVVCXTKU.aspx",
-          "width": 1200,
-          "height": 675,
+          "url": "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769",
+          "width": 2965,
+          "height": 1977,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1274,68 +1328,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-25T11:18:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
+      "publishedDateTime": "2020-10-25T12:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-health-experts-question-pence-campaigning-as-essential-work.md",
-      "title": "Health experts question Pence campaigning as essential work",
-      "excerpt": "Health policy specialists are questioning Vice President Mike Pence’s claim that federal rules on essential workers allow him to continue to campaign and not quarantine himself after exposure to multi",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html?outputType=amp",
-      "publishedDateTime": "2020-10-25T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

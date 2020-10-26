@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: How President Trump's surprise gift to '60 Minutes' completely backfired"
+    excerpt: "Shortly after President Donald Trump abruptly ended an interview with \"60 Minutes\" anchor Lesley Stahl, White House press secretary Kayleigh McEnany showed up with a massively large book in tow.\n    \n"
+    publishedDateTime: 2020-10-26T15:22:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n_Mn373UAXk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/donald-trump-60-minutes-book-lesley-stahl-health-care/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/donald-trump-60-minutes-book-lesley-stahl-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026102021-mcenany-stahl-60-mins-grab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Lesley Stahl says Trump and Pence insulted her and '60 Minutes'"
     excerpt: "President Donald Trump on Thursday released video footage of the tense interviews he and Vice President Mike Pence had separately with “60 Minutes” correspondent Lesley Stahl, including a particularly combative exchange in which Stahl accuses both men of having \"insulted\" her and the news program."
     publishedDateTime: 2020-10-22T21:18:00Z
@@ -206,6 +222,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3422162/201022-trump-60-minutes-interview-al-1314_005a4a0a10453ec8af3c4527549a3597.JPG"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "How President Trump's surprise gift to '60 Minutes' completely backfired"
+    excerpt: "(CNN)Shortly after President Donald Trump abruptly ended an interview with \"60 Minutes\" anchor Lesley Stahl, White House press secretary Kayleigh McEnany showed up with a massively large book in tow. \"Lesley, the President wanted me to deliver his health ..."
+    publishedDateTime: 2020-10-26T14:22:00Z
+    webUrl: "https://www.cnn.com/2020/10/26/politics/donald-trump-60-minutes-book-lesley-stahl-health-care/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/donald-trump-60-minutes-book-lesley-stahl-health-care/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/donald-trump-60-minutes-book-lesley-stahl-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 134
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026102021-mcenany-stahl-60-mins-grab-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump ends ’60 Minutes’ interview, attacks Lesley Stahl on Twitter"
     excerpt: "The president, reportedly frustrated by the line of questioning, said he was considering posting the interview before airtime “for the sake of accuracy in reporting.”"

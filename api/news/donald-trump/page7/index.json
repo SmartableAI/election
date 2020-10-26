@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-02-donald-trump-made-an-unsuccessful-push-to-cash-out-his-800-million-stake-in-2-valuable-office-skyscrapers.md",
+      "title": "Donald Trump made an unsuccessful push to cash out his $800 million stake in 2 valuable office skyscrapers",
+      "excerpt": "The New York Times found Trump erased nearly all his federal taxes in the 15 years prior to the 2016 election. But he could be on the hook for an upcoming $100 million tax bill.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-tried-sell-stake-manhattan-san-francisco-offices-vornado-taxes-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-tried-sell-stake-manhattan-san-francisco-offices-vornado-taxes-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f75f48374fe5b0018a8e7b3?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-nato-insiders-believe-trumps-tax-and-debt-problems-make-him-vulnerable-to-blackmail-by-foreign-powers.md",
       "title": "NATO insiders believe Trump's tax and debt problems make him vulnerable to blackmail by foreign powers",
       "excerpt": "\"Everything about his finances smells like blood and we are trained to be sharks,\" one source told Insider.",
@@ -1549,63 +1601,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-engage-or-proceed-debating-trump-the-unpredictable-aggressor.md",
-      "title": "Engage or Proceed? Debating Trump, the Unpredictable Aggressor",
-      "excerpt": "Joe Biden has the scouting report of the president’s past debates and four years in office. One way to use it? Respond to unpredictability with a simple, “Here’s my stability plan.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/28/us/politics/debating-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/28/us/politics/debating-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28lessons1/28lessons1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/28/us/politics/debating-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/debating-trump.amp.html",
-      "publishedDateTime": "2020-09-28T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

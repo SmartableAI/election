@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Election 2020 live updates: Trump to campaign in Pennsylvania, Biden off the trail"
+    excerpt: "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday."
+    publishedDateTime: 2020-10-26T15:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 149
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump5-gty-ml-201026_1603721616686_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Election 2020 live updates: Trump, Biden racing toward Election Day with more rallies"
     excerpt: "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more rallies and concerts on Sunday."
     publishedDateTime: 2020-10-25T13:37:00Z
@@ -2008,6 +2024,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Plans Battleground Blitz Despite Growing Virus Worries"
+    excerpt: "President Donald Trump plans to intensify an already breakneck travel schedule in the final full week of the presidential campaign despite growing worries about the coronavirus nationwide."
+    publishedDateTime: 2020-10-26T13:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

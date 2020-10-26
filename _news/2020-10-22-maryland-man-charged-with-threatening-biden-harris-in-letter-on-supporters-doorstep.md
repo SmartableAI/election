@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762NM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM"
 type: article
 quality: 143
-heat: 2063
+heat: 2083
 published: true
 
 provider:
@@ -936,6 +936,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/b428e196-612e-452c-83b9-15d61114f11b/dcd15672-7f2e-445a-b020-202ff75ee139/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vice presidential nominee Kamala Harris is coming to Houston Friday for campaign stop"
+    excerpt: "Vice presidential nominee Kamala Harris will be paying a visit to the Lone Star State on Friday. The Houston Chronicle's Jeremy Wallace reports that Harris is set to make multiple stops across Texas on the final day of early voting,"
+    publishedDateTime: 2020-10-26T15:01:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/Vice-presidential-nominee-Kamala-Harris-is-coming-15675147.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/Vice-presidential-nominee-Kamala-Harris-is-coming-15675147.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/Vice-presidential-nominee-Kamala-Harris-is-coming-15675147.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 68
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Outrage Over Mispronunciation of Kamala Harris’ Name, Supporters Launch Online Campaign"
     excerpt: "The mispronunciation outraged a large number of Harris' supporters and her spokesperson Sabrina Singh said, I'll keep it simple: If you can pronounce 'former' Senator David Perdue, you can pronounce 'future' Vice President Kamala Harris."

@@ -2,6 +2,161 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-22-chronicled-who-is-kamala-harris-new-podcast-by-the-chronicle-coming-soon.md",
+      "title": "Chronicled: Who is Kamala Harris? New podcast by The Chronicle coming soon",
+      "excerpt": "Is Kamala Harris a cop or progressive? A Berkeley radical or Beltway insider? This six-part podcast series from the San Francisco Chronicle delves into the making of a candidate. Listen to the trailer and subscribe on Apple,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfchronicle.com/politics/article/Chronicled-Who-is-Kamala-Harris-New-podcast-by-15664913.php",
+      "originalUrl": "https://www.sfchronicle.com/politics/article/Chronicled-Who-is-Kamala-Harris-New-podcast-by-15664913.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/00/16/02/16834711/10/375x250.jpg",
+          "width": 361,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sfchronicle.com/politics/amp/Chronicled-Who-is-Kamala-Harris-New-podcast-by-15664913.php",
+      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Chronicled-Who-is-Kamala-Harris-New-podcast-by-15664913.php",
+      "publishedDateTime": "2020-10-21T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-biden-drops-la-mayor-eric-garcetti-from-event-after-two-more-men-accuse-close-adviser-of-sexual-misconduct.md",
+      "title": "Biden drops LA Mayor Eric Garcetti from event after two more men accuse close adviser of sexual misconduct",
+      "excerpt": "Los Angeles Mayor Eric Garcetti’s chances for a cabinet post in a Biden administration are increasingly in doubt now that two more men have accused Garcetti’s close adviser of sexual misconduct.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBcwpUzC6qs/garcetti-problem-biden-two-men-adviser-sexual-misconduct",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBcwpUzC6qs/garcetti-problem-biden-two-men-adviser-sexual-misconduct",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Rick-Jacobs-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/garcetti-problem-biden-two-men-adviser-sexual-misconduct.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garcetti-problem-biden-two-men-adviser-sexual-misconduct.amp",
+      "publishedDateTime": "2020-10-21T15:05:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-cnn-polls-biden-leads-in-pennsylvania-and-tight-race-remains-in-florida.md",
+      "title": "CNN Polls: Biden leads in Pennsylvania and tight race remains in Florida",
+      "excerpt": "Former Vice President Joe Biden holds a lead in Pennsylvania and neither he nor President Donald Trump leads in the critical state of Florida, according to new CNN polls conducted by SSRS.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JQxhnU3tUss/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JQxhnU3tUss/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200928173850-04-biden-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html",
+      "publishedDateTime": "2020-10-21T14:08:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-trump-administration-continues-to-send-mixed-messages-about-future-of-us-troops-in-afghanistan.md",
       "title": "Trump administration continues to send mixed messages about future of US troops in Afghanistan",
       "excerpt": "The Trump administration continued to send contradictory messages about the future of US troops in Afghanistan on Wednesday.\n    \n",
@@ -58,49 +213,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally.md",
-      "title": "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally",
-      "excerpt": "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/",
-      "originalUrl": "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems01.jpg?w=1024&h=755",
-          "width": 1024,
-          "height": 755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/",
-      "publishedDateTime": "2020-10-21T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-21-inside-melania-trumps-unprecedented-campaign-trail-absence.md",
       "title": "Inside Melania Trump's unprecedented campaign trail absence",
       "excerpt": "First lady Melania Trump -- in a historic break from precedent -- has yet to set foot on the campaign trail this year even as her husband, President Donald Trump, fights for votes, especially among suburban White women with whom she could hold appeal.\n    \n",
@@ -113,7 +225,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 355,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -269,7 +381,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2063,
+      "heat": 2083,
       "tags": null,
       "images": [
         {
@@ -1031,7 +1143,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 433,
+      "heat": 473,
       "tags": null,
       "images": [
         {
@@ -1181,105 +1293,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.md",
-      "title": "Watch: Trail Blazers’ CJ McCollum interviews VP nominee Kamala Harris during Remaking America",
-      "excerpt": "The Blazers' starting shooting guard interviewed the democratic candidate for Vice President in his new show, Remaking America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html",
-      "originalUrl": "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OIANM34RPNFNJD6AY4FG5OBJQM.JPG",
-          "width": 2968,
-          "height": 2220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp",
-      "publishedDateTime": "2020-10-20T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-says-were-up-in-nc-amid-reported-internal-worries-about-keeping-state-red.md",
-      "title": "Trump says 'we're up' in NC amid reported internal worries about keeping state red",
-      "excerpt": "Polls show Trump essentially tied with Democratic nominee Joe Biden",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFGyaaY0NdA/trump-north-carolina-biden-polls",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFGyaaY0NdA/trump-north-carolina-biden-polls",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20289760366040-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-north-carolina-biden-polls.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-biden-polls.amp",
-      "publishedDateTime": "2020-10-20T13:00:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

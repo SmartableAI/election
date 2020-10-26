@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-melania-trump-l
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/d7866475-31b1-4e2a-ad70-063761d06ddc-AP_Election_2020_Trump.jpg?auto=webp&crop=5086,2861,x0,y258&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Watch the moment Trump walked out of his '60 minutes' interview with Lesley Stahl"
+    excerpt: "The president left the interview after chiding CBS reporter Lesley Stahl for promising to ask him 'tough' questions."
+    publishedDateTime: 2020-10-26T14:06:00Z
+    webUrl: "https://www.businessinsider.com/video-donald-trump-walks-out-lesley-stahl-60-minutes-interview-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-donald-trump-walks-out-lesley-stahl-60-minutes-interview-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-donald-trump-walks-out-lesley-stahl-60-minutes-interview-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f96d53f4743a3001216b91f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump leaves contentious '60 Minute' interview with Lesley Stahl, goes on Twitter attack"
     excerpt: "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl"

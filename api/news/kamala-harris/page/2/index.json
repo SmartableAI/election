@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-08-as-harris-prepares-for-pence-debate-asian-american-women-pay-tribute-to-their-immigrant-mothers-grandmothers.md",
+      "title": "As Harris Prepares for Pence Debate, Asian American Women Pay Tribute to Their Immigrant Mothers, Grandmothers",
+      "excerpt": "The Democratic Party's vice presidential nominee became the first Asian-American woman on a major party's ticket. Here's what her nomination means to the women she represents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176",
+      "originalUrl": "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1647685/kamala-harris.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1",
+      "publishedDateTime": "2020-10-07T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-ed-rollins-vp-debate-harris-pence-faceoff-in-utah-and-america-should-look-to-hear-this-one-word.md",
       "title": "Ed Rollins: VP debate –Harris, Pence faceoff in Utah and America should look to hear this one word",
       "excerpt": "It is not unrealistic to think that Pence or Harris could be America’s president in the not-too-distant future",

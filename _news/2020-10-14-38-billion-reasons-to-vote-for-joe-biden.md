@@ -710,6 +710,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden harnesses history to describe urgency of 2020 campaign"
+    excerpt: "Joe Biden goes bigger. The Democratic nominee portrays 2020 as an entanglement of social, economic, political, environmental and public health crises as threatening to America’s stability as the ..."
+    publishedDateTime: 2020-10-11T19:54:00Z
+    webUrl: "https://thegrio.com/2020/10/11/joe-biden-presidential-election-history-urgency/"
+    ampWebUrl: "https://thegrio.com/2020/10/11/joe-biden-presidential-election-history-urgency/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/10/11/joe-biden-presidential-election-history-urgency/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 75
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2020/10/GettyImages-1279652921-scaled.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Did you see on social media Joe Biden wore a wire during the debate? Not so"
     excerpt: "While some posts zoomed in on Biden’s shirt near his lapel to make the false claim, others used photos or videos that captured something sticking out from under his shirt cuff. In fact, Biden was wearing his late son Beau’s rosary beads on his wrist."
     publishedDateTime: 2020-10-03T22:54:00Z

@@ -2,6 +2,222 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-25-trump-insists-us-rounding-the-turn-on-coronavirus-pandemic-at-new-hampshire-rally.md",
+      "title": "Trump insists US 'rounding the turn' on coronavirus pandemic at New Hampshire rally",
+      "excerpt": "President Trump attacked Democratic nominee Joe Biden as the \"shutdown candidate\" and claimed Biden would reverse the U.S.'s \"economic comeback\" at a rally in Manchester, N.H., on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bZs1iDy7lKo/trump-rally-nh-biden-shutdown-candidate-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bZs1iDy7lKo/trump-rally-nh-biden-shutdown-candidate-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20299623021498.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-rally-nh-biden-shutdown-candidate-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-nh-biden-shutdown-candidate-coronavirus.amp",
+      "publishedDateTime": "2020-10-25T12:10:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-ice-cube-im-not-playing-politics-by-working-with-trump-campaign-on-platinum-plan-for-black-americans.md",
+      "title": "Ice Cube: 'I'm not playing politics' by working with Trump campaign on 'Platinum Plan' for Black Americans",
+      "excerpt": "Rapper Ice Cube continued to defend himself against social media attacks for working with President Trump on his \"Platinum Plan\" for Black Americans, telling “Fox News Sunday” that he is “not playing politics with this.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NwDXyao1Jko/ice-cube-interview-trump-campaign-platinum-plan-black-americans",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NwDXyao1Jko/ice-cube-interview-trump-campaign-platinum-plan-black-americans",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ice-cube-interview-trump-campaign-platinum-plan-black-americans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-cube-interview-trump-campaign-platinum-plan-black-americans.amp",
+      "publishedDateTime": "2020-10-25T11:37:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-conservative-news-sites-are-misleading-millions-of-readers-about-voter-fraud-pushing-debunked-conspiracy-theories-amplified-by-president-trump.md",
+      "title": "Conservative news sites are misleading millions of readers about voter fraud, pushing debunked conspiracy theories amplified by President Trump",
+      "excerpt": "Right-leaning news sites with millions of readers have published dozens of false or misleading headlines and articles that back unsubstantiated claims by President Donald Trump on voter fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/i9c1o9nbm-hxcciyCgULDOsWMnM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ONYTZMGAMNHETHSZOHDVVCXTKU.aspx",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-25T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-health-experts-question-pence-campaigning-as-essential-work.md",
+      "title": "Health experts question Pence campaigning as essential work",
+      "excerpt": "Health policy specialists are questioning Vice President Mike Pence’s claim that federal rules on essential workers allow him to continue to campaign and not quarantine himself after exposure to multi",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-25T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-trump-top-campaign-adviser-the-president-wants-to-see-every-republican-reelected.md",
       "title": "Trump top campaign adviser: 'The president wants to see every Republican reelected'",
       "excerpt": "The statement contradicts recent comments from the president, who reportedly said he doesn't \"want to help\" some Republican senators with reelection.",
@@ -502,63 +718,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus.md",
-      "title": "Marc Short, chief of staff for Vice President Mike Pence, tests positive for coronavirus",
-      "excerpt": "Marc Short, chief of staff for Vice President Mike Pence, has tested positive for the coronavirus, the vice president’s office confirmed Saturday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wl9kEObMYe0/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wl9kEObMYe0/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Marc-Short.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus.amp",
-      "publishedDateTime": "2020-10-24T20:39:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Mike Pence"
       ]
     },
@@ -1213,163 +1372,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-jr-floats-2024-run-for-president-this-will-make-the-lib-heads-explode.md",
-      "title": "Trump Jr. floats 2024 run for president: ‘This will make the lib heads explode’",
-      "excerpt": "Donald Trump Jr. posted a photo to Instagram Saturday standing in front of a “Don Jr 2024” sign, teasing that prospect. “Hahahahaha. Oh boy. This was a sign I saw up",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/",
-      "originalUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/don-jr-46.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/amp/",
-      "publishedDateTime": "2020-10-24T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.md",
-      "title": "Trump town hall 'nodding woman' explains why she left Democratic Party",
-      "excerpt": "It was a tale of two town halls that exposed the corrupt, the dishonest, abusively biased media mob in real time. Over there at ABC, Joe Biden predictably coddled by the network's chief Democrat, little Georgie Stephanopoulos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party",
-      "originalUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/51022276-6559-4a62-b0df-600aea903753/5c186c01-c853-4d7e-a585-af3ca2bf75af/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp",
-      "publishedDateTime": "2020-10-24T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-did-trump-really-use-a-twitter-password-as-weak-as-maga2020.md",
-      "title": "Did Trump Really Use A Twitter Password As Weak As ‘maga2020!’?",
-      "excerpt": "Dutch hackers claim to have broken into Donald Trump’s Twitter account using an easily guessable password, but security experts are not convinced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91a64e5946a0e9165fe5c7%2F0x0.jpg",
-          "width": 1199,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/amp/",
-      "publishedDateTime": "2020-10-23T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

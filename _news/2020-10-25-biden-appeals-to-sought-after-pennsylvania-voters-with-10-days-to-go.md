@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Bulldozer thief drove through Florida town digging up Biden-Harris campaign signs"
+    excerpt: "James Blight was arrested in Haines City, Florida for allegedly stealing a bulldozer to dig up and vandalize the homes of people displaying Joe Biden signs."
+    publishedDateTime: 2020-10-26T14:38:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/bulldozer-thief-drove-through-florida-town-digging-biden-harris-campaign-n1244750"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244750"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244750"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 155
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3422981/201026-bulldozer-haines-city-cover-jm-0928_7573f2356a341e72152ac7388e223e38.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "RSrh55f8cyNApja5DZkiIyI7a1HypJsd3tzDLOFpkI9gP0WNEaSALq9j/zEDZb0pKMpeiydkMXcmVfFpZ34sgVbHao3zVhkyGAK6QBs/Q/08ugW6gzX+6MIFHcctg9NTLs5s5CaviK8SnxzjLAk7/8toUHApNshphs4vJRPsechn+SAvnhGThOuNlS7dk2fHKbjiafidoOmB4HXmlXmNcBciNefqTOfbWTm69mx4lHT/SRoSeVMNFU8oyyPUSQxNyoOsisUWBysnyyWYA9P7TLg8MVKYS9I70K+ROfGs450d0qP6W6FR+xgsXdBh7BnYJE+SfdRuPMmMnZT8/UKh/LjZiaDdm0KVxd/DozfnyC09SDYwNKsuk+vZmOSXmjbKjySAr9Pg7BVxAYx9PY3w3rCdMqyN4sQjVWY8AueRnVGpHHgu2gVEMdQtCStbZoFmM6YP0zsN0HfDsIQCudIOYcipEE56PLKf0knzh0pOIQSzMncy3wlQe4OiK3GzJIqIX41EyNtobfHtk495WHacqg==;1rQi5MLqm14nJo/RUJuiXQ=="
 ---

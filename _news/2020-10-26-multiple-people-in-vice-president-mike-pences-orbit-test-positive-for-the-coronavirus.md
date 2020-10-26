@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence's chief of staff Marc Short, 4 others test positive for COVID-19"
-    excerpt: "ABC News has confirmed at least five individuals in the vice president's orbit have tested positive for the coronavirus as of Saturday night. Marc Short is among them."
-    publishedDateTime: 2020-10-26T09:30:00Z
-    webUrl: "https://abcnews.go.com/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/pence-campaign-01-ap-jef-201025_1603635158083_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
     excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
     publishedDateTime: 2020-10-25T19:24:00Z
@@ -61,53 +45,35 @@ related:
         width: 2965
         height: 1977
         isCached: true
-  - title: "Vice President Mike Pence's chief of staff Marc Short tests positive for COVID-19"
-    excerpt: "\"Vice President Pence and Mrs. Pence both tested negative for COVID-19 today, and remain in good health,\" Pence's press secretary Devin O'Malley said."
-    publishedDateTime: 2020-10-25T05:20:00Z
-    webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?ftag=CNM-00-10aab7e"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
+  - title: "Kamala Harris suspends campaign travel after aide, crew member test positive for coronavirus"
+    excerpt: "California Sen. Kamala Harris has suspended her vice presidential campaign travel through Sunday after two members of her staff and crew tested positive for the coronavirus."
+    publishedDateTime: 2020-10-16T11:49:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-cancels-campaign-travel-after-aide-15649875.php"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 94
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/25/bdaeb978-9219-49f6-9ea9-e24ff5096a1f/thumbnail/1200x630/afe499c7b4ca27a38a56c1948ca16e05/gettyimages-1206471082.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.hdnux.com/photos/01/14/56/25/20112734/5/rawImage.jpg"
+        width: 2048
+        height: 1367
         isCached: true
-  - title: "Mike Pence adviser Marty Obst tests positive for COVID-19 as the latest case in White House orbit"
-    excerpt: "Sources told Bloomberg News Marty Obst tested positive last week and has not been in close contact with the vice president."
-    publishedDateTime: 2020-10-25T02:28:00Z
-    webUrl: "https://www.businessinsider.com/top-advisor-to-mike-pence-tests-positive-for-covid-19-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/top-advisor-to-mike-pence-tests-positive-for-covid-19-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-advisor-to-mike-pence-tests-positive-for-covid-19-2020-10?amp"
+  - title: "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally"
+    excerpt: "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ..."
+    publishedDateTime: 2020-10-21T19:58:00Z
+    webUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/"
+    ampWebUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/5f94df4df21803001222bce7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Close political adviser to Mike Pence tests positive for COVID-19"
-    excerpt: "According to Bloomberg News, one of Vice President Mike Pence’s top political advisers has tested positive for COVID-19. It is unclear if Marty Obst developed coronavirus symptoms when he tested positive."
-    publishedDateTime: 2020-10-25T05:17:00Z
-    webUrl: "https://www.rawstory.com/2020/10/close-political-adviser-to-mike-pence-tests-positive-for-19/amp/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/close-political-adviser-to-mike-pence-tests-positive-for-19/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/close-political-adviser-to-mike-pence-tests-positive-for-19/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/04/pence.jpg"
-        width: 800
-        height: 430
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems01.jpg?w=1024&h=755"
+        width: 1024
+        height: 755
         isCached: true
   - title: "Mike Pence's chief of staff, top adviser both test positive for coronavirus"
     excerpt: "Sources tell ABC News, Marc Short, Chief of Staff to the Vice President Mike Pence has tested positive for COVID-19. And top adviser Marty Obst has also tested positive for coronavirus earlier ..."
@@ -125,6 +91,22 @@ related:
         width: 3422
         height: 2281
         isCached: true
+  - title: "Vice President Mike Pence and second lady Karen Pence test negative for coronavirus"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump and first lady Melania Trump were diagnosed with the"
+    publishedDateTime: 2020-10-02T12:31:00Z
+    webUrl: "https://www.bostonherald.com/2020/10/02/the-latest-pence-and-his-wife-test-negative-for-covid-19-2/"
+    ampWebUrl: "https://www.bostonherald.com/2020/10/02/the-latest-pence-and-his-wife-test-negative-for-covid-19-2/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/02/the-latest-pence-and-his-wife-test-negative-for-covid-19-2/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 69
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/09/AP20255534450048.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "VP Mike Pence to continue campaigning after chief of staff tests positive for coronavirus"
     excerpt: "Pence spokesman Devin O’Malley said Pence and his wife, Karen Pence, both tested negative for the virus on Saturday."
     publishedDateTime: 2020-10-25T03:34:00Z
@@ -140,20 +122,6 @@ related:
       - url: "https://www.ocregister.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
         width: 1024
         height: 579
-        isCached: true
-  - title: "Several People in Vice President Mike Pence’s World Now Have Covid-19"
-    excerpt: "At least five people in Vice President Mike Pence’s inner circle have tested positive for the coronavirus, according to a report from CNN. That tally includes some of his closest advisors, including his chief of staff Marc Short and an advisor named Marty Orbst."
-    publishedDateTime: 2020-10-25T15:25:00Z
-    webUrl: "https://www.motherjones.com/coronavirus-updates/2020/10/several-people-in-vice-president-mike-pences-world-now-have-covid-19/"
-    type: article
-    provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 55
-    images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/pencenormalize-10820.jpg?w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "o8mvTw1Lh7Y+vtMIUisHYO6b0k+T1mfhVAUcBGiryLJyR+yx1ILnI4zpfZ/I+CMaraRBNjcdYPLXb7+YJSZg7+h8V2DA9DKcTY9hRZ/zbyiFvtyFgV4gZubH8q3wrUaDv3zfg/V/sjo4i1Y3Z0Ok0MRTLNItTKa9pevvSw2l9MObWV0aMKvGNaLnk0AxXoOJendJwsX4ixQxGHRh9rHyOtRyL1Jg5vfAzohFWYqsU7URZpS7G2z/18H0bY9fgcw9Pm0I/0olmLfcosYcgodPRh/S4XHXiLBa1s9BX4Sv8uq9WJ3bUu/jy52rx3xWo2fCsYfB45Zf3RWMPa2pU58Jv+U1ARr9nTugV0gmVmLQDrI=;9DGfoDQ28W8nb81b1qAIOw=="

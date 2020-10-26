@@ -2,6 +2,101 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-09-21-hungarian-prime-minister-viktor-orban-endorses-trump-and-denounces-the-moral-imperialism-of-the-democrats.md",
+      "title": "Hungarian prime minister Viktor Orban endorses Trump and denounces the 'moral imperialism' of the Democrats",
+      "excerpt": "The controversial Hungarian prime minister on Monday said he was rooting for Trump to be re-elected at the November election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9",
+      "originalUrl": "https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f686663323fc4001e0d75e1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9?amp",
+      "publishedDateTime": "2020-09-21T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear.md",
+      "title": "Anthony Anderson, Jimmy Kimmel Chant ‘Black Lives Matter’ at Emmy Awards: ‘Say it So That Mike Pence Can Hear!’",
+      "excerpt": "Anthony Anderson and Jimmy Kimmel chanted Black lives matter during the Emmy Awards on Sunday -- Anderson encouraging Kimmel to say it louder, \"so that Mike Pence can hear!\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/",
+      "originalUrl": "https://www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-10.01.08-PM-1200x678.jpg",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/amp/",
+      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/amp/",
+      "publishedDateTime": "2020-09-20T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mediaite",
+        "domain": "mediaite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-golden-nuggets-trump-explains-to-woodward-why-judges-are-key-to-his-record.md",
       "title": "'Golden nuggets': Trump explains to Woodward why judges are key to his record",
       "excerpt": "President Donald Trump repeatedly boasted to journalist Bob Woodward about the number of judges he has appointed to the federal bench during several of their interviews for \"Rage.\" The recorded comments provide insight into Trump's relationship with Senate Majority Leader Mitch McConnell as the two prepare",
@@ -1248,119 +1343,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-behind-trumps-turkish-bromance-lev-parnas-oligarchs-and-a-lucrative-lobbying-deal.md",
-      "title": "Behind Trump's Turkish 'bromance': Lev Parnas, oligarchs and a lucrative lobbying deal",
-      "excerpt": "Turkey’s effort to influence the Trump White House began at the Watergate, in a meeting brokered by a figure from the Ukraine impeachment saga, Lev Parnas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-bromance-lev-parnas-oligarchs-lucrative-lobbying-n1240374",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-bromance-lev-parnas-oligarchs-lucrative-lobbying-n1240374",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3041266/191007-donald-trump-recep-tayyip-erdogan-cs-114p_e50a56b00063d241c350af03f1bc4205.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240374",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240374",
-      "publishedDateTime": "2020-09-19T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.md",
-      "title": "Ginsburg vacancy puts pressure on Trump-critic Republicans in Senate",
-      "excerpt": "Supreme Court Justice Ruth Bader Ginsburg’s death Friday has put a spotlight on a handful of unpredictable Republican senators.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/collins-romney-murkowski.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp",
-      "publishedDateTime": "2020-09-19T02:59:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

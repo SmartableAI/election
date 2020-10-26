@@ -2,6 +2,118 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-13-ex-white-house-doctor-questions-bidens-mental-capacity-to-be-president.md",
+      "title": "Ex-White House doctor questions Biden's 'mental capacity' to be president",
+      "excerpt": "“I’m concerned, like so many other people in this country are right now, that he is not up for the job,\" Jackson said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvR-lQXJkr4/white-house-doctor-ronny-jackson-biden-mental-capacity-president",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvR-lQXJkr4/white-house-doctor-ronny-jackson-biden-mental-capacity-president",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/048f5479-3edc-4e43-8155-6c4f45a2c149/af8ff7d7-6b5c-4ce2-a9be-4ad5bb46b196/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp",
+      "publishedDateTime": "2020-10-13T14:48:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-ayanna-pressley-challenger-in-massachusetts-says-she-was-attacked-at-local-trump-rally-suffered-broken-tibia.md",
+      "title": "Ayanna Pressley challenger in Massachusetts says she was attacked at local Trump rally, suffered broken tibia",
+      "excerpt": "The incident left her with a sprained finger, fractured tibia, and a mild concussion, Campbell told Fox News on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AY6UQJpcBzc/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AY6UQJpcBzc/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone.amp",
+      "publishedDateTime": "2020-10-13T14:02:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-jim-acosta-responds-to-pro-trump-crowd-chanting-cnn-sucks.md",
       "title": "Jim Acosta responds to pro-Trump crowd chanting 'CNN sucks'",
       "excerpt": "CNN's Chief White House Correspondent Jim Acosta responded to a pro-Trump crowd chanting \"CNN sucks\" at a rally for President Trump in Florida.",
@@ -743,49 +855,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-coronavirus-updates-first-american-to-get-covid-twice-13-states-set-case-records-joe-biden-tests-negative-again.md",
-      "title": "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again",
-      "excerpt": "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/",
-      "originalUrl": "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.tennessean.com/amp/5966027002",
-      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002",
-      "publishedDateTime": "2020-10-13T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tennessean",
-        "domain": "tennessean.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-13-kkk-social-visit-cards-left-at-joe-biden-supporters-homes-in-tennessee.md",
       "title": "KKK 'Social Visit' Cards Left at Joe Biden Supporters' Homes in Tennessee",
       "excerpt": "Residents in Shelbyville also said that signs showing support for Democratic candidate appeared to have been run over by a car.",
@@ -1208,58 +1277,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/5972629002",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5972629002",
       "publishedDateTime": "2020-10-12T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-columbus-day-trump-accuses-radical-activists-of-trying-to-undermine-explorers-legacy-in-holiday-proclamation.md",
-      "title": "Columbus Day: Trump accuses 'radical activists' of trying to undermine explorer's legacy in holiday proclamation",
-      "excerpt": "Trump used a typical White House holiday announcement to accuse \"radical activists\" of seeking to undercut Christopher Columbus' legacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/columbus-day-trump-says-radical-activists-attacking-legacy/5970125002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/columbus-day-trump-says-radical-activists-attacking-legacy/5970125002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/b1a48c71-0db5-472d-945f-c12c4f309ee1-GTY_1228998405.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5970125002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5970125002",
-      "publishedDateTime": "2020-10-12T12:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",

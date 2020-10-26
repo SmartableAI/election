@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/senate-confirmation-vote
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/senate-confirmation-vote-supreme-court-amy-coney-barrett/index.html"
 type: article
 quality: 187
-heat: 807
+heat: 827
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021160110-01-donald-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Despite the Trump administration's new policy, many pharmacies still won't vaccinate children against flu "
+    excerpt: "As a dark winter approaches with \"twindemics\" of Covid-19 and the flu, an effort by the Trump administration to increase the number of children receiving flu shots is not working, according to a CNN investigation.\n    \n"
+    publishedDateTime: 2020-10-26T14:58:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXUl-9swsd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025074215-kid-flu-shot-stock-3-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

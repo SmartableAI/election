@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Melania Trump to make belated campaign trail appearance"
+    excerpt: "First lady Melania Trump will make her first solo campaign appearance on behalf of President Donald Trump with just one week to go before the election. Her up-to-now campaign trail absence has marked a historic break from precedent, especially in a race that finds her husband fighting for votes.\n   "
+    publishedDateTime: 2020-10-26T15:06:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mcdhz1c7SAc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/melania-trump-campaign-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/melania-trump-campaign-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022165949-01-trump-melania-debate-departure-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump renews focus on ex-friend with essay railing against 'pettiness'"
     excerpt: "First lady Melania Trump penned an essay on the White House website on Friday that railed against what she described as the \"pettiness\" of the media and ex-friend and former adviser Stephanie Winston Wolkoff.\n    \n"
     publishedDateTime: 2020-10-16T15:37:32Z
@@ -94,6 +110,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Why Trump Can’t Take Red Counties in North Carolina for Granted"
+    excerpt: "Even some people in Gastonia, N.C., are a little perplexed about why the president was holding a rally in a small community that’s already in his camp."
+    publishedDateTime: 2020-10-26T14:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/25/us/politics/trump-north-carolina-rural-.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/25/us/politics/trump-north-carolina-rural-.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/25/us/politics/trump-north-carolina-rural-.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/25/us/politics/25trump-carolina-1/25trump-carolina-1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump campaign spokesperson claims parents of separated children don't want them back"
     excerpt: "Multiple media outlets reported this week that the federal government remains unable to find the parents of more than 500 children who were separated from their families."

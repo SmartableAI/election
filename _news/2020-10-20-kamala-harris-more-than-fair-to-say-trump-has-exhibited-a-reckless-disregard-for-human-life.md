@@ -482,6 +482,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris: Donald Trump Is A Racist, \"It All Speaks For Itself\""
+    excerpt: "Sen. Kamala Harris explained a \"pattern\" of behavior that she believes proves President Trump is a racist during an interview which aired Sunday on \"60 Minutes.\" NORAH O'DONNELL: Do you think the president is racist?"
+    publishedDateTime: 2020-10-26T14:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/26/kamala_harris_donald_trump_is_a_racist_it_all_speaks_for_itself.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/525187.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Kamala Harris: Court Packing A Distraction, Has \"All Of A Sudden\" Become An Issue"
     excerpt: "CNN's Don Lemon spoke with vice presidential nominee Sen. Kamala Harris about the dueling town halls between President Donald Trump and her running mate, Democratic presidential nominee Joe Biden. \"I think that Joe Biden has been consistent about saying that this is not the time right now to have this discussion."
     publishedDateTime: 2020-10-16T13:35:00Z

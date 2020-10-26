@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch the moment Trump walked out of his '60 minutes' interview with Lesley Stahl"
+    excerpt: "The president left the interview after chiding CBS reporter Lesley Stahl for promising to ask him 'tough' questions."
+    publishedDateTime: 2020-10-26T14:06:00Z
+    webUrl: "https://www.businessinsider.com/video-donald-trump-walks-out-lesley-stahl-60-minutes-interview-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-donald-trump-walks-out-lesley-stahl-60-minutes-interview-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-donald-trump-walks-out-lesley-stahl-60-minutes-interview-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f96d53f4743a3001216b91f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump leaves contentious '60 Minute' interview with Lesley Stahl, goes on Twitter attack"
     excerpt: "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl"
     publishedDateTime: 2020-10-20T22:38:00Z

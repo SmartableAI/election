@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3457152001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3457152001"
 type: article
 quality: 121
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Vice President Mike Pence and second lady Karen Pence test negative for coronavirus"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump and first lady Melania Trump were diagnosed with the"
-    publishedDateTime: 2020-10-02T12:31:00Z
-    webUrl: "https://www.bostonherald.com/2020/10/02/the-latest-pence-and-his-wife-test-negative-for-covid-19-2/"
-    ampWebUrl: "https://www.bostonherald.com/2020/10/02/the-latest-pence-and-his-wife-test-negative-for-covid-19-2/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/02/the-latest-pence-and-his-wife-test-negative-for-covid-19-2/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 69
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/09/AP20255534450048.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "1lyfATsWl1WZT9WqU7M9ZNox7xMth0A4Bn3wLTxVoqrUQ4v7p7vEQ5cTUGE3kymg284S2iQLKQJ9QeQMYEFxlHViEWEJb225j9Szhj/PYpp+DQR0MDECd9yWcMou4CkqPy6O166ddyo1oG2ssG7Ob5DvzQMw/MVT7HM/rCE+TywLeuWx7Aq1T5ashVhXZD3URPXZuccDKJCv3HZqRX7o12AmTaOUVon+hGP/VgIABu+Ytp4rBagqMsC9w/dyZ7cgNjU2jnSQS11MALH81ObMo9O5/q4OD/EPFR3u3FLq83mNJ9BEDteMJkW2D8taRdvAQeE0RNPiCApmnZPfjAoeEB+L/ttWr58ZNlVdnzpaEE4=;WPT6RTO11VXN7FSngMHamw=="
 ---

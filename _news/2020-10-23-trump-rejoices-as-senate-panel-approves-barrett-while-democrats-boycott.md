@@ -29,37 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Senate panel sets October 22 vote on Trump court pick despite Democrats' protests"
-    excerpt: "The Republican-led U.S. Senate Judiciary Committee on Thursday scheduled an Oct. 22 vote to advance conservative appellate judge Amy Coney Barrett's nomination to the Supreme Court to the full Senate,"
-    publishedDateTime: 2020-10-15T21:14:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2701AT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2701AT"
+  - title: "Trump plans second White House event for Barrett as Senate takes up nomination"
+    excerpt: "The White House on Monday planned a celebration to celebrate the Republican Senate's expected confirmation of President Donald Trump's conservative nominee Amy Coney Barrett to the Supreme Court, one a month after a similar event was linked to a COVID-19 outbreak that"
+    publishedDateTime: 2020-10-26T15:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett/update-1-trump-plans-second-white-house-event-for-barrett-as-senate-takes-up-nomination-idUSL1N2HH17E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B143"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B143"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 120
+    quality: 121
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537566094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0SM"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538830036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P0RV"
         width: 817
         height: 545
-        isCached: true
-  - title: "Nancy Pelosi defends shunning Donald Trump for a year after she walked out on their meeting last October"
-    excerpt: "The Speaker and President Trump have not spoken since October 16, 2019 after the two traded insults and the Pelosi walked out."
-    publishedDateTime: 2020-10-17T12:46:00Z
-    webUrl: "https://www.businessinsider.com/nancy-pelosi-defends-not-speaking-to-donald-trump-for-entire-year"
-    ampWebUrl: "https://www.businessinsider.com/nancy-pelosi-defends-not-speaking-to-donald-trump-for-entire-year?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-defends-not-speaking-to-donald-trump-for-entire-year?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5f8ac006d260780019342001?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "+n4YFYa4XR13T82tjwy3KwVH5Lx3hJVCMOq/SqmAZSnZRkBs7MDyCV31/u9JLm7K2QHw582dSGjt9HcGaey5rjT7t/p43RugZ3oXNBzrSoLOLqJNsdnF3FbhUw8uy7L0m8LEBnGurOf9n+E+pC6pXdoumvAPEiY/KOzO2hU24w3ykij0CzyEbSkuzo9ApQnUT7f8UyXA5GUxBoG1L3w29BN6713f1/JKqzMF7HAHJchZs411ZX279ruvK35z9VO7CK5Dv+MxMirDUxqeYvKxwFcBbI61vjfFPNsW4GVyFkJbV9piiFMC/wSsLxaHHKZ3gZPYg4fszPYbyZwVVOw9+ES3vEXU8D2qas0i4bH7OzU=;a40ub6x6XS7Vy6AA0e3KPg=="

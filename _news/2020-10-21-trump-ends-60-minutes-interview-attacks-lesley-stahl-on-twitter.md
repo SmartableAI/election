@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: How President Trump's surprise gift to '60 Minutes' completely backfired"
+    excerpt: "Shortly after President Donald Trump abruptly ended an interview with \"60 Minutes\" anchor Lesley Stahl, White House press secretary Kayleigh McEnany showed up with a massively large book in tow.\n    \n"
+    publishedDateTime: 2020-10-26T15:22:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n_Mn373UAXk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/donald-trump-60-minutes-book-lesley-stahl-health-care/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/donald-trump-60-minutes-book-lesley-stahl-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026102021-mcenany-stahl-60-mins-grab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration pushes for last-minute foreign policy wins in final campaign sprint"
     excerpt: "Less than two weeks from Election Day, the Trump administration is working hard to secure foreign policy victories aimed at providing a last-minute boost in the polls.\n    \n"
     publishedDateTime: 2020-10-21T12:20:05Z
@@ -221,6 +237,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3422162/201022-trump-60-minutes-interview-al-1314_005a4a0a10453ec8af3c4527549a3597.JPG"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "How President Trump's surprise gift to '60 Minutes' completely backfired"
+    excerpt: "(CNN)Shortly after President Donald Trump abruptly ended an interview with \"60 Minutes\" anchor Lesley Stahl, White House press secretary Kayleigh McEnany showed up with a massively large book in tow. \"Lesley, the President wanted me to deliver his health ..."
+    publishedDateTime: 2020-10-26T14:22:00Z
+    webUrl: "https://www.cnn.com/2020/10/26/politics/donald-trump-60-minutes-book-lesley-stahl-health-care/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/donald-trump-60-minutes-book-lesley-stahl-health-care/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/donald-trump-60-minutes-book-lesley-stahl-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 134
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026102021-mcenany-stahl-60-mins-grab-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "yp9BZqH+7z8GIYe/Bh5GXIBRpMEx9Y4EeomFVEtc4UiY7u/bHYODFTxEzkNFcErnuDJ9ChDHMz8j64PP6+E5GLsRRfbC+6nrttop/AfMvN04jAj+P+TIG7vCErels0LXkA5FctvEJgLwQZ0StA2vm91yiJav8bufJv9HagyJTY6M0j2DNELdLWHCf+LePLk0tBTiEqmPRrZEU2ayGWSqWRa2S5PbOmQ7XdnW58/GmRYmoqapNgR8TjEkxJ4moNAhbXO0la4QRdDJLN8m4F5uCuT8SN1bQxxeJWXBAQ+TSFkGKdRtweiUsihj1Lll5Hs298+p2Zs8iVufp7PXCgZysIsX0Y8+tHG1uXGSyrn+15TtpVki2AZMhAJMsvrj63TPzoyYsUSmd+hnQuFMGf988VYkRQPqyNYaXF2WCVEy0Q2uNIoerRuUyYWD+avbpxOuI5hHRMMsHIs4QbF8fXKfHTIOqdIPJR5OXVZe2SQwR90/7fNnjmZ2JrZgvSh18SAMzjINsmya0rpnt4ucM/9MDQ==;EfGdpRPUf3pUKMU+2PV7Fw=="

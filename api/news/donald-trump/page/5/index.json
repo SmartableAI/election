@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-10-i-shouldnt-be-here-wisconsin-bar-owner-in-icu-with-covid-19-blames-trump-for-out-of-control-pandemic.md",
+      "title": "'I shouldn't be here': Wisconsin bar owner in ICU with COVID-19 blames Trump for out-of-control pandemic",
+      "excerpt": "The owner of a beloved Oshkosh bar is in the ICU with COVID-19 and blames the president for an out-of-control pandemic that has infected his family.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/10/oshkosh-bar-owner-icu-coronavirus-blames-trump-crisis-covid-19-oblio/5952206002/?ref=hvper.com",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/10/oshkosh-bar-owner-icu-coronavirus-blames-trump-crisis-covid-19-oblio/5952206002/?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/media/Oshkosh/2014/08/11/-030509schlitzbeeroblioanw01.jpg20090306.jpg?auto=webp&crop=3872,2178,x0,y207&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5952206002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5952206002",
+      "publishedDateTime": "2020-10-10T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-trumps-covid-prognosis-3-scenarios-based-on-sparse-facts-from-an-opaque-white-house.md",
       "title": "Trump's COVID prognosis: 3 scenarios based on sparse facts from an opaque White House",
       "excerpt": "The president's health matters. But we can only speculate because his doctor has hidden behind confidentiality laws to withhold negative information.",
@@ -1507,58 +1559,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-secret-service-volunteered-for-trump-drive-lewandowski-claims.md",
-      "title": "Secret Service ‘Volunteered’ For Trump Drive, Lewandowski Claims",
-      "excerpt": "An attending physician said the agents likely didn’t know the “real risks” of being inside the vehicle with Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/",
-      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b280907e0d0d800a27488%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1487%26cropY1%3D67%26cropY2%3D904",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/amp/",
-      "publishedDateTime": "2020-10-05T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

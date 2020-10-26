@@ -2,6 +2,118 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-09-philadelphia-judge-rejects-trumps-poll-watcher-lawsuit.md",
+      "title": "Philadelphia judge rejects Trump's poll-watcher lawsuit ",
+      "excerpt": "A local judge on Friday rejected an effort by the Trump campaign to send poll watchers to voting sites in Philadelphia, ruling that the campaign's attempted poll-watching isn't allowed under state law.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r76RHv5YJsU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r76RHv5YJsU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201009003625-voto-anticipado-elecciones-estados-unidos-encuesta-analisis-seg-pkg-michael-roa-00000311-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html",
+      "publishedDateTime": "2020-10-09T11:32:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-chicago-mayor-blames-trump-for-plot-against-michigan-gov-whitmer.md",
+      "title": "Chicago mayor blames Trump for plot against Michigan Gov. Whitmer",
+      "excerpt": "Chicago Mayor Lori Lightfoot is the latest public figure to pile on President Trump for a foiled plot to kidnap Michigan Gov. Gretchen Whitmer.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ceaa499-d5b5-4917-ac44-406654011b1c/b10fb369-d5aa-4334-8275-cc8d437f5d58/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp",
+      "publishedDateTime": "2020-10-09T10:48:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-hurricane-delta-trumps-coronavirus-battle-nobel-peace-prize-lakers-5-things-to-know-friday.md",
       "title": "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday",
       "excerpt": "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday.",
@@ -1206,7 +1318,7 @@
       "originalUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1362,
+      "heat": 1382,
       "tags": null,
       "images": [
         {
@@ -1247,121 +1359,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-a-fly-landed-on-mike-pence.md",
-      "title": "A Fly Landed on Mike Pence",
-      "excerpt": "A local TV news reporter from California clocked the fly’s screen time on Mr. Pence’s head at 2 minutes, 3 seconds. While Mr. Pence spent most of the 90-minute debate avoiding direct questions posed by the moderator,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-38/07elections-briefing-07-22-38-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html",
-      "publishedDateTime": "2020-10-07T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-pence-attacks-biden-for-failing-to-rescue-kayla-mueller-who-was-held-hostage-by-isis.md",
-      "title": "Pence attacks Biden for failing to rescue Kayla Mueller, who was held hostage by ISIS.",
-      "excerpt": "Vice President Mike Pence brought the parents of Kayla Mueller, the human rights activist who was killed in 2015 by members of the Islamic State in Syria, to the debate hall and attacked Joseph R. Biden Jr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-10/07elections-briefing-07-22-10-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html",
-      "publishedDateTime": "2020-10-07T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice",
         "Mike Pence"
       ]
     }

@@ -2,6 +2,106 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-20-ivanka-trump-to-attend-fundraiser-in-naples-on-wednesday.md",
+      "title": "Ivanka Trump to attend fundraiser in Naples on Wednesday",
+      "excerpt": "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/13/PAPN/07ca4d7d-ac9f-49d1-b24a-73ea98e9a36a-cent02-7cqq5o1gxdk11a63bhj8_original.jpg?auto=webp&crop=2999,1687,x0,y402&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3702824001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001",
+      "publishedDateTime": "2020-10-19T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-trump-tells-campaign-staff-were-going-to-win-calls-fauci-a-disaster.md",
+      "title": "Trump tells campaign staff ‘we’re going to win’, calls Fauci a ‘disaster’",
+      "excerpt": "President Trump told campaign staff “we’re going to win this race” in a rouse-the-troops phone call Monday morning where said he would have up to five rallies",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/",
+      "originalUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-staff-win.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/amp/",
+      "publishedDateTime": "2020-10-19T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-sen-cory-gardner-tied-to-president-trumps-vindictive-base-faces-conundrum-in-colorado.md",
       "title": "Sen. Cory Gardner, tied to President Trump's 'vindictive' base, faces conundrum in Colorado",
       "excerpt": "Larimer County has never shown strong voter support for U.S. Sen. Cory Gardner. Not in 2014, when Larimer County, home to Colorado State University, handed the CSU alumnus his Senate seat by a margin of 0.",
@@ -1190,110 +1290,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trump-attends-church-service-in-las-vegas.md",
-      "title": "Trump attends church service in Las Vegas",
-      "excerpt": "U.S. President Donald Trump made a rare visit to church Sunday as he and Democratic rival Joe Biden campaigned across the country from one another. (Oct. 18)",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/210c8f2c-cf3c-46f1-803f-5fbfcb0902fc_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-18T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-it-needs-to-stop-whitmer-slams-donald-trump-for-rally-attack.md",
-      "title": "‘It needs to stop’: Whitmer slams Donald Trump for rally attack",
-      "excerpt": "Trump’s barbs at Michigan Governor Gretchen Whitmer, the target of a kidnapping plot, prompted chants of ‘lock her up’.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
-      "originalUrl": "https://www.aljazeera.com/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20290786790341.jpg?resize=1200%2C630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
-      "publishedDateTime": "2020-10-18T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Election 2020 live updates: Trump to campaign in Pennsylvania, Biden off the trail"
+    excerpt: "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday."
+    publishedDateTime: 2020-10-26T15:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 149
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump5-gty-ml-201026_1603721616686_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Election 2020 live updates: Trump, Biden racing toward Election Day with more rallies"
     excerpt: "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more rallies and concerts on Sunday."
     publishedDateTime: 2020-10-25T13:37:00Z
@@ -2001,6 +2017,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Plans Battleground Blitz Despite Growing Virus Worries"
+    excerpt: "President Donald Trump plans to intensify an already breakneck travel schedule in the final full week of the presidential campaign despite growing worries about the coronavirus nationwide."
+    publishedDateTime: 2020-10-26T13:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "‘Saturday Night Live’ Tackles Trump’s COVID Plan, Rudy Giuliani and the Mute Button in Presidential Debate Sketch"
     excerpt: "With the second presidential debate leading the “Saturday Night Live’s” Oct 24 show, that meant both Alec Baldwin and Jim Carrey were once again in the spotlight. But, in a fun"
     publishedDateTime: 2020-10-25T04:32:00Z
@@ -2071,6 +2098,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "uHX7/d723kC+e3AwhAKL6uUkokfl9nOe+whhfLfncXFZujQR/KWCgv6t2BrZTOR4tZPMPXWg9MVQvaGfLn/jtVjZhn48JKk+3mmbn0UIifjKPDrtAl8TndE+wKfYwaphc4QjgmjB/vgjcR6l1k2es3cZY5kan5t6cCAdTa9xBwhUoZXcrXQF0AypBeZ9ot6ZVHsh2bluodNfKtqQAt0omRXHWAeDGDdc1fNOZIl+55ZvGIUYlriqpzqwHpIssuvPjqVZ30tNgIgleJqpWaqCYJFwRMojDI9oeK2DJ+HLqJF+7HvPpz/awfKmSrFjFdUzSo+QR9aS8bzmanOjVbjouEb5765M3VIgkEizDe5EHJc=;ECU9QNiCMau1AmcQuxZHKQ=="
+secured: "HnLGV5zXmr24l+X8RT4FE7So36cmII8tVQorD1bYGkQ/6wx0aB0uUUSsR1H0/HI7+0VGw9s4PUdIli4apo2w0DJJ6WI9QPlUsW0cd2frk7cME7OhMMaTdZJIa4F/vtcfmF3PLSslKNWp/zKkiRFPogy2qn2OU8t39k1SDUFLNdAgtiI3eracGBHFwHrLhuXh6JIFPPqqmA3E4j/f0iqkAed03UGrLvPN7mUIG5ADLXTeKcHmBhm6VFtMJBiZljSlfNpziMXQKczeIsFWyei6t5n6UGUgpcCp21jSShWM//pqczLf+63fOyvCJM8ow5t85aUiyrJnerB3pMjP6Ao/EI77NBQdxlPw9eOX4rH4Cg2OoMYg9uz7g/cSpk1yCguwdpYVyWf7ho9DVIgNJMfIg731M/rCo3OmVNDniYhWvzHMKmZxdCK99/RMcrhJN31gLReu+T9ahZ84kTlUIsXBLURx7y9I/KV18o3JGH+wBPNMAmbl/Qp09Ln4Q9nQeQHDZ/1ukZtix+RsV9qQ3TMUbQ==;x8/e6mpH2KSDJaQof7PviA=="
 ---
 

@@ -936,6 +936,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice presidential nominee Kamala Harris is coming to Houston Friday for campaign stop"
+    excerpt: "Vice presidential nominee Kamala Harris will be paying a visit to the Lone Star State on Friday. The Houston Chronicle's Jeremy Wallace reports that Harris is set to make multiple stops across Texas on the final day of early voting,"
+    publishedDateTime: 2020-10-26T15:01:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/Vice-presidential-nominee-Kamala-Harris-is-coming-15675147.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/Vice-presidential-nominee-Kamala-Harris-is-coming-15675147.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/Vice-presidential-nominee-Kamala-Harris-is-coming-15675147.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 68
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Outrage Over Mispronunciation of Kamala Harris’ Name, Supporters Launch Online Campaign"
     excerpt: "The mispronunciation outraged a large number of Harris' supporters and her spokesperson Sabrina Singh said, I'll keep it simple: If you can pronounce 'former' Senator David Perdue, you can pronounce 'future' Vice President Kamala Harris."
     publishedDateTime: 2020-10-18T04:46:00Z
@@ -1370,6 +1386,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "SXQlEZgQ6JgKYhP3vEV8tyxA/PS/VQDowQJVRmgCbdd5/nNLBab4VdBfhQPYzFL/6qBfwyVj3AT99lUfXozpewcL9nY4njjf/oQIS64Zp3xz7MN2aY3YC8Cf5pOobyiq9LhIpfUNoGSqx0qOpOUA2eleJVMZ396iL9s0aJv/dGQVXLbbJEoxsMFDmZATDhZQ5B7PxoEX08TaQHRs1lDjYG7+qdu5t1wCy7pvbLs46kXkfdIyJ7Vo3n3x/BchAzgZWRzYuQpQna9ArLkLyHr2a+Tad5s0Om8dxWMhpV9azTUlpY9ZL38fxcmGmUQxMsglise7jcHXiK44oZJp9OlKmjh3wp15BHSSdudoLIs9jZo=;Mf7MamjvvaANn3b3MhUO4w=="
+secured: "bk4V3ZKnKA+cI01Mf2bUCVlHBaKZf5NV0yPy50FprZUX93IxqgYLG6FuefF8sgbV5LHbH0+vw3MqX7t512yOj/vF/ZJj5iPC51HvO83fUJdKT9tHvRwTibHvY4mmU+YKgW9jl8PCsjruoNexiZ9JjEOVgg66AeRuECZL85bYOuItJ9l80R/7EDTv9zpI63M9y97vQRadhhsLZp48/pcokJMhkzkgNrkCj3NRtqlAR9pedmFQedt4LmGwJLRdKFhxGaar+IRFpT0VrPmGZnVrBjy9fGtpMMWfrYxcdVFp0S54foQ+uvNNpNr5hQu3z3AfAkIeRx3VhYhwIkfyTVGgj6LS6py6oWdPmXCy0a/VlYxXLDXNKxy9wEJdtfhEj47x2S6CEjOr/qrVlBEJuyPbfT87Q25jxi7xHlnvlG6vnC5QiHc1J2OMj/etZBY/YqMz9Yqy/bqI5huZnPLI4lYuuAMQb3v3f0j1CzoXZGQ4qxL277g0AXa+PjraLpfB+hHKy/dvTcJJTSYzxApOGeZ3Wg==;NlBYPx2RCdA7fyE3DHprGw=="
 ---
 

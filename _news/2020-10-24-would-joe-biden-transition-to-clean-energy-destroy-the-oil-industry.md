@@ -540,6 +540,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "N.H. paper endorses Joe Biden, first Democrat in more than 100 years"
+    excerpt: "New Hampshire’s most widely circulated newspaper, which hasn’t backed a Democratic presidential candidate in more than a century, endorsed Joe Biden on Sunday."
+    publishedDateTime: 2020-10-26T15:29:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/nh-paper-endorses-biden-first-democrat-in-more-than-100-years/AQLG6VNDYVBDXPKROUASFLMUL4/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/Nak1X8R45oc33tN2n9xU61_WT3Q=/1200x630/d1fegwn2wjh0cs.cloudfront.net/10-16-2020/t_1f37d6bc2dff4a9b9f6a8f574c8cce0a_name_10fad440e9d0413a905d01087bb6279f.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Charlie Baker Reportedly Under Consideration For Potential Joe Biden Cabinet Position"
     excerpt: "Massachusetts Republican Gov. Charlie Baker is reportedly being considered for a spot in a potential Joe Biden cabinet."
     publishedDateTime: 2020-10-21T01:11:00Z

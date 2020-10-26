@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence tests negative as he campaigns amid Covid surge across US"
+    excerpt: "Cases are rising rapidly, with more than 8.5m cases and a death toll of 225,000, as battleground states see surging case numbers"
+    publishedDateTime: 2020-10-26T14:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/dce33209681cd0593109afbbad29c19a48ba23d5/0_71_4782_2872/master/4782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e23fe7e1cf3f49903dad84507f1bf4ba"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Mike Pence's chief of staff Marc Short, 4 others test positive for COVID-19"
     excerpt: "ABC News has confirmed at least five individuals in the vice president's orbit have tested positive for the coronavirus as of Saturday night. Marc Short is among them."
     publishedDateTime: 2020-10-26T09:30:00Z
@@ -47,26 +63,10 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
-    excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
-    publishedDateTime: 2020-10-25T19:24:00Z
-    webUrl: "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 122
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769"
-        width: 2965
-        height: 1977
-        isCached: true
   - title: "Vice President Mike Pence's chief of staff Marc Short tests positive for COVID-19"
     excerpt: "\"Vice President Pence and Mrs. Pence both tested negative for COVID-19 today, and remain in good health,\" Pence's press secretary Devin O'Malley said."
-    publishedDateTime: 2020-10-25T05:20:00Z
-    webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?ftag=CNM-00-10aab7e"
+    publishedDateTime: 2020-10-25T04:13:00Z
+    webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3b"
     ampWebUrl: "https://www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
     type: article
@@ -95,51 +95,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Multiple people in Vice President Mike Pence's orbit test positive for the coronavirus"
-    excerpt: "Vice President Mike Pence will not quarantine after multiple people in his orbit test positive for the coronavirus. Pence's press secretary says the vice president is essential personnel and will maintain his schedule."
-    publishedDateTime: 2020-10-26T12:35:00Z
-    webUrl: "https://www.cbsnews.com/video/multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus/"
+  - title: "Democrats ask Vice President Mike Pence to skip Amy Coney Barrett vote over COVID risk"
+    excerpt: "A deeply torn Senate is set to confirm Amy Coney Barrett to the Supreme Court, but Democratic leaders are asking Vice President Mike Pence to stay away from presiding over Monday’s session due to potential health risks after his aides tested positive for COVID-19."
+    publishedDateTime: 2020-10-26T12:16:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/democrats-ask-vice-president-mike-pence-to-skip-amy-coney-barrett-vote-over-covid-risk.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/democrats-ask-vice-president-mike-pence-to-skip-amy-coney-barrett-vote-over-covid-risk.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/democrats-ask-vice-president-mike-pence-to-skip-amy-coney-barrett-vote-over-covid-risk.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
+      name: MassLive
+      domain: masslive.com
+    quality: 67
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/ea344a62-27f3-43f3-bc18-064eec3db129/thumbnail/1200x630/2b643b630ac6e7dca1e24427c4417fa2/cbsn-fusion-multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus-thumbnail-574507-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mike Pence's chief of staff, top adviser both test positive for coronavirus"
-    excerpt: "Sources tell ABC News, Marc Short, Chief of Staff to the Vice President Mike Pence has tested positive for COVID-19. And top adviser Marty Obst has also tested positive for coronavirus earlier ..."
-    publishedDateTime: 2020-10-25T03:43:00Z
-    webUrl: "https://abc7.com/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
-    ampWebUrl: "https://abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 73
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7316573_102420-ap-mike-pence-img.jpg"
-        width: 3422
-        height: 2281
-        isCached: true
-  - title: "VP Mike Pence to continue campaigning after chief of staff tests positive for coronavirus"
-    excerpt: "Pence spokesman Devin O’Malley said Pence and his wife, Karen Pence, both tested negative for the virus on Saturday."
-    publishedDateTime: 2020-10-25T03:34:00Z
-    webUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/"
-    ampWebUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 66
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
-        width: 1024
-        height: 579
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZHVGK7ZIFBGQBINZMERJYCYJMY.jpg"
+        width: 4000
+        height: 2938
         isCached: true
   - title: "Several People in Vice President Mike Pence’s World Now Have Covid-19"
     excerpt: "At least five people in Vice President Mike Pence’s inner circle have tested positive for the coronavirus, according to a report from CNN. That tally includes some of his closest advisors, including his chief of staff Marc Short and an advisor named Marty Orbst."
