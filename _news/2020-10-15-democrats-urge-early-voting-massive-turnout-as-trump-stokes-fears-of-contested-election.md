@@ -159,6 +159,22 @@ related:
         width: 2207
         height: 1657
         isCached: true
+  - title: "Donald Trump Leans on His Kids' Popularity to Boost His Campaign as Election Approaches"
+    excerpt: "President Donald Trump's three oldest children—Donald Trump Jr., Ivanka Trump and Eric Trump—have spent recent weeks criss-crossing the country, holding dozens of events that have often drawn ..."
+    publishedDateTime: 2020-10-12T14:55:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-leans-his-kids-popularity-boost-his-campaign-election-approaches-1537970"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-leans-his-kids-popularity-boost-his-campaign-election-approaches-1537970?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-leans-his-kids-popularity-boost-his-campaign-election-approaches-1537970?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1649003/don-jr.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "World shares mixed after Trump calls halt to stimulus talks"
     excerpt: "Stocks are mostly higher in Asia despite an overnight decline on Wall Street after President Donald Trump ordered a stop to talks on another round of aid for the economy"
     publishedDateTime: 2020-10-07T07:00:00Z

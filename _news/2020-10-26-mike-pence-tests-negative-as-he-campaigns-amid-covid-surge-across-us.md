@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-neg
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
       - url: "https://www.motherjones.com/wp-content/uploads/2020/10/pencenormalize-10820.jpg?w=1200&h=630&crop=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "White House COVID-19 Outbreak: Why Mike Pence Is Being Called ‘Grossly Negligent’ After Staff’s COVID Diagnosis"
+    excerpt: "Trump administration and campaign officials faced questioning about Vice President Mike Pence’s planned travel in the upcoming week after two of his top aides tested positive for COVID-19."
+    publishedDateTime: 2020-10-26T20:34:00Z
+    webUrl: "https://www.ibtimes.com/white-house-covid-19-outbreak-why-mike-pence-being-called-grossly-negligent-after-3070296"
+    ampWebUrl: "https://www.ibtimes.com/white-house-covid-19-outbreak-why-mike-pence-being-called-grossly-negligent-after-3070296?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-covid-19-outbreak-why-mike-pence-being-called-grossly-negligent-after-3070296?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/26/us-vice-president-mike-pence-will-give-the.jpg"
+        width: 1024
+        height: 746
         isCached: true
 
 secured: "No1XPahWjn7g4YMS76jAb+Ai/i8RgrO7YCXbvKn4HyIYo8CP+8lW6RNRMCzYg29Peq6NzogWXE3cKCEIkUwWx/JWX+wK7L+sM3UrngFsfQ+KaWqG0xnqHM3sOBV69jyngxKht4qDVLrZjp0Pqxc3xHJiaA44u2vzQVcOgP+3DNk3um0Fr9lmZ43p5OVuzlHKQqDt1xtVjA9cLsjxxPuFjW3f8rOQUNfKqFrR8WaL2BqGwFfxiqIRNC5dvbfrUZDSrzaPM8+FFdRAyq9Ngp9jEQXlXufZ8Hdvsf1GlE9teYO9oL3/uxS82tKlSvCq4esu4mTeqxWcsBjhiZAT2U8mPyz1RpijoDjP9dSWiaW1vik=;L972KVYrbbpjvS3OziWh/A=="

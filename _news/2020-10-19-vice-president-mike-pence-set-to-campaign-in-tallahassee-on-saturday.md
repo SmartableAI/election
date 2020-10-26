@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-t
 cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday?_amp=true"
 type: article
 quality: 75
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -333,6 +333,20 @@ related:
       - url: "https://www.live5news.com/resizer/xYNk5LfUmwdqaDzypZKMR-Faiwg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/ZIPDC6UTKZD2BLSWDSTI7LDJTE.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Mike Pence heads to Iron Range despite outbreak among his staff"
+    excerpt: "A brisk wind blew across the runway hours ahead of Vice President Mike Pence’s campaign visit to the Range Regional Airport here Monday. About 250 chairs were spaced out as attendees slowly filed in after many waited in their cars,"
+    publishedDateTime: 2020-10-26T20:44:00Z
+    webUrl: "https://www.startribune.com/vice-president-mike-pence-heads-to-iron-range-despite-outbreak-among-his-staff/572872951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 51
+    images:
+      - url: "https://stmedia.stimg.co/1603746270_08+1011869285+23PENCE102720.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Mike Pence rallies base during MAGA rally in Fort Wayne"
     excerpt: "The Hoosier state is a stronghold for Republicans, which experts say, raises the question of why the vice president is campaigning here in the critical two weeks prior to the election. Political science associate professor Doctor Laura Wilson told us this is about supporting other Republicans on the ballot and getting as many Hoosiers to the polls as possible."

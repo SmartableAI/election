@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.freep.com/amp/5997631002"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5997631002"
 type: article
 quality: 75
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vice President Mike Pence appeals to Iron Rangers with focus on jobs, economy"
+    excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally."
+    publishedDateTime: 2020-10-26T20:20:00Z
+    webUrl: "https://www.startribune.com/vice-president-mike-pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 52
+    images:
+      - url: "https://stmedia.stimg.co/1603746270_08+1011869285+23PENCE102720.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Pence Delivers Remarks in Selma, North Carolina"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Selma, North Carolina. President Trump delivered remarks at a campaign rally in Greenville, NC, less than three weeks before Election Day and on the first"

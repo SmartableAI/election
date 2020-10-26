@@ -2,6 +2,110 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-13-kkk-social-visit-cards-left-at-joe-biden-supporters-homes-in-tennessee.md",
+      "title": "KKK 'Social Visit' Cards Left at Joe Biden Supporters' Homes in Tennessee",
+      "excerpt": "Residents in Shelbyville also said that signs showing support for Democratic candidate appeared to have been run over by a car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
+      "originalUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1650165/kkk.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
+      "publishedDateTime": "2020-10-13T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-kamala-harris-says-its-reckless-to-hold-supreme-court-hearings-during-a-pandemic.md",
+      "title": "Kamala Harris says it's 'reckless' to hold Supreme Court hearings during a pandemic",
+      "excerpt": "Harris also criticized Republicans, saying they are prioritizing pushing through Amy Coney Barrett's confirmation over a coronavirus stimulus package.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
+      "originalUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f84911591aa9e001880b021?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp",
+      "publishedDateTime": "2020-10-12T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-trump-says-hell-kiss-everyone-in-crowd-at-rally.md",
       "title": "Trump says he'll 'kiss everyone' in crowd at rally",
       "excerpt": "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience.",
@@ -1225,114 +1329,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-tupacs-relative-says-the-trump-campaign-was-clearly-disrespectful-to-leave-a-ticket-for-the-late-rapper-at-vice-presidential-debate.md",
-      "title": "Tupac's relative says the Trump campaign was 'clearly disrespectful' to leave a ticket for the late rapper at vice presidential debate",
-      "excerpt": "The dig came after vice presidential nominee Kamala Harris said Tupac Shakur is the \"best rapper alive\" during a recent interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f837a70642e9400180b5410?width=1200&format=jpeg",
-          "width": 720,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10?amp",
-      "publishedDateTime": "2020-10-11T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.md",
-      "title": "Trump calls C-SPAN's Scully 'a fraud,' mocks claims that Twitter account was hacked",
-      "excerpt": "President Trump on Sunday lambasted C-SPAN political editor Steve Scully over claims that his Twitter account was hacked.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_rQvDmxUgiQ/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_rQvDmxUgiQ/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4d52599-b966-4bf1-85d7-cb77a41ad33b/15422c29-d504-46cc-b568-fd89117f76a0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.amp",
-      "publishedDateTime": "2020-10-11T12:54:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

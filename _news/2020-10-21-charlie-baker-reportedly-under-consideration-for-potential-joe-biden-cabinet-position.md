@@ -229,6 +229,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden says he opposes Supreme Court term limits"
+    excerpt: "Democratic presidential nominee Joe Biden Joe Biden Fox News president, top anchors advised to quarantine after coronavirus exposure: report Six notable moments from Trump and Biden's '60 Minutes ..."
+    publishedDateTime: 2020-10-26T21:39:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522848-biden-says-he-opposes-supreme-court-term-limits"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522848-biden-says-he-opposes-supreme-court-term-limits?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522848-biden-says-he-opposes-supreme-court-term-limits?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10262020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden says he'll set up commission to study reforming Supreme Court if elected"
     excerpt: "Democratic presidential nominee Joe Biden said that he would form a commission to \"study\" the Supreme Court when asked by CBS's Norah O'Donnell whether he would consider adding justices past the current nine seats."
     publishedDateTime: 2020-10-22T13:30:00Z

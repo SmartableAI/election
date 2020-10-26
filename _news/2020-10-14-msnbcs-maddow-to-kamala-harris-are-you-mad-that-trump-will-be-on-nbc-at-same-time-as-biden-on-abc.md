@@ -1978,6 +1978,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris to campaign in Texas as race between Trump, Biden tightens"
+    excerpt: "Democratic vice presidential nominee Kamala Harris is set to campaign in Texas this week as the battle between Joe Biden and incumbent President Trump for the Lone Star State tightens."
+    publishedDateTime: 2020-10-26T20:03:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-texas-campaign-visit-trump-biden-polling"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-texas-campaign-visit-trump-biden-polling.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-texas-campaign-visit-trump-biden-polling.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b3af0c2-f9cc-4b3b-bd9d-93c61693c087/996df19e-559f-4b9a-b1e1-f09714f72a86/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden deflects Trump's demand at debate to 'name one' law enforcement group backing him"
     excerpt: "Both candidates have the backing of various law enforcement groups."
     publishedDateTime: 2020-09-30T15:50:46Z

@@ -2,6 +2,119 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-09-20-trump-supporters-disrupt-early-voting-in-virginia.md",
+      "title": "Trump Supporters Disrupt Early Voting in Virginia",
+      "excerpt": "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
+      "publishedDateTime": "2020-09-19T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-kamala-harris-pays-tribute-to-rbg-with-supreme-court-pic.md",
+      "title": "Kamala Harris pays tribute to RBG with Supreme Court pic",
+      "excerpt": "Democratic Vice Presidential candidate Kamala Harris paid tribute to the passing of Supreme Court Justice Ruth Bader Ginsberg Saturday, calling the liberal icon a “titan.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 500,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e4ffb8-2b45-4210-b6fb-e8d0e7172632/fc1e8122-6d22-4b0e-bd5d-bb49476cc1cd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp",
+      "publishedDateTime": "2020-09-19T14:52:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-susan-collins-says-trump-can-nominate-a-justice-but-senate-vote-should-wait-until-after-election.md",
       "title": "Susan Collins says Trump can nominate a justice, but Senate vote should wait until after election",
       "excerpt": "Republican Sen. Susan Collins on Saturday weighed in on the US Supreme Court vacancy, saying that she believes waiting until after the election is the right decision.\n    \n",
@@ -1246,114 +1359,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-whats-up-with-trump-and-the-hispanic-vote.md",
-      "title": "What’s up with Trump and the Hispanic vote?",
-      "excerpt": "Voters may have noticed what’s missing from Trump’s reelection pitch compared to his campaign of four years ago: Immigration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp",
-      "publishedDateTime": "2020-09-18T12:25:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-sued-by-parents-of-toddlers-featured-in-doctored-racist-baby-video.md",
-      "title": "Trump sued by parents of toddlers featured in doctored 'racist baby' video",
-      "excerpt": "Donald Trump, and the Trump Campaign over an edited \"racist baby\" video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f65075757b7da001ee128ad?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp",
-      "publishedDateTime": "2020-09-18T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

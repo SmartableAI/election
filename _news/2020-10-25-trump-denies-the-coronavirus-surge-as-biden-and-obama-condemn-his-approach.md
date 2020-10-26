@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 1738
+heat: 1778
 published: true
 
 provider:
@@ -173,6 +173,22 @@ related:
     quality: 189
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact Check: Misleading new Trump ad claims Biden plans to 'end fracking'"
+    excerpt: "Less than two weeks before Election Day, a new Trump campaign ad scheduled to air in Pennsylvania misleadingly portrays former Vice President Joe Biden's stance on fracking, a drilling method used to extract oil or natural gas.\n    \n"
+    publishedDateTime: 2020-10-26T19:37:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ieLa6tyr4dY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/trump-biden-fracking-ad-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/trump-biden-fracking-ad-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200312115342-cabot-oil-and-gas-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1033,6 +1049,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Arizona voters have Covid-19 top of mind. That could spell trouble for Trump."
+    excerpt: "Biden holds a narrow lead, according to polls, aided by pandemic upheaval and demographic shifts years in the making. But don't count the president out yet, some said."
+    publishedDateTime: 2020-10-26T19:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/arizona-voters-have-covid-19-top-mind-could-spell-trouble-n1244577"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244577"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244577"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_43/3422284/201022-arizona-voter-line-ac-901p_0086971f41fdac2ab8100683745f61c0.fit-560w.jpg"
+        width: 560
+        height: 389
         isCached: true
   - title: "Trump amplifies allegations of bias against another presidential debate moderator"
     excerpt: "President Donald Trump on Saturday again amplified accusations of bias against a debate moderator, deriding NBC News correspondent Kristin Welker ahead of next week's final debate against Democratic nominee Joe Biden."

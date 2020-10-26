@@ -1171,6 +1171,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris vows independent DOJ after saying there would be 'no choice' but to prosecute Trump"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday that Joseph R. Biden’s Justice Department would operate independently, after saying last year that her DOJ would have “no choice” but to pursue charges against President Trump under certain circumstances."
+    publishedDateTime: 2020-10-26T19:55:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/26/kamala-harris-vows-independent-doj-after-saying-th/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/26/kamala-harris-vows-independent-doj-after-saying-th/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/26/kamala-harris-vows-independent-doj-after-saying-th/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 77
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/25/Election_2020_Harris_09529.jpg-c818a_c0-151-3620-2262_s1200x700.jpg?eba5093aa7c3f9e573648322a5cb679b545d8338"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Pat Robertson predicts Trump re-election will usher in apocalypse: ‘By all means get out and vote!’"
     excerpt: "Televangelist Pat Robertson predicted President Donald Trump would win re-election, and that would usher in the long-promised End Times. The 90-year-old broadcaster, who has consistently supported the president who is backed by white evangelicals,"
     publishedDateTime: 2020-10-20T17:40:00Z

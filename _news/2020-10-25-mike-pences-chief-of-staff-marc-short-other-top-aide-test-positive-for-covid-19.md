@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Vice President Mike Pence to stay on campaign trail despite outbreak of COVID-19 among his senior aides"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
+    publishedDateTime: 2020-10-26T20:33:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/u0DCzdkXJN-RGYRvSSr43-jHmvc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BSXXSPCSCJF4FHNE6RFJZESBP4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence to stay on campaign trail despite exposure to chief of staff Marc Short, who tested positive for COVID-19"
     excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
     publishedDateTime: 2020-10-25T12:19:00Z

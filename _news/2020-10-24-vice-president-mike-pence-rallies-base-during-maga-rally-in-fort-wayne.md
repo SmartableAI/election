@@ -342,6 +342,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence heads to Iron Range despite outbreak among his staff"
+    excerpt: "A brisk wind blew across the runway hours ahead of Vice President Mike Pence’s campaign visit to the Range Regional Airport here Monday. About 250 chairs were spaced out as attendees slowly filed in after many waited in their cars,"
+    publishedDateTime: 2020-10-26T20:44:00Z
+    webUrl: "https://www.startribune.com/vice-president-mike-pence-heads-to-iron-range-despite-outbreak-among-his-staff/572872951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 51
+    images:
+      - url: "https://stmedia.stimg.co/1603746270_08+1011869285+23PENCE102720.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "E1gA2jz72M0CGe8wA/2sjk+ZQAn1o7qlpmtMRs4kpzRWi05YJ2GlzmDRhG4g8dXuvhgwmUznc9U631zFV3aHXFPMpXmqVExEfrwq63Uq4uCcIuusNHBg2gXX+K7zdPaM7yl3N0JYEqKAEMGNMqnMfhwlojAiPhlYIUw+HNoPRT3G7reTnUrfyBrrAoTWBGwfAa7acxuMmQRvckSq1DxlfevueESoiG9z1YAnZTdT/z4DJ/6iZSK5P9Iy9EinrrPN/jr+2gw+Htca4PwNPTelEupyVblqvJGjvy6LYpcvufJ9zHZj2oCyq0p1SLfrgTeIxjBarPoiX/igkKMgzmaUCutClzBhpSnMuZjqDl+HVmoptAWHxsLT7mR3KfW9TYtOgC5US1NCFO8lZIsTr4V84GCjQcuaGeRnqvlQtjMcEwIIMlGdjoGG4GVk9019JRvVKmgDceZuoDDn4c5xZy4uDknEHnwcgT8TykjjqPaFCUZUmqXydDdbnLbLvISOjcs21RKdn3Pdu70bKUgOnq0o6w==;hu2qB+q5PSLU9DpbW1/ClQ=="
 ---

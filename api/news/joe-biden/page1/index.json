@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-27-biden-has-solid-lead-in-wisconsin-narrower-edge-in-pennsylvania-reutersipsos-poll.md",
+      "title": "Biden has solid lead in Wisconsin, narrower edge in Pennsylvania: Reuters/Ipsos poll",
+      "excerpt": "Democratic presidential challenger Joe Biden led President Donald Trump by a solid margin in Wisconsin and maintained a narrower advantage in Pennsylvania with just over a week until Election Day, Reuters/Ipsos opinion polls showed on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27B2F8",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27B2F8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538891639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1KD",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27B2F8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B2F8",
+      "publishedDateTime": "2020-10-26T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-fact-check-voa-video-is-not-a-biden-ad-to-address-the-muslim-community.md",
       "title": "Fact check: VOA video is not a Biden ad to address the Muslim community",
       "excerpt": "Users on social media are sharing a video with Urdu subtitles showing democratic presidential candidate Joe Biden. Some posts refer to the clip as “Biden’s Muslim Commercial” claiming it was produced by the Biden campaign and that it is “being promoted in areas of",
@@ -167,7 +219,7 @@
       "originalUrl": "https://www.theguardian.com/commentisfree/2020/oct/26/could-rejected-mail-in-ballots-cost-joe-biden-the-election?ref=hvper.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 880,
+      "heat": 900,
       "tags": null,
       "images": [
         {
@@ -765,7 +817,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2123,
+      "heat": 2143,
       "tags": null,
       "images": [
         {
@@ -1527,54 +1579,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-watch-live-joe-biden-delivers-remarks-on-health-care-in-michigan.md",
-      "title": "Watch Live: Joe Biden Delivers Remarks On Health Care In Michigan",
-      "excerpt": "Democratic nominee Joe Biden will make a campaign stop in Southfield, Michigan on Friday afternoon to deliver remarks on expanding access to health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/10/16/watch_live_biden_delivers_remarks_on_health_care_in_michigan.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/16/watch_live_biden_delivers_remarks_on_health_care_in_michigan.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/524025.jpg",
-          "width": 1102,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

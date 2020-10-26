@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-23-ex-trump-aide-manafort-beats-manhattan-prosecutors-bid-to-revive-ny-fraud-charges.md",
+      "title": "Ex-Trump aide Manafort beats Manhattan prosecutor's bid to revive NY fraud charges",
+      "excerpt": "A New York appeals court on Thursday upheld the dismissal of state fraud charges against Paul Manafort, saying that reviving the case against U.S. President Donald Trump's former campaign chairman would violate double jeopardy rules.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-manafort-idUSKBN2772UT",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-manafort-idUSKBN2772UT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538504910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1LU",
+          "width": 837,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2772UT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2772UT",
+      "publishedDateTime": "2020-10-22T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-trumps-mission-burn-it-down.md",
+      "title": "Trump’s Mission: Burn it down",
+      "excerpt": "Trump can’t beat Biden as Biden is currently defined.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks2EwAeq9BE/trumps-mission-burn-it-down",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks2EwAeq9BE/trumps-mission-burn-it-down",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9375a979-3951-45a7-b621-8a930ac310b9/81b3d6f4-fac0-49c0-867d-5701e2cd8c63/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-mission-burn-it-down.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-mission-burn-it-down.amp",
+      "publishedDateTime": "2020-10-22T12:39:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-no-surprise-russia-and-iran-want-trump-out-national-security-adviser-obrien.md",
       "title": "'No surprise' Russia and Iran want Trump out: National Security Adviser O'Brien",
       "excerpt": "National Security Adviser Robert O'Brien explained on “Fox & Friends” on Thursday why he believes Iran and Russia allegedly tried to interfere with the 2020 elections.",
@@ -1221,118 +1329,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-ingraham-democrats-hiding-true-agenda-from-middle-working-class-by-trotting-out-biden-cliches.md",
-      "title": "Ingraham: Democrats hiding 'true agenda' from middle, working class by trotting out Biden cliches",
-      "excerpt": "President Trump, not Joe Biden, is the candidate who truly fights for the working class, Laura Ingraham argued Wednesday on \"The Ingraham Angle.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuH1Ia8_6RA/ingraham-democrats-true-agenda-middle-working-class",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuH1Ia8_6RA/ingraham-democrats-true-agenda-middle-working-class",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8444f0ee-8648-4409-a0ef-47a007399b43/4c457b58-807d-4865-8683-f24e2ce1a494/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ingraham-democrats-true-agenda-middle-working-class.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ingraham-democrats-true-agenda-middle-working-class.amp",
-      "publishedDateTime": "2020-10-21T22:03:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.md",
-      "title": "Hunter Biden: Here's what he has said about his Burisma role in Ukraine",
-      "excerpt": "The son of former Vice President Joe Biden has mostly remained mum on the allegations of impropriety while working on the board of Ukrainian oil company Burisma. Here’s what he has said about it in the past.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0M2AcnWkhFg/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0M2AcnWkhFg/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f3a7762-f52e-46a0-9028-8d3839245c76/529fc3a8-4e55-4ff9-a9aa-8dfd05a806c2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.amp",
-      "publishedDateTime": "2020-10-21T21:36:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

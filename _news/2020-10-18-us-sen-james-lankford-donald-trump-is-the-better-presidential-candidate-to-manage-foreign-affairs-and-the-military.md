@@ -155,6 +155,22 @@ related:
         width: 2207
         height: 1657
         isCached: true
+  - title: "Donald Trump Leans on His Kids' Popularity to Boost His Campaign as Election Approaches"
+    excerpt: "President Donald Trump's three oldest children—Donald Trump Jr., Ivanka Trump and Eric Trump—have spent recent weeks criss-crossing the country, holding dozens of events that have often drawn ..."
+    publishedDateTime: 2020-10-12T14:55:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-leans-his-kids-popularity-boost-his-campaign-election-approaches-1537970"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-leans-his-kids-popularity-boost-his-campaign-election-approaches-1537970?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-leans-his-kids-popularity-boost-his-campaign-election-approaches-1537970?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1649003/don-jr.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Democrats urge early voting, massive turnout as Trump stokes fears of contested election"
     excerpt: "Joe Biden supporter Cindy Kalogeropoulos took no chances when her absentee ballot arrived on Sept. 29. The Michigan retiree filled it out, drove 7 miles to the nearest drop box and hung around to make sure election officials picked it up - all within 48 hours of"
     publishedDateTime: 2020-10-15T10:20:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Senator Kamala Harris Comments to Reporters in Detroit"
 excerpt: "Democratic vice presidential nominee Senator Kamala Harris (D-CA) answered a reporter's question after landing at a Detroit airport for a campaign event. She talked about Vice President Pence continuing to campaign despite some of his staff testing positive for COVID-19 and White House Chief of Staff Mark Meadows' comments on controlling the coronavirus pandemic."
 publishedDateTime: 2020-10-25T15:16:00Z
-originalUrl: "https://www.c-span.org/video/?477353-1/senator-kamala-harris-comments-reporters-detroit"
-webUrl: "https://www.c-span.org/video/?477353-1/senator-kamala-harris-comments-reporters-detroit"
+originalUrl: "https://www.c-span.org/event/?477353/"
+webUrl: "https://www.c-span.org/event/?477353/"
 type: article
 quality: 35
 heat: -1
@@ -769,6 +769,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris: Michigan likely to decide next president"
+    excerpt: "The visit marks the California senator's second stop in Michigan since being named Democratic presidential candidate Joe Biden's running mate."
+    publishedDateTime: 2020-10-25T14:23:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/25/harris-begins-day-campaigning-metro-detroit-9-days-election/6021926002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/6021926002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6021926002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/PDTN/097e5700-6fd0-45ca-9656-e418ccd87b87-K2.jpg?auto=webp&crop=691,389,x0,y298&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Kamala Harris to make campaign stop in Texas"
     excerpt: "Harris will be the highest-profile representative from the Biden campaign to visit Texas in person during the general election."
     publishedDateTime: 2020-10-25T18:32:00Z
@@ -1413,6 +1429,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "ZeX+o73q2vCYbN2BhY/kmUhkLz13hLm1ZTtINPgUO22X6Q1DGbsnJkr3nMm8MzTcCoo8ysnCuUSLUuN1T9iPG+OTZ0SW+g67jEu2OCSNOP+Wh0PweTL2M0ZGhEiaU+mnymgS36kvxuBNWL24ArLl68LwuIi5NWG3MTjXa1Lnj35REjO22dd+9O9JlB54AzKT61HFawDeWKnHWHYP1kPa2pKiSitwkAdyYETTNcmD4TZ31BdmQVAr7yWns2nwcQbOSItV/PKGqYx05quNzRXFlaXy5GsJ1mVFJPLDQ6tFiNdp7IjtDTHRl3SKB/V0PaBxD4sOsj6RFSh+aXFRuXNq9lM/ENUSRzojXwP/uZmG/PBMCPmzjGRSE2jp/srAW8v9ULeh/vW+mbIEiFUWHpYHO3+d3mYlol6cgeqQRgkLjTNEu1AfKZinHuK9swsvsPdgTfC0XZEvLqqomXSESwMEbZ9N/QCdNhxgwVG56ksU1qOVlmaWhC2e2LB9/JAu6Fb1EPMA6FeCrglfd4qfL1feKg==;imxsuujL8op8Xu2Thj/nJA=="
+secured: "6vOJhZ694/PAw7fM8PAZtUqpkGI1dq2+7EO/hqk2D4xVzwPJmEUSOT9QZXKxzSC+T8LVeuWgjCgdJoJvB9/e+4YroVBKURPPN4c80WHY6LPp/OebMxBmrsoAnqIvbDBoSKpZZE/3FHjrP9fH0zBCCQSCL9gwOYMKux1DAVD18SeybCuXU/FdHopu68FyJU/Q6+1axbuH9jlzgf1sEGfX6AzghWAbTCWFu0Fo+DFQWkseFhacFw9gHIiUKqSiaexvH61LEdOmdv8xHw2dJiB8PryERDGLJVvtCEeEHEYtZ5dw4JeEIQ1aTs6qfkEfaeILhn9d6JcTRVAApOLGKgDlS+6pN3VMAPuy8lInycAMpMTvopcCOZk90htwqYP8h0ELY+cgnHlC/rDYRCLdzR6ZndgI4FQPz8w6ne8PRBNnVVwd+84IiUKunvoJz6aDJV6MgmyTD+JBmflSlo/b9SKWTd3XKfla84xyB+n3kljK98W6WtCukMOJpGMG69nPsU4bYZf/zqYUL+S3/PyFXD8JCQ==;3NUJwXgn4sKEPqdfleQsJg=="
 ---
 

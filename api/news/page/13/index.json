@@ -2,6 +2,110 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-14-presidents-job-approval-is-surest-sign-trump-will-lose-reelection.md",
+      "title": "President's job approval is surest sign Trump will lose reelection",
+      "excerpt": "Just 37 percent of Americans approve of the president’s handling of the pandemic — and that is extremely problematic for him.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
+      "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 4140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_100520screenshot.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp",
+      "publishedDateTime": "2020-10-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing.md",
+      "title": "Trump Promotes Baseless, QAnon-Endorsed Conspiracy Theory Alleging Obama Staged Bin Laden’s Killing",
+      "excerpt": "President Trump promoted a baseless conspiracy theory on Tuesday alleging the Obama administration covered up a plot to stage Osama Bin Laden’s death, a wild accusation that was pushed by Twitter accounts linked to the QAnon conspiracy theory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing/",
+      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f86fcdaa93641012f51b7b8%2F0x0.jpg",
+          "width": 1199,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing/amp/",
+      "publishedDateTime": "2020-10-14T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-what-demi-lovato-says-about-donald-trump-in-new-protest-song-commander-in-chief.md",
       "title": "What Demi Lovato Says About Donald Trump in New Protest Song 'Commander in Chief'",
       "excerpt": "\"Commander in Chief\" is the former Disney star's protest anthem against the Republican candidate ahead of election day on November 3.",
@@ -1220,110 +1324,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-kkk-social-visit-cards-left-at-joe-biden-supporters-homes-in-tennessee.md",
-      "title": "KKK 'Social Visit' Cards Left at Joe Biden Supporters' Homes in Tennessee",
-      "excerpt": "Residents in Shelbyville also said that signs showing support for Democratic candidate appeared to have been run over by a car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
-      "originalUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1650165/kkk.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
-      "publishedDateTime": "2020-10-13T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-kamala-harris-says-its-reckless-to-hold-supreme-court-hearings-during-a-pandemic.md",
-      "title": "Kamala Harris says it's 'reckless' to hold Supreme Court hearings during a pandemic",
-      "excerpt": "Harris also criticized Republicans, saying they are prioritizing pushing through Amy Coney Barrett's confirmation over a coronavirus stimulus package.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
-      "originalUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 319,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f84911591aa9e001880b021?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp",
-      "publishedDateTime": "2020-10-12T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

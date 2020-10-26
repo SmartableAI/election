@@ -141,6 +141,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "White House COVID-19 Outbreak: Why Mike Pence Is Being Called ‘Grossly Negligent’ After Staff’s COVID Diagnosis"
+    excerpt: "Trump administration and campaign officials faced questioning about Vice President Mike Pence’s planned travel in the upcoming week after two of his top aides tested positive for COVID-19."
+    publishedDateTime: 2020-10-26T20:34:00Z
+    webUrl: "https://www.ibtimes.com/white-house-covid-19-outbreak-why-mike-pence-being-called-grossly-negligent-after-3070296"
+    ampWebUrl: "https://www.ibtimes.com/white-house-covid-19-outbreak-why-mike-pence-being-called-grossly-negligent-after-3070296?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-covid-19-outbreak-why-mike-pence-being-called-grossly-negligent-after-3070296?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/26/us-vice-president-mike-pence-will-give-the.jpg"
+        width: 1024
+        height: 746
+        isCached: true
 
 secured: "cTm0IkQRt00gA6J/mvLEg8k2/NaqECwmNxSzw0yAkWdGiC7H1zpZhEC5dQIm2zpL0DvHLGhj0YoEsWybBecmRu+uCPooXXtDKYiJABdzh/qoxtL+mKlzGIyNAWmJk5Vt/sSjhTt3+ZQwzgHsWOjJBZ+SgQ0d5lc/UrScAx4/wpbSmEM3DyKyD3/qi5gvrGZYfKhV/P9p5PEodpfvv/2VQZ64gzwOajdKSspal1an6kcUKwuL8YlLn3Y2USWfKf8xmRsmvlBMEEyZBLIWmsKFTj7O9wYm2CPX9Owv6eOwYz7Fx7hYNbcydXkBTrEZJoA/g8bPhbqb41SWH5oKsJon6spzM+qzYsdeEh/zWKAyTa0=;LlIy3HhLpdPJvAUjcZP8BQ=="
 ---

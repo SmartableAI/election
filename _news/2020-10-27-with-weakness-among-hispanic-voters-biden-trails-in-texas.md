@@ -3,10 +3,10 @@ category: news
 title: "With Weakness Among Hispanic Voters, Biden Trails in Texas"
 excerpt: "Large Democratic gains among white suburbanites suggest risks down the ballot for Republicans in congressional and state House races, our poll shows."
 publishedDateTime: 2020-10-26T19:47:00Z
-originalUrl: "https://www.nytimes.com/2020/10/26/upshot/poll-texas-hispanics-trump.html"
-webUrl: "https://www.nytimes.com/2020/10/26/upshot/poll-texas-hispanics-trump.html"
-ampWebUrl: "https://www.nytimes.com/2020/10/26/upshot/poll-texas-hispanics-trump.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/26/upshot/poll-texas-hispanics-trump.amp.html"
+originalUrl: "https://www.nytimes.com/2020/10/26/upshot/texas-polls-biden-trump.html"
+webUrl: "https://www.nytimes.com/2020/10/26/upshot/texas-polls-biden-trump.html"
+ampWebUrl: "https://www.nytimes.com/2020/10/26/upshot/texas-polls-biden-trump.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/26/upshot/texas-polls-biden-trump.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -750,6 +750,6 @@ related:
       domain: thedailybeast.com
     quality: 34
 
-secured: "Adu/6X45vt1lPeKgLfLMgmVFR1jIQ/ECsPaCyN6Y80up+DV2YhIIZXXnCE95JwbL3xEfXba9RPIXQkBWXjuTjPqEvY1sHLmjOOBJILoi6zwaLqvHL+MApBv0qBGFMTl5ZC0rvTMo/SsV0P/4FL2C0osxrK+G5Bu5Y6bnYWTJuUFdv1ZJtfRnOMtLl60fNLxqYU5WKJKqcXJBnYY7lzy7Ic3Euk2Bx84WlMcra4P3wVJrT0JT3WvjNgBLKPzWastNQYycIUiuK8Nv0W+RxDTfcqhYGZI1wvPhIExpkrodCPwIc7Fyc9txw+ur59DGeHdKDfjX1DYHhWxVIsAp7s86ximwyFXJfgpNcv4Lh73ubeQ=;w0CweqkpmmWvUKZflA9tVg=="
+secured: "2SOXJVv5Hg2UHgvtkJp9nXZg+1X3Bagq6jQFV91m2CFaUOx6ftUQP1EQ5GdyJTLulTa8KVXUM2RMCrHKanjGfy7NNuAF2Hz5MKks96BoiBQlrsEZm34J1vKAvJvwh68gAI9rD8gHbtIzMLEjsLeRwXwSExP2+LOnUYWjAJnxN4u45SlNLvuACgqfHTXB+maNLN5Tdel83CAHFc/k/N5Sfv3ImXVpT3gARhIPiofMI/aUGgGIYo/GWQ0D6YGRrSEXB13VdtM2XatFiDcGtX442L3wVx0dXVTZfyYiERDfgOwkY1Oo5UY09lEM3ggyKeCLwFaKRI0EXM+cwrufe1OqmBS/7ghNGHALUMhPkOKL2Rk=;tHfxtVrwqkRGhkgLJv3Yeg=="
 ---
 

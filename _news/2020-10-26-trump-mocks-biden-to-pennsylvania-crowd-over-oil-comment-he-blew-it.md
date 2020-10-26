@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
 type: article
 quality: 190
-heat: 390
+heat: 410
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 165
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c12189ec-a656-4aec-b107-11d3bc0ac4f5/5ec31af4-90ba-4cb1-9c02-e0d45010d724/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden staff tells '60 Minutes' he misspoke on cost of free public college"
+    excerpt: "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount."
+    publishedDateTime: 2020-10-26T20:03:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

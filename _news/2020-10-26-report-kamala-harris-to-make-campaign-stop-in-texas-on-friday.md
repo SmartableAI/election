@@ -777,6 +777,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris: Michigan likely to decide next president"
+    excerpt: "The visit marks the California senator's second stop in Michigan since being named Democratic presidential candidate Joe Biden's running mate."
+    publishedDateTime: 2020-10-25T14:23:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/25/harris-begins-day-campaigning-metro-detroit-9-days-election/6021926002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/6021926002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6021926002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/PDTN/097e5700-6fd0-45ca-9656-e418ccd87b87-K2.jpg?auto=webp&crop=691,389,x0,y298&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Kamala Harris to make campaign stop in Texas"
     excerpt: "Harris will be the highest-profile representative from the Biden campaign to visit Texas in person during the general election."
     publishedDateTime: 2020-10-25T18:32:00Z
@@ -1353,7 +1369,7 @@ related:
   - title: "Senator Kamala Harris Comments to Reporters in Detroit"
     excerpt: "Democratic vice presidential nominee Senator Kamala Harris (D-CA) answered a reporter's question after landing at a Detroit airport for a campaign event. She talked about Vice President Pence continuing to campaign despite some of his staff testing positive for COVID-19 and White House Chief of Staff Mark Meadows' comments on controlling the coronavirus pandemic."
     publishedDateTime: 2020-10-25T15:16:00Z
-    webUrl: "https://www.c-span.org/video/?477353-1/senator-kamala-harris-comments-reporters-detroit"
+    webUrl: "https://www.c-span.org/event/?477353/"
     type: article
     provider:
       name: C-SPAN
@@ -1414,6 +1430,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "mxEYE+8tOcQXOofhmeI6WZLJ84HL7pMfZ7hPQAV9SGV6YPZlRWYm6GImtjIT/GKqyaRDjkUC3Mwu0PZCYErNJ0axxu88jHtdE1tiB0JpU9PlKiOdNcPJC+W+TAdkLpneeyeX33pie41+ezDQ5o2jnpbABb6yHBv5RcfoIGtfEFPioUtbmCllbpfzV9fZJwflVgEPEARuTO9bYpbIakGYalihY/7GOn6ZpAjMDtXsIhfcPCLN73Y0rNqkI2miCDEGhHlmFTq5jl7aLBngjkwt6SUB9aYmcdh0ebsh5MGWvArVa7fYEEqnjKKoTWelWnpFzyQVDB3AD/IFmSRB98F0A5b+ZGnZkjMBmYlBTBDxYao=;2l/dHcuf3oClcxcdErSyiQ=="
+secured: "ySaRwCiOLS0DFGThGslFrqNqVJYW1Nci0kjeBr5gGuYM8qwPWkemA/TNFm8FLnF/8ui6xOVh2lDM+ktGlmjml1Pelq5fMWn+0YMHlwaG5KCFedkX+FwOqy1Gewk2SNfst4seLhQ60wtDZI5OOJs9ImqTQ8Li7kEuQ8HucBvRKVC0wpTzwd0t6mWlzETxZRk+NFiIPui1z9w0XUnjgeR8TmwO0+zR19QcdM/OKhcqTNvjYCOa15Wg9OgjyFGHnsUc2mlSGxtImXHknA454v1X3rYT/EMBTJVkPdhdQeEgS46xORip+WFmH5eqg3fb+F7wKOFSwWzDpZil1uvxLdMfuSPK+8StDXRRh1dULREApFKM6xnMADkN4Zeq+lhZEb2uaZlJB/k4KdobOwp1LkIrFGpIO/T7ZDRxwVbMqoypkp+tlrA+GEVpeVFyjyiSAclbD/e0ogFKIEO7mOCJ2YtL4VADNe4HDfTPr+likJtsrKhgZyMVrM1emOnu0atGHAkp8uKCInt4ddrRQUy2639rKQ==;7uzbE5/KOgJNPGqd4i46zA=="
 ---
 

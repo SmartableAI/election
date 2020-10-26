@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-desp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/mike-pence_hpMain_20201024-213634_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Vice President Mike Pence to stay on campaign trail despite outbreak of COVID-19 among his senior aides"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
+    publishedDateTime: 2020-10-26T20:33:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/u0DCzdkXJN-RGYRvSSr43-jHmvc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BSXXSPCSCJF4FHNE6RFJZESBP4.aspx"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice President Mike Pence to stay on campaign trail despite exposure to chief of staff Marc Short, who tested positive for COVID-19"
     excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."

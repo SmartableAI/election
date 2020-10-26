@@ -67,6 +67,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Mike Pence appeals to Iron Rangers with focus on jobs, economy"
+    excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally."
+    publishedDateTime: 2020-10-26T20:20:00Z
+    webUrl: "https://www.startribune.com/vice-president-mike-pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 52
+    images:
+      - url: "https://stmedia.stimg.co/1603746270_08+1011869285+23PENCE102720.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5HyuAe0cuviEiM92PICB8xkN4lsnTV/eCgTFOxzbAvSv95kGjrqjwlM8bn8CI2sqi3jR46Wf45fgwaBEA5bbyGY1MWSeHpyfMnQbDyEZhzvfMm0jbxTRNSz5TBa2YneFBwmpgFCviqjbsPvWEn4sCdqn9e4+EpBQ6+s1AOEbysEjiF9OJss/Wg19KCyutldkwCg5pSFQ2YXxHJgkx+Vb00cQEat0e/Tn6Qo2BznWbDE2jsSMlXERhrhrc7FaWNXYCgm8k76y8jIPOE18skfNWtIcl/YqoI8AcQEqP0hvpFBAHF66KwRgp6kfNtETnD4hLxbfAJiJKsooQdQhZCtweu/6VSp74gpfcNRCJSrgop2DgOyEMlxAMtlJCnhK9wRsT/FNtkZTomd1M287Lu21qqhr+4mz9OLWx2Nsheni0dqM1ypHubobtk4MjFD1iODOqoE6JVr7uekEgQvRVKdccQQd9dLS6BcC20UULQjp6IOVJ7bunjMU9VnT4EOUNA6dvfTbWJCfi/r4W3n8Y0Kn3g==;nNicuMPAyi9NSk/A5ilKhg=="
 ---
