@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
 type: article
 quality: 123
-heat: 523
+heat: 503
 published: true
 
 provider:
@@ -227,22 +227,6 @@ related:
     quality: 75
     images:
       - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602551163_d7899330b7fbf5dd52d377294a843561.jpg/f38a03882fe2aefa58769e2eea500454/1602551163_cd8a0b17d84284a41870abd86bafcfef.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Dr. Fauci Says He Is \"Absolutely Not\" Surprised Donald Trump Contracted COVID-19"
-    excerpt: "Dr. Fauci says he was 'absolutely not' surprised when Donald Trump contracted COVID-19. Dr. Anthony Fauci says he is 'absolutely not' surprised President Donald Trump tested positive for COVID-19, after seeing him not follow safety guidelines."
-    publishedDateTime: 2020-10-19T02:45:00Z
-    webUrl: "https://www.hotnewhiphop.com/dr-fauci-says-he-is-absolutely-not-surprised-donald-trump-contracted-covid-19-news.119843.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/dr-fauci-says-he-is-absolutely-not-surprised-donald-trump-contracted-covid-19-news.119843.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/dr-fauci-says-he-is-absolutely-not-surprised-donald-trump-contracted-covid-19-news.119843.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 70
-    images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603074875_79594a1cccfcca5b2fe1eb37a854852d.jpg/2275496a769e107a023dfcf84a404d29/1603074875_795eae86f187d7863bd541172bb14f0b.jpg"
         width: 1200
         height: 800
         isCached: true

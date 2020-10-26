@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-will-campaign-aggressively-in
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Biden rips Hunter Biden email leak as 'smear campaign,' says Russia trying to spread disinformation"
+    excerpt: "Democratic presidential nominee Joe Biden slammed the recent reports of his son Hunter’s overseas business dealings, calling them a “smear campaign” and arguing that the information is part of a Russian disinformation campaign."
+    publishedDateTime: 2020-10-26T02:23:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jCyjGsS5V1E/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "QrSGBDbgdjGONIirs/6J6Qpggk0N+kGKPlZ72dakIuqIp5IlClKA+qCHFf6A4FNTQCMUVrpiR+/a41aaJ3VcTlKRu2DneLzK/E/1yhQO3QrLrZwN2p/FEBGyESUxYwgrCLbNApPuHZOwNU+raDO+vBAm4H/DFKy/TYLErUFIuiFgDluFpMIYjjA6p4VzBLvt/jSEH/2Bt8qn6z6GdJOGNJ5XJaQ6iIQ+ahSeV0859I3I+C1f8NnWLBMo6OdSYySENh+Q/arhQfXkCxmAHvsxWe4M9HLZyhAa/OHUNkbL1727ItplNLEI1CyFYz+sEMbey3VSLN1FPtWrTdd4/a9ZmJfjWl0wD56b6vAND3cYUY4=;GITBjuYN0wTGT1THt93PsA=="
 ---

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump dials back his anger, but his debate performance doesn't change the facts"
+    excerpt: "Everybody showed up for a brawl Thursday night and a debate broke out.\n    \n"
+    publishedDateTime: 2020-10-23T10:42:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XXNm3OM9V2k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022224516-25-debate-nashville-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short"
     excerpt: "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\""
     publishedDateTime: 2020-10-24T00:27:00Z

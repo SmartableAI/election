@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/jim-hunter-biden-china-joint-ventur
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-hunter-biden-china-joint-venture-key-contacts.amp"
 type: article
 quality: 188
-heat: 328
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,19 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook reversing ban on ad that claimed Biden-Harris supports 'abortion up to the moment of birth'"
-    excerpt: "Facebook is reinstating advertising it previously blocked from an anti-abortion organization claiming that former Vice President Joe Biden and his running mate, Sen. Kamala Harris, D-Calif., supported abortion up until the moment of birth."
-    publishedDateTime: 2020-10-17T01:07:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
+  - title: "Pence says Biden, Harris should stop playing politics with COVID-19 vaccine"
+    excerpt: ""
+    publishedDateTime: 2020-10-26T03:52:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V5wwFhiQcL0/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 223
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Screen-Shot-2020-10-16-at-5.03.33-PM.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump, Biden banking on job recovery plans to win election bid"
+    excerpt: "As the United States hits the home stretch toward Election Day, the biggest hot-button issue among voters is jobs and the economy. Both President Trump and former Vice President Joe Biden have put their recovery plans at the forefront of their respective campaigns. Both candidates say that they know"
+    publishedDateTime: 2020-10-23T21:40:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c_XN5DeSKhI/trump-biden-bank-on-job-recovery-plan-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-bank-on-job-recovery-plan-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-bank-on-job-recovery-plan-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/perry_chiaramonte_aem-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden pitches 'BidenCare' as he spars with Trump on health care at debate"
+    excerpt: "President Trump and 2020 Democratic nominee Joe Biden went head-to-head on health care during Thursday's debate, with Biden promoting an updated version of ObamaCare called BidenCare."
+    publishedDateTime: 2020-10-23T12:12:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwLqZb5i7p8/bidencare-trump-biden-health-care"
+    ampWebUrl: "https://www.foxnews.com/politics/bidencare-trump-biden-health-care.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidencare-trump-biden-health-care.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/1a6eaf29-THUMB-trumps-425A.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -64,85 +96,116 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "New Hampshire newspaper backs Biden, first Democrat for president in 100 years"
-    excerpt: "One of the nation's most prominent conservative-leaning newspapers endorsed Joe Biden for president on Sunday, marking the first time the publication has endorsed a Democratic presidential candidate in over 100 years."
-    publishedDateTime: 2020-10-25T19:37:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/90vbbqrnN5g/biden-endorsement-conservative-new-hampshire-union-leader-newspaper"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+  - title: "Kamala Harris bursts out laughing when asked if she has socialist perspective"
+    excerpt: "Calif., burst out laughing when asked during an interview Sunday if she would advocate for a “socialist or progressive perspective” if elected."
+    publishedDateTime: 2020-10-26T05:31:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-laughs-when-asked-if-she-has-socialist-perspective"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-laughs-when-asked-if-she-has-socialist-perspective.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-laughs-when-asked-if-she-has-socialist-perspective.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 132
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
-    excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son, Hunter Biden."
-    publishedDateTime: 2020-10-19T18:49:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WiuLQdaQLsM/cotton-interview-new-hampshire-biden-family-cashed-in"
-    ampWebUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TomCotton-Derry-Oct.2020.jpeg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293643638377.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Ex-Hunter Biden associate's records don't show proof of Biden business relationship amid unanswered questions"
-    excerpt: "Hunter Biden's former business partner Tony Bobulinski claimed this week that former Vice President Joe Biden was allegedly involved in discussions about his son's business dealings, something the Democratic presidential nominee has repeatedly denied."
-    publishedDateTime: 2020-10-23T17:44:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7e1P0CqlCQ/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions.amp"
+  - title: "Sharon Stone says voting for Kamala Harris 'will save your families lives' amid ongoing coronavirus pandemic"
+    excerpt: "Sharon Stone said that her expertise as an infectious disease worker leads her to believe that Kamala Harris will help curb the death toll of the coronavirus pandemic if elected"
+    publishedDateTime: 2020-10-21T02:17:00Z
+    webUrl: "https://www.foxnews.com/entertainment/sharon-stone-voting-kamala-harris-will-save-lives-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/entertainment/sharon-stone-voting-kamala-harris-will-save-lives-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/sharon-stone-voting-kamala-harris-will-save-lives-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 116
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Is Pelosi laying the groundwork to make Kamala Harris president?"
-    excerpt: "Nancy Pelosi made it official today, she no longer believes that our system of government is a good idea. REP. NANCY PELOSI (D-CA): Congress has a constitutional duty to lay out the process by which a president's incapacity and the president of any party is determined."
-    publishedDateTime: 2020-10-16T18:58:00Z
-    webUrl: "https://www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president"
-    ampWebUrl: "https://www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83b45cb8-2387-4c13-a353-9fb24f790716/b8672818-fe53-4a19-8b9f-3e780e4cb30d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
-    excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son,"
-    publishedDateTime: 2020-10-19T18:55:00Z
-    webUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in"
-    ampWebUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TomCotton-Derry-Oct.2020.jpeg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Sharon-Stone.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Man arrested for allegedly threatening to kidnap and execute Joe Biden and Kamala Harris"
+    excerpt: "A Maryland man has been arrested after authorities said he threatened to torture and kill Joe Biden and Kamala Harris."
+    publishedDateTime: 2020-10-21T20:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 91
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/31cc251/2147483647/strip/true/crop/398x593+0+0/resize/398x593!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fbb%2Fe3%2F0d25c54448cb8d616a290b8e33bc%2Freed-1.png"
+        width: 398
+        height: 593
+        isCached: true
+  - title: "Questions Joe Biden Should Answer About Hunter's Emails"
+    excerpt: "First, Joe Biden's Praetorian Guard in the media argued that the New York Post's Hunter Biden scoop was \"Russian disinformation.\" The DOJ, FBI and DNI each publicly disagreed. No one in the Biden camp has denied the veracity of a single email thus far."
+    publishedDateTime: 2020-10-23T11:26:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/23/questions_joe_biden_should_answer_about_hunters_emails_144516.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/23/questions_joe_biden_should_answer_about_hunters_emails_144516.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/23/questions_joe_biden_should_answer_about_hunters_emails_144516.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/524942_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Joe Biden disavows New Green Deal co-sponsored by Kamala Harris"
+    excerpt: "Democratic nominee Joe Biden needs to have a sit-down with his running mate, Sen. Kamala Harris of California."
+    publishedDateTime: 2020-09-30T03:55:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
+  - title: "Biden accidentally refers to Harris-Biden administration"
+    excerpt: "Democratic presidential nominee Joe Biden mistakenly promoted running mate Kamala Harris, elevating her to the top of their ticket."
+    publishedDateTime: 2020-09-22T10:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+  - title: "Kamala Harris: Woman of firsts and star of the Democratic Party"
+    excerpt: "Democratic vice presidential nominee California Sen. Kamala Harris is largely described in terms of her firsts. She is the first woman of color on a presidential ticket, who, if elected, would be the first woman just a heartbeat from the Oval Office."
+    publishedDateTime: 2020-10-19T21:47:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/kamala-harris-woman-of-firsts-and-star-of-the-democratic-party"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/kamala-harris-woman-of-firsts-and-star-of-the-democratic-party?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-woman-of-firsts-and-star-of-the-democratic-party?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+  - title: "The Biden Corruption Scandal Is About Joe--Not Hunter"
+    excerpt: "The scandal indicates that Joe Biden, while vice president, knowingly allowed his son to sell access to the Obama administration, then lied about it. Read Full Article »"
+    publishedDateTime: 2020-10-19T18:08:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/19/the_biden_corruption_scandal_is_about_joe--not_hunter_526853.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "ZhmBxwnaZCLRzbVGhsQMA2Pxu+GQsia4Nv6tpOo4IFldHENL2b3tC7WATYaN6+DDWK9Rx15Sv7+UIkAoadGkp7rzzhHtY+P7opONHljDW3ssu5J1Sb8INTjociOIj4G4MdxXF/iGuzoym5K2/rvD2taiaJdYRvxXVZYfaYf5vVuIdYGxVsjD+zi0T8H0VPq5+PylXbbK7BgGxIfhsXxVi1/F8MS5xEk4IA+73lvMvbPbLAPfULmkarEOU3aOa8L9rh2JfpTM5cAdE6dXBwPWV4PMMFldJ0AXzW/4jh0qn71wBQ6S8xf+YnPnNACBwVr7sNeJVsFK7fi6FPa2SfTghJFhMMRx/hCz6LRliH2FjbY=;Kq8lmdm/K+SC2TxWTADSOg=="

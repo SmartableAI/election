@@ -300,22 +300,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden pitches 'BidenCare' as he spars with Trump on health care at debate"
-    excerpt: "President Trump and 2020 Democratic nominee Joe Biden went head-to-head on health care during Thursday's debate, with Biden promoting an updated version of ObamaCare called BidenCare."
-    publishedDateTime: 2020-10-23T12:12:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwLqZb5i7p8/bidencare-trump-biden-health-care"
-    ampWebUrl: "https://www.foxnews.com/politics/bidencare-trump-biden-health-care.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidencare-trump-biden-health-care.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/1a6eaf29-THUMB-trumps-425A.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Twitter employees openly rip Trump, praise Biden: 'Trump must be defeated'"
     excerpt: "Twitter’s senior executives have a long history of anti-Trump hatred, a review of dozens of accounts of top employees found."
     publishedDateTime: 2020-10-18T02:33:14Z
@@ -1410,22 +1394,6 @@ related:
         width: 650
         height: 340
         isCached: true
-  - title: "Questions Joe Biden Should Answer About Hunter's Emails"
-    excerpt: "First, Joe Biden's Praetorian Guard in the media argued that the New York Post's Hunter Biden scoop was \"Russian disinformation.\" The DOJ, FBI and DNI each publicly disagreed. No one in the Biden camp has denied the veracity of a single email thus far."
-    publishedDateTime: 2020-10-23T11:26:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/23/questions_joe_biden_should_answer_about_hunters_emails_144516.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/23/questions_joe_biden_should_answer_about_hunters_emails_144516.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/23/questions_joe_biden_should_answer_about_hunters_emails_144516.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/52/524942_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Trump Camp's Steve Cortes: 2020 Election is \"Morning In America\" vs. Biden's \"Dark Winter\""
     excerpt: "Steve Cortes, Trump spokesman, told FNC's Jesse Watters that, for President Trump, it is \"Morning in America\" vs. Joe Biden's \"Dark Winter\" election. STEVE CORTES: Joe Biden thinks screaming at people and calling voters chump is a winning strategy."
     publishedDateTime: 2020-10-25T15:06:00Z
@@ -1499,20 +1467,6 @@ related:
       - url: "https://assets.realclear.com/images/51/519907.jpg"
         width: 750
         height: 562
-        isCached: true
-  - title: "The Biden Corruption Scandal Is About Joe--Not Hunter"
-    excerpt: "The scandal indicates that Joe Biden, while vice president, knowingly allowed his son to sell access to the Obama administration, then lied about it. Read Full Article »"
-    publishedDateTime: 2020-10-19T18:08:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/19/the_biden_corruption_scandal_is_about_joe--not_hunter_526853.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "A Vote for Trump Is a Vote for America"
     excerpt: "I wrote that I would likely support Donald Trump because he was the only presidential candidate speaking for working-class Americans. I also viewed the contempt for Trump by the media and elite of both parties as contempt for his supporters as well."

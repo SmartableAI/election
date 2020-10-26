@@ -482,17 +482,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris: Woman of firsts and star of the Democratic Party"
-    excerpt: "Democratic vice presidential nominee California Sen. Kamala Harris is largely described in terms of her firsts. She is the first woman of color on a presidential ticket, who, if elected, would be the first woman just a heartbeat from the Oval Office."
-    publishedDateTime: 2020-10-19T21:47:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/kamala-harris-woman-of-firsts-and-star-of-the-democratic-party"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/kamala-harris-woman-of-firsts-and-star-of-the-democratic-party?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-woman-of-firsts-and-star-of-the-democratic-party?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
   - title: "Kamala Harris: Court Packing A Distraction, Has \"All Of A Sudden\" Become An Issue"
     excerpt: "CNN's Don Lemon spoke with vice presidential nominee Sen. Kamala Harris about the dueling town halls between President Donald Trump and her running mate, Democratic presidential nominee Joe Biden. \"I think that Joe Biden has been consistent about saying that this is not the time right now to have this discussion."
     publishedDateTime: 2020-10-16T13:35:00Z

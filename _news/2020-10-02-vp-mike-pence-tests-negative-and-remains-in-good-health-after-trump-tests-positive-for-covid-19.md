@@ -841,22 +841,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Visualizing the people exposed to COVID-19 by Trump outbreak"
-    excerpt: "Since last week’s announcements that President Donald Trump and his adviser Hope Hicks tested positive for coronavirus, dozens who came into contact with them or their associates have also contracted the virus."
-    publishedDateTime: 2020-10-09T19:40:00Z
-    webUrl: "https://www.usatoday.com/in-depth/graphics/2020/10/09/visualizing-those-exposed-to-covid-19-by-trump-white-house-superspreader-outbreak/5927865002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5927865002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5927865002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/d821f97e-5909-4ee6-bbc1-52a6bf72bdb1-wh-top.jpg?auto=webp&crop=1274,717,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Voters know Trump isn’t just a bad president. He’s a bad person."
     excerpt: "Donald Trump is not.” That one, jolting line gets to the bedrock issue of the 2020 campaign — and why the electorate now seems poised to reject an incumbent president for the first time in 28 years. It’s not that Trump and Biden don’t have ideological differences that matter;"
     publishedDateTime: 2020-10-09T19:37:00Z

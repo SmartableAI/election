@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/trump-versus-fauci/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/trump-versus-fauci/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 395
 published: true
 
 provider:
@@ -140,22 +140,6 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/22/31/e26cfb2641459a5885963d8c9837/201017-trump-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Whitmer to Trump: Talk about the pandemic, not me"
-    excerpt: "Every moment that we are not focused on the fact that there are 220,000 Americans who died from this virus is good for him,” she said."
-    publishedDateTime: 2020-10-18T15:51:00Z
-    webUrl: "https://www.politico.com/news/2020/10/18/whitmer-trump-rhetoric-coronavirus-430062"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/18/whitmer-trump-rhetoric-coronavirus-430062"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/18/whitmer-trump-rhetoric-coronavirus-430062"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/1e/90/373e77a340a0b53efa330620dc46/20201018-gretchenwhitmer-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true

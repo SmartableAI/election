@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook reversing ban on ad that claimed Biden-Harris supports 'abortion up to the moment of birth'"
+    excerpt: "Facebook is reinstating advertising it previously blocked from an anti-abortion organization claiming that former Vice President Joe Biden and his running mate, Sen. Kamala Harris, D-Calif., supported abortion up until the moment of birth."
+    publishedDateTime: 2020-10-17T01:07:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad"
+    ampWebUrl: "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Screen-Shot-2020-10-16-at-5.03.33-PM.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Harris tells Barrett that Ginsburg was ‘far more forthcoming' about abortion views"
     excerpt: "Sen. Kamala Harris hit Judge Amy Coney Barrett for citing the “Ginsburg Rule” in refusing to reveal her views on hot-button Supreme Court cases, noting that the late justice was “far more forthcoming at her hearing about the essential rights of women.\""
     publishedDateTime: 2020-10-14T01:52:58Z
@@ -46,83 +62,51 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "VP nominee Kamala Harris likely to be in spotlight at Amy Coney Barrett confirmation hearing"
-    excerpt: "Supreme Court nominee Amy Coney Barrett will not be the only person in the middle of a high-stakes job interview next week."
-    publishedDateTime: 2020-10-08T17:37:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/463WuPpMdd8/vp-nominee-kamala-harris-barrett-hearing"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing.amp"
+  - title: "Biden calls supporting 1994 crime bill a 'mistake' during ABC town hall"
+    excerpt: "Democratic presidential nominee Joe Biden conceded Thursday it was a \"mistake\" to support the controversial crime bill that critics say laid the groundwork for mass incarceration but defended parts of the 1994 legislation.  "
+    publishedDateTime: 2020-10-16T13:31:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/79q3EQ_02G0/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Barrett allies use ad with Biden, Schumer to promote ‘Ginsburg Standard’"
-    excerpt: "Supporters of Judge Amy Coney Barrett’s nomination to the Supreme Court are promoting the “Ginsburg Standard” of not answering questions about hypothetical cases, as Barrett’s confirmation hearings get underway in the Senate. "
-    publishedDateTime: 2020-10-13T17:01:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kTbLpIZ0UqA/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard"
-    ampWebUrl: "https://www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7c204b7-5802-4d50-ad0a-59e6e92a598b/54ad03db-d03d-4987-b285-b56ea5d7d5e9/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31e403fb-eb33-4078-9bef-323b6035789e/5645e143-8891-469a-b48e-8364d65ddffd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Barrett: I’ve had no conversation with Trump about how I’d rule on any case"
-    excerpt: "Supreme Court nominee Amy Coney Barrett told the Senate Judiciary Committee on Tuesday that she has made \"no commitment\" to President Trump or other lawmakers on how she would rule on major cases regarding issues like abortion, health care, or a potential electoral dispute."
-    publishedDateTime: 2020-10-13T17:04:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3AapxUlaSc/barrett-ive-had-no-conversation-with-trump-about-how-id-rule-on-any-case"
-    ampWebUrl: "https://www.foxnews.com/politics/barrett-ive-had-no-conversation-with-trump-about-how-id-rule-on-any-case.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-ive-had-no-conversation-with-trump-about-how-id-rule-on-any-case.amp"
+  - title: "Pelosi shuts down reporter asking question on Joe Biden's 'corruption'"
+    excerpt: "House Speaker Nancy Pelosi on Thursday refused to address allegations of \"corruption\" against Democratic presidential nominee Joe Biden and quickly shut down a question from a reporter on the topic. "
+    publishedDateTime: 2020-10-22T16:03:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6CCcVpdg2-Y/pelosi-shuts-down-reporter-question-joe-biden-corruption"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a8fd501-d38e-4100-a101-1825df709586/499a69fe-147e-4440-8733-3d38df777221/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef3d8e70-1210-4846-9c7c-5e01d7921066/f1c47198-22fe-4887-9644-ecbc6356e1e5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion"
-    excerpt: "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. "
-    publishedDateTime: 2020-10-08T02:50:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
+  - title: "Sen. Hawley demands answers from Facebook for ‘censoring a news report’ on Hunter Biden"
+    excerpt: "Sen. Josh Hawley, R-Mo., is demanding to know why Facebook is “censoring a news report” on Hunter Biden after the platform admitted it was limiting distribution of the story until independent fact-checkers could verify its accuracy."
+    publishedDateTime: 2020-10-14T18:53:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bztySLKHUo0/hawley-facebook-for-censoring-nypost-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-facebook-for-censoring-nypost-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-facebook-for-censoring-nypost-hunter-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Harris asks Barrett if COVID-19 is infectious and if smoking causes cancer to make climate change point"
-    excerpt: "Sen. Kamala Harris asked Judge Amy Coney Barrett if smoking causes cancer and if coronavirus is infectious, in an effort to reveal the Supreme Court nominee’s thoughts on climate change. "
-    publishedDateTime: 2020-10-14T22:43:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nm7nawF0J1w/harris-barrett-covid-19-infectious-smoking-causes-cance-climate-change"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-barrett-covid-19-infectious-smoking-causes-cance-climate-change.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-barrett-covid-19-infectious-smoking-causes-cance-climate-change.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b27d54d-d1e8-49f4-8043-ff2b67b8a139/8bb45b05-f697-4419-8c4a-6adb8d684dc2/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/hawley.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -140,19 +124,21 @@ related:
         width: 1024
         height: 695
         isCached: true
-  - title: "Kamala Harris says Amy Coney Barrett's faith shouldn't be scrutinized in confirmation hearings"
-    excerpt: "Democratic vice presidential nominee Kamala Harris said Supreme Court nominee Amy Coney Barrett should \"absolutely not\" be questioned about her faith during her confirmation process. "
-    publishedDateTime: 2020-10-10T16:47:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a89xgruYdXI/kamala-harris-amy-coney-barrett-faith-off-the-table-during-confirmation"
+  - title: "Jordan says Twitter's move to 'stop the dissemination' of material 'helps' Biden, biased against conservatives"
+    excerpt: "EXCLUSIVE: Republican Rep. Jim Jordan on Thursday slammed Twitter for intervening to “stop the dissemination of election-related information in a way that helps Vice President Biden’s candidacy,” saying it “raises serious questions” about election interference, while claiming it reinforces that “Big"
+    publishedDateTime: 2020-10-15T19:19:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LF1-mkzRZmE/jordan-says-twitters-move-to-stop-the-dissemination-of-material-helps-biden-biased-against-conservatives"
+    ampWebUrl: "https://www.foxnews.com/politics/jordan-says-twitters-move-to-stop-the-dissemination-of-material-helps-biden-biased-against-conservatives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jordan-says-twitters-move-to-stop-the-dissemination-of-material-helps-biden-biased-against-conservatives.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 153
+    quality: 155
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282841382936.jpg"
-        width: 1024
-        height: 683
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
     excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee Amy Coney Barrett. "
@@ -168,106 +154,101 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Kamala Harris’s American Example"
-    excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
-    publishedDateTime: 2020-10-06T23:38:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harriss-american-example-11602026030"
-    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-240957/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Graham challenger Jaime Harrison reacts to Barrett fight with slavery comparison"
-    excerpt: "Democratic South Carolina Senate Candidate Jaime Harrison reacted to a question about the political fight to confirm Trump-backed Judge Amy Coney Barrett to the U.S. Supreme Court with a comment about the hypothetical reintroduction of racial segregation."
-    publishedDateTime: 2020-10-09T19:28:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9zEReD9fDo/graham-challenger-jaime-harrison-slavery-comparison"
+  - title: "Is Pelosi laying the groundwork to make Kamala Harris president?"
+    excerpt: "Nancy Pelosi made it official today, she no longer believes that our system of government is a good idea. REP. NANCY PELOSI (D-CA): Congress has a constitutional duty to lay out the process by which a president's incapacity and the president of any party is determined."
+    publishedDateTime: 2020-10-16T18:58:00Z
+    webUrl: "https://www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president"
+    ampWebUrl: "https://www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
-  - title: "VP nominee Kamala Harris likely to be in spotlight at Amy Coney Barrett confirmation hearing"
-    excerpt: "Supreme Court nominee Amy Coney Barrett will not be the only person in the middle of a high-stakes job interview next week."
-    publishedDateTime: 2020-10-08T17:40:00Z
-    webUrl: "https://www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 124
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Sen.20Harris.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Kamala Harris calls Barrett hearings 'illegitimate process,' says Republicans 'doing great harm'"
-    excerpt: "Calif., on Wednesday described the Amy Coney Barrett confirmation hearings an “illegitimate process” hours after she had made similar claims during her grilling of the Supreme Court nominee earlier in the day."
-    publishedDateTime: 2020-10-15T13:41:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 122
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b27d54d-d1e8-49f4-8043-ff2b67b8a139/8bb45b05-f697-4419-8c4a-6adb8d684dc2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83b45cb8-2387-4c13-a353-9fb24f790716/b8672818-fe53-4a19-8b9f-3e780e4cb30d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Sen. Kamala Harris Questions Supreme Court Nominee Amy Coney Barrett"
-    excerpt: "Calif., questioned Judge Amy Coney Barrett on the second day of the Senate Judiciary Committee’s Supreme Court confirmation hearing. Harris laid out the stakes surrounding the survival of the Affordable Care Act,"
-    publishedDateTime: 2020-10-13T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/13/sen_kamala_harris_questions_supreme_court_nominee_amy_coney_barrett.html"
+  - title: "Pelosi shuts down reporter asking question on Joe Biden's 'corruption'"
+    excerpt: "House Speaker Nancy Pelosi on Thursday refused to address allegations of \"corruption\" against Democratic presidential nominee Joe Biden and quickly shut down a question from a reporter on the topic."
+    publishedDateTime: 2020-10-23T01:26:00Z
+    webUrl: "https://www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/52/524015.jpg"
-        width: 750
-        height: 562
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef3d8e70-1210-4846-9c7c-5e01d7921066/f1c47198-22fe-4887-9644-ecbc6356e1e5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "MSNBC still promoting Kamala Harris’s fabricated story about Abe Lincoln and court-packing"
-    excerpt: "MSNBC is still promoting Sen. Kamala Harris’s made-up story about Abraham Lincoln and court-packing. The Democratic Party surely appreciates the service: . \"But, Honest Abe said, it's not the right thing to do."
-    publishedDateTime: 2020-10-12T14:13:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/msnbc-still-promoting-kamala-harriss-fabricated-story-about-abe-lincoln-and-court-packing"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/msnbc-still-promoting-kamala-harriss-fabricated-story-about-abe-lincoln-and-court-packing?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/msnbc-still-promoting-kamala-harriss-fabricated-story-about-abe-lincoln-and-court-packing?_amp=true"
+  - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
+    excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
+    publishedDateTime: 2020-10-12T09:56:00Z
+    webUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him"
+    ampWebUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 55
-  - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
-    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
-    publishedDateTime: 2020-10-12T20:16:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/kamala_harris_blasts_barrett_confirmation_hearing_for_violating_quarantine_this_should_have_been_postponed.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 46
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
     images:
-      - url: "https://assets.realclear.com/images/52/523854.jpg"
-        width: 750
-        height: 562
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/jbiden-NEWSLETTER-xx.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Tucker Carlson: The Joe Biden story Twitter and Facebook don't want you to read"
+    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 14, 2020 edition of \"Tucker Carlson Tonight.\" Most of us never imagined it could happen in this country, and yet Wednesday,"
+    publishedDateTime: 2020-10-15T02:16:00Z
+    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook"
+    ampWebUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3d8318-01df-43f5-a84d-c91789b28881/b3303b7d-d7a8-41e9-9f13-46444c5da6fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Buttigieg still supports expanding Supreme Court, defends Biden claim that Barrett nom is 'unconstitutional'"
+    excerpt: "Former South Bend, Ind., Mayor Pete Buttigieg, who now serves on Joe Biden's transition team, said he continues to support the concept of increasing the size of the Supreme Court, and defended the Democratic presidential nominee's claim that the nomination of Judge Amy Coney Barrett is unconstitutional."
+    publishedDateTime: 2020-10-18T23:24:00Z
+    webUrl: "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes"
+    ampWebUrl: "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c1c3d19-6f88-4dbb-9430-c2c6b5efab4c/065de9c2-ece5-4333-8359-abe2c838c0c5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Court-Packing Controversy Reveals How Terrified Biden Is of His Left-Wing Base"
+    excerpt: "Democratic presidential nominee Joe Biden doesn’t want to pack the Supreme Court. He really doesn’t. In fact, he’s said so for the past 40 years. “President [Franklin D.] Roosevelt clearly had"
+    publishedDateTime: 2020-10-13T04:01:00Z
+    webUrl: "https://townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920"
+    ampWebUrl: "https://townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 81
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/e8618c85-64ba-4006-8172-05f2a3caf1e2.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "QoGD3rMZNIMA0jelQAIl4GrPtt/UVkmcgu5MWq02+Fj7JqsYEQJC4YJ5urd+5ThltcAFEvC3r8FKipo2CpD+HLXpv1XhI+B2gW4skjA5rdISnTPnoEofS468u9R3Xn8Vm2EuZyp8EH7J/dJlTr9yjKpTmkw6H8FHmxuTAY1yck4Auk1DkPq3aQP6xPXv1AJm9OpTkG+KcJUb3X9tbfn/gMUQePttMWIZfuwXPr68dH5n9WXaH6Hb99Yp4KL2wVlankUXQzKjkoLPU+HSY6Ja74XcELM1ECyTd4HfLudoXEJnctOlikM5QCh9JP/30mTTZERWCBlpTa4c44JjXf7lXwZVhE+r8LgPwhRKblqwfiE=;5uq27NRJZUxEINH9deN3oA=="

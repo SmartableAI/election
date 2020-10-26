@@ -957,22 +957,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Man arrested for allegedly threatening to kidnap and execute Joe Biden and Kamala Harris"
-    excerpt: "A Maryland man has been arrested after authorities said he threatened to torture and kill Joe Biden and Kamala Harris."
-    publishedDateTime: 2020-10-21T20:30:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 91
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/31cc251/2147483647/strip/true/crop/398x593+0+0/resize/398x593!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fbb%2Fe3%2F0d25c54448cb8d616a290b8e33bc%2Freed-1.png"
-        width: 398
-        height: 593
-        isCached: true
   - title: "How the Biden Campaign Responded to the Hunter Email Story"
     excerpt: "The Biden campaign pushed back on the New York Post's bombshell report Wednesday about Hunter’s recovered emails, which include one allegedly showing that he arranged a meeting between his father"
     publishedDateTime: 2020-10-15T11:30:00Z
@@ -1139,7 +1123,7 @@ related:
   - title: "I Directly Dealt With Joe Biden--He's Lying About Deals in China"
     excerpt: "Tony Bobulinski, a former business partner of Hunter Biden, accused former VP Joe Biden of lying about his role in his son's international dealings during a statement to the WH press corps just 90 minutes before Thursday's presidential debate."
     publishedDateTime: 2020-10-24T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/24/i_directly_dealt_with_joe_biden--hes_lying_about_deals_in_china_527342.html#!"
+    webUrl: "https://www.realclearpolitics.com/2020/10/24/i_directly_dealt_with_joe_biden--hes_lying_about_deals_in_china_527342.html"
     type: article
     provider:
       name: RealClearPolitics

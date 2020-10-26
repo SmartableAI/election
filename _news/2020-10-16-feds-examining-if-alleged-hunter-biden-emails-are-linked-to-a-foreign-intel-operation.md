@@ -576,6 +576,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Teen with van full of guns had checklist to 'execute' Joe Biden, authorities say"
+    excerpt: "Authorities alleged that Alexander Treisman posted a meme about killing the Democratic presidential nominee and had a checklist with a note to \"execute\" him."
+    publishedDateTime: 2020-10-23T04:15:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/man-van-full-guns-had-checklist-execute-joe-biden-authorities-n1244394"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244394"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244394"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3421096/201018-biden-north-carolina-jm-1447_e25ba82d4b1676fecafeb3195aab37ea.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "After dodging questions about court packing, Biden floats commission to study judicial reforms"
     excerpt: "Democratic presidential nominee Joe Biden said that if elected he will convene a bipartisan commission of constitutional scholars to examine judicial reforms, asserting there are “a number of alternatives” that go “well beyond” expanding the Supreme Court."
     publishedDateTime: 2020-10-22T13:28:00Z

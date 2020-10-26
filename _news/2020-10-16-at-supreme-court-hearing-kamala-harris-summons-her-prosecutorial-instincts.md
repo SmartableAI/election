@@ -401,34 +401,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "19-year-old man suspected of plotting to kill Biden"
-    excerpt: "Prosecutors say Alexander Treisman, who was arrested for possessing child pornography, posted evidence of wanting to kill Democratic presidential candidate Joe Biden. Jeff Pegues has the latest details."
-    publishedDateTime: 2020-10-23T23:02:00Z
-    webUrl: "https://www.cbsnews.com/video/19-year-old-man-suspected-of-plotting-to-kill-biden/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/23/88f90fd5-e8f8-4ec8-9f20-6bfd902e5298/thumbnail/1200x630/8eed3a1d31ca5cceb637f3920bcc8490/cbsn-fusion-19-year-old-man-suspected-of-plotting-to-kill-biden-thumbnail-573331-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Man Arrested In N.C. Had Plan To Kill Joe Biden, Feds Say"
-    excerpt: "Alexander Hillel Treisman, 19, was indicted on child pornography charges. Federal agents presented evidence suggesting he was obsessed with mass shootings – and drove within 4 miles of Biden's home."
-    publishedDateTime: 2020-10-23T20:03:00Z
-    webUrl: "https://www.npr.org/2020/10/23/927181809/man-arrested-in-n-c-had-plan-to-kill-joe-biden-feds-say"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/23/ap_20282488538797_wide-dbc4104ac85aea3cee58df3cf4fad51eb21d9270.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Watch Kamala Harris corner Amy Coney Barrett into sharing her view on climate change"
     excerpt: "Supreme Court nominee Amy Coney Barrett has repeatedly dodged questions from Democrats and refrained from revealing her opinion on hot-button issues such as abortion in this week's hearing."
     publishedDateTime: 2020-10-15T05:06:00Z
@@ -688,22 +660,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Harry Reid says Joe Biden should end Senate filibuster after 3 weeks"
-    excerpt: "Former Senate leader Harry Reid says if Democrats win the presidency and the Senate, Joe Biden should take “no more than three weeks” to test bipartisanship before ending the filibuster so"
-    publishedDateTime: 2020-10-25T02:20:00Z
-    webUrl: "https://www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/"
-    ampWebUrl: "https://www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Election_2020_Harry_Reid_Filibuster_82932.jpg?w=1024&h=678"
-        width: 1024
-        height: 678
-        isCached: true
   - title: "Kamala Harris to make campaign stop in Texas"
     excerpt: "Harris will be the highest-profile representative from the Biden campaign to visit Texas in person during the general election."
     publishedDateTime: 2020-10-25T18:32:00Z
@@ -906,6 +862,22 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2020/08/Kamala-Harris-1.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Texts from Hunter Biden's business partner show Joe Biden involved in China deal talks"
+    excerpt: "Hunter Biden’s former business partner is releasing a trove of text messages that show that former Vice President Joseph Biden was brought into discussions on his son’s China business ventures."
+    publishedDateTime: 2020-10-24T16:18:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/24/bobulinski-texts-joe-biden-involved-son-business-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/24/bobulinski-texts-joe-biden-involved-son-business-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/24/bobulinski-texts-joe-biden-involved-son-business-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 67
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/22/Election_2020_Debate_05858.jpg-49d44_c0-168-4459-2769_s1200x700.jpg?9f59b05406a9416b370033f7b8e6fffe2a44993c"
+        width: 1200
+        height: 700
         isCached: true
   - title: "What Happens To Kamala Harris' Senate Seat After The Election? There's A Process"
     excerpt: "Ever since Democratic presidential nominee Joe Biden named Sen. Kamala Harris (D-California) as his running mate, Harris has been taking on both her congressional responsibilities and campaigning duties."

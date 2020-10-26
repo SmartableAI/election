@@ -191,6 +191,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 98
+  - title: "Mike Pence, Donald Trump Jr. to hold campaign rallies in Michigan Thursday"
+    excerpt: "The Trump campaign is continuing a busy schedule of events in Michigan with two high-profile surrogates visits planned for Thursday. Vice President Mike Pence is scheduled to hold a campaign rally at Barnstormers Aviation in Waterford Township before departing for another rally in Fort Wayne,"
+    publishedDateTime: 2020-10-21T01:20:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-donald-trump-jr-to-hold-campaign-rallies-in-michigan-thursday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-donald-trump-jr-to-hold-campaign-rallies-in-michigan-thursday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/mike-pence-donald-trump-jr-to-hold-campaign-rallies-in-michigan-thursday.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 98
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7GTM7PSQJVDMFHZUIMZUDUAVXY.JPG"
+        width: 1300
+        height: 903
+        isCached: true
   - title: "Doctors Say President Donald Trump Suffered Two Bouts of Low Oxygen, But Could Leave Hospital Monday"
     excerpt: "White House physician Sean Conley continued to avoid directly answering a few crucial questions about Trump's health"
     publishedDateTime: 2020-10-05T03:13:00Z

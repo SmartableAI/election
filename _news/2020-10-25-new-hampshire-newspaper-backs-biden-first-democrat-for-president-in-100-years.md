@@ -31,117 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Harris, prominent Democrats listed as 'key contacts' for Biden family business venture projects"
-    excerpt: "EXCLUSIVE: A list of “key domestic contacts” for a joint venture involving Jim and Hunter Biden and now-bankrupt CEFC China Energy Co. included former Vice President Joe Biden's current running mate Sen. Kamala Harris, among other prominent Democrats, Fox News has learned."
-    publishedDateTime: 2020-10-22T13:44:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WQEBp1uFlJQ/jim-hunter-biden-china-joint-venture-key-contacts"
-    ampWebUrl: "https://www.foxnews.com/politics/jim-hunter-biden-china-joint-venture-key-contacts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-hunter-biden-china-joint-venture-key-contacts.amp"
+  - title: "Sanders to host socially distant rally for Biden in New Hampshire"
+    excerpt: "Bernie Sanders will hold a socially distanced rally for Democratic nominee Joe Biden in New Hampshire on Saturday, the Biden campaign announced. "
+    publishedDateTime: 2020-10-02T21:16:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKW8nWOI1bQ/sanders-distant-rally-biden-new-hampshire"
+    ampWebUrl: "https://www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 188
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Sanders-4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden distances himself from ‘socialists’ during NBC News town hall"
+    excerpt: ""
+    publishedDateTime: 2020-10-06T08:43:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4PEaQg82td4/joe-biden-distances-himself-from-socialists-during-nbc-news-town-hall"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-distances-himself-from-socialists-during-nbc-news-town-hall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-distances-himself-from-socialists-during-nbc-news-town-hall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Facebook reversing ban on ad that claimed Biden-Harris supports 'abortion up to the moment of birth'"
-    excerpt: "Facebook is reinstating advertising it previously blocked from an anti-abortion organization claiming that former Vice President Joe Biden and his running mate, Sen. Kamala Harris, D-Calif., supported abortion up until the moment of birth."
-    publishedDateTime: 2020-10-17T01:07:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
+  - title: "Joe Biden’s ObamaCare Tax Avoidance"
+    excerpt: "In 2019 he and his wife legally dodged payroll levies on $228,703 in income."
+    publishedDateTime: 2020-09-30T22:53:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Screen-Shot-2020-10-16-at-5.03.33-PM.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Maryland man charged after note discovered threatening televised execution of 'Grandpa Biden,' Harris"
-    excerpt: "A Maryland man is facing a federal charge for allegedly threatening the lives of Democratic presidential nominee Joe Biden and his running mate Sen. Kamala Harris, D-Calif., in a handwritten note left at the home of a Biden/Harris supporter."
-    publishedDateTime: 2020-10-21T19:03:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEuVON5F1a0/maryland-man-charged-after-note-discovered-threatening-televised-execution-of-grandpa-biden-harris"
-    ampWebUrl: "https://www.foxnews.com/politics/maryland-man-charged-after-note-discovered-threatening-televised-execution-of-grandpa-biden-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maryland-man-charged-after-note-discovered-threatening-televised-execution-of-grandpa-biden-harris.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/600f2c8e-4145-4869-b692-bda1beee0577/3edf21f2-94b7-4936-8ade-adcf5f57fd92/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
-    excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son, Hunter Biden."
-    publishedDateTime: 2020-10-19T18:49:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WiuLQdaQLsM/cotton-interview-new-hampshire-biden-family-cashed-in"
-    ampWebUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TomCotton-Derry-Oct.2020.jpeg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Ex-Hunter Biden associate's records don't show proof of Biden business relationship amid unanswered questions"
-    excerpt: "Hunter Biden's former business partner Tony Bobulinski claimed this week that former Vice President Joe Biden was allegedly involved in discussions about his son's business dealings, something the Democratic presidential nominee has repeatedly denied."
-    publishedDateTime: 2020-10-23T17:44:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7e1P0CqlCQ/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Is Pelosi laying the groundwork to make Kamala Harris president?"
-    excerpt: "Nancy Pelosi made it official today, she no longer believes that our system of government is a good idea. REP. NANCY PELOSI (D-CA): Congress has a constitutional duty to lay out the process by which a president's incapacity and the president of any party is determined."
-    publishedDateTime: 2020-10-16T18:58:00Z
-    webUrl: "https://www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president"
-    ampWebUrl: "https://www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83b45cb8-2387-4c13-a353-9fb24f790716/b8672818-fe53-4a19-8b9f-3e780e4cb30d/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-238687/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
-    excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son,"
-    publishedDateTime: 2020-10-19T18:55:00Z
-    webUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in"
-    ampWebUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
+  - title: "Enough With Fraudulent Biden 'Town Halls'"
+    excerpt: "Beware the carefully scripted puffball \"town halls\" that have been organized by CNN and NBC to help Joe Biden's campaign. As Biden makes a virtue out of having tiny, underpopulated"
+    publishedDateTime: 2020-10-07T04:01:00Z
+    webUrl: "https://townhall.com/columnists/timgraham/2020/10/07/enough-with-fraudulent-biden-town-halls-n2577582"
+    ampWebUrl: "https://townhall.com/columnists/timgraham/2020/10/07/enough-with-fraudulent-biden-town-halls-n2577582?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/timgraham/2020/10/07/enough-with-fraudulent-biden-town-halls-n2577582?amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
+      name: Townhall
+      domain: townhall.com
+    quality: 85
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TomCotton-Derry-Oct.2020.jpeg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/85cd2048-65ea-49c4-a5ed-58fd7b789e59.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "dcmMFC3j8AAa9aKM/OLJx4E2HXPZiBOuYk/wIfuKz1Rj/vd+6fdk0QeVh9ZgjSKLN83SXkhLCq00t+ohWvrCKn7779VEx8wKTPAUWPJj/zL15NjmXDlc5i05ur4+5iOWG+gS/oP8cnxSeLNbLch3ThsHg2mhe0vlCWX/qkfIO+dHlrBL687QoUfv2PIXl3ZmCb3mHJwClsldKeW4LcdNFGwcbzrH0KAxFHXf/rcEfPzjMsrptl/hCFZ54otf0q57cC78b7XGQR4YN7A+3jGBSQ82ZDsRJwtellSau+oDPOrXbj9vVY6WpIbzHl3d83lA0/851vzARttIkcpzV4EjeTbDRvyqV92BkbQBRn1xIWA=;i0PKNBJevIkAPxtmYO8AfQ=="

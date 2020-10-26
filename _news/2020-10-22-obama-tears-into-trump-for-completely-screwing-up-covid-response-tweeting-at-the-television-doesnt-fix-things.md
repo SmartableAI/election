@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Wants to Cut Democrat Cities’ COVID Funding—During a Surge In Cases"
-    excerpt: "The proposed cuts come as apparent retribution for Democratic mayors not “dominating” their citizens protesting this summer."
-    publishedDateTime: 2020-10-21T15:48:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases/amp"
+  - title: "Donald Trump Jr. says dad’s ‘next move’ is to ‘break up’ FBI: ‘He has to get rid of these things’"
+    excerpt: "Donald Trump Jr. on Sunday called on his father to “break up” the FBI if he wins a second term. During an interview on Fox News, host Maria Bartiromo asked the president’s son what his father would do if the FBI does not do his bidding by smearing the son of Democratic nominee Joe Biden"
+    publishedDateTime: 2020-10-18T16:19:00Z
+    webUrl: "https://www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/amp/"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 74
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
     images:
-      - url: "https://media.vanityfair.com/photos/5f9041e5936b35581b460cdf/master/pass/Trump10.21.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/VID_20201018_10.52.09-0001-794x430.jpg"
+        width: 794
+        height: 430
         isCached: true
 
 secured: "n42hljoLc/oXmLe9Ybed9hw7mbOle4o2E5CAT+LY0cssZgStO6MvnWMLnHLLI1OnVpvAD3g7n5G2uYBqX7K1fPTzLWOjQQ9k7O5YH5b/8haU8G4SUadcegXF+M5mb4Nlv2pYA2nV46axM8WtWITXab0+xHcriAteT14WoelEcGR0QuiBKuki/bJOkCYTKocOsmOYb0l/i4Cbwio3ZtXRhThZsun+okzvTHZrGHchd+HiFiW70TzpyNm2oGCmwdFMvxhqanJXRwIW4bJugUy10EZEnGm4omBsfcTAZhCGGLTLL71XGEKn73gCdHqzkBktkjyL8bCN5+o8z/FHYA+GjivgjxjOJeKihW44MC5t1Tk=;hClR8jjMJhwu0P6ujZnJBg=="

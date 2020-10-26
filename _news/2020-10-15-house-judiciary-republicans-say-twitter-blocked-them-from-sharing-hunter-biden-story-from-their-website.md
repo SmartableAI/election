@@ -58,22 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Pelosi shuts down reporter asking question on Joe Biden's 'corruption'"
-    excerpt: "House Speaker Nancy Pelosi on Thursday refused to address allegations of \"corruption\" against Democratic presidential nominee Joe Biden and quickly shut down a question from a reporter on the topic. "
-    publishedDateTime: 2020-10-22T16:03:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6CCcVpdg2-Y/pelosi-shuts-down-reporter-question-joe-biden-corruption"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef3d8e70-1210-4846-9c7c-5e01d7921066/f1c47198-22fe-4887-9644-ecbc6356e1e5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pompeo calls tech firms ‘inconsistent’ after censorship of Hunter Biden story"
     excerpt: "Secretary of State Mike Pompeo on Thursday hit tech giants like Twitter and Facebook for what he said was “inconsistent” cracking down on accounts -- a day after the two social media platforms shut down accounts for sharing a New York Post story on Hunter Biden."
     publishedDateTime: 2020-10-15T18:43:48Z
@@ -151,22 +135,6 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb003c3-e3a7-4513-b2e7-72d1c127a808/2114a245-7a5d-4b63-89c6-6867bfd64cea/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Hawley demands answers from Facebook for ‘censoring a news report’ on Hunter Biden"
-    excerpt: "Sen. Josh Hawley, R-Mo., is demanding to know why Facebook is “censoring a news report” on Hunter Biden after the platform admitted it was limiting distribution of the story until independent fact-checkers could verify its accuracy."
-    publishedDateTime: 2020-10-14T18:53:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bztySLKHUo0/hawley-facebook-for-censoring-nypost-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-facebook-for-censoring-nypost-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-facebook-for-censoring-nypost-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/hawley.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -437,38 +405,6 @@ related:
     quality: 144
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f796f0e1-696b-4992-b9ba-da1064a892da/0b6b02e5-8614-43f2-bbcf-34d666086897/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pelosi shuts down reporter asking question on Joe Biden's 'corruption'"
-    excerpt: "House Speaker Nancy Pelosi on Thursday refused to address allegations of \"corruption\" against Democratic presidential nominee Joe Biden and quickly shut down a question from a reporter on the topic."
-    publishedDateTime: 2020-10-23T01:26:00Z
-    webUrl: "https://www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef3d8e70-1210-4846-9c7c-5e01d7921066/f1c47198-22fe-4887-9644-ecbc6356e1e5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Tucker Carlson: The Joe Biden story Twitter and Facebook don't want you to read"
-    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 14, 2020 edition of \"Tucker Carlson Tonight.\" Most of us never imagined it could happen in this country, and yet Wednesday,"
-    publishedDateTime: 2020-10-15T02:16:00Z
-    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook"
-    ampWebUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3d8318-01df-43f5-a84d-c91789b28881/b3303b7d-d7a8-41e9-9f13-46444c5da6fc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "As Trump casts doubt on election, new agency contradicts him"
+    excerpt: "As President Donald Trump sows doubts about the election, an obscure government agency he created is working behind the scenes to inspire confidence in the vote amid unprecedented challenges"
+    publishedDateTime: 2020-10-24T08:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-casts-doubt-election-agency-contradicts-73801127"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-casts-doubt-election-agency-contradicts-73801127"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-casts-doubt-election-agency-contradicts-73801127"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics"
     excerpt: "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware."
     publishedDateTime: 2020-10-22T11:41:00Z
@@ -303,22 +319,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Analysis: A newly restrained Trump faces the same old problems"
-    excerpt: "President Donald Trump turned in the restrained and consistent performance his advisers said he needed in his final debate with Democratic challenger Joe Biden, but it was unlikely to alter the U.S. presidential race in any fundamental way."
-    publishedDateTime: 2020-10-23T06:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-analysis-idUSKBN2780M0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2780M0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2780M0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538560388&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0D0"
-        width: 703
-        height: 545
-        isCached: true
   - title: "Betting markets give Trump slightly improved chances after debate"
     excerpt: "U.S. President Donald Trump's probability of getting re-elected gained slightly on online betting markets following Thursday's final presidential debate."
     publishedDateTime: 2020-10-23T09:18:00Z
@@ -463,6 +463,70 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP FACT CHECK: Trump and his familiar falsehoods"
+    excerpt: "President Donald Trump says Mexico is paying for the wall (it isn’t), health care choice for veterans came from him (it didn’t) and his tax cut stands as the biggest in American history (nowhere close)."
+    publishedDateTime: 2020-10-26T04:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-familiar-falsehoods-73826161"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-familiar-falsehoods-73826161"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-familiar-falsehoods-73826161"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_88494b7b4bf24725b9ae00ddd880a442_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Fact Checkers Say Trump Built A Wall Of False Claims On Immigration"
+    excerpt: "Washington Post fact checkers find Donald Trump has made more false or misleading statements about immigration than any other issue."
+    publishedDateTime: 2020-10-26T04:13:00Z
+    webUrl: "https://www.forbes.com/sites/stuartanderson/2020/10/26/fact-checkers-say-trump-built-a-wall-of-false-claims-on-immigration/"
+    ampWebUrl: "https://www.forbes.com/sites/stuartanderson/2020/10/26/fact-checkers-say-trump-built-a-wall-of-false-claims-on-immigration/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stuartanderson/2020/10/26/fact-checkers-say-trump-built-a-wall-of-false-claims-on-immigration/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f696e289718d032d07249a6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5990%26cropY1%3D0%26cropY2%3D3369"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Moments from 60 Minutes' interview with President Trump"
+    excerpt: "This week on 60 Minutes, correspondent Lesley Stahl interviewed President Donald Trump and Vice President Mike Pence. It is the fourth time Stahl has interviewed Mr. Trump and her second sit-down with Pence."
+    publishedDateTime: 2020-10-26T01:14:00Z
+    webUrl: "https://www.cbsnews.com/news/president-trump-60-minutes-interview-highlights-2020-10-25/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/president-trump-60-minutes-interview-highlights-2020-10-25/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-trump-60-minutes-interview-highlights-2020-10-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/25/b6272eb5-0269-4ead-b400-74fbb91403f5/thumbnail/1200x630/2d49cd6be8ef217bd737ea47baf3c87e/trumpotarticle0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The 60 Minutes interview that President Trump cut short"
+    excerpt: "In an interview that's made headlines this week, Lesley Stahl presses President Trump on once-again rising coronavirus cases and what his priorities would be if re-elected. Stahl also speaks with Mr."
+    publishedDateTime: 2020-10-25T23:43:00Z
+    webUrl: "https://www.cbsnews.com/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/25/109f8076-5b3d-458a-8402-3f8bb05ac1d0/thumbnail/1200x630/a2a33f88b3ac9f5b9291b93bd2a547e4/trumparticle0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What to make of the 'kinder, gentler' Donald Trump"
     excerpt: "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st"
     publishedDateTime: 2020-10-25T17:00:00Z
@@ -591,6 +655,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "As Trump casts doubt on election, new agency contradicts him"
+    excerpt: "President Donald Trump was predicting on Twitter that this election would be “the most corrupt” in American history. A day later, the head of an obscure government agency he created offered a much different message."
+    publishedDateTime: 2020-10-26T02:29:00Z
+    webUrl: "https://www.businessinsider.com/as-trump-casts-doubt-on-election-new-agency-contradicts-him-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/as-trump-casts-doubt-on-election-new-agency-contradicts-him-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/as-trump-casts-doubt-on-election-new-agency-contradicts-him-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Slovenian premier endorses Trump's reelection, joins others"
     excerpt: "Slovenian Prime Minister Janez Jansa endorsed U.S. President Donald Trump’s reelection on Friday, saying Joe Biden would be a weak leader."
     publishedDateTime: 2020-10-25T17:57:00Z
@@ -714,6 +789,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
+    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
+    publishedDateTime: 2020-10-21T05:26:00Z
+    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
+        width: 911
+        height: 455
+        isCached: true
   - title: "President Trump claimed during the debate the GOP will take back the House. That is unlikely."
     excerpt: "\"I think we're going to win the House,\" Trump said during the debate. That is contrary to what most election experts think."
     publishedDateTime: 2020-10-23T03:27:00Z
@@ -793,6 +884,22 @@ related:
       - url: "https://i.insider.com/5f92dd80abcd0c0018d694d0?width=1200&format=jpeg"
         width: 880
         height: 440
+        isCached: true
+  - title: "President Donald Trump said wind turbines kill 'all the birds.' Cats and radio towers kill far more."
+    excerpt: "President Donald Trump's claim that wind turbines pose a great threat to our avian friends is dubious at best."
+    publishedDateTime: 2020-10-24T02:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/23/trump-biden-during-2020-debate-windmills-kill-all-birds/3744837001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3744837001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3744837001"
+    type: article
+    provider:
+      name: Florida Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
     excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
@@ -888,6 +995,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump speaks as he arrives for Carson City rally"
+    excerpt: "President Donald Trump speaks to reporters as he heads for his campaign rally in in Carson City, Nevada on Sunday. Once considered a battleground state, Nevada hasn’t swung for a Republican presidential contender since 2004."
+    publishedDateTime: 2020-10-19T01:36:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/19/trump-speaks-he-arrives-carson-city-rally/3707058001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4506c45e-7512-47f4-be1b-b5f7f5e1eb8e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "GOP's Romney, long a Trump critic, voted — but not for Trump"
     excerpt: "Republican Sen. Mitt Romney said Wednesday that he's voted in the Nov. 3 election — but not for the leader of his party."
     publishedDateTime: 2020-10-22T00:16:00Z
@@ -930,6 +1051,17 @@ related:
     webUrl: "https://www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10"
     ampWebUrl: "https://www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Minority pushes Trump agenda largely unpopular among tribes"
+    excerpt: "As one of the top officials on the country's largest Native American reservation, he's a proud Donald Trump supporter."
+    publishedDateTime: 2020-10-26T02:29:00Z
+    webUrl: "https://www.businessinsider.com/minority-pushes-trump-agenda-largely-unpopular-among-tribes-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/minority-pushes-trump-agenda-largely-unpopular-among-tribes-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minority-pushes-trump-agenda-largely-unpopular-among-tribes-2020-10?amp"
     type: article
     provider:
       name: Business Insider
@@ -1031,22 +1163,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Trump goes after Fauci, tries to buck up his campaign team"
-    excerpt: "President Donald Trump sought Monday to buck up his campaign staff two weeks from Election Day, dismissing the cautionary coronavirus advice of his scientific experts as well as polling showing him trailing Democratic rival Joe Biden across key battleground states."
-    publishedDateTime: 2020-10-19T19:17:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/61/52/20126397/73/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
   - title: "Colbert Slams Trump for “Insane” Attempt to Defend Child Separation"
     excerpt: "The final debate was relatively muted compared—but Stephen Colbert, Jimmy Fallon, and Jimmy Kimmel still found plenty of Trump lines to tear apart."
     publishedDateTime: 2020-10-23T12:50:00Z
@@ -1079,6 +1195,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Top Donald Trump Quotes During The Final Presidential Debate 2020"
+    excerpt: "The second and final presidential debate saw Joe Biden and Donald Trump in a series of sharp exchanges over topics such as COVID-19, national security, and racism in America."
+    publishedDateTime: 2020-10-23T04:49:00Z
+    webUrl: "https://www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793"
+    ampWebUrl: "https://www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/democratic-presidential-candidate-joe-biden-has-dismissed-donald.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Kirstie Alley Slammed On Twitter After Revealing She's Voting For Donald Trump"
     excerpt: "\"Cheers\" star Kirstie Alley said that she's voting for President Donald Trump this presidential election once more because she believes he \"will turn the economy around quickly.\""
     publishedDateTime: 2020-10-18T12:07:00Z
@@ -1110,6 +1242,20 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-9.png"
         width: 800
         height: 430
+        isCached: true
+  - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
+    excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"
+    publishedDateTime: 2020-10-22T21:15:00Z
+    webUrl: "https://www.nhpr.org/post/vp-mike-pence-campaigns-trump-portsmouth"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 70
+    images:
+      - url: "https://www.nhpr.org/sites/nhpr/files/styles/medium/public/202010/PencePorts_102120_JRogers_0.jpg"
+        width: 625
+        height: 469
         isCached: true
   - title: "Savannah Guthrie Is Being Praised for How She Handled Donald Trump at NBC’s Town Hall"
     excerpt: "Today show cohost Savannah Guthrie moderated a town hall with President Donald Trump on NBC October 15 and is garnering a fair amount of praise for her handling of the situation, which once again saw POTUS avoiding answering questions and going off on rambling tangents."
@@ -1307,6 +1453,17 @@ related:
     webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden"
     ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "New Florida Resident Trump Casts Presidential Ballot for Himself"
+    excerpt: "U.S. President Donald Trump voted in his new home state of Florida on Saturday, casting his ballot for his re-election at a public library across the street from one of his golf clubs. Trump, wearing a mask to prevent the spread of coronavirus,"
+    publishedDateTime: 2020-10-24T16:02:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

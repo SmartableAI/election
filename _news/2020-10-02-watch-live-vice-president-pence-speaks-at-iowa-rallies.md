@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-vice-president-
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/nGPD5Zds7crxw9756joYE-utTE0=/2020/10/08/13211f95-e329-409a-a925-bf6fbdfd633b/1228948960.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vice President Mike Pence Abruptly Cancels Events to Return to DC"
+    excerpt: "Vice President Mike Pence suddenly canceled all of his scheduled speaking events in Indiana on October 9 in order to fly back to Washington D.C., according to Associated Press White House reporter ..."
+    publishedDateTime: 2020-10-09T01:59:00Z
+    webUrl: "https://heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/"
+    ampWebUrl: "https://heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/Pence.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
         isCached: true
   - title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
     excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-ear
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
 type: article
 quality: 122
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Campaign Loses Again in Suit Over Philly Voter Offices"
+    excerpt: "A Pennsylvania appeals court is delivering another defeat to efforts by President Donald Trump’s campaign to let its campaign representatives monitor people registering to vote or filling out mail-in ballots in election offices in the battleground state."
+    publishedDateTime: 2020-10-23T16:24:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-23/trump-campaign-loses-again-in-suit-over-philly-voter-offices"
+    ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-23/trump-campaign-loses-again-in-suit-over-philly-voter-offices?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-10-23/trump-campaign-loses-again-in-suit-over-philly-voter-offices?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "The price of arrogance: Trump fails to follow the rules when rewriting regulations, leading to chaos and court challenges"
     excerpt: "Election day is two weeks away. Our running list of 99 reasons why Donald Trump must be made a one-term president still finds ample fodder in the daily failures, fumbles and foibles of the 45th president and his factotums."
     publishedDateTime: 2020-10-20T08:03:00Z

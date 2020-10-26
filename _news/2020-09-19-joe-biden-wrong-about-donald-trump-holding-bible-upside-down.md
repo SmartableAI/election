@@ -697,6 +697,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden releases 2019 taxes as pre-debate contrast with Trump"
+    excerpt: "Democratic presidential nominee Joe Biden paid nearly $288,000 in federal income taxes last year, according to returns he released just hours before his debate with President Donald Trump"
+    publishedDateTime: 2020-09-29T21:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-releases-2019-tax-returns-1st-debate-trump-73319651"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-releases-2019-tax-returns-1st-debate-trump-73319651"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-releases-2019-tax-returns-1st-debate-trump-73319651"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_45cecf506a974346975bdefe96975b93_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Markets mixed after Trump-Biden debate; data lifts China"
     excerpt: "Stocks are mixed in Asia after the debate between President Donald Trump and his Democratic challenger Joe Biden, with little sign the clash did much to sway investors"
     publishedDateTime: 2020-09-30T05:41:00Z
@@ -1225,6 +1241,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden Wishes Trump A ‘Swift Recovery’ After Opponent Tests Positive For Covid-19"
+    excerpt: "The White House immediately cleared all the in-person events from Trump’s schedule after he announced he tested positive for the virus."
+    publishedDateTime: 2020-10-02T13:26:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/02/biden-wishes-trump-a-swift-recovery-after-opponent-tests-positive-for-covid-19/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/02/biden-wishes-trump-a-swift-recovery-after-opponent-tests-positive-for-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/02/biden-wishes-trump-a-swift-recovery-after-opponent-tests-positive-for-covid-19/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 135
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77039c628a8e8898fe3ec2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3147%26cropY1%3D107%26cropY2%3D1877"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump Cuts Joe Biden's Lead in Half After Ruth Bader Ginsburg's Death: Poll"
     excerpt: "President Donald Trump gained five points on Democratic presidential candidate Joe Biden in poll data released Thursday."
     publishedDateTime: 2020-09-24T21:26:00Z
@@ -1558,6 +1590,22 @@ related:
     quality: 131
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/0618c3c7-d990-4385-aecf-8bbb325812db-AFP_AFP_8QT89P.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Debate fact check: Where Biden, Trump land on COVID-19, campaigning, law and order, more"
+    excerpt: "A contentious first presidential debate was sprinkled with truth amid misleading statements and outright falsehoods."
+    publishedDateTime: 2020-10-01T01:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/30/debate-fact-check-biden-trump-covid-19-law-enforcement-more/3585342001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3585342001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3585342001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -2495,6 +2543,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Biden wishes Trump well from campaign trail"
+    excerpt: "With President Donald Trump hospitalized, Joe Biden is wishing him a speedy recovery, but urging him to \"listen to scientists\" and approve nationwide restrictions to stop the spread of the virus."
+    publishedDateTime: 2020-10-05T22:54:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/05/biden-wishes-trump-well-campaign-trail/3631686001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4b3712af-6ef7-497e-a6d0-b46c3f28d29f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Election 2020 Today: Barrett hearings, Trump's road trek"
     excerpt: "Supreme Court nominee Amy Coney Barrett returns to Capitol Hill for a third day of confirmation hearings by the Senate Judiciary Committee"
     publishedDateTime: 2020-10-14T13:55:00Z
@@ -2694,17 +2756,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "After Trump's COVID-19 diagnosis, Biden says masks not about being a 'tough guy'"
-    excerpt: "Democratic presidential nominee Joe Biden said on Friday that President Donald Trump's coronavirus diagnosis shows the importance of taking the pandemic seriously, telling Americans that wearing masks is more important than being a \"tough guy."
-    publishedDateTime: 2020-10-03T05:58:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-biden-int-idUSKBN26N2XX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2XX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2XX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 115
   - title: "Joe Biden blames Trump's 'lies and incompetence' for coronavirus death toll – video"
     excerpt: "Due to Donald Trump’s lies and incompetence over the last six months, we have seen one of the greatest losses in American history’"
     publishedDateTime: 2020-09-21T22:18:00Z
@@ -3189,6 +3240,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/democrat-joe-biden-goes-into-his-first-debate.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Joe Biden releases 2019 taxes as pre-debate contrast with Donald Trump"
+    excerpt: "Democratic presidential nominee Joe Biden paid nearly $288,000 in federal income taxes last year, according to returns he released just hours before his Tuesday night debate with President Donald"
+    publishedDateTime: 2020-09-29T21:29:00Z
+    webUrl: "https://www.denverpost.com/2020/09/29/biden-releases-2019-taxes/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/29/biden-releases-2019-taxes/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/29/biden-releases-2019-taxes/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_63112-1.jpg?w=1024&h=684"
+        width: 1024
+        height: 684
         isCached: true
   - title: "Joe Biden to blustering Donald Trump at debate: ‘Will you shut up, man’"
     excerpt: "Trump hijacked this debate, but it doesn’t mean he won it.  Olivier Douliery/Pool vi AP President Donald Trump brought his bullying and interrupting act to the first presidential debate, overwhelming rival Joe Biden and moderator Chris Wallace so much that a disgusted Biden said at one point,"
@@ -3765,6 +3832,22 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2020/09/Trump_76125-1.jpg?w=1024&h=684"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Joe Biden wishes President Trump, Melania Trump a speedy recovery after testing positive for COVID"
+    excerpt: "Democratic presidential nominee Joe Biden took to Twitter Friday morning to wish President Donald Trump and First Lady Melania Trump good health."
+    publishedDateTime: 2020-10-02T13:18:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-wishes-president-trump-melania-trump-a-speedy-recovery-after-testing-positive-for-covid.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-wishes-president-trump-melania-trump-a-speedy-recovery-after-testing-positive-for-covid.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-wishes-president-trump-melania-trump-a-speedy-recovery-after-testing-positive-for-covid.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 76
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2BFWS67RLBDCFFICHFZIRV75KI.jpg"
+        width: 4584
+        height: 3060
         isCached: true
   - title: "Joe Biden makes push for voters on National Black Voter Day"
     excerpt: "Joe Biden’s campaign unveiled a series of nationwide digital events Friday targeting Black voters in swing states."

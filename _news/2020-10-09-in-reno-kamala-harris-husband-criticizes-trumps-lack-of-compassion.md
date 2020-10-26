@@ -2284,6 +2284,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump won't do next debate after it goes virtual; Biden schedules solo town hall in its place"
+    excerpt: "WASHINGTON – President Donald Trump said Thursday he would not take part in the next presidential debate with former Vice President Joe Biden after it was moved to a virtual format because of ..."
+    publishedDateTime: 2020-10-08T12:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/next-presidential-debate-held-remotely-due-trumps-covid-19/5920908002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5920908002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5920908002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "A Joe Biden presidency would repair most of the damage Trump has done to America's historic alliance with Europe"
     excerpt: "President Trump's America First policy has done serious damage to the United States' longstanding alliances."
     publishedDateTime: 2020-10-10T10:58:00Z
@@ -4671,6 +4687,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/46/06/20079020/29/375x250.jpg"
         width: 375
         height: 249
+        isCached: true
+  - title: "Trump Won’t Debate Unless There’s a Risk of Infecting Biden"
+    excerpt: "But not Donald Trump. On Thursday morning, less than an hour after the Commission on Presidential Debates announced that his October 15 event with Joe Biden would be virtual, Trump staged a tantrum."
+    publishedDateTime: 2020-10-09T01:11:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/10/donald-trump-pulls-out-of-debate-with-joe-biden.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/10/donald-trump-pulls-out-of-debate-with-joe-biden.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/donald-trump-pulls-out-of-debate-with-joe-biden.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/445/6ee/b30c8b9c8a833f2aa26c34f7d0fb979520-trump-removing-mask-white-house.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
   - title: "Vice Presidential debate: What to know about Mike Pence as he spars with Sen. Kamala Harris"
     excerpt: "Vice President Mike Pence takes to the debate stage Wednesday night against Sen. Kamala Harris, in the first and only vice presidential debate of this election. The debate comes as President Donald Trump continues to recover from the novel coronavirus at the White House."

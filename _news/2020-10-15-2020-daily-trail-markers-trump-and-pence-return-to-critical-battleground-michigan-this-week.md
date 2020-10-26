@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
 type: article
 quality: 129
-heat: 469
+heat: 489
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
       - url: "https://i.insider.com/5f76599c74fe5b0018a8e9e0?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "VP Mike Pence, Donald Trump Jr. to campaign in Michigan this week"
+    excerpt: "Vice President Mike Pence and Donald Trump Jr. will both be campaigning in Michigan on Thursday, Oct. 22. Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township."
+    publishedDateTime: 2020-10-21T02:54:00Z
+    webUrl: "https://www.ksdk.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    ampWebUrl: "https://www.ksdk.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    type: article
+    provider:
+      name: KSDK
+      domain: ksdk.com
+    quality: 90
+    images:
+      - url: "https://media.ksdk.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "VP Mike Pence to campaign in Michigan again this week"
     excerpt: "Vice President Mike Pence will be making a campaign stop in Michigan this week, following a rally in Grand Rapids last Wednesday. This time, Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township on Thursday,"

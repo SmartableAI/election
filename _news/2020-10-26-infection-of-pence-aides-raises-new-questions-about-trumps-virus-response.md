@@ -32,19 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Inside Melania Trump's unprecedented campaign trail absence"
-    excerpt: "First lady Melania Trump -- in a historic break from precedent -- has yet to set foot on the campaign trail this year even as her husband, President Donald Trump, fights for votes, especially among suburban White women with whom she could hold appeal.\n    \n"
-    publishedDateTime: 2020-10-21T19:31:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RINuL4HzoFk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
+  - title: "White House admission on pandemic overshadows Trump's last push for reelection"
+    excerpt: "A stunning White House claim that the US cannot control the fast-worsening pandemic is overshadowing President Donald Trump's frantic last-ditch bid to turn around his reelection race with Democrat Joe Biden with eight days to go.\n    \n"
+    publishedDateTime: 2020-10-26T04:42:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LMcEuOsTz8M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/election-2020-donald-trump-joe-biden-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/election-2020-donald-trump-joe-biden-pandemic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025114911-01-trump-lumberton-nc-rally-1024-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "An 'angry' Trump enters final debate as advisers hope for some chill"
+    excerpt: "After his abrasive debate performance in September, President Donald Trump walked off stage believing he had won. It was only in the ensuing hours, as he watched clips of his constant interruptions and irate demeanor play on television, that he recognized how poorly his conduct came across.\n    \n"
+    publishedDateTime: 2020-10-22T00:00:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KP2UhXlOuEk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190604162208-01-melania-trump-0603-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021160110-01-donald-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: How Trump is dragging down fellow Republicans"
+    excerpt: "President Donald Trump's struggles in the polls have been well documented. He entered the final debate down about 10 points to former Vice President Joe Biden and trailed in key swing states.\n    \n"
+    publishedDateTime: 2020-10-24T12:42:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zVyvuYrIgys/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/trump-republicans-down-ballot-races-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/trump-republicans-down-ballot-races-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022214220-09-debate-nashville-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Hear Trump speak after voting in person in Florida"
+    excerpt: "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n"
+    publishedDateTime: 2020-10-24T15:11:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,35 +112,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Melania Trump renews focus on ex-friend with essay railing against 'pettiness'"
-    excerpt: "First lady Melania Trump penned an essay on the White House website on Friday that railed against what she described as the \"pettiness\" of the media and ex-friend and former adviser Stephanie Winston Wolkoff.\n    \n"
-    publishedDateTime: 2020-10-16T15:37:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MFLVF8aOKt8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/melania-trump-stephanie-winston-wolkoff-white-house-essay/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/melania-trump-stephanie-winston-wolkoff-white-house-essay/index.html"
+  - title: "Analysis: Why Trump could face a Jimmy Carter scenario"
+    excerpt: "The last president facing re-election troubles like Donald Trump's was Jimmy Carter in 1980. Injured by recession and impotent against a national crisis, Carter lost big.\n    \n"
+    publishedDateTime: 2020-10-25T12:33:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fg_0rk7-oS4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/election-2020-trump-carter-scenario/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/election-2020-trump-carter-scenario/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002001026-melania-trump-file-september-14-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023041158-donald-trump-1020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Feds chased suspected foreign link to Trump's 2016 campaign cash for three years"
-    excerpt: "For more than three years, federal prosecutors investigated whether money flowing through an Egyptian state-owned bank could have backed millions of dollars Donald Trump donated to his own campaign days before he won the 2016 election, multiple sources familiar with the investigation told CNN.\n    \n"
-    publishedDateTime: 2020-10-14T21:39:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9T-O-K-ifQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html"
+  - title: "Trump is playing up China's threat to the 2020 election. But the evidence shows, Russia is the real danger"
+    excerpt: "For months, the Trump administration has been warning of the dangers of political interference by China in the US election.\n    \n"
+    publishedDateTime: 2020-10-24T01:17:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLMzvjEUR0M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/china-russia-trolls-trump-election-hnk-dst-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/china-russia-trolls-trump-election-hnk-dst-intl/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014123055-20201014-trump-mueller-investigation-campaign-donation-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021182050-20201021-us-election-china-russia-interference-illo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Member of debate commission rebukes Trump and says President's attacks are 'just wrong'"
+    excerpt: "A member of the Commission on Presidential Debates said President Donald Trump's attacks on the commission are \"just wrong,\" a rare rebuke coming from a member of an organization that strives to stay neutral.\n    \n"
+    publishedDateTime: 2020-10-21T14:45:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kfzzLd4sbt4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/debate-commissioner-john-danforth-trump-attacks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/debate-commissioner-john-danforth-trump-attacks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930151257-02-commission-on-presidential-debates-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,19 +176,99 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Donald Trump is doing the exact opposite of what he should in the last days of 2020 campaign"
-    excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better.\n    \n"
-    publishedDateTime: 2020-10-14T17:16:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlqUqf8tZW4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
+  - title: "Trump didn't order declassification of Russia docs despite tweets to the contrary, Meadows says"
+    excerpt: "President Donald Trump told White House chief of staff Mark Meadows his tweets about declassifying all Russia documents weren't an order to declassify or release those records, according to a sworn statement filed in court on Tuesday.\n    \n"
+    publishedDateTime: 2020-10-20T16:34:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q2fucv-QSMo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/meadows-trump-twitter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/meadows-trump-twitter/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002104736-mark-meadows-1002-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "NYC and other cities to take legal action against Trump administration's 'anarchy' designation"
+    excerpt: "New York City plans to file a joint complaint Thursday challenging the Trump administration's designation of Democratic-led cities as \"anarchist\" jurisdictions in hopes of blocking the President's threat to withhold federal funding, according to the city's top lawyer.\n    \n"
+    publishedDateTime: 2020-10-22T16:49:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ouwWXPTyN4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/nyc-trump-administration-complaint-anarchy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/nyc-trump-administration-complaint-anarchy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/151207083912-bill-de-blasio-donald-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Washington Post: Trump privately said to donors it will be 'tough' for Republicans to keep Senate "
+    excerpt: "President Donald Trump made a prediction about the GOP's control of the Senate at a fundraiser this week, privately telling donors that it will be \"very tough\" for Republicans to keep control of the chamber in the upcoming election, namely because Trump refuses to support some senators, The Washington"
+    publishedDateTime: 2020-10-24T22:59:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AnGtB_FwIdQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/trump-republicans-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/trump-republicans-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021160110-01-donald-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "If Trump loses the election, QAnon will also lose support — and eventually disintegrate"
+    excerpt: "When cult adherents get confused, then ashamed, then realize they’ve been scammed, they get angry and exit. People are not permanently programmed."
+    publishedDateTime: 2020-10-24T08:32:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/if-trump-loses-election-qanon-will-also-lose-support-eventually-ncna1244563"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244563"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244563"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422199/201022-think-qanon-main-cover-cs_db7621aa3719c3f5f6543624f46421d8.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Whitmer to Trump: Talk about the pandemic, not me"
+    excerpt: "Every moment that we are not focused on the fact that there are 220,000 Americans who died from this virus is good for him,” she said."
+    publishedDateTime: 2020-10-18T15:51:00Z
+    webUrl: "https://www.politico.com/news/2020/10/18/whitmer-trump-rhetoric-coronavirus-430062"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/18/whitmer-trump-rhetoric-coronavirus-430062"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/18/whitmer-trump-rhetoric-coronavirus-430062"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/1e/90/373e77a340a0b53efa330620dc46/20201018-gretchenwhitmer-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump's despicable rants against Whitmer"
+    excerpt: "Dean Obeidallah writes that Donald Trump's continued attacks on Michigan Governor Gretchen Whitmer -- the target of an alleged rightwing kidnap plot -- shows that he makes up for his of compassion and empathy with cruelty and vindictiveness."
+    publishedDateTime: 2020-10-18T23:43:00Z
+    webUrl: "https://www.cnn.com/2020/10/18/opinions/trump-despicable-rants-whitmer-obeidallah/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/opinions/trump-despicable-rants-whitmer-obeidallah/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/opinions/trump-despicable-rants-whitmer-obeidallah/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009162352-whitmer-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -208,35 +352,51 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump campaign spokesperson claims parents of separated children don't want them back"
-    excerpt: "Multiple media outlets reported this week that the federal government remains unable to find the parents of more than 500 children who were separated from their families."
-    publishedDateTime: 2020-10-23T16:59:00Z
-    webUrl: "https://www.politico.com/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
+  - title: "Trump Tried to Blur Responsibility for His Family Separation Policy in Final Debate"
+    excerpt: "President Trump repeatedly hurled the phrase “They built the cages” at his debate opponent Thursday, but separating children from parents was a policy all his own."
+    publishedDateTime: 2020-10-23T23:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-child-separation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-child-separation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/us/politics/trump-child-separation.amp.html"
     type: article
     provider:
-      name: YAHOO!
-      domain: politico.com
-    quality: 128
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
     images:
-      - url: "https://static.politico.com/94/b2/7e105d334425912d7ec299f03499/ap18205813712792-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/10/23/us/politics/23dc-immig-1/merlin_170399304_c643ceba-6ed3-4880-a096-cc0d4642bcf6-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "Trump campaign's 2020 shot-for-shot remake of 2016 is flopping hard"
-    excerpt: "Trump's attempts to manufacture the wild moments that led to his victory four years ago are keeping the sequel from catching on with audiences."
-    publishedDateTime: 2020-10-20T09:14:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/opinion/trump-campaign-s-2020-shot-shot-remake-2016-flopping-hard-ncna1243955"
+  - title: "Trump's tweet on 'total' declassification of Russia docs not an order, White House tells judge"
+    excerpt: "The White House chief of staff told the judge to ignore Trump's tweet saying he had authorized the declassification of 'any & all documents' relating to the Russia probe."
+    publishedDateTime: 2020-10-20T18:42:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-s-tweet-total-declassification-russia-docs-not-order-white-n1244022"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244022"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244022"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421533/201020-mark-meadows-jm-1223_4f352f1cd014dfe5fff1f27e1f61d38d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Meadows to judge: Trump didn’t promise more declassification"
+    excerpt: "The judge is asking whether Trump's tweets undercut the government’s decision to withhold portions of special counsel Robert Mueller’s final report."
+    publishedDateTime: 2020-10-20T17:27:00Z
+    webUrl: "https://www.politico.com/news/2020/10/20/mark-meadows-trump-declassification-russia-430316"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 115
     images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_43/3421330/201019-trump-campaign-rally-cs-413p_39a8ae7346ff9df90a548d4d6702e2f0.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.politico.com/f6/2e/94ee4663486987e420e2c085e492/201020-mark-meadows-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump seeds the ground for possible loss with personal attacks"
     excerpt: "It’s a change from 2016, where Trump presented himself as an outsider eager to disrupt the entire establishment. Now, he’s the president."
@@ -252,34 +412,16 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump Needed a Big Break. His Fox News Brain Got in the Way."
-    excerpt: "There’s no way to spin it. Trump’s in trouble. But Thursday night’s debate didn’t appear to give him the lifeline he needed."
-    publishedDateTime: 2020-10-23T03:36:00Z
-    webUrl: "https://www.thedailybeast.com/trump-tripped-up-by-his-fox-news-brain-at-the-second-presidential-debate"
+  - title: "Trump Finally Slaps Google, and Protects Democracy"
+    excerpt: "His motives may not be pure and his timing is suspect, but applaud the president for trying to cut one of our monopolistic and anti-democratic tech giants down to size."
+    publishedDateTime: 2020-10-20T21:02:00Z
+    webUrl: "https://www.thedailybeast.com/trump-finally-slaps-google-with-anti-trust-suit-and-protects-democracy"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
-  - title: "The Trump Campaign Is Mysteriously Sending Money Back and Forth to State Parties"
-    excerpt: "The president, like Joe Biden, is taking advantage of loopholes in campaign finance laws to score huge checks. From there, however, the money trail gets bizarre."
-    publishedDateTime: 2020-10-22T09:02:00Z
-    webUrl: "https://www.thedailybeast.com/the-trump-campaign-is-mysteriously-sending-money-back-and-forth-to-state-parties"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 40
-  - title: "Trump Said He'd Ban Foreign Lobbyist Fundraising. Now They’re Bankrolling His Campaign."
-    excerpt: "Lobbyists representing foreign governments have bundled nearly 2 million dollars for the president’s re-elect."
-    publishedDateTime: 2020-10-20T08:42:00Z
-    webUrl: "https://www.thedailybeast.com/trump-said-hed-ban-foreign-lobbyist-fundraising-now-theyre-bankrolling-his-campaign"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
 
-secured: "sBDLjr/z2zBQUykhY2UqNlQGUhDHbn0b0cOBu3b9ph9OkQEMXmKnIET2oxjPTMq4995s7aMZYJEbulxlUF3+ivR+hW/OK3ZfsHmq8aF2cJoB/5297HEf5+ZX95RmlkproM7CLLrqpBqPU0LhH2otHbqdv4W1qOtgQrQ2ADCMXVsCiKq+gjHA7G20concU3ssW8zHCTsLjEIF+xGCT8eIxHJOPfOmr5woVSnv2/aTwJdPnEODQsKKbZKyybEJHvweIwRmaG69iF4XtKIfTibMvDO4cUczYGpA0op+8mGVFaZ1bx2uCsdu7LUrq0R0uvSUS/QhoiCAC37n7W+/uL7hQwIrLuM94ONvuDaZYY1NVfM=;Mb3xibg+CYtGM6/2Fl0g8g=="
+secured: "nLTiCUtEqy6d2fk0lH2crW8dFXBBC1BJi83fxpO2qpTHKyjR47GibgfieRaWvl/iE8qhSfc3Fh6YomqaYbOLscXQHbzyOISlNgSrKkixDx6a7HTF+kHrAjSoSDFME1/Kf+LxbonXqnUKQtHZud2PlmZTttd1Kv7G8UE/0g4ty8hKu2NaJ0o/TQKNN9tnFqVng9qd9IWfvKbNQiJx3+EUyy6oWu4+JSJgSCB0FlyeF2FTUFh78gYDf0Qm7QuG4uDL/ZRJ3ntMP3xp1UY7XVRQZ7PtwxwqZY03Q/GfU7cr9EjjTFj1ePe/9n6t3+IyXZVEF2m/nmHF4qIbjVrNhbq2Ahqjr6XitSdq6IRBjA4MCmurcDzL+sJlQcplLQukA2FfqYHViMU0I0lb87uEMZf3nwhsWvqsyN8Fn6uwrofg2R5Kv+u3KYE5qDhL21HvpfMhPG1yVWhLi9YDzE17NY1gpzrFEESB/53TMY++OfDpQLVw+Ll+MfLaNo8gZiwNevjswnF3Ra/uRPi+GaP4lbFhSQ==;QYmpdvB1OU5BG7KlDNGv3w=="
 ---
 

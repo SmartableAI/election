@@ -62,22 +62,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump, Biden banking on job recovery plans to win election bid"
-    excerpt: "As the United States hits the home stretch toward Election Day, the biggest hot-button issue among voters is jobs and the economy. Both President Trump and former Vice President Joe Biden have put their recovery plans at the forefront of their respective campaigns. Both candidates say that they know"
-    publishedDateTime: 2020-10-23T21:40:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c_XN5DeSKhI/trump-biden-bank-on-job-recovery-plan-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-bank-on-job-recovery-plan-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-bank-on-job-recovery-plan-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 205
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/perry_chiaramonte_aem-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Live updates: Trump, Biden to meet in final presidential debate before election"
     excerpt: "The new debate format follows the first presidential debate, which was marred by Trump speaking over Democratic nominee Joe Biden and insulting his intelligence while Biden told Trump to “shut up” and called him a “clown.”"
     publishedDateTime: 2020-10-22T07:37:22Z
@@ -2551,17 +2535,6 @@ related:
         width: 1620
         height: 1214
         isCached: true
-  - title: "Biden accidentally refers to Harris-Biden administration"
-    excerpt: "Democratic presidential nominee Joe Biden mistakenly promoted running mate Kamala Harris, elevating her to the top of their ticket."
-    publishedDateTime: 2020-09-22T10:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
   - title: "Mark Levin Invites Joe Biden on His Show"
     excerpt: "Best selling author, constitutional scholar and conservative talk radio show host Mark Levin has invited former Vice President Joe Biden on his weekly Fox News program.  I am publicly inviting"
     publishedDateTime: 2020-09-21T19:00:00Z

@@ -61,6 +61,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Blackburn: Voters leaning toward Trump in hope of return to 'normalcy' amid coronavirus pandemic"
+    excerpt: "Voters have faith that President Trump will ensure recovery amid the coronavirus pandemic, as the election sees mail-in balloting numbers reaching historic highs, Sen. Marsha Blackburn, R-Tenn., told “Fox & Friends Weekend."
+    publishedDateTime: 2020-10-26T02:23:00Z
+    webUrl: "https://www.foxnews.com/politics/blackburn-voters-leaning-trump-return-to-normalcy-coronavirus"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 102
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20288801557897.jpg"
+        width: 4000
+        height: 2250
+        isCached: true
 
 secured: "iJo0u/05t8LeM81GwdJu/DOi6ZTI9AtzGHixNZ/ZRS+ZimJ1UX5mWoYqPUdvwaT1VxJ4Jv08a7pyKrJDOOh3PPX0F6j52yMQ8I1hPXe3IXDg7E3QnCaDAx3B4ri9kSyf2C4z95GIzbItJuVu1wMP9K2jyfyyQNkvUsRIp77hRrxHcRxapMw1ZqvQ4y42z2idTZKIUXldx4DOb9UhQTTFmmbf0XiEOKzCJYd4Ul6h+9UXBOti1ixtyC7hJn8plYfp4h6EoDZZMWmuxW3pSAdQUTQQ7bcR5YWgIZ2zXhtgqr8SlEgpsDNP665kvhbo95iTj4e2fQAf5Qs4WcXHqrDUIm6HyrLx/frtWorUvePpc0s=;0aW4l0m9j4vzN7Py0dhKSA=="
 ---

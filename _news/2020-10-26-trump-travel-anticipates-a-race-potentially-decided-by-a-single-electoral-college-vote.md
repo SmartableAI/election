@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244706"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244706"
 type: article
 quality: 127
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: NBC News
@@ -30,24 +30,6 @@ images:
     width: 2500
     height: 1628
     isCached: true
-
-related:
-  - title: "If Trump loses the election, QAnon will also lose support — and eventually disintegrate"
-    excerpt: "When cult adherents get confused, then ashamed, then realize they’ve been scammed, they get angry and exit. People are not permanently programmed."
-    publishedDateTime: 2020-10-24T08:32:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/if-trump-loses-election-qanon-will-also-lose-support-eventually-ncna1244563"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244563"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244563"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 142
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422199/201022-think-qanon-main-cover-cs_db7621aa3719c3f5f6543624f46421d8.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
 
 secured: "iAmCKU+huOIsoWix7sek6huodnAa+duwgiL+PXLDBmufQfP+UZh1Ya0muIb2vV9j0/4SZM3UrkPrszPp63kZNNP3ntLBTLdRKOjM+2SWN4qaAPDs0vcdMXOX15jZJUuohxuP+bo4nmHCmN3N8EUHurdsevULxRnCPU+tdz/nA4ZSeZh+f8qeN49dPBACz8+nIuvH0/RHgtDDwY0ODL0jzwip9A0FgTJ59LIkJU/CWv3ydY2hm97ECa9wwOq41k2JZO9atfke1e50JqDQ1eAJmPALuigGzy/+0ePtrFUCDWEG8bNH5X+LVlAti0/vLVLN9SA2wuc4QXlbfcLhIic1YQSdhGEKHZa7BYcrkJi65Yk=;ALoKA5Bqi8m46hLamse34w=="
 ---

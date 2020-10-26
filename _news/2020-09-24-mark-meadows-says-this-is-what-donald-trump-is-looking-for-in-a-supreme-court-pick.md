@@ -489,17 +489,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Joe Biden disavows New Green Deal co-sponsored by Kamala Harris"
-    excerpt: "Democratic nominee Joe Biden needs to have a sit-down with his running mate, Sen. Kamala Harris of California."
-    publishedDateTime: 2020-09-30T03:55:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 80
   - title: "Uh, So What's With This Wife Beater Bail Out Fund Kamala Harris Promoted For Months"
     excerpt: "Well, I don’t know how much of an impact this is going to have, but it appears Kamala Harris might have a wife beater problem. The Daily Caller News Foundation"
     publishedDateTime: 2020-09-23T10:00:00Z

@@ -32,68 +32,166 @@ images:
     isCached: true
 
 related:
-  - title: "An 'angry' Trump enters final debate as advisers hope for some chill"
-    excerpt: "After his abrasive debate performance in September, President Donald Trump walked off stage believing he had won. It was only in the ensuing hours, as he watched clips of his constant interruptions and irate demeanor play on television, that he recognized how poorly his conduct came across.\n    \n"
-    publishedDateTime: 2020-10-22T00:00:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KP2UhXlOuEk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html"
+  - title: "Fact-checking the dangerous bin Laden conspiracy theory that Trump touted"
+    excerpt: "President Donald Trump is no stranger to conspiracy theories. Before Trump was even elected, he spent years pushing birther lies about President Barack Obama, the first Black president of the United States.\n    \n"
+    publishedDateTime: 2020-10-15T19:28:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x28x7rqW1Mg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021160110-01-donald-trump-0929-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015070220-02-donald-trump-iowa-1014-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump dials back his anger, but his debate performance doesn't change the facts"
-    excerpt: "Everybody showed up for a brawl Thursday night and a debate broke out.\n    \n"
-    publishedDateTime: 2020-10-23T10:42:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XXNm3OM9V2k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
+  - title: "Trump's pursuit of coronavirus vaccine comes at the expense of therapies he now claims as a 'cure'"
+    excerpt: "When President Donald Trump huddled with vaccine makers last spring, the CEO of Regeneron -- who landed an audience with the President after a private call to a well-placed White House adviser -- made the most of the chance to plug his company's coronavirus treatment.\n    \n"
+    publishedDateTime: 2020-10-16T15:13:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mR48M6o2_fA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022224516-25-debate-nashville-1022-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015154516-102-trump-lead-image-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Tried to Blur Responsibility for His Family Separation Policy in Final Debate"
-    excerpt: "President Trump repeatedly hurled the phrase “They built the cages” at his debate opponent Thursday, but separating children from parents was a policy all his own."
-    publishedDateTime: 2020-10-23T23:27:00Z
-    webUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-child-separation.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-child-separation.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/us/politics/trump-child-separation.amp.html"
+  - title: "Former White House chief of staff tells friends that Trump 'is the most flawed person' he's ever met"
+    excerpt: "Former White House chief of staff, retired Marine Gen. John Kelly, has told friends that President Donald Trump \"is the most flawed person\" he's ever known.\n    \n"
+    publishedDateTime: 2020-10-16T21:32:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ua2gZFL8SKA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131818-trump-john-kelly-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Digging into Trump's false claim that CDC found that 85% of people who wear masks get the coronavirus"
+    excerpt: "President Donald Trump made a dramatic claim about Covid-19 in an interview, at a campaign rally and in his televised town hall on NBC Thursday night.\n    \n"
+    publishedDateTime: 2020-10-16T16:22:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XzJlXOo_ZGg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/fact-check-trump-cdc-masks-85-percent/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/fact-check-trump-cdc-masks-85-percent/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015203057-04-trump-town-hall-1015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Trump's dishonest weekend: The President made at least 66 false or misleading claims in three days"
+    excerpt: "President Donald Trump's dishonesty is getting worse.\n    \n"
+    publishedDateTime: 2020-10-19T21:40:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K2H5w7bD2Fs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/fact-check-trump-dishonest-weekend-florida-michigan-georgia-wisconsin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/fact-check-trump-dishonest-weekend-florida-michigan-georgia-wisconsin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018154650-06-donald-trump-1017-wisconsin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Thinks His Supporters Are ‘Disgusting.’ Do They Care?"
+    excerpt: "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change."
+    publishedDateTime: 2020-10-10T15:05:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 129
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/23/us/politics/23dc-immig-1/merlin_170399304_c643ceba-6ed3-4880-a096-cc0d4642bcf6-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg"
         width: 1050
-        height: 549
+        height: 550
         isCached: true
-  - title: "Trump tells journalist he's 'a criminal' for ignoring story Trump likes"
-    excerpt: "Trump believes journalists are \"criminals\" unless they report discredited allegations that may be part of a hostile foreign influence operation."
-    publishedDateTime: 2020-10-24T19:47:00Z
-    webUrl: "https://www.nbcnews.com/rachel-maddow-show/trump-tells-journalist-he-s-criminal-ignoring-story-trump-likes-n1244011"
+  - title: "Chuck Todd: “This path is more treacherous by the day for Donald Trump”"
+    excerpt: "To win re-election, Chuck Todd shows that President Trump would have to win in all four of the following close states: Arizona, Pennsylvania, North Carolina and Florida."
+    publishedDateTime: 2020-10-23T00:06:00Z
+    webUrl: "https://www.nbcnews.com/now/video/chuck-todd-this-path-is-more-treacherous-by-the-day-for-donald-trump-94442053697"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94442053697"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94442053697"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/ott_now_debate_trumppath_201022_1603413994454.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump's MAGA rally messaging is as erratic as he is. No wonder he's sinking in the polls."
+    excerpt: "Trump’s message this go around is, quite simply, as all over the place as Trump is. And it seems likely that this chaos is contributing to Trump trailing Democratic opponent Joe Biden nationally by 14 points in a recent NBC/WSJ poll."
+    publishedDateTime: 2020-10-15T10:12:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-maga-rally-messaging-erratic-he-no-wonder-he-ncna1243440"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1243440"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243440"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_bwms_suburban_201013_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump is eyeing another corporate tax cut (for the wrong reason)"
+    excerpt: "The problem is not just the fact that Trump is eyeing yet another corporate tax cut; the problem is also why he wants it."
+    publishedDateTime: 2020-10-16T18:24:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-eyeing-another-corporate-tax-cut-wrong-reason-ncna1243751"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 115
     images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_43/3421171/201019-donald-trump-mc-1316_52f5de8f365585da12f9105402dbdecd.nbcnews-fp-1200-630.JPG"
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_42/3420640/ss-201015-twip-09_8c7a2d780ff1265de9e5a51ce8401870.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Touts Falconer’s Benghazi Blood-Sacrifice Conspiracy Theory"
+    excerpt: "Trump’s endorsement of the insane story shot it to national prominence, fueling the bizarre allegations about blood sacrifice and Bin Laden body doubles."
+    publishedDateTime: 2020-10-13T23:30:00Z
+    webUrl: "https://www.thedailybeast.com/trump-touts-falconers-benghazi-blood-sacrifice-conspiracy-theory"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
+  - title: "CNN Anchor Shreds Fox News and Trump for Peddling ‘Bogus BS’ With ‘No Accountability’"
+    excerpt: "The president and his allies push and push conspiracy theories and misinformation. They repeat them ad nauseam so that millions of viewers just end up adopting it as fact.”"
+    publishedDateTime: 2020-10-15T18:51:00Z
+    webUrl: "https://www.thedailybeast.com/cnn-anchor-brianna-keilar-shreds-fox-news-and-trump-for-peddling-bogus-bs-with-no-accountability"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 38
 
 secured: "98CkW0S9A8Kdw3x9462NBCqBrQVuH4XDKUBLqRF/HllRg4Zw+6We8EeNCEQDmUIfRgRKRmpaVTjlEyan4nEQfKZ0SHD+2hfHzVwZyhJaoF+sPZxQZks1tZ2nWFy9wgHNtsWdkkQiva1FWo1NNZRcduMXc+SFTqijhZMcpgRjvxfTennJga3DeItYK+GpPloc+qtC9kVpRiKs8CS7/8/+d68aT4aoYU9YFV7ohPiGdHeG6UqjdV1331JiJnwozD86XN8xl2bSzblgER1ialfrcV6n3g+PXVQWOnwHSRrL5WTDU64Dm4JkaCOAtUzXwnepbOxnY31E0K3p1dDO4U+XYGPtC9yXSZx7SsgNdAbEcPo=;TAdUkmULOvMk4+oVPzyrgQ=="
 ---

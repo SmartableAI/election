@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/new-start-us-russia-comm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/new-start-us-russia-comments/index.html"
 type: article
 quality: 181
-heat: 781
+heat: 721
 published: true
 
 provider:
@@ -223,22 +223,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump didn't order declassification of Russia docs despite tweets to the contrary, Meadows says"
-    excerpt: "President Donald Trump told White House chief of staff Mark Meadows his tweets about declassifying all Russia documents weren't an order to declassify or release those records, according to a sworn statement filed in court on Tuesday.\n    \n"
-    publishedDateTime: 2020-10-20T16:34:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q2fucv-QSMo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/meadows-trump-twitter/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/meadows-trump-twitter/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002104736-mark-meadows-1002-screengrab-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Columnist who has accused Trump of sexual assault seeks to block DOJ intervention in defamation case"
     excerpt: "Lawyers for E. Jean Carroll, the magazine columnist who has accused President Donald Trump of sexually assaulting her in the 1990s, asked a judge to block the Department of Justice from intervening in her defamation lawsuit against the President, saying to allow it would \"distort the law.\"\n    \n"
     publishedDateTime: 2020-10-06T12:20:03Z
@@ -367,22 +351,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump's tweet on 'total' declassification of Russia docs not an order, White House tells judge"
-    excerpt: "The White House chief of staff told the judge to ignore Trump's tweet saying he had authorized the declassification of 'any & all documents' relating to the Russia probe."
-    publishedDateTime: 2020-10-20T18:42:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-s-tweet-total-declassification-russia-docs-not-order-white-n1244022"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244022"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244022"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 123
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421533/201020-mark-meadows-jm-1223_4f352f1cd014dfe5fff1f27e1f61d38d.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Hoping to shore up support, Trump directs more money to farmers"
     excerpt: "The more Donald Trump worries about losing, the more he sends taxpayer money to farmers hurt by his policies and failures."
     publishedDateTime: 2020-10-13T12:57:00Z
@@ -466,20 +434,6 @@ related:
       - url: "https://static.politico.com/6f/6b/450ab4c247e99ea4652931aa3956/gettyimages-1228400613.jpg"
         width: 700
         height: 467
-        isCached: true
-  - title: "Meadows to judge: Trump didn’t promise more declassification"
-    excerpt: "The judge is asking whether Trump's tweets undercut the government’s decision to withhold portions of special counsel Robert Mueller’s final report."
-    publishedDateTime: 2020-10-20T17:27:00Z
-    webUrl: "https://www.politico.com/news/2020/10/20/mark-meadows-trump-declassification-russia-430316"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/f6/2e/94ee4663486987e420e2c085e492/201020-mark-meadows-gty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Team Trump Admits Its ‘Russiagate’ Head Fake Has Been a Flop"
     excerpt: "Loyalists like Director of National Intelligence John Ratcliffe are trying to craft a counter-narrative. But the country isn’t in the mood for the tale."

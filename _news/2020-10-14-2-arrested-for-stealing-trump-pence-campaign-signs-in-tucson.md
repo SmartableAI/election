@@ -668,37 +668,21 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Every Celebrity to Speak Out in Support of Donald Trump"
-    excerpt: "This week actress Kirstie Alley faced intense backlash when she voiced her support for Trump and tweeted about her intentions to vote for the Republican on November 3. Here are the president's other famous supporters."
-    publishedDateTime: 2020-10-19T16:29:00Z
-    webUrl: "https://www.newsweek.com/trump-celebrity-supporters-kirstie-alley-2020-election-1540320"
-    ampWebUrl: "https://www.newsweek.com/trump-celebrity-supporters-kirstie-alley-2020-election-1540320?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-celebrity-supporters-kirstie-alley-2020-election-1540320?amp=1"
+  - title: "Supreme Court To Decide Trump Border Wall Funding Case"
+    excerpt: "The U.S. Supreme Court will hear a case this term regarding whether President Donald Trump can build his border wall using diverted military funds that were not appropriated by Congress, the court announced Monday,"
+    publishedDateTime: 2020-10-19T15:33:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/19/supreme-court-to-decide-trump-border-wall-funding-case/"
+    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/19/supreme-court-to-decide-trump-border-wall-funding-case/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/19/supreme-court-to-decide-trump-border-wall-funding-case/amp/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Forbes
+      domain: forbes.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1654848/kirstie-alley.jpg"
-        width: 2500
-        height: 1671
-        isCached: true
-  - title: "2020 Watch: Debate a chance for Trump to generate momentum"
-    excerpt: "President Donald Trump is openly contemplating the prospect of losing, while Democratic challenger Joe Biden is warning his supporters against overconfidence as the 2020 presidential election speeds i"
-    publishedDateTime: 2020-10-19T18:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e4fa8f48a4c14da3800f79b576156370_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8dae15f4004cf309a214cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5184%26cropY1%3D339%26cropY2%3D3255"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How Trump plowed through $1 billion, losing cash advantage"
     excerpt: "President Donald Trump’s sprawling political operation raised well over $1 billion since he took the White House in 2017 — and set a lot of it on fire"
@@ -1019,22 +1003,6 @@ related:
       - url: "https://i.insider.com/5f89b555d260780019341d29?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Democrats to boycott Senate panel vote on Trump Supreme Court pick, source says"
-    excerpt: "Democrats will boycott a U.S. Senate Judiciary Committee vote scheduled for Thursday on President Donald Trump's nomination of Amy Coney Barrett to the Supreme Court, a Senate Democratic aide said on Wednesday."
-    publishedDateTime: 2020-10-21T22:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN27635O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27635O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27635O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538372807&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1YA"
-        width: 817
-        height: 545
         isCached: true
   - title: "White House Says Republicans Will ‘Come Along With’ What Trump Wants On Stimulus"
     excerpt: "I believe Senate Republicans will ultimately come along with what the president wants,” White House Press Secretary Kayleigh McEnany said Monday."
@@ -2613,6 +2581,22 @@ related:
         width: 3591
         height: 2394
         isCached: true
+  - title: "Exasperated Trump aides looking for new jobs as the president ignores their campaign advice: report"
+    excerpt: "According to a report from the New York Times, aides to Donald Trump are getting a jump on looking for new jobs with an eye on the fact that the president is doing nothing to stop his slide in the polls in the waning days of his re-election campaign."
+    publishedDateTime: 2020-10-18T20:28:00Z
+    webUrl: "https://www.rawstory.com/2020/10/exasperated-trump-aides-looking-for-new-jobs-as-the-president-ignores-their-campaign-advice-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/exasperated-trump-aides-looking-for-new-jobs-as-the-president-ignores-their-campaign-advice-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/exasperated-trump-aides-looking-for-new-jobs-as-the-president-ignores-their-campaign-advice-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP.png"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Calls for Congress to impeach Bill Barr grow: DOJ now a \"vehicle\" to advance Trump's reelection"
     excerpt: "\"Barr appears to embrace an autocratic view of the power of the executive branch, specifically presidential power\""
     publishedDateTime: 2020-10-14T11:42:00Z
@@ -2877,19 +2861,19 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "A Look At Donald Trump's Record On Auto Jobs"
-    excerpt: "Trump railed against free trade agreements and boasted he would be able to strong-arm Detroit's \"Big Three\" to shift jobs from Mexico to the United States. But did he make good on those promises? The trend in US auto employment has mirrored the larger dynamic in manufacturing jobs,"
-    publishedDateTime: 2020-10-22T03:23:00Z
-    webUrl: "https://www.ibtimes.com/look-donald-trumps-record-auto-jobs-3066528"
+  - title: "U.S. President Donald Trump departs the White House"
+    excerpt: "Supporters of U.S. President Donald Trump look on as Marine One departs the White House in Washington, DC on Tuesday, October 2020. Trump is scheduled to host a campaign rally in Erie, Pennsylvania before returning to the White House tonight."
+    publishedDateTime: 2020-10-21T00:21:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/77c3dd9b4802714071a2ffefb827f287/US-President-Donald-Trump-departs-the-White-House/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: UPI.com
+      domain: upi.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/21/us-president-donald-trump-met-with-general-motors.jpg"
-        width: 1024
-        height: 730
+      - url: "https://cdnph.upi.com/pv/upi/77c3dd9b4802714071a2ffefb827f287/TRUMP-DEPARTS.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Wishing Donald Trump well: It's just another way of normalizing the regime"
     excerpt: "We're expected to wish Trump a full recovery just because he's the president. But he's done nothing to earn that"

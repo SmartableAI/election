@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-william-barr-act-hunter-biden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp"
 type: article
 quality: 180
-heat: 220
+heat: 240
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e21bc17-5c77-4fd8-8ff7-78461bebe7f4/80e892b7-3477-42a9-aed0-ebaeadcafe7a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ex-Hunter Biden associate's records don't show proof of Biden business relationship amid unanswered questions"
+    excerpt: "Hunter Biden's former business partner Tony Bobulinski claimed this week that former Vice President Joe Biden was allegedly involved in discussions about his son's business dealings, something the Democratic presidential nominee has repeatedly denied."
+    publishedDateTime: 2020-10-23T17:44:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7e1P0CqlCQ/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

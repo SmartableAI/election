@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-north-carolina-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp"
 type: article
 quality: 147
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/kamala-harris-Jonathan-Karl.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Kamala Harris calls Barrett hearings 'illegitimate process,' says Republicans 'doing great harm'"
+    excerpt: "Calif., on Wednesday described the Amy Coney Barrett confirmation hearings an “illegitimate process” hours after she had made similar claims during her grilling of the Supreme Court nominee earlier in the day."
+    publishedDateTime: 2020-10-15T13:41:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b27d54d-d1e8-49f4-8043-ff2b67b8a139/8bb45b05-f697-4419-8c4a-6adb8d684dc2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris engaged in nonessential travel, and now her communications director has COVID-19"
     excerpt: "Reinforcing the longstanding media narrative that Sen. Kamala Harris of California has not been taking the pandemic seriously by engaging in nonessential travel across state lines, her communications director has contracted the deadly coronavirus."

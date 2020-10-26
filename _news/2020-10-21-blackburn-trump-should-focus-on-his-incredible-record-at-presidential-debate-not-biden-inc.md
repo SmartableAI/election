@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-trump-biden-inc
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp"
 type: article
 quality: 177
-heat: 217
+heat: 237
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20288801557897.jpg"
+        width: 4000
+        height: 2250
+        isCached: true
+  - title: "Blackburn: Voters leaning toward Trump in hope of return to 'normalcy' amid coronavirus pandemic"
+    excerpt: "Voters have faith that President Trump will ensure recovery amid the coronavirus pandemic, as the election sees mail-in balloting numbers reaching historic highs, Sen. Marsha Blackburn, R-Tenn., told “Fox & Friends Weekend."
+    publishedDateTime: 2020-10-26T02:23:00Z
+    webUrl: "https://www.foxnews.com/politics/blackburn-voters-leaning-trump-return-to-normalcy-coronavirus"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 102
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20288801557897.jpg"
         width: 4000

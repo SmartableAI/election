@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hear Trump speak after voting in person in Florida"
-    excerpt: "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n"
-    publishedDateTime: 2020-10-24T15:11:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Obama in Florida: Trump's tough guy schtick is a fraud"
     excerpt: "Former President Barack Obama on Saturday laced into President Donald Trump, describing his successor as a thin-skinned bully whose true weakness was revealed when he walked off the set of a high profile interview this week after being faced with a few probing questions.\n    \n"
     publishedDateTime: 2020-10-25T01:53:18Z
@@ -62,19 +46,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump signs law designating 9-8-8 as universal number for national suicide hotline starting in 2022"
-    excerpt: "President Donald Trump on Saturday signed into a law a bipartisan bill that will make 9-8-8 the universal telephone number to reach the national suicide prevention hotline starting in 2022.\n    \n"
-    publishedDateTime: 2020-10-17T23:42:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4_MT-McEHSw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html"
+  - title: "The Point: The most important line in Barack Obama's takedown of Donald Trump"
+    excerpt: "Former President Barack Obama reemerged on the campaign trail Wednesday in Philadelphia, delivering an across-the-board indictment of his successor's first four years in office.\n    \n"
+    publishedDateTime: 2020-10-22T15:23:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zDAIVTa4uaA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/barack-obama-donald-trump-speech-philadelphia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/barack-obama-donald-trump-speech-philadelphia/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021194452-02-barack-obama-philadelphia-october-21-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

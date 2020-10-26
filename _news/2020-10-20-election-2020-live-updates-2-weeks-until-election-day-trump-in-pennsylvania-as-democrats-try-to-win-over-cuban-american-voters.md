@@ -95,22 +95,6 @@ related:
         width: 1440
         height: 962
         isCached: true
-  - title: "Voting across the US live updates: Joe Biden leads Donald Trump in Texas poll; New Hampshire can't ban armed voters; Facebook threat"
-    excerpt: "The latest in voting news, including Joe Biden leading Donald Trump in a new Texas poll and New Hampshire saying it can't keep armed voters away."
-    publishedDateTime: 2020-10-25T21:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/25/voting-2020-joe-biden-donald-trump-texas/3728764001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3728764001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3728764001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/1912c2b8-97e2-4eb4-a230-436baefc21e2-Dallas_line.jpg?auto=webp&crop=4819,2711,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Coronavirus updates: Feared surge is underway; masks can still save 63K lives; Trump missing from task force meetings, Fauci says"
     excerpt: "A long-predicted surge in COVID-19 cases and deaths has begun in the United States, but Americans aren't changing their behaviors. Latest COVID news."
     publishedDateTime: 2020-10-24T12:52:00Z
@@ -143,6 +127,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump, Pence, Obama All in Florida as Campaign Heats Up"
+    excerpt: "Battleground Florida was again a central focus of the presidential campaign Saturday as President Donald Trump, Vice President Mike Pence and former President Barack Obama all had high-profile events in the state."
+    publishedDateTime: 2020-10-24T21:08:00Z
+    webUrl: "https://www.usnews.com/news/best-states/florida/articles/2020-10-24/trump-pence-obama-all-in-florida-as-campaign-heats-up"
+    ampWebUrl: "https://www.usnews.com/news/best-states/florida/articles/2020-10-24/trump-pence-obama-all-in-florida-as-campaign-heats-up?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/florida/articles/2020-10-24/trump-pence-obama-all-in-florida-as-campaign-heats-up?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 80
 
 secured: "uf5+OoykZpBwTxXceBjYSxLiNSZ8jOlA3XNNbhEetzzv4lkfSktuNSdZ93csbRcFbxux8LTAorgPuSmeX3rQ2e7/NycyyzvFyMvPNNVrLwKf/L7DRjUpBLH1uaf+oMjH+TU48R+DHuQP2SF5s8lMlj2iZQKaRpeK0RX3XRsNAJCfOz65FXya0PS6vb4rQzB2qQDbSaH9O6W3Mtnl8I8TVW1WL3Z1dzpSLZOhfCW33oP5c4pBQfACTsZ6M/XH2NqIa3D3gHfas7avg5FKDYTERG7Qo0KOu3x/3+7ieiInuqMEFzXCyyNv3MIOBtgOXUaJvoXGW/b1ze0Sz/bfZMYqW43UbM1y7I94dnxLPqll2b0=;SgWsTLGMhmMZChCQlGLKXA=="
 ---

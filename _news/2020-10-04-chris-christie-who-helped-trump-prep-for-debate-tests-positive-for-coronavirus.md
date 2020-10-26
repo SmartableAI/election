@@ -1088,6 +1088,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump is getting increasingly desperate, sparking new fears for his health"
+    excerpt: "(CNN)President Donald Trump's increasing political desperation is raising concerns about his judgment following his aggressive Covid-19 treatment and as suspicion mounts that the White House is ..."
+    publishedDateTime: 2020-10-09T14:58:00Z
+    webUrl: "https://www.cnn.com/2020/10/09/politics/donald-trump-health-coronavirus-election-2020/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/donald-trump-health-coronavirus-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/donald-trump-health-coronavirus-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201008203155-marine-oval-office-thursday-1008-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Nightmare scenario': Trump campaign confronts daunting task of making up ground"
     excerpt: "The president's COVID-19 diagnosis pulls him off the re-election trail at the worst time and spotlights his handling of the virus."
     publishedDateTime: 2020-10-03T19:21:00Z

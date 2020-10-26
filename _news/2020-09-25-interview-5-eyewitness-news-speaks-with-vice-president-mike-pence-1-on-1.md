@@ -201,6 +201,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Mike Pence Abruptly Cancels Events to Return to DC"
+    excerpt: "Vice President Mike Pence suddenly canceled all of his scheduled speaking events in Indiana on October 9 in order to fly back to Washington D.C., according to Associated Press White House reporter ..."
+    publishedDateTime: 2020-10-09T01:59:00Z
+    webUrl: "https://heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/"
+    ampWebUrl: "https://heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/Pence.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
   - title: "Vice President Mike Pence to return to Des Moines for Family Leader event"
     excerpt: "The Oct. 1 event will be Pence's fifth visit to the state this year. Polling shows a tight presidential race between Donald Trump and Joe Biden."
     publishedDateTime: 2020-09-24T22:21:00Z
