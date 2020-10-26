@@ -221,22 +221,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trailer park residents say landlord threatened to double rent if Biden wins"
-    excerpt: "A Colorado trailer park's owner is accused of threatening tenants with sharp rent increases and other costs if President Trump does not win reelection."
-    publishedDateTime: 2020-10-22T17:04:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_10152020_gettyimages.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Republican senator faces backlash after mocking colleague Kamala Harris’ name"
     excerpt: "Sen. David Perdue purposefully butchered his colleague Sen. Kamala Harris' name at a Trump rally, drawing criticism. They've served together since 2017."
     publishedDateTime: 2020-10-17T02:33:00Z
@@ -282,6 +266,22 @@ related:
     quality: 119
     images:
       - url: "https://thehill.com/sites/default/files/bidenyardsign_092220getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden denies unethical behavior involving his son Hunter during questioning at debate"
+    excerpt: "Democratic presidential nominee Joe Biden on Thursday denied any unethical behavior related to his son Hunter Biden under questioning at the second presidential debate with President Trump."
+    publishedDateTime: 2020-10-23T02:59:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_102202020_0.jpg"
         width: 980
         height: 551
         isCached: true
@@ -432,20 +432,6 @@ related:
     quality: 105
     images:
       - url: "https://media.npr.org/assets/img/2020/10/23/ap_20282488538797_wide-dbc4104ac85aea3cee58df3cf4fad51eb21d9270.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Breaking Down Joe Biden's Plan To Make The U.S. Carbon Neutral"
-    excerpt: "Joe Biden wants to make America carbon neutral by 2050 and says there will still be room for some fossil fuels. We look at how realistic this is and what activists make of it."
-    publishedDateTime: 2020-10-25T11:51:00Z
-    webUrl: "https://www.npr.org/2020/10/25/927564427/breaking-down-joe-bidens-plan-to-make-the-u-s-carbon-neutral"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
         width: 1400
         height: 787
         isCached: true
@@ -671,38 +657,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Joe Biden's big lead on health care issues"
-    excerpt: "Health care has fragmented into multiple issues in this campaign cycle, and Joe Biden leads President Trump on almost all of them, according to our KFF polling. The big picture: Biden’s commanding leads on protecting people with pre-existing conditions and managing the coronavirus outbreak suggest that Trump’s record and rhetoric on those issues,"
-    publishedDateTime: 2020-10-21T09:48:00Z
-    webUrl: "https://www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
-    ampWebUrl: "https://www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 75
-    images:
-      - url: "https://images.axios.com/iiMe_pWvOG9thYzTHy1HDzV_dOo=/fit-in/1366x1366/2020/10/20/1603237182398.png"
-        width: 1366
-        height: 898
-        isCached: true
-  - title: "One-on-one with Joe Biden"
-    excerpt: "Democratic presidential nominee Joe Biden talks exclusively with WISN 12 News' Adrienne Pedersen about his confidence in winning Wisconsin, the surge in coronavirus cases and about Hunter Biden."
-    publishedDateTime: 2020-10-21T01:59:00Z
-    webUrl: "https://www.wisn.com/article/one-on-one-with-joe-biden/34431537"
-    ampWebUrl: "https://www.wisn.com/amp/article/one-on-one-with-joe-biden/34431537"
-    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/one-on-one-with-joe-biden/34431537"
-    type: article
-    provider:
-      name: WISN 12 NEWS
-      domain: wisn.com
-    quality: 75
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/images/joe-biden-1603240622.jpg?crop=1xw:1xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris to NC supporters: You will decide this race"
     excerpt: "Democratic vice-presidential candidate Kamala Harris heaped pressure on North Carolina voters Wednesday, telling supporters in Asheville they will decide the presidential race and the direction of the nation."
     publishedDateTime: 2020-10-22T03:42:00Z
@@ -735,6 +689,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Harry Reid says Joe Biden should end Senate filibuster after 3 weeks"
+    excerpt: "Former Senate leader Harry Reid says if Democrats win the presidency and the Senate, Joe Biden should take “no more than three weeks” to test bipartisanship before ending the filibuster so"
+    publishedDateTime: 2020-10-25T02:20:00Z
+    webUrl: "https://www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Election_2020_Harry_Reid_Filibuster_82932.jpg?w=1024&h=678"
+        width: 1024
+        height: 678
+        isCached: true
   - title: "Kamala Harris to make campaign stop in Texas"
     excerpt: "Harris will be the highest-profile representative from the Biden campaign to visit Texas in person during the general election."
     publishedDateTime: 2020-10-25T18:32:00Z
@@ -752,11 +722,11 @@ related:
         height: 804
         isCached: true
   - title: "Report: Kamala Harris to make campaign stop in Texas on Friday"
-    excerpt: "U.S. Sen. Kamala Harris, Democratic presidential candidate Joe Biden’s running mate, will head to Texas on Friday, the Texas Tribune reported Sunday."
+    excerpt: "U.S. Sen. Kamala Harris, Democratic presidential candidate Joe Biden’s running mate, will head to Texas on Friday as recent polls show the former"
     publishedDateTime: 2020-10-25T19:24:00Z
-    webUrl: "https://www.statesman.com/news/20201025/report-kamala-harris-to-make-campaign-stop-in-texas-on-friday"
-    ampWebUrl: "https://www.statesman.com/news/20201025/report-kamala-harris-to-make-campaign-stop-in-texas-on-friday?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201025/report-kamala-harris-to-make-campaign-stop-in-texas-on-friday?template=ampart"
+    webUrl: "https://www.statesman.com/news/20201025/kamala-harris-to-make-campaign-stop-in-texas-on-friday"
+    ampWebUrl: "https://www.statesman.com/news/20201025/kamala-harris-to-make-campaign-stop-in-texas-on-friday?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201025/kamala-harris-to-make-campaign-stop-in-texas-on-friday?template=ampart"
     type: article
     provider:
       name: Austin American-Statesman
@@ -935,38 +905,6 @@ related:
     quality: 67
     images:
       - url: "https://s3.india.com/wp-content/uploads/2020/08/Kamala-Harris-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Texts from Hunter Biden's business partner show Joe Biden involved in China deal talks"
-    excerpt: "Hunter Biden’s former business partner is releasing a trove of text messages that show that former Vice President Joseph Biden was brought into discussions on his son’s China business ventures."
-    publishedDateTime: 2020-10-24T16:18:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/24/bobulinski-texts-joe-biden-involved-son-business-/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/24/bobulinski-texts-joe-biden-involved-son-business-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/24/bobulinski-texts-joe-biden-involved-son-business-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 67
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/22/Election_2020_Debate_05858.jpg-49d44_c0-168-4459-2769_s1200x700.jpg?9f59b05406a9416b370033f7b8e6fffe2a44993c"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Joe Biden is selling seniors fear: Rudy Giuliani says the Democratic campaign is misrepresenting Donald Trump’s record"
-    excerpt: "As this presidential campaign enters its final act, Joe Biden is attempting to con American seniors into abandoning their greatest ally in the federal government, Donald J. Trump."
-    publishedDateTime: 2020-10-21T09:04:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 66
-    images:
-      - url: "https://www.nydailynews.com/resizer/cxsZviuXKgbKG4lQLR2McijWxtM=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MCDACMTOPNHVXKNFHZGTBPONQE.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -1152,6 +1090,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris coming to Texas on Friday, including a stop in Houston, sources say"
+    excerpt: "Vice presidential candidate Kamala Harris is expected to be in Texas on Friday to campaign on the final day of early voting. Democratic sources say they expect Houston will be one of her stops"
+    publishedDateTime: 2020-10-25T22:54:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-coming-to-Houston-on-Friday-15673946.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 50
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/72/33/20162267/7/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Kamala Harris’ cultural background will make her a player on the global stage | Opinion"
     excerpt: "California is waiting to be welcomed back into the national conversation after four years of disrespect and neglect from the White House. In a Joe Biden-Kamala Harris administration, not only will California’s favorite daughter bridge the widened — and widening — federal-state divide,"
     publishedDateTime: 2020-10-22T20:02:00Z
@@ -1242,15 +1194,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Joe Biden Remarks on the Pandemic Response"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Wilmington, Delaware, on the coronavirus pandemic and his campaign’s plan to combat the virus. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
-    publishedDateTime: 2020-10-23T18:00:00Z
-    webUrl: "https://www.c-span.org/video/?477287-1/joe-biden-unveils-coronavirus-pandemic-recovery-plan"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
   - title: "Senator Kamala Harris Campaigns in Cleveland, Ohio"
     excerpt: "Democratic vice presidential nominee Senator Kamala Harris (D-CA) campaigns in Cleveland, Ohio. Senator Kamala Harris (D-CA) responded to reporters' questions about President Trump’s criticism of Hunter Biden"
     publishedDateTime: 2020-10-24T07:53:00Z
@@ -1317,7 +1260,7 @@ related:
   - title: "Senator Kamala Harris Speaks at Drive-In Church Service in Near Detroit"
     excerpt: "Senator Kamala Harris (D-CA) delivered remarks at the Triumph Church in Southfield, Michigan, which was filming its weekly Sunday service from inside the church and projecting it outside for parishioners to see in a drive-in setting."
     publishedDateTime: 2020-10-25T19:22:00Z
-    webUrl: "https://www.c-span.org/video/?477350-1/senator-kamala-harris-speaks-drive-church-service-detroit"
+    webUrl: "https://www.c-span.org/event/?477350/c2020-sen-kamala-harris-dca-speaks-church-service-detroit"
     type: article
     provider:
       name: C-SPAN

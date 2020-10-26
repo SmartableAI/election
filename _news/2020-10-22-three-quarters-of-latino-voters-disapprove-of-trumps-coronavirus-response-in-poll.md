@@ -998,6 +998,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Voters ask who abandoned Scranton, Biden or Trump?"
+    excerpt: "In the city that’s become an emblem of the stakes in the 2020 race, people debate which of two would-be saviors has forsaken them."
+    publishedDateTime: 2020-10-25T23:16:00Z
+    webUrl: "https://www.politico.com/news/2020/10/25/scranton-election-biden-trump-pennsylvania-432062"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/0e/94/29fec0e84d899dfd5b66d0d7a7d0/201023-scranton-voters-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "‘It’s clear Donald Trump’s campaign is desperate’: President Trump campaigns in traditional"
     excerpt: "With a little over two weeks until the election, President Donald Trump is spending a considerable amount of time campaigning in traditionally red states as he continues to trail Democratic presidential nominee former Vice President Joe Biden in the polls."
     publishedDateTime: 2020-10-19T01:23:00Z

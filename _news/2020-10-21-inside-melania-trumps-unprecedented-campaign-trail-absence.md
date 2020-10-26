@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Infection of Pence Aides Raises New Questions About Trump’s Virus Response"
+    excerpt: "From the beginning, the president has turned mask wearing and other preventive measures into a loyalty test. He and his aides have taken the same approach inside the White House."
+    publishedDateTime: 2020-10-25T23:58:00Z
+    webUrl: "https://www.nytimes.com/2020/10/25/us/politics/pence-trump-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/25/us/politics/pence-trump-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/25/us/politics/pence-trump-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/25/us/politics/25dc-virus-pence-1/merlin_179009127_6fdf2356-e0d4-4265-a4a0-c44cd0c2f1c1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Potential courtroom showdown in Trump defamation case fizzles"
     excerpt: "A lawyer for the Justice Department, which is seeking to intervene in the suit brought by E. Jean Carroll, couldn’t enter the New York courthouse because of Covid restrictions."

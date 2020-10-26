@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden assembles legal team ahead of divisive 2020 election"
-    excerpt: "Democrat Joe Biden is assembling a team of top lawyers in anticipation of court challenges to the election process that could ultimately determine who wins the race for the White House."
-    publishedDateTime: 2020-09-15T02:30:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 140
-    images:
-      - url: "https://www.chicagotribune.com/resizer/JISIO0SSLefeoVs2PcKH-Mnr-Mo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NMAZ3E63SPMCEMQQTZ5RQH7EKE.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joe Biden says winner of 2020 election should pick Ruth Bader Ginsburg’s successor"
-    excerpt: "Democratic presidential nominee Joe Biden says the winner of the November election should pick a successor to the late Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-18T17:25:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 134
-    images:
-      - url: "https://www.chicagotribune.com/resizer/3klB_ohaCYH1f4gIIiP-Y5AgQ1k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXPD4QA7XRDLHD6VHHG5ZO25OU.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Where Is Joe Biden On Public Education?"
     excerpt: "Joe Biden’s education positions have been evolving back and forth across the educational landscape, to the point that one has to ask where, exactly he stands these days. Candidate Biden offered ..."
     publishedDateTime: 2020-09-12T19:54:00Z
@@ -95,6 +63,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Identity politics can help Biden win in November"
+    excerpt: "American attitudes have changed dramatically over the past 4 years, and appeals for racial equity can motivate Democrats to vote."
+    publishedDateTime: 2020-09-17T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CSTWXTXOIMI6VPIIDMIBGK2FR4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Joe Biden’s CNN town hall: An occasional whopper"
+    excerpt: "A Joe Biden town hall does not hit the Pinocchio meter as much as a Donald Trump town hall. Biden tends to stick close to the facts, but occasionally gets carried away with some over-exuberance. Here are five claims that caught our attention during his CNN town hall moderated by Anderson Cooper in Moosic,"
+    publishedDateTime: 2020-09-18T02:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/17/joe-bidens-cnn-town-hall-an-occasional-whopper/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/17/joe-bidens-cnn-town-hall-an-occasional-whopper/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/17/joe-bidens-cnn-town-hall-an-occasional-whopper/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KPCMUTHZJ4I6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden's dangerous view of 'normalcy'"
     excerpt: "Biden’s vision of normalcy is as dangerous as the radical agenda offered by Sen. Bernie Sanders (I-Vt.) and Rep. Alexandria Ocasio-Cortez (D-N.Y.)."
     publishedDateTime: 2020-09-17T17:30:00Z
@@ -110,6 +110,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "How Joe Biden might handle a showdown with North Korea"
+    excerpt: "No matter who wins the next US presidential election, they will be stuck with the same old predicament, two experts on US-North Korean relations said."
+    publishedDateTime: 2020-09-18T17:06:00Z
+    webUrl: "https://www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f64e57857b7da001ee127cb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The Memo: Media accused of using kid-gloves on Biden"
     excerpt: "A CNN town hall event with Democratic nominee Joe Biden, broadcast Thursday evening, is sharpening questions about fairness in news coverage of the 2020 campaign."
@@ -127,81 +143,61 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Watch live: Biden discusses Supreme Court vacancy"
-    excerpt: "Democratic presidential nominee Joe Biden is expected to discuss Justice Ruth Bader Ginsburg's death and the battle to replace her on the Supreme Court during remarks in Philadelphia on Sunday afternoon."
-    publishedDateTime: 2020-09-20T17:33:00Z
-    webUrl: "https://thehill.com/homenews/campaign/517295-watch-live-biden-discusses-supreme-court"
-    ampWebUrl: "https://thehill.com/homenews/campaign/517295-watch-live-biden-discusses-supreme-court?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517295-watch-live-biden-discusses-supreme-court?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_09162020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden indicates he won't release list of possible Supreme Court nominees"
-    excerpt: "\"To jam this nomination through the Senate is just an exercise in raw political power,\" Biden said in his remarks."
-    publishedDateTime: 2020-09-20T20:14:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-indicates-he-wont-release-list-of-possible-supreme-court-nominees/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-indicates-he-wont-release-list-of-possible-supreme-court-nominees/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-indicates-he-wont-release-list-of-possible-supreme-court-nominees/"
+  - title: "Joe Biden's security breached while boarding campaign plane"
+    excerpt: "An unidentified photographer breached Joe Biden's Secret Service perimeter this afternoon as the candidate boarded his charter plane in Pennsylvania. The Democratic presidential nominee and his wife,"
+    publishedDateTime: 2020-09-13T13:58:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-security-breached-boarding-campaign-plane/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-security-breached-boarding-campaign-plane/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-security-breached-boarding-campaign-plane/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 124
+    quality: 115
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/20/70561a50-0adf-4696-b2d4-576a0e05aad5/thumbnail/1200x630/0864ed1d81d1cc0ff3582dc46d6be5ba/gettyimages-1228584423.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/12/40129fb4-7edd-45a5-9f1c-d491a35bf71c/thumbnail/1200x630/544495ad0bad9e9c964362ec1abd33cd/gettyimages-1271982360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Democrat Biden and his allies had $466 million at end of August - official"
-    excerpt: "Democratic U.S. presidential nominee Joe Biden and his party allies increased their cash holdings to $466 million at the end of August, a campaign official said on Sunday, as President Donald Trump's campaign reported that its cash pile was little changed from a month"
-    publishedDateTime: 2020-09-21T02:36:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-fundraising-idUKKCN26C00P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN26C00P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26C00P"
+  - title: "Joe Biden woos Latinx and Hispanic voters"
+    excerpt: "Watch \"Joe Biden woos Latinx and Hispanic voters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-17T04:40:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200921&t=2&i=1534233505&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8K00A"
-        width: 817
-        height: 545
+      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874331_1600324804.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Joe Biden and his allies boosted cash holdings to $466 million at end of August"
-    excerpt: "Democratic presidential candidate Joe Biden ended August with a larger pile of cash than President Donald Trump's reelection effort, giving the former vice president a significant financial advantage in the final stretch of the campaign."
-    publishedDateTime: 2020-09-21T05:59:00Z
-    webUrl: "https://www.cnbc.com/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html"
+  - title: "Biden tells firefighters about 1972 family tragedy"
+    excerpt: "Democratic presidential candidate Joe Biden told a group of Pennsylvania firefighters on Thursday night about the 1972 car crash that killed his first wife and his daughter. (Sept. 18)"
+    publishedDateTime: 2020-09-18T11:12:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/18/biden-tells-firefighters-1972-family-tragedy/3491223001/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 121
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106710099-1600666733739-gettyimages-1228623625-AFP_8QE2B4.jpeg?v=1600666496"
-        width: 2935
-        height: 1953
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c7bd327e-fe12-4aef-aadb-f694993e1f11_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Why Milwaukee could determine Joe Biden's fate in November's election"
-    excerpt: "Lower turnout in Wisconsin’s biggest city help Trump to victory in 2016, and Biden must engage Black voters and overcome voter suppression there to carry the crucial state"
-    publishedDateTime: 2020-09-21T12:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/sep/21/milwaukee-most-important-city-2020-election?ref=hvper.com"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/21/milwaukee-most-important-city-2020-election"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/21/milwaukee-most-important-city-2020-election"
+  - title: "The Latest: Biden says campaign will focus on early voting"
+    excerpt: "The Latest on the 2020 presidential campaign (all times local):"
+    publishedDateTime: 2020-09-18T00:44:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-says-campaign-will-focus-on-early-voting-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-says-campaign-will-focus-on-early-voting-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-says-campaign-will-focus-on-early-voting-2020-9?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Joe Biden, flush with cash, boosts ad spending in battleground states"
     excerpt: "President Donald Trump’s massive campaign war chest was supposed to finance an onslaught of attacks that would destroy Joe Biden’s chance of winning in November."
     publishedDateTime: 2020-09-14T16:40:00Z
@@ -234,38 +230,6 @@ related:
         width: 570
         height: 321
         isCached: true
-  - title: "Joe Biden campaign hires California state director"
-    excerpt: "Former Vice President Joe Biden’s presidential campaign is staffing up in California, tapping a state director from Los Angeles and organizing director from San Francisco."
-    publishedDateTime: 2020-09-21T18:16:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Joe-Biden-campaign-hires-California-state-director-15584331.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Joe-Biden-campaign-hires-California-state-director-15584331.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Joe-Biden-campaign-hires-California-state-director-15584331.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/13/66/02/19882113/9/rawImage.jpg"
-        width: 2048
-        height: 1396
-        isCached: true
-  - title: "Joe Biden campaign hires California state directors"
-    excerpt: "Former Vice President Joe Biden’s presidential campaign is staffing up in California, tapping a state director from Los Angeles and organizing director from San Francisco."
-    publishedDateTime: 2020-09-21T18:16:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Joe-Biden-campaign-hires-California-state-director-15584331.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Joe-Biden-campaign-hires-California-state-director-15584331.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Joe-Biden-campaign-hires-California-state-director-15584331.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/13/66/02/19882113/11/rawImage.jpg"
-        width: 2048
-        height: 1396
-        isCached: true
   - title: "Iraq makes most politicians look bad. Joe Biden's record is actually a bit above average."
     excerpt: "Though few would defend the 2003 invasion and Iraq still has a long way to go, policies Obama and Biden put in place have led to glimmers of hope."
     publishedDateTime: 2020-09-14T12:54:00Z
@@ -282,15 +246,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden Campaign Remarks in Wisconsin"
-    excerpt: "Democratic presidential nominee Joe Biden delivered remarks to the “Moral Monday Mass Assembly” virtual event held by… Vice President Pence delivered remarks on the economy and trade at Ripon College in Ripon,"
-    publishedDateTime: 2020-09-21T13:47:00Z
-    webUrl: "https://www.c-span.org/video/?476047-1/joe-biden-campaign-remarks-wisconsin"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "etyKOQNbMnvKg8F3zgYB9o2AZF0uD82VmvePcgsEPSey6+Ea/rKVcbor3mlMVUTacV0fFiUjknchVlnVJMgayd1c7djtrolUsGXLC6wby0qwdlXG1QUUubl8L8J71GYQCe8cxQ7se77JXsrxemMaWhr+I9yYd6vKs6Xjm5YXYZQYc5xa+oFkhS3RfcnA+7iEQvtMcgXbI7focTZCLGueKVv9WX9jllhqr6ht/4Ddm/jfVQL5dNIAWJgakY71fvo2Mk+kj3b3d6Ys+idIDmqZltQ9DFgpIDAYO6Btvc7S8zCDcCJKxlTaHVG4EB1HuFUh7hsX6wg1E2ZHYd7g3eYb4U+9LsceFpiP7sKxLgZAO5Y=;EZP2vunmxtcMDDTGy2CjQQ=="
 ---

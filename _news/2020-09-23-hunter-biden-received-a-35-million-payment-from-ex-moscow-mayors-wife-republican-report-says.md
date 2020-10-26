@@ -31,21 +31,81 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: I’m a Christian, veteran, Texas Republican and I support Joe Biden"
-    excerpt: "I am casting my vote for Joe Biden because of, not in spite of, my beliefs and experiences as a veteran, a Christian, a conservative and a native rural Texan. In many ways, the president sits atop what sociologist Robert Bellah called our American “civil religion,"
-    publishedDateTime: 2020-09-24T08:25:00Z
-    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
-    ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
+  - title: "Watch live: Biden gives remarks from Duluth, Minnesota"
+    excerpt: "Democratic presidential nominee Joe Biden is slated to give remarks in Duluth, Minn., on Friday after touring a local union training center.The event is scheduled to begin at 3:45 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-09-18T19:16:00Z
+    webUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta"
+    ampWebUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 123
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://s.hdnux.com/photos/01/14/24/20/20005899/4/rawImage.jpg"
-        width: 2048
-        height: 1501
+      - url: "https://thehill.com/sites/default/files/newsletter-biden_091020getty.jpg"
+        width: 580
+        height: 391
+        isCached: true
+  - title: "Watch live: Biden gives remarks from Duluth, Minnesotta"
+    excerpt: "Democratic presidential nominee Joe Biden is slated to give remarks in Duluth, Minn., on Friday after touring a local union training center.The event is scheduled to begin at 3:45 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-09-18T19:16:00Z
+    webUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta"
+    ampWebUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-biden_091020getty.jpg"
+        width: 580
+        height: 391
+        isCached: true
+  - title: "Watch live: Biden holds town hall event"
+    excerpt: "Democratic presidential nominee Joe Biden is slated to hold a town hall event Thursday evening on ABC.The event is scheduled to begin at 8 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-10-15T22:46:00Z
+    webUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event"
+    ampWebUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "President's daughter, Pence visit Minnesota"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order campaign message to Minneapolis today."
+    publishedDateTime: 2020-09-24T09:16:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/sep/24/presidents-daughter-pence-visit-minnesota/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/196197612_196196292-326a6878a6fb45c9ab801fb10bd30956_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "President Donald Trump to return to Minnesota next week, visit Duluth"
+    excerpt: "President Donald Trump will visit Minnesota once again next week, making a campaign appearance in Duluth. The president has made multiple campaign stops in the state this year. Trump and former Vice President Joe Biden made appearances on the same day in northern Minnesota last week."
+    publishedDateTime: 2020-09-26T03:10:00Z
+    webUrl: "https://www.startribune.com/president-trump-to-return-to-minnesota-next-week/572542951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/1601076390_19535581+1mndt092620.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "9BpEw3H49Rbdqz/Ra+wyzGxwrngRYq6QfzzZ2nryb6vfprBJ0/qUlZBKfOZlzf67me7V2zygH/4acHDP76zrWtPD8VLnUL3pkjTvd2ASlArkNyQIU7bzUTDFwWyxPRCeME9VvErizAcBEDaiTpMWw9G/btOS9nSVSwE3i1hsbBYu3JCd8ls8cRP5jtb6CgN8+S4BIR8o6QMuajWcp7RWDhO4ZWqGG4ha3Xfb/TjbeO1FfvWbN35KiudVc8Qvg7RF1XSsTaCjr7J2vtC86dYGvGirWT/2kkFHJnC7Sy+QhqcExCai883Bonul1IEjzjS/hUnrFdGsCjx10T9DmqF1gq1PwUvhO7LRucwDX+ZnodTOXxQ2eKrAkyYf358MrzoDdW7uohyfDh2P2i8qxTG7mC4LjuH/Pz6xA8ryGOgxprUF5cuBKM1+r6uR+XsmvZslhlAaaUbHuEEPbYFvJozdemd20HYTIWd456Mifdb/bmjSJ/WQ+Tz8VmmT2iwUyR+EPPUlMIIDlythg1XZVRkkwg==;rgeNbDQZik7N+jQFKd2ing=="

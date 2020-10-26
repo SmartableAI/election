@@ -9,8 +9,8 @@ ampWebUrl: "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-j
 cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Oregonian
@@ -25,6 +25,38 @@ images:
     width: 4923
     height: 3282
     isCached: true
+
+related:
+  - title: "Joe Biden tells white supremacist groups to 'cease and desist' – video"
+    excerpt: "Joe Biden warned white supremacist groups including the Proud Boys, an extremist rightwing group, to 'cease and desist'"
+    publishedDateTime: 2020-09-30T21:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/sep/30/biden-trump-proud-boys-white-supremacists-cease-and-desist?ref=hvper.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/2c96dc4c3432c3b225914fc3d1566fe0e60f6cff/0_97_6214_3731/master/6214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf33728528f043a1130adf56f1ec6fd1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
+    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
+    publishedDateTime: 2020-10-01T16:10:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article246142010.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
 
 secured: "SdN9anAhExcAlZNGkptmA9BqmDXbsMZtjsWLSgsJsGp+7Nd+dvXP91w+hAcIB5XfvGmgqwhpIz2EpkOK2V93OO3CJZb2C9GcOVA7XipqJ/KxzB4Vs2Ht6Coq9ZRH+VWh93pvN4YNWQjAlTw2cWctnQ3WvCE9MhBjO8Y0Lwf6feZZomHhL+lH1ZWUqIjcaq8/s5KtdmydHxlAOvQpGiPkPULXFaVA1c5FM6uOTmWhpXpr3tniFPzOVc/BCsPSVvW+bIL4Fl7HEl0F+Z3BphLs6S2M5PciOFbRRG2rT2RBjbHQ9H9vlKeH9YLMrFkx15CA3QarumfvyAsXm3oQRCM6uVYZmbAa5bGt81ja4TPwuPLZdjzE/P3XE0sqswG4xv7xHCf8yzjRchsi+JJwuF233yoVvfciDcrDV/iOKz8otNebzOFEigk7TY+YLpbJsjSyzTgI+XkYIrTSqM1DeGh0Yvu3b8VikuPJ9RCJapOiAHgIBVXoskk7qqaWl/30sgEmKBm3tS4mPMy8ZEV6nRtQ1Q==;xhRYJAfhZl2kGgk9yDBEOw=="
 ---

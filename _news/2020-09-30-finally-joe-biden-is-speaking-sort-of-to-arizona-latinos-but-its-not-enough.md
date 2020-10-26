@@ -43,20 +43,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Joe Biden woos Latinx and Hispanic voters"
-    excerpt: "Watch \"Joe Biden woos Latinx and Hispanic voters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-09-17T04:40:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874331_1600324804.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Lt8Hn3JSmkPb932Q9xGQ15r0ovXGz9UQgluEVO5p+u69wKzCvvgd8/IxTHs4SH6jTcfPlwIDkye++DH+9YpSZWMi51O9FHJ/Z0+molZtds+FP1vFOwyXznPbk1r3OUNMYivPPVtffwRpT8Fqy5NdtH7Uif9xxSGsCW1Iem5juFs9i2Dy8V8bZmt6M4GsnoldntjpvyG27+oWSoRJwKdZ9GoOc5zmkqheodecEU32/Opp0FmSj8gQNpTZ7css2q40IOjnCXHE/hQofd2eON0XZkfjwXgGpRqbYxqzofRKPDKYgRY8V/nWkGO+JZWLXt1UqcfczpiEcq4Nky/atS3++0NwRdSrRO8TTciwcin4lnH4Au0RQpd9rotY5NB44SB1RBpw9EG7Rk80XDhxzOaAVuDNUCj03k2ccZYjAwSA0EiuzQhJYu/U0WhC2VxovgpJBcNvtZ5N+zIQMkk+sWwAqc/rNGe+fw8hAxgryHxhfqylL2q7eCjNVfvYLPnlGAHpz8eW2uP37GwvhrfmSjZv8w==;dHQt/cVvFoFhDkDykFBqHA=="
 ---

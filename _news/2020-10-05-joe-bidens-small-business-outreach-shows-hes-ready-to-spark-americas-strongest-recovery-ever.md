@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/opinion/campaign/519628-joe-bidens-small-busines
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp"
 type: article
 quality: 113
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden's plans to hike taxes for rich Americans will be key for markets if he wins the election, a strategist says"
+    excerpt: "Robertson said markets will factor in whether Biden's tax plans pressure domestic equities and credit markets at the expense of foreign markets."
+    publishedDateTime: 2020-09-30T11:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f745c180ab50d00184ad34d?format=jpeg"
+        width: 3500
+        height: 1750
+        isCached: true
+  - title: "Trump claimed he would mail $200 cards to millions of older Americans weeks before the election — but it's not clear he can actually do it"
+    excerpt: "Trump said Americans enrolled in Medicare would receive a $200 card in the mail so they could buy prescription drugs."
+    publishedDateTime: 2020-09-26T10:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden lays out plan to help Venezuelan and Cuban Americans while criticizing dictators"
     excerpt: "In Miami's Little Havana, Joe Biden explained his plan to help Venezuelan and Cuban Americans. Biden criticized President Trump and said he had spent his presidency appealing to autocrats."
     publishedDateTime: 2020-10-05T21:24:00Z

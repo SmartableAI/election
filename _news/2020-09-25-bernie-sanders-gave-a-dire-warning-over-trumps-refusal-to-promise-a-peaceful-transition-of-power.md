@@ -31,161 +31,52 @@ images:
     isCached: true
 
 related:
-  - title: "Former Pence adviser: 'It does not' surprise her Trump would't commit to peaceful transfer of power"
-    excerpt: "President Trump has said \"we're going to have to see what happens,\" when asked if he would commit to a peaceful transition if he lost the election."
-    publishedDateTime: 2020-09-26T18:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3547679001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3547679001"
+  - title: "Bernie Sanders: U.S. Must Prepare For 'Nightmare Scenario' Of Trump Delegitimizing Election Results"
+    excerpt: "As President Donald Trump continues to attempt to sow doubts about the legitimacy of the voting process in the United States, Senator Bernie Sanders (I-Vt.) said he plans to spend the next six weeks urging the country to prepare for a \"nightmare scenario\" in which Trump declares himself the winner of the election and refuses to leave the White House even if he loses."
+    publishedDateTime: 2020-09-22T17:25:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/"
+    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 126
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a2f19d3e82bd7494ea8ed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5022%26cropY1%3D0%26cropY2%3D2824"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Unprecedented and dangerous': Bernie Sanders to sound alarm on Trump, transfer of power"
+    excerpt: "Bernie Sanders will warn the public of a \"nightmare scenario\" – Donald Trump not accepting an election loss, as the president himself has intimated."
+    publishedDateTime: 2020-09-24T13:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/bernie-sanders-give-speech-warning-trump-might-not-accept-election-results/3502522001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3502522001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502522001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 136
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/20/USAT/c4e7b672-eeca-4e1a-bd9c-abba2401577f-AP_Trump_3.jpg?auto=webp&crop=4076,2293,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/ef7cbecb-e200-4762-8534-3a688165417b-AP_Election_2020_Bernie_Sanders.JPG?auto=webp&crop=5188,2919,x0,y263&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump can’t avoid a transfer of power. He just wants us to think he can."
-    excerpt: "And so, on Wednesday, when a journalist asked President Trump if he would commit to making sure there’s a peaceful transfer of power after the election, Trump responded by saying, “We're going to have to see what happens."
-    publishedDateTime: 2020-09-25T10:05:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EAGTO3X6UEI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 1133
-        isCached: true
-  - title: "Unanimous Senate commits to peaceful transfer of power after Trump refuses"
-    excerpt: "The Senate on Thursday unanimously committed to a peaceful transfer of power after President Donald Trump refused to do so if he loses the November election."
-    publishedDateTime: 2020-09-24T22:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/unanimous-senate-commits-peaceful-transfer-power-trump-refuses/story?id=73216758"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/unanimous-senate-commits-peaceful-transfer-power-trump-refuses/story?id=73216758"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/unanimous-senate-commits-peaceful-transfer-power-trump-refuses/story?id=73216758"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/US/donald-trump-departure-02-rtr-jc-200924_1600983331641_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump won’t commit to peaceful transfer of power if he loses election: ‘We’re going to have to see what happens’"
-    excerpt: "President Trump declined to commit to a peaceful transfer of power if he loses the Nov. 3 presidential election."
-    publishedDateTime: 2020-09-23T15:30:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 119
-    images:
-      - url: "https://www.chicagotribune.com/resizer/n4TskA4tcPcS7lDvMVk90YiIny4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UO7YGKTA6BAM5JNVWYOMGKDMFY.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Sarah Huckabee Sanders says Trump doesn't expect to have a 'transfer of power' because he's going to win the election"
-    excerpt: "The former White House press secretary also claimed that many Americans \"will question that final result\" due to increased mail-in ballots."
-    publishedDateTime: 2020-09-25T14:55:00Z
-    webUrl: "https://www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5f6df2b6c4049200115cb96b?width=1200&format=jpeg"
-        width: 1004
-        height: 502
-        isCached: true
-  - title: "McConnell pushes back at Trump's refusal to commit to peaceful transfer of power if he loses"
-    excerpt: "Senate Majority Leader Mitch McConnell on Thursday pushed back at President Trump's refusal to commit to a peaceful transfer of power if he loses the November election."
-    publishedDateTime: 2020-09-24T14:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 114
-    images:
-      - url: "https://s.abcnews.com/images/US/mcconnell-rt-ml-200924_1600956008787_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump declines to commit to peaceful transfer of power, drawing swift criticism on social media"
-    excerpt: "Trump's response to a question about whether he would commit to a peaceful transfer of power drew a firestorm of criticism on social media."
-    publishedDateTime: 2020-09-24T00:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/23/trump-declined-commit-peaceful-transfer-power-if-he-loses-election/3510914001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3510914001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3510914001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Here's what Senate Republicans are saying about Trump refusing to commit to a peaceful transition of power"
-    excerpt: "Republicans on Capitol Hill tried to thread the needle between supporting democracy and avoiding a full rebuke of what Trump actually said."
-    publishedDateTime: 2020-09-24T21:41:00Z
-    webUrl: "https://www.businessinsider.com/what-top-republicans-say-about-trumps-transition-of-power-comments-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/what-top-republicans-say-about-trumps-transition-of-power-comments-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-top-republicans-say-about-trumps-transition-of-power-comments-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5f6cf9980f4d55001103230c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "2020 Daily Trail Markers: Top GOP lawmakers dismiss Trump's refusal to commit to a peaceful transfer of power"
-    excerpt: "The president's comments come days before he is expected to announce his nominee to the Supreme Court to fill the vacancy left by Justice Ruth Bader Ginsburg's death."
-    publishedDateTime: 2020-09-25T00:17:00Z
-    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-top-gop-lawmakers-dismiss-trumps-refusal-to-commit-to-a-peaceful-transfer-of-power-2020-09-24/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-top-gop-lawmakers-dismiss-trumps-refusal-to-commit-to-a-peaceful-transfer-of-power-2020-09-24/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-top-gop-lawmakers-dismiss-trumps-refusal-to-commit-to-a-peaceful-transfer-of-power-2020-09-24/"
+  - title: "Bernie Sanders says Trump threatens to undermine American democracy"
+    excerpt: "In a speech Thursday, Senator Bernie Sanders warned that President Donald Trump \"is prepared to undermine American democracy in order to stay in power.\" His comments came a day after the president refused to promise a peaceful transfer of power if he loses."
+    publishedDateTime: 2020-09-24T18:48:00Z
+    webUrl: "https://www.cbsnews.com/video/bernie-sanders-trump-undermine-american-democracy-to-stay-in-power/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 106
+    quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/24/d4a7ca55-d0f9-47cb-ac94-abec30bd916c/thumbnail/1200x630/2f9d19b970a6495996c527aa1747e0e7/cbsn-fusion-bernie-sanders-trump-undermine-american-democracy-to-stay-in-power-thumbnail-553717-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump senior campaign adviser Parscale steps down after arrest"
-    excerpt: "U.S. President Donald Trump's former campaign manager Brad Parscale has stepped down from a senior role at the campaign after his arrest at his home in Florida, a campaign official said on Wednesday."
-    publishedDateTime: 2020-10-01T03:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-parscale-idUSKBN26M49C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M49C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M49C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Bernie Sanders says there are a 'number of plans' to force Trump from office if he refuses to peacefully transfer power"
     excerpt: "There are a \"number of plans\" to force Donald Trump out if he refuses to allow a peaceful transfer of power after losing the election, Sanders said."
     publishedDateTime: 2020-09-27T10:55:00Z
@@ -199,36 +90,6 @@ related:
     quality: 101
     images:
       - url: "https://i.insider.com/5f7064e374fe5b0018a8daab?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'It's self-delusion': Trump's former national security adviser said he wishes the president 'would just realize' that 'Putin is not his friend'"
-    excerpt: "For years, Trump has been more friendly towards Putin — and other authoritarian leaders — than many top US allies."
-    publishedDateTime: 2020-09-24T03:19:00Z
-    webUrl: "https://www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/5f401fcc89aff80028ab747b?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Trump refused to commit to a peaceful transfer of power if he loses the election, drawing fierce pushback from Democrats and Mitt Romney"
-    excerpt: "\"We're going to have to see what happens,\" Trump told reporters. The US has not had a violent transfer of power in its 244-year history as a nation."
-    publishedDateTime: 2020-09-24T06:00:00Z
-    webUrl: "https://www.businessinsider.com/trump-refuses-to-commit-to-peaceful-transfer-of-power-2020-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/5f6c1005c4049200115cb4dd?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

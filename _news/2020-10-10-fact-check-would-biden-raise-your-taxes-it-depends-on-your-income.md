@@ -187,38 +187,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
-    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
-    publishedDateTime: 2020-10-19T15:48:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3667187001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3667187001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
-    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
-    publishedDateTime: 2020-10-20T10:27:00Z
-    webUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3667187001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3667187001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fact check: Yes, Joe Biden took a knee in Miami. No, it wasn’t during the national anthem."
     excerpt: "A Miami Herald photo of former vice president and Democratic presidential nominee Joe Biden taken during a campaign event in Miami’s Little Haiti neighborhood is being recirculated in social media with a false narrative that the national anthem was playing when the photo was taken."
     publishedDateTime: 2020-10-12T00:40:00Z

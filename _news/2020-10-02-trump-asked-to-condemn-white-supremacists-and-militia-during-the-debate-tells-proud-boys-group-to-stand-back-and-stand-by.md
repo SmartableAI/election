@@ -31,83 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name"
-    excerpt: "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name."
-    publishedDateTime: 2020-10-01T02:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+  - title: "Trump family, aides flouted Cleveland hotel mask mandate ahead of debate"
+    excerpt: "Hours before they were seen watching Tuesday's presidential debate without masks in violation of safety protocols, members of President Donald Trump's family, campaign staff and White House team also flouted a mask mandate at a hotel frequented by visitors to Cleveland Clinic."
+    publishedDateTime: 2020-10-04T00:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 114
+    quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Politics/trumpdeparture-01-gty-iwb-200930_1601496890434_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/trump-mask_hpMain_20201003-193502_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Donald Trump sidesteps call to condemn white supremacists — and the Proud Boys were 'extremely excited' about it"
-    excerpt: "Debate moderator Chris Wallace asked if Donald Trump would urge groups to stand down and avoid contributing to the violence. He sidestepped."
-    publishedDateTime: 2020-09-30T12:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/trump-debate-white-supremacists-stand-back-stand-by/3583339001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3583339001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583339001"
+  - title: "Trump Tax Avoidance Scandal Exposes Poor Risk Management And Double Standards At Deutsche And Professional Banks"
+    excerpt: "Trump may finally be the greatest at something, being the most leveraged president in U.S. history. Trump’s tax avoidance scandal showcases how banks apply credit standards differently to powerful borrowers."
+    publishedDateTime: 2020-09-28T17:36:00Z
+    webUrl: "https://www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/"
+    ampWebUrl: "https://www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Forbes
+      domain: forbes.com
     quality: 104
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/615b05e1-ec70-40f4-99c5-e7bec4e73719-AP_Election_2020_Debate_2.jpg?auto=webp&crop=5180,2914,x0,y263&format=pjpg&width=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721622f05720aa8fd4acf5%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Joe Biden tells Proud Boys and white supremacist groups to 'cease and desist'"
-    excerpt: "US Democratic presidential candidate Joe Biden has told far-right group Proud Boys and white supremacist groups to \"cease and desist\". It follows Tuesday night's presidential debate, when President Donald Trump refused to condemn white supremacist and militia groups - and called on Proud Boys to \"stand back and stand by\"."
-    publishedDateTime: 2020-09-30T20:04:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
+  - title: "The Department of Transportation rejected a public transit mask mandate on the same day Trump's coronavirus diagnosis was revealed"
+    excerpt: "CIO submitted a request to the government in July to better protect workers against the coronavirus."
+    publishedDateTime: 2020-10-04T22:26:00Z
+    webUrl: "https://www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10?amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 102
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08sztpk.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Who are the Proud Boys? Far-right group known for political brawls are in the spotlight after Trump tells them to ‘stand back and stand by.'"
-    excerpt: "President Trump at the first debate said the extremist organization should “stand back and stand by.” Some saw it as an endorsement."
-    publishedDateTime: 2020-10-01T12:09:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-proud-boys-20201001-agpwdfy24ffdbatjftfyfned6u-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-proud-boys-20201001-agpwdfy24ffdbatjftfyfned6u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-proud-boys-20201001-agpwdfy24ffdbatjftfyfned6u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 90
-    images:
-      - url: "https://www.chicagotribune.com/resizer/kRsm-krjMvssFaeh4m9LxoXLvfE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RPXJMF6M6ZEF5M6MAJQCQ5FA5I.jpg"
+      - url: "https://i.insider.com/5f7a3ea2282c500018c787dc?width=1200&format=jpeg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Condemns ‘All White Supremacists’ and Proud Boys After Days of Odd Comments"
-    excerpt: "President Donald Trump condemned “all white supremacists,” including the Proud Boys during an interview with Fox News host Sean Hannity on Thursday night. Trump’s remarks come after days of odd comments from both him and White House press secretary Kayleigh McEnany,"
-    publishedDateTime: 2020-10-02T13:01:00Z
-    webUrl: "https://www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/"
-    ampWebUrl: "https://www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 70
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Hannity-09_40_28-PM-1200x675.jpg"
-        width: 1200
-        height: 675
+        height: 600
         isCached: true
 
 secured: "uvZhT8SJBftOKS3E6o9+FpIjd7cUMd8XERMS7daQrsSDeezc3Mw5PYVfeJP7E9oAggO+oL/AyByrrakcNcVRPhesc+iFFq9zWHDOChez5uBGJwy/8wMeH5aOHTYPUMJP5XzmLpe7vG6Mp/q9T6q1HAIrrMEbIP7jcg3U/Cxt82NDIz7ax5idHurO2WLr7nfXfOstGLUGDLh/HsdA2ujptBpe2JcIQCFaguooaCvITe4fFJ7WafrDnvAtctVVfDqn/04MeVuQH2zydes7EWjVHynbBPJT3U/5pkN9sKi5pPk7ebJyxRg+Uhc0bRVd3VBL5IDG54Iy1oKGo5NNmAgRpftZja7j0e97E6p1kH9RyuNQlX37XCydRQKBpuvbD8grW70rJ6ob0pcxXSrQ3zKMU0NpYzKTd3J4Iue3HZ4+0oJcMZBwmJXdnp/W9MX72+jMcUd34oe6i9etisVet9nxciNuOSxOWOsytCQEZzdt7sA7IA/GZTJmqplpaZrkdtkSQmIsvjYdc6VJ4x1+zEiMuQ==;MJTCKpwOMUwUohUi74srHw=="

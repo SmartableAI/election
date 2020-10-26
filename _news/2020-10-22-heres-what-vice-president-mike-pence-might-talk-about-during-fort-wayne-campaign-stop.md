@@ -75,22 +75,6 @@ related:
         width: 1024
         height: 749
         isCached: true
-  - title: "Vice President Pence speaks about another round of Stimulus Checks"
-    excerpt: "Vice President Pence was in the “Keystone State” to plead his case for four more years of President Trump. While visiting he was asked about the concerns of the COVID-19 stimulus and"
-    publishedDateTime: 2020-10-18T16:13:00Z
-    webUrl: "https://www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/"
-    ampWebUrl: "https://www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/amp/"
-    cdnAmpWebUrl: "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/amp/"
-    type: article
-    provider:
-      name: Wane
-      domain: wane.com
-    quality: 75
-    images:
-      - url: "https://www.wane.com/wp-content/uploads/sites/21/2020/10/GettyImages-1218977241-1.jpg?w=1280"
-        width: 724
-        height: 483
-        isCached: true
   - title: "Vice President Mike Pence will host rally in Kinston on Sunday"
     excerpt: "KINSTON, N.C. (WTVD) -- With a little more than a week before the election, Vice President Mike Pence will visit the Tar Heel state for a planned rally one day after President Donald Trump."
     publishedDateTime: 2020-10-23T17:14:00Z

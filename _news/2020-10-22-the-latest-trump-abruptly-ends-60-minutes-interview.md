@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-melania-trump-l
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -222,6 +222,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "The Latest: Aide: Trump Tests Negative for Virus Pre-Debate"
+    excerpt: "The White House chief of staff says President Donald Trump tested negative for the coronavirus before Thursday night’s final presidential debate."
+    publishedDateTime: 2020-10-22T22:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

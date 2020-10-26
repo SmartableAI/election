@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "NATO insiders believe Trump's tax and debt problems make him vulnerable to blackmail by foreign powers"
-    excerpt: "\"Everything about his finances smells like blood and we are trained to be sharks,\" one source told Insider."
-    publishedDateTime: 2020-10-01T17:06:00Z
-    webUrl: "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10?amp"
+  - title: "Trump family, aides flouted Cleveland hotel mask mandate ahead of debate"
+    excerpt: "Hours before they were seen watching Tuesday's presidential debate without masks in violation of safety protocols, members of President Donald Trump's family, campaign staff and White House team also flouted a mask mandate at a hotel frequented by visitors to Cleveland Clinic."
+    publishedDateTime: 2020-10-04T00:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-mask_hpMain_20201003-193502_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump, asked to condemn white supremacists and militia during the debate, tells Proud Boys group to ‘stand back and stand by'"
+    excerpt: "President Donald Trump on Tuesday didn’t clearly condemn white supremacist groups and their role in violence in some American cities this summer, branding it solely a “left-wing” problem and telling one far-right extremist group to “stand back and stand by."
+    publishedDateTime: 2020-10-01T17:34:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 98
+    images:
+      - url: "https://www.chicagotribune.com/resizer/q4cHOxV-K4_t5dNpwY_iFVJfJJE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ELDAHI55RQAN3OMC6KPVEDJBIY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Department of Transportation rejected a public transit mask mandate on the same day Trump's coronavirus diagnosis was revealed"
+    excerpt: "CIO submitted a request to the government in July to better protect workers against the coronavirus."
+    publishedDateTime: 2020-10-04T22:26:00Z
+    webUrl: "https://www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 109
+    quality: 95
     images:
-      - url: "https://i.insider.com/5f589478e6ff30001d4e7a7e?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f7a3ea2282c500018c787dc?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "‘I don’t care to listen to him anymore’: Coal miners turn their backs on Trump over failed promises"
-    excerpt: "In a deep dive by the New York Times into how coal miners have fared under Donald Trump, the president was blistered for making promises he didn’t keep as the industry continues to collapse and miner unemployment soars."
-    publishedDateTime: 2020-10-05T17:24:00Z
-    webUrl: "https://www.rawstory.com/2020/10/i-dont-care-to-listen-to-him-anymore-coal-miners-turn-their-backs-on-trump-over-failed-promises/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/i-dont-care-to-listen-to-him-anymore-coal-miners-turn-their-backs-on-trump-over-failed-promises/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/i-dont-care-to-listen-to-him-anymore-coal-miners-turn-their-backs-on-trump-over-failed-promises/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 61
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Trump-and-Coal.jpg"
-        width: 606
-        height: 423
         isCached: true
 
 secured: "a0Uc/8pV0v0G72DIbx0Bodt/+PEI7iAu8h/cLz8qqx4+YcZlORSmPISoq3VDLzwL5+TFR60YkWu4QboGkA/ktlZvI6MAQsb/bbQ9ZW3vAGop09EVtiaLGCs1i3Mdg9yAEYQHzGVeFnDRM/Q3mh3bCmOFtSYmY4HOYUUh5USiYSTXqCwdy9RJjr/Cdu4dRhwiGR6wROpjBtGnrHitEJheUZK/6cScwRh+4l3z7AHUS5WX9UVO7ZVpnyj9UIAhPX3+t88GP1aTjXJWxrhrLwqubU99rOZLZ28O9X89I/1gEfT6rh0S+jDeP4J3jy1OohWJfopoY/rs9MCHO3qQvAQoyF0A/Huk5qMOF5Hsku1km6w=;e9K63QTDv7XxLlKGal2ibQ=="

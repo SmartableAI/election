@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E3LK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E3LK"
 type: article
 quality: 107
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/20/democratic-vice-presidential-candidate-kamala-harris-is-the.jpg"
         width: 1024
         height: 693
-        isCached: true
-  - title: "Joe Biden urges peace, patience following Breonna Taylor grand jury decision"
-    excerpt: "Protests in Louisville have continued for months following the March 13 police shooting of the 26-year-old EMT who was killed in her home."
-    publishedDateTime: 2020-09-24T01:40:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/23/breonna-taylor-decision-joe-biden-urges-action-policing-reforms/3511616001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3511616001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3511616001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/PLOU/5f203284-924b-4954-a263-1be8ff457995-breonna_strupp__n3i7797092320.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "cIQzLTXhwgT360TE7z/yKOfyzvkoP8MjwyxBG54y9CE4lTd/SHuRm25nufW998flGG6E5cGA+tZaNo+TOfUQ9u/CIzHJt5r/p7md3E6Tdu8XUPUc+RjthctU8WhD2TvnzF40+8fQ0k/ieAu0Mbmmsccyc8yH2OCjo25oy34GZnaBr/pe9bqXaMEAsOFSj1l+1Q2vLH/VfknzgNc3HaIshyiJ62ycBIU2X8zSgEN4IoEbzxDAT7iYP8pddZMhWKbfTA5j3uyPUrkiPd1+wb37Eh+O3PvRAzzjBd8WbVgrzUOkNWFf9+UdAmXBFNt6nqBeytk8iycVxouzP+ozc6rJeay7XCelR8ItL92+RfVw3fY=;iflF/DEVk+UoQTiF473zZA=="

@@ -29,208 +29,83 @@ images:
     isCached: true
 
 related:
-  - title: "Former Pence adviser: 'It does not' surprise her Trump would't commit to peaceful transfer of power"
-    excerpt: "President Trump has said \"we're going to have to see what happens,\" when asked if he would commit to a peaceful transition if he lost the election."
-    publishedDateTime: 2020-09-26T18:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3547679001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3547679001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 136
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/20/USAT/c4e7b672-eeca-4e1a-bd9c-abba2401577f-AP_Trump_3.jpg?auto=webp&crop=4076,2293,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump can’t avoid a transfer of power. He just wants us to think he can."
-    excerpt: "And so, on Wednesday, when a journalist asked President Trump if he would commit to making sure there’s a peaceful transfer of power after the election, Trump responded by saying, “We're going to have to see what happens."
-    publishedDateTime: 2020-09-25T10:05:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/?outputType=amp"
+  - title: "Election live updates: Romney backs voting this year on Trump nominee to replace Ginsburg"
+    excerpt: "Meanwhile, Trump is headed to Pennsylvania, while Democratic nominee Joe Biden is dispatching his running mate, Kamala D. Harris, to Michigan, while he holds fundraisers."
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 124
+    quality: 131
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EAGTO3X6UEI6VMHEGUHE4YGMSE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-21-2020/t_a061c2a3a54f468bb08a4cef8f392f08_name_20200918_Trump_Biden_rally_v1_Still002.jpg&w=1440"
         width: 1440
-        height: 1133
+        height: 810
         isCached: true
-  - title: "Unanimous Senate commits to peaceful transfer of power after Trump refuses"
-    excerpt: "The Senate on Thursday unanimously committed to a peaceful transfer of power after President Donald Trump refused to do so if he loses the November election."
-    publishedDateTime: 2020-09-24T22:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/unanimous-senate-commits-peaceful-transfer-power-trump-refuses/story?id=73216758"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/unanimous-senate-commits-peaceful-transfer-power-trump-refuses/story?id=73216758"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/unanimous-senate-commits-peaceful-transfer-power-trump-refuses/story?id=73216758"
+  - title: "Melania Trump: Ginsburg's 'spirit will live on in all she has inspired'"
+    excerpt: "First lady Melania Trump on Saturday paid homage to the late Supreme Court Justice Ruth Bader Ginsburg, calling her death an “immense loss.”"
+    publishedDateTime: 2020-09-19T18:58:00Z
+    webUrl: "https://thehill.com/homenews/administration/517230-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired"
+    ampWebUrl: "https://thehill.com/homenews/administration/517230-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/517230-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/donald-trump-departure-02-rtr-jc-200924_1600983331641_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/trumpmelania_102418sr_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Trump won’t commit to peaceful transfer of power if he loses election: ‘We’re going to have to see what happens’"
-    excerpt: "President Trump declined to commit to a peaceful transfer of power if he loses the Nov. 3 presidential election."
-    publishedDateTime: 2020-09-23T15:30:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 119
-    images:
-      - url: "https://www.chicagotribune.com/resizer/n4TskA4tcPcS7lDvMVk90YiIny4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UO7YGKTA6BAM5JNVWYOMGKDMFY.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Sarah Huckabee Sanders says Trump doesn't expect to have a 'transfer of power' because he's going to win the election"
-    excerpt: "The former White House press secretary also claimed that many Americans \"will question that final result\" due to increased mail-in ballots."
-    publishedDateTime: 2020-09-25T14:55:00Z
-    webUrl: "https://www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9?amp"
+  - title: "Top Republicans appear to give Trump just enough support to confirm a replacement for Justice Ginsburg"
+    excerpt: "\"I am certain if the shoe were on the other foot, you would do the same,\" Sen. Lindsey Graham wrote in a letter to Democratic lawmakers."
+    publishedDateTime: 2020-09-22T05:55:00Z
+    webUrl: "https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 117
+    quality: 109
     images:
-      - url: "https://i.insider.com/5f6df2b6c4049200115cb96b?width=1200&format=jpeg"
-        width: 1004
-        height: 502
+      - url: "https://i.insider.com/5f695dde323fc4001e0d7a26?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "McConnell pushes back at Trump's refusal to commit to peaceful transfer of power if he loses"
-    excerpt: "Senate Majority Leader Mitch McConnell on Thursday pushed back at President Trump's refusal to commit to a peaceful transfer of power if he loses the November election."
-    publishedDateTime: 2020-09-24T14:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 114
-    images:
-      - url: "https://s.abcnews.com/images/US/mcconnell-rt-ml-200924_1600956008787_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump declines to commit to peaceful transfer of power, drawing swift criticism on social media"
-    excerpt: "Trump's response to a question about whether he would commit to a peaceful transfer of power drew a firestorm of criticism on social media."
-    publishedDateTime: 2020-09-24T00:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/23/trump-declined-commit-peaceful-transfer-power-if-he-loses-election/3510914001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3510914001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3510914001"
+  - title: "President Trump: Justice Ginsburg was 'an amazing woman'"
+    excerpt: "President Donald Trump says the late Supreme Court Justice Ruth Bader Ginsburg was “an amazing woman” who led an “amazing life.” (Sept. 18)"
+    publishedDateTime: 2020-09-19T17:38:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/19/trump-justice-ginsburg-an-amazing-woman/5833171002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bernie Sanders gave a dire warning over Trump's refusal to promise a peaceful transition of power"
-    excerpt: "The Vermont senator described \"an election between Donald Trump and democracy,\" and added that \"democracy must win.\""
-    publishedDateTime: 2020-09-24T20:27:00Z
-    webUrl: "https://www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5f6cf4cf0f4d5500110322f2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Here's what Senate Republicans are saying about Trump refusing to commit to a peaceful transition of power"
-    excerpt: "Republicans on Capitol Hill tried to thread the needle between supporting democracy and avoiding a full rebuke of what Trump actually said."
-    publishedDateTime: 2020-09-24T21:41:00Z
-    webUrl: "https://www.businessinsider.com/what-top-republicans-say-about-trumps-transition-of-power-comments-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/what-top-republicans-say-about-trumps-transition-of-power-comments-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-top-republicans-say-about-trumps-transition-of-power-comments-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5f6cf9980f4d55001103230c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "2020 Daily Trail Markers: Top GOP lawmakers dismiss Trump's refusal to commit to a peaceful transfer of power"
-    excerpt: "The president's comments come days before he is expected to announce his nominee to the Supreme Court to fill the vacancy left by Justice Ruth Bader Ginsburg's death."
-    publishedDateTime: 2020-09-25T00:17:00Z
-    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-top-gop-lawmakers-dismiss-trumps-refusal-to-commit-to-a-peaceful-transfer-of-power-2020-09-24/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-top-gop-lawmakers-dismiss-trumps-refusal-to-commit-to-a-peaceful-transfer-of-power-2020-09-24/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-top-gop-lawmakers-dismiss-trumps-refusal-to-commit-to-a-peaceful-transfer-of-power-2020-09-24/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 106
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump senior campaign adviser Parscale steps down after arrest"
-    excerpt: "U.S. President Donald Trump's former campaign manager Brad Parscale has stepped down from a senior role at the campaign after his arrest at his home in Florida, a campaign official said on Wednesday."
-    publishedDateTime: 2020-10-01T03:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-parscale-idUSKBN26M49C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M49C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M49C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
     quality: 105
-  - title: "Bernie Sanders says there are a 'number of plans' to force Trump from office if he refuses to peacefully transfer power"
-    excerpt: "There are a \"number of plans\" to force Donald Trump out if he refuses to allow a peaceful transfer of power after losing the election, Sanders said."
-    publishedDateTime: 2020-09-27T10:55:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
     images:
-      - url: "https://i.insider.com/5f7064e374fe5b0018a8daab?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d3bbab44-e107-48e5-88eb-a1b3e7b380c9_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "'It's self-delusion': Trump's former national security adviser said he wishes the president 'would just realize' that 'Putin is not his friend'"
-    excerpt: "For years, Trump has been more friendly towards Putin — and other authoritarian leaders — than many top US allies."
-    publishedDateTime: 2020-09-24T03:19:00Z
-    webUrl: "https://www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9?amp"
+  - title: "Pence Promise In NH: Trump Will 'Fill That Seat' Left By Ginsburg"
+    excerpt: "Pence assured supporters in Gilford that the president would nominate a conservative woman to fill the vacancy on the U.S. Supreme Court."
+    publishedDateTime: 2020-09-22T22:52:00Z
+    webUrl: "https://patch.com/new-hampshire/concord-nh/pence-promise-nh-trump-will-fill-seat-left-ginsburg"
+    ampWebUrl: "https://patch.com/new-hampshire/concord-nh/amp/28976499/pence-promise-in-nh-trump-will-fill-that-seat-left-by-ginsburg"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-hampshire/concord-nh/amp/28976499/pence-promise-in-nh-trump-will-fill-that-seat-left-by-ginsburg"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: Patch
+      domain: patch.com
+    quality: 90
     images:
-      - url: "https://i.insider.com/5f401fcc89aff80028ab747b?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://patch.com/img/cdn20/users/23477813/20200922/060918/styles/patch_image/public/pencerally___22180302306.png?width=984"
+        width: 592
+        height: 444
         isCached: true
 
 secured: "+yWTwYX5uMCAQMMV/fZ0Yx3VOND9AnpKEFTAN+tzcAQTnH0XrePkMZg57xKSA67CwncAu0ear6jagg+DYt195xPN9vig3H/5MWrbWwQNuzccBcXNHxm6A9/ARfUyhaV9m9qkfV+9OrrM7WuHdfmonLV1IHzfWiN7ugcXn0cOeMXUatDw454njE4bt2zx5AW3qWSjQjkliy5K37K+G52OJao5PYy5l4k5Wq9060p07yDQay5INOQ7aRFQFJYbIggKYcvJVecpGss8sn6VgRjFrTB5m9Y0ynf2Vnw3LmoVDlEsEgH0/khu2n7ZDUwDbvbwrWpxYGVcF1p7P2tIDOEyY0cytrG8M/NuZJTk/OAw0JzrHEeUokmfeKLMPUP7f4tDjq/9IXL7fJ7IAwZpSGfjlKhznqBzjnSy4B427vPZqkPKjCy1FonRtqC06LANSkAUnxxhXHxpmkR2L4vNJObDQhvJ2wduvhrlmlQv5NIashAzR8uoxNUb+h+WqpKHHHM/t0+rEmvO/Kh5TOqjV//mBQ==;96p61FTPH7dDNyr1rMTsKg=="

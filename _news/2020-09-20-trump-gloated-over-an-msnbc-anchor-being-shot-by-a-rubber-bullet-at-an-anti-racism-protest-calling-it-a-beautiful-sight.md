@@ -47,22 +47,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "Trump Praises Police Throwing Aside Journalist 'Like a Little Bag of Popcorn'"
-    excerpt: "Trump renewed his narrative against the U.S. press at a campaign ralley in Pennsylvania, saying that it's a \"beautiful sight\" when journalists are removed from broadcasts."
-    publishedDateTime: 2020-09-23T08:33:00Z
-    webUrl: "https://www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745"
-    ampWebUrl: "https://www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1641048/donald-trump-pennsylvania-rally.jpg"
-        width: 1024
-        height: 631
-        isCached: true
   - title: "Trump Says Police Violence Against Journalists Is ‘Actually A Beautiful Sight’"
     excerpt: "They threw him aside like he was a little bag of popcorn,’ Trump said as he gleefully recounted harsh police treatment of protesters and the press."
     publishedDateTime: 2020-09-23T13:51:00Z

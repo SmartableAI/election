@@ -111,22 +111,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Judge postpones Trump's TikTok ban"
-    excerpt: "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. smartphone app stores around midnight. A more comprehensive ban remains scheduled for November,"
-    publishedDateTime: 2020-09-28T23:36:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/09/27/judge-postpones-trumps-tiktok-app-store-ban/3557774001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3557774001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557774001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/11/13/USAT/38813c9d-87c8-4f20-8e30-004119f621b6-AFP_AFP_1LX5N1.JPG?auto=webp&crop=4871,2740,x0,y247&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump gives \"blessing\" to U.S. TikTok partnership with Oracle and Walmart"
     excerpt: "The president's support for a deal comes just a day after the Commerce Department announced restrictions could eventually make it nearly impossible for Americans to use the app."
     publishedDateTime: 2020-09-20T03:24:00Z
@@ -239,6 +223,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Baldwin, Evers: Funding promised by Trump to help Kenosha can't be used to rebuild"
+    excerpt: "U.S. Sen. Tammy Baldwin and Gov. Tony Evers say money promised for Kenosha's recovery by the Trump administration could amount to much less than expected."
+    publishedDateTime: 2020-09-18T02:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/baldwin-evers-most-funding-promised-trump-kenosha-isnt-new/5823378002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5823378002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5823378002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/10/26/PMJS/65600655-d174-483c-966e-d9e15d7eeb6f-MJS_dems_obama_24_hoffman.jpg_DEMS_OBAMA.jpg?auto=webp&crop=5183,2915,x1,y286&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "TikTok’s Chinese Parent Counters Trump Claim On $5 Billion Payment To U.S. Government"
     excerpt: "TikTok’s Beijing-based parent, ByteDance, has contested President Donald Trump’s claim that the company will pay a $5 billion fee to the U.S. government as part of a deal with Oracle and Walmart. According to a blog post on Chinese platform Toutiao titled “Clarifying false rumors about TikTok,"
     publishedDateTime: 2020-09-21T11:22:00Z
@@ -349,6 +349,17 @@ related:
         width: 800
         height: 491
         isCached: true
+  - title: "Trump says he sees no reason to delay TikTok decision"
+    excerpt: "U.S. President Donald Trump said on Friday there was no need to delay a decision on a proposed deal for popular Chinese-owned social media app TikTok, adding he would be looking at it shortly."
+    publishedDateTime: 2020-09-18T21:39:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-tiktok-trump-deal-idUKKBN26934M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26934M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26934M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "ByteDance gets Trump nod to avoid TikTok shutdown"
     excerpt: "U.S. President Donald Trump said on Saturday he supported a deal in principle that would allow TikTok to continue to operate in the United States, even as it appeared to conflict with his earlier order for China's ByteDance to divest the video app."
     publishedDateTime: 2020-09-20T08:23:00Z
@@ -413,22 +424,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump once defined success as keeping US COVID deaths below 200,00. When he failed, he said real failure would be 2.5 million dead."
-    excerpt: "Trump in March said fewer than 200,000 dead would show his coronavirus policies had succeeded. He has since changed his opinion."
-    publishedDateTime: 2020-09-23T11:32:00Z
-    webUrl: "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
-    images:
-      - url: "https://i.insider.com/5f6b19ba39ab3b001192c7c6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "TikTok is now getting grilled by foreign lawmakers about its Chinese roots thanks to Trump"
     excerpt: "It's unlikely politicians would be probing TikTok's Chinese roots if it wasn't for Trump."
     publishedDateTime: 2020-09-25T11:52:00Z
@@ -475,6 +470,17 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Trump Aims to Boost Rural Turnout in Critical Wisconsin"
+    excerpt: "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters."
+    publishedDateTime: 2020-09-18T02:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Trump Touts 'Fantastic' TikTok Deal With Walmart And Oracle"
     excerpt: "Popular video app TikTok announced Saturday it has proposed an agreement with Oracle as its US technology provider and Walmart as a commercial partner, a potential deal US President Donald Trump touted as \"fantastic."
     publishedDateTime: 2020-09-20T00:53:00Z

@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis"
-    excerpt: "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements."
-    publishedDateTime: 2020-10-01T09:11:00Z
-    webUrl: "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+  - title: "Getting warmer: Trump concedes human role in climate change"
+    excerpt: "At the first presidential debate, President Donald Trump publicly acknowledged some human blame for climate change"
+    publishedDateTime: 2020-10-01T07:30:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Technology/WireAP_0062919532a148d4a6fd087944aa558e_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -59,37 +59,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump has mild symptoms, will remain on job: chief of staff"
-    excerpt: "President Donald Trump has mild symptoms after testing positive for COVID-19 but he was expected to remain on the job, White House Chief of Staff Mark Meadows said on Friday."
-    publishedDateTime: 2020-10-02T15:43:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-meadows/trump-has-mild-symptoms-will-remain-on-job-chief-of-staff-idUSKBN26N2MD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2MD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2MD"
+  - title: "GOP faces reckoning over Trump's virus strategy, diagnosis"
+    excerpt: "President Donald Trump ’s coronavirus diagnosis was a moment of reckoning for his Republican Party, whose leaders largely adopted his strategy of playing down the disease but are now confronted with a stark political nightmare a month from Election Day."
+    publishedDateTime: 2020-10-03T17:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535885118&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG911NE"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Global stocks rise as signs of Trump's improving health calm markets"
-    excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
-    publishedDateTime: 2020-10-05T04:27:00Z
-    webUrl: "https://www.reuters.com/article/global-markets-idINKBN26Q03N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26Q03N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26Q03N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536147605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400A"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b646160b63fb44cc87cda580de0d383c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Asian shares gain on stimulus hopes, Trump leaving hospital"
     excerpt: "Shares are higher in Asia after hopes for economic aid from Washington helped Wall Street recover its losses from the initial shock of learning President Donald Trump had tested positive for the coron"
@@ -107,22 +91,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Who’s Hurt The Most By Trump Halting Second Stimulus Talks?"
-    excerpt: "Trump's tweeted on Tuesday his decision to end stimulus negotiations. Here's who is hurt the most by this decision."
-    publishedDateTime: 2020-10-08T11:39:00Z
-    webUrl: "https://www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/"
-    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ef7aab5571027102156b2%2F0x0.jpg"
-        width: 1200
-        height: 784
-        isCached: true
   - title: "Judge rules against Trump campaign in New Jersey lawsuit over counting ballots"
     excerpt: "A federal judge denied the campaign's motion for a preliminary injunction halting two New Jersey election rules."
     publishedDateTime: 2020-10-07T06:31:00Z
@@ -139,79 +107,106 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Has Turned ‘Ballot Harvesting’ Into A Rallying Cry Against Mail-In Voting—Here’s What It Is"
-    excerpt: "On Monday, Trump called for an investigation into an unsubstantiated report from Project Veritas — a right-wing activist group that has a track record of publishing misleading stories — that claimed Rep."
-    publishedDateTime: 2020-09-28T19:53:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/amp/"
+  - title: "Photo of Mark Meadows rubbing his head during update on Trump's health goes viral"
+    excerpt: "A photo of President Trump’s chief of staff Mark Meadows rubbing his head during Sunday’s update on the president’s health went viral."
+    publishedDateTime: 2020-10-04T21:25:00Z
+    webUrl: "https://thehill.com/homenews/administration/519552-photo-of-mark-meadows-rubbing-his-head-during-update-on-trumps-health"
+    ampWebUrl: "https://thehill.com/homenews/administration/519552-photo-of-mark-meadows-rubbing-his-head-during-update-on-trumps-health?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519552-photo-of-mark-meadows-rubbing-his-head-during-update-on-trumps-health?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 112
+      name: The Hill
+      domain: thehill.com
+    quality: 120
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f723ce187ec74e766144241%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://thehill.com/sites/default/files/meadowsmark_10022020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "'Mailmen selling ballots. Dumped in rivers. Found in creeks': Trump makes unfounded claims about mail-in voting"
-    excerpt: "From claiming mailmen are \"selling the ballots\" to arguing that mail ballots are being \"dumped in rivers,\" Trump ramped up his assault on mail-voting"
-    publishedDateTime: 2020-09-30T23:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/2020-debate-trump-makes-outrageous-claims-mail-voting/3586836001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3586836001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3586836001"
+  - title: "Trump and aides oppose debate rule changes and hint they could put future debates at risk"
+    excerpt: "Donald Trump's re-election campaign opposes plans to put in place new rules for his next two debates with Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-01T23:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/trump-campaign-president-may-boycott-debates-biden/5884750002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5884750002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884750002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/3c9be54e-1f1b-4489-bb6f-74160918199e-AP_US_Election_Debate_Global_Reaction.jpg?auto=webp&crop=5453,3067,x273,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/aa10e6f7-8da7-4efd-b579-d8a503f84d0f-AP_Election_2020_Debate.jpg?auto=webp&crop=5563,3130,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Oil rebounds on Trump health update, Norway shutdowns"
-    excerpt: "Oil prices rose on Monday, lifted by comments from doctors for U.S. President Donald Trump suggesting he could be discharged from hospital as soon as Monday, just a few days after his positive coronavirus test sparked widespread alarm."
-    publishedDateTime: 2020-10-05T11:07:00Z
-    webUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN26Q060"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q060"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q060"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "A look at how the Atlantic City disaster may have set Trump up to pay nothing in taxes for years"
-    excerpt: "A key provision under US tax law known as \"abandonment\" may have been Trump's ticket to a $72.9 million tax refund after leaving his casino business."
-    publishedDateTime: 2020-10-07T15:18:00Z
-    webUrl: "https://www.businessinsider.com/how-atlantic-city-disaster-casinos-hotels-trump-pay-no-taxes-2020-10"
+  - title: "Pandemic overwhelms Trump's message in critical N. Carolina"
+    excerpt: "President Donald Trump is fighting to fill a Supreme Court vacancy, howling with unsubstantiated claims of voter fraud and warning that violent mobs are infiltrating the suburbs."
+    publishedDateTime: 2020-09-28T06:44:00Z
+    webUrl: "https://www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 92
+    quality: 105
+  - title: "'Standing by sir': Proud Boys praise Trump's comment telling them to 'stand by' during first presidential debate"
+    excerpt: "Members of the far-right group celebrated online over the president's statement during the first presidential debate on Tuesday evening."
+    publishedDateTime: 2020-09-30T05:45:00Z
+    webUrl: "https://www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://i.insider.com/5f7cdca294fce90018f7b82b?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f73fb1674fe5b0018a8e246?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump is stubbornly clinging to stunts to show all is well — even as his condition worsens: analysis"
-    excerpt: "Writing for Vox, correspondent German Lopez slammed President Donald Trump for his ongoing series of stunts to prove that everything in the country is normal and there is nothing to be afraid of or criticize his government for — even as COVID-19 has made him very sick."
-    publishedDateTime: 2020-10-05T15:45:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/amp/"
+  - title: "Age of distrust: Surge in social media posts doubting truth of Trump's COVID diagnosis"
+    excerpt: "A Cornell University study found 38% of online posts and articles containing coronavirus misinformation included references to President Donald Trump. After the president himself was diagnosed, there was a surge in posts doubting his illness."
+    publishedDateTime: 2020-10-05T14:41:00Z
+    webUrl: "https://www.cbsnews.com/video/covid-19-social-media-doubting-trump-coronavirus-diagnosis/"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 60
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-793x430.jpg"
-        width: 793
-        height: 430
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/05/8390c7ae-98b7-4990-8ee2-7654b1f35cbe/thumbnail/1200x630/cf88e9acd1bdcb1d1d814807545436be/cbsn-fusion-covid-19-social-media-doubting-trump-coronavirus-diagnosis-thumbnail-559927-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "John Oliver Says Donald Trump's COVID-19 Diagnosis Was 'Utterly Inevitable'"
+    excerpt: "John Oliver talked about President Donald Trump’s COVID-19 diagnosis and blasted the first family for not wearing masks during the first presidential debate."
+    publishedDateTime: 2020-10-06T03:06:00Z
+    webUrl: "https://www.ibtimes.com/john-oliver-says-donald-trumps-covid-19-diagnosis-was-utterly-inevitable-3057188"
+    ampWebUrl: "https://www.ibtimes.com/john-oliver-says-donald-trumps-covid-19-diagnosis-was-utterly-inevitable-3057188?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/john-oliver-says-donald-trumps-covid-19-diagnosis-was-utterly-inevitable-3057188?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/08/01/john-oliver.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Latest: Trump Diagnosis Proves Testing Alone Not Enough"
+    excerpt: "President Donald Trump’s coronavirus diagnosis proved that testing alone wasn’t enough to protect him. Mask wearing and social distancing are other key ingredients for preventing the spread of COVID-19,"
+    publishedDateTime: 2020-10-06T15:10:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-06/the-latest-321-infected-at-garment-factory-in-sri-lanka"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-06/the-latest-321-infected-at-garment-factory-in-sri-lanka?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-06/the-latest-321-infected-at-garment-factory-in-sri-lanka?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "GYBJWLeVRLLAHzwP4ieu8AVULmtxD/zMM1EIraRBv/8sXjaPwKamLptVfkBHhQzj3XEkQRcWrHJe4rppZsIU4LsnjfO8dxCoezn7558wFmHW/x2B330+Nom03MwBwJO3vUuBzIUrbxcrxe/cbXSS+OiDyDbbal5fu4PNgnXoha4F0gfuTdx2mf+gRWsRV1iq+jtnrNMETq1IQAB35tyTHbZ6OXSZDUUYCYeYH7tNKwtDrAat8LJ5uUBBwAAfaPhPdj/fqQiULsPYmN6VTkKjRU1UpiNWASMigfmF51FaCdxXImUbn/lLsUGSnYVedz9Hz1oguJCkGofE0osQljzVcZi+TkiELJgIGMVS3jSwHKA=;xR2Jk9Z3B3UHNQiRuMr6Lw=="
 ---

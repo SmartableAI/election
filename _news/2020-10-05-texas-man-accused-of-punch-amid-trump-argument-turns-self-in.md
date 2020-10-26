@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562"
 type: article
 quality: 125
-heat: 245
+heat: 225
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/f065e03b-91bf-4678-aad0-a2161d916085-Trump.jpg?auto=webp&crop=5087,2861,x0,y423&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How Donald Trump Took Down Bonwit Teller, A Fifth Avenue Landmark"
-    excerpt: "When a young Donald Trump wanted to locate his Trump Tower on Fifth Avenue, he targeted and purchased the famous Bonwit Teller apparel store. But the store's demolition drew controversy as several pieces of art,"
-    publishedDateTime: 2020-10-03T13:03:00Z
-    webUrl: "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76773dd654b423dfece1b5%2F0x0.jpg"
-        width: 1199
-        height: 797
         isCached: true
   - title: "As Donald Trump Heads Back to Work in the Oval Office, His Colleagues Face 'A Dangerous Moment'"
     excerpt: "Trump's decision to work from his office was seen by many as another example of the President's disregard for those around him."

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-d
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
 type: article
 quality: 125
-heat: 965
+heat: 905
 published: true
 
 provider:
@@ -271,6 +271,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Column: Why hasn’t Joe Biden said no to Democratic threats to pack the Supreme Court?"
+    excerpt: "Will Joe Biden’s stubborn insistence that Americans “don’t deserve” to know where he stands on packing the Supreme Court cost the Democrats in the Nov. 3 election? At issue are numerous Democratic threats — if they win the White House and control of the Senate — to increase the number of Supreme Court justices and ram liberal policy into law that they otherwise couldn’t dream of getting through Congress."
+    publishedDateTime: 2020-10-14T10:11:00Z
+    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-supreme-court-packing-kass-20201014-mjrk3l5jrfhr7gxcek5hpmw4mi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-supreme-court-packing-kass-20201014-mjrk3l5jrfhr7gxcek5hpmw4mi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-supreme-court-packing-kass-20201014-mjrk3l5jrfhr7gxcek5hpmw4mi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 118
+    images:
+      - url: "https://www.chicagotribune.com/resizer/EFpE-l1_doR_Krl2sN4pfnfCxzU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DIVH4UMLJTUVGP4FLOOPFCY3GQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden, under pressure on 'court packing,' says he would convene commission on reform"
     excerpt: "Democratic presidential nominee Joe Biden, under pressure on 'court packing,' told CBS' \"60 Minutes\" he would appoint a bipartisan commission on court reform."
     publishedDateTime: 2020-10-23T01:56:00Z
@@ -302,20 +318,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1649258/joe-biden.jpg"
         width: 2500
         height: 1571
-        isCached: true
-  - title: "Detroit pastor wants Biden to reach out more to Black community"
-    excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
-    publishedDateTime: 2020-10-01T19:52:00Z
-    webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/0b79fbfd-2239-43f0-8b45-220c14a49773/thumbnail/1200x630/5dd6caec806d41fa8bf76a61c547bca6/1001-cbsn-camcan-detroitbidenblackcom-557960-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Battle for the suburbs: can Joe Biden flip Texas? – video"
     excerpt: "Texas is a rapidly changing state with the fastest growing population in America. Hispanic Texans are set to become the majority by 2022, but will this help Joe Biden flip a Republican stronghold? Oli"
@@ -389,22 +391,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Why Joe Biden can't expect to automatically get the Latino vote"
-    excerpt: "Pundits assume that because Trump has insulted Mexicans, Latinos are a sure vote for Biden. A recent survey of Arizona Latinos suggests otherwise."
-    publishedDateTime: 2020-10-03T13:14:00Z
-    webUrl: "https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3533570001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3533570001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/fe1ce342e3f4fb0d9107daa0b1f5bec2ef4acb12/c=0-285-4756-2968/local/-/media/Phoenix/Phoenix/2014/09/18/1411086458000-latino-vote.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
     excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
     publishedDateTime: 2020-10-03T18:52:00Z
@@ -420,22 +406,6 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/Virus_Outbreak_Trump_82294-1.jpg?w=1024&h=684"
         width: 1024
         height: 684
-        isCached: true
-  - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
-    excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
-    publishedDateTime: 2020-10-05T20:50:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2020/10/AP_20280035813476.jpg?crop=0px%2C0px%2C4245px%2C2388px&resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Opinion/Chidester: Joe Biden’s credibility issue"
     excerpt: "\"Since the early 1970s, Joe Biden has been a serial liar when it comes to his ‘work’ in the civil rights movement. It's the equivalent of"
@@ -621,20 +591,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/10/10/22/34237734-0-image-a-34_1602363783713.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
-    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
-    publishedDateTime: 2020-10-03T09:13:00Z
-    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 51
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Joe Biden has a history of keeping women safe from domestice violence | Opinion"
     excerpt: "Many Floridians are wondering who the real Joe Biden beyond the public persona that we know well from his decades in public service. As a senior advisor to Vice President Biden in the White House from 2015-2017,"

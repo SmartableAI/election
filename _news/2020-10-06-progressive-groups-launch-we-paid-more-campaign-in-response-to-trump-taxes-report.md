@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/finance/519654-progressive-groups-launch-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp"
 type: article
 quality: 119
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump senior campaign adviser Parscale steps down after arrest"
+    excerpt: "U.S. President Donald Trump's former campaign manager Brad Parscale has stepped down from a senior role at the campaign after his arrest at his home in Florida, a campaign official said on Wednesday."
+    publishedDateTime: 2020-10-01T03:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-parscale-idUSKBN26M49C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M49C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M49C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "0VFvUed6WpOjkxlC6YJ2H9VnizJAO5NPUPcR93GiJRYMLWAD38ZiEG+jMfo1DcsqjWZTWOiqQFhEzQwqzbpcIZ8oIMz/xnT5Z+0Ni6VD0LqjCgt8ZF+F7dNfVZashmi314ENcfIl0oVW5N6gdM0SAQ6V71jcf/9QrJFFQoaqHRuOt6p5PKKNljvuNSp0YjdGyvOjc39DoGyXYAqrl9/R6UnA1yAcAigubiPLVlGbuuk/5RzF6NzJkY5ro52KH9boo8bF1GIMKd4FJHRVxR4nP8n4TsIGwINdvsoNWem3FtgLPJpmIsiNIirhWL+HuQhznb0HgjRXpa3iIivkNQlxkvhEuWWywYZbsNMVdTYIL2w=;/Eb6LN/buuVrwwTSICpRLQ=="
 ---

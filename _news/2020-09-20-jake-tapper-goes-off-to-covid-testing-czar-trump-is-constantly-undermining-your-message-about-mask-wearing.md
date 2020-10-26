@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Factbox: What Trump's taxes are reported to show"
-    excerpt: "President Donald Trump has relied on heavy losses across his business empire to help nearly erase his federal income tax bill, according to a report on Sunday from The New York Times."
-    publishedDateTime: 2020-09-28T05:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-factbox-idUSKBN26J00L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J00L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J00L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535135271&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R00I"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump calls his handling of pandemic 'phenomenal' as US death toll nears 200K"
     excerpt: "President Donald Trump on Monday called his handling of the pandemic \"phenomenal\" even as the death toll neared 200,000."
     publishedDateTime: 2020-09-21T18:17:00Z
@@ -74,22 +58,6 @@ related:
       - url: "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump Says Coronavirus 'Affects Virtually Nobody,' As U.S. Has World's Highest Death Toll"
-    excerpt: "At a campaign event on Monday, Joe Biden struck a different tone to the president, stating the number of dead cannot become \"background noise.\""
-    publishedDateTime: 2020-09-22T07:53:00Z
-    webUrl: "https://www.newsweek.com/trump-covid-virtually-nobody-rally-ohio-1533452"
-    ampWebUrl: "https://www.newsweek.com/trump-covid-virtually-nobody-rally-ohio-1533452?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-covid-virtually-nobody-rally-ohio-1533452?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1640302/donald-trump-toledo-express-airport-swanton-ohiogetty.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "‘It affects virtually nobody’: Trump incorrectly claims covid-19 isn’t a risk for young people"
     excerpt: "In front of a large crowd of mostly maskless supporters not adhering to social distancing in Swanton, Ohio, Trump again publicly downplayed the pandemic."
@@ -155,22 +123,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Administration Trampled Over Science Again With COVID Testing Guidance; Report"
-    excerpt: "The CDC revised its guidelines regarding asymptomatic people despite its own scientists’ objections, according to the Times. Well, Trump has said he wanted testing slowed down."
-    publishedDateTime: 2020-09-18T16:50:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 68
-    images:
-      - url: "https://media.vanityfair.com/photos/5f64cf97ff5dee9bb494a517/master/pass/Trump9.18.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
   - title: "Neighborhood Sign Reminds VP Pence that 200,000 have died to COVID-19"
     excerpt: "A boy cicycles past a handmade sign that reminds Vice President Mike Pence that the United States has lost 200,000 citizens to the Cocid-19 pandemic, in the Woodley Park neighborhood of Washington, DC on Monday,"
     publishedDateTime: 2020-09-21T20:38:00Z
@@ -184,20 +136,6 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/c6fb08512518abb48213925c87f65c13/PENCE-VIRUS.jpg"
         width: 650
         height: 433
-        isCached: true
-  - title: "Coronavirus: Mike Pence recognizes grim milestone of 200,000 U.S. COVID-19 deaths"
-    excerpt: "President Mike Pence recognized the United States’ grim milestone of reaching 200,000 deaths due to the novel coronavirus. While he did not say the number by name, he described it as a “heartbreaking” moment and milestone,"
-    publishedDateTime: 2020-09-22T22:50:00Z
-    webUrl: "https://globalnews.ca/video/7351936/coronavirus-mike-pence-recognizes-grim-milestone-of-200000-u-s-covid-19-deaths/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 50
-    images:
-      - url: "https://i0.wp.com/media.globalnews.ca/videostatic/news/aofr4b62rg-d7atcfvij0/edit_here.00_00_04_18.Still810.jpg?w=500&quality=70&strip=all"
-        width: 500
-        height: 281
         isCached: true
   - title: "Google searches to buy chloroquine spiked by 442% following Donald Trump and Elon Musk’s endorsements of the drug for treating COVID-19"
     excerpt: "A study published in JAMA Internal Medicine suggests that the American public is highly susceptible to endorsements from public leaders regarding unproven COVID-19 drug therapies — even when such drugs have been linked to fatal poisonings."

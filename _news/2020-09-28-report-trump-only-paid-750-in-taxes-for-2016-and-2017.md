@@ -31,195 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "NY Times: Trump paid $750 in US income taxes in 2016, 2017"
-    excerpt: "President Donald Trump paid no federal income taxes in 10 of the past 15 years, according to a report in The New York Times"
-    publishedDateTime: 2020-09-27T21:55:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930"
+  - title: "Thousands march in Washington to pray and show Trump support"
+    excerpt: "Thousands of people have packed the National Mall in downtown Washington to pray and show their support for President Donald Trump"
+    publishedDateTime: 2020-09-27T03:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a532243e815c4ae78ad8b2a16ad8894a_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a3581d4df1d94cf4a23bbeb57c97e7f4_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Timeline of Trump's activities in week coronavirus hit home"
-    excerpt: "With just a month to go until the election, President Donald Trump had a busy schedule during the week the coronavirus hit home with him"
-    publishedDateTime: 2020-10-02T08:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
+  - title: "Trump said Portland's sheriff supports him. The sheriff disputes that."
+    excerpt: "\"In tonight's presidential debate the President said the 'Portland Sheriff' supports him. As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,\" Sheriff Mike Reese tweeted."
+    publishedDateTime: 2020-09-30T11:31:00Z
+    webUrl: "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_853c33da0fb54d1f84d43da23887a16e_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/dbf8d5f7-cc73-41b9-81a0-053b416b4ac2/thumbnail/1200x630/55135e432af3c30438ab4da906fbdd7a/ap-20274041554822.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Eric Trump slated to talk with NY investigators via video"
-    excerpt: "President Donald Trump’s son Eric is scheduled to speak via video on Monday with New York state investigators probing his family’s business practices"
-    publishedDateTime: 2020-10-04T01:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/eric-trump-slated-talk-ny-investigators-video-73396910"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/eric-trump-slated-talk-ny-investigators-video-73396910"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/eric-trump-slated-talk-ny-investigators-video-73396910"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_2a0e023fb4df4fcf852406d1c17116bd_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump Pays Zero Taxes Most Years: Here Are 8 Times He Attacks Others On Taxes"
-    excerpt: "Reporting today by The New York Times concludes that Trump was “far more successful playing a business mogul than being one in real life.” This was the conclusion after investigative reporters reviewed Donald Trump’s tax-return data."
-    publishedDateTime: 2020-09-28T00:56:00Z
-    webUrl: "https://www.forbes.com/sites/terinaallen/2020/09/27/trump-pays-zero-taxes-most-years-here-are-8-times-he-attacks-others-on-taxes/"
-    ampWebUrl: "https://www.forbes.com/sites/terinaallen/2020/09/27/trump-pays-zero-taxes-most-years-here-are-8-times-he-attacks-others-on-taxes/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/terinaallen/2020/09/27/trump-pays-zero-taxes-most-years-here-are-8-times-he-attacks-others-on-taxes/amp/"
+  - title: "How Donald Trump Took Down Bonwit Teller, A Fifth Avenue Landmark"
+    excerpt: "When a young Donald Trump wanted to locate his Trump Tower on Fifth Avenue, he targeted and purchased the famous Bonwit Teller apparel store. But the store's demolition drew controversy as several pieces of art,"
+    publishedDateTime: 2020-10-03T13:03:00Z
+    webUrl: "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 122
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7124a19933a895efcfbefb%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The $750 Question: How Trump's Taxes Reveal The Deep Unfairness Of The U.S. Tax Code"
-    excerpt: "It also found that for the prior 10 out of 15 years, Trump paid no federal income taxes due to insurmountable losses claimed on his corporate tax returns."
-    publishedDateTime: 2020-10-02T15:22:00Z
-    webUrl: "https://www.forbes.com/sites/advisor/2020/10/02/the-750-question-how-trumps-taxes-reveal-the-deep-unfairness-of-the-us-tax-code/"
-    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/02/the-750-question-how-trumps-taxes-reveal-the-deep-unfairness-of-the-us-tax-code/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/02/the-750-question-how-trumps-taxes-reveal-the-deep-unfairness-of-the-us-tax-code/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 118
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f767678171081b47b0e73c1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3723%26cropY1%3D325%26cropY2%3D2418"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Yes, Donald Trump Is Still A Billionaire. That Makes His $750 Tax Payment Even More Scandalous."
-    excerpt: "The bombshell New York Times report raises new questions about the president’s finances. One thing not in doubt: he remains very rich."
-    publishedDateTime: 2020-09-28T14:19:00Z
-    webUrl: "https://www.forbes.com/sites/danalexander/2020/09/28/yes-donald-trump-is-still-a-billionaire-that-makes-his-750-tax-payment-even-more-scandalous/"
-    ampWebUrl: "https://www.forbes.com/sites/danalexander/2020/09/28/yes-donald-trump-is-still-a-billionaire-that-makes-his-750-tax-payment-even-more-scandalous/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danalexander/2020/09/28/yes-donald-trump-is-still-a-billionaire-that-makes-his-750-tax-payment-even-more-scandalous/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 113
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f712f512ded3e5a570b3e63%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump denies New York Times report detailing his tax returns and financial problems: 'It's totally fake news'"
-    excerpt: "The Times reported that Trump paid only $750 in federal income tax in 2016 and 2017, but shelled out $70,000 on hair styling during \"The Apprentice.\""
-    publishedDateTime: 2020-09-28T09:18:00Z
-    webUrl: "https://www.businessinsider.com/trump-denies-new-york-times-report-tax-returns-fake-news-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-denies-new-york-times-report-tax-returns-fake-news-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-denies-new-york-times-report-tax-returns-fake-news-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5f710db574fe5b0018a8db03?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Analyst: Trump paid less taxes than lowest bracket"
-    excerpt: "The bombshell revelations that President Donald Trump paid just $750 in federal income taxes the year he ran for office and paid no income taxes at all in many others, threatens to undercut a pillar of his appeal among blue-collar voters."
-    publishedDateTime: 2020-09-28T23:43:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/28/analyst-trump-paid-less-taxes-than-lowest-bracket/3568543001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9139012b-1b1d-4f40-836d-5d7bcd1f2ae0_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76773dd654b423dfece1b5%2F0x0.jpg"
+        width: 1199
+        height: 797
         isCached: true
-  - title: "Trump criticized Obama in 2012 for his 20.5% tax rate. A new report shows Trump paid no federal income tax that year."
-    excerpt: "A tweet from 2012 in which Donald Trump attacked President Barack Obama over his tax arrangements is coming under renewed scrutiny."
-    publishedDateTime: 2020-09-28T19:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-attacked-obama-for-tax-rate-when-he-paid-nothing-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-attacked-obama-for-tax-rate-when-he-paid-nothing-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-attacked-obama-for-tax-rate-when-he-paid-nothing-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f71a80274fe5b0018a8db22?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump avoided paying taxes for years, largely because his business empire reported losing more money than it made, report says"
-    excerpt: "President Trump paid just $750 in federal income taxes in 2016 and the same amount in 2017, and paid no taxes at all in several previous years, largely because his business empire has reported losing more money than it made,"
-    publishedDateTime: 2020-09-27T23:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-taxes/2020/09/27/8a58c618-010f-11eb-a2db-417cddf4816a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-taxes/2020/09/27/8a58c618-010f-11eb-a2db-417cddf4816a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-taxes/2020/09/27/8a58c618-010f-11eb-a2db-417cddf4816a_story.html?outputType=amp"
+  - title: "‘I have never supported Donald Trump’: Portland-area sheriff hits back after president claims his endorsement in debate"
+    excerpt: "\"As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,” Sheriff Mike Reese tweeted."
+    publishedDateTime: 2020-09-30T07:33:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/09/30/portland-sheriff-trump-debate-endorsement/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/09/30/portland-sheriff-trump-debate-endorsement/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/09/30/portland-sheriff-trump-debate-endorsement/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 97
+    quality: 101
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FUEMEVQBDEI6XIW3IF6N35EBNI.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZX5TZTQC24I6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 961
         isCached: true
-  - title: "Trump's reported $750 federal income tax bill is smaller than the average payment by an American household making $20,000 a year"
-    excerpt: "\"People with modest means pay more than that and I think that's really gonna get under people's skin,\" a tax expert said."
-    publishedDateTime: 2020-09-29T01:48:00Z
-    webUrl: "https://www.businessinsider.com/trump-tax-bill-smaller-than-us-households-earnings-pay-less-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-tax-bill-smaller-than-us-households-earnings-pay-less-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tax-bill-smaller-than-us-households-earnings-pay-less-2020-9?amp"
+  - title: "Trump is down in the polls, and the debate was a fiasco. It was a wasted opportunity for Trump, who needs a win before he runs out of time."
+    excerpt: "Trump is down in the polls and there are 35 days to go. The debate was a fiasco. Tomorrow Trump will still be down, and there will be 34 days to go."
+    publishedDateTime: 2020-09-30T03:35:00Z
+    webUrl: "https://www.businessinsider.com/trump-first-debate-strategy-wasted-time-biden-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-first-debate-strategy-wasted-time-biden-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-first-debate-strategy-wasted-time-biden-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 96
+    quality: 91
     images:
-      - url: "https://i.insider.com/5f35bd6fb4bb1c001df53365?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f73f3d774fe5b0018a8e243?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trevor Noah Lays Into Trump Over Taxes Bombshell: “You Didn’t Pay for Shit”"
-    excerpt: "Show host of the New York Times report that Trump paid $750 in federal income tax after becoming president in 2017: “That shit pisses me off.”"
-    publishedDateTime: 2020-09-29T12:33:00Z
-    webUrl: "https://www.vanityfair.com/hollywood/2020/09/trevor-noah-donald-trump-taxes"
-    ampWebUrl: "https://www.vanityfair.com/hollywood/2020/09/trevor-noah-donald-trump-taxes/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2020/09/trevor-noah-donald-trump-taxes/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 73
-    images:
-      - url: "https://media.vanityfair.com/photos/5f7326438f3d1388648ddfed/master/pass/Screenshot%202020-09-29%20at%208.19.02%20AM.png"
-        width: 1919
-        height: 927
         isCached: true
 
 secured: "xtLUPK+SfbEcKmCyeWLIb6kRAEI4lOE4Eqe2GG4Xs3s5Qw69RM7w+82Ht5Ix02fa2P43NpZvMHwxEPx412/pyqd+/8pKeJ5tAGrQBDCcbeZi4P2Pyr5UCJHslU8WiFyzityTwVQxV+mw9QSzanK7y7yAe/S5JUFoNJ1ATtSFAu1rybnhNGiOSZlilp+72JHu45aCHmWhJiQyxXZE/w2kAJHOOv4noknrtAKkqWxKuX0NV8kTKhCBds4z2chRjhkl39TdPmOIfoakB64iHGNCuKwxfbPjcQwRbOu5ln3ZjHtOm7yg7R+ElfgeAaDDV4R3eIZgzRUj8HW6EsHNqpRAsOX147IIgiUM27U0BHoBHZzCwYsH9RsLo7+hr5Q4DbAoME8y7mVs1rRUDb2kY89JsLPihZVV8crd2gH7gakecZkedL5yjOmli3CkgLQ/YPC9a2DaEbzkIPxiLlKPtI+2oVquxkJrXwTUfyxISNIeu+3dhxX3Sx1Aa4V4Nlg/2PjLqVA5cPxbEZOVSpZ4OYtm9Q==;xprjCqnD+zcb1dzza34KJA=="

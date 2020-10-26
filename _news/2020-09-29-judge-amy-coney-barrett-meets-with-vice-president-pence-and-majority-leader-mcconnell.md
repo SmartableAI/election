@@ -19,6 +19,22 @@ topics:
   - Mike Pence
 
 related:
+  - title: "Joe Biden makes plea to GOP Senators to 'take a step back from the brink' and hold off on Amy Coney Barrett vote"
+    excerpt: "The Democratic presidential nominee urged the GOP to \"take off the blinders of politics for just one critical moment\" in pushing a Supreme Court vote."
+    publishedDateTime: 2020-09-27T18:22:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5f70c83b74fe5b0018a8dae8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden: Amy Coney Barrett is a threat to Obamacare"
     excerpt: "Joseph R. Biden warned Saturday Obamacare is doomed if Amy Coney Barrett wins confirmation to the Supreme Court."
     publishedDateTime: 2020-09-27T00:17:00Z
@@ -35,17 +51,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Joe Biden: Vacancy about health law, not court expansion | Charlotte Observer"
-    excerpt: "Democratic presidential candidate Joe Biden says the GOP’s push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law."
-    publishedDateTime: 2020-09-28T07:53:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article246048190.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article246048190.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article246048190.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 52
 
 secured: "Y4EjYahNNwEnzYvUshPGoBFYt2lG043DZPBDJ86j+FU1kPQFa7F45u6NGhEWxr12UyyPsGnKPtgdBm/Z9zss1M1NIc9sLjgJA9I2exSLWsYP++Aa10SCtHGulETqPIXLoHh/0b8C86hp16p1Ld08jLFfMvemMGwEIEX259tlhfB7e4BredbWxwLOAcBf4N4ywgEISeOmdoKwOwTXRBW7YxCN2cmUUL08C4WzwRQS3xd2XsAHNSWCVchA6wOhbFro1kcSgGg2NdUazcp39mxgXXrnF9SWz1WFMWf86fcdIPnrS9Txy590PoS3RbWOSs+GK+Tq11w2DHwbtWepjK104lHtkifl8bx4wHYikdh+ylFfJygmKC8KodXuvrJninyAlh1ss0PDkJLI20C3mY3tjOeoJ1ISPUCFF0tkPTeoakXNF2a0XA3SbJQo7gycu3EhvhJ3LH0CRHe7rfYHid7F7NoABOkR4f/MLJIo7YoOeYYA3EMLt7knL3Fk7YGlzPs1pYpdrGTdtrF1OkqC51FEfg==;XYUO9XFCP6IPVwFtoqUOIw=="
 ---

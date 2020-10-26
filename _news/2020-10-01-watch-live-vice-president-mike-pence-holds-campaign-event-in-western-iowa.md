@@ -183,6 +183,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Mike Pence fly memes land on the vice presidential debate"
+    excerpt: "Pence Fly and Mike Pence Fly -- even landing a three-picture deal from Universal, joked Paul Feig, who directed Bridesmaids, The Heat and Ghostbusters: ATC. C-SPAN even thought the moment viral ..."
+    publishedDateTime: 2020-10-08T13:03:03Z
+    webUrl: "https://www.cnet.com/news/mike-pence-fly-memes-dominated-the-vice-presidential-debate/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/mike-pence-fly-memes-dominated-the-vice-presidential-debate/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mike-pence-fly-memes-dominated-the-vice-presidential-debate/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 75
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/nGPD5Zds7crxw9756joYE-utTE0=/2020/10/08/13211f95-e329-409a-a925-bf6fbdfd633b/1228948960.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
     excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"
     publishedDateTime: 2020-09-25T03:52:00Z
@@ -360,15 +376,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 40
-  - title: "Vice President Pence Holds Rally in Council Bluffs, IA"
-    excerpt: "President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs, IA. Vice President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs,"
-    publishedDateTime: 2020-10-01T09:01:00Z
-    webUrl: "https://www.c-span.org/video/?476385-1/vice-president-pence-holds-rally-council-bluffs-ia"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
   - title: "Vice President Pence Campaign Rally in Carter Lake, Iowa"
     excerpt: "2020-10-01T16:33:13-04:00https://images.c-span.org/Files/a9a/20201001164553002_hd.jpgVice President Mike Pence delivered remarks at a rally in support of his and President Trump’s reelection campaign held in Carter Lake, Iowa. Vice President Mike Pence ..."
     publishedDateTime: 2020-10-02T01:53:00Z

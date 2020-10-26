@@ -31,37 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "'End this nightmare': Rudy Giuliani's daughter urges Americans to vote for Joe Biden in Vanity Fair editorial"
-    excerpt: "Caroline Giuliani called her father the \"president's personal bulldog,\" and described Trump's time in the White House as a \"reign of terror.\""
-    publishedDateTime: 2020-10-16T07:21:00Z
-    webUrl: "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp"
+  - title: "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why."
+    excerpt: "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small."
+    publishedDateTime: 2020-10-18T18:48:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The FBI is investigating whether purported Hunter Biden-Burisma emails were part of a foreign intelligence operation"
+    excerpt: "The news comes shortly after it was reported that one of the sources of the emails, Rudy Giuliani, was a target for Russian intelligence."
+    publishedDateTime: 2020-10-16T03:43:00Z
+    webUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 106
+    quality: 102
     images:
-      - url: "https://i.insider.com/5f88b9f19e9fe40019009a62?width=1200&format=jpeg"
-        width: 733
-        height: 366
+      - url: "https://i.insider.com/5f2232ad40c1f34f271cefc4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Hannity Says Americans Should ‘Demand a Full Physical and Cognitive Assessment’ of Joe Biden"
-    excerpt: "Sean Hannity said Wednesday night that Joe Biden should undergo a \"full physical and cognitive assessment,\" raising questions about his cognitive abilities ahead of the final presidential de"
-    publishedDateTime: 2020-10-22T01:52:00Z
-    webUrl: "https://www.mediaite.com/tv/hannity-says-americans-should-demand-a-full-physical-and-cognitive-assessment-of-joe-biden/"
-    ampWebUrl: "https://www.mediaite.com/tv/hannity-says-americans-should-demand-a-full-physical-and-cognitive-assessment-of-joe-biden/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/hannity-says-americans-should-demand-a-full-physical-and-cognitive-assessment-of-joe-biden/amp/"
+  - title: "Joe Biden's polling lead is considerably stronger than Hillary Clinton's was 6 weeks before election"
+    excerpt: "Any mention of the word \"polls\" when discussing the 2020 election will evoke the predictable, and semi-understandable response of \"The polls are meaningless! They were way off in 2016! We can't trust the polls!"
+    publishedDateTime: 2020-09-23T18:31:00Z
+    webUrl: "https://www.chron.com/politics/article/Joe-Biden-polls-lead-averages-2016-Clinton-wrong-15584094.php"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 64
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/hannity-1.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.hdnux.com/photos/51/02/71/10759807/3/rawImage.jpg"
+        width: 2048
+        height: 1440
         isCached: true
 
 secured: "ZkvXnxnnYDDeGTZ4nTCdaztnjgWhnsIRMfdUTgZtWvqiRt7PLb7TLcAwPf0JXTDPiubetYEyDpRVaItjJ9x7F6Y83bPdKCEJxVH0v1p7FNiNJjquMNzG2crc2vErNyhqJ1wbCfD9PIXykR1ceywIdO0WnHksIErodvq9zBjI0PXrvIL9BhzZIMHJoxJsfEWUEIza8eq0vbaLK8e+PJ5TdAy9Mwd0hN+p6AsaIW6E8/hJ5QRGFOrn/dC4we21d8LONNvmZgX9XF5RsNtsPCa6C3evlpIMS6PBaqo9k2h/6XPOv21WnzkfO8qupmQ54xdBeSFA6ObbM6OHfjmu2QAMs2aE5CxzklMVLMSkV6Yti+dO8BcsAsAJGlQa8d1RRoLXX/TIIs7kcFFOEHteiBn4kkYR5FovtiBAIU5W+Si48l0/ghPbVUXFboostIJM+w1+V44/I346q6GSyZyIdTNNLr+GSJIyNAfQdS1T0vjS/OfBNYjP1k4Fth+YKEfqCDAzJvaXzrOPveob2GjI8dapbg==;iz/nqFMMN9ZKCU9W9PYhNA=="

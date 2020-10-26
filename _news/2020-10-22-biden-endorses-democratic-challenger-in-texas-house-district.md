@@ -47,22 +47,6 @@ related:
         width: 780
         height: 551
         isCached: true
-  - title: "Watch live: Biden holds town hall event"
-    excerpt: "Democratic presidential nominee Joe Biden is slated to hold a town hall event Thursday evening on ABC.The event is scheduled to begin at 8 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-10-15T22:46:00Z
-    webUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event"
-    ampWebUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "What we know – and don't know – about Hunter Biden's alleged laptop"
     excerpt: "A central figure has contradicted himself about his actions and motivations, raising questions about his account."
     publishedDateTime: 2020-10-15T22:04:00Z
@@ -143,21 +127,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "The best case against a Biden presidency: Him"
-    excerpt: "When you take a clear-eyed look at Biden, there is no meaningful case for his candidacy. His biggest argument is that he is the “good guy” in this election, which he describes as a “battle for the soul of the nation."
-    publishedDateTime: 2020-10-21T16:45:00Z
-    webUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him"
-    ampWebUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
+  - title: "What we need to hear from Biden at the debate"
+    excerpt: "I listed questions that President Trump should have to answer for each of the debate topics listed, except for covid-19, since it was already a topic in the first debate. Now, here are the questions Biden should address: If you add a public option to the Affordable Care Act,"
+    publishedDateTime: 2020-10-21T12:01:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/21/what-we-need-hear-biden-debate/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/21/what-we-need-hear-biden-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/21/what-we-need-hear-biden-debate/?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FRLZVLQSMYI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "A person who has flown with Biden in recent days tests positive for COVID-19"
     excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
@@ -331,19 +315,19 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Can Joe Biden be trusted?"
-    excerpt: "It was President Richard Nixon who said in the midst of the enveloping Watergate scandal: “People have got to know whether or not their president is a crook. Well, I’m not a crook. I earned everything I’ve got."
-    publishedDateTime: 2020-10-21T05:10:00Z
-    webUrl: "https://www.minotdailynews.com/opinion/national-columnists/2020/10/can-joe-biden-be-trusted/"
+  - title: "The greatest risk for a Biden administration"
+    excerpt: "The greatest risk for a possible Biden administration and Democratic majority is not attacking these disasters aggressively enough. Big problems call for big solutions — and if the problems are not fixed,"
+    publishedDateTime: 2020-10-21T09:48:00Z
+    webUrl: "https://theweek.com/articles/944800/greatest-risk-biden-administration"
     type: article
     provider:
-      name: Minot Daily News
-      domain: minotdailynews.com
+      name: THE WEEK
+      domain: theweek.com
     quality: 55
     images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.minotdailynews.com/images/2016/11/03084632/fblike.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/biden_go_big.jpg?itok=0cFJOnsA"
+        width: 1260
+        height: 560
         isCached: true
   - title: "Twitter erupts over Sam Elliott TV ad for Joe Biden during World Series"
     excerpt: "Actor Sam Elliott lent his voice to a Joe Biden campaign video that aired during the World Series Tuesday and became a Twitter magnet. See the ad and responses to"

@@ -67,22 +67,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Mike Pence attacks Biden’s economic policies at Michigan campaign rally"
-    excerpt: "Vice President Mike Pence said the economic policies of Democratic presidential nominee Joe Biden will harm Michigan jobs during a campaign rally in Oakland County Thursday. Pence held an outdoor rally attended by more than 200 supporters at Contact Aviation in Waterford Township."
-    publishedDateTime: 2020-10-22T17:37:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CYIB5TI7JFBXBD2CNQUQJFKTN4.png"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "YvbMAMsgukNeygyZ9MFWGGZhux3W5dqpvbs6ImjmHn0u85eYIiCGPtnR0OHlqX3aDnZ1MMBXMpvuIQO/eDUBxAwqBkzcYcN9AmrkBfvVm/KU38ejjzsgfBJENht3bLwA2bwSYSY643V2PlwGUY52L1V1KZTTUbr7ZqmJgF4+qcc+Jy/rge5h8O1vVuqNJxT7HHdt55J1OSUrtb3uTXVCaOUT5t/2dflcl3dDf0UX6H7WbINz5AXd/L90VYKM+2bIqQVC9RokgFRkFqyCV1JjzOsyBFwUPmmVvSkfHTGi0mgm2DB0BNLTN+JM8G2q4CuJaZGNwtkhbssj/mYkA01/i7Y1sjBdu1nZrucWAskv6qO/9eDvMNkWH1n7pNuyY2WY0s2EAUFBQyIH54Ba2iFfkOQobJEDrbtccXs6a1EBaP+mqlRqtf7anzJkVvwXt9kr+GSGQMHgCGM+rxzdgNnnkGmP7hXrViuVwtlvc3Ce3vqTsmvsTMyAamfFGXsHlWi8LNi9lQB0rKJE6OxU0vH9Ng==;MJ0mbPyn2K6VZ1nFWe18Uw=="
 ---

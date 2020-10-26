@@ -79,70 +79,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Concern over Biden's possible exposure to COVID-19 after Trump tests positive"
-    excerpt: "New concerns have surfaced about former Vice President Joe Biden's possible exposure to COVID-19 following President Trump's positive diagnosis announced early Friday."
-    publishedDateTime: 2020-10-02T17:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/concern-bidens-exposure-covid-19-trump-tests-positive/story?id=73383174"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/concern-bidens-exposure-covid-19-trump-tests-positive/story?id=73383174"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/concern-bidens-exposure-covid-19-trump-tests-positive/story?id=73383174"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 137
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-debate-1-gty-er-200929_1601428943927_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "1st Trump-Biden Presidential Debate Was ‘Exhausting,’ 8 Things To Do To Recover"
-    excerpt: "U.S. President Donald Trump began interrupting Democratic challenger and former Vice-President Joe Biden and then moderator Chris Wallace. It all went downhill from there."
-    publishedDateTime: 2020-10-01T17:24:00Z
-    webUrl: "https://www.forbes.com/sites/brucelee/2020/09/30/1st-trump-biden-presidential-debate-was-exhausting-how-to-do-a-mental-cleanse/"
-    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/09/30/1st-trump-biden-presidential-debate-was-exhausting-how-to-do-a-mental-cleanse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/09/30/1st-trump-biden-presidential-debate-was-exhausting-how-to-do-a-mental-cleanse/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 136
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f740c57426d5c99d5ae7afa%2F0x0.jpg"
-        width: 1200
-        height: 809
-        isCached: true
-  - title: "Only 2 Percent of Americans Said Donald Trump-Joe Biden Debate Changed Their Vote: Poll"
-    excerpt: "A new poll suggests that almost no voters are likely to change their vote after viewing the first debate between President Donald Trump and Democratic nominee Joe Biden, although most thought Biden won the debate."
-    publishedDateTime: 2020-10-01T23:47:00Z
-    webUrl: "https://www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798"
-    ampWebUrl: "https://www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 132
-    images:
-      - url: "https://d.newsweek.com/en/full/1644891/trump-biden-debate-view-television.jpg"
-        width: 2500
-        height: 1632
-        isCached: true
-  - title: "Trump-Biden presidential debate ratings fall 13% from 2016's record-setting first debate"
-    excerpt: "Fox News Channel drew 17.8 million viewers, the most of any network, while ABC led the broadcast pack with 12.6 million viewers."
-    publishedDateTime: 2020-10-01T06:20:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/09/30/trump-biden-presidential-debate-drew-lower-ratings-than-2016-opener/5869777002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5869777002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5869777002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden campaign sells out 'truth over flies' swatter after fly lands on Pence during debate"
     excerpt: "The Biden campaign quickly sold out of a “Truth Over Flies” fly swatter it was offering inspired by a viral moment from Wednesday's vice presidential debate."
     publishedDateTime: 2020-10-08T13:56:00Z
@@ -158,22 +94,6 @@ related:
       - url: "https://thehill.com/sites/default/files/pencefly_10072020getty_0.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Trump and Biden show own vulnerabilities in a messy argument that was barely a debate: ANALYSIS"
-    excerpt: "Former Vice President Joe Biden wanted a debate about President Donald Trump and his record. Trump wanted a debate about Biden – and Elizabeth Warren, Bernie Sanders and Biden’s son, Hunter, along the way."
-    publishedDateTime: 2020-09-30T09:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 128
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-trump-debate-splt-gty-ps-200929_1601430833917_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "The Biden campaign is selling swatters after a fly landed on Mike Pence's head during the VP debate"
     excerpt: "The Biden campaign was quick to capitalize on the moment in the vice-presidential debate, releasing a range of campaign-slogan-branded fly swatters."
@@ -303,6 +223,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden’s very un-2020 campaign"
+    excerpt: "Joe Biden was asked about the GOP’s controversial decision to move forward with Judge Amy Coney Barrett’s Supreme Court nomination, and he said he wasn’t inherently against her. Support our ..."
+    publishedDateTime: 2020-10-07T21:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/07/joe-bidens-very-un-2020-campaign/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/07/joe-bidens-very-un-2020-campaign/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/07/joe-bidens-very-un-2020-campaign/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-06-2020/t_72014ddd43394775856a9c5b3bf3b750_name_Demetrius_Freeman_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Republicans are doing Joe Biden’s work for him"
     excerpt: "He is helping former vice president Joe Biden, who has a double-digit national lead and comfortable leads in states that will get him beyond 270 electoral votes, run out the clock. This is as close to a unilateral surrender — both of visibility and incumbency — as we have ever seen in a presidential race."
     publishedDateTime: 2020-10-13T11:51:00Z
@@ -430,20 +366,6 @@ related:
       - url: "https://i.insider.com/5d014bb26fc920547d175b32?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Joe Biden's whistle-stop train tour to battleground states"
-    excerpt: "Joe Biden and his wife Jill take the stage in front of their campaign train during a campaign stop in Pittsburgh, Pennsylvania, September 30. REUTERS/Mike Segar"
-    publishedDateTime: 2020-10-01T22:40:00Z
-    webUrl: "https://www.reuters.com/news/picture/joe-bidens-whistle-stop-train-tour-to-ba-idUSRTX7ZBC0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535743609&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-01T174006Z_36816_MRPRC279J99RZR9_RTRMADP_0_USA-ELECTION-BIDEN"
-        width: 810
-        height: 540
         isCached: true
   - title: "Joe Biden campaigns in Miami"
     excerpt: "Watch \"Joe Biden campaigns in Miami\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -618,22 +540,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden to visit Grand Rapids Friday"
-    excerpt: "Joe Biden will visit Grand Rapids Friday, according to his campaign. Biden plans to discuss his “Build Back Better” economic plan, according to a release. The campaign has not released additional details about when or where the stop will be held."
-    publishedDateTime: 2020-09-30T23:03:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
-        width: 3771
-        height: 2514
-        isCached: true
   - title: "Joe Biden’s Grand Rapids visit targets former Republican stronghold"
     excerpt: "Joe Biden is heading to Grand Rapids on Friday, making a play for voters in a traditionally Republican county that has become more blue in recent elections. President Donald Trump won Kent County in 2016 when he became the first Republican to flip Michigan in nearly three decades."
     publishedDateTime: 2020-10-01T23:22:00Z
@@ -746,6 +652,17 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "The Latest: Biden Glad Trump Is Better, Says Crisis Remains"
+    excerpt: "Joe Biden says he’s glad President Donald Trump appears to have made a swift recovery from the coronavirus, but he notes that “our nation’s current crisis is far from over.”."
+    publishedDateTime: 2020-10-05T21:00:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-05/the-latest-biden-is-game-for-in-person-debate-if-its-safe"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-05/the-latest-biden-is-game-for-in-person-debate-if-its-safe?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-05/the-latest-biden-is-game-for-in-person-debate-if-its-safe?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Joe Biden to participate in prime-time town hall event on Oct. 15 in lieu of debate"
     excerpt: "Joseph R. Biden will participate in a prime-time town hall event hosted by ABC News on Oct. 15, the network announced on Thursday."
     publishedDateTime: 2020-10-08T21:29:00Z

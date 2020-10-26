@@ -239,6 +239,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mike Pence's Interruptions During VP Debate A 'Big Win' for Biden-Harris Campaign, Experts Say"
+    excerpt: "The Trump campaign already had a major problem with women voters when Mike Pence strode onto the stage on Wednesday night to face Kamala Harris. His performance only made it worse. While more ..."
+    publishedDateTime: 2020-10-08T19:07:00Z
+    webUrl: "https://www.newsweek.com/mike-pences-interruptions-during-vp-debate-big-win-biden-harris-campaign-experts-say-1537605"
+    ampWebUrl: "https://www.newsweek.com/mike-pences-interruptions-during-vp-debate-big-win-biden-harris-campaign-experts-say-1537605?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pences-interruptions-during-vp-debate-big-win-biden-harris-campaign-experts-say-1537605?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 153
+    images:
+      - url: "https://d.newsweek.com/en/full/1648332/mike-pence-kamala-harris-debate-stage-utah.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kamala Harris and Mike Pence debate reaction, Trump calls Covid diagnosis 'blessing' – live updates"
     excerpt: "Coronavirus dominates VP debate as Trump declares his illness a ‘blessing from god’"
     publishedDateTime: 2020-10-08T11:24:00Z
@@ -2165,6 +2181,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Pence’s Vice Presidential Debate Lecture to Kamala Harris Isn’t Likely to Help Trump With Women"
+    excerpt: "Even before Wednesday night’s slow-boil of a vice presidential debate in Salt Lake City, the re-election bid of President Donald Trump and Vice President Mike Pence was in trouble with the one ..."
+    publishedDateTime: 2020-10-08T04:33:00Z
+    webUrl: "https://time.com/5897757/vp-debate-mike-pence-women/"
+    ampWebUrl: "https://time.com/5897757/vp-debate-mike-pence-women/"
+    cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5897757/vp-debate-mike-pence-women/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 130
   - title: "Kamala Harris flies high over Mike Pence in vice president debate"
     excerpt: "The vice presidential debate, featuring Sen. Kamala Harris and Vice President Mike Pence, was the next big stop in the 2020 election. Give Harris the clear edge. She was cool, Pence was on the defensive."
     publishedDateTime: 2020-10-09T21:15:00Z

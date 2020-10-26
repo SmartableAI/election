@@ -105,22 +105,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "19-year-old plotted to kill Joe Biden, court documents indicate"
-    excerpt: "A 19-year-old who had a van full of guns and explosives and allegedly plotted to kill Joe Biden was arrested in North Carolina earlier this year, according to a judge's order. Alexander Hillel Treisman faces pornography charges and investigators testified they found evidence he was plotting to carry out violent acts and was interested in \"terrorist incidents and mass shootings,"
-    publishedDateTime: 2020-10-24T00:26:00Z
-    webUrl: "https://www.cbsnews.com/news/north-carolina-man-plotted-kill-joe-biden/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/north-carolina-man-plotted-kill-joe-biden/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/north-carolina-man-plotted-kill-joe-biden/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/23/a88e0c54-de33-4d41-937c-5818c494dace/thumbnail/1200x630/71ccb88887680b05b6b95366a001ffc7/nf5juvfd35b5vozk4ewvvrb4am.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden gets late boost with key union endorsement"
     excerpt: "Democratic presidential nominee Joe Biden got a late boost in the White House race Friday when he scored the endorsement of a prominent alliance of construction unions."
     publishedDateTime: 2020-10-23T21:31:00Z
@@ -370,6 +354,20 @@ related:
       - url: "https://www.snopes.com/tachyon/2020/10/biden_home.jpg"
         width: 1122
         height: 748
+        isCached: true
+  - title: "A Fox News reporter just debunked the latest conservative effort to smear Joe Biden"
+    excerpt: "The latest conservative effort to smear Democratic presidential nominee has now been debunked by a reporter at Fox News. On Thursday night, President Donald Trump invited Tony Bobulinski, an ex-business associate of Hunter Biden,"
+    publishedDateTime: 2020-10-23T16:18:00Z
+    webUrl: "https://www.salon.com/2020/10/23/a-fox-news-reporter-just-debunked-the-latest-conservative-effort-to-smear-joe-biden-_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 49
+    images:
+      - url: "https://media.salon.com/2020/07/fox-news-hosts-0714201.jpg"
+        width: 846
+        height: 571
         isCached: true
   - title: "NY Post: Ex-Biden Business Partner Says Joe Was In On Family Deal 'to Make Millions' From China"
     excerpt: "A former business partner of Hunter Biden issued a statement to The New York Post overnight, asserting that the Biden family, including Joe, Hunter and Joe's brother James, \"aggressively leveraged the Biden family name to make millions of dollars from foreign entities even though some were from communist controlled China."

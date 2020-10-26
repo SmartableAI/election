@@ -47,38 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "As Trump holds back, tech firms step in on election security"
-    excerpt: "Adam Schiff was in the audience at the 2018 Aspen Security Forum when a Microsoft executive mentioned an attempted hacking of three politicians up for reelection. It was the first that Schiff, then the top Democrat on the House Intelligence Committee,"
-    publishedDateTime: 2020-09-19T15:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1aff567f1dbd40d6924ae6f46e5ab10d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Donald Trump Jr. is actively helping his father corrupt the election"
-    excerpt: "As you know, President Trump has openly telegraphed his corrupt plan to declare himself the winner on or just after Election Day, should he be leading in the count at that point, while seeking to invalidate millions and millions of uncounted mail ballots as fraudulent."
-    publishedDateTime: 2020-09-22T20:44:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3NYKUHYL4I6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 941
-        isCached: true
   - title: "White House Says Trump Will Only Accept 'Free And Fair' Election"
     excerpt: "The statement comes as Trump has continued to decry mail-in ballots, which he has said will lead to a ‘rigged’ election."
     publishedDateTime: 2020-09-24T19:02:00Z
@@ -111,38 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Top U.S. Republicans pledge peaceful transition as Trump sows election doubts"
-    excerpt: "U.S. Senate Majority Leader Mitch McConnell and other top Republicans on Thursday repudiated President Donald Trump's refusal to commit to a peaceful transfer of power, assuring American voters the lawmakers would accept the outcome of November's election."
-    publishedDateTime: 2020-09-25T02:26:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-transfer/top-us-republicans-pledge-peaceful-transition-as-trump-sows-election-doubts-idUSKCN26F37A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26F37A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F37A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534847575&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1TI"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump hedges on transferring power, says election will end up at Supreme Court"
-    excerpt: "U.S. President Donald Trump declined on Wednesday to commit to a peaceful transfer of power if he loses the Nov. 3 election to Democratic rival Joe Biden and said he expected the election battle to end up before the Supreme Court."
-    publishedDateTime: 2020-09-24T07:51:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-election-idINKCN26F06C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN26F06C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN26F06C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 136
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534696872&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N02I"
-        width: 711
-        height: 545
-        isCached: true
   - title: "Eric Trump agrees to testify in New York investigation — but not until after election"
     excerpt: "The New York Attorney General’s office has been seeking to interview the president’s son as part of a probe into the Trump Organization’s financial practices."
     publishedDateTime: 2020-09-18T03:17:00Z
@@ -158,38 +94,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECNOUPHZGMI6VCPDJOPPUNW4MQ.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "The Note: Trump seeks to undermine election’s legitimacy with voting already underway"
-    excerpt: "President Donald Trump has crossed a new threshold in undermining the legitimacy of the election, refusing on Wednesday to simply commit to a peaceful transition of power"
-    publishedDateTime: 2020-09-24T10:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 133
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-rally-fill-that-seat-ap-jt-200923_1600901926017_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Ignore the strongman fantasies. If Trump loses the election, he'll lose his job. Period."
-    excerpt: "Trump's not-so-veiled threats to overstay his Oval Office welcome are signs of weakness, not strength. The presidency is his shield against prosecution."
-    publishedDateTime: 2020-09-25T15:39:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/09/25/donald-trump-joe-biden-peaceful-transfer-of-power-column/3528752001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3528752001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528752001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/43055fbe-dbb1-4858-b679-c9ea5eb325ad-AP_APTOPIX_Election_2020_Trump.jpg?auto=webp&crop=4899,2756,x0,y420&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trump: Making America polluted again"
     excerpt: "Trump’s actions not only make America dirtier and Americans less healthy, they also hurt the economy and future generations."
@@ -223,22 +127,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DOJ nearing antitrust action on Google; Trump eyes tech curb"
-    excerpt: "As the Trump administration moves toward antitrust action against search giant Google, it’s campaigning to enlist support from sympathetic state attorneys general across the country"
-    publishedDateTime: 2020-09-23T19:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_b2f6c7e423fe4af192c5adb0f0cc8277_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump administration moves toward antitrust action against Google"
     excerpt: "Lawmakers and consumer advocates accuse Google of abusing its dominance in online search and advertising to stifle competition and boost its profits."
     publishedDateTime: 2020-09-24T05:54:00Z
@@ -254,6 +142,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/ac1988a10371e0d0ac70b51f765b8bae6bb357d1/c=0-242-4643-2854/local/-/media/2020/08/12/USATODAY/usatsports/afp-afp_1wg0x6.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Judge dismisses suit against Fox over Trump affair story"
+    excerpt: "A Manhattan judge has tossed out a defamation lawsuit against Fox News brought by the former Playboy model who took a $150,000 payoff to squelch her story of an affair with Donald Trump"
+    publishedDateTime: 2020-09-24T19:38:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/judge-dismisses-suit-fox-trump-affair-story-73224203"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/judge-dismisses-suit-fox-trump-affair-story-73224203"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/judge-dismisses-suit-fox-trump-affair-story-73224203"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_d045c77a525e42c7b5456531994e94f9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Judge delays Trump administration’s restrictions on messaging app WeChat"
     excerpt: "In a ruling dated Saturday, a judge in California said the government’s actions would affect users' First Amendment rights as an effective ban on the app removes their platform for communication."
@@ -271,22 +175,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Both parties vow an orderly election as President Trump demurs on a peaceful transfer of power if he loses"
-    excerpt: "President Donald Trump’s refusal to commit to a peaceful transfer of power if he loses drew swift blowback Thursday from both parties in Congress."
-    publishedDateTime: 2020-09-24T13:59:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-election-transfer-of-power-20200924-ly3lynsbpre6pfd2icykdhupsq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-election-transfer-of-power-20200924-ly3lynsbpre6pfd2icykdhupsq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-election-transfer-of-power-20200924-ly3lynsbpre6pfd2icykdhupsq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 122
-    images:
-      - url: "https://www.chicagotribune.com/resizer/e2fg5SzbQDHtDPNocGgcaIfpL68=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AJSMQCNR5VCMPFWLLSAHJ6ABNA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Hungary PM Orban endorses U.S. President Trump in Nov election"
     excerpt: "Hungarian Prime Minister Viktor Orban on Monday endorsed Donald Trump in his reelection bid for the U.S. presidency, saying his rival Democrats have forced a \"moral imperialism\" on the world that illiberal leaders like himself reject."
     publishedDateTime: 2020-09-21T05:43:00Z
@@ -298,31 +186,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 120
-  - title: "Despite Trump's Attacks, Both Parties Are Vowing an Orderly Election"
-    excerpt: "President Donald Trump’s refusal to commit to a peaceful transfer of power if he loses drew swift blowback Thursday from both parties in Congress, and lawmakers turned to unprecedented steps to ensure he can’t ignore the vote of the people."
-    publishedDateTime: 2020-09-25T02:14:00Z
-    webUrl: "https://time.com/5893060/trump-election-transfer-of-power/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 120
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/AP20268710652400.jpg"
-        width: 3951
-        height: 2634
-        isCached: true
-  - title: "U.S. President Trump's re-election campaign spent $61.2 million in August"
-    excerpt: "U.S. President Donald Trump's re-election campaign spent $61.2 million in August, ending the month with $121.1 million in cash, according to a disclosure filed on Sunday with the Federal Election Commission."
-    publishedDateTime: 2020-09-21T00:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-fundraising-trump-idUSKCN26C00N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26C00N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26C00N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
   - title: "Campaign adviser argues Trump 'well positioned' to flip blue states, despite polling"
     excerpt: "Less than two months away from a presidential election that most experts predict will be determined by President Donald Trump's ability to defend the 2016 electoral map, one of Trump's top advisers argued Sunday that the campaign is actually poised to go on the offensive."
     publishedDateTime: 2020-09-13T17:49:00Z
@@ -336,22 +199,6 @@ related:
     quality: 118
     images:
       - url: "https://s.abcnews.com/images/Politics/jason-miller-gty-rc-200912_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Supreme Court vacancy hands Trump political opportunity as GOP senators plot course: ANALYSIS"
-    excerpt: "The Supreme Court opening provided President Donald Trump with a welcome diversion in a race largely framed as a referendum on his handling of the coronavirus pandemic."
-    publishedDateTime: 2020-09-23T19:23:00Z
-    webUrl: "https://abcnews.go.com/Politics/supreme-court-vacancy-hands-trump-political-opportunity-gop/story?id=73146907"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/supreme-court-vacancy-hands-trump-political-opportunity-gop/story?id=73146907"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-vacancy-hands-trump-political-opportunity-gop/story?id=73146907"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 114
-    images:
-      - url: "https://s.abcnews.com/images/Politics/ruth-bader-ginsburg-scotus-01-gty-llr-200921_1600705210031_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -410,34 +257,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "Trump's Supreme Court Push Roils US Election"
-    excerpt: "US President Donald Trump on Saturday urged Republican lawmakers to back his upcoming nomination for the Supreme Court \"without delay\" as the issue upended the election only a day after the death of liberal stalwart Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-19T17:10:00Z
-    webUrl: "https://www.ibtimes.com/trumps-supreme-court-push-roils-us-election-3048543"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/19/people-place-flowers-outside-of-the-us-supreme.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Donald Trump Wanted to Keep This Video Deposition Secret. We Got a Copy."
-    excerpt: "For indispensable reporting on the coronavirus crisis, the election, and more, subscribe to the Mother Jones Daily newsletter. During the 2016 campaign, Donald Trump was burdened with lawsuits ..."
-    publishedDateTime: 2020-09-18T00:00:00Z
-    webUrl: "https://www.motherjones.com/politics/2020/09/donald-trump-university-fraud-lawsuit-deposition-full-video/"
-    type: article
-    provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 54
-    images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2020/09/trump-hotmic_depo_master_2000.jpg?w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "vPZfCH8Y1phjXHm6jk5+R3Bu0jfNYtmrcKT6j9sStj9N4zQtzWQRnFHU5LzNfn2IJiTZlPrjCjfgOhGqR8rEXqLe2NgoqV8xLkoHTmywCXJ7Hy9O6TuydoTJ5KaExuZWvkYzCnr/CoI05r1ht+Jgs8OsDmo9CAj8/VkudY3/GeWUzqgPsZFWtRe75139SHJ9pra7HUAZN0OiJmuTWbFN1qgXgYy3i5lzT7EWvrqJ9fWJDvP9x0Qao236V92DBw86TR6o4COaF8RgrJljTwD66NZfhgOdEQY15J3srqLOZmc+jeINYYru1rDVUf2FNLpOsugvCrjEFnHKEw7jRiIz+JolT6mbfKiI5Wae3zG5tLQ=;k/GhJ4MRCRiaOBqJucbCow=="
 ---

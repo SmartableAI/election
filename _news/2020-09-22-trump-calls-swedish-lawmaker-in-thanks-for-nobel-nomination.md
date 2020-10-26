@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Some in China are worrying Trump will start a war to win reelection, US-China expert says"
-    excerpt: "US allies don't trust China, but they also don't like Trump's unilateral approach, according to Michael Green, a former NSC senior director for Asia."
-    publishedDateTime: 2020-09-25T13:16:00Z
-    webUrl: "https://www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 131
-    images:
-      - url: "https://i.insider.com/5dd6f8cffd9db2191b20d696?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Barrett must recuse from 2020 election cases, shield Supreme Court from Trump corruption"
     excerpt: "Barrett will be a fine justice. But Trump has had a corrupting influence on Congress and she'd put the court on a similar path if she rules on his fate."
     publishedDateTime: 2020-10-12T07:29:00Z
@@ -84,22 +68,6 @@ related:
     quality: 131
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'I hope it's a fair election': Trump won't commit to not declaring election win prematurely"
-    excerpt: "President Donald Trump also said he would challenge an election dispute about mail ballots to the Supreme Court."
-    publishedDateTime: 2020-09-30T15:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-trump-wont-commit-not-claiming-premature-win/3584421001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3584421001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3584421001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 130
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/37cbe3b4-7723-43c6-be0d-80b4491682d5-donald_trump.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -119,22 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "1,600 former Justice Department lawyers accuse Barr of using DOJ to help Trump in election"
-    excerpt: "In an open letter, former Justice Department attorneys expressed concerns Thursday that Attorney General William Barr is using the power of the agency to help Trump win reelection."
-    publishedDateTime: 2020-10-01T19:44:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/william-barr-accused-1-600-lawyers-using-doj-help-trump-win/5881731002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5881731002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5881731002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 130
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/14/USAT/4cdbac47-f1cd-4959-af61-e40d133acfb0-AFP_AFP_8PL9ZC.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Bio highlights of Amy Coney Barrett, Trump's high court pick"
     excerpt: "Here are some biographical details on Amy Coney Barrett, nominated by President Donald Trump for the U.S. Supreme Court"
     publishedDateTime: 2020-09-27T06:36:00Z
@@ -148,22 +100,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_e24b29958b714f1cad4500725db55417_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "President Trump nominates Amy Coney Barrett for Supreme Court seat"
-    excerpt: "A week and a day after Justice Ruth Bader Ginsburg’s death, President Trump nominated a replacement for the iconic jurist."
-    publishedDateTime: 2020-09-27T08:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-amy-coney-barrett-01-gty-jt-200926_1601155308187_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -295,22 +231,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Uses Curve Gesture While Saying He'll Nominate a Woman to Supreme Court"
-    excerpt: "President Donald Trump said Saturday that he will \"most likely\" nominate a woman as his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg—but it's a hand gesture he made that drew his critics to accuse him of misogyny."
-    publishedDateTime: 2020-09-20T14:49:00Z
-    webUrl: "https://www.newsweek.com/trump-uses-curve-gesture-while-saying-hell-nominate-woman-supreme-court-1533141"
-    ampWebUrl: "https://www.newsweek.com/trump-uses-curve-gesture-while-saying-hell-nominate-woman-supreme-court-1533141?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-uses-curve-gesture-while-saying-hell-nominate-woman-supreme-court-1533141?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1639433/donald-trump-curve-hand-woman.jpg"
-        width: 987
-        height: 594
-        isCached: true
   - title: "Trump: 'Very close' to Supreme Court decision, will announce nominee Saturday"
     excerpt: "President Trump said Tuesday he’s \"very close\" to making a decision on a Supreme Court nominee and will announce his pick on Saturday."
     publishedDateTime: 2020-09-22T22:24:00Z
@@ -343,22 +263,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Nancy Pelosi won't rule out impeachment to block a Trump Supreme Court nominee"
-    excerpt: "With President Trump expected to nominate a Supreme Court pick sometime this week, Pelosi is considering ways to prevent a vote on the nomination."
-    publishedDateTime: 2020-09-20T18:08:00Z
-    webUrl: "https://www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 121
-    images:
-      - url: "https://i.insider.com/5f678b1657b7da001ee12a91?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump intends to nominate Judge Amy Coney Barrett to Supreme Court, CNN reports"
     excerpt: "President Donald Trump intends to nominate conservative federal appeals court judge Amy Coney Barrett to fill the vacancy on the U.S. Supreme Court following the death of Justice Ruth Bader Ginsburg,"
     publishedDateTime: 2020-09-25T23:56:00Z
@@ -374,22 +278,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534972792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O1YJ"
         width: 819
         height: 545
-        isCached: true
-  - title: "'This is all about your healthcare': Biden says Trump nominated Amy Coney Barrett to end Affordable Care Act"
-    excerpt: "Biden decried Trump nominating Barrett \"before Justice Ginsburg could be laid to rest\" and after hundreds of thousands of Americans already voted."
-    publishedDateTime: 2020-09-27T21:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/27/biden-amy-coney-barrett-nomination-affordable-care-act/3555305001/?ref=hvper.com"
-    ampWebUrl: "https://amp.usatoday.com/amp/3555305001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3555305001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/d583c4c2-503d-4ac8-bfe4-1e7b11d3407f-AP_Election_2020_Biden_2.jpg?auto=webp&crop=2184,1229,x1,y83&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trumpworld delighted in cruelty. Now that Trump has COVID, it demands empathy."
     excerpt: "Trump supporters love how he owns the libs, mocks the afflicted, and makes no apologies. Now they're aghast that some critics are being \"mean\" to him."
@@ -470,20 +358,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536131103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG930RX"
         width: 798
         height: 545
-        isCached: true
-  - title: "Election 2020 Today: Barrett hearings, Trump's road trek"
-    excerpt: "Supreme Court nominee Amy Coney Barrett returns to Capitol Hill for a third day of confirmation hearings by the Senate Judiciary Committee"
-    publishedDateTime: 2020-10-14T13:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-barrett-hearings-trumps-road-trek-73604547"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a2da9a643e3a48f7b79d88551722c6f0_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
     excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
@@ -661,22 +535,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Pelosi says Democrats will 'use every arrow in our quiver' to block Trump's Supreme Court nominee"
-    excerpt: "House Speaker Nancy Pelosi paid tribute to the late Sunday, calling her a \"powerful, brilliant brain on the court\" in an appearance on ABC's \"This Week,\" while refusing to take another impeachment inquiry off the table in order to block President Donald Trump's upcoming nominee to the Supreme Court."
-    publishedDateTime: 2020-09-20T14:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/pelosi-demands-senate-republicans-wait-inauguration-fill-ginsburgs/story?id=73121750&ref=hvper.com"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/pelosi-democrats-arrow-quiver-block-trumps-supreme-court/story?id=73121750"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pelosi-democrats-arrow-quiver-block-trumps-supreme-court/story?id=73121750"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 112
-    images:
-      - url: "https://s.abcnews.com/images/Politics/nany-pelosi-rbg-memorial-gty-jef-200920_1600611307003_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Sen. Mike Lee, who met with Trump Supreme Court pick Amy Coney Barrett, tests positive for COVID-19"
     excerpt: "Utah, a member of the Senate Judiciary Committee, announced in a statement Friday he received a positive COVID-19 test."
     publishedDateTime: 2020-10-02T17:18:00Z
@@ -709,38 +567,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Donald Trump to announce Supreme Court nominee to fill Ruth Bader Ginsburg's seat on Saturday"
-    excerpt: "Trump has said he wants the Senate to vote on his nominee by Election Day, and prominent Republicans say they have the votes to confirm his pick."
-    publishedDateTime: 2020-09-22T15:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/ruth-bader-ginsburg-trump-announce-supreme-court-pick-saturday/5863841002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5863841002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5863841002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/e1f3a2f9-834b-472b-996a-026721e73ac6-AP_Trump_6.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Utah Sen. Mitt Romney says he will vote on Trump's Supreme Court nominee if they reach the Senate floor"
-    excerpt: "Romney's announcement dealt a fatal blow to Democrats' hopes of blocking Trump from filling the Supreme Court vacancy days before the election."
-    publishedDateTime: 2020-09-22T18:50:00Z
-    webUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5eac6e64e3c3fb1ef2603383?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump nominates Amy Coney Barrett to the Supreme Court. What happens next in Senate confirmation process"
     excerpt: "Now that Trump has named Amy Coney Barrett as his nominee to the Supreme Court, the Senate can start its nomination process."
     publishedDateTime: 2020-09-26T21:47:00Z
@@ -757,17 +583,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Trump to push ahead with Supreme Court nomination amid partisan battle"
-    excerpt: "President Donald Trump on Monday prepared to push ahead with plans for his third U.S. Supreme Court nomination, which would cement a 6-3 conservative majority, as some Republicans wavered on whether to support the move weeks ahead of an election."
-    publishedDateTime: 2020-09-21T13:03:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg/trump-to-push-ahead-with-supreme-court-nomination-amid-partisan-battle-idUSKCN26C1UE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26C1UE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26C1UE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Trump boasts at Pennsylvania rally that Supreme Court nominee Amy Coney Barrett will defend 'God-given rights'"
     excerpt: "Donald Trump traveled to battleground Pennsylvania for a campaign rally after formally choosing Amy Coney Barrett as his nominee for Supreme Court."
     publishedDateTime: 2020-09-27T01:45:00Z
@@ -870,20 +685,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 102
-  - title: "Trump Vows to Nominate a Woman to Fill Ginsburg's Supreme Court Seat This Week"
-    excerpt: "The President said he would nominate his selection despite Democrats' objections to have a justice chosen after the election"
-    publishedDateTime: 2020-09-20T14:08:00Z
-    webUrl: "https://time.com/5890820/trump-supreme-court-nominee-woman/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 101
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-supreme-court-nominee-woman.jpg"
-        width: 5093
-        height: 3395
-        isCached: true
   - title: "Democrats condemn Trump for gloating about an end to Obamacare less than a day after announcing his Supreme Court nominee"
     excerpt: "\"President Trump just admitted his nominee will strike down the Affordable Care Act,\" Chuck Schumer said of Trump's SCOTUS pick, Amy Coney Barrett."
     publishedDateTime: 2020-09-27T17:57:00Z
@@ -916,22 +717,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Pence suggests Trump SCOTUS nominee should skip committee to be confirmed before ‘election issues’ arise"
-    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named Supreme Court nominee should just skip the usual Judiciary Committee hearings and get confirmed by the U."
-    publishedDateTime: 2020-09-22T22:57:00Z
-    webUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 88
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Mike-Penc-Shutterstock-482x430.jpg"
-        width: 482
-        height: 430
-        isCached: true
   - title: "Donald Trump Nominates Amy Coney Barrett to the Supreme Court"
     excerpt: "President Donald Trump has nominated Judge Amy Coney Barrett to the Supreme Court, igniting what is set to be a titanic fight in the Senate."
     publishedDateTime: 2020-09-27T02:10:00Z
@@ -941,47 +726,6 @@ related:
       name: Time
       domain: time.com
     quality: 85
-  - title: "China's Xi sends sympathy message to Trump over infection"
-    excerpt: "Chinese President Xi Jinping has sent a message of sympathy to U.S. President Donald Trump and First Lady Melania Trump following their coronavirus diagnosis"
-    publishedDateTime: 2020-10-03T11:15:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/chinas-xi-sends-sympathy-message-trump-infection-73402883"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 85
-  - title: "Pence Suggests Unnamed Trump SCOTUS Nominee Should Skip Committee and Just Be Confirmed Before ‘Election Issues’ Arise"
-    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named ..."
-    publishedDateTime: 2020-09-22T21:52:00Z
-    webUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/"
-    ampWebUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
-    cdnAmpWebUrl: "https://www-thenewcivilrightsmovement-com.cdn.ampproject.org/c/s/www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
-    type: article
-    provider:
-      name: The New Civil Rights Movement
-      domain: thenewcivilrightsmovement.com
-    quality: 81
-    images:
-      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2020/09/pence-rally-photo-Michael-Candelori-4.jpg"
-        width: 940
-        height: 490
-        isCached: true
-  - title: "Trump says he will name woman to succeed Ginsburg on Supreme Court"
-    excerpt: "With less than two months to go before the US election, galvanized Democrats are pushing back furiously on Trump’s desire to ‘to move quickly’ on the nomination process US President Donald Trump on Saturday said he would nominate a woman to succeed late Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-20T22:40:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Donald-Trump-5.jpg"
-        width: 800
-        height: 430
-        isCached: true
   - title: "Trump Shifts Focus to Pennsylvania to Shore up Reelection"
     excerpt: "With less than 40 days to go until the election, Pennsylvania is poised to emerge as the most crucial battleground on the map, one President Donald Trump may not be able to be win another term without."
     publishedDateTime: 2020-09-26T05:39:00Z

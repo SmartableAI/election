@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5826614002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5826614002"
 type: article
 quality: 132
-heat: 292
+heat: 312
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1640934/donald-trump-united-nations-general-assembly.jpg"
         width: 3360
         height: 1872
+        isCached: true
+  - title: "Former FBI agent says it's 'clear' that 'Donald Trump is compromised by the Russians'"
+    excerpt: "Peter Strzok on Sunday said Russians \"hold leverage\" over Trump \"that makes him incapable of placing the national interest ... ahead of his own.\""
+    publishedDateTime: 2020-09-13T19:48:00Z
+    webUrl: "https://www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f5e5ccc7ed0ee001e25f041?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Trump says Wrays testimony on antifa bothered him"
     excerpt: "President Donald Trump says he is bothered by FBI Director Chris Wray's testimony this week that antifa is an ideology, not an organization. (Sept. 18)"

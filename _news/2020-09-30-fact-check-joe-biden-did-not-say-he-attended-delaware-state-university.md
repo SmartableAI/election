@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L2RD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L2RD"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201007&t=2&i=1536544756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG961N0"
         width: 818
         height: 545
+        isCached: true
+  - title: "The Energy 202: Joe Biden walks political tightrope by saying he does not support the Green New Deal"
+    excerpt: "The former vice president has spent months reconciling the climate demands of his party’s liberal and moderate wings."
+    publishedDateTime: 2020-09-30T12:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HYTZNXAC4II6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 1118
         isCached: true
   - title: "Fact check: Will Joe Biden raise your taxes on day one?"
     excerpt: "On day one, Joe Biden’s going to raise your taxes,” Vice President Mike Pence said during his debate with Sen. Kamala Harris. Details: How much your taxes go up would depend on how much you make. Harris and Biden are pushing an economic plan that would impose much higher taxes on the wealthy,"

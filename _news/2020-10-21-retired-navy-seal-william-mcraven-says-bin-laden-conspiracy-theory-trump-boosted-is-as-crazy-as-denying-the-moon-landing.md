@@ -47,6 +47,22 @@ related:
         width: 1199
         height: 782
         isCached: true
+  - title: "Obama endorses Espy in Mississippi; Trump backs Hyde-Smith"
+    excerpt: "Mike Espy has a great chance to win this election for the Senate and keep Mississippi moving forward,\" Obama said in a radio ad and the text of a fundraising appeal. Espy was U.S. agriculture secretary under President Bill Clinton,"
+    publishedDateTime: 2020-10-21T23:25:00Z
+    webUrl: "https://www.chron.com/news/article/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Watch: Trump rallygoers offer bizarre explanations to defend president’s failure to condemn QAnon"
     excerpt: "President Donald Trump’s fierce supporters are offering bizarre and baseless explanations to defend his refusal to condemn QAnon conspiracy theories during his town hall with NBC News moderator Savannah Guthrie."
     publishedDateTime: 2020-10-17T13:30:00Z

@@ -186,6 +186,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "“A Campaign Careening Towards the Finish Line”: The Pence–Harris Debate Was a Feeble Attempt at Normal"
+    excerpt: "Abigail Tracy: “I expect Senator Harris to tap into her time as a prosecutor and fully prosecute the case against Mike Pence,” Democratic strategist Cooper Teboe, who’s working with the ..."
+    publishedDateTime: 2020-10-08T15:36:17Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/mike-pence-kamala-harris-debate-was-a-feeble-attempt-at-normal"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/mike-pence-kamala-harris-debate-was-a-feeble-attempt-at-normal/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/mike-pence-kamala-harris-debate-was-a-feeble-attempt-at-normal/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 84
+    images:
+      - url: "https://media.vanityfair.com/photos/5f7f3b70d070eec8d50f0d80/master/pass/kamala-harris-pence-debate-2.jpg"
+        width: 2000
+        height: 1294
+        isCached: true
   - title: "SNL: Who Is Playing Kamala Harris on Saturday Night Live?"
     excerpt: "Kamala Harris (D-CA) delivers remarks at Shaw University on September 28, 2020. On October 3, 2020, Saturday Night Live will be returning to NBC for the premiere of its 46th season. The host will be Chris Rock and rapper Megan Thee Stallion will be performing as the musical guest."
     publishedDateTime: 2020-10-04T01:25:00Z

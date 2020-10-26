@@ -29,393 +29,283 @@ images:
     isCached: true
 
 related:
-  - title: "If Joe Biden Wins, Will the Democrats Pack the Supreme Court?"
-    excerpt: "It's a question that Democrats and Joe Biden really don't want to answer. Most Senate Democrats pivot to discuss their focus on winning the majority and protecting Americans' health care, which they warn could be at risk."
-    publishedDateTime: 2020-09-23T19:12:00Z
-    webUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914"
-    ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1641290/chuck-schumer.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden says voters should choose who nominates Supreme Court justice"
-    excerpt: "Democratic nominee Joe Biden said Saturday that voters should decide who nominates the next Supreme Court justice to replace the vacancy left by Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-27T02:20:00Z
-    webUrl: "https://thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice"
-    ampWebUrl: "https://thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_9262020_gettyimages.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden should enact critical government reforms if he wins"
-    excerpt: "If Joe Biden wins the presidency, one of his first orders of business should be to enact his proposed package of ethics reforms that ensures no future president can replicate the corruption of the Tru"
-    publishedDateTime: 2020-09-26T22:06:00Z
-    webUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins"
-    ampWebUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_030820getty_progressives.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden refuses to say whether he would support expanding Supreme Court"
-    excerpt: "Democratic nominee Joe Biden refused on Sunday to answer a question about whether he’d back expanding the Supreme Court to have more justices."
-    publishedDateTime: 2020-09-27T18:48:00Z
-    webUrl: "https://thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme"
-    ampWebUrl: "https://thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_09252020gn.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden has foreign policy ideals that can work in this chaotic world"
-    excerpt: "On trade policy, Biden supported the North American Free Trade Agreement and also promoted the Trans Pacific Partnership. The latter, which Hillary Clinton and Trump both opposed in 2016, sought to elevate standards for free trade on issues like labor rights,"
-    publishedDateTime: 2020-09-28T15:00:00Z
-    webUrl: "https://thehill.com/opinion/international/518548-joe-biden-has-foreign-policy-ideals-that-can-work-in-this-chaotic-world"
-    ampWebUrl: "https://thehill.com/opinion/international/518548-joe-biden-has-foreign-policy-ideals-that-can-work-in-this-chaotic-world?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/518548-joe-biden-has-foreign-policy-ideals-that-can-work-in-this-chaotic-world?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_03122020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Beto O’Rourke says Texas is ‘Joe Biden’s to lose’"
-    excerpt: "O'Rourke argued that public polling tends to underestimate Democratic performance in Texas, pointing to results from his 2018 Senate race, and Hillary Clinton in 2016."
-    publishedDateTime: 2020-09-29T23:43:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/33/41/20035650/3/rawImage.jpg"
-        width: 2048
-        height: 1283
-        isCached: true
-  - title: "Joe Biden to Democrats: Keep focus on health care, not expanding Supreme Court"
-    excerpt: "The former vice president sidestepped any talk of expanding the court to counter conservative gains should he win in November and Democrats regain a Senate majority."
-    publishedDateTime: 2020-09-27T18:17:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html?outputType=amp"
+  - title: "Joe Biden says winner of 2020 election should pick Ruth Bader Ginsburg’s successor"
+    excerpt: "Democratic presidential nominee Joe Biden says the winner of the November election should pick a successor to the late Supreme Court Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-18T17:25:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 121
+    quality: 134
     images:
-      - url: "https://www.chicagotribune.com/resizer/_PA3J5pS0nFUPeIzjC67IR6vTUE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ED4OMV2TAJEKLKWKRNMHJFESTY.jpg"
+      - url: "https://www.chicagotribune.com/resizer/3klB_ohaCYH1f4gIIiP-Y5AgQ1k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXPD4QA7XRDLHD6VHHG5ZO25OU.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
-    excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
-    publishedDateTime: 2020-09-20T10:37:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
+  - title: "Biden senior adviser says campaign has 'work to do' with Latino voters"
+    excerpt: "Joe Biden's campaign senior adviser Symone Sanders acknowledged Sunday that the former vice president's campaign has work to do to woo Latino voters with just over 50 days until the November election."
+    publishedDateTime: 2020-09-14T00:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/symone-sanders-gty-rc-200912_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Informed by reporters of Ginsburg's death, Trump says she was 'an amazing woman'"
+    excerpt: "President Donald Trump, informed by reporters after a rally about the death of Supreme Court Justice Ruth Bader Ginsburg, said: \"She was an amazing woman.\""
+    publishedDateTime: 2020-09-19T01:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-trump-idUSKBN26A036"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A036"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A036"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534073403&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I025"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump says he will name Supreme Court successor to liberal Ginsburg 'without delay'"
+    excerpt: "A fierce political battle was shaping up over the future of the U.S. Supreme Court on Saturday, with President Donald Trump saying he would quickly name a successor to liberal Justice Ruth Bader Ginsburg,"
+    publishedDateTime: 2020-09-19T15:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-ginsburg-idUSKCN26A0OQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0OQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0OQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 119
     images:
-      - url: "https://www.chicagotribune.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx"
-        width: 1200
-        height: 675
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534122226&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8I0HV"
+        width: 797
+        height: 545
         isCached: true
-  - title: "Joe Biden is betting big on climate change. Can he grow the economy at the same time?"
-    excerpt: "The former vice president is calling for $2 trillion in federal spending over the next four years to get the United States on the path to eliminating carbon emissions by mid-century — likely requiring massive shift away from oil and other fossil fuels."
-    publishedDateTime: 2020-09-25T11:50:00Z
-    webUrl: "https://www.houstonchronicle.com/business/energy/article/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
-    ampWebUrl: "https://www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 118
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/25/63/20012285/3/375x250.jpg"
-        width: 371
-        height: 250
-        isCached: true
-  - title: "Column: Why hasn’t Joe Biden said no to Democratic threats to pack the Supreme Court?"
-    excerpt: "Will Joe Biden’s stubborn insistence that Americans “don’t deserve” to know where he stands on packing the Supreme Court cost the Democrats in the Nov. 3 election? At issue are numerous Democratic threats — if they win the White House and control of the Senate — to increase the number of Supreme Court justices and ram liberal policy into law that they otherwise couldn’t dream of getting through Congress."
-    publishedDateTime: 2020-10-14T10:11:00Z
-    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-supreme-court-packing-kass-20201014-mjrk3l5jrfhr7gxcek5hpmw4mi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-supreme-court-packing-kass-20201014-mjrk3l5jrfhr7gxcek5hpmw4mi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-supreme-court-packing-kass-20201014-mjrk3l5jrfhr7gxcek5hpmw4mi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 118
-    images:
-      - url: "https://www.chicagotribune.com/resizer/EFpE-l1_doR_Krl2sN4pfnfCxzU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DIVH4UMLJTUVGP4FLOOPFCY3GQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joe Biden's plans to hike taxes for rich Americans will be key for markets if he wins the election, a strategist says"
-    excerpt: "Robertson said markets will factor in whether Biden's tax plans pressure domestic equities and credit markets at the expense of foreign markets."
-    publishedDateTime: 2020-09-30T11:31:00Z
-    webUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5f745c180ab50d00184ad34d?format=jpeg"
-        width: 3500
-        height: 1750
-        isCached: true
-  - title: "The Energy 202: Joe Biden walks political tightrope by saying he does not support the Green New Deal"
-    excerpt: "The former vice president has spent months reconciling the climate demands of his party’s liberal and moderate wings."
-    publishedDateTime: 2020-09-30T12:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/?outputType=amp"
+  - title: "The brazen claim by Trump and Tucker Carlson about Ruth Bader Ginsburg’s dying wish"
+    excerpt: "Carlson says he doesn't believe Ginsburg actually made her dying wish \"for a second.\" Trump suggested it had been written by Democrats. But it's eminently believable that she said this."
+    publishedDateTime: 2020-09-22T17:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/22/tucker-carlson-trump-baselessly-suggest-ginsburgs-granddaughter-lied-about-ginsburgs-dying-wish/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/22/tucker-carlson-trump-baselessly-suggest-ginsburgs-granddaughter-lied-about-ginsburgs-dying-wish/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/22/tucker-carlson-trump-baselessly-suggest-ginsburgs-granddaughter-lied-about-ginsburgs-dying-wish/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 110
+    quality: 119
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HYTZNXAC4II6XOJOAKLHN6PL5Q.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFO4QXWDXMI6VCIINCRLT2XJ4A.jpg&w=1440"
         width: 1440
-        height: 1118
+        height: 960
         isCached: true
-  - title: "George W. Bush's first EPA chief on why she supports Joe Biden"
-    excerpt: "Christine Todd Whitman, the former Republican governor of New Jersey who headed the Environmental Protection Agency under President George W. Bush, is endorsing Joe Biden in the presidential race. She joined CBSN to explain why she believes the Democratic nominee is a better choice for the country than President Trump."
-    publishedDateTime: 2020-09-28T21:56:00Z
-    webUrl: "https://www.cbsnews.com/video/george-w-bushs-first-epa-chief-on-why-she-supports-joe-biden/"
+  - title: "'Honor her wish': Trump jeered as he pays his respects to Ruth Bader Ginsburg at Supreme Court"
+    excerpt: "Members of the public booed Trump as he approached the casket atop the marble steps of the Supreme Court building to honor Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-24T19:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/24/trump-faces-jeers-chants-he-honors-justice-ruth-bader-ginsburg/3515823001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3515823001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3515823001"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/28/82a5b4b7-6b45-4a2f-9c68-17503be50c3b/thumbnail/1200x630/0daa3e25a97217bff1b74715ab3504d1/cbsn-fusion-george-w-bushs-first-epa-chief-on-why-she-supports-joe-biden-thumbnail-555771-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/f5179fcc-9956-4a7c-973a-e582234c864c-AP_Supreme_Court_Ginsburg.jpg?auto=webp&crop=4925,2771,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Joe Biden tells white supremacist groups to 'cease and desist' – video"
-    excerpt: "Joe Biden warned white supremacist groups including the Proud Boys, an extremist rightwing group, to 'cease and desist'"
-    publishedDateTime: 2020-09-30T21:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/sep/30/biden-trump-proud-boys-white-supremacists-cease-and-desist?ref=hvper.com"
+  - title: "These Are Donald Trump's Top Candidates for Ruth Bader Ginsburg's Seat"
+    excerpt: "The White House has zeroed in on judges Amy Coney Barrett and Barbara Lagoa as the leading contenders to replace Ginsburg on the Supreme Court"
+    publishedDateTime: 2020-09-24T08:43:00Z
+    webUrl: "https://time.com/5891199/donald-trump-supreme-court-nominee-barrett-lagoa/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Time
+      domain: time.com
     quality: 105
     images:
-      - url: "https://i.guim.co.uk/img/media/2c96dc4c3432c3b225914fc3d1566fe0e60f6cff/0_97_6214_3731/master/6214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf33728528f043a1130adf56f1ec6fd1"
-        width: 1200
-        height: 630
+      - url: "https://api.time.com/wp-content/uploads/2020/09/Amy-Coney-Barrett-Barbara-Lagoa.jpg"
+        width: 2400
+        height: 1200
         isCached: true
-  - title: "Leaked internal memos reveal the Democratic plan to use the battle over RGB's replacement to Joe Biden's advantage"
-    excerpt: "Talking points urge congressional Democrats to highlight the stakes for healthcare as they fight the GOP over filling a SCOTUS seat."
-    publishedDateTime: 2020-09-25T15:28:00Z
-    webUrl: "https://www.businessinsider.com/democrats-healthcare-pelosi-schumer-scotus-ginsburg-rbg-obamacare-2020-9"
+  - title: "Crowd boos President Trump as he paid respects to Ruth Bader Ginsburg"
+    excerpt: "President Donald Trump was booed by crowds at the Supreme Court when he and Melania Trump paid their respects to the late Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-24T17:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/trump-booed-and-chanted-he-paid-respects-ruth-bader-ginsburg/3518743001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/f5179fcc-9956-4a7c-973a-e582234c864c-AP_Supreme_Court_Ginsburg.jpg?quality=10"
+        width: 4926
+        height: 3284
+        isCached: true
+  - title: "Democrats' last hope to stop Trump from replacing Ruth Bader Ginsburg rests with a handful of Republican senators"
+    excerpt: "The fate of the Supreme Court now rests with a handful of Republican senators who could stop Trump and McConnell from forcing a confirmation."
+    publishedDateTime: 2020-09-19T03:27:00Z
+    webUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 83
+    quality: 104
     images:
-      - url: "https://i.insider.com/5f6d060f0f4d550011032355?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f1436aaaee6a842a3031f63?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Joe Biden’s low-key campaign style worries some Democrats"
-    excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is"
-    publishedDateTime: 2020-09-26T23:55:00Z
-    webUrl: "https://www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/"
-    ampWebUrl: "https://www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/amp/"
+  - title: "Tucker Carlson joined Trump in questioning whether Ruth Bader Ginsburg's dying wish is real, and called it 'pathetic'"
+    excerpt: "\"If it were true, it would be pathetic because life is bigger than politics, even this year,\" said Carlson on his Monday night Fox News show."
+    publishedDateTime: 2020-09-22T10:39:00Z
+    webUrl: "https://www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9?amp"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/AP20269061560469.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Joe Biden Is an Overhyped Debater"
-    excerpt: "Throughout Biden’s shaky 2020 Democratic primary debate performances, observers remarked that this wasn’t the same guy we saw debating Paul Ryan years ago."
-    publishedDateTime: 2020-09-29T15:47:00Z
-    webUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/"
-    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/08/Joe-Biden-1-DNC-scaled.jpg?resize=300%2C300&ssl=1"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Joe Biden: 'I am the Democratic Party right now'"
-    excerpt: "Joseph R. Biden declared Tuesday that he is effectively the Democratic party to try to rebut President Trump’s claim that he’d push a health proposal that would kick 180 million Americans off their private health insurance plans."
-    publishedDateTime: 2020-09-30T03:01:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/29/joe-biden-i-am-democratic-party-right-now/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/29/joe-biden-i-am-democratic-party-right-now/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/29/joe-biden-i-am-democratic-party-right-now/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/29/Election_2020_Debate_44204.jpg-74e82_c0-209-4955-3099_s1200x700.jpg?997af342a35fcecbf52c74f7b08e1f8b029a3b03"
+      - url: "https://i.insider.com/5f69c58e323fc4001e0d7a61?width=1200&format=jpeg"
         width: 1200
-        height: 700
+        height: 600
         isCached: true
-  - title: "What California’s COVID approach could teach the country if Joe Biden wins"
-    excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."
-    publishedDateTime: 2020-09-20T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
+  - title: "President Trump says he doubts Ruth Bader Ginsburg’s dying request, baselessly suggesting Democratic leaders wrote it"
+    excerpt: "I don’t know that she said that, or if that was written out by Adam Schiff, and Schumer and Pelosi. That came out of the wind....\""
+    publishedDateTime: 2020-09-22T20:58:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html?outputType=amp"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 73
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 102
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/6fca8008-5399-473b-9c15-ae69e818d75a/main/1280x720/1m2s741ms/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.chicagotribune.com/resizer/yXVEQJZlqmY1uNAfiiUtJZL8Qco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SK7VWRUXUY33VHH6TV5WLYUAYI.aspx"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
-    excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
-    publishedDateTime: 2020-09-20T22:28:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
+  - title: "Some in GOP See a Political Opening for Trump in the Death of Ruth Bader Ginsburg"
+    excerpt: "Hours after the death of the powerful liberal Justice, Republican Senators and donors endorsed replacing her before the next inauguration."
+    publishedDateTime: 2020-09-19T03:49:00Z
+    webUrl: "https://time.com/5890626/some-in-gop-see-a-political-opening-for-trump-in-the-death-of-ruth-bader-ginsburg/"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 69
+      name: Time
+      domain: time.com
+    quality: 100
     images:
-      - url: "https://www.courant.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx"
+      - url: "https://api.time.com/wp-content/uploads/2020/09/donald-trump-supreme-court.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Trump expects to announce Supreme Court pick by weekend, says Ruth Bader Ginsburg’s deathbed wish likely made up by Democrats"
+    excerpt: "President Donald Trump says he expects to announce his pick for the Supreme Court on Friday or Saturday, after funeral services for Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-21T12:48:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 98
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7QvrcaReTVRHWO0xEfSNL-EkIP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3G4ZXEGK7VH57IA2YRZ4NSQUJY.aspx"
         width: 1200
         height: 675
         isCached: true
-  - title: "‘Joe Biden has no ground game in Florida.’ Will Mike Bloomberg’s money change that?"
-    excerpt: "Progressive activists backing Joe Biden in Florida say they’ve made millions of phone calls, sent hundreds of thousands of text messages and even written thousands of letters to convince voters to support the Democratic presidential nominee."
-    publishedDateTime: 2020-09-24T10:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article245936375.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article245936375.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245936375.html"
+  - title: "Trump supporter shouts 'Ginsburg is dead' at a Minnesota rally to clue in the president about passing of Supreme Court justice"
+    excerpt: "\"The next president will get one, two, three or four Supreme Court justices,\" Trump said at a Minnesota rally, seemingly unaware of Ginsburg's death."
+    publishedDateTime: 2020-09-19T01:32:00Z
+    webUrl: "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/63f0cd1c-aa82-41aa-9299-fa4254e9cb80/6c7afb92-5477-477c-8802-a3b7875f288f/1280x720/match/image.jpg"
-        width: 1280
-        height: 718
-        isCached: true
-  - title: "Could Joe Biden Win Georgia? Democratic Nominee Launches Ad Blitz In Southern Battleground State"
-    excerpt: "Democratic nominee Joe Biden unveiled new ads in Georgia, targeting African-Americans in the battleground state."
-    publishedDateTime: 2020-09-22T00:51:00Z
-    webUrl: "https://www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482"
-    ampWebUrl: "https://www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/20/democratic-presidential-nominee-and-former-vice-president-joe.jpg"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Ex-husband says Jill Biden 'betrayed' him by cheating on him with Joe Biden; Biden camp denies it"
-    excerpt: "The ex-husband of Jill Biden has accused her of breaking up their marriage by cheating on him with then-Sen. Joseph R. Biden, a bombshell claim that the Biden campaign adamantly denies."
-    publishedDateTime: 2020-09-24T07:01:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 62
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/14/Election_2020_Biden_75896.jpg-f0c03_c0-0-5812-3390_s1200x700.jpg?e08503a716ce7b17cc9f3907f086fb5a345c64c9"
+      - url: "https://i.insider.com/5f655dd157b7da001ee129c9?width=1200&format=jpeg"
         width: 1200
-        height: 700
+        height: 600
         isCached: true
-  - title: "FACT CHECK: Joe Biden’s false and exaggerated Supreme Court claims"
-    excerpt: "In remarks following the death of Associate Justice Ruth Bader Ginsburg, Democratic presidential nominee Joe Biden made several false and exaggerated claims while arguing that the Senate should wait until after the Nov."
-    publishedDateTime: 2020-09-24T03:04:00Z
-    webUrl: "https://www.chron.com/news/article/FACT-CHECK-Joe-Biden-s-false-and-exaggerated-15587948.php"
+  - title: "Trump says he has an 'obligation' to nominate Ruth Bader Ginsburg's successor 'without delay' amid reports he plans to name a nominee within days"
+    excerpt: "Days before her death, Ginsburg reportedly said her \"most fervent wish is that I will not be replaced until a new president is installed.\""
+    publishedDateTime: 2020-09-19T14:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-nominate-rbg-replacement-reports-say-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-nominate-rbg-replacement-reports-say-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-nominate-rbg-replacement-reports-say-2020-9?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
     images:
-      - url: "https://s.hdnux.com/photos/01/14/22/54/19999550/5/rawImage.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://i.insider.com/5f660cac57b7da001ee129fb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Joe Biden Will Create Commission on Supreme Court Reforms if Elected"
-    excerpt: "The Democratic presidential nominee has been repeatedly pressed to give his position on ‘court packing’ but said his commission would study options ‘well beyond’ court expansion."
-    publishedDateTime: 2020-10-22T13:22:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
+  - title: "Trump and Melania booed, greeted with 'vote him out' and 'honor her wish' chants as they visit Ruth Bader Ginsburg's casket at the Supreme Court"
+    excerpt: "The Trumps rarely venture out of the White House while in Washington and thus rarely face public criticism in the way they did on Thursday."
+    publishedDateTime: 2020-09-24T15:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-boos-vote-him-out-chants-visits-rbg-casket-video-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-boos-vote-him-out-chants-visits-rbg-casket-video-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-boos-vote-him-out-chants-visits-rbg-casket-video-2020-9?amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/5f6caa80c4049200115cb5a1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden Reaction to Death of Justice Ruth Bader Ginsburg"
+    excerpt: "T21:40:50-04:00 presidential nominee Joe Biden pays tribute to Justice Ruth Bader Ginsburg. He recalls presiding over her confirmation hearing and says she was a “beloved figure.” He also says the voters should have a say in who picks her successor."
+    publishedDateTime: 2020-09-19T02:23:00Z
+    webUrl: "https://www.c-span.org/video/?476039-1/joe-biden-pays-tribute-late-justice-ruth-bader-ginsburg"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Delivers Remarks in Philadelphia"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on the next steps in replacing Supreme Court Justice Ruth Bader Ginsburg, whose death was announced two days prior. Speaking from Philadelphia's National Constitution Center,"
+    publishedDateTime: 2020-09-20T15:54:00Z
+    webUrl: "https://www.c-span.org/video/?476046-1/joe-biden-speaks-replacing-justice-ruth-bader-ginsburg"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Carpenter Union Training Center Tour in Duluth, Minnesota"
+    excerpt: "T15:01:02-04:00 presidential candidate Joe Biden tours a carpenter union training center in Duluth, Minnesota, and meets with some of the trainees. Democratic presidential candidate Joe Biden tours a carpenter union training center in Duluth,"
+    publishedDateTime: 2020-09-21T01:58:00Z
+    webUrl: "https://www.c-span.org/video/?476025-1/joe-biden-tours-carpenter-union-training-center-duluth-minnesota"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "wBPLgbEVj1/Mae/oWpXHDap+RxJW9bGpMn/U5wlMnkQwMW4b+gQIvZEVR2g2MQGPNSG6gU6prpgRELor5rWVxmEFrG5vjG9l8Tf7LZTEI9aMiqI6PftyTebLa4MD2FZ7XUjd264CodHhVS9eKceuWcc7EYDJNi1nWjBB8HOBlPQyd7V0Tp7mA0Fk1RaqCAPNC4EgEj5od/3NAngrn6TOrp9CumHAGVRDzu9rGi+G30IEg+HXCc6ASV6J6oQNJdTJCmwMybNbOsoQCUZDmOyUKjBh0SG7fqv2FaB9ulbxqQZMOcR4Wz/zOC5BjsZLXFJ5oU1c8NWlWrkkawr6FXbedZA6RNX3FeyrCep+0HS1K4/GO1CtErZJRW0688MWW4uwy+CuCHyp8JfS+gpQr/l6iQW0JSUwmh1y4gYgSTcb1YIlb5PhUsB+QqCAC6zzYTrqRGb3tfWS1sgf/Tz0f+O0o/nD8wWhxuGpYsbYjNTkabHKiRiN93T3B/mMK9FsJQBLYvGu/71Zrsiq//l1R+tsMA==;XH2ZdFqWcYbBaI74+WfGTQ=="
 ---

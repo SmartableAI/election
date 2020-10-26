@@ -57,21 +57,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "As Trump casts doubt on election, new agency contradicts him"
-    excerpt: "As President Donald Trump sows doubts about the election, an obscure government agency he created is working behind the scenes to inspire confidence in the vote amid unprecedented challenges"
-    publishedDateTime: 2020-10-24T08:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-casts-doubt-election-agency-contradicts-73801127"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-casts-doubt-election-agency-contradicts-73801127"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-casts-doubt-election-agency-contradicts-73801127"
+  - title: "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics"
+    excerpt: "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware."
+    publishedDateTime: 2020-10-22T11:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 140
+    quality: 136
     images:
-      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.abcnews.com/images/Politics/trump-1-rt-er-201021_1603316702002_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Trump casts a 'very secure vote' for himself in Florida: 2020 election updates"
     excerpt: "Trump cast his ballot at the West Palm Beach library near his private Mar-a-Lago club. The president told reporters after leaving the library it was \"an honor\" to be voting and that he cast a \"very secure vote."
@@ -313,6 +313,22 @@ related:
         width: 703
         height: 545
         isCached: true
+  - title: "Betting markets give Trump slightly improved chances after debate"
+    excerpt: "U.S. President Donald Trump's probability of getting re-elected gained slightly on online betting markets following Thursday's final presidential debate."
+    publishedDateTime: 2020-10-23T09:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-gambling-idUSKBN27812E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27812E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27812E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538576756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0MP"
+        width: 873
+        height: 545
+        isCached: true
   - title: "Frank Bruni column: That’s the last we need to hear from Trump"
     excerpt: "It’s funny that everybody talks about Joe Biden as the old jalopy in this race, because on Thursday night in Nashville, Tennessee, it was President Donald Trump who seemed to be running on fumes."
     publishedDateTime: 2020-10-23T14:53:00Z
@@ -425,22 +441,6 @@ related:
         width: 1200
         height: 761
         isCached: true
-  - title: "UK-US trade pact opposed with Trump, cows and pigs as props"
-    excerpt: "Demonstrators dressed as chickens, a cow and President Donald Trump gathered near the Houses of Parliament to protest a proposed U.S.-U.K. trade deal that activists say will lower food standards"
-    publishedDateTime: 2020-10-24T13:29:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/uk-us-trade-pact-opposed-trump-cows-pigs-73804135"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/uk-us-trade-pact-opposed-trump-cows-pigs-73804135"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/uk-us-trade-pact-opposed-trump-cows-pigs-73804135"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_e8ab5ff369224d3fa5c863ea6681009a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Minority pushes Trump agenda largely unpopular among tribes"
     excerpt: "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump's agenda in areas long considered Democratic territory"
     publishedDateTime: 2020-10-24T17:57:00Z
@@ -456,22 +456,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_23d275ca72c845dbb990b4fab407e173_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump Prepares For Rally At U.S. Coronavirus Epicenter"
-    excerpt: "President Donald Trump is set to hold his Saturday night, primetime rally just over a week before Election Day in Wisconsin—a state at the heart of the midwestern epicenter of the coronavirus outbreak,"
-    publishedDateTime: 2020-10-25T11:14:00Z
-    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/24/trump-prepares-for-rally-at-us-coronavirus-epicenter/amp/"
-    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/24/trump-prepares-for-rally-at-us-coronavirus-epicenter/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/24/trump-prepares-for-rally-at-us-coronavirus-epicenter/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f948c9ea9e51e9c01aa12d2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D382%26cropY2%3D2914"
-        width: 1200
-        height: 675
         isCached: true
   - title: "What to make of the 'kinder, gentler' Donald Trump"
     excerpt: "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st"
@@ -612,22 +596,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
-  - title: "Amid record U.S. cases and new White House outbreak, Trump claims pandemic progress"
-    excerpt: "With U.S. coronavirus cases at record levels, President Donald Trump on Sunday repeated his refrain that the nation is \"rounding the turn\" in the pandemic, while Vice President Mike Pence pressed ahead with campaigning despite positive COVID-19 tests among multiple aides."
-    publishedDateTime: 2020-10-25T20:04:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idINKBN27A051"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A051"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A051"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538758431&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O0EQ"
-        width: 914
-        height: 545
-        isCached: true
   - title: "Why faith voters should stick with Trump: Christian leaders of character surround him"
     excerpt: "Trump seldom reflects the desired fruits of the Spirit. But he kept his promises to the faith community and surrounded himself with key leaders from it."
     publishedDateTime: 2020-10-22T07:39:00Z
@@ -740,22 +708,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
-    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
-    publishedDateTime: 2020-10-21T05:26:00Z
-    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
-        width: 911
-        height: 455
-        isCached: true
   - title: "President Trump claimed during the debate the GOP will take back the House. That is unlikely."
     excerpt: "\"I think we're going to win the House,\" Trump said during the debate. That is contrary to what most election experts think."
     publishedDateTime: 2020-10-23T03:27:00Z
@@ -836,22 +788,6 @@ related:
         width: 880
         height: 440
         isCached: true
-  - title: "President Donald Trump said wind turbines kill 'all the birds.' Cats and radio towers kill far more."
-    excerpt: "President Donald Trump's claim that wind turbines pose a great threat to our avian friends is dubious at best."
-    publishedDateTime: 2020-10-24T02:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/23/trump-biden-during-2020-debate-windmills-kill-all-birds/3744837001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3744837001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3744837001"
-    type: article
-    provider:
-      name: Florida Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
     excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
     publishedDateTime: 2020-10-24T09:12:00Z
@@ -916,6 +852,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The final debate could be Trump's last chance to turn the race around: He's already attacking the moderator"
+    excerpt: "Trump praised Welker in the past, complementing her in January for landing a gig on NBC's \"Today\" show. \"They made a very wise decision,\" Trump said."
+    publishedDateTime: 2020-10-20T00:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/18/trump-attack-third-debate-moderator-kristen-welker-unfair/3704010001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3704010001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3704010001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/a2b11f88-7c73-4171-9166-a5534fdcbde3-XXX_Welker_Kristen_2_dcb.JPG?auto=webp&crop=2999,1687,x1,y128&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump keeps confusing the name of new hard-to-kill missiles the US military is working on with a toothbrush"
     excerpt: "Not only does Trump keep getting the name wrong, but he has also provided conflicting information on what the weapon actually does."
     publishedDateTime: 2020-10-20T23:23:00Z
@@ -943,20 +895,6 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7d9f912a-23f5-416e-bf7b-3fd9f700ebbb_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump speaks as he arrives for Carson City rally"
-    excerpt: "President Donald Trump speaks to reporters as he heads for his campaign rally in in Carson City, Nevada on Sunday. Once considered a battleground state, Nevada hasn’t swung for a Republican presidential contender since 2004."
-    publishedDateTime: 2020-10-19T01:36:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/19/trump-speaks-he-arrives-carson-city-rally/3707058001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4506c45e-7512-47f4-be1b-b5f7f5e1eb8e_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
@@ -996,20 +934,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "How Donald Trump's Presidency Has Changed The Media"
-    excerpt: "Navarro asks CNN's chief media correspondent Brian Stelter how Donald Trump's presidency has affected the media and what another four years could bring."
-    publishedDateTime: 2020-10-25T11:51:00Z
-    webUrl: "https://www.npr.org/2020/10/25/927564446/how-donald-trumps-presidency-has-changed-the-media"
+  - title: "Foreign students show less zeal for US since Trump took over"
+    excerpt: "On a recruiting trip to India’s tech hub of Bangalore, Alan Cramb, the president of a reputable Chicago university, answered questions not just about dorms or tuition but also American work visas."
+    publishedDateTime: 2020-10-25T22:47:00Z
+    webUrl: "https://www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10?amp"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Trump repeatedly refused to condemn QAnon and said he agreed with part of the far-right conspiracy movement during his NBC town hall"
     excerpt: "The president alternated between claiming he had no idea what QAnon was and expressing support for the conspiracy movement."
     publishedDateTime: 2020-10-16T01:43:00Z
@@ -1025,22 +960,6 @@ related:
       - url: "https://i.insider.com/5c466437dde8673e9b7805e1?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Joe Biden: I 'guarantee' Trump will accept election results; no one's going to stick with him"
-    excerpt: "Joseph R. Biden predicted that President Trump will ultimately accept the results of November’s election, saying he doesn’t have the support of the military to engineer some sort of “coup” if he had thoughts about doing so."
-    publishedDateTime: 2020-10-24T16:45:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/24/joe-biden-i-guarantee-trump-will-accept-election-r/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/24/joe-biden-i-guarantee-trump-will-accept-election-r/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/24/joe-biden-i-guarantee-trump-will-accept-election-r/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 94
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/24/Election_2020_Biden_06316.jpg-9cc1c_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Pat Robertson predicts Trump re-election will usher in apocalypse: ‘By all means get out and vote!’"
     excerpt: "Televangelist Pat Robertson predicted President Donald Trump would win re-election, and that would usher in the long-promised End Times. The 90-year-old broadcaster, who has consistently supported the president who is backed by white evangelicals,"
@@ -1122,6 +1041,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Trump goes after Fauci, tries to buck up his campaign team"
+    excerpt: "President Donald Trump sought Monday to buck up his campaign staff two weeks from Election Day, dismissing the cautionary coronavirus advice of his scientific experts as well as polling showing him trailing Democratic rival Joe Biden across key battleground states."
+    publishedDateTime: 2020-10-19T19:17:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/61/52/20126397/73/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Colbert Slams Trump for “Insane” Attempt to Defend Child Separation"
     excerpt: "The final debate was relatively muted compared—but Stephen Colbert, Jimmy Fallon, and Jimmy Kimmel still found plenty of Trump lines to tear apart."
     publishedDateTime: 2020-10-23T12:50:00Z
@@ -1151,22 +1086,6 @@ related:
     quality: 75
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Report: Trump Tipped Off Republican Donors Coronavirus Would Crash Economy"
-    excerpt: "Economic aides met privately with the Hoover Institution and told them the economic risks of the virus, allowing them to sell off stocks before most investors"
-    publishedDateTime: 2020-10-15T12:32:00Z
-    webUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625"
-    ampWebUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/trump-received-a-single-dose-of-regenerons-antibody.jpg"
         width: 1024
         height: 682
         isCached: true
@@ -1201,20 +1120,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-9.png"
         width: 800
         height: 430
-        isCached: true
-  - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
-    excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"
-    publishedDateTime: 2020-10-22T21:15:00Z
-    webUrl: "https://www.nhpr.org/post/vp-mike-pence-campaigns-trump-portsmouth"
-    type: article
-    provider:
-      name: New Hampshire Public Radio
-      domain: nhpr.org
-    quality: 70
-    images:
-      - url: "https://www.nhpr.org/sites/nhpr/files/styles/medium/public/202010/PencePorts_102120_JRogers_0.jpg"
-        width: 625
-        height: 469
         isCached: true
   - title: "Savannah Guthrie Is Being Praised for How She Handled Donald Trump at NBC’s Town Hall"
     excerpt: "Today show cohost Savannah Guthrie moderated a town hall with President Donald Trump on NBC October 15 and is garnering a fair amount of praise for her handling of the situation, which once again saw POTUS avoiding answering questions and going off on rambling tangents."
@@ -1406,12 +1311,12 @@ related:
         width: 846
         height: 571
         isCached: true
-  - title: "New Florida Resident Trump Casts Presidential Ballot for Himself"
-    excerpt: "U.S. President Donald Trump voted in his new home state of Florida on Saturday, casting his ballot for his re-election at a public library across the street from one of his golf clubs. Trump, wearing a mask to prevent the spread of coronavirus,"
-    publishedDateTime: 2020-10-24T16:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself?context=amp"
+  - title: "Obama Blasts Trump's Tweets, Track Record in 2020 Campaign Trail Debut"
+    excerpt: "Former President Barack Obama returned to the campaign trail on Wednesday with a blistering attack on Donald Trump with less than two weeks to go before the Republican president's Election Day face-off with Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-23T12:53:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
@@ -1467,6 +1372,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "How Important Is The Final Debate For Trump? After Poor Showing In First Debate, President May Need A 'Game Changer'"
+    excerpt: "With his poll numbers lagging and Election Day less than two weeks away, President Donald Trump may need to make a compelling case for reelection Thursday in the final presidential debate. Over 35 million Americans have already voted in the presidential election but Trump may seek to sway some undecided voters and boost conservative turnout by outshining Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-22T20:20:00Z
+    webUrl: "https://www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408"
+    ampWebUrl: "https://www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/29/us-president-donald-trump-questions-the-coronavirus-figures.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "How the conservative movement and the rise of the hard right created Donald Trump"
     excerpt: "Author Edmund Fawcett on how the \"hard right\" — and the conflict within conservatism — led to the Trump calamity"
     publishedDateTime: 2020-10-25T02:24:00Z

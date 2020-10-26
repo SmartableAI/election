@@ -31,1967 +31,2548 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020 live updates: After a more civil final debate, Trump and Pence head to battleground states, Biden to talk COVID"
-    excerpt: "The final presidential debate between Joe Biden and Donald Trump was more civil Thursday. Now the two camps hit the campaign trail in final 11 days."
-    publishedDateTime: 2020-10-23T13:53:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/23/election-2020-updates-trump-pence-head-battlegrounds-after-debate/3679810001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3679810001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679810001"
+  - title: "White House says Trump 'not incapacitated,' working from isolation; Pence negative"
+    excerpt: "The White House tried to reassure Americans on Friday that President Donald Trump was still working from isolation, after his bombshell announcement that he had caught the coronavirus threw the administration and presidential election campaign into uncertainty."
+    publishedDateTime: 2020-10-02T15:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN26N0MX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26N0K4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26N0K4"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 153
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/255314e1-791b-42f3-a81d-484e6fb0b63d-AFP_AFP_8TN4LL.jpg?auto=webp&crop=4967,2794,x0,y140&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Election 2020 live updates: Trump, Biden racing toward Election Day with more rallies"
-    excerpt: "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more rallies and concerts on Sunday."
-    publishedDateTime: 2020-10-25T13:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73808945"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73808945"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73808945"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 148
-    images:
-      - url: "https://s.abcnews.com/images/US/biden-rally-pa-rt-rc-201024_1603555045915_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Immigration Makes It Into Election Debate For First Time —Here Is Where Trump And Biden Stand"
-    excerpt: "Donald Trump’s hardline immigration crackdown was brought back into focus during Thursday’s second—and final—presidential debate."
-    publishedDateTime: 2020-10-23T11:17:00Z
-    webUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/23/immigration-makes-it-into-election-debate-for-first-time--here-is-where-trump-and-biden-stand/"
-    ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/23/immigration-makes-it-into-election-debate-for-first-time--here-is-where-trump-and-biden-stand/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/23/immigration-makes-it-into-election-debate-for-first-time--here-is-where-trump-and-biden-stand/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: Reuters
+      domain: reuters.com
     quality: 144
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f92b9ad88c544b2351d1153%2F0x0.jpg"
-        width: 1200
-        height: 851
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535828951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910W2"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Husband likes Biden, wife likes Trump. How the 2020 election is testing families and friendships"
-    excerpt: "While this isn’t new – the troupe of an opinionated uncle at the Thanksgiving table does exist for a reason – the fallout families face over these differences has worsened as the discourse around modern American politics has intensified."
-    publishedDateTime: 2020-10-21T14:44:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/21/trump-vs-biden-how-2020-election-testing-families-friendships/6004687002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6004687002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6004687002"
+  - title: "Pence takes lead role in campaign with Trump travel stopped"
+    excerpt: "Vice President Mike Pence is taking the lead role in campaigning, starting a swing through key states to bolster the president’s chance for reelection"
+    publishedDateTime: 2020-10-06T08:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pence-takes-lead-role-campaign-trump-travel-stopped-73445271"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-takes-lead-role-campaign-trump-travel-stopped-73445271"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-takes-lead-role-campaign-trump-travel-stopped-73445271"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_662cda88ce9344989d89bf3d08b8c3b4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump halts COVID-19 relief talks until after election"
+    excerpt: "President Donald Trump says he has instructed aides to stop negotiating on another round of COVID-19 relief until after the election"
+    publishedDateTime: 2020-10-06T19:52:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_359bceaed01f4df7aaad003a6ba49153_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Twitter’s New Rules Try To Prevent Election—And Trump-Related—Chaos"
+    excerpt: "The social media network announced a slew of new rules ahead of the election making it harder to spread misinformation."
+    publishedDateTime: 2020-10-09T17:33:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/"
+    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f809c2cde5f721bca837434%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Here are the recent times Trump, his kids and Pence have been in Arizona"
+    excerpt: "In the weeks ahead of President Donald Trump's COVID-19 diagnosis, Trump, VP Mike Pence and members of their families made several stops in Arizona."
+    publishedDateTime: 2020-10-04T21:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/arizona/2020/10/03/timeline-trump-his-kids-pence-have-recently-visited-arizona/3612410001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3612410001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3612410001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 142
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/NTFO/ac36ccb8-e54a-4e9e-8514-6e08cee36123-Terry_and_Regan.jpg?auto=webp&crop=1221,687,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "13 days to go: Trump hits the road, Biden looks for a boost from Obama"
-    excerpt: "President Trump is hopping from one must-win stop on the electoral map to the next in the leadup to a final presidential debate. Joe Biden holes up to prep in advance of the faceoff."
-    publishedDateTime: 2020-10-21T15:48:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-2020-election-updates-20201021-44czciknwbaedgq55nqkbx7ncq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-2020-election-updates-20201021-44czciknwbaedgq55nqkbx7ncq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-2020-election-updates-20201021-44czciknwbaedgq55nqkbx7ncq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 140
-    images:
-      - url: "https://www.chicagotribune.com/resizer/Vi2vQBmtbG_CzDrT297oq_cWvPg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RGXRTMVD4AR7VPRBZC54SUHHYU.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Note: Why Obama still matters to both Biden and Trump"
-    excerpt: "Former President Barack Obama is a potent political force -- something both former Vice President Joe Biden and President Donald Trump can agree on."
-    publishedDateTime: 2020-10-21T10:15:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-obama-matters-biden-trump/story?id=73718498"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-obama-matters-biden-trump/story?id=73718498"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-obama-matters-biden-trump/story?id=73718498"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/note-obama-dnc-01-gty-llr-201020_1603237263377_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "A debate question for Trump: Keep interrupting or let Biden talk?"
-    excerpt: "President Donald Trump has done little in the way of formal preparation ahead of Thursday's face-off with former Vice President Joe Biden."
-    publishedDateTime: 2020-10-21T22:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/debate-question-trump-interrupting-biden-talk/story?id=73744192"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/debate-question-trump-interrupting-biden-talk/story?id=73744192"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/debate-question-trump-interrupting-biden-talk/story?id=73744192"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-debate-1-gty-ps-200929_1601429206441_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Column: Will Joe Biden end the wars Donald Trump hasn’t?"
-    excerpt: "He said our endless wars would end. He pledged to make our allies bear their full share of defense costs. He raised the possibility of a firm restraint in dealing with the rest of the world. Like most of Trump’s promises,"
-    publishedDateTime: 2020-10-21T20:58:00Z
-    webUrl: "https://www.chicagotribune.com/columns/steve-chapman/ct-column-biden-afghanistan-iraq-trump-chapman-20201021-7mv7uip44zenpbpyrtstu2dnnu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/columns/steve-chapman/ct-column-biden-afghanistan-iraq-trump-chapman-20201021-7mv7uip44zenpbpyrtstu2dnnu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/steve-chapman/ct-column-biden-afghanistan-iraq-trump-chapman-20201021-7mv7uip44zenpbpyrtstu2dnnu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 140
-    images:
-      - url: "https://www.chicagotribune.com/resizer/E8J0H-C7dJEujDCXkkvQhWaHGL0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/37BSU75SX5CXHBTZXEUJPIPIMQ.JPG"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump And Biden Will Debate Suburbs’ Future To Persuade Women Voters"
-    excerpt: "Trump's pleas to suburban women to \"please like me\" aren't working. Women voters don't fear Biden's policies and are angry at the continuing pandemic, closed schools, and inadequate economic and family assistance."
-    publishedDateTime: 2020-10-22T00:58:00Z
-    webUrl: "https://www.forbes.com/sites/richardmcgahey/2020/10/21/trump-and-biden-will-debate-suburbs-future-to-persuade-women-voters/"
-    ampWebUrl: "https://www.forbes.com/sites/richardmcgahey/2020/10/21/trump-and-biden-will-debate-suburbs-future-to-persuade-women-voters/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardmcgahey/2020/10/21/trump-and-biden-will-debate-suburbs-future-to-persuade-women-voters/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 140
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90cf5d30eb97973c797dee%2F0x0.jpg"
-        width: 1200
-        height: 833
-        isCached: true
-  - title: "Trump Falsely Claims Biden Would Take Away Most Americans’ Healthcare"
-    excerpt: "President Donald Trump has repeatedly suggested in recent weeks that most Americans would lose their private health insurance if Joe Biden is elected president, an inaccurate claim that attempts to link Biden to single-payer healthcare even though the former vice president has consistently criticized the idea."
-    publishedDateTime: 2020-10-21T17:18:00Z
-    webUrl: "https://www.forbes.com/sites/joewalsh/2020/10/21/trump-falsely-claims-biden-would-take-away-most-americans-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/10/21/trump-falsely-claims-biden-would-take-away-most-americans-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/10/21/trump-falsely-claims-biden-would-take-away-most-americans-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 140
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f906b4b26a4c7fe56555d76%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2900%26cropY1%3D147%26cropY2%3D1779"
-        width: 1199
-        height: 675
-        isCached: true
-  - title: "Viewers' Guide: After chaotic debate, Trump, Biden try again"
-    excerpt: "After meeting in perhaps the most cacophonous debate in modern history, President Donald Trump and his Democratic rival, Joe Biden, will take the stage Thursday to try again"
-    publishedDateTime: 2020-10-22T10:42:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/viewers-guide-chaotic-debate-trump-biden-73756252"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/viewers-guide-chaotic-debate-trump-biden-73756252"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/viewers-guide-chaotic-debate-trump-biden-73756252"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fbc97af7cd974c3f9862e996fe31178f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "AP FACT CHECK: Falsehoods and fumbles in Trump-Biden debate"
-    excerpt: "The last presidential debate between President Donald Trump and Democrat Joe Biden is history"
-    publishedDateTime: 2020-10-23T08:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-examining-claims-trump-biden-debate-73777483"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-examining-claims-trump-biden-debate-73777483"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-examining-claims-trump-biden-debate-73777483"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_53265e4769d44218a9e39d862dc9027d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Pelosi: COVID-19 aid possible before election but it's up to Trump"
-    excerpt: "U.S. House Speaker Nancy Pelosi said it still was possible to get another round of COVID-19 aid before the Nov. 3 election, but that it was up to President Donald Trump to act if he wants to finalize a deal for more financial relief soon."
-    publishedDateTime: 2020-10-23T15:38:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN278252"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538621024&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M191"
-        width: 833
-        height: 545
-        isCached: true
-  - title: "Why Does Trump Think Biden Wants To Shrink Everybody’s Windows?"
-    excerpt: "The president insisted during the presidential debate that his Democratic opponent wants to force buildings to install smaller windows. It’s unclear where Trump got this idea."
-    publishedDateTime: 2020-10-23T03:25:00Z
-    webUrl: "https://www.forbes.com/sites/joewalsh/2020/10/22/why-does-trump-think-biden-wants-to-shrink-everybodys-windows/"
-    ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/10/22/why-does-trump-think-biden-wants-to-shrink-everybodys-windows/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/10/22/why-does-trump-think-biden-wants-to-shrink-everybodys-windows/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 140
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f924aaa8caa5a8a8efc6ee5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5575%26cropY1%3D122%26cropY2%3D3258"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AP FACT CHECK: Trump and Biden in their last clash on stage"
-    excerpt: "The past week in U.S. politics featured the final debate of the presidential campaign before the Nov. 3 election"
-    publishedDateTime: 2020-10-24T11:57:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-trump-biden-clash-stage-73802109"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-biden-clash-stage-73802109"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-biden-clash-stage-73802109"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c716dfa1023c415fb1bd2c9e5def9b9a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Election 2020 updates: Biden outlines plan for tackling COVID-19"
-    excerpt: "President Donald Trump and former Vice President Joe Biden return to the campaign trail Friday after a their final presidential debate in Nashville Thursday night."
-    publishedDateTime: 2020-10-24T03:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/election blog/?id=73771951"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/election blog/?id=73771951"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/election blog/?id=73771951"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/Biden-1-ap-er-201023_1603481011921_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The Trailer: Trump is Trump. Biden is not Clinton."
-    excerpt: "Thursday's debate, and the nine months of campaigning that preceded it, suggest that Trump was telling the truth. He invited a man accusing Biden of scandalous behavior to Nashvil"
-    publishedDateTime: 2020-10-23T17:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/23/trailer-trump-is-trump-biden-is-not-clinton/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/23/trailer-trump-is-trump-biden-is-not-clinton/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/23/trailer-trump-is-trump-biden-is-not-clinton/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KUQHS6QU4AI6XISYMFFM6K4QNU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "As COVID-19 hits swing states, Biden and Trump show sharp contrast"
-    excerpt: "President Donald Trump and his Democratic rival Joe Biden gave starkly contrasting messages on Saturday about the coronavirus pandemic, taking their campaigns for the White House on the road to swing states where COVID-19 cases are surging again."
-    publishedDateTime: 2020-10-25T09:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27906N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27906N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27906N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538697061&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N0EK"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Trump goes on offensive against Biden with trip to New Hampshire"
-    excerpt: "President Donald Trump will go on the offensive against Democratic rival Joe Biden on Sunday with a campaign trip to New Hampshire, a state he narrowly lost in 2016 but is trying to reclaim in this year's White House race."
-    publishedDateTime: 2020-10-25T05:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27A04U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A04U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A04U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538745436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O03K"
-        width: 822
-        height: 545
-        isCached: true
-  - title: "Trump votes early in Florida as Biden warns of COVID-19 'dark winter'"
-    excerpt: "President Donald Trump voted in his adopted home of Florida before hitting the campaign trail for rallies in three swing states on Saturday, joining more than 54 million Americans who have cast early ballots at a record-setting pace ahead of the Nov."
-    publishedDateTime: 2020-10-24T18:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/trump-votes-early-in-florida-as-biden-warns-of-covid-19-dark-winter-idUSKBN27906J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27906N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27906N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538697061&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N0EK"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
-    excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
-    publishedDateTime: 2020-10-22T06:50:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2750L5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2750L5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2750L5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
     quality: 139
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538249929&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K042"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/PPHX/8091c353-8ac3-444f-a247-c68ebb7a8e4d-DW1_3466.JPG?auto=webp&crop=3507,1973,x0,y157&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "With time running out, Trump to launch attacks on Biden's family at debate"
-    excerpt: "U.S. President Donald Trump is expected to come out swinging in Thursday's final presidential debate with Democratic rival Joe Biden to try to close a gap in opinion polls before an election 12 days away."
-    publishedDateTime: 2020-10-23T01:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-debate-int/with-time-running-out-trump-to-launch-attacks-on-bidens-family-at-debate-idUSKBN278026"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278026"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278026"
+  - title: "Trump Says He Told Aides To Stop Negotiating Stimulus Until After Election"
+    excerpt: "The president blasted Speaker Nancy Pelosi's plan as too expensive and said Senate Majority Leader Mitch McConnell should focus on the Supreme Court."
+    publishedDateTime: 2020-10-06T19:06:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Forbes
+      domain: forbes.com
     quality: 138
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538537555&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M023"
-        width: 848
-        height: 545
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7cbe4f10f70e944148f3f0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3773%26cropY1%3D0%26cropY2%3D2123"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Biden appears to pull slightly ahead of Trump in Florida - Reuters/Ipsos poll"
-    excerpt: "Democratic presidential candidate Joe Biden appeared to take the lead over President Donald Trump in Florida, where the race had been a statistical tie a week earlier, Reuters/Ipsos opinion polls showed on Wednesday."
-    publishedDateTime: 2020-10-22T00:28:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-battlegrounds-poll-idUKKBN276324"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN276324"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN276324"
+  - title: "Trump tells his team to end stimulus negotiations until after the election"
+    excerpt: "Trump announced on Twitter that he's ending relief negotiations, accusing Democrats of \"not acting in good faith.\""
+    publishedDateTime: 2020-10-06T19:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-ends-stimulus-negotiations-until-after-presidential-election-economic-recovery-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-ends-stimulus-negotiations-until-after-presidential-election-economic-recovery-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ends-stimulus-negotiations-until-after-presidential-election-economic-recovery-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 138
+    images:
+      - url: "https://i.insider.com/5f7cbde4282c500018c78f05?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How Mike Pence could temporarily assume control if Trump becomes incapacitated"
+    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
+    publishedDateTime: 2020-10-02T09:13:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity-idUSKBN26N19X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N19X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N19X"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 137
+    quality: 136
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538368029&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1VV"
-        width: 942
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535824101&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910S6"
+        width: 768
         height: 545
         isCached: true
-  - title: "Trump, Biden favorability unchanged as 2020 race heads into final week: POLL"
-    excerpt: "Donald Trump and Joe Biden enter the final week of a bitter campaign with their favorability ratings unchanged, a new ABC News/Ipsos poll finds."
-    publishedDateTime: 2020-10-25T13:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-biden-favorability-unchanged-2020-race-heads-final/story?id=73808383"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-biden-favorability-unchanged-2020-race-heads-final/story?id=73808383"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-biden-favorability-unchanged-2020-race-heads-final/story?id=73808383"
+  - title: "Mike Pence, who will assume the presidency if Trump is incapacitated, has tested negative for COVID-19"
+    excerpt: "Thursday night. Both Vice President Mike Pence and his wife Karen received negative results on Friday."
+    publishedDateTime: 2020-10-04T00:30:00Z
+    webUrl: "https://www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 137
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 134
     images:
-      - url: "https://s.abcnews.com/images/International/trump-nc-rt-rc-201024_1603562753966_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/5f771bd90ab50d00184adbee?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics"
-    excerpt: "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware."
-    publishedDateTime: 2020-10-22T11:41:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 136
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-1-rt-er-201021_1603316702002_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Snap polls give Joe Biden edge over Trump in final TV debate – US politics live"
-    excerpt: "Biden accused Trump of pouring fuel ‘on every single racist fire’ as pair clashed over coronavirus, Obamacare and fossil fuels"
-    publishedDateTime: 2020-10-23T13:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates?page=with:block-5f92c4e68f086b2e58c8d983"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 136
-    images:
-      - url: "https://i.guim.co.uk/img/media/e168c91b2013bd6b210aea3b6d06321cebd33388/0_56_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b9e0f3db31c62f7d03657b8f843bed68"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump releases 'Promise to Indian Country' tribal policy on the heels of Biden plan"
-    excerpt: "The Trump administration released its tribal policy proposals via conference call two weeks before the election."
-    publishedDateTime: 2020-10-21T17:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/nation/2020/10/21/trump-releases-promise-indian-country-tribal-policy/6000180002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6000180002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6000180002"
+  - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "INDIANAPOLIS – Vice President Mike Pence was among dozens of politicians and high-profile dignitaries at a White House Rose Garden event when President Donald Trump announced Amy Coney Barrett ..."
+    publishedDateTime: 2020-10-04T15:37:27Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615907001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 134
+    quality: 130
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/11/26/PPHX/3be1835d-873f-4541-97e7-3f4be4977b0a-MMIW2.jpeg?auto=webp&crop=2999,1687,x1,y168&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "The Cybersecurity 202: Biden condemned election interference while Trump continued to mislead during final debate"
-    excerpt: "Joe Biden drew a firm line on Russian election interference during the final presidential debate, while President Trump continued to misstate and mislead about that threat. Support our journalism. Subscribe today."
-    publishedDateTime: 2020-10-23T11:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/23/cybersecurity-202-biden-condemned-election-interference-while-trump-continued-mislead-during-final-debate/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/23/cybersecurity-202-biden-condemned-election-interference-while-trump-continued-mislead-during-final-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/23/cybersecurity-202-biden-condemned-election-interference-while-trump-continued-mislead-during-final-debate/?outputType=amp"
+  - title: "Check’s in the mail: Trump offering government aid, including cash, in weeks before the election"
+    excerpt: "In recent days, President Donald Trump has promised millions of Medicare recipients that — thanks to him — they’ll soon be getting an “incredible” $200 card in the mail to help them pay for prescriptions."
+    publishedDateTime: 2020-10-01T13:33:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 127
+    images:
+      - url: "https://www.chicagotribune.com/resizer/X5INs9998mP2ElUdjqXfxI57agA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3MOZVLBQ2PFDPXLYALTZ5O3Z4M.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Pence, who will assume the presidency if Trump is incapacitated, has tested negative for COVID-19"
+    excerpt: "Thursday night. Both Vice President Mike Pence and his wife Karen received negative results on Friday."
+    publishedDateTime: 2020-10-02T12:49:00Z
+    webUrl: "https://www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/5f771bd90ab50d00184adbee?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Top seven revelations from New York Times report on Trump income taxes"
+    excerpt: "Trump has had small federal tax bills and major financial losses in his career, and some of his moves have come under legal scrutiny."
+    publishedDateTime: 2020-09-28T01:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/27/top-revelations-report-trump-income-tax/3557530001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3557530001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557530001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/fccf0666-f818-411e-af8d-de32156cb7ac-AP_APTOPIX_Trump.jpg?auto=webp&crop=5896,3317,x1,y317&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's tax revelation could tarnish image that fueled rise"
+    excerpt: "The bombshell revelations that President Donald Trump paid just $750 in federal income taxes the year he ran for office and paid no income taxes at all in many others threaten to undercut a pillar of"
+    publishedDateTime: 2020-09-28T05:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trumps-tax-revelation-tarnish-image-fueled-rise-73285639"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trumps-tax-revelation-tarnish-image-fueled-rise-73285639"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trumps-tax-revelation-tarnish-image-fueled-rise-73285639"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_af3522a8da5c4a25894a0bd8a2c78a94_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "After New York Times revelations, Trump says he paid millions in taxes"
+    excerpt: "U.S. President Donald Trump said on Monday he paid \"many millions of dollars in taxes\" and that he had many more assets than debt, but did not provide evidence or promise to release any financial statements before the Nov."
+    publishedDateTime: 2020-09-29T00:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN26J2CR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2CR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2CR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535256440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1WS"
+        width: 777
+        height: 545
+        isCached: true
+  - title: "Lawyer for Flynn says she updated Trump on status of case"
+    excerpt: "A lawyer for former Trump administration national security adviser Michael Flynn has told a judge that she updated President Donald Trump on the case’s status and asked him not to issue a pardon for h"
+    publishedDateTime: 2020-09-29T18:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8e38fdd447e8473da6e769ef6f8a44dc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The debate showed that treating Trump ‘fairly’ only helps him cheat"
+    excerpt: "Tuesday night’s presidential debate perfectly illustrates how Donald Trump abuses our democratic institutions — and how feckless the media can be in the face of those violations. Since he first entered the presidential race,"
+    publishedDateTime: 2020-10-01T01:15:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 134
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HMJF5QQU4AI6XISYMFFM6K4QNU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GUNGFGQDKUI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 962
+        isCached: true
+  - title: "Trump Administration Slashing Refugee Admissions To Lowest Level Yet"
+    excerpt: "The Trump administration announced late Wednesday it will admit only up to 15,000 refugees into the U.S. in fiscal year 2021—marking the lowest cap on admissions the administration has set yet—continuing the government’s steady decrease in refugee admissions over the course of Donald Trump’s presidency as he frequently condemns migrants on the campaign trail."
+    publishedDateTime: 2020-10-01T13:27:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/01/trump-administration-slashing-refugee-admissions-to-lowest-level-yet/"
+    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/01/trump-administration-slashing-refugee-admissions-to-lowest-level-yet/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/01/trump-administration-slashing-refugee-admissions-to-lowest-level-yet/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75d8262d7049fa994972ec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D78%26cropY2%3D1765"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Who are the Proud Boys, the far-right group that backs Donald Trump?"
+    excerpt: "The Proud boys are an extremist group with a history of street violence against its left-wing opponents. \"Proud Boys, stand back and stand by,\" said President Trump in response, after Chris Wallace asked whether he would condemn white supremacists during the first presidential debate of this election."
+    publishedDateTime: 2020-09-30T21:41:00Z
+    webUrl: "https://thehill.com/changing-america/respect/equality/518989-who-are-the-proud-boys-the-far-right-group-that-backs"
+    ampWebUrl: "https://thehill.com/changing-america/respect/equality/518989-who-are-the-proud-boys-the-far-right-group-that-backs?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/equality/518989-who-are-the-proud-boys-the-far-right-group-that-backs?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_proudboys_93020getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "AP PHOTOS: A busy week for Trump before positive virus test"
+    excerpt: "With just a month to go until the election, President Donald Trump had a busy schedule the days before he tested positive for the coronavirus, attending rallies, private fundraisers, a presidential debate and hosting events at the White House."
+    publishedDateTime: 2020-10-02T15:29:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Trump COVID infection thrusts world in uncharted territory"
+    excerpt: "News that U.S. President Donald Trump was infected with the world's most notorious disease is drawing shock, sympathy and some barbs for the American leader"
+    publishedDateTime: 2020-10-02T15:33:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/shock-sympathy-criticism-world-reacts-trump-infection-73384315"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/shock-sympathy-criticism-world-reacts-trump-infection-73384315"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/shock-sympathy-criticism-world-reacts-trump-infection-73384315"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b53f9831867643c9b3d78d925e946365_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Explainer: What is the treatment plan for President Trump's COVID-19?"
+    excerpt: "U.S. President Donald Trump on Friday said he and his wife Melania had tested positive for COVID-19, and the White House said he was given an experimental treatment designed to combat the virus as well as a small array of treatments including aspirin and Vitamin D."
+    publishedDateTime: 2020-10-03T05:28:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-treatments-e-idUSKBN26N38D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1535975425&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9123P"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive COVID-19"
+    excerpt: "President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
+    publishedDateTime: 2020-10-02T17:48:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-reaction-fa/factbox-reactions-to-donald-trump-testing-positive-covid-19-idUSKBN26N0T0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0T0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0T0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535902562&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910JT"
+        width: 1380
+        height: 545
+        isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive for COVID-19"
+    excerpt: "U.S. President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
+    publishedDateTime: 2020-10-03T05:54:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-reaction-idUSKBN26N0SM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0SM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0SM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535905929&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910IV"
+        width: 826
+        height: 545
+        isCached: true
+  - title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
+    excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
+    publishedDateTime: 2020-10-03T07:05:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-pence/u-s-vice-president-pence-next-in-line-behind-trump-tests-negative-for-covid-19-idUSKBN26N226"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N226"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N226"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1535982410&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG911FZ"
+        width: 711
+        height: 545
+        isCached: true
+  - title: "Trump, downplaying virus, has mocked wearing masks for months"
+    excerpt: "After months of downplaying the coronavirus and resisting wearing a mask, President Donald Trump wore one as he headed to the hospital Friday afternoon."
+    publishedDateTime: 2020-10-03T09:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-6-gty-er-201002_1601677288519_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump White House, campaign staff who have tested positive for COVID-19"
+    excerpt: "News of President Donald Trump's COVID-19 diagnosis has upended the U.S. presidential election campaign entering its final month and roiled stock markets, raising questions about succession and prompting White House aides to insist that Trump would keep a busy,"
+    publishedDateTime: 2020-10-03T06:26:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-staff-factb-idINKBN26O055"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26O055"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26O055"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1535993187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG92039"
+        width: 865
+        height: 545
+        isCached: true
+  - title: "Trump's virus hospitalization rocks final stage of campaign"
+    excerpt: "An election year already defined by a cascade of national crises is descending further into uncharted territory, with President Donald Trump heading to a military hospital with the coronavirus after c"
+    publishedDateTime: 2020-10-03T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_386951b5013d4be194086fac35bd2267_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "White House Says Trump ‘Remains Fatigued’ Amid Reports He Has Fever"
+    excerpt: "Trump also took a dose of an experimental antibody cocktail that hasn’t yet been given emergency use authorization by the FDA."
+    publishedDateTime: 2020-10-02T21:12:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77965b260487e5b2299495%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4475%26cropY1%3D226%26cropY2%3D2743"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Timeline of Trump's reported COVID diagnosis and treatment"
+    excerpt: "White House officials were forced to attempt to clarify a timeline of President Donald Trump's coronavirus diagnosis and treatment Saturday after the president's doctor made statements that did not align with public information."
+    publishedDateTime: 2020-10-03T20:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/timeline-trumps-reported-covid-diagnosis-treatment/story?id=73406821"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/timeline-trumps-reported-covid-diagnosis-treatment/story?id=73406821"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/timeline-trumps-reported-covid-diagnosis-treatment/story?id=73406821"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/marine-one-liftsoff-ap-ps-201002_1601678603855_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "With Donald Trump Hospitalized With COVID-19, Mike Pence Steps Into the Spotlight"
+    excerpt: "A s the questions about President Donald Trump’s coronavirus diagnosis and subsequent hospitalization at Walter Reed continue to grow, so too do the challenges facing his understudy, Vice President Mike Pence."
+    publishedDateTime: 2020-10-03T21:06:00Z
+    webUrl: "https://time.com/5895996/mike-pence-trump-hospitalized/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 125
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-fundraiser-hosted-qanon-supporters.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Stocks rise as signs of Trump's improving health calm markets"
+    excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
+    publishedDateTime: 2020-10-05T02:19:00Z
+    webUrl: "https://www.reuters.com/article/global-markets-int/stocks-rise-as-signs-of-trumps-improving-health-calm-markets-idUSKBN26Q05T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q03N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q03N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536153882&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9401R"
+        width: 753
+        height: 545
+        isCached: true
+  - title: "All the president's medicine: How doctors are treating Donald Trump"
+    excerpt: "Roughly 42 hours after President Donald Trump revealed he and the first lady had tested positive for COVID-19, he tweeted out a video from Walter Reed National Military Medical Center assuring the public he was feeling \"much better\" since being given a sundry mix of medication which he called \"miracles coming down from God."
+    publishedDateTime: 2020-10-05T19:41:00Z
+    webUrl: "https://abcnews.go.com/Health/presidents-medicine-doctors-treating-donald-trump/story?id=73423761"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/presidents-medicine-doctors-treating-donald-trump/story?id=73423761"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/presidents-medicine-doctors-treating-donald-trump/story?id=73423761"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/trump-motorc_hpMain_20201004-222346_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Contagious Trump Removes Mask For White House Photo Op, Staff Nearby"
+    excerpt: "The president removed his mask to pose for cameras after receiving treatment for Covid-19 at Walter Reed medical center."
+    publishedDateTime: 2020-10-06T11:39:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/06/contagious-trump-removes-mask-for-white-house-photo-op-staff-nearby/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/06/contagious-trump-removes-mask-for-white-house-photo-op-staff-nearby/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/06/contagious-trump-removes-mask-for-white-house-photo-op-staff-nearby/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c474002d3bfaf88990725%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5096%26cropY1%3D0%26cropY2%3D3398"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Gold subdued after Trump's discharge, weak dollar cap losses"
+    excerpt: "Gold prices eased on Tuesday, as equities gained following U.S. President Donald Trump's discharge from hospital after treatment for a coronavirus infection, though a softer dollar cushioned the bullion's further decline."
+    publishedDateTime: 2020-10-06T09:18:00Z
+    webUrl: "https://www.reuters.com/article/global-precious-idUSKBN26R1BI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R1BI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R1BI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536339055&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG950O3"
+        width: 872
+        height: 545
+        isCached: true
+  - title: "Oil prices gain on supply disruptions, Trump's hospital exit"
+    excerpt: "Oil prices gained on Tuesday amid supply disruptions in Norway, a new hurricane in the Gulf of Mexico, and U.S. President Donald Trump's return to the White House after being treated for COVID-19 in hospital."
+    publishedDateTime: 2020-10-06T10:19:00Z
+    webUrl: "https://www.reuters.com/article/us-global-oil/oil-prices-climb-as-trumps-return-to-white-house-calms-nerves-idUSKBN26R05A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R05G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R05G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536304394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9501T"
+        width: 827
+        height: 545
+        isCached: true
+  - title: "Oil prices up 3% on supply disruptions and Trump's return"
+    excerpt: "Oil prices rose more than 3% on Tuesday, supported by supply disruptions in Norway, a hurricane in the Gulf of Mexico and U.S. President Donald Trump's return to the White House from hospital."
+    publishedDateTime: 2020-10-06T15:09:00Z
+    webUrl: "https://www.reuters.com/article/global-oil-int/oil-prices-gain-on-supply-disruptions-trumps-hospital-exit-idUSKBN26R05G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R05A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R05A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536304755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9501V"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Trump faces backlash for removing mask on return to White House"
+    excerpt: "U.S. President Donald Trump faced a fresh backlash on Tuesday for removing his mask when he returned to the White House and urging Americans not to fear the COVID-19 disease that has killed more than 209,"
+    publishedDateTime: 2020-10-06T04:52:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSL1N2GX02O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R0H2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R0H2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536316096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95089"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "Facebook, Twitter take action over Trump's misleading COVID-19 posts"
+    excerpt: "Facebook Inc and Twitter took action on posts from U.S. President Donald Trump on Tuesday for violating their rules against coronavirus misinformation by suggesting that COVID-19 was just like the flu."
+    publishedDateTime: 2020-10-07T02:42:00Z
+    webUrl: "https://www.reuters.com/article/us-twitter-trump-idINKBN26R2Z3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26R2YU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26R2YU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536423411&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG951Y8"
+        width: 776
+        height: 545
+        isCached: true
+  - title: "Is Donald Trump trying to lose or just trying to burn it all down?"
+    excerpt: "Even columnists who have been hedging on the possibility of a Trump comeback are starting to write things that suggest a blowout. Support our journalism. Subscribe today. At this moment, with the president badly behind,"
+    publishedDateTime: 2020-10-07T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/07/is-donald-trump-trying-lose-or-just-trying-burn-it-all-down/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/07/is-donald-trump-trying-lose-or-just-trying-burn-it-all-down/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/07/is-donald-trump-trying-lose-or-just-trying-burn-it-all-down/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37KSBJQICEI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 739
+        isCached: true
+  - title: "Shares rebound from Trump's shock stimulus talks cancellation"
+    excerpt: "European shares rose on Wednesday, as initial dismay at U.S. President Donald Trump's decision to cancel fiscal stimulus negotiations with lawmakers in Washington was replaced by optimism about an aid package after the U."
+    publishedDateTime: 2020-10-07T11:28:00Z
+    webUrl: "https://www.reuters.com/article/us-global-markets-idINKBN26R3S6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26R3S6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26R3S6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536451760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95277"
+        width: 776
+        height: 545
+        isCached: true
+  - title: "Trump campaign's next steps unclear after White House return"
+    excerpt: "President Donald Trump’s return to the White House is poised to reshape the campaign’s final four weeks as aides debate how to move past an extraordinary setback while grappling with how to send an in"
+    publishedDateTime: 2020-10-07T07:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaigns-steps-unclear-white-house-return-73466509"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaigns-steps-unclear-white-house-return-73466509"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaigns-steps-unclear-white-house-return-73466509"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a265499689974a4f89a650926e29e1a6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Analyzing Trump's illness is humbling for media's med teams"
+    excerpt: "It's a daunting assignment for any doctor: assess a patient's condition for an audience of millions without being able to examine him or see a complete medical chart"
+    publishedDateTime: 2020-10-08T07:12:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/analyzing-trumps-illness-humbling-medias-med-teams-73494603"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/analyzing-trumps-illness-humbling-medias-med-teams-73494603"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/analyzing-trumps-illness-humbling-medias-med-teams-73494603"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_1dc1c08e20f14b1fb59b43d639b6bf70_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "‘I Feel Great’: Trump Symptom-Free Doctor Says, But Offers Few Details"
+    excerpt: "President Donald Trump has not suffered from coronavirus symptoms for more than 24 hours, White House Physician Sean Conley wrote in a brief update Wednesday, though Conley and the president’s other doctors have not stood for a press conference or offered more details about the timeline of Trump’s infection since he ended his three-day hospital stay on Monday."
+    publishedDateTime: 2020-10-07T18:44:00Z
+    webUrl: "https://www.forbes.com/sites/joewalsh/2020/10/07/i-feel-great-trump-symptom-free-doctor-says-but-offers-few-details/"
+    ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/10/07/i-feel-great-trump-symptom-free-doctor-says-but-offers-few-details/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/10/07/i-feel-great-trump-symptom-free-doctor-says-but-offers-few-details/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7e02f4787db26711e608b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D382%26cropY2%3D3514"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump is symptom-free and stable, White House doctor says"
+    excerpt: "U.S. President Donald Trump has had no COVID-19 symptoms for the past 24 hours, with a physical examination and his vital signs showing his condition remains sable, White House physician Sean Conley said on Wednesday."
+    publishedDateTime: 2020-10-07T17:22:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-physician-idUSKBN26S2YF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S2YF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S2YF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201007&t=2&i=1536569279&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9620F"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "2nd presidential debate in doubt after Trump objects to virtual format"
+    excerpt: "The Commission on Presidential Debates announced that the second debate scheduled for October 15 in Miami would instead feature virtual appearances by the two candidates, a change the president quickly dismissed as \"not acceptable."
+    publishedDateTime: 2020-10-09T02:23:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-says-wont-participate-virtual-debate-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-says-wont-participate-virtual-debate-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-says-wont-participate-virtual-debate-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/36f754fe-3262-4302-8486-9dddd56b2717/thumbnail/1200x630/a0c061084ee92e97dcfcfca6eac82e2f/gettyimages-1228797368.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "In 25th Amendment bid, Pelosi mulls Trump's fitness to serve"
+    excerpt: "House Speaker Nancy Pelosi is questioning President Donald Trump's fitness to serve, announcing legislation Thursday that would create a commission to allow Congress to intervene under the 25th Amendment to the Constitution and remove the president from executive duties."
+    publishedDateTime: 2020-10-09T04:05:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_7037dad961d744cb84711d4fe7797ae7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pelosi unveils 25th Amendment bid, questions Trump's fitness"
+    excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president"
+    publishedDateTime: 2020-10-09T15:38:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness-73522467"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness-73522467"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness-73522467"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_6e20c21cbeb548c6b46f74822e788ab4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Clinton says Trump's COVID-19 not 'comparable' to her 2016 pneumonia"
+    excerpt: "Former Democratic presidential nominee Hillary Clinton said in an interview published by The Atlantic on Friday that her mid-campaign pneumonia diagnosis was not “comparable” to President Trump ’s contraction of COVID-19."
+    publishedDateTime: 2020-10-09T17:58:00Z
+    webUrl: "https://thehill.com/homenews/news/520371-hillary-clinton-says-trumps-covid-19-not-comparable-to-her-2016-pneumonia"
+    ampWebUrl: "https://thehill.com/homenews/news/520371-hillary-clinton-says-trumps-covid-19-not-comparable-to-her-2016-pneumonia?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/520371-hillary-clinton-says-trumps-covid-19-not-comparable-to-her-2016-pneumonia?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/clintonhillary_011720getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump administration targets diversity hiring by contractors"
+    excerpt: "American companies promising to hire more Black employees in leadership roles and teach their workforce about racism are getting a message from President Donald Trump’s administration: Watch your step"
+    publishedDateTime: 2020-10-09T21:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-administration-targets-diversity-hiring-contractors-73523059"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-administration-targets-diversity-hiring-contractors-73523059"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-administration-targets-diversity-hiring-contractors-73523059"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_c8e94ad396ef40b993b513caa4224bcd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump official says vaccine expected starting in January"
+    excerpt: "A Trump administration official leading the response to the coronavirus pandemic says the U.S. can expect delivery of a vaccine starting in January 2021, despite statements from the president that ino"
+    publishedDateTime: 2020-10-10T02:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/official-vaccine-expected-january-countering-trump-73526668"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/official-vaccine-expected-january-countering-trump-73526668"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/official-vaccine-expected-january-countering-trump-73526668"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_edb8df1370fa42678aa7380771b5a6a8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Visualizing the people exposed to COVID-19 by Trump outbreak"
+    excerpt: "Since last week’s announcements that President Donald Trump and his adviser Hope Hicks tested positive for coronavirus, dozens who came into contact with them or their associates have also contracted the virus."
+    publishedDateTime: 2020-10-09T19:40:00Z
+    webUrl: "https://www.usatoday.com/in-depth/graphics/2020/10/09/visualizing-those-exposed-to-covid-19-by-trump-white-house-superspreader-outbreak/5927865002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5927865002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5927865002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/d821f97e-5909-4ee6-bbc1-52a6bf72bdb1-wh-top.jpg?auto=webp&crop=1274,717,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Voters know Trump isn’t just a bad president. He’s a bad person."
+    excerpt: "Donald Trump is not.” That one, jolting line gets to the bedrock issue of the 2020 campaign — and why the electorate now seems poised to reject an incumbent president for the first time in 28 years. It’s not that Trump and Biden don’t have ideological differences that matter;"
+    publishedDateTime: 2020-10-09T19:37:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/09/voters-know-trump-isnt-just-bad-president-hes-bad-person/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/09/voters-know-trump-isnt-just-bad-president-hes-bad-person/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/09/voters-know-trump-isnt-just-bad-president-hes-bad-person/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TWWNOYAJ4YI6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump votes in Florida before rallies in three states, Biden heads to Pennsylvania"
-    excerpt: "President Donald Trump voted in his adopted home of Florida before hitting the campaign trail for rallies in three swing states on Saturday, joining more than 54 million Americans who have cast early ballots at a record-setting pace ahead of the Nov."
-    publishedDateTime: 2020-10-24T16:10:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27906N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27906N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27906N"
+  - title: "Trump, pressured over pandemic, says states to receive 150 million tests"
+    excerpt: "President Donald Trump, under pressure over his handling of the coronavirus outbreak, announced on Monday the federal government would ship 150 million rapid tests to U.S. states for opening schools and ensuring safety at centers for senior citizens."
+    publishedDateTime: 2020-09-28T21:22:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-testing/update-1-trump-pressured-over-pandemic-says-states-to-receive-150-mln-tests-idUSL1N2GP1MF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 134
+    quality: 124
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538673264&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N049"
-        width: 1119
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
+        width: 806
         height: 545
         isCached: true
-  - title: "Donald Trump and Mike Pence both campaign Sunday, despite coronavirus cases among vice president's staff"
-    excerpt: "Pence aides have tested positive for the virus, but he is not subject to quarantine because he is an \"essential\" government official, aides said."
-    publishedDateTime: 2020-10-25T15:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6031990002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Election 2020 live updates: Obama says Trump treats 'presidency like a reality show'"
-    excerpt: "With 10 days to go until Election Day, President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3."
-    publishedDateTime: 2020-10-24T23:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/election blog/?id=73795075"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 133
-    images:
-      - url: "https://s.abcnews.com/images/International/obama-miami-2-ap-rc-201024_1603571842167_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Election 2020 updates: Trump delivers shorter-than-usual speech in chilly Pennsylvania"
-    excerpt: "With 14 days to go until Election Day, and President Donald Trump and former Vice President Joe Biden racing toward Nov. 3, voters are turning out in record numbers to cast their ballots early. Roughly 31 million Americans have already voted in the 2020 election,"
-    publishedDateTime: 2020-10-22T23:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73702022"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73702022"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73702022"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 132
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-pa-rally_hpMain_20201020-214116_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Presidential debate: Donald Trump lies like a rug; Joe Biden fails to step all over it"
-    excerpt: "Our View: 48.7 million already voted. Whatever impact last debate had is likely to be as muted as the microphones were when either spoke out of turn."
-    publishedDateTime: 2020-10-23T14:23:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/23/trump-lies-like-rug-biden-fails-step-over-editorials-debates/3738803001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3738803001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738803001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 132
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/14c5a4db-3b9b-4129-85f8-120b84975a28-debate.jpg?auto=webp&crop=3187,1793,x1,y70&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump invites Tony Bobulinski, Hunter Biden's former business partner, as debate guest"
-    excerpt: "President Donald Trump is again taking a page from his 2016 playbook by inviting a guest to highlight his latest attack on Joe Biden and his son's business dealings."
-    publishedDateTime: 2020-10-22T23:39:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/presidential-debate-trump-brings-hunter-bidens-business-partner-guest/3735914001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3735914001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3735914001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 132
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "As Obama stumps for Biden, another chance to vanquish Trump and protect his own legacy"
-    excerpt: "Obama argued his administration’s accomplishments were tied to the outcome. That’s true again as the 44th president ramps up his advocacy in the 2020 campaign’s final days."
-    publishedDateTime: 2020-10-23T22:27:00Z
-    webUrl: "https://www.washingtonpost.com/politics/as-obama-stumps-for-biden-another-chance-to-vanquish-trump-and-protect-his-own-legacy/2020/10/23/b546153e-1545-11eb-ad6f-36c93e6e94fb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/as-obama-stumps-for-biden-another-chance-to-vanquish-trump-and-protect-his-own-legacy/2020/10/23/b546153e-1545-11eb-ad6f-36c93e6e94fb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/as-obama-stumps-for-biden-another-chance-to-vanquish-trump-and-protect-his-own-legacy/2020/10/23/b546153e-1545-11eb-ad6f-36c93e6e94fb_story.html?outputType=amp"
+  - title: "Trump debated like a conservative talk radio host. That’s why he failed."
+    excerpt: "Since the day he declared his candidacy in 2015, Donald Trump has been the talk-radio presidential candidate and then the talk-radio president. Nowhere was this clearer than in Tuesday’s. It was a pugilistic performance designed to thrill Trump’s biggest fans,"
+    publishedDateTime: 2020-10-02T13:03:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/02/radio-host-trump-debate/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/02/radio-host-trump-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/02/radio-host-trump-debate/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 132
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZATPJKAT6UI6XISYMFFM6K4QNU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SCD43PAEDQI6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
-        height: 929
+        height: 960
         isCached: true
-  - title: "2020 Presidential Debate: Predictions & Odds For Joe Biden & Donald Trump’s Final showdown"
-    excerpt: "Predictions, betting odds and picks for tonight's final Presidential Debate between Donald Trump and Joe Biden. From Antifa to White Supremacy, which topics will be discussed? And yes, you can even bet on the fly making his return."
-    publishedDateTime: 2020-10-22T17:37:00Z
-    webUrl: "https://www.forbes.com/sites/zackjones/2020/10/22/2020-presidential-debate-predictions--odds-for-joe-biden--donald-trumps-final-showdown/"
-    ampWebUrl: "https://www.forbes.com/sites/zackjones/2020/10/22/2020-presidential-debate-predictions--odds-for-joe-biden--donald-trumps-final-showdown/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zackjones/2020/10/22/2020-presidential-debate-predictions--odds-for-joe-biden--donald-trumps-final-showdown/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 130
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91c175646512a0bc5fe5c7%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "As Trump Invokes Leftists, Biden Says President ‘Thinks He’s Running Against Someone Else’"
-    excerpt: "Trump has long attempted to tie Biden to progressives like Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez to upend his moderate image."
-    publishedDateTime: 2020-10-23T03:37:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/22/as-trump-invokes-leftists-biden-says-president-thinks-hes-running-against-someone-else/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/22/as-trump-invokes-leftists-biden-says-president-thinks-hes-running-against-someone-else/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/22/as-trump-invokes-leftists-biden-says-president-thinks-hes-running-against-someone-else/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 130
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f924e1a6650b6bdcb78b4d5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5780%26cropY1%3D162%26cropY2%3D3542"
-        width: 1200
-        height: 702
-        isCached: true
-  - title: "Poll: Biden leads Trump by 10 nationally, with majority saying COVID-19 is 'out of control'"
-    excerpt: "Former vice president Joe Biden holds a 51-41 lead among likely voters against President Donald Trump in a new Quinnipiac University national poll released Thursday."
-    publishedDateTime: 2020-10-22T20:49:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/2020-poll-joe-biden-leading-donald-trump-double-digits-nationally/3731514001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3731514001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3731514001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 130
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/f5875d30-42f4-42db-985e-183604fb35aa-VPC_EARLY_VOTING.00_00_03_13.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Where Donald Trump and Joe Biden stand on healthcare, taxes, abortion, and other key issues"
-    excerpt: "Trump and Biden haven't had many opportunities to contrast their policy agendas."
-    publishedDateTime: 2020-10-23T03:12:00Z
-    webUrl: "https://www.businessinsider.com/2020-election-donald-trump-joe-biden-key-policy-issues-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/2020-election-donald-trump-joe-biden-key-policy-issues-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/2020-election-donald-trump-joe-biden-key-policy-issues-2020-10?amp"
+  - title: "Vice President Mike Pence has 'no concerns' about staying on the campaign trail and debating in person, Trump campaign says"
+    excerpt: "Lawmakers have proposed having a remote debate, but the Trump campaign said Vice President Mike Pence is not worried about contracting the disease."
+    publishedDateTime: 2020-10-04T15:16:00Z
+    webUrl: "https://www.businessinsider.com/pence-has-no-concerns-about-continuing-campaigning-debating-in-person-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/pence-has-no-concerns-about-continuing-campaigning-debating-in-person-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-has-no-concerns-about-continuing-campaigning-debating-in-person-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 130
+    quality: 124
     images:
-      - url: "https://i.insider.com/5f88b0e9d260780019341b1f?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f79d950282c500018c7878a?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world"
-    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
-    publishedDateTime: 2020-10-21T03:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
+  - title: "Wall Street gains as Trump to leave hospital, investors hope for stimulus"
+    excerpt: "U.S. stocks rose sharply on Monday, recovering from declines in the previous session, as investors viewed more fiscal stimulus as likely and after news President Donald Trump will leave the hospital where he is being treated for COVID-19."
+    publishedDateTime: 2020-10-06T02:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-idUSKBN26Q1WR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q1WR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q1WR"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 129
+      name: Reuters
+      domain: reuters.com
+    quality: 124
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536215896&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9416T"
+        width: 829
+        height: 545
         isCached: true
-  - title: "Trump Touts His Coronavirus 'China Ban' To Bash Biden And Fauci. Here’s Why That’s A Problem."
-    excerpt: "President Trump has claimed repeatedly that the disease expert was against his decision to implement travel restrictions on China back in January and that Biden called the restrictions “xenophobic.”"
-    publishedDateTime: 2020-10-22T15:20:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/22/trump-touts-his-coronavirus-china-ban-to-bash-biden-and-fauci-heres-why-thats-a-problem/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/22/trump-touts-his-coronavirus-china-ban-to-bash-biden-and-fauci-heres-why-thats-a-problem/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/22/trump-touts-his-coronavirus-china-ban-to-bash-biden-and-fauci-heres-why-thats-a-problem/amp/"
+  - title: "Trump, pressured over pandemic, says states will receive 150 million tests"
+    excerpt: "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead."
+    publishedDateTime: 2020-09-29T03:37:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 129
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f919af5b63076c61d0e4950%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2900%26cropY1%3D89%26cropY2%3D1721"
-        width: 1199
-        height: 675
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
+        width: 806
+        height: 545
         isCached: true
-  - title: "Finally, a substantive and informative debate. Here’s what we learned about Trump and Biden."
-    excerpt: "Trump was good Thursday evening, and probably not just because of the threat to mute microphones to allow for uninterrupted answers."
-    publishedDateTime: 2020-10-23T05:27:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/23/finally-substantive-informative-debate-heres-what-we-learned-about-trump-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/23/finally-substantive-informative-debate-heres-what-we-learned-about-trump-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/23/finally-substantive-informative-debate-heres-what-we-learned-about-trump-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 129
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-23-2020/t_36e1eaa150b34cbb81bee5372eab301b_name_cffe2564_14ce_11eb_a258_614acf2b906d_scaled.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "As campaign enters final stretch, Trump and Biden scrap on oil and the worsening COVID-19 pandemic"
-    excerpt: "The surge of activity with just 11 days remaining in the 2020 contest highlighted the candidates' divergent strategies."
-    publishedDateTime: 2020-10-23T16:56:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-campaign-updates-20201024-fnifcpuqrbgflll6l6uxvrielu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-campaign-updates-20201024-fnifcpuqrbgflll6l6uxvrielu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-campaign-updates-20201024-fnifcpuqrbgflll6l6uxvrielu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 126
-    images:
-      - url: "https://www.chicagotribune.com/resizer/7DNLDSrvDlTYEIo2A4fu4FfZSC8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F4BBQGMD3FCPBAWDYPQBMOTTOE.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Moore: Trump has to be on 'best behavior' for final presidential debate"
-    excerpt: "Stephen Moore, an economist and adviser to President Trump, said Sunday that the president needed to be \"on his best behavior\" going into the final presidential debate Thursday against former Vice President Joe Biden."
-    publishedDateTime: 2020-10-18T12:00:00Z
-    webUrl: "https://thehill.com/homenews/sunday-talk-shows/521549-moore-trump-has-to-be-on-best-behavior-for-final-presidential"
-    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/521549-moore-trump-has-to-be-on-best-behavior-for-final-presidential?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/521549-moore-trump-has-to-be-on-best-behavior-for-final-presidential?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/moorestephen_08032020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "2020 Watch: Debate a chance for Trump to generate momentum"
-    excerpt: "President Donald Trump is openly contemplating the prospect of losing, while Democratic challenger Joe Biden is warning his supporters against overconfidence as the 2020 presidential election speeds i"
-    publishedDateTime: 2020-10-19T18:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
+  - title: "COVID-19 in DC: Who's tested positive and negative so far in Trump's orbit"
+    excerpt: "Since it was revealed that White House adviser Hope Hicks had tested positive for COVID-19, nearly a dozen other cases in Washington, D.C., have come to light -- including that of President Donald Trump."
+    publishedDateTime: 2020-10-04T06:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/covid-19-dc-positive-negative/story?id=73406477"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/covid-19-dc-positive-negative/story?id=73406477"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/covid-19-dc-positive-negative/story?id=73406477"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e4fa8f48a4c14da3800f79b576156370_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/hope-hicks-rt-ps-201002_1601616556785_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "LIVE updates: President Donald Trump addresses voters in Prescott"
-    excerpt: "President Donald Trump's return to Arizona comes as polls show Democratic presidential nominee Joe Biden leading Trump in most statewide polls."
-    publishedDateTime: 2020-10-19T20:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/19/trump-live-updates-president-donald-trump-battleground-arizona/3686632001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3686632001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3686632001"
+  - title: "Donald Trump Doing 'Well,' But 'Not Yet Out of the Woods,' White House Says"
+    excerpt: "The president's physician sent a memo Saturday night with updates on Trump's condition, saying he's fever-free, and has completed his second dose of Remdesivir."
+    publishedDateTime: 2020-10-04T01:41:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-doing-well-not-yet-out-woods-white-house-says-1536232"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-doing-well-not-yet-out-woods-white-house-says-1536232?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-doing-well-not-yet-out-woods-white-house-says-1536232?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1645785/donald-trump.jpg"
+        width: 3525
+        height: 2350
+        isCached: true
+  - title: "Senate confirmation hearings likely to start Oct. 12 for Barrett, Trump says"
+    excerpt: "U.S. President Donald Trump said the Senate will likely open hearings on his third Supreme Court nominee, Amy Coney Barrett, on Oct. 12 and he expected a full Senate vote before the Nov. 3 election."
+    publishedDateTime: 2020-09-27T00:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-senate-idUSKBN26H13E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H13E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H13E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535059150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P0NW"
+        width: 855
+        height: 545
+        isCached: true
+  - title: "Donald Trump's taxes already at issue in at least two New York investigations"
+    excerpt: "Even before The New York Times' major report, President Trump's taxes were at the center of at least two major New York investigations."
+    publishedDateTime: 2020-09-28T19:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/28/donald-trump-taxes-ny-investigations/3565470001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3565470001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565470001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/51c3ff9b-0ec4-4680-8924-4e057ce9a7c7-AP20293837215722.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Trump says Senate Republicans will go along with COVID aid deal"
-    excerpt: "President Donald Trump predicted on Tuesday that his fellow Republicans in the U.S. Senate would go along if the White House reaches a coronavirus relief deal with Democratic House Speaker Nancy Pelosi,"
-    publishedDateTime: 2020-10-20T13:04:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-trump-idUKKBN2751R2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2751R2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2751R2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538163874&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J111"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "What we need to hear from Biden at the debate"
-    excerpt: "I listed questions that President Trump should have to answer for each of the debate topics listed, except for covid-19, since it was already a topic in the first debate. Now, here are the questions Biden should address: If you add a public option to the Affordable Care Act,"
-    publishedDateTime: 2020-10-21T12:01:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/21/what-we-need-hear-biden-debate/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/21/what-we-need-hear-biden-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/21/what-we-need-hear-biden-debate/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FRLZVLQSMYI6XISYMFFM6K4QNU.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Final debate offers Trump a late chance to reshape presidential race"
-    excerpt: "President Donald Trump gets a final chance to make his case for re-election before a vast audience of Americans when he squares off against Democratic rival Joe Biden on Thursday in their last debate before the Nov."
-    publishedDateTime: 2020-10-22T05:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN2770H1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2770H1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2770H1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538409171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L0AU"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Betting markets give Trump slightly improved chances after debate"
-    excerpt: "U.S. President Donald Trump's probability of getting re-elected gained slightly on online betting markets following Thursday's final presidential debate."
-    publishedDateTime: 2020-10-23T09:18:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-gambling-idUSKBN27812E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27812E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27812E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538576756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0MP"
-        width: 873
-        height: 545
-        isCached: true
-  - title: "Biden tests negative for COVID-19, campaign says"
-    excerpt: "Democratic U.S. presidential nominee Joe Biden tested negative for COVID-19 on Saturday, his campaign said in a statement."
-    publishedDateTime: 2020-10-24T16:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-health-idUSKBN2790NR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2790NR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2790NR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538697782&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N0EP"
-        width: 862
-        height: 545
-        isCached: true
-  - title: "A day after US hits a new high for cases, the COVID-19 surge shadows Trump and Biden campaign events"
-    excerpt: "In the face of spiking numbers, Trump on Saturday continued to lean into the idea that the news media and his critics are obsessing about the virus, even as polls show widespread public concern."
-    publishedDateTime: 2020-10-25T01:36:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-biden-covid-presidential-election-20201025-qf6gf7bx7jd5xjnyktt3zfl2iy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-biden-covid-presidential-election-20201025-qf6gf7bx7jd5xjnyktt3zfl2iy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-biden-covid-presidential-election-20201025-qf6gf7bx7jd5xjnyktt3zfl2iy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/bi8QwCE_mgjCftfvptJZAKCc0Gk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZUKSJ56WA2DTBPBYS4PYL6GFGE.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Did Donald Trump deliver to voters with that last debate performance?"
-    excerpt: "In the second and final presidential debate, Americans witnessed a much less raucous, more coherent, and more policy-oriented and traditional discussion than the first debate That"
-    publishedDateTime: 2020-10-25T15:00:00Z
-    webUrl: "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance"
-    ampWebUrl: "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald3_10222020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump-Biden race is tight in Florida, Georgia and North Carolina — CBS News Battleground Tracker poll"
-    excerpt: "Our estimates show Joe Biden with just a two-point edge over President Trump in Florida, Biden up four points in North Carolina, and the contest even in Georgia. Millions have already voted and many others say they've already decided."
-    publishedDateTime: 2020-10-25T14:32:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-trump-florida-georgia-north-carolina-opinion-poll-10-25-2020/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/25/46ae8717-8c38-4030-84bc-dbf4c833b39e/thumbnail/1200x630/d90ba7b812a4d1b3d439b605097676c8/gettyimages-1229228694.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump Resurrects False Testing Claim As Daily Covid Cases Hit New High"
-    excerpt: "The president complained the media gives the virus too much coverage and focuses too much on cases, though deaths and hospitalizations have risen as well."
-    publishedDateTime: 2020-10-24T20:12:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-resurrects-false-testing-claim-as-daily-covid-cases-hit-new-high/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-resurrects-false-testing-claim-as-daily-covid-cases-hit-new-high/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/24/trump-resurrects-false-testing-claim-as-daily-covid-cases-hit-new-high/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f947aac14559d92c0697573%2F0x0.jpg%3FcropX1%3D893%26cropX2%3D5175%26cropY1%3D1179%26cropY2%3D3587"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/NFTU/b647233f-080a-4cf7-84c2-97af9391e035-Election_2020_Trump.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump COVID-19 live updates: Campaign manager Bill Stepien tests positive"
-    excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."
-    publishedDateTime: 2020-10-03T14:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73402267"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73402267"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73402267"
+  - title: "Vice President Mike Pence to continue campaigning while Trump quarantines after testing positive for COVID"
+    excerpt: "Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does meet federal quarantine guidelines for COVID."
+    publishedDateTime: 2020-10-02T21:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892854002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's medical status unclear as doctors say he could be discharged on Monday"
+    excerpt: "President Donald Trump could be discharged from the hospital where he is being treated for COVID-19 as soon as Monday, according to his doctors, although his condition remains unclear and outside experts warn that his case may be severe."
+    publishedDateTime: 2020-10-05T04:30:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-int-idUSKBN26Q0DQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q0DQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q0DQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536164705&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9407O"
+        width: 785
+        height: 545
+        isCached: true
+  - title: "Donald Trump: What you need to know about the Republican nominee for president"
+    excerpt: "Donald Trump, the 45th president of the United States, hasn't stopped campaigning since winning in 2016. He filed for reelection on the day of his inauguration."
+    publishedDateTime: 2020-10-08T14:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-republican-nominee-president/story?id=67473973"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 124
+    quality: 121
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-mar-a-lago-01-gty-jc-191224_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Fact-checking claims on COVID-19 shutdowns, Trump’s taxes, Hunter Biden and more from the final debate"
-    excerpt: "President Donald Trump’s first line of the night, about COVID-19 deaths, was false and set the tone as he and Democratic rival Joe Biden unleashed a torrent of claims in their last presidential debate."
-    publishedDateTime: 2020-10-22T19:50:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-trump-biden-final-debate-20201023-wnt3suc3arcavagfc3jwln6v64-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-trump-biden-final-debate-20201023-wnt3suc3arcavagfc3jwln6v64-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-fact-check-trump-biden-final-debate-20201023-wnt3suc3arcavagfc3jwln6v64-story.html?outputType=amp"
+  - title: "Nancy Pelosi Says Donald Trump's Actions Were 'Brazen Invitation' to Catch COVID"
+    excerpt: "Speaker of the House Nancy Pelosi took aim at Donald Trump's previous actions following the president's positive coronavirus test result."
+    publishedDateTime: 2020-10-02T14:34:00Z
+    webUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855"
+    ampWebUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
     images:
-      - url: "https://www.chicagotribune.com/resizer/VzO8iMuoJ79jVrRB443dZO4wmrQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AEEEWEQOOXXQPU6ONEZRMYEYE4.jpg"
-        width: 1200
-        height: 800
+      - url: "https://d.newsweek.com/en/full/1644994/speaker-house-nancy-pelosi.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Trump has less than 2 weeks to turn around dire numbers, and Biden didn't do him any favors in the debate"
-    excerpt: "Joe Biden leads in polls in lots of places, and President Donald Trump needed a Hail Mary at Thursday's debate to turn it around. He didn't get it."
-    publishedDateTime: 2020-10-25T06:44:00Z
-    webUrl: "https://www.businessinsider.com/trump-needed-biden-to-screw-up-in-debate-he-didnt-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-needed-biden-to-screw-up-in-debate-he-didnt-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-needed-biden-to-screw-up-in-debate-he-didnt-2020-10?amp"
+  - title: "White House: VP Mike Pence tests negative and ‘remains in good heath,’ after Trump tests positive for COVID-19"
+    excerpt: "VP Mike Pence tests negative and ‘remains in good heath,’ after Trump tests positive for COVID-19. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-10-02T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/white-house-vp-mike-pence-tests-negative-and-remains-in-good-heath-after-trump-tests-positive-for-covid-19/2020/10/02/64b20a0a-04a7-11eb-b92e-029676f9ebec_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/white-house-vp-mike-pence-tests-negative-and-remains-in-good-heath-after-trump-tests-positive-for-covid-19/2020/10/02/64b20a0a-04a7-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-vp-mike-pence-tests-negative-and-remains-in-good-heath-after-trump-tests-positive-for-covid-19/2020/10/02/64b20a0a-04a7-11eb-b92e-029676f9ebec_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 123
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://i.insider.com/5f9254282121130018740575?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "2020 election updates: Trump signs bill to avert shutdown, COVID-19 stimulus talks find life, Trump and Biden campaign after first debate"
-    excerpt: "Trump signed a bill early Thursday to avert a government shutdown, stimulus talks continue and Biden and Trump campaign after the first debate."
-    publishedDateTime: 2020-10-01T12:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/2020-election-updates-trump-biden-campaign-stimulus-bill-stalled/3549579001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3549579001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3549579001"
+  - title: "'Anyone can get it,' Trump supporters shocked at diagnosis, unwavering in support"
+    excerpt: "As Americans digested the news on Friday that President Donald Trump had tested positive for the novel coronavirus, some of his backers expressed surprise that he hadn't been safe from infection and said their support for him was not diminished."
+    publishedDateTime: 2020-10-02T19:20:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-voters-idUSKBN26N37J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N37J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N37J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535926755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9122K"
+        width: 794
+        height: 545
+        isCached: true
+  - title: "Factbox: Trump White House, campaign staff who have tested positive for COVID-19"
+    excerpt: "News of President Donald Trump's COVID-19 diagnosis has upended the U.S. presidential election campaign entering its final month and roiled stock markets, raising questions about succession and prompting White House aides to insist that Trump would keep a busy,"
+    publishedDateTime: 2020-10-02T23:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-staff-fa-idUSKBN26N3FB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N3FB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N3FB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535948470&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9126O"
+        width: 808
+        height: 545
+        isCached: true
+  - title: "'Operation MAGA': Trump campaign to resume in-person events with Pence Ariz. trip as president battles COVID-19"
+    excerpt: "The trip will begin what the campaign is calling \"Operation MAGA\" – a return of in-person campaign events led by top surrogates as Trump is sidelined."
+    publishedDateTime: 2020-10-04T01:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3608249001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608249001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 122
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/01/USAT/2996b61d-468a-4144-96ce-e50fef429864-AFP_AFP_8R48HV.jpg?auto=webp&crop=5801,3264,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/202894dc-0bcd-452e-946a-6f550de7a30f-Pence_QAnon.jpg?auto=webp&crop=4490,2526,x0,y228&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Presidential-debate commission allows for muting microphones so Trump and Biden can have uninterrupted time"
-    excerpt: "The panel said the new rules \"strike the right balance and that they are in the interest of the American people, for whom these debates are held.\""
-    publishedDateTime: 2020-10-21T14:43:00Z
-    webUrl: "https://www.businessinsider.com/presidential-debate-commission-allows-muting-mics-for-uninterrupted-time-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/presidential-debate-commission-allows-muting-mics-for-uninterrupted-time-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/presidential-debate-commission-allows-muting-mics-for-uninterrupted-time-2020-10?amp"
+  - title: "White House: VP Mike Pence tests negative and 'remains in good health,' after Trump tests positive for COVID-19"
+    excerpt: "VP Mike Pence tests negative and 'remains in good health,' after Trump tests positive for COVID-19. 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2020-10-03T17:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/white-house-vp-mike-pence-tests-negative-remains-73384072"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/white-house-vp-mike-pence-tests-negative-remains-73384072"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/white-house-vp-mike-pence-tests-negative-remains-73384072"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
-    images:
-      - url: "https://i.insider.com/5f8e27adc21cfb0019468eba?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "\"60 Minutes\" preview: Biden plans commission to study Supreme Court; Trump wants U.S. \"to get back to normal\""
-    excerpt: "The separate interviews on CBS News' \"60 Minutes\" are set to air Sunday – just nine days before the U.S. election."
-    publishedDateTime: 2020-10-22T11:16:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-60-minutes-biden-supreme-court/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-60-minutes-biden-supreme-court/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-60-minutes-biden-supreme-court/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 121
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/22/b42ef257-1a7e-4996-a3e3-b1323f2ef66c/thumbnail/1200x630/821cd8fe35737239e88b468fad9722e8/bidentrump-new.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A striking new poll out of Texas shows Biden tied with Trump in a state that's been a GOP mainstay since 1976"
-    excerpt: "A new poll found President Donald Trump and former Vice President Joe Biden tied at 47% in Texas, which most recently turned blue with Jimmy Carter."
-    publishedDateTime: 2020-10-23T01:23:00Z
-    webUrl: "https://www.businessinsider.com/texas-poll-shows-biden-and-trump-currently-neck-and-neck-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/texas-poll-shows-biden-and-trump-currently-neck-and-neck-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/texas-poll-shows-biden-and-trump-currently-neck-and-neck-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.com
-    quality: 121
-    images:
-      - url: "https://i.insider.com/5f91589aabcd0c0018d68f9a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Final Biden-Trump Debate Is Thursday. Here's What You Need To Know"
-    excerpt: "The debate likely marks President Trump's last chance to reach a massive audience as he trails Joe Biden in polls nationally and in key states."
-    publishedDateTime: 2020-10-21T09:00:00Z
-    webUrl: "https://www.npr.org/2020/10/21/925386863/the-final-biden-trump-debate-is-thursday-heres-what-you-need-to-know"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
+      name: ABC
+      domain: abcnews.go.com
     quality: 120
     images:
-      - url: "https://media.npr.org/assets/img/2020/10/19/2020-10-22-biden-trump_debate-faq_wide-3ac15f12e01e48307f6112269a9fa25092d7e09d.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Trump And Biden On Global Issues: From Reproductive Rights To Refugees"
-    excerpt: "Here are the positions of the two candidates on issues ranging from the Mexico City policy (involving abortion services) to refugees to membership in the World Health Organization."
-    publishedDateTime: 2020-10-22T18:51:00Z
-    webUrl: "https://www.npr.org/sections/goatsandsoda/2020/10/22/926692628/trump-and-biden-on-global-issues-from-reproductive-rights-to-refugees"
+  - title: "Supreme Court live updates: Trump nominates Amy Coney Barrett at White House event"
+    excerpt: "President Trump's nominee to the Supreme Court sets up a bitter confirmation battle just weeks before the presidential election."
+    publishedDateTime: 2020-09-26T20:49:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 120
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/22/global-aid_wide-575a80bf9d18bd171db381a219a5fecc8d42678a.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
-    excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
-    publishedDateTime: 2020-10-21T14:39:00Z
-    webUrl: "https://www.businessinsider.com/kristen-welker-presidential-debate-moderator-nbc-news-journalist-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/kristen-welker-presidential-debate-moderator-nbc-news-journalist-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kristen-welker-presidential-debate-moderator-nbc-news-journalist-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 119
     images:
-      - url: "https://i.insider.com/5f8e065a9e9fe4001900a3b8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7FGIG7X7PMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 974
         isCached: true
-  - title: "Trump seized on Biden's promise to 'transition away from oil,' but the move away from fossil fuels is nothing new"
-    excerpt: "Democrats have long pushed to replace fossil fuels with renewable energy and polling shows Americans are increasingly concerned about climate change."
-    publishedDateTime: 2020-10-24T01:48:00Z
-    webUrl: "https://www.businessinsider.com/trump-seized-on-bidens-promise-to-transition-away-from-oil-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-seized-on-bidens-promise-to-transition-away-from-oil-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seized-on-bidens-promise-to-transition-away-from-oil-2020-10?amp"
+  - title: "White House adviser Hope Hicks tests positive for COVID after traveling with Trump"
+    excerpt: "White House adviser Hope Hicks has coronavirus after she traveled with President Donald Trump in the last few days. A person familiar with Hicks' situation but who was not authorized to discuss it confirmed to USA TODAY she tested positive."
+    publishedDateTime: 2020-10-02T01:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/01/hope-hicks-tests-positive-covid-after-traveling-trump/5889312002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5889312002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5889312002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: USA Today
+      domain: usatoday.com
     quality: 119
     images:
-      - url: "https://i.insider.com/5f92e59d212113001874067f?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f10e562b-768c-4849-974c-63f4edf662dd-Donald_Trump_Melania_Trump.jpg?auto=webp&crop=3503,1970,x0,y107&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Biden denies unethical behavior involving his son Hunter during questioning at debate"
-    excerpt: "Democratic presidential nominee Joe Biden on Thursday denied any unethical behavior related to his son Hunter Biden under questioning at the second presidential debate with President Trump."
-    publishedDateTime: 2020-10-23T02:59:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning?amp"
+  - title: "New York attorney general's office deposing Eric Trump in tax investigation: report"
+    excerpt: "President Trump's son Eric Trump is being deposed Monday as part of an investigation into whether or not the value of certain Trump Organization assets were improperly inflated in order to gain tax benefits."
+    publishedDateTime: 2020-10-05T21:34:00Z
+    webUrl: "https://thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax"
+    ampWebUrl: "https://thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 118
+    quality: 119
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_102202020_0.jpg"
+      - url: "https://thehill.com/sites/default/files/trumperic2_082520getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Biden proposes at debate a \"Bidencare\" health plan that would include a public option"
-    excerpt: "Biden said during Thursday's debate that he would push for a version of Obamacare that includes a public option."
-    publishedDateTime: 2020-10-23T03:47:00Z
-    webUrl: "https://www.cbsnews.com/news/presidential-debate-bidencare-biden-proposes-health-plan-that-would-include-a-public-option/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/presidential-debate-bidencare-biden-proposes-health-plan-that-would-include-a-public-option/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/presidential-debate-bidencare-biden-proposes-health-plan-that-would-include-a-public-option/"
+  - title: "President Trump Ends Next Stimulus Package Negotiations Between Mnuchin And Pelosi"
+    excerpt: "President Trump has instructed his representatives, which to this point have consisted of Treasury Secretary Steven Mnuchin and White House chief of staff Mark Meadows, to stop negotiations until after the election."
+    publishedDateTime: 2020-10-06T19:31:00Z
+    webUrl: "https://www.forbes.com/sites/jimwang/2020/10/06/president-trump-ends-next-stimulus-package-negotiations-between-mnuchin-and-pelosi/"
+    ampWebUrl: "https://www.forbes.com/sites/jimwang/2020/10/06/president-trump-ends-next-stimulus-package-negotiations-between-mnuchin-and-pelosi/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimwang/2020/10/06/president-trump-ends-next-stimulus-package-negotiations-between-mnuchin-and-pelosi/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 119
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7cc4d4c5a627c507008af0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4752%26cropY1%3D0%26cropY2%3D2673"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "China had mocked Trump for not taking the pandemic seriously. Now it's very personal."
+    excerpt: "China is riveted by news of Trump’s positive coronavirus test, even as senior officials remain reserved in their public comments."
+    publishedDateTime: 2020-10-03T13:34:00Z
+    webUrl: "https://www.washingtonpost.com/world/asia_pacific/coronavirus-china-trump-xi/2020/10/03/b2b848e6-04b5-11eb-b92e-029676f9ebec_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/coronavirus-china-trump-xi/2020/10/03/b2b848e6-04b5-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/coronavirus-china-trump-xi/2020/10/03/b2b848e6-04b5-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6YJXZSQFPMI6XCL5HJRADVTEH4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "'Starting to feel good.' Trump releases new video from Walter Reed amid COVID battle"
+    excerpt: "Trump's latest video came as the White House has struggled to offer a consistent message about the president's condition since he tested positive for COVID-19."
+    publishedDateTime: 2020-10-03T23:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/trump-tweets-video-walter-reed-feeling-much-better-covid/3613162001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3613162001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3613162001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump says 'real test' ahead in his COVID fight after mixed messages from White House"
+    excerpt: "President Donald Trump told Americans from his hospital room that the next few days will be the \"real test\" of his treatment for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his condition."
+    publishedDateTime: 2020-10-04T04:28:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump/trump-says-real-test-ahead-in-his-covid-fight-after-mixed-messages-from-white-house-idUSKBN26P04A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P049"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P049"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536074415&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG93029"
+        width: 1009
+        height: 545
+        isCached: true
+  - title: "Eric Trump answers questions from NY investigators in examination of family business"
+    excerpt: "President Donald Trump's son Eric answered questions Monday from New York state investigators looking into his family's business practices. The office of New York Attorney General Letitia James confirmed that the video deposition took place as scheduled,"
+    publishedDateTime: 2020-10-06T13:35:00Z
+    webUrl: "https://www.cbsnews.com/news/eric-trump-deposition-new-york-investigators-family-business/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 118
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/23/61bbb02e-4500-4864-9632-640c34e70ede/thumbnail/1200x630/4a030fac0bb97cc3d2f41c717d46a0e0/gettyimages-1229229085.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/06/17cd3855-485e-4dfc-aea1-bf33d733ce9d/thumbnail/1200x630/605201032786294968670388fc939ec5/gettyimages-1277456367.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Pelosi, Trump trade blame on COVID-19 stimulus talks; Senate Republicans on sidelines"
-    excerpt: "U.S. House Speaker Nancy Pelosi said on Friday it still was possible to get another round of COVID-19 aid before the Nov. 3 general election, but that it was up to President Donald Trump to act, including bringing along reluctant Senate Republicans."
-    publishedDateTime: 2020-10-24T08:54:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idINKBN27905G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27905G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27905G"
+  - title: "Trump insisting on working from Oval Office despite quarantine rules, infection risks"
+    excerpt: "A top aide to President Donald Trump said he is eager to get back to working in the Oval Office and could do so as early as Wednesday despite infection risks."
+    publishedDateTime: 2020-10-07T21:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-insisting-working-oval-office-quarantine-rules-infection/story?id=73472757"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-insisting-working-oval-office-quarantine-rules-infection/story?id=73472757"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insisting-working-oval-office-quarantine-rules-infection/story?id=73472757"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/International/trump-oval-rt-rc-201007_1602100418582_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump doesn’t really care about white supremacy and you’re not going to make him"
+    excerpt: "President Trump has been consistently clear about his view of white supremacists. If you expect him to spontaneously denounce them, you’ll be waiting for a while. If, however, you insist that he does so,"
+    publishedDateTime: 2020-09-30T18:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4DAO4XQAJQI6XMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "After mixed messages from White House, Trump says 'real test' ahead in his COVID fight"
+    excerpt: "President Donald Trump said from his hospital room on Saturday that he felt \"much better\" but the next few days will be \"the real test\" of his treatment for COVID-19, capping a day of contradictory messages from the White House about his condition."
+    publishedDateTime: 2020-10-04T09:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump/trump-says-next-days-of-covid-19-treatment-will-be-real-test-idUSKBN26O03M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O03M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O03M"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 118
+    quality: 117
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538656184&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M191"
-        width: 833
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536069234&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9301B"
+        width: 1009
         height: 545
         isCached: true
-  - title: "For the final debate, forget the 'Trump curve.' Grade the president on facts and truth."
-    excerpt: "It doesn't matter if Trump interrupts less. If he lies, undermines public health or destabilizes our election, his grade should be unfit for office."
-    publishedDateTime: 2020-10-21T21:21:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/21/trump-biden-debate-curve-grade-on-truth-facts-fitness-column/5991855002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5991855002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5991855002"
+  - title: "Trump Says Stimulus Talks Are Back On—But Not Much Has Changed Since He Called Them Off"
+    excerpt: "This week, the president has veered wildly in his statements about the status of coronavirus aid negotiations."
+    publishedDateTime: 2020-10-08T14:46:00Z
+    webUrl: "https://www.forbes.com/sites/sarahhansen/2020/10/08/trump-says-stimulus-talks-are-back-on-but-not-much-has-changed-since-he-called-them-off/"
+    ampWebUrl: "https://www.forbes.com/sites/sarahhansen/2020/10/08/trump-says-stimulus-talks-are-back-on-but-not-much-has-changed-since-he-called-them-off/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sarahhansen/2020/10/08/trump-says-stimulus-talks-are-back-on-but-not-much-has-changed-since-he-called-them-off/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 117
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f252d9c0ba07e5be84c33%2F0x0.jpg%3FcropX1%3D402%26cropX2%3D4917%26cropY1%3D429%26cropY2%3D2968"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "More than half of Americans disapprove of President Trump's handling of race, survey says"
+    excerpt: "According to a survey from the Democracy Fund + UCLA Nationscape Project, 56% of Americans disapprove of the president's handling of race – a six-percentage point increase from February, When broken down by race and ethnicity,"
+    publishedDateTime: 2020-10-03T09:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/survey-more-than-half-americans-disapprove-trumps-handling-race/5881109002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5881109002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5881109002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 117
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/ce9bad06-224d-4cde-889b-6541e32030b5-GTY_1281118864.jpg?auto=webp&crop=5055,2843,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Democrats and Republicans are praising Kristen Welker for keeping control in the final debate between Trump and Biden"
-    excerpt: "Welker, a correspondent for NBC News, chaired the final presidential debate between President Trump and Vice President Biden on Thursday."
-    publishedDateTime: 2020-10-23T11:17:00Z
-    webUrl: "https://www.businessinsider.com/kristen-welker-democrats-republicans-praise-debate-moderator-performance-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/kristen-welker-democrats-republicans-praise-debate-moderator-performance-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kristen-welker-democrats-republicans-praise-debate-moderator-performance-2020-10?amp"
+  - title: "What the White House and Trump allies said about his condition over the course of the day"
+    excerpt: "For the public, though, the scale of Trump’s illness only became apparent Friday afternoon, when the White House announced that the president would be headed to Walter Reed for several days. Since the diagnosis was made public early that morning,"
+    publishedDateTime: 2020-10-03T07:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/02/what-white-house-trump-allies-said-about-his-condition-over-course-day/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/02/what-white-house-trump-allies-said-about-his-condition-over-course-day/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/02/what-white-house-trump-allies-said-about-his-condition-over-course-day/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5f9293ce21211300187405a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Mute buttons, Lincoln and a watch: Six takeaways from the Trump-Biden debate"
-    excerpt: "Democratic U.S. presidential nominee Joe Biden speaks during the third and final presidential debate with U.S. President Donald Trump at Belmont University in Nashville, Tennessee, U.S., October 22, 2"
-    publishedDateTime: 2020-10-23T05:29:00Z
-    webUrl: "https://www.reuters.com/news/picture/mute-buttons-lincoln-and-a-watch-six-tak-idUSKBN27802K"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538549244&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9M07S"
-        width: 810
-        height: 540
-        isCached: true
-  - title: "John Daly after being President Donald Trump's guest at debate: 'He's like me and Jesus'"
-    excerpt: "Golfer John Daly was at the second and final presidential debate on Thursday and caught up with USA TODAY Sports during the after party."
-    publishedDateTime: 2020-10-23T13:34:00Z
-    webUrl: "https://www.usatoday.com/story/sports/2020/10/23/john-daly-presidential-debate-donald-trump-like-me-and-jesus/3739947001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3739947001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3739947001"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: usatoday.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/9a2c80c6-bfe7-4509-861b-b4d57d8da789-AP_Election_2020_Debate.jpg?auto=webp&crop=4405,2478,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALK34XQFAUI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "On Monday, Trump updated the nation on coronavirus strategy. By Friday, he tested positive."
+    excerpt: "Trump interacted with scores of staff members, donors and supporters this week. It is unclear how many other aides who had come into close contact with him had tested positive."
+    publishedDateTime: 2020-10-02T08:40:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 115
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7cuN1FZK5fALhAuqpH7vAFylQrs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SCW4TW76LFBM3C2RAJC7UPNQY4.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden says he won't return Trump's attacks on his children because 'it's crass' to target a political opponent's family"
-    excerpt: "\"Look, I'm running against Donald Trump, not his children,\" Biden said in an interview with \"Pod Save America.\""
-    publishedDateTime: 2020-10-24T23:45:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-its-crass-to-attack-political-opponents-family-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-its-crass-to-attack-political-opponents-family-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-its-crass-to-attack-political-opponents-family-2020-10?amp"
+  - title: "Temporary contractor threw Trump mail-in ballots in trash, Pennsylvania county officials say"
+    excerpt: "An incident regarding \"a small number\" of discarded mail-in ballots in Pennsylvania -- which has sparked a Department of Justice investigation and drawn the attention of President Donald Trump-- appears to be rooted in an administrative error by a temporary contractor working at the Luzerne County Elections Bureau,"
+    publishedDateTime: 2020-09-26T13:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/temporary-contractor-threw-trump-mail-ballots-trash-pennsylvania/story?id=73251533"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/temporary-contractor-threw-trump-mail-ballots-trash-pennsylvania/story?id=73251533"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/temporary-contractor-threw-trump-mail-ballots-trash-pennsylvania/story?id=73251533"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
+      name: ABC
+      domain: abcnews.go.com
+    quality: 114
     images:
-      - url: "https://i.insider.com/5f5fb81157b7da001ee117a5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/trump-atlanta_hpMain_20200925-213303_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Debate: Biden says he'd create 'Bidencare' if Supreme Court strikes down Affordable Care Act"
-    excerpt: "Former Vice President Joe Biden cast aside attacks from President Donald Trump over what health care could look like under a Democratic president."
-    publishedDateTime: 2020-10-23T06:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/presidential-debate-bidencare-replace-aca-if-supreme-court-strikes-down/3737892001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3737892001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3737892001"
+  - title: "Supreme Court live updates: Trump expected to nominate Amy Coney Barrett at White House event"
+    excerpt: "President Trump's nominee to the Supreme Court sets up a bitter confirmation battle just weeks before the presidential election."
+    publishedDateTime: 2020-09-26T18:42:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7FGIG7X7PMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 974
+        isCached: true
+  - title: "VP Mike Pence claims he was with President Trump in Oval Office hours before debate"
+    excerpt: "Vice President Mike Pence, at a debate watch event in Lititz, Pa., on Tuesday, says he met President Trump in the Oval Office just hours before."
+    publishedDateTime: 2020-10-02T19:59:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/083659c1-add0-4dbf-a87f-92cb969eb738-XXX__AN55804.JPG?auto=webp&crop=4660,2621,x0,y55&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/ae72be46-bc69-48a1-b5be-e5285dad28f3-AP_APTOPIX_Supreme_Court_Barrett.jpg?quality=10"
+        width: 4363
+        height: 2909
         isCached: true
-  - title: "Lawyers From Firm Used By Trump Campaign Donated $50 To Him—And $90,000 To Joe Biden"
-    excerpt: "Lawyers from Jones Day, the firm providing counsel to Trump’s re-election campaign, have donated far more to Democratic rival Joe Biden than they did to him, a Reuters analysis published Wednesday shows."
-    publishedDateTime: 2020-10-21T19:00:00Z
-    webUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/21/lawyers-from-firm-used-by-trump-campaign-donated-50-to-him-and-90000-to-joe-biden/"
+  - title: "GOP lawmakers, Trump advisers broke ranks with the president after he decided to halt stimulus talks until after the election"
+    excerpt: "A Trump campaign adviser told Axios, \"You have to try to be this politically inept. What is going on in the White House? Where is Mark Meadows?\""
+    publishedDateTime: 2020-10-07T04:56:00Z
+    webUrl: "https://www.businessinsider.com/gop-lawmakers-trump-advisers-slam-trump-after-halting-stimulus-talks-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/gop-lawmakers-trump-advisers-slam-trump-after-halting-stimulus-talks-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-lawmakers-trump-advisers-slam-trump-after-halting-stimulus-talks-2020-10?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 113
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9083ca421548d89e4a00ae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5562%26cropY1%3D58%26cropY2%3D3187"
+      - url: "https://i.insider.com/5f7cf546282c500018c79040?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Plexiglass partitions to separate Trump, Biden as they face off in final 2020 debate"
-    excerpt: "President Donald Trump and former Vice President Joe Biden face off in the final presidential debate of the 2020 election from Belmont University in Nashville Thursday."
-    publishedDateTime: 2020-10-22T19:48:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/debate-campaign-election-2020/?id=73746917"
+  - title: "Trump planning to host 1st in-person event since diagnosis at White House on Saturday: Sources"
+    excerpt: "President Donald Trump is scheduled to host his first in-person event since testing positive for the coronavirus on Saturday at the White House discussing \"law and order,\" despite evidence of a growing coronavirus outbreak at the White House this week."
+    publishedDateTime: 2020-10-10T05:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-planning-host-1st-person-event-diagnosis-white/story?id=73512644"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-planning-host-1st-person-event-diagnosis-white/story?id=73512644"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-planning-host-1st-person-event-diagnosis-white/story?id=73512644"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 113
     images:
-      - url: "https://s.abcnews.com/images/Politics/debate-barriers-gty-ps-201022_1603372308209_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-white-house-return-gty-jc-201006_1602021609016_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Election 2020 live updates: 2 weeks until Election Day, Trump in Pennsylvania as Democrats try to win over Cuban American voters"
-    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
-    publishedDateTime: 2020-10-20T12:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/2568520a-0391-4b0b-a87d-5d04c5a5eae7-AFP_AFP_8TE9PJ.jpg?auto=webp&crop=4114,2315,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Voting across the US live updates: Joe Biden leads Donald Trump in Texas poll; New Hampshire can't ban armed voters; Facebook threat"
-    excerpt: "The latest in voting news, including Joe Biden leading Donald Trump in a new Texas poll and New Hampshire saying it can't keep armed voters away."
-    publishedDateTime: 2020-10-25T21:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/25/voting-2020-joe-biden-donald-trump-texas/3728764001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3728764001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3728764001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/1912c2b8-97e2-4eb4-a230-436baefc21e2-Dallas_line.jpg?auto=webp&crop=4819,2711,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The final debate could be Trump's last chance to turn the race around: He's already attacking the moderator"
-    excerpt: "Trump praised Welker in the past, complementing her in January for landing a gig on NBC's \"Today\" show. \"They made a very wise decision,\" Trump said."
-    publishedDateTime: 2020-10-20T00:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/18/trump-attack-third-debate-moderator-kristen-welker-unfair/3704010001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3704010001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3704010001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/a2b11f88-7c73-4171-9166-a5534fdcbde3-XXX_Welker_Kristen_2_dcb.JPG?auto=webp&crop=2999,1687,x1,y128&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases"
-    excerpt: "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news."
-    publishedDateTime: 2020-10-18T19:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "No evidence for Trump claim that Joe Biden earned money in China, according to the Wall Street Journal, contradicting its editorial section"
-    excerpt: "Reviewing corporate records and text messages, The Wall Street Journal uncovered no evidence that Joe Biden did business in China."
-    publishedDateTime: 2020-10-23T07:25:00Z
-    webUrl: "https://www.businessinsider.com/no-evidence-trump-claim-joe-biden-earned-money-in-china-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/no-evidence-trump-claim-joe-biden-earned-money-in-china-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/no-evidence-trump-claim-joe-biden-earned-money-in-china-2020-10?amp"
+  - title: "Masks still won't be required in the White House after Trump's COVID-19 diagnosis, official says"
+    excerpt: "President Donald Trump has repeatedly flouted recommendations from top public health experts to wear a mask or face-covering."
+    publishedDateTime: 2020-10-02T19:46:00Z
+    webUrl: "https://www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 106
+    quality: 112
     images:
-      - url: "https://i.insider.com/5f925773abcd0c0018d6940c?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f777ea0282c500018c785f2?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump rallies in Nevada ahead of final debate"
-    excerpt: "World Trump rallies in Nevada ahead of final debate. Posted . President Donald Trump implored supporters in Nevada on Sunday to cast ballots early in a state he narrowly lost in 2"
-    publishedDateTime: 2020-10-19T11:41:00Z
-    webUrl: "https://www.reuters.com/video/watch/trump-rallies-in-nevada-ahead-of-final-d-id720970154"
+  - title: "Dow Jumps More Than 450 Points After President Trump Says He’s Being Discharged From The Hospital"
+    excerpt: "Stocks jumped Monday afternoon after President Donald Trump announced he would be discharged from Walter Reed Medical Center at 6:30 p.m., with all of the main indexes adding close to 2%, as Wall Street eyes President Trump's Covid-19 recovery and the ongoing potential for successful stimulus negotiations."
+    publishedDateTime: 2020-10-05T21:05:00Z
+    webUrl: "https://www.forbes.com/sites/jonathanponciano/2020/10/05/dow-climbs-200-points-draftkings-slumps-and-bristol-myers-bridgebio-pharma-announce-acquisitions/"
+    ampWebUrl: "https://www.forbes.com/sites/jonathanponciano/2020/10/05/dow-climbs-200-points-draftkings-slumps-and-bristol-myers-bridgebio-pharma-announce-acquisitions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanponciano/2020/10/05/dow-climbs-200-points-draftkings-slumps-and-bristol-myers-bridgebio-pharma-announce-acquisitions/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Forbes
+      domain: forbes.com
+    quality: 112
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b7c213aa150cd97f572d8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2313%26cropY1%3D0%26cropY2%3D1301"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Isolated in the White House, Trump struggles to project a sense of normalcy after canceled debate"
+    excerpt: "Though he was just released from Walter Reed National Military Medical Center on Monday, the president is eager to return to the campaign trail, advisers said."
+    publishedDateTime: 2020-10-09T05:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-debate-coronavirus-quarantine/2020/10/08/81e639be-0972-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-debate-coronavirus-quarantine/2020/10/08/81e639be-0972-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-debate-coronavirus-quarantine/2020/10/08/81e639be-0972-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3AEKCAJXAI6XBM37HBHVPTDRU.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
+  - title: "Trump will take a 'medical evaluation' administered by a Fox News doctor on TV, the network says"
+    excerpt: "The president will be interviewed by Tucker Carlson on Friday, Fox News said. It will be his first on-camera interview since his COVID-19 diagnosis."
+    publishedDateTime: 2020-10-09T13:17:00Z
+    webUrl: "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f805ff34c3b2e0019bba144?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pressure mounts on Trump to clearly condemn white supremacy. The White House insists he already has"
+    excerpt: "President Donald Trump avoided reporters when departing the White House Thursday as the White House maintains he has nothing to clarify on his stance on white supremacy."
+    publishedDateTime: 2020-10-01T21:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/pressure-mounts-trump-condemn-white-supremacy-white-house/story?id=73369804"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/pressure-mounts-trump-condemn-white-supremacy-white-house/story?id=73369804"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pressure-mounts-trump-condemn-white-supremacy-white-house/story?id=73369804"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 111
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-1-gty-er-201001_1601578901341_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump is a 'Tyrant' and 'Not Your Friend', Says Suspect in Governor Whitmer Kidnapping Plot"
+    excerpt: "\"Trump is not your friend dude and it amazes me that people actually like believe that,\" Brandon Caserta, one of the men charged with conspiring to kidnap Whitmer, said in a video posted to Twitter by American producer and director Robby Starbuck."
+    publishedDateTime: 2020-10-09T13:55:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 111
+    images:
+      - url: "https://d.newsweek.com/en/full/1648606/gretchen-whitmer.jpg"
+        width: 2500
+        height: 1685
+        isCached: true
+  - title: "Post-debate, election live updates: Trump, who still has COVID-19, may hold event next week; insults largely absent from VP debate"
+    excerpt: "President Trump may hold an event Monday. The vice presidential debate was less chaotic than the Trump-Biden one. Latest COVID-19 and election news."
+    publishedDateTime: 2020-10-08T15:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5882077002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/a81a3bbd-3b2d-4005-b5be-5681d7ec33e4-USP_News__Vice_Presidential_debate_between_Republi.jpg?auto=webp&crop=2826,1590,x1,y87&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump quarantines after positive Covid test; Mike Pence tests negative – live updates"
+    excerpt: "President to quarantine days after taking part in TV debate and campaign rally in Minnesota; Vice president’s daily test comes back negative"
+    publishedDateTime: 2020-10-02T12:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f770ef68f083836ec4c5483"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 109
+  - title: "People close to Trump are questioning whether his judgment is being affected by his steroids, reports say"
+    excerpt: "President Donald Trump's coronavirus treatment involves dexamethasone, a subject of speculation after he abruptly announced an end to stimulus talks."
+    publishedDateTime: 2020-10-08T01:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-allies-worry-coronavirus-steroid-affecting-judgment-reports-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-allies-worry-coronavirus-steroid-affecting-judgment-reports-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-worry-coronavirus-steroid-affecting-judgment-reports-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f7d8c6e282c500018c7907f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pelosi on 'The View': White House should stage a Trump 'intervention' after abrupt decision on COVID stimulus"
+    excerpt: "\"When the president just popped off and made that announcement without even informing us ... it \"insulted the Constitution,\" Nancy Pelosi said."
+    publishedDateTime: 2020-10-07T16:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/07/pelosi-the-view-white-house-should-stage-trump-intervention/5910334002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5910334002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5910334002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/2ca06dba-cded-4ca4-a3e7-254feb4332e8-AP_Congress_Pelosi.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Pennsylvania Governor Asks Trump Not to Come: Campaign Update"
+    excerpt: "President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday. The list of ex-officials slamming Trump grows. And a campaign to get Americans to to work at polling places on Election Day has enlisted 500,"
+    publishedDateTime: 2020-09-25T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/pennsylvania-governor-asks-trump-not-to-come-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201019&i=OVD0SU1RF&r=OVD0SU1RF&t=2"
-        width: 960
-        height: 540
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Twitter raps Trump COVID-19 adviser as U.S. cases rise"
-    excerpt: "Twitter on Sunday removed a \"misleading\" tweet downplaying the efficacy of masks posted by a top coronavirus adviser to President Donald Trump, while U.S. cases surged before the Nov. 3 election."
-    publishedDateTime: 2020-10-19T01:36:00Z
-    webUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
+  - title: "Trump campaign sues to block mail-in ballot rule changes"
+    excerpt: "President Donald Trump's campaign committee and the Republican National Committee sued Saturday to block North Carolina election officials from enforcing rule changes that could boost the number of ballots counted in the presidential battleground state."
+    publishedDateTime: 2020-09-27T02:39:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-sues-to-block-mail-in-ballot-rule-changes-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-sues-to-block-mail-in-ballot-rule-changes-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-sues-to-block-mail-in-ballot-rule-changes-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Trump says he will test for COVID-19 before next presidential debate"
-    excerpt: "U.S. President Donald Trump said on Monday he would test for the coronavirus before the next presidential debate with Democratic candidate Joe Biden this week."
-    publishedDateTime: 2020-10-19T19:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-test-idUSKBN2742MA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2742MA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742MA"
+  - title: "Trump moved to military hospital after COVID-19 diagnosis"
+    excerpt: "U.S. President Donald Trump moved to a military hospital for treatment on Friday after being diagnosed with COVID-19 as his administration and election campaign scrambled to adjust to an extraordinary twist in his turbulent presidency."
+    publishedDateTime: 2020-10-02T23:02:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump/update-16-trump-to-be-moved-to-military-hospital-after-covid-19-diagnosis-idUSL1N2GT1OV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0K4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0K4"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Joe Biden prepares for final debate as Obama hits the campaign trail"
-    excerpt: "Democratic nominee Joe Biden has no public events scheduled Wednesday as he prepares for Thursday's second and final presidential debate. Meanwhile, former President Barack Obama will make his first in-person campaign appearance on Biden's behalf in Philadelphia."
-    publishedDateTime: 2020-10-21T15:43:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-campaign-prepare-debate-obama-philadelphia/"
+  - title: "Trump to be moved to hospital for treatment after COVID-19 diagnosis"
+    excerpt: "U.S. President Donald Trump is moving to a military hospital for treatment after being diagnosed with COVID-19, a White House official said on Friday, as his administration and election campaign scrambled to adjust to an extraordinary twist in his turbulent presidency."
+    publishedDateTime: 2020-10-02T21:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN26N0K4"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/21/a429cbc0-5775-483b-87d7-24f0a697b41d/thumbnail/1200x630/e72afb088e1d6bd07f186c30bf1ae09c/cbsn-fusion-joe-biden-takes-break-from-campaign-trail-to-prepare-for-last-debate-before-election-thumbnail-571471-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201002&t=2&i=1535828951&r=LYNXMPEG910W2&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Analysis: 7 takeaways from the final 2020 debate, including Trump’s continued difficulty defending his handling of COVID-19"
-    excerpt: "For Trump, the matchup was perhaps the final opportunity to change the dynamics of a race. For Biden, it was 90 minutes to solidify an apparent lead."
-    publishedDateTime: 2020-10-23T05:22:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html?outputType=amp"
+  - title: "Relying on testing to ward off COVID put Trump White House at risk"
+    excerpt: "Early in the coronavirus pandemic, U.S. President Donald Trump put his faith in a toaster-sized machine that could spit out test results in a matter of minutes."
+    publishedDateTime: 2020-10-04T03:24:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-testing-insi-idCAKBN26O0FR"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201003&t=2&i=1536018686&r=LYNXMPEG9209A&w=800"
+        width: 800
+        height: 527
+        isCached: true
+  - title: "Trump making progress but not out of danger, doctor says"
+    excerpt: "U.S. President Donald Trump is free of fever and improving after being hospitalized with COVID-19 but is not yet out of danger, his physician, Dr. Sean Conley, said late on Saturday."
+    publishedDateTime: 2020-10-04T01:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-evening/trump-making-progress-but-not-out-of-danger-doctor-says-idUSKBN26P01Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201004&t=2&i=1536069379&r=LYNXMPEG93016&w=800"
+        width: 800
+        height: 499
+        isCached: true
+  - title: "Doctors: Trump 'not entirely be out of the woods'"
+    excerpt: "President Donald Trump's medical team says the president \"may not entirely be out of the woods yet\" as he heads back home to the White House. Dr. Sean Conley, the president's physician, delivered an update on the president's health Monday."
+    publishedDateTime: 2020-10-05T20:59:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/05/doctors-trump-not-entirely-out-woods/3629960001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/395788b2-2df3-4c6a-86fa-60427e99bafb_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Japanese shares edge higher as Trump returns to White House"
+    excerpt: "Japanese stocks inched up on Tuesday, as risk sentiment improved after U.S. President Donald Trump returned to the White House following treatment at the hospital for COVID-19, easing fears over political uncertainty."
+    publishedDateTime: 2020-10-06T02:32:00Z
+    webUrl: "https://www.reuters.com/article/japan-stocks-midday-idUSL4N2GX0I4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GX0I4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GX0I4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Trump leaves hospital to return to White House"
+    excerpt: "U.S. President Donald Trump on Monday left the Walter Reed National Military Medical Center where he was receiving treatment for COVID-19 to return to the White House."
+    publishedDateTime: 2020-10-05T23:12:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-departure/trump-leaves-hospital-to-return-to-white-house-idUSKBN26Q384"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q388"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q388"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "With COVID-19 diagnosis, Trump says 'I get it.' He doesn't."
+    excerpt: "President Donald Trump says he does “get it.” That revelation comes seven months — and almost 210,000 American deaths — is not the first time he has relied on personal experience to shape his views."
+    publishedDateTime: 2020-10-06T08:21:00Z
+    webUrl: "https://www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Pelosi says Trump unwilling to crush virus"
+    excerpt: "House Speaker Nancy Pelosi says President Donald Trump is \"putting himself first at the expense of the country” by halting negotiations over a new coronavirus aid package from Congress. (Oct. 6)"
+    publishedDateTime: 2020-10-07T00:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/pelosi-says-trump-unwilling-crush-virus/5904781002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f9cbb198-9900-4acd-a51e-e64c6509118c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The Latest: Trump's doctor says president has 'no symptoms'"
+    excerpt: "The Latest on President Donald Trump's health after his COVID-19 diagnosis (all times local):"
+    publishedDateTime: 2020-10-06T21:42:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-trumps-doctor-says-president-has-no-symptoms-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-trumps-doctor-says-president-has-no-symptoms-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trumps-doctor-says-president-has-no-symptoms-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump reports 'no symptoms,' returns to downplaying virus"
+    excerpt: "President Donald Trump, said to be making progress in his recovery from COVID-19, tweeted his eagerness to return to the campaign trail even as the outbreak that has killed more than 210,000 Americans reached ever more widely into the upper echelons of the U."
+    publishedDateTime: 2020-10-07T09:36:00Z
+    webUrl: "https://www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump will speak at a public event at the White House; it is not clear if he’s still contagious with coronavirus"
+    excerpt: "President Trump is planning to hold his first public event since he tested positive for the coronavirus, speaking at a Saturday gathering at the White House in a show of defiance that has become a central theme of his reelection campaign."
+    publishedDateTime: 2020-10-10T05:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-will-speak-at-a-public-event-at-the-white-house-it-is-not-clear-if-hes-still-contagious-with-coronavirus/2020/10/09/8ba71562-0a36-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-will-speak-at-a-public-event-at-the-white-house-it-is-not-clear-if-hes-still-contagious-with-coronavirus/2020/10/09/8ba71562-0a36-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-will-speak-at-a-public-event-at-the-white-house-it-is-not-clear-if-hes-still-contagious-with-coronavirus/2020/10/09/8ba71562-0a36-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4K7GGQKQMI6XBM37HBHVPTDRU.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
+  - title: "Elon Musk says campaign donations from oil and gas companies 'limit' Trump's support for Tesla and electric vehicles"
+    excerpt: "Oil and gas interests have donated to Donald Trump more than any other federal candidate in the 2020 election, according to data from OpenSecrets."
+    publishedDateTime: 2020-09-28T18:43:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-trumps-campaign-donations-oil-gas-limit-tesla-support-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-trumps-campaign-donations-oil-gas-limit-tesla-support-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-trumps-campaign-donations-oil-gas-limit-tesla-support-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f7224370ab50d00184acd18?width=1200&format=jpeg"
+        width: 933
+        height: 466
+        isCached: true
+  - title: "'No regrets': Trump supporters at campaign rally unfazed by his positive test"
+    excerpt: "Callie Kaspszak, a 19-year-old registered Republican, was somewhat worried for her health when she heard on Friday that President Donald Trump had tested positive for the coronavirus, two days after she had attended his campaign rally in Minnesota."
+    publishedDateTime: 2020-10-02T19:46:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-rally-int-idUSKBN26N39M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N39M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N39M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+  - title: "White House official says it's better Trump was hospitalized while he could still walk to avoid images of him being carried"
+    excerpt: "The White House said Trump was hospitalized \"out of an abundance of caution.\" One official said it could help his political image, the New York Times reported."
+    publishedDateTime: 2020-10-03T15:05:00Z
+    webUrl: "https://www.businessinsider.com/trump-hospitalized-while-walking-avoids-damaging-images-official-tells-nyt-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-hospitalized-while-walking-avoids-damaging-images-official-tells-nyt-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hospitalized-while-walking-avoids-damaging-images-official-tells-nyt-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 99
     images:
-      - url: "https://www.chicagotribune.com/resizer/97kzAR_nGPDHLZC-Q7Oo7-zKNaE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NHEONEAJQMOIGPKKWVGV5BFYLM.jpg"
+      - url: "https://i.insider.com/5f7884402400440019129d21?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "Coronavirus updates: Feared surge is underway; masks can still save 63K lives; Trump missing from task force meetings, Fauci says"
-    excerpt: "A long-predicted surge in COVID-19 cases and deaths has begun in the United States, but Americans aren't changing their behaviors. Latest COVID news."
-    publishedDateTime: 2020-10-24T12:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/24/covid-news-fall-winter-surge-trump-rally-masks-can-save-63-k-lives/3743485001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3743485001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3743485001"
+  - title: "The Trump administration is handling the White House COVID-19 outbreak in the same disastrous way it approached the country's"
+    excerpt: "There's been little to no transparency, mixed messaging, and a continued lack of respect for public health recommendations despite an evolving crisis."
+    publishedDateTime: 2020-10-05T19:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10?amp"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f7b674d282c500018c78ab8?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Trump tweets that he's leaving the hospital and says 'don't be afraid of Covid,' a virus that's killed over 209,000 Americans"
+    excerpt: "The president was diagnosed with COVID-19 late last week and transferred to Walter Reed hospital as his conditioned worsened on Friday."
+    publishedDateTime: 2020-10-06T04:26:00Z
+    webUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f7b6e7694fce90018f7b2de?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump says he doesn't know Proud Boys, but 'they need to stand down,' as he faces backlash for not criticizing white supremacists"
+    excerpt: "Facing criticism for not denouncing white supremacist groups during the debate Tuesday, President Trump said he's \"always denounced any form of any of that.\""
+    publishedDateTime: 2020-10-01T04:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-says-he-doesnt-know-proud-boys-after-criticism-debate/5870564002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5870564002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5870564002"
+    type: article
+    provider:
+      name: USA Today
       domain: usatoday.com
     quality: 96
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/85141cd530c0facfb3015ac08455e120005288b5/c=0-8-3000-1696/local/-/media/2020/10/22/USATODAY/usatsports/MotleyFool-TMOT-81b0d5d3-4a9ffab2.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ef4e9e12-fc35-4735-b7c5-3b2479d78a8e-AP_Election_2020_Debate.jpg?auto=webp&crop=4802,2701,x0,y125&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Voting 2020 live updates: Trump campaign loses appeal on satellite offices; Ohio's legal battle over drop boxes is officially over"
-    excerpt: "As Trump plans to early vote in Florida, Pence cast his ballot in Indianapolis. 52M have already voted. Latest voting news from across the U.S."
-    publishedDateTime: 2020-10-23T19:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/23/voting-2020-problems-and-news-how-vote-court-battles-russia/3728419001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3728419001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3728419001"
+  - title: "Trump's doctor says in an update that he's 'not yet out of the woods' as the White House releases photos from his hospital suite"
+    excerpt: "Trump's main doctor said late Saturday evening that the president \"remains fever-free and off supplemental oxygen.\""
+    publishedDateTime: 2020-10-04T03:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-doctor-update-not-yet-out-of-the-woods-coronavirus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-doctor-update-not-yet-out-of-the-woods-coronavirus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doctor-update-not-yet-out-of-the-woods-coronavirus-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f7943d22400440019129d82?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Marine One helicopter departs the White House as Trump heads to Walter Reed Medical Center"
+    excerpt: "President Trump was taken by helicopter from the White House to Walter Reed National Military Medical Center on October 2 after testing positive for the coronavirus."
+    publishedDateTime: 2020-10-03T17:31:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/03/marine-one-helicopter-departs-white-house-trump-heads-walter-reed-medical-center/3608338001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 95
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/73823eae-9c73-41f8-ae97-15b449bec90b-AFP_AFP_8T79DM.jpg?auto=webp&crop=5920,3330,x0,y300&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/5124ab15-79cd-4d4c-bf59-b5a33c547c73-9ecb0a46-2323-4cec-9c65-7f78604a1968_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
+  - title: "Vice President Mike Pence to vote early in Indiana, Trump campaign says"
+    excerpt: "According to President Donald Trump's campaign, Vice President Mike Pence plans to vote early in Indiana after an event in Arizona."
+    publishedDateTime: 2020-10-04T00:11:00Z
+    webUrl: "https://www.indystar.com/story/news/local/2020/10/03/trump-campaign-vice-president-pence-vote-early-indiana-head-key-states/3611828001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3611828001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3611828001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump Threatens To Leave U.S. If He Loses Election"
-    excerpt: "Donald Trump would consider losing the election as an embarrassment. On November 3rd, Americans will be heading to the polls to vote for the next President of the United States. There are two viable options for President,"
-    publishedDateTime: 2020-10-17T14:47:00Z
-    webUrl: "https://www.hotnewhiphop.com/donald-trump-threatens-to-leave-us-if-he-loses-election-news.119769.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/donald-trump-threatens-to-leave-us-if-he-loses-election-news.119769.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-threatens-to-leave-us-if-he-loses-election-news.119769.html?_amp"
+  - title: "Can Mike Pence Save the Trump Campaign?"
+    excerpt: "With Trump sidelined with COVID, Pence is trying to keep his reelection dreams alive — but some Republicans, fearing a Nancy Pelosi presidency, worry an aggressive campaign schedule could put him at risk of infection,"
+    publishedDateTime: 2020-10-05T18:05:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/can-mike-pence-save-the-trump-campaign"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/can-mike-pence-save-the-trump-campaign/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/can-mike-pence-save-the-trump-campaign/amp"
     type: article
     provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
+      name: Vanity Fair
+      domain: vanityfair.com
     quality: 90
     images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602944840_4c15607122d229410b612112475774b7.jpg/4964a30207cd76e4a35479fb9a29ffb1/1602944840_f984733427763bde2d7dec996298dafa.jpg"
-        width: 1200
-        height: 800
+      - url: "https://media.vanityfair.com/photos/5f7b4fa7b13a7bb1006f70ed/master/pass/Pence10.5.jpg"
+        width: 2000
+        height: 1460
         isCached: true
-  - title: "Donald Trump Says He May Leave U.S. if He Loses Presidential Election"
-    excerpt: "President Trump and Tommy Lee now have something in common ... they've both said goodbye to America if their candidate loses the presidential election."
-    publishedDateTime: 2020-10-17T23:34:00Z
-    webUrl: "https://www.tmz.com/2020/10/17/trump-says-he-may-leave-united-states-if-he-loses-election/"
-    ampWebUrl: "https://amp.tmz.com/2020/10/17/trump-says-he-may-leave-united-states-if-he-loses-election/"
-    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/17/trump-says-he-may-leave-united-states-if-he-loses-election/"
-    type: article
-    provider:
-      name: TMZ
-      domain: tmz.com
-    quality: 90
-    images:
-      - url: "https://imagez.tmz.com/image/22/16by9/2020/10/17/22c85060ee8541e99ad56801a9104b2f_xl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden has narrow lead over President Trump in new Florida poll"
-    excerpt: "The survey from the University of North Florida had Biden up by one in Florida, within the poll's margin of error."
-    publishedDateTime: 2020-10-21T12:15:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/10/20/poll-race-between-trump-and-biden-florida-essentially-toss-up/5985316002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5985316002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5985316002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 90
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/09/NSHT/a29043f7-1f36-40de-a6fa-af72d0678aeb-AP20282445647114.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump tends to his electoral map, Biden eyes Obama boost"
-    excerpt: "President Donald Trump is hopping from one must-win stop on the electoral map to the next in the leadup to a final presidential debate that may be his last, best chance to alter the trajectory of the 2020 campaign."
-    publishedDateTime: 2020-10-21T14:31:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-tends-to-his-electoral-map-Biden-prepping-15663099.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-tends-to-his-electoral-map-Biden-prepping-15663099.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-tends-to-his-electoral-map-Biden-prepping-15663099.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "VP Mike Pence, Donald Trump Jr. to campaign in Michigan this week"
-    excerpt: "Vice President Mike Pence and Donald Trump Jr. will both be campaigning in Michigan on Thursday, Oct. 22. Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township."
-    publishedDateTime: 2020-10-21T02:54:00Z
-    webUrl: "https://www.ksdk.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    ampWebUrl: "https://www.ksdk.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    type: article
-    provider:
-      name: KSDK
-      domain: ksdk.com
-    quality: 90
-    images:
-      - url: "https://media.ksdk.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "‘SNL’: Alec Baldwin’s Trump and Jim Carrey’s Biden Face Off in Final Debate"
-    excerpt: "Live tackled the “second and, praise Jesus, final debate” in its latest cold open, with Alec Baldwin’s Donald Trump and Jim Carrey’s Joe Biden facing off for the last time before Election Day. “How does this mute button work?"
-    publishedDateTime: 2020-10-25T09:02:00Z
-    webUrl: "https://www.rollingstone.com/tv/tv-news/snl-alec-baldwin-trump-jim-carreys-biden-final-debate-1080758/"
-    ampWebUrl: "https://www.rollingstone.com/tv/tv-news/snl-alec-baldwin-trump-jim-carreys-biden-final-debate-1080758/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/tv/tv-news/snl-alec-baldwin-trump-jim-carreys-biden-final-debate-1080758/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 88
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2020/10/snl-1.jpg"
-        width: 2440
-        height: 1312
-        isCached: true
-  - title: "President Trump, Mike Pence planning final campaign surge in Arizona next week"
-    excerpt: "In the final days before the November 3 election, President Trump’s campaign is planning a final surge in Arizona."
-    publishedDateTime: 2020-10-24T06:09:00Z
-    webUrl: "https://www.12news.com/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
-    ampWebUrl: "https://www.12news.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 86
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/e69a5aaf-deb1-4018-b269-ea0ff7282f31/e69a5aaf-deb1-4018-b269-ea0ff7282f31_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Trump Ups Pressure on Barr to Probe Bidens as Election Nears"
-    excerpt: "President Donald Trump is calling on Attorney General William Barr to launch an investigation into unverified claims about Democrat Joe Biden and his son Hunter, effectively demanding that the Justice Department muddy his political opponent and abandon the department's historic resistance to getting involved in elections."
-    publishedDateTime: 2020-10-21T11:15:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-20/trump-pressures-barr-to-investigate-bidens-as-election-nears"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-20/trump-pressures-barr-to-investigate-bidens-as-election-nears?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-20/trump-pressures-barr-to-investigate-bidens-as-election-nears?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 85
-  - title: "Mike Pence campaigns in Johnston County just a day after President Trump visits NC"
-    excerpt: "Vice President Mike Pence campaigned in Johnston County Friday one day after President Donald Trump visited North Carolina, underscoring the state’s role as a crucial"
-    publishedDateTime: 2020-10-16T22:29:00Z
-    webUrl: "https://www.cbs17.com/news/your-local-election-hq/mike-pence-campaigns-in-johnston-county-just-a-day-after-president-trump-visits-nc/"
-    ampWebUrl: "https://www.cbs17.com/news/your-local-election-hq/mike-pence-campaigns-in-johnston-county-just-a-day-after-president-trump-visits-nc/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/your-local-election-hq/mike-pence-campaigns-in-johnston-county-just-a-day-after-president-trump-visits-nc/amp/"
-    type: article
-    provider:
-      name: CBS17 Raleigh
-      domain: cbs17.com
-    quality: 84
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2020/10/pence-selma.jpg?w=1280"
-        width: 960
-        height: 552
-        isCached: true
-  - title: "USA TODAY/Suffolk Poll: Joe Biden leading Donald Trump by 7 points in pivotal Pennsylvania"
-    excerpt: "Democratic presidential nominee Joe Biden is leading President Donald Trump by 7 percentage points in the key battleground state of Pennsylvania, according to a new USA TODAY/Suffolk University poll."
-    publishedDateTime: 2020-10-21T10:55:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/21/pennsylvania-poll-joe-biden-leads-donald-trump-usa-today-suffolk-poll/5990219002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5990219002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5990219002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump, Pence, Obama All in Florida as Campaign Heats Up"
-    excerpt: "Battleground Florida was again a central focus of the presidential campaign Saturday as President Donald Trump, Vice President Mike Pence and former President Barack Obama all had high-profile events in the state."
-    publishedDateTime: 2020-10-24T21:08:00Z
-    webUrl: "https://www.usnews.com/news/best-states/florida/articles/2020-10-24/trump-pence-obama-all-in-florida-as-campaign-heats-up"
-    ampWebUrl: "https://www.usnews.com/news/best-states/florida/articles/2020-10-24/trump-pence-obama-all-in-florida-as-campaign-heats-up?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/florida/articles/2020-10-24/trump-pence-obama-all-in-florida-as-campaign-heats-up?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 80
-  - title: "Presidential Debate Facts: What To Know About Trump, Biden, Welker And More In Final Showdown"
-    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden meet Thursday at Belmont University in Nashville, Tennessee, in the final debate of the 2020 campaign. In a big change from past debates,"
-    publishedDateTime: 2020-10-23T01:08:00Z
-    webUrl: "https://www.ibtimes.com/presidential-debate-facts-what-know-about-trump-biden-welker-more-final-showdown-3067521"
-    ampWebUrl: "https://www.ibtimes.com/presidential-debate-facts-what-know-about-trump-biden-welker-more-final-showdown-3067521?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/presidential-debate-facts-what-know-about-trump-biden-welker-more-final-showdown-3067521?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 79
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/gettyimages-1281728481.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Watch live: Last presidential debate between Donald Trump and Joe Biden with live fact-checking"
-    excerpt: "The debate will be hosted by Belmont University in Nashville, and NBC News’ Kristen Welker will serve as moderator."
-    publishedDateTime: 2020-10-24T03:26:00Z
-    webUrl: "https://chicago.suntimes.com/elections/2020/10/22/21528861/presidential-debate-watch-live-donald-trump-joe-biden"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/elections/2020/10/22/21528861/presidential-debate-watch-live-donald-trump-joe-biden"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/elections/2020/10/22/21528861/presidential-debate-watch-live-donald-trump-joe-biden"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 78
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Trump - Biden Debate: Experts, Twitter Users React To Key Moments Of Final Presidential Showdown"
-    excerpt: "President Donald Trump and Democratic nominee Joe Biden squared off Thursday in the final presidential debate. The much-anticipated event was held at Belmont University in Nashville, Tennessee, with the highly contentious election just 12 days away and with over 35 million having already voted."
-    publishedDateTime: 2020-10-23T03:28:00Z
-    webUrl: "https://www.ibtimes.com/trump-biden-debate-experts-twitter-users-react-key-moments-final-presidential-3067503"
-    ampWebUrl: "https://www.ibtimes.com/trump-biden-debate-experts-twitter-users-react-key-moments-final-presidential-3067503?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-biden-debate-experts-twitter-users-react-key-moments-final-presidential-3067503?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 77
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/14/the-first-of-three-scheduled-presidential-debates-was.jpg"
-        width: 1024
-        height: 628
-        isCached: true
-  - title: "Trump goes after Fauci, tries to buck up his campaign team"
-    excerpt: "President Donald Trump sought Monday to buck up his campaign staff two weeks from Election Day, dismissing the cautionary coronavirus advice of his scientific experts as well as polling showing him trailing Democratic rival Joe Biden across key battleground states."
-    publishedDateTime: 2020-10-19T19:17:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/61/52/20126397/73/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
-  - title: "Top Donald Trump Quotes During The Final Presidential Debate 2020"
-    excerpt: "The second and final presidential debate saw Joe Biden and Donald Trump in a series of sharp exchanges over topics such as COVID-19, national security, and racism in America."
-    publishedDateTime: 2020-10-23T04:49:00Z
-    webUrl: "https://www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793"
-    ampWebUrl: "https://www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/democratic-presidential-candidate-joe-biden-has-dismissed-donald.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Joe Biden Said He Wants to 'Transition From the Oil Industry.' That Shouldn't Be a Surprise"
-    excerpt: "W hen former Vice President Joe Biden said at Thursday’s presidential debate that he wanted to “transition from the oil industry,” President Donald Trump pounced. “Oh, that’s a big statement,” Trump said,"
-    publishedDateTime: 2020-10-23T23:29:00Z
-    webUrl: "https://time.com/5903235/joe-biden-oil-industry-debate/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 75
-  - title: "Harry Reid says Joe Biden should end Senate filibuster after 3 weeks"
-    excerpt: "Former Senate leader Harry Reid says if Democrats win the presidency and the Senate, Joe Biden should take “no more than three weeks” to test bipartisanship before ending the filibuster so"
-    publishedDateTime: 2020-10-25T02:20:00Z
-    webUrl: "https://www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/"
-    ampWebUrl: "https://www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Election_2020_Harry_Reid_Filibuster_82932.jpg?w=1024&h=678"
-        width: 1024
-        height: 678
-        isCached: true
-  - title: "Joe and Jill Biden to visit eastern Pennsylvania on Saturday (UPDATE)"
-    excerpt: "Biden campaigns in Bucks, Trump votes in Fla. and plans Pa. stop Monday. Democratic presidential candidate and former Vice President Joe Biden is scheduled Saturday to mak"
-    publishedDateTime: 2020-10-24T17:30:00Z
-    webUrl: "https://www.nj.com/politics/2020/10/joe-and-jill-biden-to-visit-eastern-pennsylvania-on-saturday.html"
-    ampWebUrl: "https://www.nj.com/politics/2020/10/joe-and-jill-biden-to-visit-eastern-pennsylvania-on-saturday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/10/joe-and-jill-biden-to-visit-eastern-pennsylvania-on-saturday.html?outputType=amp"
+  - title: "Mike Pence, his wife test negative for COVID-19 after Trumps test positive"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump and first lady Melania Trump were diagnosed with the coronavirus."
+    publishedDateTime: 2020-10-02T12:42:00Z
+    webUrl: "https://www.nj.com/news/2020/10/mike-pence-his-wife-test-negative-for-covid-19-after-trumps-test-positive.html"
+    ampWebUrl: "https://www.nj.com/news/2020/10/mike-pence-his-wife-test-negative-for-covid-19-after-trumps-test-positive.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/10/mike-pence-his-wife-test-negative-for-covid-19-after-trumps-test-positive.html?outputType=amp"
     type: article
     provider:
       name: NJ.com
       domain: nj.com
+    quality: 88
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LTD5WKR5CFAGLLLRJQBBRUS43M.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "White House physician says Trump is fever-free but dodged questions of whether he has ever received supplemental oxygen during coronavirus treatment"
+    excerpt: "Sean Conley on Saturday offered unclear answers about whether Trump had used supplemental oxygen since testing positive for COVID-19."
+    publishedDateTime: 2020-10-03T17:07:00Z
+    webUrl: "https://www.businessinsider.com/white-house-physician-dodges-questions-about-trumps-health-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/white-house-physician-dodges-questions-about-trumps-health-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-physician-dodges-questions-about-trumps-health-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5f78a48b282c500018c78734?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Relying on testing to ward off COVID put Trump White House at risk"
+    excerpt: "Early in the coronavirus pandemic, U.S. President Donald Trump put his faith in a toaster-sized machine that could spit out test results in a matter of minutes."
+    publishedDateTime: 2020-10-03T11:30:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-testing-insi-idUSKBN26O0G5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
+  - title: "Donald Trump, M.D.: How the President Is Shaping His Own Treatment"
+    excerpt: "Trump has been a challenging patient, insisting on shaping the course of his care as well as stage managing how his health is projected to the public."
+    publishedDateTime: 2020-10-07T12:21:00Z
+    webUrl: "https://time.com/5896658/trump-discharge-medical-condition-doctors-treatment/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
+  - title: "Could Mike Pence assume the presidency if Trump is sick? What the 25th Amendment says"
+    excerpt: "The answer lies in the 25th Amendment of the U.S. Constitution, which states the duties of the presidency could pass to the vice president. Vice President Mike Pence tested negative for COVID-19 Friday morning and is in “good health,"
+    publishedDateTime: 2020-10-02T14:30:00Z
+    webUrl: "https://www.miamiherald.com/news/coronavirus/article246169925.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/coronavirus/article246169925.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/coronavirus/article246169925.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 83
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/2807fc8e-e4fc-4144-81e4-93f737ce03cb/main/1280x720/27s722ms/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump's policy chief explains in an exclusive interview why the White House just punted on a coronavirus stimulus deal"
+    excerpt: "\"I know we tried really, really hard,\" White House adviser Brooke Rollins told Insider after the president punted on passing stimulus legislation."
+    publishedDateTime: 2020-10-07T00:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-adviser-blames-democrats-state-funding-for-killing-stimulus-deal-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/5f7ce235282c500018c79013?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "White House: VP Mike Pence tests negative and 'remains in good heath,' after Trump tests positive for COVID-19"
+    excerpt: "VP Mike Pence tests negative and 'remains in good heath,' after Trump tests positive for COVID-19."
+    publishedDateTime: 2020-10-02T20:06:00Z
+    webUrl: "https://www.businessinsider.com/white-house-vp-mike-pence-tests-negative-and-remains-in-good-heath-after-trump-tests-positive-for-covid-19-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+  - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
+    publishedDateTime: 2020-10-04T21:41:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.freep.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3615907001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
+    publishedDateTime: 2020-10-06T09:51:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3615907001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence to hold in-person campaign event in Arizona as President Trump recovers from COVID-19"
+    excerpt: "President Trump's cavalier attitude toward the coronavirus including holding large rallies is under scrutiny as the president recovers from COVID-19."
+    publishedDateTime: 2020-10-03T16:39:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3608249001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3608249001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/202894dc-0bcd-452e-946a-6f550de7a30f-Pence_QAnon.jpg?auto=webp&crop=4490,2526,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence ramping up his public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
+    publishedDateTime: 2020-10-04T15:43:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3615907001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence ramping up his public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
+    publishedDateTime: 2020-10-04T19:07:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3615907001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Mike Pence tests negative and ‘remains in good health,’ after Trump tests positive for COVID-19"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump"
+    publishedDateTime: 2020-10-02T12:44:00Z
+    webUrl: "https://www.dallasnews.com/news/2020/10/02/vp-mike-pence-tests-negative-and-remains-in-good-health-after-trump-tests-positive-for-covid-19/"
+    ampWebUrl: "https://www.dallasnews.com/news/2020/10/02/vp-mike-pence-tests-negative-and-remains-in-good-health-after-trump-tests-positive-for-covid-19/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/2020/10/02/vp-mike-pence-tests-negative-and-remains-in-good-health-after-trump-tests-positive-for-covid-19/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 76
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/LM9XrGK2MVdOkDzE926emKOkj8w=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/VINOODVTI3SYS65MECRXKA5Z4Q.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump administration targets diversity hiring by contractors"
+    excerpt: "But advocates for corporate diversity initiatives worry that more cautious executives will halt or scale back efforts to make their workplaces more inclusive out of fear that a wrong step could jeopardize lucrative public contracts."
+    publishedDateTime: 2020-10-09T15:51:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-administration-targets-diversity-hiring-by-15633926.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-administration-targets-diversity-hiring-by-15633926.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-administration-targets-diversity-hiring-by-15633926.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
     quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OS3DKJ3AAJERDOVOB74RHT6NGI.JPG"
-        width: 7216
-        height: 4813
+      - url: "https://s.hdnux.com/photos/01/14/47/54/20085552/3/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
-  - title: "Joe Biden Claps Back at Lara Trump Over Coronavirus Comments: ‘She Doesn’t Know What She’s Talking About’"
-    excerpt: "Joe Biden rebuked Lara Trump's assertion that had he been president when the coronavirus pandemic started, there would be 2 million Americans dead rather than the 218,000 who have died on President Donald Trump's watch."
-    publishedDateTime: 2020-10-17T19:10:00Z
-    webUrl: "https://www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/"
-    ampWebUrl: "https://www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/amp/"
+  - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
+    excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
+    publishedDateTime: 2020-10-02T12:11:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5892840002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5892840002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
+    excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
+    publishedDateTime: 2020-10-04T11:33:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5892840002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5892840002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
+    excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
+    publishedDateTime: 2020-10-04T23:11:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5892840002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5892840002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
+    excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"
+    publishedDateTime: 2020-10-09T16:24:00Z
+    webUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 74
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Virus_Outbreak_Congress_13038.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Could Mike Pence assume the presidency if Trump is sick? What the 25th Amendment says | Charlotte Observer"
+    excerpt: "The answer lies in the 25th Amendment of the U.S. Constitution, which states the duties of the presidency could pass to the vice president. Vice President Mike Pence tested negative for COVID-19 Friday morning and is in “good health,"
+    publishedDateTime: 2020-10-02T14:30:00Z
+    webUrl: "https://www.charlotteobserver.com/news/coronavirus/article246169925.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article246169925.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article246169925.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/2807fc8e-e4fc-4144-81e4-93f737ce03cb/main/1280x720/27s722ms/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Man arrested for punching another person in apparent argument over Trump: police"
+    excerpt: "Police said the incident occurred Saturday outside a Buc-ees convenience store and gas station in Denton, Texas."
+    publishedDateTime: 2020-10-04T16:59:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 70
+    images:
+      - url: "https://www.nydailynews.com/resizer/s5uzKQOxZlQ4CUG5P2Ogxpu-IyM=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QX7BX6UVRGLBGOLUK7OZI6SEA.jpg"
+        width: 1200
+        height: 774
+        isCached: true
+  - title: "Mike Pence's role in the Trump administration"
+    excerpt: "Mike Pence's role in the Trump administration has been forced more into the spotlight with the president's illness from coronavirus. Here's a look back at Pence's career."
+    publishedDateTime: 2020-10-04T13:19:00Z
+    webUrl: "https://www.cincinnati.com/videos/news/2020/10/03/mike-pences-role-trump-administration-coronavirus/3613429001/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e3bab1f8-81e3-4fd2-b844-0f0af5276b68_poster.jpg?quality=10"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Susan Collins Calls Trump Announcement on Stopping Stimulus Negotiations Until After Election ‘A Huge Mistake’"
+    excerpt: "President Donald Trump's surprise announcement about stopping stimulus negotiations until after the election sent shockwaves through DC, and even concerned some Republicans."
+    publishedDateTime: 2020-10-06T23:39:00Z
+    webUrl: "https://www.mediaite.com/news/susan-collins-calls-trump-announcement-on-stopping-stimulus-negotiations-until-after-election-a-huge-mistake/"
+    ampWebUrl: "https://www.mediaite.com/news/susan-collins-calls-trump-announcement-on-stopping-stimulus-negotiations-until-after-election-a-huge-mistake/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/susan-collins-calls-trump-announcement-on-stopping-stimulus-negotiations-until-after-election-a-huge-mistake/amp/"
     type: article
     provider:
       name: Mediaite
       domain: mediaite.com
-    quality: 73
+    quality: 70
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-16.jpg"
+      - url: "https://www.mediaite.com/wp-content/uploads/2019/04/Susan-Collins-via-Zach-Gibson_Getty-Images-1200x627.jpg"
         width: 1200
-        height: 624
+        height: 627
         isCached: true
-  - title: "Trump Elevates Former Pence Counsel To Lead Claims Court"
-    excerpt: "President Donald Trump appointed Judge Eleni Roumel to chief judge of the U.S. Court of Federal Claims on Monday, just nine months after her confirmation to the court."
-    publishedDateTime: 2020-10-20T00:57:00Z
-    webUrl: "https://www.law360.com/articles/1320975/trump-elevates-former-pence-counsel-to-lead-claims-court"
-    ampWebUrl: "https://www.law360.com/amp/articles/1320975"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1320975"
+  - title: "Stimulus 2: Trump Now Says He Would ‘Immediately’ OK Standalone Bill for $1,200 Checks"
+    excerpt: "After announcing the end to coronavirus stimulus negotiations Tuesday, President Trump later signaled that he would sign a standalone bill sending $1,200 checks to Americans."
+    publishedDateTime: 2020-10-07T02:56:00Z
+    webUrl: "https://heavy.com/news/trump-stimulus-standalone-bill-checks/"
+    ampWebUrl: "https://heavy.com/news/trump-stimulus-standalone-bill-checks/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/trump-stimulus-standalone-bill-checks/amp/"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
-    quality: 70
-  - title: "Trump-Biden Final Debate: Covid, Wind And Hitler"
-    excerpt: "President Donald Trump and challenger Joe Biden's final debate on Thursday was a starkly more civil affair than their messy first showdown. But that did not prevent the pair from clashing on everything from immigration to racism and even Adolf Hitler."
-    publishedDateTime: 2020-10-23T06:21:00Z
-    webUrl: "https://www.ibtimes.com/trump-biden-final-debate-covid-wind-hitler-3067845"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
+      name: Heavy.com
+      domain: heavy.com
+    quality: 67
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/us-president-donald-trump-and-democratic-challenger-joe.jpg"
-        width: 1024
-        height: 710
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-76.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
         isCached: true
-  - title: "The Latest: Trump Voting in Florida; Bon Jovi Joining Biden"
-    excerpt: "President Donald Trump is casting his ballot Saturday morning, taking advantage of Florida’s early voting system."
-    publishedDateTime: 2020-10-24T13:51:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-24/the-latest-trump-voting-in-florida-bon-jovi-joining-biden"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-24/the-latest-trump-voting-in-florida-bon-jovi-joining-biden?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-24/the-latest-trump-voting-in-florida-bon-jovi-joining-biden?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Trump Team Hit By Covid Again, Lashes Out At 'Failure' Biden"
-    excerpt: "Donald Trump's reelection campaign on Sunday sought to brush off another Covid outbreak in his team by focusing its attacks on Joe Biden's energy levels and accusing him of \"47 years of failure\" in Washington."
-    publishedDateTime: 2020-10-25T16:19:00Z
-    webUrl: "https://www.ibtimes.com/trump-team-hit-covid-again-lashes-out-failure-biden-3069437"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/25/us-president-donald-trump-dances-at-the-end.jpg"
-        width: 1024
-        height: 621
-        isCached: true
-  - title: "AP Explains: Trump Pushes Questions About Joe Biden's Son"
-    excerpt: "President Donald Trump’s campaign is pushing a familiar line of attack against Democrat Joe Biden in the final days of the presidential campaign: unverified allegations about Biden’s son and his foreign business ties."
-    publishedDateTime: 2020-10-25T20:31:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/ap-explains-trump-pushes-questions-about-joe-bidens-son?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Trump Intensifies Fracking Assault on Biden in Pennsylvania"
-    excerpt: "In a persistent gambit to win the battleground state of Pennsylvania, President Donald Trump has worked to peel off voters connected to its booming natural gas industry and accuse former Vice President Joe Biden of plotting to shut it down."
-    publishedDateTime: 2020-10-25T17:03:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/trump-intensifies-fracking-assault-on-biden-in-pennsylvania?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Did The Donald Trump - Joe Biden Debate Get Better Ratings Than The 2016 Debate With Hillary Clinton?"
-    excerpt: "The second and final debate between President Donald Trump and Democratic nominee Joe Biden drew a much smaller audience than the first debate. According to early Nielsen ratings, more than 55 million people watched compared to the 73."
-    publishedDateTime: 2020-10-23T22:58:00Z
-    webUrl: "https://www.ibtimes.com/did-donald-trump-joe-biden-debate-get-better-ratings-2016-debate-hillary-clinton-3064887"
+  - title: "Fake ‘Simpsons’ Donald Trump Death Photo Resurfaces After President’s COVID-19 Announcement"
+    excerpt: "After President Donald Trump and First Lady Melania Trump confirmed their COVID-19 diagnosis early Friday, many began sharing a purported photo from “The Simpsons” which features the current POTUS. The image in question circulating on social media shows a cartoon version of the president lying in a coffin."
+    publishedDateTime: 2020-10-02T13:43:00Z
+    webUrl: "https://www.ibtimes.com/fake-simpsons-donald-trump-death-photo-resurfaces-after-presidents-covid-19-3055765"
+    ampWebUrl: "https://www.ibtimes.com/fake-simpsons-donald-trump-death-photo-resurfaces-after-presidents-covid-19-3055765?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fake-simpsons-donald-trump-death-photo-resurfaces-after-presidents-covid-19-3055765?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 65
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/us-president-donald-trump-and-democratic-challenger-joe.jpg"
-        width: 1024
-        height: 710
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/06/06/simpsons.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "What To Expect At Thursday Night's Debate Between President Trump and Former VP Joe Biden"
-    excerpt: "Plexiglass dividers were seen being put into place ahead of tonight's debate between President Trump and former Vice President Joe Biden. Also keeping the two separate—a mute button that will give each candidate 2 uninterrupted minutes to speak at the start of each topic."
-    publishedDateTime: 2020-10-22T11:40:00Z
-    webUrl: "https://miami.cbslocal.com/video/4810810-what-to-expect-at-thursday-nights-debate-between-president-trump-and-former-vp-joe-biden/"
-    ampWebUrl: "https://miami.cbslocal.com/video/4810810-what-to-expect-at-thursday-nights-debate-between-president-trump-and-former-vp-joe-biden/amp/"
-    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4810810-what-to-expect-at-thursday-nights-debate-between-president-trump-and-former-vp-joe-biden/amp/"
+  - title: "Donald Trump Announces He’s Leaving Walter Reed Hospital to Infect the Rest of White House"
+    excerpt: "He claims to feel better than he did 20 years ago and told people not to let the deadly virus “dominate” their lives."
+    publishedDateTime: 2020-10-05T20:46:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
     type: article
     provider:
-      name: CBS Miami
-      domain: cbslocal.com
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 65
+    images:
+      - url: "https://media.vanityfair.com/photos/5f7b78a06cac71ad7f787f72/master/pass/donaldtrumphospital.jpg"
+        width: 2000
+        height: 1281
+        isCached: true
+  - title: "‘Confusion from top to bottom’: Trump aides panic after president returns to the White House"
+    excerpt: "White House staffers who have seen over three years of bullying and firings under Donald Trump are fearful what will come next now that the president has been discharged from Walter Reed Medical Center while still exhibiting symptoms of COVID-19,"
+    publishedDateTime: 2020-10-06T11:09:00Z
+    webUrl: "https://www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 64
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump_covid-789x430.jpg"
+        width: 789
+        height: 430
+        isCached: true
+  - title: "Live updates on Trump and COVID-19: President in hospital for extended stay; many infected at White House gathering"
+    excerpt: "President Trump is at hospital after a positive COVID-19 test. The Bidens wish him well. Campaigning ahead of Election Day has shifted. Latest news."
+    publishedDateTime: 2020-10-03T10:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/trump-covid-updates-president-gets-remdesivir-walter-reed-hospital/3592595001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 63
+  - title: "Explainer: How Mike Pence Could Temporarily Assume Control if Trump Becomes Incapacitated"
+    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
+    publishedDateTime: 2020-10-02T15:23:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 61
-  - title: "So say Joe Biden or Donald Trump refuses to concede election — what happens then?"
-    excerpt: "America sits on the brink of the most consequential election in modern history, and President Donald Trump has turned up the heat by refusing to commit to a peaceful transition of power if he loses. \"Well,"
-    publishedDateTime: 2020-10-25T02:11:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/25/what-happens-if-donald-trump-joe-biden-refuses-concede-election/3669290001/"
+  - title: "‘Don’t tell anyone’: Trump tried to hide positive COVID-19 tests spreading through the White House"
+    excerpt: "The Wall Street Journal reported Sunday that President Donald Trump tried to hide that he first tested positive for COVID-19 when he waited for a second test on Thursday. According to the report, Trump attempted to hide his first rapid test that gave him a positive test result."
+    publishedDateTime: 2020-10-04T23:48:00Z
+    webUrl: "https://www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 60
-  - title: "As COVID-19 hospitalizations set Ohio record, Vice President Mike Pence in Cincinnati today to hold rally for Trump re-election"
-    excerpt: "Attendees will be admitted to the Lunken event between 4 and 5:30 p.m. Temperature checks will be conducted and attendees will be given masks."
-    publishedDateTime: 2020-10-20T19:39:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2020/10/20/ohio-election-2020-vp-mike-pence-visits-cincinnati-stump-trump/3711735001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/3711735001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3711735001"
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Is the White House Covering Up the Fact that Donald Trump Is Patient Zero of the COVID-19 Outbreak?"
+    excerpt: "And I think the reason the White House will not have the CDC do a formal check and review every single case is that they’re concerned that the patient zero might be the president of the United States."
+    publishedDateTime: 2020-10-07T20:21:00Z
+    webUrl: "https://vanityfair.com/news/2020/10/donald-trump-patient-zero"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-patient-zero/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-patient-zero/amp"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 57
-  - title: "Trump on Defense, Courting Voters in Two Must-Win States"
-    excerpt: "President Donald Trump is fighting to defend his sagging reelection chances in a state Republicans haven’t lost in nearly three decades — and his campaign is confronting new financial strains."
-    publishedDateTime: 2020-10-16T17:44:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls?context=amp"
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 61
+    images:
+      - url: "https://media.vanityfair.com/photos/5cbde07c5ec6062e3c5c4c89/master/pass/TrumpWH.jpg"
+        width: 2000
+        height: 1551
+        isCached: true
+  - title: "Trump Facing Devastating Debt Load? Experts Say Not So Fast"
+    excerpt: "President Donald Trump reportedly must pay back more than $300 million in loans over the next four years, raising the possibility his lenders could face an unprecedented situation should he win a second term and not be able to raise the money: foreclosing on the leader of the free world."
+    publishedDateTime: 2020-09-29T21:05:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
-    excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
-    publishedDateTime: 2020-10-18T04:50:00Z
-    webUrl: "https://www.hollywoodreporter.com/live-feed/snl-weekend-update-tackles-trump-town-hall-covid-19-and-qanon"
+  - title: "White House: VP Mike Pence tests negative for COVID-19"
+    excerpt: "Vice President Mike Pence tested negative for the virus on Friday morning and “remains in good health,\" his spokesman said. President Donald Trump said early Friday that he and first lady Melania Trump have tested positive for the coronavirus,"
+    publishedDateTime: 2020-10-02T12:28:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Alert-White-House-VP-Mike-Pence-tests-negative-15615282.php"
     type: article
     provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
     quality: 55
     images:
-      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Michael-Che-Weekend-Update-SNL-H-2020-1602994848-928x523.png"
-        width: 928
-        height: 523
+      - url: "https://s.hdnux.com/photos/01/14/36/77/20049899/115/rawImage.jpg"
+        width: 2048
+        height: 1369
         isCached: true
-  - title: "Trump Rails Against Muted Microphones at Presidential Debate"
-    excerpt: "The fact that Trump is willing to debate Biden again without being able to interrupt him at will is an indicator of how much the president needs to change the trajectory of the campaign."
-    publishedDateTime: 2020-10-20T15:05:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate?context=amp"
+  - title: "Stocks Higher After Trump Leaves Hospital"
+    excerpt: "Stock markets gained ground Tuesday while investors mulled the level of US electoral uncertainty after President Donald Trump returned to the White House following treatment for Covid-19. As Trump was discharged from hospital,"
+    publishedDateTime: 2020-10-06T14:39:00Z
+    webUrl: "https://www.ibtimes.com/stocks-higher-after-trump-leaves-hospital-3057252"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "The greatest risk for a Biden administration"
-    excerpt: "The greatest risk for a possible Biden administration and Democratic majority is not attacking these disasters aggressively enough. Big problems call for big solutions — and if the problems are not fixed,"
-    publishedDateTime: 2020-10-21T09:48:00Z
-    webUrl: "https://theweek.com/articles/944800/greatest-risk-biden-administration"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/biden_go_big.jpg?itok=0cFJOnsA"
-        width: 1260
-        height: 560
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/traders-are-increasingly-pricing-in-a-joe-biden.jpg"
+        width: 1024
+        height: 681
         isCached: true
-  - title: "Obama Blasts Trump's Tweets, Track Record in 2020 Campaign Trail Debut"
-    excerpt: "Former President Barack Obama returned to the campaign trail on Wednesday with a blistering attack on Donald Trump with less than two weeks to go before the Republican president's Election Day face-off with Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-23T12:53:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden?context=amp"
+  - title: "Infected Trump Working From Residence; West Wing Spaces Considered"
+    excerpt: "U.S. President Donald Trump is working from makeshift office space in the White House residence rather than the Oval Office, with only a few senior staff gaining face-to-face access while he receives treatment for COVID-19,"
+    publishedDateTime: 2020-10-06T21:06:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-06/infected-trump-working-from-residence-west-wing-spaces-considered"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-06/infected-trump-working-from-residence-west-wing-spaces-considered?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-06/infected-trump-working-from-residence-west-wing-spaces-considered?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "The Latest: Aide: Trump Tests Negative for Virus Pre-Debate"
-    excerpt: "The White House chief of staff says President Donald Trump tested negative for the coronavirus before Thursday night’s final presidential debate."
-    publishedDateTime: 2020-10-22T22:29:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
+  - title: "On Radio, TV, Trump Sets Out to Get Campaign Back on Track"
+    excerpt: "President Donald Trump is setting out to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
+    publishedDateTime: 2020-10-09T21:37:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "‘Saturday Night Live’ Tackles Trump’s COVID Plan, Rudy Giuliani and the Mute Button in Presidential Debate Sketch"
-    excerpt: "With the second presidential debate leading the “Saturday Night Live’s” Oct 24 show, that meant both Alec Baldwin and Jim Carrey were once again in the spotlight. But, in a fun"
-    publishedDateTime: 2020-10-25T04:32:00Z
-    webUrl: "https://variety.com/2020/tv/news/saturday-night-live-presidential-debate-mute-button-maya-rudolph-1234815002/"
-    ampWebUrl: "https://variety.com/2020/tv/news/saturday-night-live-presidential-debate-mute-button-maya-rudolph-1234815002/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/tv/news/saturday-night-live-presidential-debate-mute-button-maya-rudolph-1234815002/amp/"
+  - title: "Trump Restarting Campaign With White House, Florida Events"
+    excerpt: "With time running out before the election, President Donald Trump is looking to get his campaign back on track."
+    publishedDateTime: 2020-10-10T04:25:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
     type: article
     provider:
-      name: Variety
-      domain: variety.com
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Sets Big Events for WH, Florida, Restarting Campaign"
+    excerpt: "President Donald Trump is looking to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
+    publishedDateTime: 2020-10-09T23:24:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "U.S. Agency Shows No Sign of Quick Action on Trump Social Media Petition"
+    excerpt: "The Federal Communications Commission has given no indication it will move quickly on an effort by President Donald Trump to narrow the ability of social media companies to remove objectionable content and require new transparency rules."
+    publishedDateTime: 2020-10-07T10:18:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-07/us-agency-shows-no-sign-of-quick-action-on-trump-social-media-petition"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-07/us-agency-shows-no-sign-of-quick-action-on-trump-social-media-petition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-07/us-agency-shows-no-sign-of-quick-action-on-trump-social-media-petition?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 54
-    images:
-      - url: "https://variety.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-24-at-8.56.29-PM.png?w=781"
-        width: 781
-        height: 437
-        isCached: true
-  - title: "How Important Is The Final Debate For Trump? After Poor Showing In First Debate, President May Need A 'Game Changer'"
-    excerpt: "With his poll numbers lagging and Election Day less than two weeks away, President Donald Trump may need to make a compelling case for reelection Thursday in the final presidential debate. Over 35 million Americans have already voted in the presidential election but Trump may seek to sway some undecided voters and boost conservative turnout by outshining Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-22T20:20:00Z
-    webUrl: "https://www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408"
-    ampWebUrl: "https://www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408?amp=1"
+  - title: "Trump Says He Declassified Documents Related To Federal Investigation Of Russia Interference, Hillary Clinton Emails"
+    excerpt: "President Donald Trump on Tuesday declassified all documents pertaining to the investigation into Russian interference in the 2016 election, along with files related to the probe of Hillary Clinton's email use."
+    publishedDateTime: 2020-10-07T02:17:00Z
+    webUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829"
+    ampWebUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 52
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/29/us-president-donald-trump-questions-the-coronavirus-figures.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/08/former-special-counsel-robert-mueller-who-led-the.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "A Fox News reporter just debunked the latest conservative effort to smear Joe Biden"
-    excerpt: "The latest conservative effort to smear Democratic presidential nominee has now been debunked by a reporter at Fox News. On Thursday night, President Donald Trump invited Tony Bobulinski, an ex-business associate of Hunter Biden,"
-    publishedDateTime: 2020-10-23T16:18:00Z
-    webUrl: "https://www.salon.com/2020/10/23/a-fox-news-reporter-just-debunked-the-latest-conservative-effort-to-smear-joe-biden-_partner/"
+  - title: "What happens if Donald Trump dies or gets seriously ill? President Mike Pence"
+    excerpt: "Karen and I send our love and prayers to our dear friends President Donald Trump and First Lady Melania Trump,” Mr Pence said in a statement after Mr Trump’s positive test. “We join millions across America praying for their full and swift recovery."
+    publishedDateTime: 2020-10-02T08:59:00Z
+    webUrl: "https://www.couriermail.com.au/lifestyle/health/what-happens-if-donald-trump-dies-or-gets-seriously-ill-president-mike-pence/news-story/5c6b3198f9bf3f1784f6db5aad7b66d6"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 49
-    images:
-      - url: "https://media.salon.com/2020/07/fox-news-hosts-0714201.jpg"
-        width: 846
-        height: 571
-        isCached: true
-  - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
-    excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
-    publishedDateTime: 2020-10-16T13:14:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/joe-biden-tackles-tough-issues-abc-town-hall/3676337001/"
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 47
+  - title: "Days After Trump Diagnosed With Covid, White House Staff Finally Given Instructions: ‘Do Not Come To Work’ If You Have Symptoms"
+    excerpt: "Days after the news broke that President Donald Trump had Covid-19, the White House Management Office finally sent out a message to the staff with instructions."
+    publishedDateTime: 2020-10-05T02:05:00Z
+    webUrl: "https://www.mediaite.com/donald-trump/days-after-trump-diagnosed-with-covid-white-house-staff-finally-given-instructions-do-not-come-to-work-if-you-have-symptoms/"
+    ampWebUrl: "https://www.mediaite.com/donald-trump/days-after-trump-diagnosed-with-covid-white-house-staff-finally-given-instructions-do-not-come-to-work-if-you-have-symptoms/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/donald-trump/days-after-trump-diagnosed-with-covid-white-house-staff-finally-given-instructions-do-not-come-to-work-if-you-have-symptoms/amp/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Mediaite
+      domain: mediaite.com
     quality: 47
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/87bcbe73-aab7-4ac2-9750-967703e56d5a-VPC_BIDEN_TOWN_HALL_WRAP_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Donald-Trump-Walter-Reed-Marine-One-GettyImages-1228855247-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Live updates: VP Mike Pence visits Allegheny County Airport"
-    excerpt: "Vice President Mike Pence is headed to the Allegheny County Airport to stump for President Trump down the home stretch for the General Election on Nov 3. His visit comes a day after Trump and ..."
-    publishedDateTime: 2020-10-23T20:22:00Z
-    webUrl: "https://triblive.com/local/live-updates-vp-mike-pence-visits-allegheny-county-airport/"
+  - title: "Trump Maps Return to Campaign Trail After White House Says COVID-19 Treatment Complete"
+    excerpt: "Republican President Donald Trump on Friday prepared to return to the campaign trail with a pair of weekend rallies after his COVID-19 diagnosis sidelined him for a week in the race against Democratic nominee Joe Biden for the White House."
+    publishedDateTime: 2020-10-09T06:07:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete?context=amp"
     type: article
     provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 35
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+  - title: "After Stopping Negotiations, Trump Sets Off Confusion With Tweet Seemingly Agreeing With Fed Chair’s Call for Urgent Covid Relief"
+    excerpt: "President Donald Trump announced he's telling his people to stop covid relief stimulus negotiations after the election. This came hours after a serious warning from Fed Chair Jero"
+    publishedDateTime: 2020-10-07T00:29:00Z
+    webUrl: "https://www.mediaite.com/news/after-stopping-negotiations-trump-sets-off-confusion-with-tweet-seemingly-agreeing-with-fed-chairs-call-for-urgent-covid-relief/"
+    ampWebUrl: "https://www.mediaite.com/news/after-stopping-negotiations-trump-sets-off-confusion-with-tweet-seemingly-agreeing-with-fed-chairs-call-for-urgent-covid-relief/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/after-stopping-negotiations-trump-sets-off-confusion-with-tweet-seemingly-agreeing-with-fed-chairs-call-for-urgent-covid-relief/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 46
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Donald-Trump-via-Joshua-Roberts_Getty-Images.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "XZQlVIc5bhGuSC9NYk5/hcopPcgWaLTpR3z5WF/P9qVY9NmSbQdBVw3jYjzwhDYF1HVzALdBIYSz+Ex+8suvoG/bH2Lf1JXNJ9T7F+oAuXCvpAroCv3U6Wlvhvw5fpM8+DXRxZYT0W0u3xIpaVoEbglzs3alUM9Iv0lsZY2gkeVwlC+Gv95696UhAFB5SZA/Gxbvxf597bP35+AohFfbxDR6T12M3O5bzboqkLmaCLRHfsyS2M8WrpRYr0BxaONwhGanXIW87qgOj41R/gMQQbLLzcKCpdqYuaxr5/f1WmyS6fO8e7ai21N6P6fF3dwSjpd4CTmbFKo7FVck4X6PDJvKu1MHUgizdoU1xeSnkraoA27GXak+4kbOm8btzfTcRJac8V4blzNK7+Xg4QRO3BfAqdsdyA2+BS6bGOrWJpfQZApWNstu8u0EmAIG23pTF0bbbiaqeeCx0ZF3p9nNKBSR2REGIDnG5DeRXrqqgfZkbyzRb6ohbSK0rf3OJ17XHyxQnVVI8BXaRPcUvZcacA==;wS3B2dmu7VG6jWgQWUH2hA=="
 ---

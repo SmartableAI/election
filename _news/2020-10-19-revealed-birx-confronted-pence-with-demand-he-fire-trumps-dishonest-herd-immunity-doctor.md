@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rawstory.com/2020/10/revealed-birx-confronted-pence-with
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 800
     height: 430
     isCached: true
-
-related:
-  - title: "Report: Birx Confronted Pence About Atlas And Pushed For His Removal From COVID Task Force"
-    excerpt: "White House COVID-19 response coordinator Dr. Deborah Birx reportedly told Vice President Mike Pence recently that Dr. Scott Atlas,"
-    publishedDateTime: 2020-10-19T12:56:00Z
-    webUrl: "https://talkingpointsmemo.com/news/report-birx-confronted-pence-about-atlas-and-pushed-for-his-removal-from-covid-task-force"
-    type: article
-    provider:
-      name: Talking Points Memo
-      domain: talkingpointsmemo.com
-    quality: 45
-    images:
-      - url: "https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/04/GettyImages-1210109617-804x568.jpg"
-        width: 804
-        height: 568
-        isCached: true
 
 secured: "lXuTySgyKGCIN5NU1YbRKYRQ9xYE8WqeDaT+zZ+SiLyGS00Gi13PkDoH3Yc/rwBWBJQ7KgVHoLZc2c/xwbAfHYJycASgC3H6aqclJlBLaPEVjS1AjR4kFIfGmw/5lt3grlsR+RdMhDIdsOVWIjGBnjRSnN/uht+o7AOKruW2QuwrZBec7RvDnS9FdDx+QXqqWrGBYZEIwcSTgb3N29VQQFidLNwkq6J5i1EHYkE3RhsLo0fvJZoxJt/wPC5v+jl2e2I4ncB2JMLYr1GGnXM1tKWrbV+NBv0r4O2LAKCSh+ZfkgGbTid6oHyYJSTaGNq6GNUwgIAe7dNldWnGBXXVMdgi0Cif3Ef1l+hQ1AovQQY=;H5uwxZqSv7p2LtCpR7N/4g=="
 ---

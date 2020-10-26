@@ -164,22 +164,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Vice President Pence to Hold Rally in New Hampshire"
-    excerpt: "Vice President Mike Pence is hosting a “Make America Great Again” rally in New Hampshire Tuesday to highlight what the campaign called the Trump administration’s “historic accomplishments.” Traveling on Air Force Two,"
-    publishedDateTime: 2020-09-22T19:31:00Z
-    webUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/"
-    ampWebUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
-    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
-    type: article
-    provider:
-      name: NECN
-      domain: necn.com
-    quality: 75
-    images:
-      - url: "https://media.necn.com/2020/09/GettyImages-1180870886-1.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Pence’s jet returns to airport after hitting bird on takeoff"
     excerpt: "Vice President Mike Pence’s airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House"
     publishedDateTime: 2020-09-27T04:28:00Z

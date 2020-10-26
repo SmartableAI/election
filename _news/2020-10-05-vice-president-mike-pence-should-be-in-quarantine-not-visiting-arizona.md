@@ -171,17 +171,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump ex-campaign boss hospitalized amid threat to harm self"
-    excerpt: "President Donald Trump’s former campaign manager Brad Parscale was hospitalized Sunday after he threatened to harm himself, according to Florida police and campaign officials."
-    publishedDateTime: 2020-09-28T04:00:00Z
-    webUrl: "https://www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Trump's reported tax methods would be par for the course for the rich, experts say"
     excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to file zero-liability tax returns."
     publishedDateTime: 2020-09-29T05:56:00Z
@@ -204,22 +193,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 98
-  - title: "Mike Pence, Donald Trump Jr. to hold campaign rallies in Michigan Thursday"
-    excerpt: "The Trump campaign is continuing a busy schedule of events in Michigan with two high-profile surrogates visits planned for Thursday. Vice President Mike Pence is scheduled to hold a campaign rally at Barnstormers Aviation in Waterford Township before departing for another rally in Fort Wayne,"
-    publishedDateTime: 2020-10-21T01:20:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-donald-trump-jr-to-hold-campaign-rallies-in-michigan-thursday.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-donald-trump-jr-to-hold-campaign-rallies-in-michigan-thursday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/mike-pence-donald-trump-jr-to-hold-campaign-rallies-in-michigan-thursday.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 98
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7GTM7PSQJVDMFHZUIMZUDUAVXY.JPG"
-        width: 1300
-        height: 903
-        isCached: true
   - title: "RPT-Trump's reported tax methods would be par for the course for the rich, experts say"
     excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to"
     publishedDateTime: 2020-09-28T21:17:00Z
@@ -308,20 +281,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "EXCLUSIVE: VP Mike Pence tells Channel 2 President Trump won Tuesday’s debate ‘outright’"
-    excerpt: "Vice President Mike Pence is defending President Donald Trump’s performance following Tuesday night’s controversial debate and says he believes Trump won. Channel 2′s Richard Elliot spoke exclusively with Pence following his appearance at the Faith and Freedom Coalition conference that was held Wednesday at the Cobb Galleria Centre."
-    publishedDateTime: 2020-10-01T05:43:00Z
-    webUrl: "https://www.wsbtv.com/news/local/cobb-county/vice-president-pence-coming-metro-atlanta-wednesday/ICA2PVFKNVARLNBA5TGHVYMJOI/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 61
-    images:
-      - url: "https://www.wsbtv.com/resizer/3cU1r-TzlbfDb1z2UP0tv7fNz6s=/1200x628/d1hfln2sfez66z.cloudfront.net/09-30-2020/t_e8de92d95b634a1d89c08251ce986ed7_name_RAW_RE_PENCE_INTERVIEW_frame_27575.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Vice President Mike Pence to visit Iowa Thursday"
     excerpt: "DES MOINES, Iowa (KWQC) - Vice President Mike Pence will visit Iowa on Thursday, October 1. Pence first plans on delivering remarks at a Trump Administration event in Carter Lake. During the event, he is expected to discuss Iowa’s unemployment rate and jobs."

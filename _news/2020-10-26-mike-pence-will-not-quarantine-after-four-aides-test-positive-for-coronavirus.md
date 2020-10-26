@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aide
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
 type: article
 quality: 122
-heat: 382
+heat: 282
 published: true
 
 provider:
@@ -47,38 +47,6 @@ related:
         width: 3500
         height: 2314
         isCached: true
-  - title: "Mike Pence's chief of staff Marc Short, other top aide test positive for COVID-19"
-    excerpt: "Two of Vice President Mike Pence's top deputies have tested positive for the coronavirus: chief of staff Marc Short and political aide Marty Obst. \"Today, Marc Short, Chief of Staff to the Vice President,"
-    publishedDateTime: 2020-10-25T12:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/mike-pence_hpMain_20201024-213634_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Vice President Mike Pence's chief of staff Marc Short tests positive for COVID-19"
-    excerpt: "\"Vice President Pence and Mrs. Pence both tested negative for COVID-19 today, and remain in good health,\" Pence's press secretary Devin O'Malley said."
-    publishedDateTime: 2020-10-25T04:13:00Z
-    webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3a&ftag=CNM-00-10aab4i"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/25/bdaeb978-9219-49f6-9ea9-e24ff5096a1f/thumbnail/1200x630/afe499c7b4ca27a38a56c1948ca16e05/gettyimages-1206471082.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mike Pence adviser Marty Obst tests positive for COVID-19 as the latest case in White House orbit"
     excerpt: "Sources told Bloomberg News Marty Obst tested positive last week and has not been in close contact with the vice president."
     publishedDateTime: 2020-10-25T02:28:00Z
@@ -95,19 +63,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Vice President Mike Pence to stay on campaign trail despite exposure to chief of staff Marc Short, who tested positive for COVID-19"
-    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
-    publishedDateTime: 2020-10-25T12:19:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+  - title: "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases"
+    excerpt: "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news."
+    publishedDateTime: 2020-10-18T19:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 95
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
     images:
-      - url: "https://www.chicagotribune.com/resizer/u0DCzdkXJN-RGYRvSSr43-jHmvc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BSXXSPCSCJF4FHNE6RFJZESBP4.aspx"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -125,22 +93,6 @@ related:
         width: 2048
         height: 1367
         isCached: true
-  - title: "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally"
-    excerpt: "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ..."
-    publishedDateTime: 2020-10-21T19:58:00Z
-    webUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/"
-    ampWebUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 87
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems01.jpg?w=1024&h=755"
-        width: 1024
-        height: 755
-        isCached: true
   - title: "Close political adviser to Mike Pence tests positive for COVID-19"
     excerpt: "According to Bloomberg News, one of Vice President Mike Pence’s top political advisers has tested positive for COVID-19. It is unclear if Marty Obst developed coronavirus symptoms when he tested positive."
     publishedDateTime: 2020-10-25T05:17:00Z
@@ -156,22 +108,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/04/pence.jpg"
         width: 800
         height: 430
-        isCached: true
-  - title: "Vice President Mike Pence’s top aide tests positive for coronavirus"
-    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said Saturday. Pence himself tested negative,"
-    publishedDateTime: 2020-10-25T04:03:00Z
-    webUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
-    ampWebUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KTIDZGVA4VEXFPEH37ETNHERVA.jpg"
-        width: 3600
-        height: 2400
         isCached: true
   - title: "Mike Pence's chief of staff, top adviser both test positive for coronavirus"
     excerpt: "Sources tell ABC News, Marc Short, Chief of Staff to the Vice President Mike Pence has tested positive for COVID-19. And top adviser Marty Obst has also tested positive for coronavirus earlier ..."
@@ -189,22 +125,6 @@ related:
         width: 3422
         height: 2281
         isCached: true
-  - title: "Vice President Mike Pence and second lady Karen Pence test negative for coronavirus"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump and first lady Melania Trump were diagnosed with the"
-    publishedDateTime: 2020-10-02T12:31:00Z
-    webUrl: "https://www.bostonherald.com/2020/10/02/the-latest-pence-and-his-wife-test-negative-for-covid-19-2/"
-    ampWebUrl: "https://www.bostonherald.com/2020/10/02/the-latest-pence-and-his-wife-test-negative-for-covid-19-2/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/02/the-latest-pence-and-his-wife-test-negative-for-covid-19-2/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 69
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/09/AP20255534450048.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "VP Mike Pence to continue campaigning after chief of staff tests positive for coronavirus"
     excerpt: "Pence spokesman Devin O’Malley said Pence and his wife, Karen Pence, both tested negative for the virus on Saturday."
     publishedDateTime: 2020-10-25T03:34:00Z
@@ -221,21 +141,19 @@ related:
         width: 1024
         height: 579
         isCached: true
-  - title: "Legendary Florida State coach Bobby Bowden says he beat coronavirus to vote for Donald Trump"
-    excerpt: "The Florida State coaching legend added another win to his career total, it just didn’t come on a football field. Bowden, 91, beat coronavirus. His motivation? He says it was so he could participate in the presidential election in November."
-    publishedDateTime: 2020-10-22T14:44:00Z
-    webUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html"
-    ampWebUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
+  - title: "Mike Pence, Karen Pence test negative as White House coronavirus cases climb"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence both tested negative Monday as a number of new cases were confirmed in the nation's capital."
+    publishedDateTime: 2020-10-05T18:47:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/05/mike-pence-tests-negative-covid-19-white-house-coronavirus-trump/3626064001/"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 64
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 52
     images:
-      - url: "https://www.nydailynews.com/resizer/n86PgTsxzNsdGCH3r9bUqsW9kQo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7VS5ZK3VDHRSTYX6YFC7QYAD7A.aspx"
-        width: 1200
-        height: 816
+      - url: "https://www.gannett-cdn.com/presto/2019/09/26/PIND/f459176d-794d-415b-b2f4-9a80abebd0f8-Pence1.JPG?crop=2735,1539,x0,y0&width=1600&height=800&fit=bounds"
+        width: 1422
+        height: 800
         isCached: true
 
 secured: "3PYOppTlKvQToMj0H2kvjsO2qdeMA53WoONODFKPr3H7F+bO74N4CCb2zMHan1goJYs7oFN2uQLC+3m+DpdhxpuGq6PM+Xm2aVFOSt7xBHs/7mSgBPIThnNKKWBA2HwdOY6sYnmqD8GT93YTbSjVaqjWoik31WJEDKT88Zo4V8EqpLrFu3qUi0jzdyRqVFQLvcxbb+Q25gJrIzJHymdM+yPsVFWrnr7fXtelYzKzj8xVMYAVK9KCpZ1dsg6OUKc2+gi9/0iaADsVLGp4p1AtJoDWnK8sykXLmSBJY7w8WEDwNZDImeIgahYfHwMd1RRI8vXfHa07fznyQgFYGwA7dUA+9vFdRmoAvAtMqwt4NnQ=;3ziR44hm93qbyKKJUFCXEA=="

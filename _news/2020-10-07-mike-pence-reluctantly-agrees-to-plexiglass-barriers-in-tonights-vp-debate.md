@@ -173,6 +173,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "“A Campaign Careening Towards the Finish Line”: The Pence–Harris Debate Was a Feeble Attempt at Normal"
+    excerpt: "Abigail Tracy: “I expect Senator Harris to tap into her time as a prosecutor and fully prosecute the case against Mike Pence,” Democratic strategist Cooper Teboe, who’s working with the ..."
+    publishedDateTime: 2020-10-08T15:36:17Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/mike-pence-kamala-harris-debate-was-a-feeble-attempt-at-normal"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/mike-pence-kamala-harris-debate-was-a-feeble-attempt-at-normal/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/mike-pence-kamala-harris-debate-was-a-feeble-attempt-at-normal/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 84
+    images:
+      - url: "https://media.vanityfair.com/photos/5f7f3b70d070eec8d50f0d80/master/pass/kamala-harris-pence-debate-2.jpg"
+        width: 2000
+        height: 1294
+        isCached: true
   - title: "What to watch in Kamala Harris, Mike Pence vice presidential debate: Amy Coney Barrett, COVID-19, LGBTQ rights"
     excerpt: "How will Kamala Harris' prosecutorial skills match up against Mike Pence's message discipline in the solo vice presidential debate?"
     publishedDateTime: 2020-10-07T12:04:00Z

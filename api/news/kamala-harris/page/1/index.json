@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-26-watch-live-kamala-harris-to-campaign-in-michigan-sunday.md",
-      "title": "Watch Live: Kamala Harris to campaign in Michigan Sunday",
-      "excerpt": "Democratic vice presidential nominee, Sen. Kamala Harris traveled Michigan on Sunday for multiple campaign events including a rally in Pontiac.",
+      "path": "_news/2020-10-26-kamala-harris-to-campaign-in-texas-first-dem-vp-candidate-to-do-so-in-30-plus-years.md",
+      "title": "Kamala Harris to Campaign in Texas, First Dem VP Candidate to Do So in 30-Plus Years",
+      "excerpt": "\"Texas is not a battleground state. It's that simple,\" former Texas Gov. Rick Perry said of Trump not campaigning in Texas prior to the election. Polls show the race as very tight.",
       "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2020/10/25/Watch-Live-Kamala-Harris-to-campaign-in-Michigan-Sunday/4321603644464/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2020/10/25/Watch-Live-Kamala-Harris-to-campaign-in-Michigan-Sunday/4321603644464/",
+      "webUrl": "https://www.newsweek.com/kamala-harris-campaign-texas-first-dem-vp-candidate-do-so-30-plus-years-1542001",
+      "originalUrl": "https://www.newsweek.com/kamala-harris-campaign-texas-first-dem-vp-candidate-do-so-30-plus-years-1542001",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 158,
       "tags": null,
       "images": [
         {
-          "url": "https://cdnph.upi.com/ph/st/th/4321603644464/2020/upi/3ad59f43d1778808fde5591a836b2b2a/v1.5/Watch-Live-Kamala-Harris-to-campaign-in-Michigan-Sunday.jpg?lg=5",
-          "width": 800,
-          "height": 534,
+          "url": "https://d.newsweek.com/en/full/1658247/kamala-harris.jpg",
+          "width": 594,
+          "height": 396,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/10/25/Watch-Live-Kamala-Harris-to-campaign-in-Michigan-Sunday/4321603644464/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/25/Watch-Live-Kamala-Harris-to-campaign-in-Michigan-Sunday/4321603644464/",
-      "publishedDateTime": "2020-10-25T10:50:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/kamala-harris-campaign-texas-first-dem-vp-candidate-do-so-30-plus-years-1542001?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-campaign-texas-first-dem-vp-candidate-do-so-30-plus-years-1542001?amp=1",
+      "publishedDateTime": "2020-10-25T15:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -53,7 +62,7 @@
       "originalUrl": "https://www.cbsnews.com/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -305,7 +314,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2023,
+      "heat": 1943,
       "tags": null,
       "images": [
         {
@@ -956,7 +965,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10520,
+      "heat": 10560,
       "tags": null,
       "images": [
         {

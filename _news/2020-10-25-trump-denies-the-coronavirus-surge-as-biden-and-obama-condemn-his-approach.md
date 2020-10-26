@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 1598
+heat: 1618
 published: true
 
 provider:
@@ -979,6 +979,20 @@ related:
     quality: 130
     images:
       - url: "https://static.politico.com/ea/ad/22202eee4753a4059b55cdc2f317/201023-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Voters ask who abandoned Scranton, Biden or Trump?"
+    excerpt: "In the city that’s become an emblem of the stakes in the 2020 race, people debate which of two would-be saviors has forsaken them."
+    publishedDateTime: 2020-10-25T23:16:00Z
+    webUrl: "https://www.politico.com/news/2020/10/25/scranton-election-biden-trump-pennsylvania-432062"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/0e/94/29fec0e84d899dfd5b66d0d7a7d0/201023-scranton-voters-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -57,6 +57,17 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Oil rebounds on Trump health update, Norway shutdowns"
+    excerpt: "Oil prices rose on Monday, lifted by comments from doctors for U.S. President Donald Trump suggesting he could be discharged from hospital as soon as Monday, just a few days after his positive coronavirus test sparked widespread alarm."
+    publishedDateTime: 2020-10-05T11:07:00Z
+    webUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN26Q060"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q060"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q060"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President Makes Progress, Not 'Out of the Woods': Trump Update"
     excerpt: "President Donald Trump has made “substantial progress” but still isn’t “out of the woods,” his physician Sean Conley said in a Saturday evening update. Trump completed a second dose of Remdesivir and remains fever free,"
     publishedDateTime: 2020-10-04T17:19:00Z

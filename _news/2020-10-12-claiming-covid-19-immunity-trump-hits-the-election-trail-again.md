@@ -477,22 +477,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "After independent coronavirus test, NBC sets Trump town hall"
-    excerpt: "NBC News says it'll host President Donald Trump for a town hall-styled event on Thursday, after the president submitted to a coronavirus test administered by the National Institutes of Health"
-    publishedDateTime: 2020-10-15T01:29:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/independent-coronavirus-test-nbc-sets-trump-town-hall-73607748"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/independent-coronavirus-test-nbc-sets-trump-town-hall-73607748"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/independent-coronavirus-test-nbc-sets-trump-town-hall-73607748"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d5338d783c104a49bf0323d01a4f68d6_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump lawyers ask Supreme Court to halt tax record turnover"
     excerpt: "President Donald Trump is asking the Supreme Court to put on hold an appeals court ruling that Trump’s accountant must immediately turn over tax records to a New York state prosecutor"
     publishedDateTime: 2020-10-15T10:56:00Z
@@ -653,6 +637,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Moore: Trump has to be on 'best behavior' for final presidential debate"
+    excerpt: "Stephen Moore, an economist and adviser to President Trump, said Sunday that the president needed to be \"on his best behavior\" going into the final presidential debate Thursday against former Vice President Joe Biden."
+    publishedDateTime: 2020-10-18T12:00:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/521549-moore-trump-has-to-be-on-best-behavior-for-final-presidential"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/521549-moore-trump-has-to-be-on-best-behavior-for-final-presidential?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/521549-moore-trump-has-to-be-on-best-behavior-for-final-presidential?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/moorestephen_08032020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Officials in Scotland approve another Trump golf course"
     excerpt: "Authorities in Scotland have approved plans by President Donald Trump’s family business to build a second golf course in Aberdeenshire, despite campaigning from environmental activists"
     publishedDateTime: 2020-10-17T18:09:00Z
@@ -685,21 +685,21 @@ related:
         width: 2500
         height: 1671
         isCached: true
-  - title: "Supreme Court To Decide Trump Border Wall Funding Case"
-    excerpt: "The U.S. Supreme Court will hear a case this term regarding whether President Donald Trump can build his border wall using diverted military funds that were not appropriated by Congress, the court announced Monday,"
-    publishedDateTime: 2020-10-19T15:33:00Z
-    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/19/supreme-court-to-decide-trump-border-wall-funding-case/"
-    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/19/supreme-court-to-decide-trump-border-wall-funding-case/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/19/supreme-court-to-decide-trump-border-wall-funding-case/amp/"
+  - title: "2020 Watch: Debate a chance for Trump to generate momentum"
+    excerpt: "President Donald Trump is openly contemplating the prospect of losing, while Democratic challenger Joe Biden is warning his supporters against overconfidence as the 2020 presidential election speeds i"
+    publishedDateTime: 2020-10-19T18:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8dae15f4004cf309a214cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5184%26cropY1%3D339%26cropY2%3D3255"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e4fa8f48a4c14da3800f79b576156370_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "How Trump plowed through $1 billion, losing cash advantage"
     excerpt: "President Donald Trump’s sprawling political operation raised well over $1 billion since he took the White House in 2017 — and set a lot of it on fire"
@@ -716,6 +716,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_ff6643c6a726435ca06259f0cd434bbf_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "LIVE updates: President Donald Trump addresses voters in Prescott"
+    excerpt: "President Donald Trump's return to Arizona comes as polls show Democratic presidential nominee Joe Biden leading Trump in most statewide polls."
+    publishedDateTime: 2020-10-19T20:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/19/trump-live-updates-president-donald-trump-battleground-arizona/3686632001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3686632001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3686632001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/51c3ff9b-0ec4-4680-8924-4e057ce9a7c7-AP20293837215722.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "NYPD says union's Trump endorsement won't affect enforcement"
     excerpt: "The New York Police Department says a police union’s endorsement of President Donald Trump shouldn’t sway how officers treat people who protest or vote against the president"
@@ -941,22 +957,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Pelosi says Trump offer on coronavirus bill falls short, still hopes for deal"
-    excerpt: "U.S. House Speaker Nancy Pelosi said on Tuesday the offer President Donald Trump recently made on a coronavirus stimulus package after he scrapped talks fell far short of what the American people need but she still hopes a deal can be reached."
-    publishedDateTime: 2020-10-13T13:29:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN26Y1UW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Y1UW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Y1UW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537274682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C124"
-        width: 781
-        height: 545
-        isCached: true
   - title: "Trump says he is recovered from COVID-19, prepares for return to campaign trail"
     excerpt: "U.S. President Donald Trump said on Sunday he had fully recovered from COVID-19 and was not an infection risk for others, freeing him to return to holding big campaign rallies during the final weeks of the race for the White House."
     publishedDateTime: 2020-10-11T21:16:00Z
@@ -1145,22 +1145,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "President Trump and his staff defied CDC coronavirus guidelines 23 times since Sept. 1"
-    excerpt: "Trump and other key White House officials have violated CDC coronavirus guidance at least 23 times, according to a USA TODAY analysis."
-    publishedDateTime: 2020-10-07T10:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-19-24-times-trump-administration-violated-cdc-guidelines/3636834001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3636834001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636834001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/997b0c17-27a3-45d2-9801-822e233fa697-TRUMP_POSITIVE_CORONAVIRUS_05.JPG?auto=webp&crop=3488,1962,x0,y119&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump, still facing health questions, holds first public event since COVID-19 diagnosis"
     excerpt: "U.S. President Donald Trump will on Saturday hold his first public event since being diagnosed with COVID-19 more than a week ago, aiming to show he has beaten the virus and is ready to resume campaigning,"
     publishedDateTime: 2020-10-10T17:27:00Z
@@ -1176,6 +1160,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201010&t=2&i=1536938601&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG99050"
         width: 819
         height: 545
+        isCached: true
+  - title: "For the final debate, forget the 'Trump curve.' Grade the president on facts and truth."
+    excerpt: "It doesn't matter if Trump interrupts less. If he lies, undermines public health or destabilizes our election, his grade should be unfit for office."
+    publishedDateTime: 2020-10-21T21:21:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/21/trump-biden-debate-curve-grade-on-truth-facts-fitness-column/5991855002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5991855002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5991855002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/ce9bad06-224d-4cde-889b-6541e32030b5-GTY_1281118864.jpg?auto=webp&crop=5055,2843,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Stocks Recover After Trump's Back And Forth On Stimulus, Claims He'd Sign Standalone Bill"
     excerpt: "\"If I am sent a Stand Alone Bill for Stimulus Checks ($1,200), they will go out to our great people IMMEDIATELY,\"  Trump tweeted shortly after 10 p.m. EDT. \"I am ready to sign right now. Are you listening Nancy?"
@@ -1517,6 +1517,20 @@ related:
         width: 4981
         height: 3321
         isCached: true
+  - title: "Trump rallies in Nevada ahead of final debate"
+    excerpt: "World Trump rallies in Nevada ahead of final debate. Posted . President Donald Trump implored supporters in Nevada on Sunday to cast ballots early in a state he narrowly lost in 2"
+    publishedDateTime: 2020-10-19T11:41:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-rallies-in-nevada-ahead-of-final-d-id720970154"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201019&i=OVD0SU1RF&r=OVD0SU1RF&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Is Trump Really That Racist?"
     excerpt: "We know his rhetoric has been described as boundary-breaking when it comes to race. But U.S. presidents have been enacting racist policies forever. So as President Trump wraps up his first (and maybe only) term in office,"
     publishedDateTime: 2020-10-21T05:37:00Z
@@ -1713,22 +1727,6 @@ related:
         width: 5399
         height: 3599
         isCached: true
-  - title: "Trump’s doctor says he’s no longer at risk of transmitting coronavirus, after president’s first public appearance since hospital trip"
-    excerpt: "President Donald Trump on Saturday made his first public appearance since returning to the White House after being treated for the coronavirus."
-    publishedDateTime: 2020-10-10T16:38:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 94
-    images:
-      - url: "https://www.chicagotribune.com/resizer/iLbSE6ojviZNbhI2yCDdvTmuhnc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SIOPDVZE7XDSUB2WYLAAZ5EJ7Y.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Donald Trump to open a new golf course named after his mother in Scotland despite opposition from conservationists and local residents"
     excerpt: "The 18-hole course will be called \"MacLeod\" in honor of Trump's mother, Mary MacLeod who was from the Scottish island of Lewis."
     publishedDateTime: 2020-10-18T11:50:00Z
@@ -1770,6 +1768,22 @@ related:
         width: 2048
         height: 1445
         isCached: true
+  - title: "Donald Trump Threatens To Leave U.S. If He Loses Election"
+    excerpt: "Donald Trump would consider losing the election as an embarrassment. On November 3rd, Americans will be heading to the polls to vote for the next President of the United States. There are two viable options for President,"
+    publishedDateTime: 2020-10-17T14:47:00Z
+    webUrl: "https://www.hotnewhiphop.com/donald-trump-threatens-to-leave-us-if-he-loses-election-news.119769.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/donald-trump-threatens-to-leave-us-if-he-loses-election-news.119769.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-threatens-to-leave-us-if-he-loses-election-news.119769.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 90
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602944840_4c15607122d229410b612112475774b7.jpg/4964a30207cd76e4a35479fb9a29ffb1/1602944840_f984733427763bde2d7dec996298dafa.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tommy Lee vows to quit America if Donald Trump wins the election"
     excerpt: "Tommy Lee has threatened to quit America if Donald Trump is re-elected. The Motley Crue rocker has been an outspoken critic of the current president and he can’t think of anything worse than him winning a second term in office at next month’s election."
     publishedDateTime: 2020-10-17T08:00:00Z
@@ -1786,19 +1800,19 @@ related:
         width: 1000
         height: 650
         isCached: true
-  - title: "Mike Pence: Reelect President Donald Trump to renew America’s promise"
-    excerpt: "When Donald Trump announced his candidacy for president, he launched a movement to restore the promise of America. Since taking office, President Trump has delivered record-breaki"
-    publishedDateTime: 2020-10-20T13:34:00Z
-    webUrl: "https://www.indystar.com/in-depth/opinion/2020/10/20/mike-pence-reelect-president-trump-renew-americas-promise-editorials-debates/3706197001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3706197001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3706197001"
+  - title: "Donald Trump Says He May Leave U.S. if He Loses Presidential Election"
+    excerpt: "President Trump and Tommy Lee now have something in common ... they've both said goodbye to America if their candidate loses the presidential election."
+    publishedDateTime: 2020-10-17T23:34:00Z
+    webUrl: "https://www.tmz.com/2020/10/17/trump-says-he-may-leave-united-states-if-he-loses-election/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/17/trump-says-he-may-leave-united-states-if-he-loses-election/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/17/trump-says-he-may-leave-united-states-if-he-loses-election/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: TMZ
+      domain: tmz.com
     quality: 90
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
+      - url: "https://imagez.tmz.com/image/22/16by9/2020/10/17/22c85060ee8541e99ad56801a9104b2f_xl.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -1817,22 +1831,6 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Mitt-Romney-1200x681.jpg"
         width: 1200
         height: 681
-        isCached: true
-  - title: "Obama blasts Trump during rally for Joe Biden in Philadelphia"
-    excerpt: "Barack Obama blasted President Trump's handling of the coronavirus pandemic, his response to racial unrest and his fundamental unfitness for the job during a rally in Philadelphia."
-    publishedDateTime: 2020-10-22T06:45:00Z
-    webUrl: "https://abc7ny.com/politics/obama-to-hold-drive-in-rally-for-biden-in-philly-today/7217787/"
-    ampWebUrl: "https://abc7ny.com/amp/barack-obama-philadelphia-citizens-bank-park-rally-in-philly-drive-in/7217787/"
-    cdnAmpWebUrl: "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/barack-obama-philadelphia-citizens-bank-park-rally-in-philly-drive-in/7217787/"
-    type: article
-    provider:
-      name: abc7NY
-      domain: abc7ny.com
-    quality: 90
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7231118_102120-wpvi-obama-philly-11pm-CC-vid.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Damage control? Trump hints at leaving the country if he loses the election"
     excerpt: "President Donald Trump is already hinting at how he would react to being defeated by Democratic presidential nominee Joe Biden. On Friday, Trump traveled to Macon, Ga., where he held a crowded campaign rally filled with maskless supporters and no social distancing."
@@ -1913,6 +1911,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Mike Pence campaigns in Johnston County just a day after President Trump visits NC"
+    excerpt: "Vice President Mike Pence campaigned in Johnston County Friday one day after President Donald Trump visited North Carolina, underscoring the state’s role as a crucial"
+    publishedDateTime: 2020-10-16T22:29:00Z
+    webUrl: "https://www.cbs17.com/news/your-local-election-hq/mike-pence-campaigns-in-johnston-county-just-a-day-after-president-trump-visits-nc/"
+    ampWebUrl: "https://www.cbs17.com/news/your-local-election-hq/mike-pence-campaigns-in-johnston-county-just-a-day-after-president-trump-visits-nc/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/your-local-election-hq/mike-pence-campaigns-in-johnston-county-just-a-day-after-president-trump-visits-nc/amp/"
+    type: article
+    provider:
+      name: CBS17 Raleigh
+      domain: cbs17.com
+    quality: 84
+    images:
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2020/10/pence-selma.jpg?w=1280"
+        width: 960
+        height: 552
         isCached: true
   - title: "'The Simpsons' ding Donald Trump ahead of Election Day with 50 reasons not to reelect president"
     excerpt: "The Simpsons” offers dozens of reasons not to vote to reelect President Trump in a scene appearing in the annual Halloween-themed episode of the long-running animated series airing this Sunday."
@@ -2378,22 +2392,6 @@ related:
         width: 800
         height: 430
         isCached: true
-  - title: "Donald Trump Jr. Posts Sad Video From Bed Complaining No One Likes Him"
-    excerpt: "The First son claims it’s because Instagram is hiding his posts, not considering the possibility that his posts are bad."
-    publishedDateTime: 2020-10-19T19:00:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-jr-bed-video"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-jr-bed-video/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-jr-bed-video/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 75
-    images:
-      - url: "https://media.vanityfair.com/photos/5f8dda70faf1b82d3425a7b6/master/pass/donaldtrumpjr.jpg"
-        width: 2000
-        height: 1339
-        isCached: true
   - title: "COVID Positive Donald Trump Holds White House Rose Garden Event Saturday"
     excerpt: "Donald Trump is going back to the scene of the crime -- aka The Rose Garden at The White House, and it's happening today."
     publishedDateTime: 2020-10-10T15:53:00Z
@@ -2618,22 +2616,6 @@ related:
         width: 3591
         height: 2394
         isCached: true
-  - title: "Exasperated Trump aides looking for new jobs as the president ignores their campaign advice: report"
-    excerpt: "According to a report from the New York Times, aides to Donald Trump are getting a jump on looking for new jobs with an eye on the fact that the president is doing nothing to stop his slide in the polls in the waning days of his re-election campaign."
-    publishedDateTime: 2020-10-18T20:28:00Z
-    webUrl: "https://www.rawstory.com/2020/10/exasperated-trump-aides-looking-for-new-jobs-as-the-president-ignores-their-campaign-advice-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/exasperated-trump-aides-looking-for-new-jobs-as-the-president-ignores-their-campaign-advice-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/exasperated-trump-aides-looking-for-new-jobs-as-the-president-ignores-their-campaign-advice-report/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 61
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP.png"
-        width: 800
-        height: 430
-        isCached: true
   - title: "Calls for Congress to impeach Bill Barr grow: DOJ now a \"vehicle\" to advance Trump's reelection"
     excerpt: "\"Barr appears to embrace an autocratic view of the power of the executive branch, specifically presidential power\""
     publishedDateTime: 2020-10-14T11:42:00Z
@@ -2809,6 +2791,17 @@ related:
         width: 1024
         height: 677
         isCached: true
+  - title: "Trump on Defense, Courting Voters in Two Must-Win States"
+    excerpt: "President Donald Trump is fighting to defend his sagging reelection chances in a state Republicans haven’t lost in nearly three decades — and his campaign is confronting new financial strains."
+    publishedDateTime: 2020-10-16T17:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Trump Plays Down Virus as He Steps up Pitch for Second Term"
     excerpt: "In the week since President Donald Trump emerged from coronavirus isolation, he has demonstrated new determination to minimize the threat of the virus that has killed more than 215,000 Americans and complicated his chances of winning another four years in the White House."
     publishedDateTime: 2020-10-17T05:50:00Z
@@ -2876,20 +2869,17 @@ related:
         width: 1024
         height: 680
         isCached: true
-  - title: "U.S. President Donald Trump departs the White House"
-    excerpt: "Supporters of U.S. President Donald Trump look on as Marine One departs the White House in Washington, DC on Tuesday, October 2020. Trump is scheduled to host a campaign rally in Erie, Pennsylvania before returning to the White House tonight."
-    publishedDateTime: 2020-10-21T00:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/77c3dd9b4802714071a2ffefb827f287/US-President-Donald-Trump-departs-the-White-House/"
+  - title: "Trump Rails Against Muted Microphones at Presidential Debate"
+    excerpt: "The fact that Trump is willing to debate Biden again without being able to interrupt him at will is an indicator of how much the president needs to change the trajectory of the campaign."
+    publishedDateTime: 2020-10-20T15:05:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate?context=amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/77c3dd9b4802714071a2ffefb827f287/TRUMP-DEPARTS.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "A Look At Donald Trump's Record On Auto Jobs"
     excerpt: "Trump railed against free trade agreements and boasted he would be able to strong-arm Detroit's \"Big Three\" to shift jobs from Mexico to the United States. But did he make good on those promises? The trend in US auto employment has mirrored the larger dynamic in manufacturing jobs,"
     publishedDateTime: 2020-10-22T03:23:00Z
@@ -2903,22 +2893,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/21/us-president-donald-trump-met-with-general-motors.jpg"
         width: 1024
         height: 730
-        isCached: true
-  - title: "A science advisor for President Donald Trump has a tweet blocked claiming masks don’t work to combat coronavirus"
-    excerpt: "A science advisor for President’s Donald Trump had a tweet blocked by Twitter on Sunday after it suggested masks don’t work to combat the spread of coronavirus. Scott Atlas, who joined the Trump Administration in August,"
-    publishedDateTime: 2020-10-19T11:48:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2020/10/a-science-advisor-for-president-donald-trump-has-a-tweet-blocked-claiming-masks-dont-work-to-combat-coronavirus.html"
-    ampWebUrl: "https://www.masslive.com/coronavirus/2020/10/a-science-advisor-for-president-donald-trump-has-a-tweet-blocked-claiming-masks-dont-work-to-combat-coronavirus.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/10/a-science-advisor-for-president-donald-trump-has-a-tweet-blocked-claiming-masks-dont-work-to-combat-coronavirus.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 54
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/67DCE3VC5FEAXBRCR57Z3HCBJI.jpg"
-        width: 6000
-        height: 4000
         isCached: true
   - title: "Wishing Donald Trump well: It's just another way of normalizing the regime"
     excerpt: "We're expected to wish Trump a full recovery just because he's the president. But he's done nothing to earn that"

@@ -25,67 +25,83 @@ images:
     isCached: true
 
 related:
-  - title: "Minnesota congressmen flew Delta after flying with Trump"
-    excerpt: "Three Minnesota congressmen are facing backlash over taking a commercial flight home from Washington, D.C., on Friday night just two days after they shared Air Force One with President Donald Trump. U."
-    publishedDateTime: 2020-10-03T22:53:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585"
+  - title: "Watch live: Biden gives remarks from Duluth, Minnesota"
+    excerpt: "Democratic presidential nominee Joe Biden is slated to give remarks in Duluth, Minn., on Friday after touring a local union training center.The event is scheduled to begin at 3:45 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-09-18T19:16:00Z
+    webUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta"
+    ampWebUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/201003_abcnl_spev_trump_6pm_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/newsletter-biden_091020getty.jpg"
+        width: 580
+        height: 391
         isCached: true
-  - title: "Minneapolis restaurant quarantines 13 who worked Trump event"
-    excerpt: "Thirteen staff members from an iconic Minneapolis steakhouse are quarantining after the restaurant catered a fundraiser attended by President Donald Trump during his visit to Minnesota last week"
-    publishedDateTime: 2020-10-05T22:05:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803"
+  - title: "Watch live: Biden gives remarks from Duluth, Minnesotta"
+    excerpt: "Democratic presidential nominee Joe Biden is slated to give remarks in Duluth, Minn., on Friday after touring a local union training center.The event is scheduled to begin at 3:45 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-09-18T19:16:00Z
+    webUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta"
+    ampWebUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fb2a9678ab914eb7a099cddf1c34340f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/newsletter-biden_091020getty.jpg"
+        width: 580
+        height: 391
         isCached: true
-  - title: "Livestream: Donald Trump Rallies In Duluth, Minnesota Wednesday"
-    excerpt: "The Trump campaign is asking Minnesota rallygoers to \"please wear a mask while riding on the shuttle service.​\""
-    publishedDateTime: 2020-09-30T21:53:00Z
-    webUrl: "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday"
-    ampWebUrl: "https://patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday"
+  - title: "Watch live: Biden holds town hall event"
+    excerpt: "Democratic presidential nominee Joe Biden is slated to hold a town hall event Thursday evening on ABC.The event is scheduled to begin at 8 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-10-15T22:46:00Z
+    webUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event"
+    ampWebUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://patch.com/img/cdn20/getty/22887410/20200930/125243/styles/patch_image/public/gettyimages-979770508___30125124036.jpg?width=984"
-        width: 984
-        height: 738
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "VP Mike Pence headed back to Minnesota as Trump campaign revives TV ads"
-    excerpt: "Vice President Mike Pence will return to Minnesota on Monday as President Donald Trump’s campaign bolsters its advertising on state airwaves after pulling back in recent weeks. Pence is scheduled to hold a rally at the regional airport in Hibbing ..."
-    publishedDateTime: 2020-10-23T17:53:00Z
-    webUrl: "https://www.startribune.com/vp-mike-pence-headed-back-to-minnesota-as-trump-campaign-revives-tv-ads/572845222/"
+  - title: "Hunter Biden Received a $3.5 Million Payment From Ex-Moscow Mayor's Wife, Republican Report Says"
+    excerpt: "A new report from Senate Republicans alleges that Democratic presidential nominee Joe Biden's son Hunter Biden received a $3.5 million payment from the wealthy wife of Moscow's former mayor, amid a slew of other financial transactions and entanglements that federal government officials warned presented conflicts of interest as the former vice president spearheaded the Obama administration's Ukraine policy."
+    publishedDateTime: 2020-09-23T14:41:00Z
+    webUrl: "https://www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834"
+    ampWebUrl: "https://www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834?amp=1"
     type: article
     provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 70
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
     images:
-      - url: "https://stmedia.stimg.co/ows_9babe6fb-0a7f-420a-9f48-8d32d2cfad36.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1641168/hunter-biden.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "President's daughter, Pence visit Minnesota"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order campaign message to Minneapolis today."
+    publishedDateTime: 2020-09-24T09:16:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/sep/24/presidents-daughter-pence-visit-minnesota/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/196197612_196196292-326a6878a6fb45c9ab801fb10bd30956_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "hrg/GaevpfVnVO+MEdhlJ58R/dvd8pFPUJl3hmoebgjpcwvT2fyfdKrHbFDkIFIfCrwM7IiF/vNkGXJckp4xRC+ZTQdAUOSaynOqba6/m1SUHFOk0+YK9tII6J93kOvEzdP0qHO4I/oEVivjLOKyjnosay4+f/IqifPztB/MyP8AgDMGdrKbS5TWHgMivjV4PX0H4iR1CAwWmZioWOQsVxg0RctVV3b/SKDJ6p3xot8efKWOZf341e/gj95o+ux8tDkWjkMewgArPr/IgbEBOrs3hr8aLwu1YtH7fuKlGHd8JzVV58WHOeM8yGou4l9tkCpQ7Y59yYdacFsk6V36glyMw19/VXCd4ObLWf49o+8=;ukybcO3r/kvtqxcPDk7NeQ=="

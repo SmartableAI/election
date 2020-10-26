@@ -109,20 +109,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Donald Trump Took Down Bonwit Teller, A Fifth Avenue Landmark"
-    excerpt: "When a young Donald Trump wanted to locate his Trump Tower on Fifth Avenue, he targeted and purchased the famous Bonwit Teller apparel store. But the store's demolition drew controversy as several pieces of art,"
-    publishedDateTime: 2020-10-03T13:03:00Z
-    webUrl: "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76773dd654b423dfece1b5%2F0x0.jpg"
-        width: 1199
-        height: 797
-        isCached: true
 
 secured: "3sfgIi+hsCOqPrbCRHWdT4cW4nPU8C55h33o/DHPSxEuRfOSC2iAw74bFVEwgQDCnZihKjf/TPotNCjlJZsSTc992cTYG21kydML6LyHU7btOJ/4k/NgRvvZLzXahHVyFA7teRXTTw49/fTb2iSoID/uH7yXiTFxAQ8T2u8cz9mCa//szYjUYkclriIdA+bvB0oatrgbooh9HoIbdDa5mYcAofd8dyjxpyBVixBmItpNFEPMzahUz/NMaEkHH9o2TrRjx+9HSA5ry65hKrnCmudCAjTIkXPlJjC2LQ22KtbHOWGilLkDQbsLKl4CGFVwbHnjpV19pAxE8paHvxRICEN64WUVOr5XUYCIQl1LPSHd4bdmgckQqW4OAgyQUX/R8a0x5Ls9D9b+EMRGz88o15yW3PEyZp3u5W+zdgi4rhjq05HMXAGiocjpLho/m0XW9BmECsWEunN+aK7NXv9gy49x9+OzYF4TCkcXvyAXJTYs797LOxhcsWVCP7tm+j1IdCph4uY0XR59u0d4FP9FmA==;5u011NjTLm76O/sWIX+THQ=="
 ---

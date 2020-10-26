@@ -53,6 +53,22 @@ related:
         width: 646
         height: 363
         isCached: true
+  - title: "Moments from 60 Minutes' interview with Joe Biden"
+    excerpt: "Newsworthy moments from the Democratic presidential nominee's talk with Norah O'Donnell ahead of the 2020 election."
+    publishedDateTime: 2020-10-26T00:45:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-60-minutes-interview-highlights-2020-10-25/?ftag=CNM-00-10aab0g"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-60-minutes-interview-highlights-2020-10-25/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-60-minutes-interview-highlights-2020-10-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/25/0e9b2773-d547-4792-a3dc-e56411115ade/thumbnail/1200x630/315a7c68a409584441e46781988478a6/bidenotarticle0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden reiterates in Philadelphia town hall that he does not want to ban fracking"
     excerpt: "Democratic presidential contender and former Vice President Joe Biden on Thursday again said he won't ban fracking"
     publishedDateTime: 2020-10-16T02:54:00Z
@@ -292,6 +308,20 @@ related:
       - url: "https://s34449.pcdn.co/wp-content/uploads/2020/09/waka-flocka-1.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
+    excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
+    publishedDateTime: 2020-10-16T13:14:00Z
+    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/joe-biden-tackles-tough-issues-abc-town-hall/3676337001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 47
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/87bcbe73-aab7-4ac2-9750-967703e56d5a-VPC_BIDEN_TOWN_HALL_WRAP_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"

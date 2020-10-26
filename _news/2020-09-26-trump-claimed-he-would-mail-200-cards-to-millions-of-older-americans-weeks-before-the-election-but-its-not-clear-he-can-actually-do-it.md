@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
 type: article
 quality: 106
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,22 +31,47 @@ images:
     isCached: true
 
 related:
-  - title: "‘Borat 2’ is coming for Mike Pence — but what can it say about Trump’s America?"
-    excerpt: "What might it mean to bring Borat back? In retrospect, it’s clear that Baron Cohen’s gray-suited provocateur served as a canary in the coal mine when he pulled stunts like singing the fake Romanian folk ballad “Throw the Jew Down the Well” in an Arizona dive bar."
-    publishedDateTime: 2020-09-29T18:00:00Z
-    webUrl: "https://forward.com/culture/455387/borat-2-trumps-america-sacha-baron-cohen-pranks/"
-    ampWebUrl: "https://forward.com/culture/455387/borat-2-trumps-america-sacha-baron-cohen-pranks/?gamp"
-    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/culture/455387/borat-2-trumps-america-sacha-baron-cohen-pranks/?gamp"
+  - title: "Joe Biden's plans to hike taxes for rich Americans will be key for markets if he wins the election, a strategist says"
+    excerpt: "Robertson said markets will factor in whether Biden's tax plans pressure domestic equities and credit markets at the expense of foreign markets."
+    publishedDateTime: 2020-09-30T11:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
     type: article
     provider:
-      name: The Forward
-      domain: forward.com
-    quality: 86
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
     images:
-      - url: "https://images.forwardcdn.com/image/303x227/center/images/cropped/gettyimages-628229246-1593454823.jpg"
-        width: 303
-        height: 227
+      - url: "https://i.insider.com/5f745c180ab50d00184ad34d?format=jpeg"
+        width: 3500
+        height: 1750
         isCached: true
+  - title: "Joe Biden's small business outreach shows he's ready to spark America's strongest recovery ever"
+    excerpt: "We need to turn this recovery into America’s renaissance, and that starts with sending Joe Biden and Kamala Harris to the White House."
+    publishedDateTime: 2020-10-05T15:48:00Z
+    webUrl: "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas"
+    ampWebUrl: "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 113
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden lays out plan to help Venezuelan and Cuban Americans while criticizing dictators"
+    excerpt: "In Miami's Little Havana, Joe Biden explained his plan to help Venezuelan and Cuban Americans. Biden criticized President Trump and said he had spent his presidency appealing to autocrats."
+    publishedDateTime: 2020-10-05T21:24:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article246242480.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 25
 
 secured: "UfIgl7H/5++ECwnLJMndi/GS8NVnojWJ/dMtFITTJHUDF8DhUp2CEe8xuRKbv0sJwYLyyNJIm5upDAhyXbX7+Xl7IIMrLL/Pok5N/BNeVwVjTu5AioFs+nKWvCcis9Accl/ShOwQaaPvgMwYSLZVc7Ca3Tnqqq7mvHs1iaRgC49q+AiWKVszyULATCBQm4iclCGqnBiYSa3SW0r8xI/XP3UXgTY1Sp9i0t/QRzXapaFBCgDd8yp9OOrze4BuqJBBWXGhMkxZk8kNHCMNh5NbAjPQMPzZkKZ8y3+cP3Y2+KJUrKHcb17DDW0LAiY/Z458tKqplKQy/Ufb/8p6+sY0tZ4E23w8ZsmDzztiqRleULQ=;vMbBkzy+j+o+UNB2TU8i2Q=="
 ---

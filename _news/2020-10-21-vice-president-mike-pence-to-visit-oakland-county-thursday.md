@@ -43,6 +43,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Joe Biden: The 60 Minutes 2020 Election Interview"
+    excerpt: "The former vice president talks with Norah O’Donnell about the pandemic, taxes, the Supreme Court, and the “stark” differences between himself and President Trump. O'Donnell also speaks with Mr. Biden's running mate,"
+    publishedDateTime: 2020-10-25T23:46:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-democratic-presidential-candidate-kamala-harris-60-mintues-interview-norah-odonnell-2020-10-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/25/583ea69b-34a5-4aa4-bc64-ccefe22e1e78/thumbnail/1200x630/c2443e27109d146a623e10263b12ee66/bidenvideo-574150-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden Urged To Grant 2.2 Million Deferred Enforced Departure On ‘Day One Of His Presidency’"
     excerpt: "In a letter shared exclusively with this publication, Democratic presidential nominee Joe Biden is being urged to promise roughly 2.2 million people at risk of future deportation protections to remain in the U."
     publishedDateTime: 2020-10-16T12:35:00Z
@@ -107,6 +121,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden Said He Wants to 'Transition From the Oil Industry.' That Shouldn't Be a Surprise"
+    excerpt: "W hen former Vice President Joe Biden said at Thursday’s presidential debate that he wanted to “transition from the oil industry,” President Donald Trump pounced. “Oh, that’s a big statement,” Trump said,"
+    publishedDateTime: 2020-10-23T23:29:00Z
+    webUrl: "https://time.com/5903235/joe-biden-oil-industry-debate/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 75
   - title: "Vice President Mike Pence to make 2 South Florida stops on Thursday"
     excerpt: "President Trump and Vice President Mike Pence will both be in South Florida on Thursday, attending separate events. At 12:30 p.m.,"
     publishedDateTime: 2020-10-15T13:09:00Z

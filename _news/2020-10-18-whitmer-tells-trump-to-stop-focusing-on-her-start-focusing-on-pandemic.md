@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/340/340/Image-2020-07-09-at-7.41.42-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "NYPD cop suspended for using loudspeaker to say 'Trump 2020' while on duty"
+    excerpt: "A New York police officer has reportedly been suspended without pay for using the department vehicle’s loudspeaker to proclaim his support for President Donald Trump’s 2020 campaign."
+    publishedDateTime: 2020-10-25T21:20:00Z
+    webUrl: "https://www.foxnews.com/us/nypd-cop-suspended-using-loudspeaker-trump-2020-on-duty"
+    ampWebUrl: "https://www.foxnews.com/us/nypd-cop-suspended-using-loudspeaker-trump-2020-on-duty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/nypd-cop-suspended-using-loudspeaker-trump-2020-on-duty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/NYPD.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "'The Five' react to Trump challenging Dems to impeach him over Supreme Court pick"
     excerpt: "The political collision course over the Supreme Court is going forward. President Trump set to announce his nominee on Saturday, and Senate Republicans say they have the numbers to hold a vote.  The partisan infighting is just getting started."

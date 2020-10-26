@@ -29,101 +29,53 @@ images:
     isCached: true
 
 related:
-  - title: "If Joe Biden Wins, Will the Democrats Pack the Supreme Court?"
-    excerpt: "It's a question that Democrats and Joe Biden really don't want to answer. Most Senate Democrats pivot to discuss their focus on winning the majority and protecting Americans' health care, which they warn could be at risk."
-    publishedDateTime: 2020-09-23T19:12:00Z
-    webUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914"
-    ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
+  - title: "Breakingviews - Debate chaos is a gift for a conflicted Biden"
+    excerpt: "Donald Trump just gave Joe Biden a gift. The first televised debate of the 2020 election could have forced the Democratic presidential nominee to explain how he can appease both economic moderates and progressives."
+    publishedDateTime: 2020-09-30T04:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26L0G1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L0G1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L0G1"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1641290/chuck-schumer.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535463441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T0C5"
+        width: 859
+        height: 545
         isCached: true
-  - title: "Biden says voters should choose who nominates Supreme Court justice"
-    excerpt: "Democratic nominee Joe Biden said Saturday that voters should decide who nominates the next Supreme Court justice to replace the vacancy left by Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-27T02:20:00Z
-    webUrl: "https://thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice"
-    ampWebUrl: "https://thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice?amp"
+  - title: "Joe and Jill Biden test negative for coronavirus"
+    excerpt: "Democratic nominee and his wife underwent PCR testing for Covid-19 after Trump announced he has coronavirus"
+    publishedDateTime: 2020-10-02T17:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/oct/02/joe-biden-coronavirus-negative-test-wife-jill"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/02/joe-biden-coronavirus-negative-test-wife-jill"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/02/joe-biden-coronavirus-negative-test-wife-jill"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_9262020_gettyimages.jpg"
-        width: 980
-        height: 551
+      - url: "https://i.guim.co.uk/img/media/25a42ce0e9f290e768851aa1e37a3c8bc3e792a6/0_157_3272_1963/master/3272.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a5491efcfbf99560e98a5e2e6edb1f10"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Joe Biden should enact critical government reforms if he wins"
-    excerpt: "If Joe Biden wins the presidency, one of his first orders of business should be to enact his proposed package of ethics reforms that ensures no future president can replicate the corruption of the Tru"
-    publishedDateTime: 2020-09-26T22:06:00Z
-    webUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins"
-    ampWebUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
+  - title: "Joe Biden and his wife test negative for coronavirus"
+    excerpt: "Biden recently attended a presidential debate against President Donald Trump, and Trump later tested positive for the virus."
+    publishedDateTime: 2020-10-03T01:11:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_030820getty_progressives.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden refuses to say whether he would support expanding Supreme Court"
-    excerpt: "Democratic nominee Joe Biden refused on Sunday to answer a question about whether he’d back expanding the Supreme Court to have more justices."
-    publishedDateTime: 2020-09-27T18:48:00Z
-    webUrl: "https://thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme"
-    ampWebUrl: "https://thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_09252020gn.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden has foreign policy ideals that can work in this chaotic world"
-    excerpt: "On trade policy, Biden supported the North American Free Trade Agreement and also promoted the Trans Pacific Partnership. The latter, which Hillary Clinton and Trump both opposed in 2016, sought to elevate standards for free trade on issues like labor rights,"
-    publishedDateTime: 2020-09-28T15:00:00Z
-    webUrl: "https://thehill.com/opinion/international/518548-joe-biden-has-foreign-policy-ideals-that-can-work-in-this-chaotic-world"
-    ampWebUrl: "https://thehill.com/opinion/international/518548-joe-biden-has-foreign-policy-ideals-that-can-work-in-this-chaotic-world?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/518548-joe-biden-has-foreign-policy-ideals-that-can-work-in-this-chaotic-world?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_03122020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Beto O’Rourke says Texas is ‘Joe Biden’s to lose’"
-    excerpt: "O'Rourke argued that public polling tends to underestimate Democratic performance in Texas, pointing to results from his 2018 Senate race, and Hillary Clinton in 2016."
-    publishedDateTime: 2020-09-29T23:43:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/33/41/20035650/3/rawImage.jpg"
-        width: 2048
-        height: 1283
+      - url: "https://i.insider.com/5f77304f0ab50d00184adc56?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Joe Biden to Democrats: Keep focus on health care, not expanding Supreme Court"
     excerpt: "The former vice president sidestepped any talk of expanding the court to counter conservative gains should he win in November and Democrats regain a Senate majority."
@@ -141,281 +93,164 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
-    excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
-    publishedDateTime: 2020-09-20T10:37:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
+  - title: "Democratic Armed Services chairman predicts defense budget fight if Biden wins"
+    excerpt: "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win."
+    publishedDateTime: 2020-10-01T23:46:00Z
+    webUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins"
+    ampWebUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 119
+      name: The Hill
+      domain: thehill.com
+    quality: 121
     images:
-      - url: "https://www.chicagotribune.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/smithadam_070920gn2_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Joe Biden is betting big on climate change. Can he grow the economy at the same time?"
-    excerpt: "The former vice president is calling for $2 trillion in federal spending over the next four years to get the United States on the path to eliminating carbon emissions by mid-century — likely requiring massive shift away from oil and other fossil fuels."
-    publishedDateTime: 2020-09-25T11:50:00Z
-    webUrl: "https://www.houstonchronicle.com/business/energy/article/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
-    ampWebUrl: "https://www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
+  - title: "Democratic nominee Joe Biden campaigns in Michigan after testing negative for coronavirus"
+    excerpt: "The former vice president delayed his scheduled trip to the battleground state in order to take two coronavirus tests Friday morning."
+    publishedDateTime: 2020-10-03T01:39:00Z
+    webUrl: "https://www.cnbc.com/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 116
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106712128-16007764692020-09-21t201730z_1749449824_rc283j97mwkc_rtrmadp_0_usa-election-biden.jpeg?v=1600776508"
+        width: 3500
+        height: 2334
+        isCached: true
+  - title: "Biden to Proud Boys: 'Cease and desist'"
+    excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
+    publishedDateTime: 2020-09-30T21:01:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20200930&i=OVCXVZ5CV&r=OVCXVZ5CV&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Joe Biden tests negative for coronavirus"
+    excerpt: "Democratic presidential nominee Joe Biden said he and his wife Jill tested negative for coronavirus on Friday. “I’m happy to report that Jill and I have tested negative,” Biden said on Twitter. “Thank you to everyone for your messages of concern."
+    publishedDateTime: 2020-10-03T12:22:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Joe-Biden-tests-negative-for-coronavirus-15616211.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: houstonchronicle.com
-    quality: 118
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/25/63/20012285/3/375x250.jpg"
-        width: 371
-        height: 250
-        isCached: true
-  - title: "Column: Why hasn’t Joe Biden said no to Democratic threats to pack the Supreme Court?"
-    excerpt: "Will Joe Biden’s stubborn insistence that Americans “don’t deserve” to know where he stands on packing the Supreme Court cost the Democrats in the Nov. 3 election? At issue are numerous Democratic threats — if they win the White House and control of the Senate — to increase the number of Supreme Court justices and ram liberal policy into law that they otherwise couldn’t dream of getting through Congress."
-    publishedDateTime: 2020-10-14T10:11:00Z
-    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-supreme-court-packing-kass-20201014-mjrk3l5jrfhr7gxcek5hpmw4mi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-supreme-court-packing-kass-20201014-mjrk3l5jrfhr7gxcek5hpmw4mi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-supreme-court-packing-kass-20201014-mjrk3l5jrfhr7gxcek5hpmw4mi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 118
-    images:
-      - url: "https://www.chicagotribune.com/resizer/EFpE-l1_doR_Krl2sN4pfnfCxzU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DIVH4UMLJTUVGP4FLOOPFCY3GQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joe Biden's plans to hike taxes for rich Americans will be key for markets if he wins the election, a strategist says"
-    excerpt: "Robertson said markets will factor in whether Biden's tax plans pressure domestic equities and credit markets at the expense of foreign markets."
-    publishedDateTime: 2020-09-30T11:31:00Z
-    webUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5f745c180ab50d00184ad34d?format=jpeg"
-        width: 3500
-        height: 1750
-        isCached: true
-  - title: "The Energy 202: Joe Biden walks political tightrope by saying he does not support the Green New Deal"
-    excerpt: "The former vice president has spent months reconciling the climate demands of his party’s liberal and moderate wings."
-    publishedDateTime: 2020-09-30T12:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HYTZNXAC4II6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 1118
-        isCached: true
-  - title: "Joe Biden speaks about Supreme Court in Philadelphia"
-    excerpt: "Democratic presidential nominee Joe Biden is expected to make remarks in Philadelphia, two days after the death of Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-20T18:33:00Z
-    webUrl: "https://www.washingtonpost.com/video/national/joe-biden-speaks-about-supreme-court-in-philadelphia/2020/09/20/a04eccb1-7423-4c53-ba27-4b91cd99d5fb_live.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/09-20-2020/t_9297af0036cb4b3399eab29fba386abf_name_20200911_biden_jabin_thumb.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
+      - url: "https://s.hdnux.com/photos/01/14/37/26/20051343/5/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "Joe Biden tells white supremacist groups to 'cease and desist' – video"
-    excerpt: "Joe Biden warned white supremacist groups including the Proud Boys, an extremist rightwing group, to 'cease and desist'"
-    publishedDateTime: 2020-09-30T21:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/sep/30/biden-trump-proud-boys-white-supremacists-cease-and-desist?ref=hvper.com"
+  - title: "'He's from here': Biden and the battle for Scranton"
+    excerpt: "Biden and the battle for Scranton. Posted . Democratic presidential nominee Joe Biden's hometown of Scranton, Pennsylvania has become one of the cent"
+    publishedDateTime: 2020-10-06T18:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2xd?now=true"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://i.guim.co.uk/img/media/2c96dc4c3432c3b225914fc3d1566fe0e60f6cff/0_97_6214_3731/master/6214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf33728528f043a1130adf56f1ec6fd1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Leaked internal memos reveal the Democratic plan to use the battle over RGB's replacement to Joe Biden's advantage"
-    excerpt: "Talking points urge congressional Democrats to highlight the stakes for healthcare as they fight the GOP over filling a SCOTUS seat."
-    publishedDateTime: 2020-09-25T15:28:00Z
-    webUrl: "https://www.businessinsider.com/democrats-healthcare-pelosi-schumer-scotus-ginsburg-rbg-obamacare-2020-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/5f6d060f0f4d550011032355?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden’s low-key campaign style worries some Democrats"
-    excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is"
-    publishedDateTime: 2020-09-26T23:55:00Z
-    webUrl: "https://www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/"
-    ampWebUrl: "https://www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/AP20269061560469.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Joe Biden Is an Overhyped Debater"
-    excerpt: "Throughout Biden’s shaky 2020 Democratic primary debate performances, observers remarked that this wasn’t the same guy we saw debating Paul Ryan years ago."
-    publishedDateTime: 2020-09-29T15:47:00Z
-    webUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/"
-    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/08/Joe-Biden-1-DNC-scaled.jpg?resize=300%2C300&ssl=1"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Joe Biden: 'I am the Democratic Party right now'"
-    excerpt: "Joseph R. Biden declared Tuesday that he is effectively the Democratic party to try to rebut President Trump’s claim that he’d push a health proposal that would kick 180 million Americans off their private health insurance plans."
-    publishedDateTime: 2020-09-30T03:01:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/29/joe-biden-i-am-democratic-party-right-now/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/29/joe-biden-i-am-democratic-party-right-now/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/29/joe-biden-i-am-democratic-party-right-now/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/29/Election_2020_Debate_44204.jpg-74e82_c0-209-4955-3099_s1200x700.jpg?997af342a35fcecbf52c74f7b08e1f8b029a3b03"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "What California’s COVID approach could teach the country if Joe Biden wins"
-    excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."
-    publishedDateTime: 2020-09-20T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 73
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/6fca8008-5399-473b-9c15-ae69e818d75a/main/1280x720/1m2s741ms/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
-    excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
-    publishedDateTime: 2020-09-20T22:28:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 69
-    images:
-      - url: "https://www.courant.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx"
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7c7fa6e4b04f7ff7c2adc5-1601994662901?location=LANDSCAPE"
         width: 1200
         height: 675
         isCached: true
-  - title: "‘Joe Biden has no ground game in Florida.’ Will Mike Bloomberg’s money change that?"
-    excerpt: "Progressive activists backing Joe Biden in Florida say they’ve made millions of phone calls, sent hundreds of thousands of text messages and even written thousands of letters to convince voters to support the Democratic presidential nominee."
-    publishedDateTime: 2020-09-24T10:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article245936375.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article245936375.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245936375.html"
+  - title: "Joe Biden releases 2019 returns, paid nearly $300,000 in taxes"
+    excerpt: "Democratic presidential nominee Joe Biden released his 2019 tax returns hours before the first debate with President Donald Trump, showing that he paid $299,346 in income taxes in 2019."
+    publishedDateTime: 2020-09-29T17:07:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 69
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/63f0cd1c-aa82-41aa-9299-fa4254e9cb80/6c7afb92-5477-477c-8802-a3b7875f288f/1280x720/match/image.jpg"
-        width: 1280
-        height: 718
-        isCached: true
-  - title: "Could Joe Biden Win Georgia? Democratic Nominee Launches Ad Blitz In Southern Battleground State"
-    excerpt: "Democratic nominee Joe Biden unveiled new ads in Georgia, targeting African-Americans in the battleground state."
-    publishedDateTime: 2020-09-22T00:51:00Z
-    webUrl: "https://www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482"
-    ampWebUrl: "https://www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/20/democratic-presidential-nominee-and-former-vice-president-joe.jpg"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/Election_2020_Biden_70169-2.jpg?w=1024&h=683"
         width: 1024
-        height: 681
+        height: 683
         isCached: true
-  - title: "Ex-husband says Jill Biden 'betrayed' him by cheating on him with Joe Biden; Biden camp denies it"
-    excerpt: "The ex-husband of Jill Biden has accused her of breaking up their marriage by cheating on him with then-Sen. Joseph R. Biden, a bombshell claim that the Biden campaign adamantly denies."
-    publishedDateTime: 2020-09-24T07:01:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/"
+  - title: "Michelle Obama: 'Vote for Joe Biden like your lives depend on it'"
+    excerpt: "Former first lady Michelle Obama launched a 24-minute campaign video for Joe Biden on Tuesday, slamming President Trump and urging Americans to vote for the Democratic presidential nominee like their “lives depend on it."
+    publishedDateTime: 2020-10-06T20:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
     type: article
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 62
+    quality: 75
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/14/Election_2020_Biden_75896.jpg-f0c03_c0-0-5812-3390_s1200x700.jpg?e08503a716ce7b17cc9f3907f086fb5a345c64c9"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/06/michelle_obama_c20-0-880-502_s1200x700.jpg?fb980a6d3389ca7cc435a478cad5a7e1c62b1a57"
         width: 1200
         height: 700
         isCached: true
-  - title: "FACT CHECK: Joe Biden’s false and exaggerated Supreme Court claims"
-    excerpt: "In remarks following the death of Associate Justice Ruth Bader Ginsburg, Democratic presidential nominee Joe Biden made several false and exaggerated claims while arguing that the Senate should wait until after the Nov."
-    publishedDateTime: 2020-09-24T03:04:00Z
-    webUrl: "https://www.chron.com/news/article/FACT-CHECK-Joe-Biden-s-false-and-exaggerated-15587948.php"
+  - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
+    excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
+    publishedDateTime: 2020-09-29T22:50:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2020/09/29/fact-check-allegations-joe-biden-wearing-earpiece-false/3578805001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3578805001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3578805001"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 67
     images:
-      - url: "https://s.hdnux.com/photos/01/14/22/54/19999550/5/rawImage.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Joe Biden Will Create Commission on Supreme Court Reforms if Elected"
-    excerpt: "The Democratic presidential nominee has been repeatedly pressed to give his position on ‘court packing’ but said his commission would study options ‘well beyond’ court expansion."
-    publishedDateTime: 2020-10-22T13:22:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
+  - title: "M. Night Shyamalan Teams Up with Joe Biden Campaign for Filmmaking Contest to Encourage Voting"
+    excerpt: "We really feel this is an important way that all of us can be a part of this incredible moment in history,” M. Night Shyamalan said of the contest"
+    publishedDateTime: 2020-10-01T19:05:00Z
+    webUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/"
+    ampWebUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 63
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B405%2C380%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F01%2FM-Night-Shyamalan-Joe-Biden.jpg"
+        width: 1500
+        height: 785
+        isCached: true
+  - title: "Joe Biden, Jill Biden Test Negative for Coronavirus"
+    excerpt: "The negative test results for the Democratic presidential nominee come hours after President Donald Trump received a positive diagnosis."
+    publishedDateTime: 2020-10-02T17:47:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-02/joe-biden-jill-biden-test-negative-for-coronavirus"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-02/joe-biden-jill-biden-test-negative-for-coronavirus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-02/joe-biden-jill-biden-test-negative-for-coronavirus?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Joe Biden tests negative for coronavirus before events in Grand Rapids"
+    excerpt: "Democratic presidential nominee Joe Biden and his wife Jill Biden tested negative for the coronavirus Friday morning, hours before he is scheduled to campaign in Michigan. Bidens"
+    publishedDateTime: 2020-10-03T04:25:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 35
 
 secured: "IDQZ/F6Yu7Z6nGuHlIxk9Y1c2t6jqXIhmz68R9rUpKmDr9GlHbGYWutYuCUig3d8LuU3Zt4/ACdR2vf6Kfa8elHqZmoJVR8Elu2K0cWVFWkKpSs/4Tr8BKlOW1bliwWUcJhTvKxWStFlfyrXhafHeRPxnekrTh0XZfPRRv70wg9JzYEx0dwQUp06Lqoih2gA2nWhePa4yTBrP4lIPFnVHpdzT+nIXHLuI51vTmYUsfqgx7fLewCiWqMN/Q9RVuWNlupbHeb/cm5tSgY0M95ysoR5ZNpXmn0rlBJyefWaErytzsMvHe+kEDLKpjVWk/2amRj4kPkYAWNg6QUlJALdgVEORjvn5fCN3kemaisw0zUuGM3jruHUd9oEXbiz5F2howL2P1CZV9taPUfs4lT04wkIJb71MGDLHE7Mhdi1c6/IMIeZYjrsc0jzFX77CSgW0R2iTN7OnCCm85/wmnPu9uVnuVkMk3qoDKc3+5JqIR5IMgRWVmQpxJsJwMmESBKn0LBqLmJ3torjpkwFC9pIkQ==;TLhTET2TkZocJlZZ1ZIamQ=="
 ---

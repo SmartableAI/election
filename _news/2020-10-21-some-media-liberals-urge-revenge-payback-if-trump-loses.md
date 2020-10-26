@@ -158,6 +158,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New York State Republican Candidates Fight Shadow of Trump"
+    excerpt: "GOP candidates hoping to roll back gains made by New York Democrats in 2018 are trying to differentiate themselves from President Trump."
+    publishedDateTime: 2020-10-25T23:26:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-state-republican-candidates-fight-shadow-of-trump-11603666800?mod=hp_featst_pos3"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-state-republican-candidates-fight-shadow-of-trump-11603666800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-state-republican-candidates-fight-shadow-of-trump-11603666800"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-248736/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "m5Ckg1tJnA4D9gFdvzxEEmoIspQX8Rhl+HXqlxktOddha9JSCjbbqkw9YvbGjfPuW/Se4PLcI4n4PRBHVlvzYLMcj/g212sUk+ulFuwpZn4cTohvLoZE3Mk5V21+kARN7v1twwomZs/kf7ZD/3Q3WIsTxdCUKVBwePcnyyYUkETlT8gTKAZhO+Y8cp0E+X91852JVtz+CucUiN3j8XC/wbuEJ6YKXpPlVT5s4OuVekq/yKo8tMVdAbZ+AaGtKtQydnZDfGymxLIjYHqN/AKGUqmQ69WHNjcjmAEHAvAgbQUKDC4VimycAA4IvLrtFtY5S+Er+57DJkMYJ5KymoCPofU+HMMcA4SHUon6XT+hYwk=;78ejQxuFE5V1eVpJRShcQw=="
 ---

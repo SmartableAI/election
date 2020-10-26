@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump: Barron 'free' of coronavirus"
-    excerpt: "The president was using his son to underscore his frequent argument that kids have less serious cases of the coronavirus and should be back in school. (Oct. 14)"
-    publishedDateTime: 2020-10-15T01:40:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/15/trump-barron-free-coronavirus/3660232001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fc79aa69-ab33-42c5-8465-fe58960ba183_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Trump claims he is now immune to the coronavirus and has 'a protective glow' — but the science is not that simple"
     excerpt: "The president said on Sunday he now has \"a protective glow\" — a concept which does not appear in medical or scientific research about the coronavirus."
     publishedDateTime: 2020-10-12T02:11:00Z
@@ -76,6 +62,20 @@ related:
       - url: "https://i.insider.com/5f83204cbab422001979aa7c?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
+        isCached: true
+  - title: "Trump Campaign Manager, Kellyanne Conway Are Latest To Test Positive For Coronavirus"
+    excerpt: "Stepien took over Trump's campaign in July and attended the debate on Tuesday. Although Conway no longer works at the White House, she recently attended an event at the Rose Garden."
+    publishedDateTime: 2020-10-03T08:31:00Z
+    webUrl: "https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/03/919821048/trump-campaign-manager-kellyanne-conway-are-latest-to-test-positive-for-coronavi"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 98
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/03/ap_20233729964769_wide-8408f37dfac959679b411484ec8fbc0d2fa04d50.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
     excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
@@ -93,33 +93,31 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Eric Trump, Vice President Mike Pence to visit Pa. Friday, Saturday"
-    excerpt: "Eric Trump is hosting several campaign events for his father President Donald Trump in Pennsylvania Friday and Saturday. There is a Catholics for Trump event"
-    publishedDateTime: 2020-10-16T09:18:00Z
-    webUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/"
-    ampWebUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
+  - title: "A Fox News host has cast Trump as a war hero who got the coronavirus because he 'put himself on the line'"
+    excerpt: "Fox News host Greg Gutfeld compared Trump's coronavirus diagnosis to a solider's sacrifice on the battlefield while speaking on \"The Five\" talk."
+    publishedDateTime: 2020-10-03T11:31:00Z
+    webUrl: "https://www.businessinsider.com/fox-news-host-greg-gutfeld-trump-covid-19-for-us-2020-10"
     type: article
     provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 90
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+  - title: "Trump Suffering From 'Severe' Case of Coronavirus? Doctors Question Use Of Dexamethasone"
+    excerpt: "Medical experts are concerned about the president's use of dexamethasone, a steroid normally reserved for more serious cases."
+    publishedDateTime: 2020-10-05T05:32:00Z
+    webUrl: "https://www.ibtimes.com/trump-suffering-severe-case-coronavirus-doctors-question-use-dexamethasone-3056687"
+    ampWebUrl: "https://www.ibtimes.com/trump-suffering-severe-case-coronavirus-doctors-question-use-dexamethasone-3056687?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-suffering-severe-case-coronavirus-doctors-question-use-dexamethasone-3056687?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 66
     images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/07/0b4e231f4016435c96a9d4630ea6f691.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/donald-trump-tweeted-from-hospital-calling-for-us.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 75
 
 secured: "+XLeVJVY3fWHRz5LksIme5GDAFFeV1t/7SDqF68lE+1bd9iYDjOrZy678pfJbJqky2AyBcrpz4+PzsipD/ityrZGozBYTQ5aHv+DmJlad4dHA/Z4/FSVXwtKrdpE6edHBQzieturImsVK6/A/9lXKRBrnRh4/1lNtWHQ3LbFPv4td0oKDuqUXrrgXITf2L6P7BGuqwzYm9iBjjka+sW1M/F8U/GjZEa3Om0N9SmA18Xgt95T6CYc9y5Rr4LpKEZvTIikbzCx7PpsIowXFNnu9PPP8XngwcE7Myzyxg0CzzdKfAF4dTZqhU1hzRxBA3hPIm4JFiWdLIKmdN6Gvl4/iij0BH7dIPXQjI1EHZjtBEyVmgb59Imh+UGAl20r5WX237HhH24sbc/8hUXy3OsT2oyj4OnPHcHKPBC009YN2oSj4lp2+z/aUU8pjnYnY5WYQp8v1RwS5R4Deds3A5bETm9zQq9VukEx1ER1uKTeIBKV+8YqctgLVdH507GJgxOdXrj/Vw37o+MeUbhfMRYD/A==;OmOwQDWwqFKkTs6YyZeaSg=="
 ---

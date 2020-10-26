@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
 type: article
 quality: 75
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Times
@@ -27,17 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden: Vacancy about health law, not court expansion | Charlotte Observer"
-    excerpt: "Democratic presidential candidate Joe Biden says the GOP’s push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law."
-    publishedDateTime: 2020-09-28T07:53:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article246048190.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article246048190.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article246048190.html"
+  - title: "Joe Biden makes plea to GOP Senators to 'take a step back from the brink' and hold off on Amy Coney Barrett vote"
+    excerpt: "The Democratic presidential nominee urged the GOP to \"take off the blinders of politics for just one critical moment\" in pushing a Supreme Court vote."
+    publishedDateTime: 2020-09-27T18:22:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9?amp"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 52
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5f70c83b74fe5b0018a8dae8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Judge Amy Coney Barrett Meets with Vice President Pence and Majority Leader McConnell"
     excerpt: "Senate Majority Leader Mitch McConnell (R-KY) met with Supreme Court nominee Judge Amy Coney Barrett on Capitol Hill. As part of the confirmation process, it is customary for the nominee to meet with senators individually."
     publishedDateTime: 2020-09-29T14:50:00Z

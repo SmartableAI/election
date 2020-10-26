@@ -998,6 +998,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Voters ask who abandoned Scranton, Biden or Trump?"
+    excerpt: "In the city that’s become an emblem of the stakes in the 2020 race, people debate which of two would-be saviors has forsaken them."
+    publishedDateTime: 2020-10-25T23:16:00Z
+    webUrl: "https://www.politico.com/news/2020/10/25/scranton-election-biden-trump-pennsylvania-432062"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/0e/94/29fec0e84d899dfd5b66d0d7a7d0/201023-scranton-voters-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Three-quarters of Latino voters disapprove of Trump's coronavirus response in poll"
     excerpt: "\"After seven weeks of tracking Latino sentiments leading up to the election, it is difficult to overstate the impact that COVID-19 has had on the Latino electorate,\" writes pollster Stephen Nuño-Perez."
     publishedDateTime: 2020-10-22T12:48:00Z

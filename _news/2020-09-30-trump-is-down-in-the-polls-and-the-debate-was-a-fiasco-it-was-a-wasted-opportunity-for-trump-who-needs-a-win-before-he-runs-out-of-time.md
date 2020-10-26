@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Thousands march in Washington to pray and show Trump support"
+    excerpt: "Thousands of people have packed the National Mall in downtown Washington to pray and show their support for President Donald Trump"
+    publishedDateTime: 2020-09-27T03:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a3581d4df1d94cf4a23bbeb57c97e7f4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Report: Trump Only Paid $750 In Taxes For 2016 And 2017"
+    excerpt: "President Donald Trump paid only $750 in federal income taxes for the years 2016 and 2017, as he successfully ran his 2016 campaign for president and began his first term as president of the United States,"
+    publishedDateTime: 2020-09-27T21:40:00Z
+    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/09/27/report-trump-only-paid-750-in-taxes-for-2016-and-2017/"
+    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/09/27/report-trump-only-paid-750-in-taxes-for-2016-and-2017/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/09/27/report-trump-only-paid-750-in-taxes-for-2016-and-2017/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7105d855aff0c713144243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D55%26cropY2%3D3430"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump said Portland's sheriff supports him. The sheriff disputes that."
     excerpt: "\"In tonight's presidential debate the President said the 'Portland Sheriff' supports him. As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,\" Sheriff Mike Reese tweeted."
     publishedDateTime: 2020-09-30T11:31:00Z
@@ -47,53 +79,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump family, aides flouted Cleveland hotel mask mandate ahead of debate"
-    excerpt: "Hours before they were seen watching Tuesday's presidential debate without masks in violation of safety protocols, members of President Donald Trump's family, campaign staff and White House team also flouted a mask mandate at a hotel frequented by visitors to Cleveland Clinic."
-    publishedDateTime: 2020-10-04T00:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
+  - title: "How Donald Trump Took Down Bonwit Teller, A Fifth Avenue Landmark"
+    excerpt: "When a young Donald Trump wanted to locate his Trump Tower on Fifth Avenue, he targeted and purchased the famous Bonwit Teller apparel store. But the store's demolition drew controversy as several pieces of art,"
+    publishedDateTime: 2020-10-03T13:03:00Z
+    webUrl: "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
+      name: Forbes
+      domain: forbes.com
+    quality: 105
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-mask_hpMain_20201003-193502_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "7 crucial questions Trump's doctor has declined to answer — and what he said instead"
-    excerpt: "We don't know for sure when Trump's last negative test was, whether he's received supplemental oxygen, how how high his fever has gotten."
-    publishedDateTime: 2020-10-03T21:24:00Z
-    webUrl: "https://www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
-    images:
-      - url: "https://i.insider.com/5f78c360282c500018c78754?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "Trump and aides oppose debate rule changes and hint they could put future debates at risk"
-    excerpt: "Donald Trump's re-election campaign opposes plans to put in place new rules for his next two debates with Democratic challenger Joe Biden."
-    publishedDateTime: 2020-10-01T23:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/trump-campaign-president-may-boycott-debates-biden/5884750002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5884750002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884750002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/aa10e6f7-8da7-4efd-b579-d8a503f84d0f-AP_Election_2020_Debate.jpg?auto=webp&crop=5563,3130,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76773dd654b423dfece1b5%2F0x0.jpg"
+        width: 1199
+        height: 797
         isCached: true
   - title: "‘I have never supported Donald Trump’: Portland-area sheriff hits back after president claims his endorsement in debate"
     excerpt: "\"As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,” Sheriff Mike Reese tweeted."

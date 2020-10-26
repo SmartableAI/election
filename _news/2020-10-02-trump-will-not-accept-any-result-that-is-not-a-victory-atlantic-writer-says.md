@@ -7,7 +7,7 @@ originalUrl: "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any
 webUrl: "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says"
 type: article
 quality: 100
-heat: 100
+heat: 120
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1400
     height: 787
     isCached: true
+
+related:
+  - title: "A look at how the Atlantic City disaster may have set Trump up to pay nothing in taxes for years"
+    excerpt: "A key provision under US tax law known as \"abandonment\" may have been Trump's ticket to a $72.9 million tax refund after leaving his casino business."
+    publishedDateTime: 2020-10-07T15:18:00Z
+    webUrl: "https://www.businessinsider.com/how-atlantic-city-disaster-casinos-hotels-trump-pay-no-taxes-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5f7cdca294fce90018f7b82b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "iXFO3mAgRjZ0Yee7yOyhglyXEwm/GBVGfY3q9P6ClSNleZbROfxNbXkt6bwSIrCAQF47+4CXKNNCKtn4J98dgU3vUXT3gDGMVNgFJhKUHHumkKuKajahj57VXKemm+TDgZ47R1+pdmE9WOdH5rY5z8utuvQ9CAS3SSp0uuT4sbizjIYRV2y4TMC33AWRdVlJ6W1Yk2ARooTSbyssPySuN81ot2aHgUa1ajV8Zo3TPZXHLCSg0pGcQwgDanC+W97aO0a3D7hfum7fMN1M1NjLVL95EtKaiG1rQyT8s+MMmMzUbxn3CnjJ2pxY7XxLiBE/6x9EAKTzIMMUbHZ+yoPPVSWu0pAcqgaKqe2a890oob8=;E5cufWQFhh6Jiz4hNIWlgw=="
 ---

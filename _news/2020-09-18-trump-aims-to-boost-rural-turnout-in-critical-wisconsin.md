@@ -25,243 +25,472 @@ topics:
   - Donald Trump
 
 related:
-  - title: "WATCH LIVE: President Donald Trump holds Wisconsin rally"
-    excerpt: "President is slated to hold a rally in Mosinee, Wis., on Thursday evening. The event is scheduled to begin at 9 p.m. EDT. Watch the live video above.  Tags Wisconsin Trump rally 2020 campaign 2020 ele"
-    publishedDateTime: 2020-09-18T01:06:00Z
-    webUrl: "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally"
-    ampWebUrl: "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald2_09112020.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Watch live: Biden gives remarks from Duluth, Minnesota"
-    excerpt: "Democratic presidential nominee Joe Biden is slated to give remarks in Duluth, Minn., on Friday after touring a local union training center.The event is scheduled to begin at 3:45 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-09-18T19:16:00Z
-    webUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta"
-    ampWebUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/newsletter-biden_091020getty.jpg"
-        width: 580
-        height: 391
-        isCached: true
-  - title: "Watch live: Biden gives remarks from Duluth, Minnesotta"
-    excerpt: "Democratic presidential nominee Joe Biden is slated to give remarks in Duluth, Minn., on Friday after touring a local union training center.The event is scheduled to begin at 3:45 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-09-18T19:16:00Z
-    webUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta"
-    ampWebUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/newsletter-biden_091020getty.jpg"
-        width: 580
-        height: 391
-        isCached: true
-  - title: "Japan's Suga holds 1st phone talks with Trump as leader"
-    excerpt: "Japan’s Prime Minister Yoshihide Suga held his first talks with U.S. President Donald Trump since he took office, a diplomatic phone call that was one of his first as the country’s leader and one that"
-    publishedDateTime: 2020-09-21T03:34:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314"
+  - title: "Trump backs proposed deal to keep TikTok operating in US"
+    excerpt: "President Donald Trump says he’s given his “blessing” to a proposed deal that would see the popular video-sharing app TikTok partner with Oracle and Walmart and form a U.S. company"
+    publishedDateTime: 2020-09-20T02:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_fccbc16f8d65453ab031c7b6b3cba13d_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Business/WireAP_4dc911637176420589fa2c420c7839b1_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "WATCH LIVE: Trump speaks at campaign rally in Swanton, Ohio"
-    excerpt: "Republican strategists say Trump has lost support in suburbs across the state he carried in 2016, prompting debate among Republicans about whether his rural outreach can offset the continued decline in metro areas."
-    publishedDateTime: 2020-09-21T18:06:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/07/main10-1024x693.jpg"
-        width: 1024
-        height: 693
-        isCached: true
-  - title: "Dear Donald, Dear Mr. President: A Trump-Nixon '80s tale"
-    excerpt: "So it went, the patter of “Dear Donald” and “Dear Mr. President.” Trump, putting his usual self-congratulatory stamp on the exchanges, said shortly after the 2016 election that he didn't know Nixon “but he would write me letters."
-    publishedDateTime: 2020-09-23T14:29:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_31626c15fafe4dc49bd2bf7de674898c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump seeks to energize rural voters key to 2016 success in Wisconsin campaign rally"
-    excerpt: "Kicking off three days of campaigning, Trump will speak to supporters at an airport in Mosinee, Wisconsin, a state he won by less than 1 point in 2016."
-    publishedDateTime: 2020-09-18T03:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/trump-looks-energize-rural-voters-wisconsin-campaign-rally/3488284001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3488284001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3488284001"
+  - title: "Trump has reportedly approved a TikTok, Oracle deal"
+    excerpt: "President Donald Trump reportedly said he has approved a bid by Oracle to take over TikTok's U.S. operations in a move that would mean the app beloved by American teens won't be b"
+    publishedDateTime: 2020-09-19T21:54:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/09/19/trump-has-reportedly-approved-tiktok-oracle-deal/5841717002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5841717002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5841717002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/10/25/USAT/f3a9189e-f0f9-492e-9177-afb69215955c-GettyImages-1073325568.jpg?auto=webp&crop=4503,2533,x187,y403&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Walmart and Oracle support Trump's idea for TikTok \"education fund\""
+    excerpt: "The financial contribution will come from the new company that emerges from the unusual transaction, called TikTok Global. The arrangement will allow the app to continue operating in the U.S. after the Trump administration threatened to ban it over national security concerns."
+    publishedDateTime: 2020-09-23T13:44:00Z
+    webUrl: "https://www.cbsnews.com/news/walmart-ticktok-buy-trump-education-fund/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/27/f14461ee-06d9-4ff0-89f7-79358338c2f2/thumbnail/1200x630g6/c8976c8c23af2f2ff66cee737b015f9d/gettyimages-1268141132.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump promoting health care 'vision' in swing state NC"
+    excerpt: "More than three-and-a-half years into his presidency and 40 days from an election, President Donald Trump is launching what aides term a “vision” for health care heavy on unfulfilled aspirations"
+    publishedDateTime: 2020-09-25T01:28:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_96e5292d978b4d8fb9822a8ed93a156b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Federal judge postpones Trump ban on popular app TikTok"
+    excerpt: "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. smartphone app stores around midnight"
+    publishedDateTime: 2020-09-28T09:14:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4e6ed43bd3c84a029309df15469bc11c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump gives \"blessing\" to U.S. TikTok partnership with Oracle and Walmart"
+    excerpt: "The president's support for a deal comes just a day after the Commerce Department announced restrictions could eventually make it nearly impossible for Americans to use the app."
+    publishedDateTime: 2020-09-20T03:24:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/27/f14461ee-06d9-4ff0-89f7-79358338c2f2/thumbnail/1200x630g6/c8976c8c23af2f2ff66cee737b015f9d/gettyimages-1268141132.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
+    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
+    publishedDateTime: 2020-09-19T08:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7"
+        width: 840
+        height: 545
+        isCached: true
+  - title: "Oracle And Walmart To Acquire 20% Stake In TikTok, Trump Gives His ‘Blessing’"
+    excerpt: "Oracle and Walmart have agreed to acquire a 20% stake in TikTok’s global business as part of a pre-IPO financing round, the ByteDance owned video-sharing platform announced in a press release on Saturday,"
+    publishedDateTime: 2020-09-19T23:58:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2020/09/19/oracle-and-walmart-to-acquire-20-stake-in-tiktok-trump-gives-his-blessing/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/09/19/oracle-and-walmart-to-acquire-20-stake-in-tiktok-trump-gives-his-blessing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/09/19/oracle-and-walmart-to-acquire-20-stake-in-tiktok-trump-gives-his-blessing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 122
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6699050e1e53b800f3bd8d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4156%26cropY1%3D187%26cropY2%3D2526"
+        width: 1199
+        height: 675
+        isCached: true
+  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
+    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
+    publishedDateTime: 2020-09-19T19:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit-idUSKBN26A0DP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534102774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I09K"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Donald Trump's campaign blew almost $1 billion and now they're in deep trouble"
+    excerpt: "Trump's reelection campaign started the day he was sworn into office on January 20th, 2017. Ever since then, the campaign has wasted $1 billion."
+    publishedDateTime: 2020-09-22T12:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f69f23a57b7da001ee12ff2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump bashes China at UN amid warnings against a world divided by two superpowers"
+    excerpt: "President Donald Trump on Tuesday bashed China in a videotaped address to the UN General Assembly despite warnings against a world divided by two superpowers."
+    publishedDateTime: 2020-09-22T20:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/unga-gty-rc-200922_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "TikTok has asked a federal judge to file an injunction halting Donald Trump's ban"
+    excerpt: "TikTok is asking a federal judge to issue a preliminary junction holding off Donald Trump's partial app ban set to take effect this weekend."
+    publishedDateTime: 2020-09-25T05:34:00Z
+    webUrl: "https://www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f40185342f43f001ddfe696?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Baldwin, Evers: Funding promised by Trump to help Kenosha can't be used to rebuild"
+    excerpt: "U.S. Sen. Tammy Baldwin and Gov. Tony Evers say money promised for Kenosha's recovery by the Trump administration could amount to much less than expected."
+    publishedDateTime: 2020-09-18T02:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/baldwin-evers-most-funding-promised-trump-kenosha-isnt-new/5823378002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5823378002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5823378002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/10/26/PMJS/65600655-d174-483c-966e-d9e15d7eeb6f-MJS_dems_obama_24_hoffman.jpg_DEMS_OBAMA.jpg?auto=webp&crop=5183,2915,x1,y286&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump backs proposed deal with TikTok where app would partner with Oracle and Walmart"
+    excerpt: "Trump said the proposed deal will result in a new company likely to be based in Texas and under the control of U.S.-based Oracle and Walmart."
+    publishedDateTime: 2020-09-19T23:34:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-nw-us-tiktok-oracle-walmart-trump-20200919-hrb23okgxfcbrnfjzeind4sqw4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-nw-us-tiktok-oracle-walmart-trump-20200919-hrb23okgxfcbrnfjzeind4sqw4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-nw-us-tiktok-oracle-walmart-trump-20200919-hrb23okgxfcbrnfjzeind4sqw4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/54d92870-8e8d-4892-8f4d-a87270cb1420-AP_Election_2020_Trump.jpg?auto=webp&crop=3497,1968,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/idvlzwuJq73RbvJ5Vm39VGB0K70=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SG4356SYJZS5Q3QGZPHW3BWMFQ.aspx"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Vice President Mike Pence heading back to Wisconsin for a stop in Eau Claire next week"
-    excerpt: "Pence is scheduled to visit Eau Claire Thursday, Sept. 24. It will be the third week in a row that he visits the Badger State."
-    publishedDateTime: 2020-09-21T14:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3478216001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3478216001"
+  - title: "TikTok’s Chinese Parent Counters Trump Claim On $5 Billion Payment To U.S. Government"
+    excerpt: "TikTok’s Beijing-based parent, ByteDance, has contested President Donald Trump’s claim that the company will pay a $5 billion fee to the U.S. government as part of a deal with Oracle and Walmart. According to a blog post on Chinese platform Toutiao titled “Clarifying false rumors about TikTok,"
+    publishedDateTime: 2020-09-21T11:22:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2020/09/21/tiktoks-chinese-parent-counters-trump-claim-on-5-billion-payment-to-us-government/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/09/21/tiktoks-chinese-parent-counters-trump-claim-on-5-billion-payment-to-us-government/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/09/21/tiktoks-chinese-parent-counters-trump-claim-on-5-billion-payment-to-us-government/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: Forbes
+      domain: forbes.com
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/14/PMJS/48bb709f-3781-4add-99e2-853dd592231c-MJS_PENCE_01_wood_PENCE-7.jpg?auto=webp&crop=4203,2365,x0,y646&format=pjpg&width=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f688b4697e5e6c97ccc92ad%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8256%26cropY1%3D419%26cropY2%3D5063"
         width: 1200
         height: 675
         isCached: true
-  - title: "How to Watch, Live Stream Trump's Tuesday Rally in Pennsylvania, a Crucial State for the President"
-    excerpt: "The Trump campaign hopes to pull off a repeat victory next month in securing all 20 of the state's electoral votes."
-    publishedDateTime: 2020-09-22T19:00:00Z
-    webUrl: "https://www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317"
-    ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317?amp=1"
+  - title: "Trump says he's given his 'blessing' to a proposed TikTok deal with Oracle and Walmart"
+    excerpt: "Trump said he \"approves a deal in concept\" that will allow TikTok to continue to operate in the United States under a deal with Oracle and Walmart."
+    publishedDateTime: 2020-09-19T23:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f66848f57b7da001ee12a56?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump Gives TikTok Deal 'His Blessing,' Promises It Will Involve $5B to Education Program"
+    excerpt: "President Donald Trump told reporters before leaving for Saturday's North Carolina rally that the deal will \"have nothing to do with China\" and will be \"totally secure.\""
+    publishedDateTime: 2020-09-19T21:42:00Z
+    webUrl: "https://www.newsweek.com/trump-gives-tiktok-deal-his-blessing-promises-it-will-involve-5b-education-program-1533112"
+    ampWebUrl: "https://www.newsweek.com/trump-gives-tiktok-deal-his-blessing-promises-it-will-involve-5b-education-program-1533112?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-gives-tiktok-deal-his-blessing-promises-it-will-involve-5b-education-program-1533112?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 111
+    quality: 116
     images:
-      - url: "https://d.newsweek.com/en/full/1639685/trump-pennsylvania-rally.jpg"
-        width: 594
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1639378/tiktok.jpg"
+        width: 2500
+        height: 1595
         isCached: true
-  - title: "President Donald Trump welcomes high school football players on stage at rally who carried thin blue/red flags"
-    excerpt: "President Trump brought the Little Miami High School football players who carried police and fire support flags on stage at a rally outside Toledo."
-    publishedDateTime: 2020-09-22T11:50:00Z
-    webUrl: "https://www.usatoday.com/story/sports/highschool/2020/09/22/little-miami-players-who-carried-thin-line-flags-stage-trump/5862815002/?ref=hvper.com"
-    ampWebUrl: "https://amp.usatoday.com/amp/5862815002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5862815002"
+  - title: "President Trump says $5 Billion from TikTok, Oracle, Walmart deal will go toward education"
+    excerpt: "President Donald Trump has signed off on a business proposal between TikTok, Walmart and Oracle that would allow the social networking app to continue to operate in the U.S. One o"
+    publishedDateTime: 2020-09-20T17:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/09/20/trump-says-5-billion-tiktok-deal-would-cover-history-project/5844936002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5844936002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844936002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "China Says TikTok Parent Company ByteDance Said It Had Only Learned About Trump Deal in the News"
+    excerpt: "The president has said he has agreed to a deal to allow the social media platform to continue operating in the United States."
+    publishedDateTime: 2020-09-20T09:13:00Z
+    webUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127"
+    ampWebUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1639411/tiktok.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "Oracle announces it will become a minority investor in TikTok Global after Trump indicates his approval"
+    excerpt: "The news is the latest development in the saga of TikTok, the viral video app which was pressured into selling itself to a US-based company."
+    publishedDateTime: 2020-09-19T23:29:00Z
+    webUrl: "https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f60e43c323fc4001e0d6469?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump doesn't want ByteDance to maintain control of TikTok - official"
+    excerpt: "U.S. President Donald Trump does not want China's ByteDance to maintain a controlling interest in TikTok because it could put Americans' personal information at risk, a senior administration official speaking on condition of anonymity said on Thursday."
+    publishedDateTime: 2020-09-18T01:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20200918&t=2&i=1533929903&r=LYNXMPEG8H02J&w=800"
+        width: 800
+        height: 491
+        isCached: true
+  - title: "Trump says he sees no reason to delay TikTok decision"
+    excerpt: "U.S. President Donald Trump said on Friday there was no need to delay a decision on a proposed deal for popular Chinese-owned social media app TikTok, adding he would be looking at it shortly."
+    publishedDateTime: 2020-09-18T21:39:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-tiktok-trump-deal-idUKKBN26934M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26934M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26934M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "ByteDance gets Trump nod to avoid TikTok shutdown"
+    excerpt: "U.S. President Donald Trump said on Saturday he supported a deal in principle that would allow TikTok to continue to operate in the United States, even as it appeared to conflict with his earlier order for China's ByteDance to divest the video app."
+    publishedDateTime: 2020-09-20T08:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-tiktok-idINKCN26B01L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20200920&t=2&i=1534163557&r=LYNXNPEG8J012&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Trump's Ohio suburb slide signals peril in industrial north"
+    excerpt: "Trump's chances for a second term rest heavily on being able to maintain the margins he won by in 2016, particularly in suburban areas. He plans to campaign outside Toledo on Mond"
+    publishedDateTime: 2020-09-21T13:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+  - title: "Trump pledges 'to protect' preexisting conditions"
+    excerpt: "President Donald Trump signed an executive order Thursday \"to protect\" preexisting conditions. But that right is already guaranteed in \"Obamacare,\" the health law his administration is asking the Supreme Court to overturn."
+    publishedDateTime: 2020-09-24T23:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/24/trump-pledges-to-protect-preexisting-conditions/3525093001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PCIN/b74366ce-49e5-477d-87f1-7f64aec7241e-0921_Trump_Little_Miami.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/56a5e206-70f2-4975-a525-2200e4922138_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Exclusive: Trump to block U.S. downloads of TikTok, WeChat on Sunday - officials"
+    excerpt: "The U.S. Commerce Department plans to issue an order Friday that will bar people in the United States from downloading Chinese-owned messaging app WeChat and video-sharing app TikTok starting on September 20,"
+    publishedDateTime: 2020-09-18T13:57:00Z
+    webUrl: "https://www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+  - title: "Oracle's TikTok deal earned Trump's approval, but the rollercoaster isn't over yet"
+    excerpt: "Trump approved Oracle's TikTok deal hours before the app was set to be banned, but it still needs approval from the US Treasury, and possibly China."
+    publishedDateTime: 2020-09-21T14:01:00Z
+    webUrl: "https://www.businessinsider.com/oracle-tiktok-deal-gained-approval-from-trump-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5f60e43c323fc4001e0d6469?width=1200&format=jpeg"
         width: 1200
-        height: 676
+        height: 600
         isCached: true
-  - title: "Mike Pence touts Donald Trump's Supreme Court pick at Wisconsin rally"
-    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
-    publishedDateTime: 2020-10-13T19:47:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
+  - title: "TikTok is now getting grilled by foreign lawmakers about its Chinese roots thanks to Trump"
+    excerpt: "It's unlikely politicians would be probing TikTok's Chinese roots if it wasn't for Trump."
+    publishedDateTime: 2020-09-25T11:52:00Z
+    webUrl: "https://www.businessinsider.com/tiktok-probed-australia-uk-chinese-roots-trump-2020-9"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 100
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/84/08445a8c-87a2-5c8a-9a36-c7fcbd793e7e/5f8603fe6cff5.image.jpg"
-        width: 512
-        height: 360
+      - url: "https://i.insider.com/5f69ec31323fc4001e0d7a7c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Pence touts Trump's Supreme Court pick at Wisconsin rally"
-    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
-    publishedDateTime: 2020-10-13T19:22:00Z
-    webUrl: "https://www.chron.com/news/article/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
+  - title: "TikTok says it will fight the Trump administration's ban, and is calling on Facebook and other US social media companies to support its litigation"
+    excerpt: "The Trump administration said TikTok will be banned from US app stores starting Sunday, and banned from being hosted on US servers as of November."
+    publishedDateTime: 2020-09-18T15:57:00Z
+    webUrl: "https://www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 100
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://s.hdnux.com/photos/01/14/53/75/20102983/5/rawImage.jpg"
-        width: 1527
-        height: 2048
+      - url: "https://i.insider.com/5f64c85457b7da001ee12708?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "LIVE: VP Mike Pence speaks at rally in Wisconsin"
-    excerpt: "Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris have various events Monday."
-    publishedDateTime: 2020-09-14T16:08:00Z
-    webUrl: "https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/"
-    ampWebUrl: "https://www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
-    cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
+  - title: "TikTok Deal Sure Seems Like Another Bizarro Trump Fakeout"
+    excerpt: "Chinese-owned ByteDance, not Oracle and Walmart, will have a majority stake in the new U.S.-based TikTok company—terms that contradict the president’s claim that “it will have nothing to do with China."
+    publishedDateTime: 2020-09-21T17:41:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/tiktok-deal-sure-seems-like-another-bizarro-trump-fakeout"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/tiktok-deal-sure-seems-like-another-bizarro-trump-fakeout/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/tiktok-deal-sure-seems-like-another-bizarro-trump-fakeout/amp"
     type: article
     provider:
-      name: WCBD
-      domain: wrbl.com
+      name: Vanity Fair
+      domain: vanityfair.com
     quality: 75
     images:
-      - url: "https://www.wrbl.com/wp-content/uploads/sites/24/2020/09/C36A3610DDE940E2872044540DFEBF66.jpg?w=1280"
-        width: 1280
-        height: 720
+      - url: "https://media.vanityfair.com/photos/5f68c6f0ff5dee9bb494a549/master/pass/Donald-Trump.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Mike Pence highlights law and order during Wisconsin visit"
-    excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to \"law and order\" during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where sometimes violent protests erupted after the police shooting of Jacob Blake."
-    publishedDateTime: 2020-09-14T18:50:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html"
+  - title: "Trump Touts 'Fantastic' TikTok Deal With Walmart And Oracle"
+    excerpt: "Popular video app TikTok announced Saturday it has proposed an agreement with Oracle as its US technology provider and Walmart as a commercial partner, a potential deal US President Donald Trump touted as \"fantastic."
+    publishedDateTime: 2020-09-20T00:53:00Z
+    webUrl: "https://www.ibtimes.com/trump-touts-fantastic-tiktok-deal-walmart-oracle-3048628"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 75
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/1a/81a82209-647d-532f-b9f0-f1c1fcd628a4/5f5fbb9ba291e.image.jpg"
-        width: 512
-        height: 341
-        isCached: true
-  - title: "Pence highlights law and order during Wisconsin visit"
-    excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to “law and order” during a campaign stop Monday in swing state Wisconsin about 70 miles from"
-    publishedDateTime: 2020-09-14T18:10:00Z
-    webUrl: "https://omaha.com/news/national/govt-and-politics/pence-highlights-law-and-order-during-wisconsin-visit/article_6f0cc684-4292-59f7-b2ef-299c519621c5.html"
-    ampWebUrl: "https://omaha.com/news/national/govt-and-politics/pence-highlights-law-and-order-during-wisconsin-visit/article_6f0cc684-4292-59f7-b2ef-299c519621c5.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/pence-highlights-law-and-order-during-wisconsin-visit/article_6f0cc684-4292-59f7-b2ef-299c519621c5.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/96/496d4536-ec81-54cc-9113-70b14364a41d/5f5fce38a386e.image.jpg?resize=1024%2C682"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/19/us-president-donald-trump-has-targeted-video-sharing-AFP_8QC6CY.jpg"
         width: 1024
         height: 682
         isCached: true

@@ -215,6 +215,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "NYPD cop suspended for using loudspeaker to say 'Trump 2020' while on duty"
+    excerpt: "A New York police officer has reportedly been suspended without pay for using the department vehicle’s loudspeaker to proclaim his support for President Donald Trump’s 2020 campaign."
+    publishedDateTime: 2020-10-25T21:20:00Z
+    webUrl: "https://www.foxnews.com/us/nypd-cop-suspended-using-loudspeaker-trump-2020-on-duty"
+    ampWebUrl: "https://www.foxnews.com/us/nypd-cop-suspended-using-loudspeaker-trump-2020-on-duty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/nypd-cop-suspended-using-loudspeaker-trump-2020-on-duty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/NYPD.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'The Five' react to Trump challenging Dems to impeach him over Supreme Court pick"
     excerpt: "The political collision course over the Supreme Court is going forward. President Trump set to announce his nominee on Saturday, and Senate Republicans say they have the numbers to hold a vote.  The partisan infighting is just getting started."
     publishedDateTime: 2020-10-25T19:27:00Z

@@ -47,6 +47,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Global stocks rise as signs of Trump's improving health calm markets"
+    excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
+    publishedDateTime: 2020-10-05T04:27:00Z
+    webUrl: "https://www.reuters.com/article/global-markets-idINKBN26Q03N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26Q03N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26Q03N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536147605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400A"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "I’m aspiring to be anti-racist and patriotic. You can be both, President Trump."
+    excerpt: "Trump thinks racial sensitivity trainings teach people to hate America and make white people feel guilt and anguish. I must have missed that part."
+    publishedDateTime: 2020-10-06T09:22:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/06/patriotism-means-making-america-less-racist-more-fair-column/5878547002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5878547002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5878547002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/53fa91ef-4232-485a-a17b-bd3d20ce1dd5-AP_TV-Al_Jazeera_Video.JPG?auto=webp&crop=5183,2916,x0,y345&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In First Video From Hospital, Trump Says He Feels ‘Much Better,’ But Next Few Days Will Be ‘The Real Test’"
     excerpt: "President Donald Trump Saturday night said in a video from Walter Reed Medical Center he is feeling “much better now” after White House officials gave conflicting accounts about his condition throughout the day."
     publishedDateTime: 2020-10-03T23:54:00Z
