@@ -156,22 +156,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The Trump Boom Is Real"
-    excerpt: "The post-2009 recovery may look continuous, but Trump beat expectations while Obama fell short."
-    publishedDateTime: 2020-10-25T22:24:00Z
-    webUrl: "https://www.wsj.com/articles/the-trump-boom-is-real-11603659361"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-trump-boom-is-real-11603659361"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-boom-is-real-11603659361"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-249427/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Donald Trump Just Lost His Go-To Debate Move"
     excerpt: "On Monday night, the Commission on Presidential Debates unanimously approved a new rule for Thursday night's final debate that will make it virtually impossible for Donald Trump to be, well, Donald Trump."
     publishedDateTime: 2020-10-20T18:34:00Z

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Melania Trump to travel to Pennsylvania in final stretch of campaign"
+    excerpt: "First lady Melania Trump is hitting the campaign trail this week, traveling to Pennsylvania on Tuesday to speak directly to voters before they cast their ballots in the final stretch before Election Day."
+    publishedDateTime: 2020-10-26T12:47:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pYXosr2zN_g/melania-trump-travel-pennsylvania-campaign-trail"
+    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-travel-pennsylvania-campaign-trail.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-travel-pennsylvania-campaign-trail.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump heads to Pennsylvania for the second time in a week: What's at stake"
     excerpt: "President Trump is in Pennsylvania on Saturday for the second time in a week, in an effort to court some of the same rural and White working-class voters who supported him four years ago."
     publishedDateTime: 2020-09-26T14:24:50Z

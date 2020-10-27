@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Barrett Confirmation Vote in Washington, DC"
 excerpt: "Democratic presidential nominee Sen. Kamala Harris (D-Calif.) leaves the U.S. Capitol in Washington, D.C., after the Senate nomination vote of judge Amy Coney Barrett to be a Supreme Court Justice on Monday,"
 publishedDateTime: 2020-10-27T03:15:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/24278bd20f10249d545129bd9be90e98/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/24278bd20f10249d545129bd9be90e98/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/bd5448bc22d10f09fe46c349d8f947bc/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/bd5448bc22d10f09fe46c349d8f947bc/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/24278bd20f10249d545129bd9be90e98/BARRETT-VOTE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/bd5448bc22d10f09fe46c349d8f947bc/BARRETT-VOTE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1460,6 +1460,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "q+qbtaiqMlGcSc37gIUDCFwuHhHRmGsPVsKt6CtMNGirwvl2zBSZf9b97miQXtLQIXXUL7Q9slwTXNnDQumb1Ym3U6bN1d/DXo+JJTX6S6ysuecJXLOxZUq8HnvyLartpQhosjv8AUkcpvHqWJ08fZiOJCiAcTyZF3IdjGloZt3Vv847iYzgXgJdchQNOC5LXZu03OdJxtwUY7uDgvJjMhMRBFI0Ylb2GQ4xH0uoB6//GShTwqg5w//ONtyTpdwvPREZ/fcfSqaZgKvVL7wEWWuihHQHEkXG8pJsdMVL6z5N55FkD0MekZE/R84yb/N6ZQ2Abc/swOqkZ7r7LZm3+AXAwPyYnSa72hKjxB3zczdyCgkk3Waa6cQH6N3S1HNNAZwv7fymQoXEy6cN96k2lY+m3vse7acdIQNd55RqqozoghXZjW+L6tuGpxTcoKzUH1YpgOd3JyDezhc9+FSUZMONHhWEd3uHhVfA9pLuYbWcF8wy2G894kG4HUyBs9tlCMshqeK8TNR47eU0I0rfnA==;rSJ2ZrncT2kQ1A8WT2YZBg=="
+secured: "6RiXTi0hHXaU2k6Oz0HkBIoo4Q9oYRIfnmmSe6DrD6tr6NV/zwo9YG/6O8dnkQGiZFUjqDP1POw1upHI2gTSnalOjDLrktRVEg3epjZDm7bwQwrfMfR6zB1rUdfLcSiZ6OCIf25CeKQ24STb3Txpt6E1zAzNsqtSWUyA+30I2buc7190Phx4wr3GZ53x6aIbK8YlKrSwVpjjBlYk796IXzaE4O89XHfaq8hcnYgKTr5xnzKIGUYS5MpVtgrpHBBFBd9easTMyAqOCmbXJgyezzpNJzTderWU/HK5R88So6CDwH/noXYXVxwcEBHxJocqj0nHVzPNKyxYwsxIZB6MWBJntq3CggXT/LQW1Q1VfsA=;AYZCRa0Herl+cTE7hllhvg=="
 ---
 

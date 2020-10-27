@@ -608,6 +608,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump takes Supreme Court victory lap while deceiving nation over worsening pandemic "
+    excerpt: "President Donald Trump claimed a place in history Monday when Amy Coney Barrett's confirmation secured a dominant conservative majority on the Supreme Court, but the pomp of his victory lap could not disguise the reality of a pandemic that has placed his presidency in deep peril a week before the election.\n"
+    publishedDateTime: 2020-10-27T13:30:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tkf6RpxiZc8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/donald-trump-confirmation-amy-coney-barrett-joe-biden-election-2020-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/donald-trump-confirmation-amy-coney-barrett-joe-biden-election-2020-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026212321-06-wh-barrett-sworn-in-1026-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Courts Obama-Trump Voters as the President Seeks to Hold Them"
     excerpt: "The Democratic nominee, in Wisconsin, tried to place himself on the side of American workers, while Mr. Trump used a trip to Ohio to blame his opponent for job losses there."
     publishedDateTime: 2020-09-21T23:39:00Z

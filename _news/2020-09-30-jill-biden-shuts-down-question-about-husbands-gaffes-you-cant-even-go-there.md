@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Maureen Mackey: This key Joe Biden question needs to be asked early and often"
+    excerpt: "No wonder some Democrats are worried about Biden’s “lower key” approach to campaigning as we head towards Election Day."
+    publishedDateTime: 2020-09-25T17:25:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-election-maureen-mackey"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-election-maureen-mackey.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-election-maureen-mackey.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f4af1cf-4043-4290-be91-2834a8245f3f/ba96f20e-175b-4dc2-a52a-fa2b8ae8e10f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "m45tXvAyWuXoALPd4gB6nJUnt8z8H+PtM8y/rbmBAIYKhWu9JGKvPw6jb08CfKsNpW9/j80YzDjx5KyeqKFI7ORaZzR6odZ+0Gm4hQVTKmk4NpMXPutRRWUpHNWoifiLI5jYHPbA8qFxi8J4bEpHwu5j7MpuWI8D26oZ4b2ulp8IFy8aJAb8skBNAzP4Vy4CWFh8JumkbKNcNV34T3Y6o2enpn62InwRN528JWNMm5V/31IsPTDClnGMqN2QNme2nslApx8ZG+VIP212+OIzmoYvv9CjwnV7R019xD7JwH9xjlkjphIsGLtxknetxAQRK8czkU4S9JOYpRdrOr50wGDNlVrNUqLX3azW0gX0EVHfk1wHSrk2Ojp1sb/xHnLXNm4feXKEL+6uHHGK3DMGt3Hj2H4MlqlAygcVrGMSBqEuJ0AaDd0tN8rs2TkVTcMqLlEaRBbh7HSzLTimgQMLo3tS5O6wi3Te/JeWzGRYoojHcPhLvZLhdv86qA7Yu3dJjWl54NRLcofjL9n9O7BLRA==;AA3vJzoqKN86c6xNsZQxDQ=="
 ---

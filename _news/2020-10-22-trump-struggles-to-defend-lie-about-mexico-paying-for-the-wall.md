@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244269"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244269"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump admin dismantles 'firewall' for editorial independence at U.S.-funded media outlets"
+    excerpt: "A senior U.S. official appointed by President Donald Trump has scrapped a federal regulation designed to protect the editorial independence of Voice of America and other U.S.-funded media outlets, amid accusations he is undermining the journalistic ..."
+    publishedDateTime: 2020-10-27T07:09:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/trump-admin-dismantles-firewall-editorial-independence-u-s-funded-media-n1244885"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244885"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244885"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_25/3391302/200619-michael-pack-us-senate-ew-130p_018ee22d262c51378e6ba0ca49f89c27.jpg"
+        width: 2500
+        height: 1400
+        isCached: true
   - title: "Trump tells journalist he's 'a criminal' for ignoring story Trump likes"
     excerpt: "Trump believes journalists are \"criminals\" unless they report discredited allegations that may be part of a hostile foreign influence operation."
     publishedDateTime: 2020-10-24T19:47:00Z

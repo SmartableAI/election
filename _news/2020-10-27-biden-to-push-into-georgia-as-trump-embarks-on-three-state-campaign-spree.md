@@ -3,10 +3,10 @@ category: news
 title: "Biden to push into Georgia as Trump embarks on three-state campaign spree"
 excerpt: "With just a week to go until the Nov. 3 election, President Donald Trump and Democrat Joe Biden will criss-cross the country on Tuesday in an intense day of campaigning that will also see former President Barack Obama back on the stump."
 publishedDateTime: 2020-10-27T04:21:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27C0E3"
-webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27C0E3"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0E3"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0E3"
+originalUrl: "https://www.reuters.com/article/usa-election-idUSKBN27C0H6"
+webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27C0H6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0H6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0H6"
 type: article
 quality: 139
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538927935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0A9"
-    width: 796
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538929420&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0C0"
+    width: 817
     height: 545
     isCached: true
 
@@ -428,6 +428,22 @@ related:
     quality: 140
     images:
       - url: "https://www.chicagotribune.com/resizer/f97BSdxTH6vq5afG_bptANe0XMI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KPJI3Y5LCBCDPCZUJHJG5JE4Q4.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden Vs. Trump: Who Has The Best Plan To Tackle Covid-19?"
+    excerpt: "The election is one week away, and the presidential candidates have stark differences in how they plan to handle the Covid-19 pandemic. Here's what you need to know."
+    publishedDateTime: 2020-10-27T11:55:00Z
+    webUrl: "https://www.forbes.com/sites/advisor/2020/10/27/biden-vs-trump-who-has-the-best-plan-to-tackle-covid-19/"
+    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/27/biden-vs-trump-who-has-the-best-plan-to-tackle-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/27/biden-vs-trump-who-has-the-best-plan-to-tackle-covid-19/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98083167377aae3aa68f84%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D65%26cropY2%3D1865"
         width: 1200
         height: 675
         isCached: true
@@ -1883,6 +1899,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "snNvV9RgMaVhPASUcF7G1QoMA1a9c3s6WywsNpAbJrF1ODXOv/mOX74YwT2W79EnrNzMKmWwDgsrRIZ96zqCEvuZCSQN/yxnW8/+cDRZn7sc28QSm+QYQaDqnHXk/N/m3975pwCQKkwZ4aLOum6HKF3zV+jtVCsuA7xO0ZRipGF4msJcLNssJAkogo7fk2lDFhE6Qu74QGnYjuEW3GuXSYSmYU9nN5PSqu7IbPGDp5WGxLB1A0cQnjBo4FUwVgrbPQrZnZDj+JJx6opd5HWY8wAJSEDryGzoKragbfMZ/1LdjE9YHnuhVjPi1Hgb21mD+X5jmkmqvBNIwDZJpJsbhvSD8g+EOM/TkDBjfhDk15Q=;tksRmx3g7T9RBiFC+lV8Vg=="
+secured: "jtxGoTcxNFjDKnityYVxKZMslFowCPO4P9wYiK/1yf0HTU38OY8Xc/nWRaP1ol6ZAjenpxXIbgE0jp/jBMc3dvHcIbHlbalCt6mi024Z1PUV/UUtsMFTt8rCnH3tDbM0GzGk3YLLyWjCS0+OhYfOvyLA6DA7oF2yGp+NOrdEifK+0YAdOM3f5cl1iQUjkPzAqv5nGqiRym/sPLJDYyoZ4zQc/P0w95UtUQ/KWplkcOS+MWrX7tgfy7iWr5Lwj3WLyIdNCUJlqvWilLTs+5sn8nc9G90hVonpLZKRjOd02sCY5ENPax7FNAC9hqhtp43fy9J1SGAgprEpKrLmLSsAoyLRaBXPGFQVwZ3G9GHbVTQ=;yxItmRMOYlvu95sQJmUhxg=="
 ---
 

@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kyle Rittenhouse's Lawyers Demands Biden Campaign Retract Their Claim He Is a White Supremacist"
+    excerpt: "Lawyers for Kyle Rittenhouse, one of the alleged shooters in Kenosha, Wisconsin, are demanding Joe Biden's Democratic presidential campaign retract their claim that the 17-year-old is a white supremac"
+    publishedDateTime: 2020-09-30T18:30:00Z
+    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216"
+    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 73
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "Y+x1zJ1tJw+rhurg+EDLwyipnfzDVlvC+ChRGkEtOxWRnU9OQTfPuen8nd9G4n5dmUA5rc6hBbxDS09blnroD9UN589HuKi0lS4DOSXvJFmnn3FxDEvVZPrdAfxRu/8mk7b9aPjIwPI3C9GtQMgDPiu+1M9OWOV9dRCJ1Otc7iWYfsP430Hihz/pbuNcl9VzK9qVMWEHCXwRVaSRgjtrTBR159fE7Vya9qQcDAjxPgY519ktJYFKBMaSkyhV11pImh7ZpsVyvInjzRa1VLKMybXsFVDDyKF2ifL4fs60s667aqhaFJkZYl5WE/IlxrchWu56e7UgBPTc7hkI8/tRWqEBrfrM4LlyUQbYgFyX+fOD2e0G9lttd+cYJnCjs8Cs7njbs1HxslrsAFWasVk1Q/Vs2GkcZwn/5NwJwLYS2ootJLBRytM0y8SBkVO+kxALzH58dkoY6iXeBIhBOrksfdwHXBuj/4inufr/+pfBGSyp9mSYbpzj1uKv9m3PFocstkRq42NWjri+uGDDNJjQVA==;L166jMKpO07mSvwduj07cQ=="
 ---

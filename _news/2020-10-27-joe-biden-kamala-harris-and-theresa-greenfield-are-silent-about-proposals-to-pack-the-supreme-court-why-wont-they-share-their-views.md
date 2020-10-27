@@ -1174,14 +1174,14 @@ related:
   - title: "Kamala Harris Barrett Confirmation Vote in Washington, DC"
     excerpt: "Democratic presidential nominee Sen. Kamala Harris (D-Calif.) leaves the U.S. Capitol in Washington, D.C., after the Senate nomination vote of judge Amy Coney Barrett to be a Supreme Court Justice on Monday,"
     publishedDateTime: 2020-10-27T03:15:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/24278bd20f10249d545129bd9be90e98/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bd5448bc22d10f09fe46c349d8f947bc/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/24278bd20f10249d545129bd9be90e98/BARRETT-VOTE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/bd5448bc22d10f09fe46c349d8f947bc/BARRETT-VOTE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1460,6 +1460,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "krlk7hpJ8OnXxyfikrBanREzdmY9Ze3BbfcSHZ7E7WTPeWpDXL3lmnj6LKZylQPbGw1QuLhDHoOv4+fUMDlxGQP4sGOW6P7Y2HP1O/XWk3qInItLgxeV6eXJfS3nvwBt6ycFcKO5gQhlLV4dvbkkSMkSfWshs5BODZ6vNF+Hcg7PysF2kbo05Qth3mvsEt2988e4KnBN2VYcOj+HlkXyeU8RbtPxEhyGfUkrI+ghCftuDCNHXtxtFcaqv3obJhssaayPuZvPDgcSURkSv5Swm3EgYRYHY+QSOWUnnDVT9U7NTQrXUAVM5MKDmt2VqFsvhERuO7sGDLanGBYN3GTYWRNeiapkvBHSO4zlElo2HT0=;cqHus+SdH9fnMNcHW3nvXw=="
+secured: "mcaOJI2N8ogt/ic+urORcz5LRV4Tf4ANa7W9HBpwtTlv86SswAzCeaepJrwDCPAqzn6+6iDMGyok6j21ZvJSlrRH1DHq/mtSfuwaMRSxtYz5j/oOjTCAwMWph6PQ/r8lyFrpmdRcvWos6yfhIcvt/V6ALvn1IukgRVoARNUlnbaFVhMvyjY0LFy8l2qYlEbAp/qUYfkhhfnNhYxypT70R8cTx/etr7VsoOEWR3K4RXdp3CaVjhVvlRnr9U+V4riERo3oNzIJDTboWdwuttXsTqFrZH53bDqwvp4rUAQ/lMW1uAT8kgPqpNaTtSMP6o3uwfoC6lVTWshSXfSGqN37xD5y7z9lnXWhK12quKhetvJlgV2MUq/7c7iQ4R8Eg1G7Q/ZTXliN6CwKG80cWJ6bBU/z5vPyzvfHGhLaIaagtEXlX2tbCz0T9/cfOODQY+tS3GRYkC3JW8rZC1Rsms5QGrIuNytZ9PIeigXIP+q9tVlz8nRXID6ATe7E4BKm3o5pqK+oDJJrjL2s8jM3MV9wrw==;Fnhi8o929A5+sK+vLuKiFg=="
 ---
 

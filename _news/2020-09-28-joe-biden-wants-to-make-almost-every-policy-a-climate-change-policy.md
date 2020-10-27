@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trying to expand map, Biden launches ad blitz in Georgia, Iowa"
+    excerpt: "Hours after the Democratic presidential nominee’s campaign announced it had a large campaign cash advantage over President Trump’s reelection team at the beginning of September, Biden officials said Monday morning they were going up with a new ad blitz in Georgia and Iowa as they try to expand the general"
+    publishedDateTime: 2020-09-21T14:52:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tj0IBTa60Fw/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa"
+    ampWebUrl: "https://www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740fb994-93fa-4d55-b4d6-d08ebdf8390b/a38a8844-2b62-4980-913d-57a673c19c69/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Cindy McCain, wife of late GOP senator, is endorsing Joe Biden"
+    excerpt: "Democratic presidential nominee Joe Biden announced Tuesday that Cindy McCain, the wife of late Republican Sen. John McCain, is endorsing his presidential bid following President Trump’s alleged remarks about U.S. services members as reported by The Atlantic."
+    publishedDateTime: 2020-09-22T23:00:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SK1SEMByzxM/cindy-mccain-to-endorse-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden's low-key campaign style worries some Democrats"
     excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is taking a lower key approach."
     publishedDateTime: 2020-09-25T15:23:12Z
@@ -48,97 +80,67 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden says Antifa is just an idea, but here's what we know about it"
-    excerpt: "Democratic nominee Joe Biden, during the first presidential debate on Tuesday, dismissed Antifa as “an idea” when asked to condemn left-wing violent extremism – but that claim is highly disputed by Republicans, and some who have covered them up-close."
-    publishedDateTime: 2020-09-30T17:03:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ntitUMG3Uk/biden-antifa-idea-what-we-know"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
+  - title: "Former GOP Gov. Tom Ridge endorses Biden"
+    excerpt: "Former Republican Pennsylvania Gov. Tom Ridge endorsed Democratic presidential nominee Joe Biden in an op-ed on Sunday."
+    publishedDateTime: 2020-09-27T18:12:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7AMrGRAYA_4/joe-biden-tom-ridge-op-ed"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-tom-ridge-op-ed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-tom-ridge-op-ed.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/24f6824b-tom-ridge.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Sanders to host socially distant rally for Biden in New Hampshire"
-    excerpt: "Bernie Sanders will hold a socially distanced rally for Democratic nominee Joe Biden in New Hampshire on Saturday, the Biden campaign announced. "
-    publishedDateTime: 2020-10-02T21:16:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKW8nWOI1bQ/sanders-distant-rally-biden-new-hampshire"
-    ampWebUrl: "https://www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Sanders-4.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden, Mr. Rogers' widow Joanne hold virtual call during Pennsylvania campaign stop"
-    excerpt: "Rogers, 92, is an outspoken critic of President Trump and supporter of the Biden campaign."
-    publishedDateTime: 2020-10-01T00:46:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhMH2EpasXA/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp"
+  - title: "Ben Shapiro: Biden bargained with radical Dems and now they're going to eat him up"
+    excerpt: "Joe Biden's bargain with the radical left shifted the 2020 campaign from a referendum on President Trump to how far left Democrats will go."
+    publishedDateTime: 2020-09-25T13:16:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AGB-cWFvZeQ/biden-ben-shapiro-democrats-election-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ben-shapiro-democrats-election-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ben-shapiro-democrats-election-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-Facetime-Rogers-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden says at debate he doesn't support Green New Deal, but his campaign website calls it 'crucial framework'"
-    excerpt: "Joe Biden said Tuesday night at the first presidential debate that he does not support the Green New Deal, but his campaign website calls it a “crucial framework” for meeting climate change challenges."
-    publishedDateTime: 2020-09-30T17:46:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp"
+  - title: "Cindy McCain, wife of late GOP senator, endorses Joe Biden"
+    excerpt: "Democratic presidential nominee Joe Biden announced Tuesday that Cindy McCain, the wife of late Republican Sen. John McCain, is endorsing his presidential bid following President Trump’s alleged remarks about U."
+    publishedDateTime: 2020-09-23T08:15:00Z
+    webUrl: "https://www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7770338-6f00-45d5-b73c-f483671ead37/96618aa6-16e0-4aa8-b103-de0e0b8c3bce/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Biden endorsed by more than 120 former GOP national security officials"
-    excerpt: "More than 120 former GOP national security officials endorsed Democratic presidential nominee Joe Biden on Thursday, joining a cadre of Republican groups to oppose the reelection of President Trump."
-    publishedDateTime: 2020-10-01T19:04:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-4.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris Brings Hollywood Cash to Biden Campaign"
-    excerpt: "The California senator has close relationships with Democratic women and people of color in the entertainment industry, a dozen donors and fundraisers said."
-    publishedDateTime: 2020-09-24T11:47:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
-    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+  - title: "Joe Biden’s Proposed Spending Comes With a High Cost"
+    excerpt: "Until Congress gets spending under control, any proposals for vast new government programs should be dismissed as dangerous and immoral seductions."
+    publishedDateTime: 2020-09-23T21:05:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-proposed-spending-comes-with-a-high-cost-11600894853"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-proposed-spending-comes-with-a-high-cost-11600894853"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-proposed-spending-comes-with-a-high-cost-11600894853"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 150
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-235890/social"
+      - url: "https://images.wsj.net/im-231527/social"
         width: 1280
         height: 640
         isCached: true
@@ -158,178 +160,60 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Joe Biden’s ObamaCare Tax Avoidance"
-    excerpt: "In 2019 he and his wife legally dodged payroll levies on $228,703 in income."
-    publishedDateTime: 2020-09-30T22:53:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-238687/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "AOC responds after Biden says Green New Deal ‘not my plan’ during debate"
-    excerpt: "U.S. Rep. Alexandria Ocasio-Cortez issued a toned-down reaction Tuesday night after Democratic nominee Joe Biden separated himself from the multitrillion-dollar Green New Deal, her signature legislative proposal."
-    publishedDateTime: 2020-09-30T10:07:00Z
-    webUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/aoc-biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Maureen Mackey: This key Joe Biden question needs to be asked early and often"
-    excerpt: "No wonder some Democrats are worried about Biden’s “lower key” approach to campaigning as we head towards Election Day."
-    publishedDateTime: 2020-09-25T17:25:00Z
-    webUrl: "https://www.foxnews.com/opinion/biden-election-maureen-mackey"
-    ampWebUrl: "https://www.foxnews.com/opinion/biden-election-maureen-mackey.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-election-maureen-mackey.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f4af1cf-4043-4290-be91-2834a8245f3f/ba96f20e-175b-4dc2-a52a-fa2b8ae8e10f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden says 200 million people have died from COVID-19 as campaign gaffes continue"
-    excerpt: "Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000."
-    publishedDateTime: 2020-09-20T22:09:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden says 200 million people have died from coronavirus as campaign gaffes continue"
-    excerpt: "Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000."
-    publishedDateTime: 2020-09-22T08:22:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Does Joe Biden and His Party Care About Real Science?"
-    excerpt: "Science must be free from bias, but it rarely works out that way. A flurry of mainstream media reporters and left-leaning politicians, led by Joe Biden, Kamala Harris, and Nancy"
-    publishedDateTime: 2020-09-26T04:01:00Z
-    webUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956"
-    ampWebUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
+  - title: "AOC: ‘We Can Likely Push Vice President Biden In a More Progressive Direction’"
+    excerpt: "For months, Democratic presidential nominee Joe Biden has been performing a political tight-rope walking act, trying to please the far-Left wing of his party while also trying to maintain that"
+    publishedDateTime: 2020-09-19T04:01:00Z
+    webUrl: "https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488"
+    ampWebUrl: "https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 85
+    quality: 81
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/231/1d88e52b-9b42-494c-a081-d8bfc0c2330d.jpg"
         width: 650
         height: 340
         isCached: true
-  - title: "Biden Couldn't Name Support From a Single Law Enforcement Group"
-    excerpt: "After months of rioting, looting, and unrest in streets across America, President Trump has positioned himself as the law and order candidate. Only recently did Democrats start caring and speaking"
-    publishedDateTime: 2020-09-30T12:15:00Z
-    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188"
-    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
+  - title: "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop"
+    excerpt: "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool"
+    publishedDateTime: 2020-09-18T19:20:00Z
+    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470"
+    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 85
+    quality: 77
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/ed2b43e7-9d41-4017-bb0d-1916ec16d4b7.jpg"
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/210/d7b80056-cda3-4d98-8a32-4b2b78a027f8.jpg"
         width: 650
         height: 340
         isCached: true
-  - title: "Barack Obama teams with Kamala Harris to raise money for Biden campaign"
-    excerpt: "Barack Obama is lending his star power to Democratic nominee Joe Biden’s campaign, planning to co-host a couple of fundraisers with Biden’s running mate, Sen. Kamala Harris of California."
-    publishedDateTime: 2020-09-24T21:35:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
+  - title: "Biden floats fining people for not wearing a mask on federal property"
+    excerpt: "Democratic presidential nominee Joe Biden offered little clarity on whether he could and would introduce a national mask mandate should he win the White House on Nov. 3."
+    publishedDateTime: 2020-09-18T00:59:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 80
-  - title: "Kyle Rittenhouse's Lawyers Demands Biden Campaign Retract Their Claim He Is a White Supremacist"
-    excerpt: "Lawyers for Kyle Rittenhouse, one of the alleged shooters in Kenosha, Wisconsin, are demanding Joe Biden's Democratic presidential campaign retract their claim that the 17-year-old is a white supremac"
-    publishedDateTime: 2020-09-30T18:30:00Z
-    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216"
-    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 73
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Biden's refusal to rule out court-packing confirms he can't restrain his progressive wing"
-    excerpt: "There is a lot of discussion about how Joe Biden can’t really be a Trojan horse for the progressives in his party or how Biden is a true centrist who can hold the party in line. But neither of these things are true,"
-    publishedDateTime: 2020-09-22T17:42:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
+    quality: 65
+  - title: "Biden solidifies lead in Wisconsin and might be pulling ahead in North Carolina: Polls"
+    excerpt: "Democratic presidential nominee Joe Biden is ahead, according to new polls in North Carolina and Wisconsin, two swing states President Trump likely needs to win in November to keep his office."
+    publishedDateTime: 2020-09-21T03:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 56
-  - title: "Leftists outraged at Biden quickly condemning violence and offering prayers for officers shot in Louisville"
-    excerpt: "Leftists criticized Joe Biden for a tweet that condemned violence and offered prayers for the police officers shot in Louisville, Kentucky, during protests and riots that followed a grand jury decision relating to the death of Breonna Taylor."
-    publishedDateTime: 2020-09-24T15:15:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 47
-  - title: "Biden campaign touts analysis showing his policies would cost $7.3 trillion and add $3.2 trillion to deficits"
-    excerpt: "Joe Biden's campaign is touting a new economic analysis that shows his proposals would cost $7.3 trillion over a decade, raise taxes by $4.1 trillion, and increase deficits by an additional $3.2 trillion."
-    publishedDateTime: 2020-09-24T20:16:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/biden-campaign-touts-analysis-showing-his-policies-would-cost-7-3-trillion-add-3-2-trillion-to-deficits"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/biden-campaign-touts-analysis-showing-his-policies-would-cost-7-3-trillion-add-3-2-trillion-to-deficits?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/biden-campaign-touts-analysis-showing-his-policies-would-cost-7-3-trillion-add-3-2-trillion-to-deficits?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 46
+    quality: 57
 
 secured: "r9BbSUgp6MwIiY59+R5J4VMWdzS/mvMjeaKGhTvKFdVcaserzmFXPP5ttYcE+Qq8fmzFel7EIHYNm9/MYA89/+R2ZUrvuY8u9SPg5ItpYiMIYNOpKiM/xxV81uD0YfApRYx5Xnc3vEmfBz8D+SYorAHCXu6N/SoFZncvbazr5G+kXLDaY1l+dXYQfkeDhCkW/l8eN9A8RazFdmtenMoiJLR8OUP6nn1iS3X6pT19PLj/lFM1EM3hghInr8YI81C6gHHR2VRYeVS67hsw2TNMBZlK/Hi7s1FjrRYAs+nO/XiguWdwNGI9bK/PCGWJyocYFkxk4HjVmTD0AyXwNAhnZ9G1y1kkt6tOd/iRaAuW0ZlobDtDp/IcGISiKHJEkmVJrMiY+s6AKy2i3DmjdbjjNYSQZy46i328ktQqGsdS1plG6YO9UIIdsqYIrUSiUyX1WZIieWp8k73POcnJzQGubGfkJDbf2EtAMDWA5xh0IpRj9jAw7I9kiLCdxaUOeJA+Sbfz0xgzjZelMJXX5c9XAg==;VuB1U+r0x9cXqgZOVE6e+w=="
 ---

@@ -606,6 +606,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump takes Supreme Court victory lap while deceiving nation over worsening pandemic "
+    excerpt: "President Donald Trump claimed a place in history Monday when Amy Coney Barrett's confirmation secured a dominant conservative majority on the Supreme Court, but the pomp of his victory lap could not disguise the reality of a pandemic that has placed his presidency in deep peril a week before the election.\n"
+    publishedDateTime: 2020-10-27T13:30:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tkf6RpxiZc8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/donald-trump-confirmation-amy-coney-barrett-joe-biden-election-2020-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/donald-trump-confirmation-amy-coney-barrett-joe-biden-election-2020-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026212321-06-wh-barrett-sworn-in-1026-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "2020 Election Live Updates: Trump to Travel to 3 States as Biden Focuses on Pennsylvania"
     excerpt: "President Trump and Joe Biden prepare for their closing arguments in the final stretch, taking them to some of the country’s top battlegrounds. An order allowing multiple drop boxes per county in Texas is upheld."
     publishedDateTime: 2020-10-24T14:46:00Z
@@ -1374,6 +1390,6 @@ related:
       domain: thedailybeast.com
     quality: 58
 
-secured: "YzCReu89Zyh/N+YhSUhj8g3hwMcz08XaFkvzwRfKBfsQ8JL6pWSf9KmmDiedjRMM1gDz6PDlo9JlYHVpGwmBMLDDyQGKWLcp8ZdZYtgVE0Fn2+uRsgBJCQ/tuKDxEvxq3ywylky3YZ191ffRRExOR8gi6yuGSl2aGKdcw62Xyh5yoGpMSrGpsf5kLhOTzfL+bWcMVem4aa5R5Z8tbZZi3EOkH1/r8h6IiUkb5qCJAaX/IeJLM0nn4/64awrmavskOwCNmC5i9tZlsVwh/Oce6S7kGiGW5Cgd9IrPUBjRHO6SRnLxDa8ehxR3ERsgdh/h/93JqRSykz4niZh959mD17Hj56RpZ7SIrp++QEkJw6g=;8xnyax733/xq2fhQ0zbPRw=="
+secured: "llqpMFa49VdH68kF7YVvYECjryv7Laxwhz3yEjmxpg3CIn9YT3sAs20FbC6vwarDcm9RyBy2KmoIL9M8E57Z2CPXWPpdoc0/wQxj1ogVMO1u5XXzaGxb21bsdrk0WfwdA2Az9Hz7wBOa1ajMYbbz+O4Nh5E3Y//hL3BtfLA8iIWUUUta5dI4YW4L9fWXaCRchZ+/xkH1IOG6uWMoULfXHvdT+tJsO4i8WF1ey1cSDb0CmvHbKKqeGEnDUH3ej8vW+pFd2diUX5E4JkbBuO3pilyQEqssAN9uHGvuTzdxu1qshoHWSEr7j9UI0P8EkNJFN0iq1U736K/3aar7jC6J/5wpqB8LE1Zr2kJaDSXvwkMCNaa44WM+TWZNxkXTAbICctwi2jy5FniwC6NhA9eE4b/g8NogSGM775VAgZSTjkVyDM+tEdXCZZvNGeM30doS7gPkwJVeeJqS+BzCQvswH4xgNVcV1P+cyuNI1H0BSp4aj0e1MrfP1bhSSZaP87pzk3qxYg9AwyGqCinus4of5Q==;aFLIKfewLaknn9eCzT943A=="
 ---
 

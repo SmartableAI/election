@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-voter-fraud-organization-vide
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voter-fraud-organization-video-gaffe.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Biden grilled on 'transition' away from oil and gas comment in Pennsylvania TV interviews"
+    excerpt: "Democratic presidential nominee Joe Biden is getting grilled in Pennsylvania ever since he said during last week’s debate that he plans to “transition” away from the oil industry."
+    publishedDateTime: 2020-10-25T12:48:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0UZIaeAkKNQ/biden-grilled-transition-oil-and-gas-pennsylvania-tv-interviews"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-grilled-transition-oil-and-gas-pennsylvania-tv-interviews.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-grilled-transition-oil-and-gas-pennsylvania-tv-interviews.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8443ab57-1626-487f-9624-7278281d270c/19c7fad6-bc7a-4665-8a01-bc332f8b4b61/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "8+5B94cqrTTQO1GbkauLh8tTqOSKTQDXQqR+sbXzjaj0r8rdZB3tDNx7L/c7wtLMc9qDjFyctyD59h4QdpprC0HPpPPgHNzKuZlkH+iohNXEyalgUWr43o/bDOPieYT2BIviSMcecm9CxIhv5NvHrmM0J4llr8WrTlTiS3393wdnRfTw0ohYGFOd/QBonv1x/vKZ+/t42sVddZMT+YAOkrp1+q9rW2uG2472ctNVeHRew7hArwKmKuuxjkfN3ygc2EnLYUWAGEoiI+cnoAWcey/3RWmF91I69hxpUWV93VR0dS2Zlc1ijsXZTFOE21PLJAR2DN8bF+PpffAght0OvTMaeFgc6eGhgiqYwqcp/bM=;FmpqX/iXf5jpBTavBAy3xw=="
 ---

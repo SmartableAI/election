@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Debate pays off for Trump as campaign hauls in $26M"
-    excerpt: "President Trump's re-election campaign is showcasing a fundraising record they set around Thursday’s second debate between the president and Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-23T17:24:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nPvOBjeKZlg/trump-debate-fundraising-26-million"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-fundraising-26-million.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-fundraising-26-million.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297057827109.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump's debate mic appeared to cut off during health care answer"
     excerpt: "President Trump appeared to have his microphone cut off for a brief moment while he was explaining his health care plan during the final presidential debate in Nashville, Tenn., on Thursday night."
     publishedDateTime: 2020-10-23T08:13:05Z

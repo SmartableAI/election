@@ -47,21 +47,21 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Biden campaign faces backlash for TV ad depicting Michigan tech CEO as struggling bar owner"
-    excerpt: "The Biden team is under fire for releasing a TV campaign ad last week depicting a Michigan bar owner struggling to keep his business afloat during the pandemic."
-    publishedDateTime: 2020-10-20T15:27:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nLpF-VPDeIQ/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp"
+  - title: "Rove breaks down Trump's 'path to victory' through Michigan, Pennsylvania, Wisconsin"
+    excerpt: "The fate of President Trump's reelection bid will ultimately come down to the three battleground states that put him over the top in 2016: Michigan, Wisconsin, and Pennsylvania, former George W. Bush adviser Karl Rove predicted Monday."
+    publishedDateTime: 2020-10-27T00:49:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nmAKogyMUxU/rove-trump-path-victory-michigan-pennsylvania-wisconsin"
+    ampWebUrl: "https://www.foxnews.com/politics/rove-trump-path-victory-michigan-pennsylvania-wisconsin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rove-trump-path-victory-michigan-pennsylvania-wisconsin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/blind-pig.png?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230f52b5-e037-423b-befd-decdc0aec4bb/fb87aa77-b8d5-474e-8b02-5f88d81f5529/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "13vi7cG30S3kMZprvOUQDDW0pSHVKQmeKTKhn3q2siVAHKd7Dlkigf9C7lgit5tU2iYzN+DJsRLaNaIjnOt2mfpR3U8fJVYgT63CmzhenSGUO9s/DXfaUenc8xtowakcACu7DqpwE9YSgJcjM7l2Jn6SbIF4hOejTGStzYSwL+Y8JGK3yPw19gzx2bKiiHhMHqvVkzp7XoFf5XweLVIIR7NpjKhf05zN6c6GJ8rOo94hLYfDs9CuxNnf7BtLKSf78X8Sg1SdDuOv6OxOLk/yP8YlUD1SDayZOzjFffw3cnTsummClsPigfhuxRnBBcKtlexbCCLzKXkYfA8cW0kfRbEzhB9TfA/oXFOJBFUY1R8=;8WmMOOcsMFAkz6pqPdx2kg=="

@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Debate pays off for Trump as campaign hauls in $26M"
-    excerpt: "President Trump's re-election campaign is showcasing a fundraising record they set around Thursday’s second debate between the president and Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-23T17:24:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nPvOBjeKZlg/trump-debate-fundraising-26-million"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-fundraising-26-million.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-fundraising-26-million.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297057827109.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Whitmer thanks FBI, blames Trump admin after kidnapping plot foiled"
     excerpt: "Michigan Gov. Gretchen Whitmer blamed the Trump administration for rhetoric that she claimed led to a kidnapping plot against her, after the Trump campaign accused her of encouraging attempts on the president's life."
     publishedDateTime: 2020-10-25T14:57:07Z

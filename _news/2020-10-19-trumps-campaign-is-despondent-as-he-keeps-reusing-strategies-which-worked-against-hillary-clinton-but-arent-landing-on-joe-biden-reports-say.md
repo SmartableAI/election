@@ -432,6 +432,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden Vs. Trump: Who Has The Best Plan To Tackle Covid-19?"
+    excerpt: "The election is one week away, and the presidential candidates have stark differences in how they plan to handle the Covid-19 pandemic. Here's what you need to know."
+    publishedDateTime: 2020-10-27T11:55:00Z
+    webUrl: "https://www.forbes.com/sites/advisor/2020/10/27/biden-vs-trump-who-has-the-best-plan-to-tackle-covid-19/"
+    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/27/biden-vs-trump-who-has-the-best-plan-to-tackle-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/27/biden-vs-trump-who-has-the-best-plan-to-tackle-covid-19/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98083167377aae3aa68f84%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D65%26cropY2%3D1865"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump, Biden make their pitches to voters in pivotal Pennsylvania"
     excerpt: "With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania while Democratic rival Joe Biden made a low-key appearance in the state considered crucial to the chances of victory for both men."
     publishedDateTime: 2020-10-26T22:27:00Z
@@ -467,17 +483,17 @@ related:
   - title: "Biden to push into Georgia as Trump embarks on three-state campaign spree"
     excerpt: "With just a week to go until the Nov. 3 election, President Donald Trump and Democrat Joe Biden will criss-cross the country on Tuesday in an intense day of campaigning that will also see former President Barack Obama back on the stump."
     publishedDateTime: 2020-10-27T04:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27C0E3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0E3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0E3"
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27C0H6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0H6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0H6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 139
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538927935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0A9"
-        width: 796
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538929420&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0C0"
+        width: 817
         height: 545
         isCached: true
   - title: "With time running out, Trump to launch attacks on Biden's family at debate"

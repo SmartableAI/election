@@ -593,6 +593,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump takes Supreme Court victory lap while deceiving nation over worsening pandemic "
+    excerpt: "President Donald Trump claimed a place in history Monday when Amy Coney Barrett's confirmation secured a dominant conservative majority on the Supreme Court, but the pomp of his victory lap could not disguise the reality of a pandemic that has placed his presidency in deep peril a week before the election.\n"
+    publishedDateTime: 2020-10-27T13:30:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tkf6RpxiZc8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/donald-trump-confirmation-amy-coney-barrett-joe-biden-election-2020-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/donald-trump-confirmation-amy-coney-barrett-joe-biden-election-2020-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026212321-06-wh-barrett-sworn-in-1026-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "2020 Election Live Updates: Trump to Travel to 3 States as Biden Focuses on Pennsylvania"
     excerpt: "President Trump and Joe Biden prepare for their closing arguments in the final stretch, taking them to some of the country’s top battlegrounds. An order allowing multiple drop boxes per county in Texas is upheld."
     publishedDateTime: 2020-10-24T14:46:00Z

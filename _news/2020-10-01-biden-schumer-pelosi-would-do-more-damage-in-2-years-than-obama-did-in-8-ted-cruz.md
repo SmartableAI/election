@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp"
 type: article
 quality: 169
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Barack Obama teams with Kamala Harris to raise money for Biden campaign"
+    excerpt: "Barack Obama is lending his star power to Democratic nominee Joe Biden’s campaign, planning to co-host a couple of fundraisers with Biden’s running mate, Sen. Kamala Harris of California."
+    publishedDateTime: 2020-09-24T21:35:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
 
 secured: "g4ejjqMPPpsBNpgzdR2pPgOl77COf5RW1m+44XmAm0aHsZN458CIlHVG3D+XO78RFeW4+5by26eeAFxqIPsW+DFw3YgM6zf3/OL4QeUtCtO0xabvWjdCBmJvdjC5xFo6udKg0gMxBU3AFuo4ClOyMnPxlkEhEEnIzj/K9JRDjfAfCXyM8HvpKUNOd+WbeCs1f0otZ9elC88ag0wthth8/+dY6J98MJxyt/DEMRylcHNQIjP1q6LLGfRclK+jOBgKNCnULiByxjb2qljYExuhLh5zhQsGVNP9VQacC/lA5V+A4bgv0oo9NW+2RfCkXSahzKOTAb2QC4nEAlXjcNWcpv5kOnUxLElF/ys0gKLQxRw=;pBik2yYOWhQ7RWMXt+rkCQ=="
 ---

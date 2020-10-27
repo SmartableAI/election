@@ -237,20 +237,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter's Emails Confirm Claims of Biden Corruption"
-    excerpt: "Thanks to three brave Americans, we now know that Joe Biden has long misled the public about his involvement with his family’s foreign business entanglements while he served as vice president."
-    publishedDateTime: 2020-10-25T18:18:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/49/490563_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "/yGC0lE4+ZwNusZCqy92znClXe4v/CastMiwmdaT1vrFzbTx9fT/RlrTohC7mtn+aSYbTRA06PwYXnKjhbURD/CKO3hLiNM8knHqozAUjTLVZfSRHyAGMHS3zIrQpCR1x4Vsx3TH/z465Titn02rnlhiNaOifsKmefQuplFtmOUoMiNGVpIMMfjuZf3usZ/3LiOkdani05YiFEGPu5ylJgkpd+Ltq1xw5Dx+vmh6uDpaq7Y71gB0bHKx5AB7KhyDfMJMTdw/j24BVE61sIMHkh5IReNrr+stqAEHWe7B44JEQAJjjTfLtK9h4/0cr90oNpUzM+F4/d8g+Qu2NghSfPDbs453Gm1eDR17w/667RA=;w2mpBbsSJBMotJ7kvjBdNw=="
 ---

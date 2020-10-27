@@ -46,6 +46,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump admin dismantles 'firewall' for editorial independence at U.S.-funded media outlets"
+    excerpt: "A senior U.S. official appointed by President Donald Trump has scrapped a federal regulation designed to protect the editorial independence of Voice of America and other U.S.-funded media outlets, amid accusations he is undermining the journalistic ..."
+    publishedDateTime: 2020-10-27T07:09:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/trump-admin-dismantles-firewall-editorial-independence-u-s-funded-media-n1244885"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244885"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244885"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_25/3391302/200619-michael-pack-us-senate-ew-130p_018ee22d262c51378e6ba0ca49f89c27.jpg"
+        width: 2500
+        height: 1400
+        isCached: true
 
 secured: "pu3U4+Y+z/7AaR/TRp5RQhRjfU+HaJQH7jwMwiYLAXhdX4AzcPfr+xTocScooeaX7hubqKMpoBieoXhKmCgVVXxcGZTBzT0kAgMeUjFqPcaPdOB/RKwdmM+ojFmgplen/49jhtmHcq4YmIu7wFhfNUMiwU/h9i5nx/xsWFiw6yyMNs5FVjqNiQH0bxGbUa7L6vehI5ZZglMb1Ecp6bdYvRo27o7JsDDMZT7uxz1EGWNZWLYu/KFsA2zhhXyTuXm/7/w7AVxHIZ2DjMZeueqT6xwFDujsC9QvVOYeYqDXKjNWQ+8+59de+i+1ArFinOoOFSnfnuWqEAKuj1dU2TfrmpFZjn8JdORwqsaQmxHomq2Zj+NKYbZ43lk/stk5xcJmWD2fFssFs+m9BrQ4MjlkjUOG2/nRU85vhQVYiKc7GVOjfXEf0PQ8nkc9tf2eYNcrEGpsoxSp+ZtnptnOjdMljwEXmDrlf3nkip5fTKwf8tN+ppXB32GuNLwtOJeGsXi6iacV1Ky82BfS83gfkrDB+w==;ef/Ch7FmyhU/B+JLAe2Z1Q=="
 ---

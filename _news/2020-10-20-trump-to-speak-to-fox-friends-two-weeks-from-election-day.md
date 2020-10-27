@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-fox-friends-interview-two-wee
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-friends-interview-two-weeks-election-day.amp"
 type: article
 quality: 190
-heat: 410
+heat: 390
 published: true
 
 provider:
@@ -140,22 +140,6 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-247433/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The Trump Boom Is Real"
-    excerpt: "The post-2009 recovery may look continuous, but Trump beat expectations while Obama fell short."
-    publishedDateTime: 2020-10-25T22:24:00Z
-    webUrl: "https://www.wsj.com/articles/the-trump-boom-is-real-11603659361"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-trump-boom-is-real-11603659361"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-boom-is-real-11603659361"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-249427/social"
         width: 1280
         height: 640
         isCached: true

@@ -42,17 +42,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden floats fining people for not wearing a mask on federal property"
-    excerpt: "Democratic presidential nominee Joe Biden offered little clarity on whether he could and would introduce a national mask mandate should he win the White House on Nov. 3."
-    publishedDateTime: 2020-09-18T00:59:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
   - title: "Biden Says He Plans To \"Elevate\" Justice Department's Civil Rights Division Into White House Office"
     excerpt: "Democratic presidential nominee Joe Biden campaigned in Charlotte, NC on Wednesday where he spoke to the \"Black Economic Summit.\" During a rare Q&A at the end of the event, Biden spoke about a new plan to move the Civil Rights Divison out from under the preview of the Justice Department and directly into the White House."
     publishedDateTime: 2020-09-24T23:13:00Z

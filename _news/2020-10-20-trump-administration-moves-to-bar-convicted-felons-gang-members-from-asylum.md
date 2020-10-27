@@ -143,22 +143,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The Trump Boom Is Real"
-    excerpt: "The post-2009 recovery may look continuous, but Trump beat expectations while Obama fell short."
-    publishedDateTime: 2020-10-25T22:24:00Z
-    webUrl: "https://www.wsj.com/articles/the-trump-boom-is-real-11603659361"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-trump-boom-is-real-11603659361"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-boom-is-real-11603659361"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-249427/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Will the Media Defeat Donald Trump?"
     excerpt: "President Trump and everyone else knew that the NBC Townhall exposition would be contentious and that the ABC Townhall with Joe Biden, broadcast at the same time, would be gentle. And"
     publishedDateTime: 2020-10-18T12:08:00Z

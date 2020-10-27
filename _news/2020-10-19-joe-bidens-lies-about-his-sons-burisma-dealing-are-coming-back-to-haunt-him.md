@@ -380,22 +380,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Former ICE director blasts Biden for Obama administration’s immigration policy"
-    excerpt: "Former ICE Director Tom Homan on Saturday blasted 2020 Democratic presidential candidate Joe Biden for attacking the Trump administration about their apparent family separation policy."
-    publishedDateTime: 2020-10-25T02:24:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BSnLAExWIMk/former-ice-director-trump-biden-obama-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/former-ice-director-trump-biden-obama-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-ice-director-trump-biden-obama-immigration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
     excerpt: "The backlash against Sen. Dianne Feinstein, D-Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,” Graham told “Fox & Friends\" Friday."
     publishedDateTime: 2020-10-16T20:05:56Z
@@ -876,22 +860,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Tony-Bobulinski.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Joe Biden takes a break from campaign trail ahead of Thursday debate"
-    excerpt: "He will likely continue his attacks, almost certainly, on Joe Biden. And the latest e-mail controversy involving Biden's son Hunter. With just two weeks to go until Election Day, President Trump is desperately trying to paint the Biden family as what he calls a criminal enterprise."
-    publishedDateTime: 2020-10-24T12:08:00Z
-    webUrl: "https://www.foxnews.com/transcript/joe-biden-takes-a-break-from-campaign-trail-ahead-of-thursday-debate"
-    ampWebUrl: "https://www.foxnews.com/transcript/joe-biden-takes-a-break-from-campaign-trail-ahead-of-thursday-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/joe-biden-takes-a-break-from-campaign-trail-ahead-of-thursday-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bec8b00-fc8a-4767-9125-b7fa1bcc1321/d0efc9dc-cfec-444c-9856-7be0e63c538d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Cal Thomas: Can Joe Biden be trusted? Hunter Biden scandal begs the question"
     excerpt: "Joe Biden should be pressed before Nov. 3 to explain his son Hunter's financial dealings in Ukraine and Beijing."

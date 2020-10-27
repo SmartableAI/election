@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House Republicans urge Barr to appoint special counsel to probe alleged Biden revelations"
+    excerpt: "EXCLUSIVE: House Republicans on Monday wrote to Attorney General William Barr, urging him to appoint a special counsel to investigate alleged revelations coming from a laptop purported to have belonged to Joe Biden’s son Hunter -- specifically the elder Biden’s alleged participation in his son’s business"
+    publishedDateTime: 2020-10-19T16:50:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j3QqEeHpmoc/house-republicans-barr-special-counsel-biden"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Hunter-Biden-Getty.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
     excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
     publishedDateTime: 2020-10-20T14:35:00Z
@@ -110,6 +124,22 @@ related:
       - url: "http://assets.realclear.com/images/52/524567_5_.jpg"
         width: 750
         height: 552
+        isCached: true
+  - title: "A Biden Family Special Prosecutor in 2021?"
+    excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade"
+    publishedDateTime: 2020-10-27T04:01:00Z
+    webUrl: "https://townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819"
+    ampWebUrl: "https://townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/300/b56c4ad7-0b8b-4c0d-858d-a3e90867fcde.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "9j4sfYXIxUp8Idr31ouixJU6fgHQKnFKOqiqURuP8txJB8pi7GimM+MMC8hs70NcsVBqlyLtTO4mIwFjHifBkNnUAKSzaw0m8FX5yvIE3vUxhgAKPXb9+vm6JUOpNU+T2bj+L8xYGii5jPx6PywvENHMDNmqT3vj79m783wqNCCWQeoD6IsldBFmIThn+s+HeP9z/gWucv91jidS6YkDJZeq/aSgknROsPhvzUc/wGRvFZPF+YTfQ5jZfyiKy9DTwzrBi0AGFnepzuTn0P5DVMWow8jUpywZ5ekNSRjfCBik1/Tq3lZNoxofyXS3BFrx0kBy2/jyFp5dHochb0KyyWqLTY2tfVimEwZn1CZHmFw=;5jphzNyWBaAZxo5L3gw5Zw=="

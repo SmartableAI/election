@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-pers
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-person-event-biden-73729555"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/24/Election_2020_Obama_89524.jpg-72e00_c0-220-5280-3300_s1200x700.jpg?932acde88473437c7d8669264c8035b9d1f45860"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Nashville native goes from student council president to Joe Biden's presidential campaign"
+    excerpt: "He is national press secretary for former Vice President Joe Biden's presidential campaign, and the Iowa caucuses were only weeks away. Ducklo kept his cell phone charged. Every email and text message he sent was an opportunity to make sure Biden became ..."
+    publishedDateTime: 2020-10-27T02:47:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/27/nashville-native-powers-joe-biden-presidential-campaign/6000021002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6000021002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6000021002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/PNAS/3dada756-b57c-4387-8975-f4ba563db3c7-20201022_debate_nashville_tn_as_2706.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "This Bay of Pigs vet in Miami is all in for Joe Biden, rejects GOP’s socialist attacks | Opinion"
     excerpt: "But finally, somebody with credibility and authority — a Bay of Pigs veteran, no less — is addressing the most damaging accusation by the Donald Trump campaign and the Florida GOP against Joe Biden and down-ballot Democrats."

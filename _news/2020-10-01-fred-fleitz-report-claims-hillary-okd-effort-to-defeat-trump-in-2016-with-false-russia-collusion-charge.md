@@ -62,6 +62,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Joe Biden has gotten softer coverage on networks than Hillary Clinton: study"
+    excerpt: "Democratic presidential candidate Joe Biden is receiving significantly more favorable coverage on NBC, ABC and CBS’ evening newscasts than Hillary Clinton got four years ago but President Trump is covered more negatively than either of them,"
+    publishedDateTime: 2020-09-29T17:35:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-coverage-networks-hillary-clinton"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 112
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38ceb738-b8a0-4146-99ea-488d6edd4296/3f139e83-e101-4efb-904f-f738ea3e7e2e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "tcRb3D2HzoHmHxZhBF+3IudM6GC/8ELtg9eolAvZgNhb1OAWK9A3fDeTDyE5zdAIsVBSOqKjqBQWuZpFgPiJnoJ5Q5gzFwIg6KalYQiMcCBz5QLkgMAsuhwsxeKjRt4IgsbxWUQTTzublqLq1oMCCTY6AL3O5Ac3FtQSp2uV+ItVSthXbfVUwdVY9ACDHuax16ai5OZLze2+yON3IR2xbN6GG209L9+cHi9hPHYRLYKQEzlMSZP6aWW+kAYoxbWuvX16bXkrzL1g3HFWhnuUePEnNm1Ch4e8KaPTGWYptufadTxmR23Psv8qAohtyyAj+HBchcS91AKKQuE6meQIu3CfhzL2FIu/RRlfp3tylneAwZRL5sYvVgWl8RtBFVjzs+/kGhhf6waQUh7OvOMBPPpai+LZGKmtmZMACr4GbZ3HZubMPyOrw/LByb1rSvV5h9ThoHmt3mwPsG33S568Mdk5ISaF4CbydpT+HDuvCcJBW1wWf7E08CrGZtPsDkkJ8+jw6lFE3gMeK0b05n3maQ==;1e/6SzORcFiqj691E0/4iw=="
 ---
