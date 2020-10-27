@@ -207,6 +207,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Kamala Harris's liberalism is no laughing matter"
+    excerpt: "Vice presidential candidate Kamala Harris appeared shocked during an interview with 60 Minutes this weekend after being reminded that she is one of the most liberal senators in Washington. She co-sponsored Medicare for All and endorsed the Green New Deal,"
+    publishedDateTime: 2020-10-27T04:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/editorials/kamala-harriss-liberalism-is-no-laughing-matter"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/editorials/kamala-harriss-liberalism-is-no-laughing-matter?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/editorials/kamala-harriss-liberalism-is-no-laughing-matter?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
   - title: "Kamala Harris Laughs When Asked If She Would Bring \"Socialist Or Progressive Perspective\" To Biden Administration"
     excerpt: "During an interview on CBS’ “60 Minutes” released Sunday, anchor Norah O’Donnell asked Sen. Kamala Harris about being listed as the \"most liberal\" senator by the nonpartisan GovTrack website. \"What I will do,"
     publishedDateTime: 2020-10-26T14:28:00Z

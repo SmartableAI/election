@@ -1037,6 +1037,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Despite Trump-Modi Friendship, Survey Says Indian Americans Back Biden"
+    excerpt: "A new survey of Indian American voters finds they heavily favor Biden over Trump. Both campaigns have been reaching out to Indian Americans, a small but potentially decisive voting bloc."
+    publishedDateTime: 2020-10-27T09:02:00Z
+    webUrl: "https://www.npr.org/2020/10/27/927828785/despite-trump-modi-friendship-survey-says-indian-americans-back-biden"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/26/gettyimages-1170210812_wide-4e9d175acb6d60c8b26823ff517152bb000d0515.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z

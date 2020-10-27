@@ -1037,6 +1037,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Despite Trump-Modi Friendship, Survey Says Indian Americans Back Biden"
+    excerpt: "A new survey of Indian American voters finds they heavily favor Biden over Trump. Both campaigns have been reaching out to Indian Americans, a small but potentially decisive voting bloc."
+    publishedDateTime: 2020-10-27T09:02:00Z
+    webUrl: "https://www.npr.org/2020/10/27/927828785/despite-trump-modi-friendship-survey-says-indian-americans-back-biden"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/26/gettyimages-1170210812_wide-4e9d175acb6d60c8b26823ff517152bb000d0515.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump seized on Biden's promise to 'transition away from oil,' but the move away from fossil fuels is nothing new"
     excerpt: "Democrats have long pushed to replace fossil fuels with renewable energy and polling shows Americans are increasingly concerned about climate change."
     publishedDateTime: 2020-10-24T01:48:00Z

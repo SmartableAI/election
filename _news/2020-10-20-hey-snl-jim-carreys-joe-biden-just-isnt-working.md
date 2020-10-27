@@ -88,6 +88,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Local Dems Desperate for Biden to Visit Less Swingy States"
+    excerpt: "In the final days of the campaign, Democrats in states with Senate seats on the verge of flipping hope Biden will pay a last-minute visit to help tip the balance."
+    publishedDateTime: 2020-10-27T09:30:00Z
+    webUrl: "https://www.thedailybeast.com/local-dems-desperate-for-biden-to-visit-less-swingy-states"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "m7OlCutsQRialuHsO4S1kLX+iUgX6nd2ZKsQ07C0FXiegaTW/cSUSDUoY9seDv6E/aCOe6MZQdDAuAX3brzTDIIHuPTn2UiVjkdDBXJMMY7B4J4i8hK3zwGyggbS/+LPvUGa1TheAcwiawXBYy/9dqcdmi09nPbM0mG8PyTbSYRXM/Tyn3Ueq6wp6AFDzk4trE8G6aU6XS1dRmFHZML4rkjBBlYHxUAf0mLeIHCpV3ZXDp02uhCA5XvZMc/REp5aS5o+ksSKg2huLjDuOBNfxMeLpmmEFWVZ4cORI+6NZt0xc4et9NFdQay+G75QEDyGOD4kd0TCvkLDljUS8UwKXkmfOrtAzRUomwKjWAyNEP19zokEYLCtoHUTA0mlDxFaN/+WP+p5KeChtRBLB4qt1TDGPZPI3R9jdOaL+obA1DRIJ6bcEUKYm9eVV2jV5E2Set59HFhTSW64lgZfoC8KhMi7+OE4njZbdPgbcOmtVxKyfmx1C95Vxr3zNasPU5reta9mNpRksuAMF5WKmh4zFg==;RT6KZNdub35QeQPwQe+CNw=="
 ---

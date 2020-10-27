@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/brad-pitt-narrator-joe-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/brad-pitt-narrator-joe-biden-ad-world-series/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
     excerpt: "Bring back Jason Sudeikis already! Senior Entertainment Editor Some years back, Jim Carrey’s team reached out to me about placing an op-ed in The Daily Beast. The piece, written by Carrey, discussed the supposed dangers of vaccines,"
     publishedDateTime: 2020-10-20T07:56:00Z
     webUrl: "https://www.thedailybeast.com/hey-snl-jim-carreys-joe-biden-just-isnt-working"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
+  - title: "Local Dems Desperate for Biden to Visit Less Swingy States"
+    excerpt: "In the final days of the campaign, Democrats in states with Senate seats on the verge of flipping hope Biden will pay a last-minute visit to help tip the balance."
+    publishedDateTime: 2020-10-27T09:30:00Z
+    webUrl: "https://www.thedailybeast.com/local-dems-desperate-for-biden-to-visit-less-swingy-states"
     type: article
     provider:
       name: The Daily Beast

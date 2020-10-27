@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 1878
+heat: 1898
 published: true
 
 provider:
@@ -987,6 +987,22 @@ related:
       - url: "https://static.politico.com/2f/24/7c30b9bf4e0fb1fa0ae19d3ecec2/102120-trump-gty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "The Media’s Hunter Biden Conundrum"
+    excerpt: "It should be possible to cover revelations about the Biden family that are neither disinformation nor the greatest scandal of our time."
+    publishedDateTime: 2020-10-27T09:52:00Z
+    webUrl: "https://www.nytimes.com/2020/10/27/opinion/hunter-biden-story-media.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/27/opinion/hunter-biden-story-media.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/27/opinion/hunter-biden-story-media.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/27/opinion/27douthatWeb/27douthatWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "2020 Election Live Updates: Trump and Biden Hit Swing States, With 10 Days Until Election Day"
     excerpt: "RIGHT NOW ‘Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."
