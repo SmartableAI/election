@@ -63,6 +63,15 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden Remarks in Michigan on Health Care"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on health care and the economy at a campaign event in Southfield, Michigan, a suburb of Detroit."
+    publishedDateTime: 2020-10-19T06:17:00Z
+    webUrl: "https://www.c-span.org/video/?477057-1/joe-biden-campaigns-southfield-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "wVEG8ytGOJAJEsW19TBwqDT+eWbZG+3tDWyoQYa+P8R9mIVQZ3NPiaP4H9UTJOtYvVz5AeUCgNov6/yWrImcksy5RZ5AXjhhVOvab4qHOGRZ8vZmvxkSz07ZmDiRhuAHmCsct9RUXz9qpVmCywh1e4Jci2N1LRVhBF6NRNkuPzMcdSTiFqAp1GYs3XDVNZ0OreW5/YcZbsuCJzTzjkhfqBffU9TRJ4fpp1XcZJTa69rQijXb8rYCPq3UVsOj+iw6bSlTwvFFyNCVXOSbcwDtSXMOLySDuJb/xm2IOTzMkQU5QJRPcRKcF9SDM1kKSl9QEWqIAkuLRYp3uTSTC4X8Zfs6012R+PdBtB1yEUdTCsA=;hQRrevp6OPsI0uWHsfaD1Q=="
 ---

@@ -29,382 +29,347 @@ images:
     isCached: true
 
 related:
-  - title: "Trump rejects Democrats' stimulus offer, says no deal until after the election"
-    excerpt: "President Donald Trump appeared to spike ongoing negotiations over COVID-19 stimulus relief, telling Republicans to focus on confirming Barrett."
-    publishedDateTime: 2020-10-06T19:03:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/06/covid-stimulus-update-trump-rejects-democratic-offer-eyes-election/3627003001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3627003001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3627003001"
+  - title: "Pelosi: COVID-19 aid possible before election but it's up to Trump"
+    excerpt: "U.S. House Speaker Nancy Pelosi said it still was possible to get another round of COVID-19 aid before the Nov. 3 election, but that it was up to President Donald Trump to act if he wants to finalize a deal for more financial relief soon."
+    publishedDateTime: 2020-10-23T15:38:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN278252"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538621024&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M191"
+        width: 833
+        height: 545
+        isCached: true
+  - title: "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world"
+    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
+    publishedDateTime: 2020-10-21T03:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 136
+    quality: 129
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump's performance was a gift to American democracy"
-    excerpt: "If Trump’s questionable display brought us one step closer to seeing the reality of who he is and what he means for the country, then Trump unwittingly offered us all a gift — a clarion call to step up now and save democracy itself."
-    publishedDateTime: 2020-10-03T19:00:00Z
-    webUrl: "https://thehill.com/opinion/campaign/519469-trumps-performance-was-a-gift-to-american-democracy"
-    ampWebUrl: "https://thehill.com/opinion/campaign/519469-trumps-performance-was-a-gift-to-american-democracy?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519469-trumps-performance-was-a-gift-to-american-democracy?amp"
+  - title: "Trump's mercurial maze of COVID-19"
+    excerpt: "Every American should be thrilled by the president’s recovery and completely bewildered by the head-spinning nature of it."
+    publishedDateTime: 2020-10-06T21:30:00Z
+    webUrl: "https://thehill.com/opinion/white-house/519806-trumps-mercurial-maze-of-covid-19"
+    ampWebUrl: "https://thehill.com/opinion/white-house/519806-trumps-mercurial-maze-of-covid-19?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/519806-trumps-mercurial-maze-of-covid-19?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/article_images/trumpdebate_getty.jpg"
-        width: 645
-        height: 363
+      - url: "https://thehill.com/sites/default/files/1230trumpnomask.jpg"
+        width: 580
+        height: 326
         isCached: true
-  - title: "Restaurant staffers in quarantine after working Trump fundraiser"
-    excerpt: "More than a dozen employees of Murray's Restaurant in Minneapolis who served at catered event are now isolation."
-    publishedDateTime: 2020-10-05T22:53:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-covid-19-restaurant-workers-quarantine-after-fundraiser/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-covid-19-restaurant-workers-quarantine-after-fundraiser/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-covid-19-restaurant-workers-quarantine-after-fundraiser/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/05/aea0448e-df51-46f3-b69a-6aa025fa4a68/thumbnail/1200x630/011c5de4ff8a7c2fa9044cf8a1464c72/2020-10-03t232508z-1757869472-rc2bbj9tpe38-rtrmadp-3-health-coronavirus-trump.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump calls for more airline aid hours after halting stimulus talks"
-    excerpt: "In a late night tweet Tuesday, President Donald Trump urged Congress to approve an extension of the Payroll Support Program (PSP) for major U.S. airlines that have furloughed tens of thousands of workers amid the coronavirus pandemic."
-    publishedDateTime: 2020-10-07T12:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-calls-airline-aid-hours-halting-stimulus-talks/story?id=73468540"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-calls-airline-aid-hours-halting-stimulus-talks/story?id=73468540"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-airline-aid-hours-halting-stimulus-talks/story?id=73468540"
+  - title: "Nebraska Sen. Sasse rips Trump over COVID-19, foreign policy"
+    excerpt: "Republican U_S_ Sen_ Ben Sasse of Nebraska has told constituents that President Donald Trump mocks Christian evangelicals in private and “kisses dictators’ butts.”"
+    publishedDateTime: 2020-10-17T20:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/nebraska-sen-sasse-rips-trump-covid-19-foreign-73643349"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/nebraska-sen-sasse-rips-trump-covid-19-foreign-73643349"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/nebraska-sen-sasse-rips-trump-covid-19-foreign-73643349"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-walter-reed-10-ap-er-201005_1601939596590_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dd0efe314f4e43839890ffcf53138330_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump makes water demand of farms priority for new office"
-    excerpt: "President Donald Trump on Tuesday created what he called a “subcabinet” for federal water issues, with a mandate that includes water-use changes sought by corporate farm interests and oil and gas. An executive order from Trump put Interior Secretary David Bernhardt and Environmental Protection Agency Administrator Andrew Wheeler in charge of the interagency water body."
-    publishedDateTime: 2020-10-14T03:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
+  - title: "The Note: Trump's Fauci feud keeps campaign focus on COVID-19"
+    excerpt: "It takes head-spinning logic to cast Trump's feud with Fauci as a winning campaign message for an incumbent who is down in the polls. The campaign is continuing to air ads that feature Fauci -- out of context -- appearing to applaud the president's decisions on COVID-19,"
+    publishedDateTime: 2020-10-20T10:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_947d61939cc946fca02d39436612c252_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/trump-2-rt-er-201019_1603145312156_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Wall Street ends down 1% after Trump calls off coronavirus economic relief talks"
-    excerpt: "U.S. stocks ended down more than 1% on Tuesday after President Donald Trump said he was calling off negotiations with Democratic lawmakers on coronavirus relief legislation until after the election."
-    publishedDateTime: 2020-10-07T05:39:00Z
-    webUrl: "https://www.reuters.com/article/usa-stocks-idUSKBN26Q1WR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q1WR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q1WR"
+  - title: "Trump, Mnuchin say Pelosi must compromise to reach COVID-19 deal"
+    excerpt: "U.S. President Donald Trump and U.S. Treasury Secretary Steven Mnuchin of Friday said they would back the right deal for more COVID-19 relief but that House Speaker Nancy Pelosi must compromise in order to reach a final agreement."
+    publishedDateTime: 2020-10-23T16:53:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-white-house-idUSW1N2G500I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2G500I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2G500I"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536215896&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9416T"
-        width: 829
-        height: 545
-        isCached: true
-  - title: "Twitter suspends accounts of alleged Black Trump supporters over spam, manipulation"
-    excerpt: "Twitter Inc on Tuesday said it suspended a group of accounts that claimed to be owned by African-American supporters of President Donald Trump and his re-election campaign due to spam and platform manipulation."
-    publishedDateTime: 2020-10-14T01:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-twitter-disinformation-idUSKBN26Y2ZM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Y2ZM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Y2ZM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537348147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C1UL"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538628823&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M1DN"
         width: 817
         height: 545
         isCached: true
-  - title: "Trump renews fears of voter intimidation as he recruits army of poll watchers, pushes false claims of election fraud"
-    excerpt: "Republicans are putting together what they call an army of Trump supporters to monitor election procedures as Trump pushes false claims about voter fraud."
-    publishedDateTime: 2020-10-01T14:10:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-election-poll-watchers-voter-fraud-20201001-pvkh7urnmvhnbk6fxxlftmevv4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-election-poll-watchers-voter-fraud-20201001-pvkh7urnmvhnbk6fxxlftmevv4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-election-poll-watchers-voter-fraud-20201001-pvkh7urnmvhnbk6fxxlftmevv4-story.html?outputType=amp"
+  - title: "Trump Resurrects False Testing Claim As Daily Covid Cases Hit New High"
+    excerpt: "The president complained the media gives the virus too much coverage and focuses too much on cases, though deaths and hospitalizations have risen as well."
+    publishedDateTime: 2020-10-24T20:12:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-resurrects-false-testing-claim-as-daily-covid-cases-hit-new-high/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-resurrects-false-testing-claim-as-daily-covid-cases-hit-new-high/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/24/trump-resurrects-false-testing-claim-as-daily-covid-cases-hit-new-high/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f947aac14559d92c0697573%2F0x0.jpg%3FcropX1%3D893%26cropX2%3D5175%26cropY1%3D1179%26cropY2%3D3587"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
+    excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
+    publishedDateTime: 2020-10-20T17:37:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 117
+    quality: 122
     images:
-      - url: "https://www.chicagotribune.com/resizer/D_AKTwwndtDj-kl0ujoKxlXibx0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OU37FZUCHFGZZLQYVGUFTJXTLQ.jpg"
+      - url: "https://www.chicagotribune.com/resizer/bDNI1j5k_1DG5GgrK4SLSz0RhxQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZCKJEZH6IBC6NLSLAG2Z4VMMCM.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Where COVID-19 stimulus relief bill stands after Trump, and what it means for you: FAQs"
-    excerpt: "Negotiations collapsed Tuesday after Trump tweeted that he wanted to wait until after the election to move forward on COVID-19 relief talks."
-    publishedDateTime: 2020-10-07T18:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/07/covid-19-stimulus-faqs-where-stands-and-what-means-you/5908019002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5908019002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5908019002"
+  - title: "Pelosi, Trump trade blame on COVID-19 stimulus talks; Senate Republicans on sidelines"
+    excerpt: "U.S. House Speaker Nancy Pelosi said on Friday it still was possible to get another round of COVID-19 aid before the Nov. 3 general election, but that it was up to President Donald Trump to act, including bringing along reluctant Senate Republicans."
+    publishedDateTime: 2020-10-24T08:54:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idINKBN27905G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27905G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27905G"
     type: article
     provider:
-      name: USA Today
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538656184&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M191"
+        width: 833
+        height: 545
+        isCached: true
+  - title: "Trump's poor COVID messaging was disservice to my brother, other young people who have died"
+    excerpt: "Mario Auguste, younger than me by three years, died less than 12 hours after being released from the emergency room to self-quarantine on July 7th. It must have been during the early morning hours, after his roommates checked on him around midnight."
+    publishedDateTime: 2020-10-19T20:12:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/19/trump-poor-covid-messaging-disservice-my-brother-others-who-have-died/3592598001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592598001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592598001"
+    type: article
+    provider:
+      name: Detroit Free Press
       domain: usatoday.com
-    quality: 117
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/81a82e33-0067-48ee-84fd-3c9822bfc663-mario_costume.jpeg?auto=webp&crop=2879,1619,x0,y144&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Republicans and democracy have much deeper problems than Trump's awful debate performance"
-    excerpt: "A Trump loss won't fix our nasty, polarized and shallow politics. We need to stop hoping transformation is around the corner if we oust one bad apple."
-    publishedDateTime: 2020-10-01T09:33:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/01/trump-debate-performance-sorry-state-republicans-democracy-column/5874170002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5874170002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874170002"
+  - title: "After Fauci said he's not surprised Trump got COVID-19, president calls top disease expert a 'disaster'"
+    excerpt: "\"I think deep down, he believes in science,\" Fauci said of Trump. \"If he didn't, he would not have entrusted his health\" to the Walter Reed doctors."
+    publishedDateTime: 2020-10-19T23:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/19/anthony-fauci-trump-getting-covid-19-absolutely-not-surprise/3709244001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3709244001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3709244001"
     type: article
     provider:
-      name: USA Today
+      name: Detroit Free Press
       domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/be27cb49-4846-4ca2-924b-bc8ab1d9f5d2-AP_Election_2020_Debate.jpg?auto=webp&crop=4895,2753,x0,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Democrats wish Trump a swift recovery from COVID-19, and hope it changes his policies on the virus"
-    excerpt: "\"I hope he recovers fully. He needs to face justice,\" a Democrat from California said on his campaign Twitter account."
-    publishedDateTime: 2020-10-03T22:08:00Z
-    webUrl: "https://www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5f76c1f974fe5b0018a8ea04?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Republicans Sad and Worried, Democrats Happy and Indifferent Over Donald Trump's COVID Diagnosis: Poll"
-    excerpt: "All respondents said they're more concerned about the economy than the president's well-being following his announcement."
-    publishedDateTime: 2020-10-02T23:15:00Z
-    webUrl: "https://www.newsweek.com/republicans-sad-worried-democrats-happy-indifferent-over-donald-trumps-covid-diagnosis-poll-1536114"
-    ampWebUrl: "https://www.newsweek.com/republicans-sad-worried-democrats-happy-indifferent-over-donald-trumps-covid-diagnosis-poll-1536114?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/republicans-sad-worried-democrats-happy-indifferent-over-donald-trumps-covid-diagnosis-poll-1536114?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
     quality: 109
     images:
-      - url: "https://d.newsweek.com/en/full/1645688/donald-trump-covid-19-diagnosis-republican-democrat-reactions.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/a30fa486-0dc7-4676-b4eb-19203fc74e96-AP_APTOPIX_Virus_Outbreak_Congress_1.jpg?auto=webp&crop=2831,1592,x1,y248&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Election debate officials are considering muting candidates' mics, report says, after Trump interrupted 71 times in the chaotic first round"
-    excerpt: "The commission is considering allowing moderators to switch off mics to avoid a repeated of the chaos in the first debate."
-    publishedDateTime: 2020-10-01T10:05:00Z
-    webUrl: "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10"
-    ampWebUrl: "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp"
+  - title: "Twitter raps Trump COVID-19 adviser as U.S. cases rise"
+    excerpt: "Twitter on Sunday removed a \"misleading\" tweet downplaying the efficacy of masks posted by a top coronavirus adviser to President Donald Trump, while U.S. cases surged before the Nov. 3 election."
+    publishedDateTime: 2020-10-19T01:36:00Z
+    webUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5f759dd874fe5b0018a8e6b9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "METALS-Copper slips as Trump ends stimulus deal talks"
-    excerpt: "Copper prices fell on Wednesday after U.S. President Donald Trump halted negotiations with the U.S. Congress on a large coronavirus stimulus bill."
-    publishedDateTime: 2020-10-07T03:33:00Z
-    webUrl: "https://www.reuters.com/article/global-metals-idUSL4N2GY0EO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GY0EO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GY0EO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
     quality: 105
-  - title: "U.S. stocks, crude jump on revived stimulus hopes, Trump's improving health"
-    excerpt: "U.S. stocks closed sharply higher and crude prices surged Monday as renewed optimism surrounding stimulus negotiations and news of President Donald Trump's health progress helped calm investor anxiety."
-    publishedDateTime: 2020-10-06T08:18:00Z
-    webUrl: "https://www.reuters.com/article/global-markets/global-markets-u-s-stocks-crude-jump-on-revived-stimulus-hopes-trumps-improving-health-idUSL1N2GW1R3"
+  - title: "Analysis: 7 takeaways from the final 2020 debate, including Trump’s continued difficulty defending his handling of COVID-19"
+    excerpt: "For Trump, the matchup was perhaps the final opportunity to change the dynamics of a race. For Biden, it was 90 minutes to solidify an apparent lead."
+    publishedDateTime: 2020-10-23T05:22:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201005&t=2&i=1536147605&r=LYNXMPEG9400A&w=800"
-        width: 799
-        height: 533
-        isCached: true
-  - title: "Twitter slapped a warning label on a Trump tweet that says he is immune from the coronavirus and no longer contagious"
-    excerpt: "Twitter flagged Trump's tweet for violating its rules about \"spreading misleading and potentially harmful information related to COVID-19.\""
-    publishedDateTime: 2020-10-11T19:09:00Z
-    webUrl: "https://www.businessinsider.com/twitter-labels-trump-tweet-saying-he-has-coronavirus-immunity-as-misleading-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/twitter-labels-trump-tweet-saying-he-has-coronavirus-immunity-as-misleading-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-labels-trump-tweet-saying-he-has-coronavirus-immunity-as-misleading-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f63c52257b7da001ee12596?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump will return to the White House after three days fighting COVID at Walter Reed"
-    excerpt: "Trump's doctors signaled the possibility the president could be released from Walter Reed hospital if his COVID-19 symptoms continued to improve."
-    publishedDateTime: 2020-10-05T18:46:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/05/trump-return-white-house-despite-battle-covid-19/3620877001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 99
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?crop=1911,1075,x8,y0&width=1600&height=800&fit=bounds"
-        width: 1422
+      - url: "https://www.chicagotribune.com/resizer/97kzAR_nGPDHLZC-Q7Oo7-zKNaE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NHEONEAJQMOIGPKKWVGV5BFYLM.jpg"
+        width: 1200
         height: 800
         isCached: true
-  - title: "Trump will go to Walter Reed Medical Center for a 'few days' after testing positive for COVID-19, developing a fever and cough"
-    excerpt: "The president is on his way to the medical center to perform tests and will remain there for a few days, according to the White House."
-    publishedDateTime: 2020-10-02T21:37:00Z
-    webUrl: "https://www.businessinsider.com/trump-walter-reed-medical-center-hospital-covid-fever-cough-19-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-walter-reed-medical-center-hospital-covid-fever-cough-19-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-walter-reed-medical-center-hospital-covid-fever-cough-19-2020-10?amp"
+  - title: "Donald Trump’s COVID-19 Diagnosis Is Forcing Him to Face His Personal—and Political—Vulnerability"
+    excerpt: "His supporters reveled in his return. A Congressman crowed that Trump had beaten the virus just like he beat the Russia investigation and the Democrats’ impeachment. His press secretary– who announced her own case of COVID-19 earlier that day–hailed his ability to “stand strongly on the balcony!"
+    publishedDateTime: 2020-10-17T04:33:00Z
+    webUrl: "https://time.com/magazine/us/?fbclid=IwAR1PXVeu5HzM0p1kM6bnvjiTmcPUkjAhVV1b08_60EGRzpbiXmai1j475uopage%2F480page%2F3page%2F4page%2F3page%2F4page%2F3page%2F10page%2F3page%2F5page%2F3page%2F485page/485"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
+      name: Time
+      domain: time.com
+    quality: 92
     images:
-      - url: "https://i.insider.com/5f7799872400440019129ca3?width=1200&format=jpeg"
-        width: 1102
-        height: 551
+      - url: "https://api.time.com/wp-content/themes/time2014/img/time-logo-og.png"
+        width: 300
+        height: 300
         isCached: true
-  - title: "'He's the one that is making them sick': Trump's suggestion that he got infected from Gold Star families faces fierce backlash from Democrats"
-    excerpt: "\"It's shameful he would blame members of the military and members of the police force for his COVID-19 diagnosis,\" Sen. Tammy Duckworth told Insider."
-    publishedDateTime: 2020-10-09T15:43:00Z
-    webUrl: "https://www.businessinsider.com/trumps-coronavirus-military-gold-star-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trumps-coronavirus-military-gold-star-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-coronavirus-military-gold-star-2020-10?amp"
+  - title: "Kamala Harris in Michigan: Trump administration 'is admitting defeat' on COVID-19"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris said that the Trump administration \"is admitting defeat\" after White House Chief of Staff Mark Meadows said the United States \"is not going to control\" the virus."
+    publishedDateTime: 2020-10-25T23:35:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
+      name: UPI.com
+      domain: upi.com
+    quality: 85
     images:
-      - url: "https://i.insider.com/5f7f4162282c500018c79652?width=1200&format=jpeg"
+      - url: "https://cdnph.upi.com/ph/st/th/4321603644464/2020/upi/3ad59f43d1778808fde5591a836b2b2a/v1.5/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19.jpg?lg=5"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Kamala Harris blames Trump for COVID-19 'mass casualty event’ during Michigan visit"
+    excerpt: "Democratic vice presidential nominee Kamala Harris said President Donald Trump’s handling of the coronavirus pandemic caused the “greatest mass casualty event s"
+    publishedDateTime: 2020-10-26T04:15:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GJWXLVLC75EXNLWNT2JDQ3BBFM.JPG"
+        width: 4992
+        height: 4006
+        isCached: true
+  - title: "Close political adviser to Mike Pence tests positive for COVID-19"
+    excerpt: "According to Bloomberg News, one of Vice President Mike Pence’s top political advisers has tested positive for COVID-19. It is unclear if Marty Obst developed coronavirus symptoms when he tested positive."
+    publishedDateTime: 2020-10-25T05:17:00Z
+    webUrl: "https://www.rawstory.com/2020/10/close-political-adviser-to-mike-pence-tests-positive-for-19/amp/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/close-political-adviser-to-mike-pence-tests-positive-for-19/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/close-political-adviser-to-mike-pence-tests-positive-for-19/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/04/pence.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Trump Wants to Cut Democrat Cities’ COVID Funding—During a Surge In Cases"
+    excerpt: "The proposed cuts come as apparent retribution for Democratic mayors not “dominating” their citizens protesting this summer."
+    publishedDateTime: 2020-10-21T15:48:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 74
+    images:
+      - url: "https://media.vanityfair.com/photos/5f9041e5936b35581b460cdf/master/pass/Trump10.21.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Dr. Fauci Says He Is \"Absolutely Not\" Surprised Donald Trump Contracted COVID-19"
+    excerpt: "Dr. Fauci says he was 'absolutely not' surprised when Donald Trump contracted COVID-19. Dr. Anthony Fauci says he is 'absolutely not' surprised President Donald Trump tested positive for COVID-19, after seeing him not follow safety guidelines."
+    publishedDateTime: 2020-10-19T02:45:00Z
+    webUrl: "https://www.hotnewhiphop.com/dr-fauci-says-he-is-absolutely-not-surprised-donald-trump-contracted-covid-19-news.119843.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/dr-fauci-says-he-is-absolutely-not-surprised-donald-trump-contracted-covid-19-news.119843.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/dr-fauci-says-he-is-absolutely-not-surprised-donald-trump-contracted-covid-19-news.119843.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 70
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603074875_79594a1cccfcca5b2fe1eb37a854852d.jpg/2275496a769e107a023dfcf84a404d29/1603074875_795eae86f187d7863bd541172bb14f0b.jpg"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Election 2020: Trump Tweets Democratic States Are 'Going To Hell'"
-    excerpt: "Trump's tweets come amid new national polls indicated that he is trailing Democratic challenger Joe Biden by double-digits."
-    publishedDateTime: 2020-10-13T01:15:00Z
-    webUrl: "https://www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041"
-    ampWebUrl: "https://www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041?amp=1"
+  - title: "Melania Trump Cancels Campaign Rally Attendance Due To ‘Lingering Cough’ After COVID-19 Diagnosis"
+    excerpt: "Melania Trump decided to cancel her attendance at a campaign rally for her husband, President Donald Trump, due to a lingering cough. The POTUS and FLOTUS tested positive for coronavirus earlier this month."
+    publishedDateTime: 2020-10-21T01:37:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 90
+    quality: 62
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
         width: 1024
-        height: 651
+        height: 682
         isCached: true
-  - title: "Donald Trump Eases Back Into Work by Choking the Economy to Death"
-    excerpt: "The president has torpedoed stimulus talks, telling suffering Americans to bother someone else with their so-called problems."
-    publishedDateTime: 2020-10-06T21:35:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
+  - title: "President Donald Trump, First Lady test positive for COVID-19"
+    excerpt: "President Donald Trump announced early Friday that he and First Lady Melania Trump had tested positive for Covid-19, shortly after one of his closest aides, Hope Hicks, had fallen ill with the coronavirus."
+    publishedDateTime: 2020-10-02T11:17:00Z
+    webUrl: "https://www.chron.com/news/article/President-Donald-Trump-First-Lady-test-positive-15614971.php"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 75
-    images:
-      - url: "https://media.vanityfair.com/photos/5ac273d647083864d0b3be79/master/pass/Trump.jpg"
-        width: 2000
-        height: 1278
-        isCached: true
-  - title: "Donald Trump, High on His Own Supply, Now Wants to Do the Stimulus Deal He Blew Up Two Days Ago"
-    excerpt: "Remember two days ago, when Donald Trump spent his first day back at work blowing up the economy via tweet? Which was a self-defeating move so crazy, even for him, that people were left wondering if the steroids he was on had affected his thinking?"
-    publishedDateTime: 2020-10-08T23:24:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-steroids"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-steroids/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-stimulus-steroids/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 63
-    images:
-      - url: "https://media.vanityfair.com/photos/5f3ffc42e6ce2ef35c05f886/master/pass/Trump821.2.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Asian Shares Mostly Higher After Trump Stops Stimulus Talks"
-    excerpt: "Stocks are mostly higher in Asia despite an overnight decline on Wall Street after President Donald Trump ordered a stop to talks on another round of aid for the economy."
-    publishedDateTime: 2020-10-07T06:57:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-10-07/asian-shares-mostly-higher-after-trump-stops-stimulus-talks"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-10-07/asian-shares-mostly-higher-after-trump-stops-stimulus-talks?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-10-07/asian-shares-mostly-higher-after-trump-stops-stimulus-talks?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 55
-  - title: "Stocks Drop After Trump Calls off Talks on Economic Stimulus"
-    excerpt: "Stocks dropped on Wall Street Tuesday after President Donald Trump ordered aides to stop negotiating with Democrats over another round of aid for the economy until after the election."
-    publishedDateTime: 2020-10-07T04:04:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-10-06/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-10-06/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-10-06/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital?context=amp"
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/71/55/19635036/3/rawImage.jpg"
+        width: 2048
+        height: 1306
+        isCached: true
+  - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
+    excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
+    publishedDateTime: 2020-10-18T04:50:00Z
+    webUrl: "https://www.hollywoodreporter.com/live-feed/snl-weekend-update-tackles-trump-town-hall-covid-19-and-qanon"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
     quality: 55
-  - title: "U.S. Supreme Court Ends Democratic Lawmakers' Anti-Graft Lawsuit Against Trump"
-    excerpt: "The Supreme Court on Tuesday put an end to a lawsuit brought by congressional Democrats that accused President Donald Trump of violating anti-corruption provisions in the U.S. Constitution with his business dealings."
-    publishedDateTime: 2020-10-13T23:32:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-ends-democratic-lawmakers-anti-corruption-lawsuit-against-trump"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-ends-democratic-lawmakers-anti-corruption-lawsuit-against-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-ends-democratic-lawmakers-anti-corruption-lawsuit-against-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 51
+    images:
+      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Michael-Che-Weekend-Update-SNL-H-2020-1602994848-928x523.png"
+        width: 928
+        height: 523
+        isCached: true
 
 secured: "3BgrhVLOgrULor+yttPPJweWQZkM/yZVfqAi5/8NU6nB+eCmWSFUAlwLYSkSJphMputtn1319s5XRB0APhR1Icu2DEyv3z5Kv2ygtxybA+/Fvh41WlF1g2A3uqVCAHxhNYMz2wgwW64aRtY8kH/6E7n33lPvE7/y763gJVs11tkHGYVSyzF3ZRG2+GbBsXQOa7vzrd4A9B7/IYJCyLLg8vuPEM/MV/H/WlLKtYxb6luDIfVG05ndGdgxlFIZQBewQ7CbsOLpR7MZ0hKBYtMYN/EtIOMUxTQDzYUf5beO5llRPe6sYPLviP/Ga/9jMnSIVSrqSfwtpKT6GJM2yD4MhT1aoI2j5Wa5olSSEOkhka4=;nN92zQ+jTbXy8q+oMJOmHQ=="
 ---

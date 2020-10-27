@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3702824001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001"
 type: article
 quality: 125
-heat: 185
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,53 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump heads to Iowa, Amy Coney Barrett confirmation hearings, Billboard Music Awards: 5 things to know Wednesday"
-    excerpt: "President Trump heads to Iowa, Amy Coney Barrett confirmation hearings resume for a third day and more things to start your Wednesday morning."
-    publishedDateTime: 2020-10-14T09:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/14/trump-iowa-amy-coney-barrett-billboard-music-awards/5937767002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5937767002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937767002"
+  - title: "Trump ex-fundraiser to plead guilty in 1MDB foreign lobbying case"
+    excerpt: "A former fundraiser for U.S. President Donald Trump is expected to plead guilty next week to charges of illegally lobbying Trump to drop an investigation into a massive Malaysian embezzlement scandal,"
+    publishedDateTime: 2020-10-15T23:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27033J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6c2a0c79-e2fc-4c78-a068-a33ceb6bff94-AP_Election_2020_Trump.jpg?auto=webp&crop=3341,1879,x1290,y427&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537663613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1W0"
+        width: 816
+        height: 545
         isCached: true
-  - title: "Vice President Mike Pence to be in Grand Rapids Wednesday"
-    excerpt: "Vice President Mike Pence will travel to Grand Rapids on Wednesday, Oct. 14. Pence will deliver remarks on the \"historic accomplishments of the Trump administration.\" The event will take place at 12:30 p."
-    publishedDateTime: 2020-10-13T13:05:00Z
-    webUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday"
-    ampWebUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
-    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
+  - title: "Trump Calls for Big Stimulus Proposal, Contradicting GOP Leaders"
+    excerpt: "President Donald Trump told Congress to “Go big or go home!!” on a coronavirus stimulus package, directly contradicting Senate Majority Leader Mitch McConnell’s plan to put a narrow bill on the Senate floor next week."
+    publishedDateTime: 2020-10-13T15:31:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html"
     type: article
     provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2844be0/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.theindychannel.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Donald Trump to campaign Wednesday in Gastonia"
-    excerpt: "The president will be at the Gastonia Municipal Airport Wednesday to campaign for his 2020 reelection campaign."
-    publishedDateTime: 2020-10-16T21:46:00Z
-    webUrl: "https://www.wcnc.com/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
-    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
-    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
+  - title: "Trump trashed by ex-GOP chair in op-ed calling for him to be driven from office"
+    excerpt: "In a scorching op-ed for USA TODAY, former New Hampshire Republican Party Chairwoman Jennifer Horn excoriated her party for its loyalty to President Donald Trump — and urged her colleagues to be rid of him."
+    publishedDateTime: 2020-10-17T17:40:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
     type: article
     provider:
-      name: WCNC
-      domain: wcnc.com
-    quality: 75
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 71
     images:
-      - url: "https://media.wcnc.com/assets/WZZM/images/d11f7245-6d50-49bc-81d7-092cae6f06dd/d11f7245-6d50-49bc-81d7-092cae6f06dd_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-9.png"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "d1s6NfLNMZYnra2DYX5zbpgn51R3nK4m4MalFRxSUdF1p2qB9wkmv+mWYt0sACtWcXnJvtG1XLdMcOTH6XPWXS59mINMbI8i2AOzGBXls/JpiQnnIZI1BKZlH+zD3nce3OWB/zU++JyPLUSw+ijKlCEq3IrahC7G5FnQN5On4CFi51gdr0xETnbca/ay1HkOsWZYgZYRIV/SxHzj5AA7pVSF2TwwJZmw36rpHpK03kixD0e4kuIhfsTIKpR0XaUZoD3GeK3P14IJdjVQtE+pjBQFX/xl1Tf9W4RiwcEqfhw34uipHY09dvYh9FU+VFIG3GGXrxcUjXEmap1mWq1TNMqn1TABCydJu4Ey6llaOMY=;r5EwPi4cGh6jetN5sAD5eQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-vide
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: The Raw Story
@@ -31,95 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Calls for Big Stimulus Proposal, Contradicting GOP Leaders"
-    excerpt: "President Donald Trump told Congress to “Go big or go home!!” on a coronavirus stimulus package, directly contradicting Senate Majority Leader Mitch McConnell’s plan to put a narrow bill on the Senate floor next week."
-    publishedDateTime: 2020-10-13T15:31:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html"
+  - title: "WATCH: Former NSA, CIA Director Gen. Michael Hayden Warns Against Second Term for Trump in New Ad: ‘I Don’t Know What Happens to America’"
+    excerpt: "Former NSA, CIA Director Gen. Michael Hayden warns against second term for Trump in new Republican Voters Against Trump Ad: 'I don't know what happens to America'"
+    publishedDateTime: 2020-10-07T03:48:00Z
+    webUrl: "https://www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: Mediaite
+      domain: mediaite.com
+    quality: 42
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "What Trump's comments about ceasing stimulus-package negotiations mean for future $1,200 payments — in one minute or less"
-    excerpt: "Confused on all the news around the stimulus talks and Trump's tweets? Catch up on what it all means for the chances of another stimulus check here."
-    publishedDateTime: 2020-10-08T09:09:00Z
-    webUrl: "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
-    images:
-      - url: "https://i.insider.com/5f63d42757b7da001ee125e3?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "‘Where are the surrogates?’ Fox News corners White House aide on GOP lawmakers refusing to campaign for Trump"
-    excerpt: "White House Communications Director Alyssa Farah on Wednesday faced questions from Fox News about why Republican lawmakers have been absent from President Donald Trump’s re-election campaign. “If you look at the polls,"
-    publishedDateTime: 2020-10-14T16:00:00Z
-    webUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 56
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Kilmeade-Farah-2-787x430.jpg"
-        width: 787
-        height: 430
-        isCached: true
-  - title: "Trump Mulls Higher US Stimulus Offer As Mnuchin Downplays Deal"
-    excerpt: "Getting a new stimulus spending package approved by Congress is unlikely before the November election, US Treasury Secretary Steven Mnuchin said Thursday, even as his boss President Donald Trump indicated he may raise his offer amid an impasse with the Democrats."
-    publishedDateTime: 2020-10-15T21:11:00Z
-    webUrl: "https://www.ibtimes.com/trump-mulls-higher-us-stimulus-offer-mnuchin-downplays-deal-3062833"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/15/us-treasury-secretary-steven-mnuchin-has-spent-weeks-AFP_8T74F9.jpg"
-        width: 1024
-        height: 673
-        isCached: true
-  - title: "Trump is ‘going to get absolutely crushed’: GOP campaign consultant paints grim portrait of president’s future"
-    excerpt: "Appearing on MSNBC on Saturday afternoon with host Alex Witt, noted Republican campaign consultant Stuart Stevens left no doubt about what he thinks is going to happen on election day, saying Donald Trump is going to “get crushed” and former Vice President Joe Biden will become the next president."
-    publishedDateTime: 2020-10-17T19:15:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 55
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/Donald-Trump-Mandel-NganAFP-2-736x430.jpg"
-        width: 736
-        height: 430
-        isCached: true
-  - title: "New Trump Golf Course In Scotland Gets Go-head Despite Environmental Fears"
-    excerpt: "President Donald Trump's company has been given permission by Scottish authorities to build a second golf course in northeast Scotland despite local objections. Plans for a new 18-hole golf course have been approved by Aberdeenshire council."
-    publishedDateTime: 2020-10-17T20:34:00Z
-    webUrl: "https://www.ibtimes.com/new-trump-golf-course-scotland-gets-go-head-despite-environmental-fears-3063804"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 53
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/president-donald-trump-pictured-during-construction-of-his.jpg"
-        width: 1024
-        height: 689
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Gen.-Michael-Hayden-Warns-Against-Second-Term-for-Trump-in-New-Ad.jpg"
+        width: 842
+        height: 473
         isCached: true
 
 secured: "tLrxnoWtI5f4WHXtmXaK//uBv/ajnuOmpR47N7r/1a3wnIy+LUWPl8WX7PJ/xpZ/pa0Vge7fqX5b9470rCkoDnUqh/WXMr0XLi3yzmtHADqiGIbVwZKp+vNEix+MrJ6RhfDVwfTsk+zSfCBbNa5SXZMN10kezZqcw7u+Z0WovZ1QkUNnZKkB4uzKfPW0lDNHikHUgAyrTovI1A1mHwJcqhdaue8mEgiJueoZ9kOug92lvngU6QqVnsqnkL7DpRaskQ67TzxJRtoLGMPTycAL6rgiv8FYKpqAcyIuyguNa2yZLcYvTjVj/RDcnMFRPHA0RyPy2MBHNzDYf7CTG002lfjNnTXeAaS5y31ylMlZutw=;4E4MEZbIO0LIB6XX7ccZiA=="

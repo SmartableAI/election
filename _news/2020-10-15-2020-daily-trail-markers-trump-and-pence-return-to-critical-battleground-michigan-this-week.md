@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
 type: article
 quality: 129
-heat: 469
+heat: 489
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1654827/donald-trump-michigan-rally.jpg"
         width: 3387
         height: 2630
+        isCached: true
+  - title: "Michigan governor pushes back against Trump rally chants"
+    excerpt: "Michigan Gov. Gretchen Whitmer says President Donald Trump is inciting “domestic terrorism” following “lock her up” chants at his rally in the state"
+    publishedDateTime: 2020-10-18T20:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/michigan-governor-pushes-back-trump-rally-chants-73682935"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-governor-pushes-back-trump-rally-chants-73682935"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-governor-pushes-back-trump-rally-chants-73682935"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_320dcd21db404371b760a2b4cae7b822_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Michigan lt. governor: Trump is 'antithetical' to what Michigan voters want"
     excerpt: "Michigan Lt. Governor Garlin Gilchrist (D) on Wednesday said that President Donald Trump's actions are \"antithetical\" to what Michiganders want."

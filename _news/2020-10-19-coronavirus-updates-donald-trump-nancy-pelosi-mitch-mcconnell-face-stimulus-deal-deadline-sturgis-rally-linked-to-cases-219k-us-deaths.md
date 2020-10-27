@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
 type: article
 quality: 91
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/democratic-house-speaker-nancy-pelosi-wants-to-spend.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Trump town hall: President Donald Trump tells Nancy Pelosi he’s ready to sign a ‘big, beautiful’ COVID stimulus"
-    excerpt: "President Donald Trump on Thursday pinned the months-long COVID-19 stimulus stalemate on House Speaker Nancy Pelosi, saying he’s ready to sign a “big, beautiful stimulus” immediately and shrugging off the fact that Republican senators have consistently thwarted several aid packages over cost concerns."
-    publishedDateTime: 2020-10-16T01:23:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/trump-town-hall-president-donald-trump-tells-nancy-pelosi-hes-ready-to-sign-a-big-beautiful-covid-stimulus.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/trump-town-hall-president-donald-trump-tells-nancy-pelosi-hes-ready-to-sign-a-big-beautiful-covid-stimulus.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/trump-town-hall-president-donald-trump-tells-nancy-pelosi-hes-ready-to-sign-a-big-beautiful-covid-stimulus.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 55
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YF444BK6UZD5TD2DU2OGPYABOQ.jpg"
-        width: 6000
-        height: 4000
         isCached: true
 
 secured: "hyHWDdJbH9qEbC2o0eAeIbXpKVIM1jdg70uI0AzGKCvtcitcGJW/jpzgKkOHNsqnbZK5tTDqqYDIKLecsIwpQqzToTspVCbVmIHs4pD6lvoXD0vxBxHRSes5xgIUfik9AJ20bnQWyHoc6iGSDeLul4lwlTGtQUXtIGgM0jPkzru0dmR4ZgjBFVe8r43QAtaIMI3LLIsKpbSS4860n2UE/CtskcSTvpRwf6HwtMGsEZXCJVn8tMFoJMoRoKZau9XtVamOsxcXLXfUqKivp+XRU29r9+DcrXc+syZIj+N7menTulYLFnzk7AzbyD+yuu9iTywJb1LZ0slUHvArxNjxn5rUJdm676dTCBgMecp9etI=;ZawLOcQYnqWYKD7Pn37UCw=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/business/on-small-business/trump-ca
 webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html"
 type: article
 quality: 105
-heat: 225
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -29,97 +29,53 @@ images:
     isCached: true
 
 related:
-  - title: "What Trump's comments about ceasing stimulus-package negotiations mean for future $1,200 payments — in one minute or less"
-    excerpt: "Confused on all the news around the stimulus talks and Trump's tweets? Catch up on what it all means for the chances of another stimulus check here."
-    publishedDateTime: 2020-10-08T09:09:00Z
-    webUrl: "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10?amp"
+  - title: "Trump ex-fundraiser to plead guilty in 1MDB foreign lobbying case"
+    excerpt: "A former fundraiser for U.S. President Donald Trump is expected to plead guilty next week to charges of illegally lobbying Trump to drop an investigation into a massive Malaysian embezzlement scandal,"
+    publishedDateTime: 2020-10-15T23:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27033J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f63d42757b7da001ee125e3?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537663613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1W0"
+        width: 816
+        height: 545
         isCached: true
-  - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
-    excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
-    publishedDateTime: 2020-10-07T02:35:00Z
-    webUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
+  - title: "Ivanka Trump to attend fundraiser in Naples on Wednesday"
+    excerpt: "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week."
+    publishedDateTime: 2020-10-19T17:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3702824001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/PAPN/07ca4d7d-ac9f-49d1-b24a-73ea98e9a36a-cent02-7cqq5o1gxdk11a63bhj8_original.jpg?auto=webp&crop=2999,1687,x0,y402&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump trashed by ex-GOP chair in op-ed calling for him to be driven from office"
+    excerpt: "In a scorching op-ed for USA TODAY, former New Hampshire Republican Party Chairwoman Jennifer Horn excoriated her party for its loyalty to President Donald Trump — and urged her colleagues to be rid of him."
+    publishedDateTime: 2020-10-17T17:40:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 67
+    quality: 71
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg"
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-9.png"
         width: 800
         height: 430
-        isCached: true
-  - title: "‘Where are the surrogates?’ Fox News corners White House aide on GOP lawmakers refusing to campaign for Trump"
-    excerpt: "White House Communications Director Alyssa Farah on Wednesday faced questions from Fox News about why Republican lawmakers have been absent from President Donald Trump’s re-election campaign. “If you look at the polls,"
-    publishedDateTime: 2020-10-14T16:00:00Z
-    webUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 56
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Kilmeade-Farah-2-787x430.jpg"
-        width: 787
-        height: 430
-        isCached: true
-  - title: "Trump Mulls Higher US Stimulus Offer As Mnuchin Downplays Deal"
-    excerpt: "Getting a new stimulus spending package approved by Congress is unlikely before the November election, US Treasury Secretary Steven Mnuchin said Thursday, even as his boss President Donald Trump indicated he may raise his offer amid an impasse with the Democrats."
-    publishedDateTime: 2020-10-15T21:11:00Z
-    webUrl: "https://www.ibtimes.com/trump-mulls-higher-us-stimulus-offer-mnuchin-downplays-deal-3062833"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/15/us-treasury-secretary-steven-mnuchin-has-spent-weeks-AFP_8T74F9.jpg"
-        width: 1024
-        height: 673
-        isCached: true
-  - title: "Trump is ‘going to get absolutely crushed’: GOP campaign consultant paints grim portrait of president’s future"
-    excerpt: "Appearing on MSNBC on Saturday afternoon with host Alex Witt, noted Republican campaign consultant Stuart Stevens left no doubt about what he thinks is going to happen on election day, saying Donald Trump is going to “get crushed” and former Vice President Joe Biden will become the next president."
-    publishedDateTime: 2020-10-17T19:15:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 55
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/Donald-Trump-Mandel-NganAFP-2-736x430.jpg"
-        width: 736
-        height: 430
-        isCached: true
-  - title: "New Trump Golf Course In Scotland Gets Go-head Despite Environmental Fears"
-    excerpt: "President Donald Trump's company has been given permission by Scottish authorities to build a second golf course in northeast Scotland despite local objections. Plans for a new 18-hole golf course have been approved by Aberdeenshire council."
-    publishedDateTime: 2020-10-17T20:34:00Z
-    webUrl: "https://www.ibtimes.com/new-trump-golf-course-scotland-gets-go-head-despite-environmental-fears-3063804"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 53
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/president-donald-trump-pictured-during-construction-of-his.jpg"
-        width: 1024
-        height: 689
         isCached: true
 
 secured: "2ceA4akh74Rg0lk76NL+8UX2RTEut2JvroyHimJTG/eNwXgyFvxvhupfhKqFrhNO6BRKTl4ZIn5o/gUtjxPGneZwe5U1j445TLyM5774KcNPBcl8Tis0E8SiKStzLFZ3vZVwtxk0lMzS0Pw9WMrlN4qnSvkRU2OUD0opHBkIJvLnA3UecuL1eFBxqeRZj9EEvm5buEqC15kQaK56nGh/nWn1I76gOFJxX+VZrytye+XtAVkihV4NNDqSll/q6XRWVsXGz4urdgDypLM6wJuq9raxx4oeE5cK/vTSQrpjlVzr6m26XNb0b3xefNGkgvwzLYuj5DMfM43+DJjz3H2kl1+CBTPfnbOoWPf7WQvOTy4TcrIzRxA1zj7DYM6zMHvSfWhvYvYvbOGiM82u15jfoqXtMo7ft32gvIotegT0V8cSP0wzCaYrbVUN1EvzgpN/Hc0Ijtso1/og7G9t20P90Egt8K+J/Fm1OS2+1C0xf5azdXjSxiu7JJE2UK/b+WfZMRBbKWI0m/toQMnY3wd/DQ==;lAnig38zVq693L/90UryrQ=="

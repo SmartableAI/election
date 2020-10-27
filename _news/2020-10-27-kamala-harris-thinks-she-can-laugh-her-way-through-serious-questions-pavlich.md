@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ben Shapiro: 'Nothing funny' about Kamala Harris laughing off questions about socialism"
+    excerpt: "Podcast host and author Ben Shapiro on Monday ripped Sen. Kamala Harris, D-Calif., for laughing at an interviewer who asked if she had socialist views."
+    publishedDateTime: 2020-10-26T19:54:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "YmbQEB4jlWmD2A4LBC24ZgLzejdpl/S6UATKGeSiJzQFFcJS1GJvGUOwUvM4gk4oEJ5mS47mLMpHjHJsal6FGKp9+m02EM5JmlhSVJ4RYYYIxrT9HfArhPKcK8Z6ocZSkzul535jdxSmAYc6xNvpe+MGA4Aym6HW4Uz+S+IntpXkWJSAZp5hvo7m57nM8KPLkJdrc2gSpUHcChl+t9+v2jL30MJVVwxviCwekHp371RjQPjnXj3XRjCwDNP5Z7IHsUjJNQAwLQWcSkDiH1SES54bD/qkwN2L40N+kB9iL+fOU8dFHRuvlYWO2rN1VsFzPhbU5ohUpOf06npoW/0MuPhwDr7fLdNmJhvaVdV/hKc=;0KWR2Iw4JWUwFukLYW36aA=="
 ---

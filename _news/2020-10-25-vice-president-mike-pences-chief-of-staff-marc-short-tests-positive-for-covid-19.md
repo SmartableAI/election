@@ -2,9 +2,9 @@
 category: news
 title: "Vice President Mike Pence's chief of staff Marc Short tests positive for COVID-19"
 excerpt: "\"Vice President Pence and Mrs. Pence both tested negative for COVID-19 today, and remain in good health,\" Pence's press secretary Devin O'Malley said."
-publishedDateTime: 2020-10-25T05:20:00Z
-originalUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?ftag=CNM-00-10aab7e"
-webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?ftag=CNM-00-10aab7e"
+publishedDateTime: 2020-10-25T04:13:00Z
+originalUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3a&ftag=CNM-00-10aab4i"
+webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3a&ftag=CNM-00-10aab4i"
 ampWebUrl: "https://www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
 type: article
@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Close political adviser to Mike Pence tests positive for COVID-19"
-    excerpt: "According to Bloomberg News, one of Vice President Mike Pence’s top political advisers has tested positive for COVID-19. It is unclear if Marty Obst developed coronavirus symptoms when he tested positive."
-    publishedDateTime: 2020-10-25T05:17:00Z
-    webUrl: "https://www.rawstory.com/2020/10/close-political-adviser-to-mike-pence-tests-positive-for-19/amp/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/close-political-adviser-to-mike-pence-tests-positive-for-19/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/close-political-adviser-to-mike-pence-tests-positive-for-19/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/04/pence.jpg"
-        width: 800
-        height: 430
-        isCached: true
   - title: "Democrats ask Vice President Mike Pence to skip Amy Coney Barrett vote over COVID risk"
     excerpt: "A deeply torn Senate is set to confirm Amy Coney Barrett to the Supreme Court, but Democratic leaders are asking Vice President Mike Pence to stay away from presiding over Monday’s session due to potential health risks after his aides tested positive for COVID-19."
     publishedDateTime: 2020-10-26T12:16:00Z
@@ -158,6 +142,6 @@ related:
         height: 746
         isCached: true
 
-secured: "OLSLvdtsyvVRIjtw1b94HDtTvFhCSXfU1hCpBacij3OdFujdk309i/JlOk2VrYXQu3aAzaWSzmDCLdkvYMWSZFg8nBS3geGsllEokw+35ohhyjZoGaZH1V2QZz3vMO9n6Y1tNn9DJnu7kxu6O1Qp8YN8nVfhr8qmKEONWakdPuiaoLLKm3aSIe8NBOTbma7zqsdRcjx7NHjc7JJx04ztIbkJZMQXBhCn1NZqbfonhoIpKu40BzF+Y7Q6bgRub70Lvy1de0S57YNz70XNueTt0WLpxBZHosBBcG5fBtqAYmHA+3qdhgKC9rRb4oskGKDqog8zsjpdy/WZw/FWTuNagupB88+BXT419WIb8e5Of5E=;UNPdiQDFO8xHPFsEs+wmAw=="
+secured: "TiflNNsdZ2LmCBYBjk8+up8At0I85657Q5h/0LD/qjtaSW5j9f+9YFIEzam6Qvs/UQ7y1hqGw4oz4KV5EsMINFDbdShmfylyNONd8VsiK4rOZ6z4918vYn8z1Evenw+R7VMjfpRv40imkfYpzDGxXhvfwxZTO+wVtwAsEXI8NJPBLUm2QE6Ex5o649bqJSaZeA0LUPpTfc6Csyq+q3Shr65MYMTQVjs7wIp1Z1/XFA6AMFBQAmM4jqPlL4BV2ljReI1Q6ytErwk1Wj8YgEr94SKdOVN703kkYZN5TY6GTVV3OuEMp7SHFDnipiBNuGYsntX5wRZATe0dMu1vC+WYFm06n0K0eb10jPBhGLPqUes=;eJ/PSvzhvbhkAuRX5W1WYw=="
 ---
 

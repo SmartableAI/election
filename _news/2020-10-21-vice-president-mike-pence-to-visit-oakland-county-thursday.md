@@ -27,53 +27,133 @@ images:
     isCached: true
 
 related:
-  - title: "See what Mike Pence's rally in York County looks like"
-    excerpt: "Vice President Mike Pence visited York County on the final day Pa. residents are eligible to vote in the 2020 Election."
-    publishedDateTime: 2020-10-19T20:28:00Z
-    webUrl: "https://www.ydr.com/story/news/2020/10/19/mike-pence-rally-pa-election-2020-york-county/5982553002/"
-    ampWebUrl: "https://amp.ydr.com/amp/5982553002"
-    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/5982553002"
+  - title: "Biden Corruption and the Thursday Debate | Opinion"
+    excerpt: "We have a scandal involving Vice President Joe Biden, his brothers and his son dealing with China, Russia, Ukraine, Romania, Kazakhstan, Oman and possibly other foreign influence buyers."
+    publishedDateTime: 2020-10-21T19:14:00Z
+    webUrl: "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101"
+    ampWebUrl: "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1"
     type: article
     provider:
-      name: YDR
-      domain: ydr.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/06/07/PPYR/da6f4f53-0dec-4b1e-94a0-66b032fdc6f5-YDR-CC-6619-MikePence11.JPG?auto=webp&crop=3025,1693,x0,y0&format=pjpg&width=1200"
+      - url: "https://d.newsweek.com/en/full/1656418/bidens.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Joe Biden Urged To Grant 2.2 Million Deferred Enforced Departure On ‘Day One Of His Presidency’"
+    excerpt: "In a letter shared exclusively with this publication, Democratic presidential nominee Joe Biden is being urged to promise roughly 2.2 million people at risk of future deportation protections to remain in the U."
+    publishedDateTime: 2020-10-16T12:35:00Z
+    webUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/"
+    ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 113
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88e1ce890b284b1282a55b%2F0x0.jpg"
         width: 1200
-        height: 672
+        height: 800
         isCached: true
-  - title: "Mike Pence holding campaign rally in Oakland County"
-    excerpt: "Vice President Mike Pence will host a campaign rally in Waterford Township on Thursday with a focus on fracking, trade, the economy, and contrasting Joe Biden's record on China vs."
-    publishedDateTime: 2020-10-21T12:20:00Z
-    webUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.html"
-    ampWebUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.amp.html"
-    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.amp.html"
+  - title: "Donald Trump, NBC News Set Town Hall Event For Thursday, Competing With ABC News’ Joe Biden Event"
+    excerpt: "Donald Trump will do a town hall for NBC News on Thursday, after an agreement was reached between the network and his presidential campaign on the details for the event. That means that Trump and"
+    publishedDateTime: 2020-10-14T12:14:00Z
+    webUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/#!"
+    ampWebUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
     type: article
     provider:
-      name: The Oakland Press
-      domain: theoaklandpress.com
+      name: Deadline.com
+      domain: deadline.com
+    quality: 77
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20280081514930.jpg?w=1024"
+        width: 1024
+        height: 741
+        isCached: true
+  - title: "Vice President Mike Pence to visit Oakland County on Thursday"
+    excerpt: "Vice President Mike Pence will be back in Michigan on Thursday as a string of high-profile visits to the state continues ahead of the Nov. 3 election."
+    publishedDateTime: 2020-10-21T05:46:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/20/vice-president-mike-pence-vsit-oakland-county-thursday/3708766001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/3708766001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3708766001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
     quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/5/69/569d3f64-120f-11eb-b03b-cf485488bd15/5f8d95192e5c9.image.jpg"
-        width: 698
-        height: 392
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/PDTN/ed9d6f3f-e47c-4dec-ad0d-c99eac40fd8c-2020-1014-dm-pence-grandrapids0723.jpg?auto=webp&crop=1854,1043,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "In Berks County, Vice President Mike Pence makes his case for four more years"
-    excerpt: "He touted President Donald Trump and the administration's accomplishments: \"That's what leadership looks like.\""
-    publishedDateTime: 2020-10-17T20:30:00Z
-    webUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.html"
-    ampWebUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
-    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
+  - title: "Vice President Pence to campaign in Waterford Thursday"
+    excerpt: "Vice President Mike Pence is scheduled to hold a “Make America Great Again” rally in Michigan on Thursday, Oct. 22."
+    publishedDateTime: 2020-10-21T01:32:00Z
+    webUrl: "https://www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/"
+    ampWebUrl: "https://www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/?outputType=amp"
     type: article
     provider:
-      name: Daily Local News
-      domain: dailylocal.com
-    quality: 72
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/3/ee/3eeb823e-71d6-507c-ad7b-048ace5ca669/5f8bb6dee2c0a.image.jpg?resize=1024%2C735"
-        width: 1024
-        height: 735
+      - url: "https://www.clickondetroit.com/resizer/VC9YfWLy9HeJe-EysXd4Zgl3g5Y=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/Q6W35VUWDNFGLOOIQX4ZAQQTGE.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden Said He Wants to 'Transition From the Oil Industry.' That Shouldn't Be a Surprise"
+    excerpt: "W hen former Vice President Joe Biden said at Thursday’s presidential debate that he wanted to “transition from the oil industry,” President Donald Trump pounced. “Oh, that’s a big statement,” Trump said,"
+    publishedDateTime: 2020-10-23T23:29:00Z
+    webUrl: "https://time.com/5903235/joe-biden-oil-industry-debate/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 75
+  - title: "Vice President Mike Pence to make 2 South Florida stops on Thursday"
+    excerpt: "President Trump and Vice President Mike Pence will both be in South Florida on Thursday, attending separate events. At 12:30 p.m.,"
+    publishedDateTime: 2020-10-15T13:09:00Z
+    webUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/"
+    ampWebUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 55
+  - title: "Pence to visit Fort Wayne on Thursday"
+    excerpt: "Vice President Mike Pence is scheduled to campaign Thursday in Fort Wayne, according to a tweet by his communications director."
+    publishedDateTime: 2020-10-19T18:10:00Z
+    webUrl: "https://journalgazette.net/news/local/local-politics/20201019/pence-to-visit-fort-wayne-on-thursday"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 55
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20201019/WEB/310199788/AR/0/AR-310199788.jpg"
+        width: 800
+        height: 528
+        isCached: true
+  - title: "Editorial: Joe Biden can restore nation to normalcy"
+    excerpt: "At this point some might question the utility of an endorsement regarding the race for the President of the United States; supporters of President Trump or former Vice President Joe Biden will have long ago locked in their decisions,"
+    publishedDateTime: 2020-10-22T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/editorial-joe-biden-can-restore-nation-to-normalcy/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 55
+    images:
+      - url: "https://www.heraldnet.com/wp-content/uploads/2020/10/23074911_web1_TSR-201022-edh-opi-EndorseBiden2.jpg"
+        width: 1302
+        height: 868
         isCached: true
 
 secured: "WQXI1RaUQYrU0LucrlpCQY+kavdABb5jEOQtbK0ydDp6d7DQbI1kpUiC1iXeSlQ6TbLqNVQo8qSMaRgrhKrDE4XwYhG2XF37rd6yXYyOw6mjTkLqnJltl4mvm/PbK0olCAZt15YPacBWtg8vwgSa+o2IrXOkW7rIuEqkxh49EbSpo7LWt55q9szKXd5xcgnRGEOkh1TS3wXcTW5cSUvpWhsHCJsSRQuFZ2tDY3R/y4LZvyA9QBZiCVBUVtn+BNuBMz2ZKo2nPKQ55zkSvi4Hyr9sEtcvVNqbsO4HMze8Mskozh/s0V3056Y4WoHOT185f/VAafFg752GV9wd8sLLoJF9BRmpgZYduZYU5AiMzi3XgE/SJwe+EiT9XFfGjshhb3FnuvDmWOdX86CL2R2OgmotySS1y6/v2bkd2zYnIcAcD2JgPJK5uWwkZBnFFgs8euiTaA/M0VzufalqU6IfDB99zFQwR9YlJGlt1aYykWZSDy9r84BuF+Lo8rF2WHCt8R3/Y0ESpCztmt348Rsg/Q==;DWBvwA8nHHtUT6wdFpMGbA=="

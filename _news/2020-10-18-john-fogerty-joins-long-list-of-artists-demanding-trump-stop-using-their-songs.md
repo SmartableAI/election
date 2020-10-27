@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump keeps confusing the name of new hard-to-kill missiles the US military is working on with a toothbrush"
+    excerpt: "Not only does Trump keep getting the name wrong, but he has also provided conflicting information on what the weapon actually does."
+    publishedDateTime: 2020-10-20T23:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5b74902142e1cc5b777140d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "l9pXKoewxfUu0EBIIRA875Bvv06T6v6CLSQxN9e/FP9A9YtzQyM+/mHvIeSoTNRvKnxDSK4W8Q4+Q+RjKOzgG0zTjRsmtm/Gx+6C+0mK8efUqLe+Q0ROowMBNwCrIOZiX5//OStg0T3/bUVwOtADesOz/cDLRs2uZiHeVCHyISjwnROuPKFCB0EXLRZW+NT2Uj6bCkkm3fknRMx9duJsuxhuznBiHpeItaMatKPJsSHNYV28IbtGe+k43HsLmrL/l76juZQsnasG+k9AorEXV9egF9eB56sgvbF6O4ct/7b5zAjb2lXZ8dOYVKLP/+ym6/jNJzyoqKVFj9bDO0F59CzyNvs2Ox60MDbk4Vt+mMA=;wa+VYZPUJg+4I/W+FhxJ4A=="
 ---

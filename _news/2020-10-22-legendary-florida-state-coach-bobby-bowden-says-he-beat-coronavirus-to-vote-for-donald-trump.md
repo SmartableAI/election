@@ -43,33 +43,38 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Pence brings Trump’s closing message to Florida’s capital city"
-    excerpt: "Pence also continued the Trump administration’s focus on a positive spin about how they have handled the virus. The vice president promised a COVID-19 vaccine by the end of the year and vowed to reopen the economy and schools."
-    publishedDateTime: 2020-10-25T01:47:00Z
-    webUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/"
-    ampWebUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/?outputType=amp"
+  - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
+    excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
+    publishedDateTime: 2020-10-24T09:12:00Z
+    webUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 90
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
     images:
-      - url: "https://www.tampabay.com/resizer/BYIRCtzhvxKarsiUDB61KZGh2YA=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/47HOJ2DIOZCQHJESLMYKRGX44M.jpg"
-        width: 800
-        height: 450
+      - url: "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Trump Campaign Loses Again in Suit Over Philly Voter Offices"
-    excerpt: "A Pennsylvania appeals court is delivering another defeat to efforts by President Donald Trump’s campaign to let its campaign representatives monitor people registering to vote or filling out mail-in ballots in election offices in the battleground state."
-    publishedDateTime: 2020-10-23T16:24:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-23/trump-campaign-loses-again-in-suit-over-philly-voter-offices"
-    ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-23/trump-campaign-loses-again-in-suit-over-philly-voter-offices?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-10-23/trump-campaign-loses-again-in-suit-over-philly-voter-offices?context=amp"
+  - title: "Gun-Toting ‘Guards’ at Florida Polls Claim They Were Hired By Trump Campaign — Trump Campaign Denies"
+    excerpt: "Two armed men dressed as security guards told cops they were hired by the Trump campaign to set up near a Florida early voting location — a claim that President Donald Trump's campaign denied through a spokesperson."
+    publishedDateTime: 2020-10-22T13:24:00Z
+    webUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/"
+    ampWebUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: Mediaite
+      domain: mediaite.com
+    quality: 60
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Florida-Early-Voting.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0d9a4fwZ6MXrMnv+N52BvVoo7RbtZMmdrLhdhETC17b364HjfSEreXR05u0cSPNkLJGcz87qXOT4iEMglytSxrI9FJsgUAuJFS/YmRxi5bSsYESfpjaaqc3RssReYlPHIpjoE+TZEaZKPLVEIhf4Nhxk699H3yIP0CzvWnUy4r3j78T0Ny80Kt1YEX/wS+j85SInWhKDgHM/yr6qsW1JOjlbxFGPlr73UXthiHlMNZ3F2guvkU+/Dj/Crx+JZHpK0GChNs1AGOlAbhRxrwRO6oEMvTHzeZVVll09e9Mz2ZVFOGB0Jwv+bcO4g7hF+ZJ6l5AbCRXyBMWYhpy7olro0X9GtH47BLBabznG4imUFZYKrzftVhhsorHd9W0yDcV03AFxgWKnp5w4j3SGMfkDNUs3xKYoUivy5T0xXlm3YcoX4S23TwBqu+bLxfCyjHmQ1E+ZfZtPfiOv21QUMFVYy5RhwBPptDLtehAudYxMl4EG44shahDIfGxpN8HjFlJWSBS1W0Dhtt+ZvkVyrLn1lw==;OsvURmSStMEg1XHO6OjROA=="
 ---

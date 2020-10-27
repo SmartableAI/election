@@ -91,6 +91,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "How Joe Biden can win Tuesday’s debate"
+    excerpt: "What Joe Biden needs from Tuesday’s opening debate with President Trump is, at one level, quite simple: Voters must see Biden as good enough. The Democratic nominee has enjoyed a steady lead in the polls."
+    publishedDateTime: 2020-09-28T12:06:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YS5THVX52YI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden has foreign policy ideals that can work in this chaotic world"
     excerpt: "On trade policy, Biden supported the North American Free Trade Agreement and also promoted the Trans Pacific Partnership. The latter, which Hillary Clinton and Trump both opposed in 2016, sought to elevate standards for free trade on issues like labor rights,"
     publishedDateTime: 2020-09-28T15:00:00Z
@@ -122,6 +138,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/33/41/20035650/3/rawImage.jpg"
         width: 2048
         height: 1283
+        isCached: true
+  - title: "Biden says he opposes Supreme Court term limits"
+    excerpt: "Democratic presidential nominee Joe Biden Joe Biden Fox News president, top anchors advised to quarantine after coronavirus exposure: report Six notable moments from Trump and Biden's '60 Minutes ..."
+    publishedDateTime: 2020-10-26T21:39:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522848-biden-says-he-opposes-supreme-court-term-limits"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522848-biden-says-he-opposes-supreme-court-term-limits?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522848-biden-says-he-opposes-supreme-court-term-limits?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10262020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Joe Biden to Democrats: Keep focus on health care, not expanding Supreme Court"
     excerpt: "The former vice president sidestepped any talk of expanding the court to counter conservative gains should he win in November and Democrats regain a Senate majority."
@@ -307,6 +339,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Joe Biden releases 2019 tax returns ahead of debate"
+    excerpt: "The Bidens’ returns show the couple paid almost $300,000 in federal taxes in 2019, including almost $288,000 in personal income tax."
+    publishedDateTime: 2020-09-29T19:05:00Z
+    webUrl: "https://www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html"
+    ampWebUrl: "https://www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODUGFEJGCBFJRFZ6HSCOUQXKQA.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "What California’s COVID approach could teach the country if Joe Biden wins"
     excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."
     publishedDateTime: 2020-09-20T12:00:00Z
@@ -401,6 +449,17 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Joe Biden Will Create Commission on Supreme Court Reforms if Elected"
+    excerpt: "The Democratic presidential nominee has been repeatedly pressed to give his position on ‘court packing’ but said his commission would study options ‘well beyond’ court expansion."
+    publishedDateTime: 2020-10-22T13:22:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "SROeAkZv/VDeOaO0/nJ//r1UGnr+ai+9BDz8gSyB1fE+tonGlQGofl9CYvrjS/2k/vSiZUNogSnoKeraBe9vvr9aMd8EnUNJOzxa8/lalSRrlKSflHOc7/lSFezNviUYs155mqaaafb7QWXwJRRpGr55jAce245Ik7zsgqHddFcxEBL5BQbhCjpHPLJb2XXLeYU2yhbf1q6Sf1rVJazk5yvi4B+iPDahKuxq2Zv4wYYI3oKh7RrV/tSeHa+Nxja6ryTesC1MEF4oe4dzn8MohjTMLhQ8i9qHn7NxCD4cZqJyyaWJwLrnxsJj684DJ21IJuQbntICwgpDGqA9XH63f7Q/aVBvFJ7QI0FD3QIjMWs/B6AjMXDUiwDZuH5187Z3fnRrXpDCD+wkSvFaKKWcp0Xh1/k+aYP8rOwjSxQZ3vhBACsDp+bFG2t2V+dNWj1H00PlfGqFvoL/Dn/jKYsYaDFjnArjFAA8FlZIxcEm3CgjcigVgysTOF1SSlZf6DZDI1STy1VmtuqYtkGb7hq+qg==;xa4UyWSZZnGj3QiTkF2rvg=="
 ---

@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris in Michigan: Trump administration 'is admitting defeat' on COVID-19"
-    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris said that the Trump administration \"is admitting defeat\" after White House Chief of Staff Mark Meadows said the United States \"is not going to control\" the virus."
-    publishedDateTime: 2020-10-25T23:35:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
+  - title: "Kamala Harris vows independent DOJ after saying there would be 'no choice' but to prosecute Trump"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday that Joseph R. Biden’s Justice Department would operate independently, after saying last year that her DOJ would have “no choice” but to pursue charges against President Trump under certain circumstances."
+    publishedDateTime: 2020-10-26T19:55:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/26/kamala-harris-vows-independent-doj-after-saying-th/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/26/kamala-harris-vows-independent-doj-after-saying-th/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/26/kamala-harris-vows-independent-doj-after-saying-th/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 85
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 77
     images:
-      - url: "https://cdnph.upi.com/ph/st/th/4321603644464/2020/upi/3ad59f43d1778808fde5591a836b2b2a/v1.5/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19.jpg?lg=5"
-        width: 800
-        height: 534
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/25/Election_2020_Harris_09529.jpg-c818a_c0-151-3620-2262_s1200x700.jpg?eba5093aa7c3f9e573648322a5cb679b545d8338"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "6enQnmsv16jBMOiqp3oHAk6pSSrLtO8X919m/8IL3sLS4XZVAP2XqhRsDQDKXnFDOWzlHccFYjQCWJlGNdPpkkjcP585fHidAemF0M/Hz1kSVyqah/8CdvNhtZt3TyNchOnzHgt9Q5nBmv2UtUWgylP20psRdrrsP8vxVTZII1vTCtiKit0K3K5R9LDSMQJcJ7LsBYMV9H9NP7ghSYWjwEcrXjLMS+S4nZYtnzFO8xfJKTvmVdde3Uy4waXLMTI+dGOEZNHKPw1TY1iXqomhKV5fdaSMCehcaKnKoWCHlDaOMT7na7L7+av/VHfUH2IXr1LIlG7NYe6iYq0FjmAgc43u1eVIIkFd0JmjqkofQa/SAgZjvevRzCiNK9cu3LZt3czQn+YCaV9mVFXejPJihAESxmVuG5lsnImnaRPWXWewc+Wvf/klNBncQ5On6XXrdHvjrVAyCtl9Sr6u39X8kRJMixG06HWl2zCA8nHXea7RSKZJe9UFseDSYS4ZToVQL+MAQR0pXCnLtdawAkPAQQ==;JDvyiWV1RIKnxuCks59VtA=="

@@ -2604,6 +2604,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump and Biden make their pitches in PA"
+    excerpt: "AUDIO ONLY] With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania while Democratic rival made a low-key appearance in the state considered crucial to the chances of victory for both men."
+    publishedDateTime: 2020-10-27T00:53:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPT$O?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f9766bae4b04f7ff7c2baa8-1603757754270?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z
@@ -5081,6 +5095,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "smUzl9jl8Xb9o9oXUUtvvfrYYRV4KGUhh6DZrFnqrQs2xGEhAASrtDxt3teMPovh9xQu5Lyr88zPA5c5jGsx8jzulHrrpKSnMlZ43FJaOmDAVAS7g9lz5gjBrB7a+duZqvgcf6qJd8xsbuSoVzp/nwdqvIL+PncX8d7nomF+XMBSMg7gPEyvs8DzGf5EeVUNjtdSrWLNz6hVO6f1AY5MJsH49ytX5loGLcsXfpoMIZ5JsMkciNL8oZRDsoC2Ca7rK1LXs9KR5mf5Tte6jHoGobpSsjvzFo5zjG4O/nklYORXtJiFmUq9J7WLfOn8m8Z7Lr/wXClkrvVDHdc5slB9SBTqN0eNhZ4guOuJpFigHis=;i7BvFqj+s5DyTQW2DSzbfw=="
+secured: "h5pSw1b5qlXdJxNErCKyAejqfIPvpWckkR4dmt46wxo7dJMgOJv/1cfUZaPyowVK5uHITE8O3hqdE4TUTYTZ2NqlG6kI8Q6BCTln8Ufgs6dmYLA5GAbXjAoD2qd0BPw65CC0vMVwSgtTEGzy+0h3fuHdgReZo197qoP0o8Xy9h9ex0JbtpsOQZcHU7XhKKFbQLopeVOgrUk6BzVwGL/MWalq8ygmqPqYo7fVAD4ffJT8/vIpBLWAcjDsu3J/3czVB7T9IbyaYjd7Pv/DYnJfU0FSVcWLvAdC8pwC/UoKWoRbOvR8BAIDGeFJBD8BT1B4HCuXbLI1y9AiK8lWTqE8hmIre1ttAjZPk9tLqvJjdkFYjldT2u60Gl+nDZ9Y7ojZ8cWAb0VczET2pvC2NWJnVpBq0Fa0fDSJCxlxAasjpIpjeJJ2rwd95mKgmLMl10+JC0rG78RJQ+pq3hAB1lAwmg91TClpsixa3m1Tf/F2v+TY3zsLuy1UBCIMFSG0BDXR0Uge9lZa+mxpzm4ZY/cpOQ==;aTQEoIZw73k/GGsBtHwgEg=="
 ---
 

@@ -250,6 +250,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump: Democrats' win will put US economy in peril"
+    excerpt: "US President Donald Trump is making a late reelection pitch to voters Saturday in Michigan and Wisconsin, states in the Upper Midwest that were instrumental to his 2016 victory but may now be slipping from his grasp."
+    publishedDateTime: 2020-10-17T23:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/17/trump-democrats-win-put-us-economy-peril/3699210001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7d9f912a-23f5-416e-bf7b-3fd9f700ebbb_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "U.S. stocks, crude jump on revived stimulus hopes, Trump's improving health"
     excerpt: "U.S. stocks closed sharply higher and crude prices surged Monday as renewed optimism surrounding stimulus negotiations and news of President Donald Trump's health progress helped calm investor anxiety."
     publishedDateTime: 2020-10-06T08:18:00Z
@@ -341,20 +355,6 @@ related:
       - url: "https://media.vanityfair.com/photos/5ac273d647083864d0b3be79/master/pass/Trump.jpg"
         width: 2000
         height: 1278
-        isCached: true
-  - title: "Trump Tries To Out-macho Covid And Signs Of Election Defeat"
-    excerpt: "President Donald Trump doubled down Tuesday on the macho image his fans adore after declaring himself cured of Covid-19 and scoffing at disastrous opinion polls only four weeks before election day against Democrat Joe Biden."
-    publishedDateTime: 2020-10-06T16:21:00Z
-    webUrl: "https://www.ibtimes.com/trump-tries-out-macho-covid-signs-election-defeat-3057581"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/no-mask-no-worries-says-us-president-donald.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Donald Trump, High on His Own Supply, Now Wants to Do the Stimulus Deal He Blew Up Two Days Ago"
     excerpt: "Remember two days ago, when Donald Trump spent his first day back at work blowing up the economy via tweet? Which was a self-defeating move so crazy, even for him, that people were left wondering if the steroids he was on had affected his thinking?"

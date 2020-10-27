@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html?outputType=amp"
 type: article
 quality: 62
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,40 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "What to make of the 'kinder, gentler' Donald Trump"
+    excerpt: "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st"
+    publishedDateTime: 2020-10-25T17:00:00Z
+    webUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump"
+    ampWebUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trump_smile_042020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump’s New Executive Order May Make It Easier To Fire Scientists Like Fauci"
+    excerpt: "Trump recently signed an Executive Order creating a Schedule F class of government employee that could have lasting implications even if former Vice-President Joe Biden were to win the upcoming election."
+    publishedDateTime: 2020-10-26T08:44:00Z
+    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/"
+    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 122
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9487bb2b122fa1efaa12d2%2F0x0.jpg"
+        width: 1200
+        height: 891
+        isCached: true
 
 secured: "bi+0OsmlRTmGB/dZDAvzqFfHqJvAtP/CJEArfsTPGg9OOIwWac+yIbSfMMJgUvBhFDCh3xWBhgPa5BO+E+yZll7o/FzllI2wbrDOFQiDHoYdJChYq4S2Tjz9yBnny9DTKOueA3W+Md6CaEHvxr/TdsvESNdiHWxgdA47t6tLjG8Wd2T6pWU4cqg2hUeztr/GoBnI9xliPzsVNuZImjrn3chUdsYktEJ9YwQa6v7h3ZxGEJ6RaDQ1+qEKekxTZq0u1iuIxySWd2efMJLee4tjnnikDxRTnVEzZjW1xpPpJFXAyW9cg8IACAwv6Rs1c1PcQXzwAcZTMd3H/J8+tarYEQ+95wu1NgZtgJ+4299VMGOU9DrJGbNxdFokBePA7+eCnLWRfMxtgu3tIMdrT8ckMdUJQZJJgmMmM2Zy7bYVqqAGHRrSQTFTPFsFdU8mCK071PP8yYcGjqGPzEfCvHs6hWgMeiHvqceC774CwTOZnpCZHEwP1EVPQxd3K/FP52As7iYfcLNDvkSo5ohmMFtEAA==;SvUjPgj2XV/qczLslJJ5zw=="
 ---

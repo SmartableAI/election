@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp"
 type: article
 quality: 182
-heat: 222
+heat: 242
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Ben Shapiro: 'Nothing funny' about Kamala Harris laughing off questions about socialism"
+    excerpt: "Podcast host and author Ben Shapiro on Monday ripped Sen. Kamala Harris, D-Calif., for laughing at an interviewer who asked if she had socialist views."
+    publishedDateTime: 2020-10-26T19:54:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340

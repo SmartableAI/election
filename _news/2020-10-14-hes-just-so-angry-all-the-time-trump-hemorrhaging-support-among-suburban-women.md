@@ -350,6 +350,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump’s Taxes Show He Engineered a Sudden Windfall in 2016"
+    excerpt: "Over $21 million in highly unusual payments from the Las Vegas hotel Donald Trump owns with Phil Ruffin were routed through other Trump companies, then directed to Mr. Trump. Tax records expose ..."
+    publishedDateTime: 2020-10-09T11:26:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/10/09/us/donald-trump-taxes-las-vegas.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/us/donald-trump-taxes-las-vegas-1602094433672/donald-trump-taxes-las-vegas-1602094433672-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Wants to Win. Why Does He Act Like He Wants to Lose?"
     excerpt: "Trump thinks he doesn't need any advice. And hey, he won when everyone (even he) thought he'd lose. But it looks like his famous gut (instinct) may be catching up with him."
     publishedDateTime: 2020-10-17T04:12:00Z

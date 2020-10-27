@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/amp/news/world/2020/10/11/to-some-pennsylvan
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people.html"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 1071
     isCached: true
+
+related:
+  - title: "Donald Trump Jr. Among Names Floated for Open Pennsylvania Senate Seat [REPORT]"
+    excerpt: "Media reports are conflicting about whether or not Donald Trump Jr.'s name is being considered for a 2022 Pennsylvania run."
+    publishedDateTime: 2020-10-04T22:47:00Z
+    webUrl: "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/"
+    ampWebUrl: "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 71
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228190343-e1601850280332.jpg?quality=65&strip=all"
+        width: 3970
+        height: 2240
+        isCached: true
 
 secured: "3Ixl7nl/A4ltmVa/CxHTDpyB3AlC2CHal75kuoZO+UVXTDUSYMF4Kb2yeFjJBZW673fmjM5FNCgx+1bsB2GnwkQMjhUtAOl5VNExYvfq7DRLKOkx1oeFZycpFLM1+X61UwsdyoAkE+RN4l74OQUCd/tZZdRqVMCCPIBKi2twW1udH9OsRIctYO2rEPIfZ9y99JKQDjUZoI6N/HNnR0yPB6LSFUlxkCA/8yKIvX8XLiExYgJOJdgxl0mXZkawg7EpHmm5K7qnz9oBkz1QFIp8IZe1WP3KE+38yewZBS3zqGnAbL6RSf9tjWJmpCe4WlcUw/sV2+667dQVo8K9w55hNiCYv8cREOn6gFhJNK2Po+Q=;r0MFz5375PburgHoOFsM8A=="
 ---

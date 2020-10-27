@@ -123,22 +123,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Vice President Pence to campaign in Waterford Thursday"
-    excerpt: "Vice President Mike Pence is scheduled to hold a “Make America Great Again” rally in Michigan on Thursday, Oct. 22."
-    publishedDateTime: 2020-10-21T01:32:00Z
-    webUrl: "https://www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/"
-    ampWebUrl: "https://www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/?outputType=amp"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 75
-    images:
-      - url: "https://www.clickondetroit.com/resizer/VC9YfWLy9HeJe-EysXd4Zgl3g5Y=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/Q6W35VUWDNFGLOOIQX4ZAQQTGE.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "LIVE: Vice President Mike Pence delivers remarks in Cincinnati"
     excerpt: "Vice President Mike Pence is making a campaign stop in Cincinnati on Wednesday.Pence is hosting a Make America Great Again event at Lunken Airport.Doors opened at 4 p.m. and Pence"
     publishedDateTime: 2020-10-21T21:58:00Z
@@ -418,6 +402,15 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden attended a voter mobilization event in Cincinnati."
     publishedDateTime: 2020-10-12T23:47:00Z
     webUrl: "https://www.c-span.org/event/?476874/c2020-joe-biden-attends-cincinnati-voter-mobilzation-event"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
+    publishedDateTime: 2020-10-12T23:00:00Z
+    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
     type: article
     provider:
       name: C-SPAN

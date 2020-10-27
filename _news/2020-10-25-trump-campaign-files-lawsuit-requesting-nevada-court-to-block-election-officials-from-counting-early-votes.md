@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-ear
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
 type: article
 quality: 122
-heat: 142
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "The price of arrogance: Trump fails to follow the rules when rewriting regulations, leading to chaos and court challenges"
-    excerpt: "Election day is two weeks away. Our running list of 99 reasons why Donald Trump must be made a one-term president still finds ample fodder in the daily failures, fumbles and foibles of the 45th president and his factotums."
-    publishedDateTime: 2020-10-20T08:03:00Z
-    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-the-improv-presidency-20201020-bvjzv6ka35bxnazou24btkqzmm-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-the-improv-presidency-20201020-bvjzv6ka35bxnazou24btkqzmm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-the-improv-presidency-20201020-bvjzv6ka35bxnazou24btkqzmm-story.html?outputType=amp"
+  - title: "Facebook pulled 48 Trump election campaign ads which told people 'your vote has not been counted'"
+    excerpt: "Some 399,000 saw the ads from the Trump campaign before Facebook pulled it, which was potentially misleading to some voters."
+    publishedDateTime: 2020-10-23T15:44:00Z
+    webUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 50
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
     images:
-      - url: "https://www.nydailynews.com/resizer/aa1mrddi0o7hgZ0CgJEYoy-Lpnc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WQSQVXEAZRBHJOKHZBGIL773IY.jpg"
+      - url: "https://i.insider.com/5f92f8b4212113001874071a?width=1200&format=jpeg"
+        width: 780
+        height: 390
+        isCached: true
+  - title: "Report: Trump Campaign Has Videotaped Philadelphia Voters In Potentially Illegal Voter Intimidation"
+    excerpt: "Members of President Donald Trump’s re-election campaign have been filming Philadelphia voters as they put their ballots in drop boxes, which poll watchers are not permitted to do in Pennsylvania and could be an act of illegal voter intimidation,"
+    publishedDateTime: 2020-10-22T22:53:00Z
+    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/"
+    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 111
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9203f9fec3f6d2522ff281%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D53%26cropY2%3D2585"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
 
 secured: "Ig/18ZtAfINCHWTFfcIUfg65A8TbZqqz8oO9wG6pCPWgrmnC7Q64NAx2qFr7UkZJBZHFYXFe1H0eVbqfDdbH0Z2P1IQRYAsUp/oDp030du/z5UtoJB0v9Yfz4IFpcKzsCApw3QNlavFGGdi9mrNi2yiJNewOmky1fHbkQGKflrN/QhG4/dMX3QhQ4lpr/wmdShKsmfrChtVK25uHnXQt6XZTqT5dClPaZiPDNnFHinTL6aTQ8x9hUuHmTuzIewNTZ4vo3brS+1iImHrtBFVu9E5BsU5R4Ti9vm3gGiSLFwjp9Y4YbEwGwYRXjpHhnIxQ0aBsMeGpjnBjOJRKHanfH5xKe4zF9PO4Ufww6R3o45vkAQpZ9bkPTshT2WH3sMfm9iJTl+JgyRK/Y5PucFMSZZochwUleMbBCccTAc8wFSN+DWNw3ifNiWhCnGfz7rBx1mBYVdJFaCTvVeoi2wlmVbnD4GKHW/7tToa+WWT1FXhSjTXlRokxxbbmR3Kdl1d//1seQzZvhNIfICW3C6JqAw==;0n62xajbQIxJnbsHLz0caA=="

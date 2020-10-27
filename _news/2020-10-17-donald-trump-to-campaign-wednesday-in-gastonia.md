@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ivanka Trump to attend fundraiser in Naples on Wednesday"
-    excerpt: "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week."
-    publishedDateTime: 2020-10-19T17:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3702824001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/PAPN/07ca4d7d-ac9f-49d1-b24a-73ea98e9a36a-cent02-7cqq5o1gxdk11a63bhj8_original.jpg?auto=webp&crop=2999,1687,x0,y402&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump heads to Iowa, Amy Coney Barrett confirmation hearings, Billboard Music Awards: 5 things to know Wednesday"
     excerpt: "President Trump heads to Iowa, Amy Coney Barrett confirmation hearings resume for a third day and more things to start your Wednesday morning."
     publishedDateTime: 2020-10-14T09:16:00Z
@@ -59,21 +43,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence to be in Grand Rapids Wednesday"
-    excerpt: "Vice President Mike Pence will travel to Grand Rapids on Wednesday, Oct. 14. Pence will deliver remarks on the \"historic accomplishments of the Trump administration.\" The event will take place at 12:30 p."
-    publishedDateTime: 2020-10-13T13:05:00Z
-    webUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday"
-    ampWebUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
-    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
+  - title: "Women Marchers Led By ‘The Handmaid’s Tale’ Protesters Voice Opposition On Trump Ticket, Amy Coney Barrett Nomination"
+    excerpt: "Mike Pence presidential ticket and the Supreme Court nomination of Amy Coney Barrett was coordinated Saturday by the Women’s March organization."
+    publishedDateTime: 2020-10-17T23:35:00Z
+    webUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/"
+    ampWebUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
     type: article
     provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 75
+      name: Deadline.com
+      domain: deadline.com
+    quality: 52
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2844be0/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.theindychannel.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
+      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20291710573192.jpg?w=512"
+        width: 512
+        height: 341
         isCached: true
 
 secured: "VZiNx4IbldSI6WsxlLdYEMWeAqXMYQoByjRrjUogzdbuiPl6LRdQnXKvfryLGX2+ILjpUbcKaCojOG3pXpAW25/4Obsg4ql+m/R/EOryI8/HjzY+xjBqBVdceOkCBzTiNu/z3njKYOrxC8pKBE+2koEKKD/KwZANuAsZtKuAG6CAZFkvbQjjjnUpeCJMu9mWF28nN4SVu4NBoZhzBSTrZf2FM5H/GZfQ9qC0rBnnHsX8XkISfhsOtnfz/kSlxeLx7d5lIY0T0o6kS8UKwohBdin7ZQugLwKjvnR10xZrk1t2JHkTn0KjiUZiZjPVbii9tdyYL6Mp4kt+Gcru/4c57Emi1iR4G7RSzTQFhzQqlOOOwWfp2Rb8hFxMP47Ir7KGrdDLccugYTX7lcCgU8+UAYsaDoXxwinlitVgaVqfODyS904DnHN5X6F1KgbzQ9fUpc6r8uaFRzOVNRKrIWxZww/nVw7LjVs/eAGVV7K/yx/6XNAuH8Cxb4v8OLbnoXqfSlSrCGoIWUdMJX4pV8FwoA==;iPSd4jNYgFVj6e8BquUtcg=="

@@ -105,17 +105,22 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+  - title: "Report: Trump Tipped Off Republican Donors Coronavirus Would Crash Economy"
+    excerpt: "Economic aides met privately with the Hoover Institution and told them the economic risks of the virus, allowing them to sell off stocks before most investors"
+    publishedDateTime: 2020-10-15T12:32:00Z
+    webUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625"
+    ampWebUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 75
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/trump-received-a-single-dose-of-regenerons-antibody.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "vZAVlY6B9lqtyH5gCgQuNNKxw+Hx81jpwJaW8qnqFRqjxFfVFe8IKGYKZ+YPRI19a5PycVgc6bMcmV+9/44h0ktDbaOzBl+bNmGSp163W23q/pkxHjQcGCdP+2M6O9osSKQr2lWyCZ5fohC+I5jZHljzngcINEi/qk2DNd4Ys3dIElMc1Z9+ocqtFAYw0MnkJH0p88FSwetPG/0J3U3e2yUhJqI8sJoGy4ViPe8WDFBwzR1H0pT/80Jpf4C5pVqJkSuxewcIYHX3DKE0tYUxeVCHsHHoTwFO17lrtMGmLvJ43AMAscQ8k2iHatPXbATttNtNDRbNxnETUg86RE4+32gY1wG8MU7xmnhOJEGxLa8LUUC02nciHhwl5njnBUUiBKMbMZDZO7hpjRteVzp2bmhIkUMorvRfGW9Nf8qTn3SHXrLNYDau3X80NXfE400BUImh6FgyXsnwpmVnT5dkm2hkFfT8hU92r1fwFtdmZXsh/VoSYHhheO91Xu3O6hS7HAz8Lxt4Rd1gyfvXMHMrAg==;3P1RvO9zxSbk6EP/wpuZnw=="
 ---

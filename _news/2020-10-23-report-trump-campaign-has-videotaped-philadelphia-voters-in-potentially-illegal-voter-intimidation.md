@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Judge rejects Trump campaign request for access to Philadelphia voter offices"
-    excerpt: "A Philadelphia judge has rejected a lawsuit filed by President Donald Trump's campaign seeking poll watcher access to satellite voter offices in the city. The campaign last week said its poll watchers were denied entry to areas where voters were casting ballots,"
-    publishedDateTime: 2020-10-09T20:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/judge-rejects-trump-campaign-lawsuit-over-philadelphia-voter-office-access/5942236002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5942236002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942236002"
+  - title: "Facebook pulled 48 Trump election campaign ads which told people 'your vote has not been counted'"
+    excerpt: "Some 399,000 saw the ads from the Trump campaign before Facebook pulled it, which was potentially misleading to some voters."
+    publishedDateTime: 2020-10-23T15:44:00Z
+    webUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/5f92f8b4212113001874071a?width=1200&format=jpeg"
+        width: 780
+        height: 390
+        isCached: true
+  - title: "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes"
+    excerpt: "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week."
+    publishedDateTime: 2020-10-24T22:53:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/NBCC/0e511ae2-ec6b-4120-95a7-6ce0441de12d-biden_and_trump.jpg?auto=webp&crop=659,371,x0,y36&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f7646e80ab50d00184adb29?width=1200&format=jpeg"
         width: 1200
-        height: 676
-        isCached: true
-  - title: "Trump administration rejects California's request for wildfire disaster assistance"
-    excerpt: "The federal government has denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
-    publishedDateTime: 2020-10-16T10:11:00Z
-    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
-    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump administration reverses course on California's request for wildfire disaster assistance"
-    excerpt: "The federal government had denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
-    publishedDateTime: 2020-10-17T02:33:00Z
-    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
-    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 114
-    images:
-      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
-        width: 992
-        height: 558
+        height: 600
         isCached: true
 
 secured: "F8/HOZ3G4d9HoS6AF54ZSjOjrUZQicWo3HzCT/sPU0bGSoqNrCRmqhZ0+76+/HeHhaOTL9bIxqbTQ6JtF2LGFX26DIe/9PxCGMt4jnOyAQXEhlDLd3T64Ti60/hhZEPXmUB7AXNPJPk+Ij/0vaqGtq2tQnKAuSNKnEKCp7R4O0Tw+IGZG3FVljJoLxelVR9gTZxdSm22pjQCYxaQa63nM+zN6Mb3IfbVZiCjF2+fz6gWIfyoHCUEpFaO0LRkfvPgKgHjPsinf3eGI5i0MbQJ12pWWYOe5tZxHCLCcJ0wnXE3YXrbOwc7zXh03zMPaHL6YNfqVeoooCUQChhASAqv62vjaymx02rgaP09cSZfdIQ=;FN15icUsLnSnUWF4S3scGg=="

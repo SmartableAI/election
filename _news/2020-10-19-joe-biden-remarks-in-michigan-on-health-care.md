@@ -19,35 +19,51 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Greenwald slams Schiff over Biden emails on Fox"
-    excerpt: "Greenwald, the journalist who in 2013 worked with whistleblower Edward Snowden to published leaked intelligence on the National Security Agency's surveillance programs, accused Schiff of lying about Russia being behind a New York Post story on Hunter Biden 's emails."
-    publishedDateTime: 2020-10-20T18:24:00Z
-    webUrl: "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox"
-    ampWebUrl: "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox?amp"
+  - title: "Biden endorses Texas Democratic House candidate Julie Oliver"
+    excerpt: "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas."
+    publishedDateTime: 2020-10-21T19:20:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/greenwaldglenn_01222020getty.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "White House lawyer helped shop controversial Hunter Biden story to Wall Street Journal: NYT"
-    excerpt: "A controversial story alleging wrongdoing by former Vice President Joe Biden's family in foreign business dealings was pitched by Trump allies to the Wall Street Journal before it appeared in the New York Post,"
-    publishedDateTime: 2020-10-26T01:01:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp"
+  - title: "Texas Governor Says Biden 'Just Killed' Family Paychecks With Oil Comments"
+    excerpt: "The former vice president said he planned to \"transition\" away from oil should he be elected president on November 3."
+    publishedDateTime: 2020-10-23T08:58:00Z
+    webUrl: "https://www.newsweek.com/texas-governor-biden-killed-paychecks-oil-comments-debate-1541588"
+    ampWebUrl: "https://www.newsweek.com/texas-governor-biden-killed-paychecks-oil-comments-debate-1541588?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-governor-biden-killed-paychecks-oil-comments-debate-1541588?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1657654/texas-governor-greg-abbott.jpg"
+        width: 1024
+        height: 696
+        isCached: true
+  - title: "Sanders: Progressives will work to 'rally the American people' if Biden wins"
+    excerpt: "Sen. Bernie Sanders (I-Vt.) predicted that progressives would look to move Democratic presidential nominee Joe Biden toward their priorities if he wins the White House this November and Democrats sweep Congress."
+    publishedDateTime: 2020-10-22T17:24:00Z
+    webUrl: "https://thehill.com/hilltv/rising/522262-sanders-progressives-will-work-to-rally-the-american-people-if-biden-wins"
+    ampWebUrl: "https://thehill.com/hilltv/rising/522262-sanders-progressives-will-work-to-rally-the-american-people-if-biden-wins?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/522262-sanders-progressives-will-work-to-rally-the-american-people-if-biden-wins?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 115
+    quality: 122
     images:
-      - url: "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg"
+      - url: "https://thehill.com/sites/default/files/sandersbernie_022620gn28_lead.jpg"
         width: 980
         height: 551
         isCached: true

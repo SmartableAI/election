@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Judge rejects Trump campaign request for access to Philadelphia voter offices"
-    excerpt: "A Philadelphia judge has rejected a lawsuit filed by President Donald Trump's campaign seeking poll watcher access to satellite voter offices in the city. The campaign last week said its poll watchers were denied entry to areas where voters were casting ballots,"
-    publishedDateTime: 2020-10-09T20:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/judge-rejects-trump-campaign-lawsuit-over-philadelphia-voter-office-access/5942236002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5942236002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942236002"
+  - title: "Trump administration sets Gulf of Mexico drilling auction for Nov. 18"
+    excerpt: "The Trump administration on Thursday said it would offer all available areas in the Gulf of Mexico for auction to oil and gas drillers on Nov. 18, the first major test of the offshore sector's appetite for investment since early this year."
+    publishedDateTime: 2020-10-15T19:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN2702SX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702SX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702SX"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/NBCC/0e511ae2-ec6b-4120-95a7-6ce0441de12d-biden_and_trump.jpg?auto=webp&crop=659,371,x0,y36&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537642428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1PZ"
+        width: 908
+        height: 545
         isCached: true
   - title: "Trump administration rejects California's request for wildfire disaster assistance"
     excerpt: "The federal government has denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
@@ -63,22 +63,47 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Report: Trump Campaign Has Videotaped Philadelphia Voters In Potentially Illegal Voter Intimidation"
-    excerpt: "Members of President Donald Trump’s re-election campaign have been filming Philadelphia voters as they put their ballots in drop boxes, which poll watchers are not permitted to do in Pennsylvania and could be an act of illegal voter intimidation,"
-    publishedDateTime: 2020-10-22T22:53:00Z
-    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/"
-    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/amp/"
+  - title: "3 Cities Designated As 'Anarchist' Filing Lawsuit Against Trump Administration"
+    excerpt: "After months of street protests, President Trump described New York City, Portland and Seattle as lawless places and threatened to withhold federal aid. City officials say the law is on their side."
+    publishedDateTime: 2020-10-22T18:38:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/10/22/926695864/3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 111
+      name: NPR
+      domain: npr.org
+    quality: 101
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9203f9fec3f6d2522ff281%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D53%26cropY2%3D2585"
+      - url: "https://media.npr.org/assets/img/2020/10/22/ap_20133094368037_wide-0ecc215828e095c74a18670fb311744097545173.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Trump administration replaced 'pandemic playbook,' then ignored aspects of its own plans"
+    excerpt: "The White House and federal health officials said they did not throw out the pandemic playbook left to them by the Obama administration, but used more recent reports to guide them as they responded to COVID-19."
+    publishedDateTime: 2020-10-14T11:40:00Z
+    webUrl: "https://www.jsonline.com/story/news/2020/10/14/trump-ditched-obama-pandemic-plan-but-ignored-aspects-his-own/5953152002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/5953152002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5953152002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/01/PMJS/25158114-05cc-4799-bb45-671f3fff94a7-MJS_trump_2_hoffman.jpg_trump.JPG?auto=webp&crop=2399,1349,x1,y13&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
+    excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
+    publishedDateTime: 2020-10-14T13:00:00Z
+    webUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.html"
+    ampWebUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 22
 
 secured: "RjBTAPqZLfs0NI+jO5iIxQqWGQ9SUg5RvjtGEPVOO+IZ4t59mic8UxzvzvcCWXX0DwoiHN7oW558buNoSF8axbRIXTvXDdw+cNr3hywEWPK7U/clCSpOtyrtDlJgo8Lkk+47IovzbT/Y0m3I3jJEwHCEd0Tk0ZnW8eFK0qg2Un8Fj+UGCGa+p2aW0IpeQgsdyQcYa1HQivsFd9zl3OYvGJFjpoJRgrk1dgU6cED/90RU94YoyGb6elvIfmESX/8aSPeURT9dlD0mi2cc24RfT5t+MEbN6WS8MPSAkv9MBJAIwVhTRL2w1ChJBv2FuRIQ3Nav1TqY4IBwbIuDpR3p72HT7fsQFc/BB1ufTuSt5ejKWSA22q/anLANtSvsU9uDC/tVB6DjACsEuRy6a6husT6G9vs8Hgd+cUWpoGlk++oZAUcqAwhzQBU+htQKVnglH5zBRk1rAfcDbK+UoQvT1kV3l3m1sG+dGwi07RAPqICBvim16CZuraRutZpj56Qez3AiP1qdEmfsWFZvjHaRGg==;TFSYa/o7LGngCbKKVjBJDQ=="
 ---
