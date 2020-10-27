@@ -7,8 +7,8 @@ originalUrl: "https://www.startribune.com/in-rare-move-seattle-storm-endorse-joe
 webUrl: "https://www.startribune.com/in-rare-move-seattle-storm-endorse-joe-biden-and-kamala-harris-these-are-not-typical-times/572824402/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: StarTribune
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west"
+    excerpt: "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century."
+    publishedDateTime: 2020-10-27T19:48:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/article/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/amp/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 90
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/56/42/20113594/13/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "In a rare move, the Seattle Storm endorses Joe Biden and Kamala Harris: ‘These are not typical times’"
     excerpt: "In a move rarely seen by professional sports teams, the Seattle Storm voiced its support for the 2020 Democratic ticket of Joe Biden and Kamala Harris on Wednesday."
     publishedDateTime: 2020-10-21T23:29:00Z

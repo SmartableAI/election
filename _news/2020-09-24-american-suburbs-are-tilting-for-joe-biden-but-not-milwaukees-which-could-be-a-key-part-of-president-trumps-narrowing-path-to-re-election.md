@@ -2634,6 +2634,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump & Biden step up campaign schedules"
+    excerpt: "Watch \"President Trump & Joe Biden step up campaign schedules\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-27T18:17:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201027180141-president-trump-joe-biden-step-up-campaign-schedules/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/27/story_07431373_1603821904.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "FBI Director Says No Evidence Of ‘National Voter Fraud Effort,’ Undercutting Trump"
     excerpt: "FBI Director Christopher Wray testified to Congress on Thursday that the agency has not historically seen “any kind of coordinated national voter fraud effort in a major election,” including through mail-in voting,"
     publishedDateTime: 2020-09-25T15:17:00Z

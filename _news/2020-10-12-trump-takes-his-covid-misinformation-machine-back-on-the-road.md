@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump takes his Covid misinformation machine back on the road"
-excerpt: "President Donald Trump takes his Covid denial tour back to the campaign trail Monday as the tense final stretch of an election now three weeks away gets a fresh jolt with Senate hearings on his Supreme Court pick Amy Coney Barrett.\n    \n"
-publishedDateTime: 2020-10-12T10:31:52Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xDXFkd9SEDc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xDXFkd9SEDc/index.html"
+excerpt: "(CNN)President Donald Trump takes his Covid denial tour back to the campaign trail Monday as the tense final stretch of an election now three weeks away gets a fresh jolt with Senate hearings on ..."
+publishedDateTime: 2020-10-12T12:07:00Z
+originalUrl: "https://www.cnn.com/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
+webUrl: "https://www.cnn.com/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
@@ -1406,6 +1407,6 @@ related:
       domain: thedailybeast.com
     quality: 44
 
-secured: "JRtyA42ckQLeveMbRILFDRP+n6Lg7X16nADWI3ujYDzpDOfVyYmpZeCZA/6pioU6xF0RruGB7x4b+0DXaESbHzjZfrvacUCtO091XgraVx0e5dXQpLdNrO/MPZFl9X9Y6PJZWiRuZE2EoQcCOoTKlKNp1sIRRhQZriwLVb/nYFHXBpVLPmF9yLhehK/9qENGyWOQD/hsPf6Z5O1jjZyOdS37MJIk0QGrnGzJzfkBsj882LR2pWHWBAWm/bRJ6GGll9DIYXOzNUc4RS9/cv6QsrdQCwvg/BVl+pOEmdUNZK2MQm2uP+Vznv5U7vVYAwsIPTGnfJiLX/CfPLmOAs5liuWpCwcrqBPeV3qbB47xsN0=;pt2veJUXW8J/pFGUB4dN5A=="
+secured: "i1xeXfnotpUCz1VbAG5r/iagHCpJukIUFFCoFYGDFYMe+PhT963L0IhMhVmFWrjMxBvhMicEj2A5KmWoB+Gnz7RVvTCPmjjppPhIqIk/dkhH21yfkR9NNe0dYO+AeFPbqLJttrAQ/F2qsqxGHf94x1xM8pqp6+r475jPfRSJqFupJ98sFqp5HwXVm+fyZpu8vVB0M6nJTaqWoIDaYUiSrkB9eJ//KSkfOJRmYC/z/7po1S3AYQ0W/HIJx6P1JxQ3kW8R28+XDh65vY73GDvtVMmA/i3L6sAIhTlazmWswRUqejvTpUeHqNkv4qMKxNW9gRuH8JRyTt5O/yMJAUa6GsoryGOwhBJBOFKXTqNQdgI=;v/QdGnS5jngMVapJLugY4w=="
 ---
 

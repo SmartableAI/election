@@ -2769,6 +2769,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "If Joe Biden wins, history’s light will shine brightest on Kamala Harris"
+    excerpt: "With a straight face, O’Donnell, the “CBS Evening News” anchor, asked Harris whether she would bring a “socialist or progressive perspective” to the White House if Joe Biden is elected president. For months,"
+    publishedDateTime: 2020-10-27T19:01:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/27/opinion/if-joe-biden-wins-historys-light-will-shine-brightest-kamala-harris/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/27/opinion/if-joe-biden-wins-historys-light-will-shine-brightest-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/27/opinion/if-joe-biden-wins-historys-light-will-shine-brightest-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 69
   - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
     excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
     publishedDateTime: 2020-09-28T09:16:00Z

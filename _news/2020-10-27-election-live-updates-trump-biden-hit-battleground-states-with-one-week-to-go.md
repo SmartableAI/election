@@ -640,6 +640,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden is closing his campaign as he began it by telling voters 'soul of the nation' is at stake"
+    excerpt: "Democratic presidential nominee Joe Biden is ending the 2020 race as he began it, arguing that the \"soul of the nation\" is at stake and that he would seek to heal a country fractured by Donald Trump's presidency.\n    \n"
+    publishedDateTime: 2020-10-27T19:08:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KSxs-UtXoJg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/biden-georgia-closing-message/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/biden-georgia-closing-message/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027143925-01-biden-ga-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Obama offers blistering criticism of Trump over coronavirus: 'He's jealous of Covid's media coverage'"
     excerpt: "Former President Barack Obama on Tuesday offered blistering criticism of President Donald Trump's handling of the coronavirus pandemic and the economy.\n    \n"
     publishedDateTime: 2020-10-27T17:51:54Z

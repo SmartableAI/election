@@ -711,6 +711,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Comedian Sarah Cooper Doesn’t Need Donald Trump Anymore"
+    excerpt: "Cooper, who has a new Netflix special out, built her name lip-syncing the President. But she has plenty of other plans for the future"
+    publishedDateTime: 2020-10-27T18:34:00Z
+    webUrl: "https://time.com/5899863/sarah-cooper-netflix-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/sarah-cooper-interview.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Mike Pence touts Donald Trump's Supreme Court pick at Wisconsin rally"
     excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
     publishedDateTime: 2020-10-13T19:47:00Z
@@ -1186,6 +1200,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2AUJ4FPUWVA7PJPYE6YQN23GGQ.JPG"
         width: 1300
         height: 867
+        isCached: true
+  - title: "Trump administration proposes reversal of homeless policy"
+    excerpt: "A new federal plan to end homelessness released last week by the Trump administration calls for a reversal of Obama-era “housing first” policies. The plan, released Oct. 19, is the first from the United States Interagency Council on Homelessness since President Donald Trump fired its executive director last year and replaced him with Robert G."
+    publishedDateTime: 2020-10-27T19:00:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-administration-proposes-reversal-of-15678824.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-administration-proposes-reversal-of-15678824.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-administration-proposes-reversal-of-15678824.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
     excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"

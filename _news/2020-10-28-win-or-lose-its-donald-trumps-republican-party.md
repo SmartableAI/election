@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: The absolutely bonkers threat Donald Trump made this week"
+    excerpt: "At a rally in Allentown, Pennsylvania, on Tuesday, President Donald Trump said something incredible -- even by his standards.\n    \n"
+    publishedDateTime: 2020-10-27T18:22:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0kZocpA_jeU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/tom-wolf-donald-trump-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/tom-wolf-donald-trump-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142449-03-trump-rally-pa-1026-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump announces that Israel and Sudan have agreed to normalize relations"
     excerpt: "President Donald Trump announced Friday that Sudan and Israel have agreed to normalize relations -- a foreign policy achievement for the incumbent president less than two weeks before the US presidential election.\n    \n"
     publishedDateTime: 2020-10-23T16:29:33Z
@@ -593,6 +609,6 @@ related:
       domain: thedailybeast.com
     quality: 40
 
-secured: "kNCLjDwOzLO0QsvO45QSM6BouPIrnrJi6e/QZL07h/YlT/EGCVHMV01/IfQRSa6dGy33cGumvvp99luEZQ9dRS08bidQXSVMRyZBV3E9t7Y+YEZtkatVLKCiITLh5oUgC1/82iB+Kx3pyeF3XY664V6QoZkufOLZUI6X7fO6gJPZOTqe5FtiYwlOuj/ZJEq4kfCpiDWfeQlzcWgouqBtNq1fDsRfCD5SCmLmnkEebQjYv/s7kCTmvi8tTn1ZnHYGuFVuNSqXl9cyV82wqXhTn+jVBba+H5/VgW1nf9nbPB2UP2BA4XfYx4ZvBb/oXJUe/BLQc9e+0YlIrQPX0W/0gKHY0ReZzrrtRwtJjJuMJvw=;rHPfy546/EvJpBUqJaUvFQ=="
+secured: "WBkN4A2kfc6CWQIZ/o7nMR/yxf/RO/r3KQVJNrOZAHN+04pBvY85q2MCPqhwVotQ8KSFRdFrTljIgxQuTpM3+LXkIwt604ZJpn2SFVJG45pZvu9CRlFpLGpL6s6s9bMWhUaRS/2nv9lJc1rva+m2DwjmdAAKOnGp+SXaMg+On5SDxJdZyoTs8c6FVm1pS7KpX0aHVDHJGC8Fg+bwKF8V8uyl0X2yz5PiYQ2ozv//Dy5Vmu23JtjBmaBoLEKbiVLnIxkHHXra/rkD7tVFx4K9T6wqO4B0rP9NZwSST4XkGPi6e53ClVzRU2NLMeG6MvGtlgx9UyP9DWSiXxusIuB3oARQURXYEMQAlRfOOtru85UVrKvEw/SVXVTYik3AqEXxeAn8r5n1IHFSyE8vU3H7G/QpC7rWghQWqbRyyxEGyVPR98QPQP6GtRnW/5w1SBNMujrjU8levudvM2PiQex+Qdq7wMKkjD0cZGNSVrozKoWH4YYyj+X2mVw+KpxqpVWiM8VIS3pjAa7y/RrpV++NXA==;N38QE1eRxJZAhF1vPaJuQg=="
 ---
 

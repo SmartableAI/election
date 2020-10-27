@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden shows continued strength in Pennsylvania and Wisconsin polls."
+    excerpt: "Polls released by Ipsos on Monday found Mr. Biden ahead among likely voters by six points in Pennsylvania and nine points in Wisconsin — both states where Mr. Biden has led consistently and where victory is crucial to his chances of taking the White House."
+    publishedDateTime: 2020-10-27T16:15:00Z
+    webUrl: "https://www.nytimes.com/2020/10/27/us/elections/biden-shows-continued-strength-in-pennsylvania-and-wisconsin-polls.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/27/us/elections/biden-shows-continued-strength-in-pennsylvania-and-wisconsin-polls.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/27/us/elections/biden-shows-continued-strength-in-pennsylvania-and-wisconsin-polls.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/27/multimedia/27elections-briefing-polls/27elections-briefing-polls-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "RSrh55f8cyNApja5DZkiIyI7a1HypJsd3tzDLOFpkI9gP0WNEaSALq9j/zEDZb0pKMpeiydkMXcmVfFpZ34sgVbHao3zVhkyGAK6QBs/Q/08ugW6gzX+6MIFHcctg9NTLs5s5CaviK8SnxzjLAk7/8toUHApNshphs4vJRPsechn+SAvnhGThOuNlS7dk2fHKbjiafidoOmB4HXmlXmNcBciNefqTOfbWTm69mx4lHT/SRoSeVMNFU8oyyPUSQxNyoOsisUWBysnyyWYA9P7TLg8MVKYS9I70K+ROfGs450d0qP6W6FR+xgsXdBh7BnYJE+SfdRuPMmMnZT8/UKh/LjZiaDdm0KVxd/DozfnyC09SDYwNKsuk+vZmOSXmjbKjySAr9Pg7BVxAYx9PY3w3rCdMqyN4sQjVWY8AueRnVGpHHgu2gVEMdQtCStbZoFmM6YP0zsN0HfDsIQCudIOYcipEE56PLKf0knzh0pOIQSzMncy3wlQe4OiK3GzJIqIX41EyNtobfHtk495WHacqg==;1rQi5MLqm14nJo/RUJuiXQ=="
 ---

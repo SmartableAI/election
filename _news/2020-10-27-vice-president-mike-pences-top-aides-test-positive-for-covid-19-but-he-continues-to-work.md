@@ -709,6 +709,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Comedian Sarah Cooper Doesn’t Need Donald Trump Anymore"
+    excerpt: "Cooper, who has a new Netflix special out, built her name lip-syncing the President. But she has plenty of other plans for the future"
+    publishedDateTime: 2020-10-27T18:34:00Z
+    webUrl: "https://time.com/5899863/sarah-cooper-netflix-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/sarah-cooper-interview.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Mike Pence touts Donald Trump's Supreme Court pick at Wisconsin rally"
     excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
     publishedDateTime: 2020-10-13T19:47:00Z
@@ -1171,6 +1185,22 @@ related:
         width: 1300
         height: 867
         isCached: true
+  - title: "Trump administration proposes reversal of homeless policy"
+    excerpt: "A new federal plan to end homelessness released last week by the Trump administration calls for a reversal of Obama-era “housing first” policies. The plan, released Oct. 19, is the first from the United States Interagency Council on Homelessness since President Donald Trump fired its executive director last year and replaced him with Robert G."
+    publishedDateTime: 2020-10-27T19:00:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-administration-proposes-reversal-of-15678824.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-administration-proposes-reversal-of-15678824.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-administration-proposes-reversal-of-15678824.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
     excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"
     publishedDateTime: 2020-10-22T21:15:00Z
@@ -1548,6 +1578,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "fqHfN0LsQV+1yS9HPqcrAOuscm6nwFA9HPZk5j9mm0XF5X0mJ5fIY1Esef9hrpR8OerFeqtS9HjvxcUuO0ukMiZ8cRvL4BDe465t0uixuflQ0aW27yse+/4wPvXX0WExtnsyzwR7GECo+SgYYVYRAUX7VE258ueNA9keOcDJJpaSZXTlvFC2Ce1h1L6QLIxIah02fCL11iHVeEY9ydDsoTbsEcfNYpYBcVGqM6w+PcXnP4PLxVIawlIzB0hlYUqA4SICjQd1B9IXU0NGCFWSh7omFaIBTZNNGGWpY6Wukxi5YluBdcxXAa021JjnCJmV/aN1bhWI4jVH6Tz/9lmSuQUZnXZbnffqlMu0j0mSDA8=;INdyPgDNGZI3q+lzRQQHDg=="
+secured: "eJvXD+WFFa1WC/M65hN0F89Hem2mIyutxO7HdBVvcMbmkMtz2jVPhMc9yCUi9YfGs4SGGk19fnRozKCT4xtUGlh+eWiak4yFYftGJmJGimJe8HezkmboPaOOeWl+RRr+GUK/Dga9JouwhjgcfzU/fferHlkPOkitJKCIohyK0KAA2qx5N9tLb8yuldPNd3DxA57QbYBf1C8udzlHb+AxFlRdqTNt5Ow0WAPNFV6FEEPbKzZ9RH5ZRw3DycX1uZjLc99GS90kUp94wI7NfigZCPKCrchWOp33DM3KPXQIbO3hKotd4H3dAn+1bxHNNzKWgq8Awah6Mb0wROmoQX3GT7w6dkGE7gn+ijqcTZssh0S+OkiZ5VCJxMsFggCNBA3Em/XcJImbaZtwioTlLLXCRZ8l5/ckjekpjVHsy5WCYG5p3pwayK87RKGLK43HuiRa1h4tIvC+pdMgZeSqlvobnAkvN+2/aZLkDKGXSsTopgWiLcqFxSJVuVLuJEaDqcY1FZH0Om3I5u7kVE6BWNPl8g==;kHCuOrqgr2vaApbowOi3eA=="
 ---
 

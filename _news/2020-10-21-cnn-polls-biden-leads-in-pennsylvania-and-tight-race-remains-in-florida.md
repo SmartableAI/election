@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html"
 type: article
 quality: 174
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/biden10.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden shows continued strength in Pennsylvania and Wisconsin polls."
+    excerpt: "Polls released by Ipsos on Monday found Mr. Biden ahead among likely voters by six points in Pennsylvania and nine points in Wisconsin — both states where Mr. Biden has led consistently and where victory is crucial to his chances of taking the White House."
+    publishedDateTime: 2020-10-27T16:15:00Z
+    webUrl: "https://www.nytimes.com/2020/10/27/us/elections/biden-shows-continued-strength-in-pennsylvania-and-wisconsin-polls.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/27/us/elections/biden-shows-continued-strength-in-pennsylvania-and-wisconsin-polls.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/27/us/elections/biden-shows-continued-strength-in-pennsylvania-and-wisconsin-polls.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/27/multimedia/27elections-briefing-polls/27elections-briefing-polls-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "pwtq+9RfM5eChh/gPNaDld28Ou3DdzwsfNQrxTuWq6kttbGxyM+miQmEyrUgdy1KSQeFk6kkG1q14rjJNKFl/IVSfeiftyNyph2vSB/Aq3j+k0W1Jrj4IiIfMqqmD3n2ZjMUWxlDRuN40z0e9UoHM2O5h6oRz/gOBH+PUSMbtDq33wTDHohsapjQduIIZ2DLzCtDx2hkXXXxT4HihJagr8h8svv7J3LWHqTkDIdKfLnO77DgvaNLTuCP6P8LFBySUHBv17EzGkSbjZXA6CQsEyo1TI0kHPMZ7Qp8BJhOzj3CCbeM6ldBKJNKQITbI22C0GYNF1EB+sEVZmRXcL/C8kaKXQAjROirWQoqQGOf1cQ=;Z/lEfNOSrKyhh9Mx6kW5xQ=="

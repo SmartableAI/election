@@ -47,6 +47,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Election 2020 live updates: Trump makes false statement about Election Day ballot counts"
+    excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
+    publishedDateTime: 2020-10-27T19:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6007506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007506002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pollster Frank Luntz: If Trump defies polls again in 2020, 'my profession is done'"
     excerpt: "Pollster Frank Luntz told Fox News on Thursday night that poll predictions are wrong about the 2020 election between President Trump and former Vice President Joe Biden, his \"profession is done\" in terms of faith and confidence from the public."
     publishedDateTime: 2020-10-23T13:03:00Z

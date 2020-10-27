@@ -815,6 +815,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Here’s what Mike Pence and Kamala Harris need to do in the vice presidential debate"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris will lock horns in Salt Lake City on Wednesday night in their first and only debate. With the White House now a coronavirus hot spot, the ..."
+    publishedDateTime: 2020-10-07T23:15:00Z
+    webUrl: "https://www.cnbc.com/2020/10/07/heres-what-pence-and-harris-need-to-do-in-the-vice-presidential-debate.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/07/heres-what-pence-and-harris-need-to-do-in-the-vice-presidential-debate.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/07/heres-what-pence-and-harris-need-to-do-in-the-vice-presidential-debate.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 144
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106732416-1602007270994-kempen.jpg?v=1602007319"
+        width: 1000
+        height: 714
+        isCached: true
   - title: "Fact-checking the 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "ABC News fact-checks Vice President Mike Pence and Democratic challenger Sen. Kamala Harris during the 2020 vice presidential debate."
     publishedDateTime: 2020-10-08T02:57:00Z

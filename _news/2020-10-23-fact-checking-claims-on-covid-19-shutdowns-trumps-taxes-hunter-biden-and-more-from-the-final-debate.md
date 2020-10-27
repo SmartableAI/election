@@ -559,6 +559,22 @@ related:
         width: 807
         height: 545
         isCached: true
+  - title: "Biden thrusts into Trump country for Georgia rally in campaign's final week"
+    excerpt: "Just a week ahead of the Nov. 3 election, President Donald Trump and Democrat Joe Biden are criss-crossing the country on Tuesday in an intense day of campaigning, with Biden making a thrust into traditional Republican territory in a show of optimism."
+    publishedDateTime: 2020-10-27T19:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27C0E3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0E3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0E3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538993438&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1EW"
+        width: 789
+        height: 545
+        isCached: true
   - title: "Biden appears to pull slightly ahead of Trump in Florida - Reuters/Ipsos poll"
     excerpt: "Democratic presidential candidate Joe Biden appeared to take the lead over President Donald Trump in Florida, where the race had been a statistical tie a week earlier, Reuters/Ipsos opinion polls showed on Wednesday."
     publishedDateTime: 2020-10-22T00:28:00Z
@@ -927,6 +943,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "WATCH LIVE: Joe Biden holds campaign event in Atlanta"
+    excerpt: "Joe Biden is going on offense in the final week before Election Day, heading Tuesday to Georgia and planning travel that may put President Donald Trump on defense in other states he won four years ago."
+    publishedDateTime: 2020-10-27T19:24:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-campaign-event-in-atlanta"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-campaign-event-in-atlanta"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-campaign-event-in-atlanta"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-16T184519Z_1096142081_RC2UJJ9MSE4N_RTRMADP_3_USA-ELECTION-BIDEN-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump targets Pennsylvania women, but will need do so without wife Melania"
     excerpt: "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\""
     publishedDateTime: 2020-10-20T19:23:00Z
@@ -1098,6 +1130,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/10/26/gettyimages-1170210812_wide-4e9d175acb6d60c8b26823ff517152bb000d0515.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "The Guardian view on the 2020 US elections: It’s time to dump Trump. America’s only hope is Joe Biden"
+    excerpt: "Four years of deranged and unpredictable behaviour is proof that the current US president is uniquely unsuited to the job"
+    publishedDateTime: 2020-10-27T19:09:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/ng-interactive/2020/oct/27/the-guardian-view-on-the-2020-us-elections-its-time-to-dump-trump-americas-only-hope-is-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/29e4badb0ec0b0ae1e6826536fb2dad142a7878f/0_0_1000_600/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=9f5166ddc4880356054cc7d991a38148"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
@@ -1452,6 +1498,22 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/7231118_102120-wpvi-obama-philly-11pm-CC-vid.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "The Latest: Biden says Trump turned 'crisis into a tragedy'"
+    excerpt: "Joe Biden is telling Americans to “clear the decks for action” on everything from the coronavirus pandemic to the economy if he is elected president. In remarks at Warm Springs, Georgia, Biden went after President Donald Trump and his administration for saying they can’t contain the virus,"
+    publishedDateTime: 2020-10-27T19:24:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-biden-says-us-must-come-together-to-fight-virus/article_53a704bb-9e5f-5c01-be04-e5b47db28836.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-biden-says-trump-turned-crisis-into-a-tragedy/article_53a704bb-9e5f-5c01-be04-e5b47db28836.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-biden-says-trump-turned-crisis-into-a-tragedy/article_53a704bb-9e5f-5c01-be04-e5b47db28836.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/ea/fea14e97-b547-5df4-9246-85f2b5b28d2c/5f985a380bdf2.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Election 2020: Obama Denounces Trump For Not 'Helping Anybody But Himself'"
     excerpt: "Former President Barack Obama, in Philadelphia at his first drive-in rally of the 2020 presidential race, again broke with tradition among former presidents by publicly denouncing Donald Trump."

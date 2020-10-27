@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L2RD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L2RD"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535837932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9111I"
         width: 817
         height: 545
+        isCached: true
+  - title: "Fact check: Satire article misrepresents Biden's abortion stance"
+    excerpt: "Joe Biden proposed the legalization of abortion in the '4th trimester' Abortion and the right to choose whether to have one has long been a point of contention between Democrats and Republicans. An article claims Democratic presidential nominee Joe Biden’s stance on the matter is particularly radical."
+    publishedDateTime: 2020-10-27T18:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/27/fact-check-satire-article-misrepresents-bidens-stance-abortion/5972043002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5972043002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5972043002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/11/USAT/b21ff138-cb42-4bdc-b046-0ad395f5ccdd-VPC_BIDEN_VP_WIDE_GETTY.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Fact check: Hunter Biden's military discharge was administrative, not dishonorable"
     excerpt: "Posts on Facebook following the first 2020 presidential debate say Hunter Biden, the second and only surviving son of Democratic presidential nominee Joe Biden, received a dishonorable discharge from the U."

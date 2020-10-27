@@ -124,6 +124,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump supporters face string of attacks in run-up to Election Day: What we know about the suspects"
+    excerpt: "The Trump campaign called out \"unprovoked violence\" against the president's supporters in recent weeks after a string of attacks ranging from New York City to San Francisco."
+    publishedDateTime: 2020-10-27T18:21:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rYJBupkBWp8/trump-supporters-attacked-before-election-day-nyc-san-francisco"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-attacked-before-election-day-nyc-san-francisco.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-attacked-before-election-day-nyc-san-francisco.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/WhatsApp-Image-2020-10-25-at-5.10.02-PM.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden will ‘campaign aggressively’ in final stretch, top aide insists"
     excerpt: "When it comes to the number of in-person campaign events being held in the White House race, President Trump is lapping Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-23T08:03:54Z
@@ -316,8 +332,8 @@ related:
         isCached: true
   - title: "Trump Campaign Tones Down Immigration Messages That Dominated 2016 Election"
     excerpt: "A Wall Street Journal review found that immigration was the fourth most mentioned issue in Donald Trump’s 2016 campaign TV ads but has barely cracked the top 10 this cycle."
-    publishedDateTime: 2020-10-27T16:00:00Z
-    webUrl: "https://www.wsj.com/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411?mod=djemalertNEWS"
+    publishedDateTime: 2020-10-27T13:08:00Z
+    webUrl: "https://www.wsj.com/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411"
     ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411"
     type: article
@@ -329,6 +345,22 @@ related:
       - url: "https://images.wsj.net/im-249967/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Boston Herald endorses Trump, cautions on Biden’s plan for ‘unfeasible spending spree'"
+    excerpt: "The Boston Herald endorsed President Trump for re-election, declaring that America doesn’t need the “unfeasible spending spree in the name of a progressive utopia” that would occur if Democratic nominee Joe Biden won on Election Day."
+    publishedDateTime: 2020-10-27T18:43:00Z
+    webUrl: "https://www.foxnews.com/media/boston-herald-endorses-trump-cautions-biden-spending-spree"
+    ampWebUrl: "https://www.foxnews.com/media/boston-herald-endorses-trump-cautions-biden-spending-spree.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/boston-herald-endorses-trump-cautions-biden-spending-spree.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46f0aa7d-9b64-4156-bd88-1993cf206406/22e5b498-6423-41d5-bb71-67e475410a9b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Lil Pump endorses Donald Trump for president, prompts record label to declare pro-Biden stance"
     excerpt: "Rapper Lil Pump declared that he’s backing Donald Trump in the upcoming election, prompting his label to clarify its pro-Joe Biden position.  The “Gucci Gang” rapper took to Instagram on Monday to share a photoshopped image of himself shaking hands with the president."

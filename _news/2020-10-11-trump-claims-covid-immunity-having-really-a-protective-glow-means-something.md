@@ -298,22 +298,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump takes his Covid misinformation machine back on the road"
-    excerpt: "President Donald Trump takes his Covid denial tour back to the campaign trail Monday as the tense final stretch of an election now three weeks away gets a fresh jolt with Senate hearings on his Supreme Court pick Amy Coney Barrett.\n    \n"
-    publishedDateTime: 2020-10-12T10:31:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xDXFkd9SEDc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: The real reason Trump skipped 2nd debate"
     excerpt: "On its face, President Donald Trump's immediate insistence that he would not participate in a virtual second debate made very little political sense. After all, he needs more chances to take on Joe Biden, as the former VP continues to rise in the polls. Upon further examination, though, Trump's decision"
     publishedDateTime: 2020-10-13T15:17:44Z
@@ -772,6 +756,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12gop-pacs-3/merlin_178325691_0634175d-ea34-4410-8dce-3065cd70e186-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump takes his Covid misinformation machine back on the road"
+    excerpt: "(CNN)President Donald Trump takes his Covid denial tour back to the campaign trail Monday as the tense final stretch of an election now three weeks away gets a fresh jolt with Senate hearings on ..."
+    publishedDateTime: 2020-10-12T12:07:00Z
+    webUrl: "https://www.cnn.com/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Top general did not give his consent to be used in Trump political ad"
     excerpt: "The photo featuring Joint Chiefs Chairman Gen. Mark Milley was used without the officer's \"knowledge or consent,\" according to a defense official."

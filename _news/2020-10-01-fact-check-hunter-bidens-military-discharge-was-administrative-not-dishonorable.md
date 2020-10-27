@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Fact check: Satire article misrepresents Biden's abortion stance"
+    excerpt: "Joe Biden proposed the legalization of abortion in the '4th trimester' Abortion and the right to choose whether to have one has long been a point of contention between Democrats and Republicans. An article claims Democratic presidential nominee Joe Biden’s stance on the matter is particularly radical."
+    publishedDateTime: 2020-10-27T18:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/27/fact-check-satire-article-misrepresents-bidens-stance-abortion/5972043002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5972043002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5972043002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/11/USAT/b21ff138-cb42-4bdc-b046-0ad395f5ccdd-VPC_BIDEN_VP_WIDE_GETTY.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Robert Byrd, eulogized by Joe Biden at funeral, was not KKK Grand Wizard"
     excerpt: "Social media users have been sharing content online that claims Democratic Presidential nominee Joe Biden eulogized Robert Byrd, asserting he was the grand wizard of the Ku Klux Klan (KKK). This claim is partly false."
     publishedDateTime: 2020-10-07T15:15:00Z

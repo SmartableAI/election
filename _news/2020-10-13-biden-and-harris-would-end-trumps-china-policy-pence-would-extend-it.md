@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10660
+heat: 10680
 published: true
 
 provider:
@@ -799,6 +799,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f825b2e8118f5d60fbcc30e%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Here’s what Mike Pence and Kamala Harris need to do in the vice presidential debate"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris will lock horns in Salt Lake City on Wednesday night in their first and only debate. With the White House now a coronavirus hot spot, the ..."
+    publishedDateTime: 2020-10-07T23:15:00Z
+    webUrl: "https://www.cnbc.com/2020/10/07/heres-what-pence-and-harris-need-to-do-in-the-vice-presidential-debate.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/07/heres-what-pence-and-harris-need-to-do-in-the-vice-presidential-debate.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/07/heres-what-pence-and-harris-need-to-do-in-the-vice-presidential-debate.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 144
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106732416-1602007270994-kempen.jpg?v=1602007319"
+        width: 1000
+        height: 714
         isCached: true
   - title: "Joe Biden Projected to Spend Twice as Much as Trump on TV Ads by Election Day, Analysis Finds"
     excerpt: "A new analysis find that President Donald Trump and Democratic presidential nominee Joe Biden will spend a combined total of between $2.75 billion and $2.8 billion by November 3, but Biden's campaign will double the amount Trump will spend on television advertising."

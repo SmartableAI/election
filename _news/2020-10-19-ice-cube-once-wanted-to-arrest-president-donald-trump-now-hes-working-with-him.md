@@ -3235,6 +3235,17 @@ related:
       name: al.com
       domain: al.com
     quality: 49
+  - title: "Trump aims for campaign reset, aggressive travel schedule after coronavirus setback"
+    excerpt: "2:10 Trump hosts large crowd at White House following COVID-19 hospitalization U.S. President Donald Trump is running out of time to recover from a series of self-inflicted setbacks that have ..."
+    publishedDateTime: 2020-10-12T11:04:00Z
+    webUrl: "https://globalnews.ca/news/7392544/donald-trump-us-election-coronavirus-setback/"
+    ampWebUrl: "https://globalnews.ca/news/7392544/donald-trump-us-election-coronavirus-setback/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7392544/donald-trump-us-election-coronavirus-setback/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 49
   - title: "President Donald Trump asked about maskless White House ceremony during NBC town hall"
     excerpt: "Moderator Savannah Guthrie asks President Donald Trump about a White House event where multiple attendees were seen without masks."
     publishedDateTime: 2020-10-16T02:03:00Z

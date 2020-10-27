@@ -2617,6 +2617,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump & Biden step up campaign schedules"
+    excerpt: "Watch \"President Trump & Joe Biden step up campaign schedules\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-27T18:17:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201027180141-president-trump-joe-biden-step-up-campaign-schedules/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/27/story_07431373_1603821904.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z
