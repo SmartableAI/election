@@ -32,254 +32,304 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris pays tribute to RBG with Supreme Court pic"
-    excerpt: "Democratic Vice Presidential candidate Kamala Harris paid tribute to the passing of Supreme Court Justice Ruth Bader Ginsberg Saturday, calling the liberal icon a “titan.”"
-    publishedDateTime: 2020-09-19T21:52:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp"
+  - title: "Biden's low-key campaign style worries some Democrats"
+    excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is taking a lower key approach."
+    publishedDateTime: 2020-09-25T15:23:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jawkoRtBbs0/bidens-low-key-campaign-style-worries-some-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-low-key-campaign-style-worries-some-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-low-key-campaign-style-worries-some-democrats.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e4ffb8-2b45-4210-b6fb-e8d0e7172632/fc1e8122-6d22-4b0e-bd5d-bb49476cc1cd/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0b00372-5490-4399-8998-f82a54d960e5/bb3419b2-7358-4045-be73-020550f29651/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Flashback: Kamala Harris said nationwide protests are 'not going to stop'"
-    excerpt: "Sen. Harris’ remarks came during an appearance on “The Late Show with Stephen Colbert” on June 17."
-    publishedDateTime: 2020-09-24T21:51:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mGOcy3c_UQA/flashback-kamala-harris-nationwide-protests-not-going-to-stop"
-    ampWebUrl: "https://www.foxnews.com/politics/flashback-kamala-harris-nationwide-protests-not-going-to-stop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-kamala-harris-nationwide-protests-not-going-to-stop.amp"
+  - title: "Biden says Antifa is just an idea, but here's what we know about it"
+    excerpt: "Democratic nominee Joe Biden, during the first presidential debate on Tuesday, dismissed Antifa as “an idea” when asked to condemn left-wing violent extremism – but that claim is highly disputed by Republicans, and some who have covered them up-close."
+    publishedDateTime: 2020-09-30T17:03:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ntitUMG3Uk/biden-antifa-idea-what-we-know"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9710e7d0-b418-4817-851c-601c81b0ca58/45146b75-8b1a-4d4d-9517-26baa043d584/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Sanders to host socially distant rally for Biden in New Hampshire"
+    excerpt: "Bernie Sanders will hold a socially distanced rally for Democratic nominee Joe Biden in New Hampshire on Saturday, the Biden campaign announced. "
+    publishedDateTime: 2020-10-02T21:16:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKW8nWOI1bQ/sanders-distant-rally-biden-new-hampshire"
+    ampWebUrl: "https://www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Sanders-4.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris praises BLM, says ongoing protests are 'essential' for change in US"
-    excerpt: "Peaceful protests surrounding racial injustice are critical for the nation's progress and help to keep law enforcement in check, Sen. Kamala Harris, D-Calif., said on Friday."
-    publishedDateTime: 2020-09-25T23:37:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ue05HgA890k/kamala-harris-blm-protests-louisville"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-blm-protests-louisville.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-blm-protests-louisville.amp"
+  - title: "Biden, Mr. Rogers' widow Joanne hold virtual call during Pennsylvania campaign stop"
+    excerpt: "Rogers, 92, is an outspoken critic of President Trump and supporter of the Biden campaign."
+    publishedDateTime: 2020-10-01T00:46:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhMH2EpasXA/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-Facetime-Rogers-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden says at debate he doesn't support Green New Deal, but his campaign website calls it 'crucial framework'"
+    excerpt: "Joe Biden said Tuesday night at the first presidential debate that he does not support the Green New Deal, but his campaign website calls it a “crucial framework” for meeting climate change challenges."
+    publishedDateTime: 2020-09-30T17:46:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7770338-6f00-45d5-b73c-f483671ead37/96618aa6-16e0-4aa8-b103-de0e0b8c3bce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden endorsed by more than 120 former GOP national security officials"
+    excerpt: "More than 120 former GOP national security officials endorsed Democratic presidential nominee Joe Biden on Thursday, joining a cadre of Republican groups to oppose the reelection of President Trump."
+    publishedDateTime: 2020-10-01T19:04:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d539c59-bfa2-41d6-8f8d-7304216859f5/6caa7c64-5374-4cdb-b548-906493f1486a/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-4.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris accidentally touts plans under a 'Harris administration' during virtual roundtable"
-    excerpt: "Kamala Harris raised eyebrows on Monday evening after she accidentally touted economic plans under a \"Harris administration.\""
-    publishedDateTime: 2020-09-15T04:04:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MQuF9DuvsKQ/kamala-harris-accidentally-touts-plans-in-a-harris-administration-during-virtual-roundtable"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-accidentally-touts-plans-in-a-harris-administration-during-virtual-roundtable.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-accidentally-touts-plans-in-a-harris-administration-during-virtual-roundtable.amp"
+  - title: "Joe Biden Wants to Make Almost Every Policy a Climate Change Policy"
+    excerpt: "Joe Biden’s plans to make climate change a major focus of his administration if he wins the White House would have significant ramifications for both businesses and consumers."
+    publishedDateTime: 2020-09-28T13:15:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-237079/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden Wants to Make Almost Every Policy a Climate Change Policy"
+    excerpt: "Joe Biden’s plans to make climate change a major focus of his administration if he wins the White House would have significant ramifications for both businesses and consumers."
+    publishedDateTime: 2020-09-28T21:32:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-237079/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden’s ObamaCare Tax Avoidance"
+    excerpt: "In 2019 he and his wife legally dodged payroll levies on $228,703 in income."
+    publishedDateTime: 2020-09-30T22:53:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-238687/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "AOC responds after Biden says Green New Deal ‘not my plan’ during debate"
+    excerpt: "U.S. Rep. Alexandria Ocasio-Cortez issued a toned-down reaction Tuesday night after Democratic nominee Joe Biden separated himself from the multitrillion-dollar Green New Deal, her signature legislative proposal."
+    publishedDateTime: 2020-09-30T10:07:00Z
+    webUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 147
+    quality: 134
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a78fb24c-45b3-46b0-b374-c4b813a8cc6a/5266e132-6985-4925-822c-fba256a1a64d/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/aoc-biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Maureen Mackey: This key Joe Biden question needs to be asked early and often"
+    excerpt: "No wonder some Democrats are worried about Biden’s “lower key” approach to campaigning as we head towards Election Day."
+    publishedDateTime: 2020-09-25T17:25:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-election-maureen-mackey"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-election-maureen-mackey.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-election-maureen-mackey.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f4af1cf-4043-4290-be91-2834a8245f3f/ba96f20e-175b-4dc2-a52a-fa2b8ae8e10f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pete Buttigieg reportedly posing as Mike Pence in Kamala Harris VP debate prep"
-    excerpt: "Vice presidential nominee Kamala Harris has tapped former 2020 Democratic primary candidate Pete Buttigieg to play Vice President Mike Pence as she prepares for their one and only debate ..."
-    publishedDateTime: 2020-09-23T17:28:00Z
-    webUrl: "https://nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/"
-    ampWebUrl: "https://nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 131
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/pence-buttigieg.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Newt Gingrich: Kamala Harris is most radical major party VP nominee in US history"
-    excerpt: "Historically, voters do not heavily consider the vice-presidential candidate, but it is essential this year to give Harris much more scrutiny than would normally be warranted."
-    publishedDateTime: 2020-09-12T21:02:00Z
-    webUrl: "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich"
-    ampWebUrl: "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich.amp"
+  - title: "Biden says 200 million people have died from COVID-19 as campaign gaffes continue"
+    excerpt: "Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000."
+    publishedDateTime: 2020-09-20T22:09:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 130
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20ebabce-3341-4c5b-86f6-bfcc6f919ff7/eb1a14b9-fb26-4227-a285-4e4b070d31c7/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Hannity chides Kamala Harris for 'out of touch' joke about kids returning to school"
-    excerpt: "Sean Hannity Thursday called Sen. Kamala Harris a “fake, out of touch, far-left swamp politician” for a joke she made about children returning to classrooms amid the coronavirus pandemic. During a Thursday campaign event in Pennsylvania,"
-    publishedDateTime: 2020-09-18T05:08:00Z
-    webUrl: "https://www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school"
-    ampWebUrl: "https://www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school.amp"
+  - title: "Biden says 200 million people have died from coronavirus as campaign gaffes continue"
+    excerpt: "Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000."
+    publishedDateTime: 2020-09-22T08:22:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 129
+    quality: 128
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e215642-f034-4266-81b3-2ff32750f24d/04a35bfe-c38c-4a69-8c9a-25aacff59b7d/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris criticized for lack of press availability: ‘What are they afraid of?’"
-    excerpt: "It’s been well over a month since 2020 Democratic presidential nominee Joe Biden selected Sen. Kamala Harris as his running mate and critics on both sides of the aisle are starting to wonder why she hasn’t been more accessible to the media."
-    publishedDateTime: 2020-09-23T20:13:00Z
-    webUrl: "https://www.foxnews.com/media/kamala-harris-press-availability"
-    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-press-availability.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-press-availability.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/Joe-Biden-DNC-AP-9.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Bail fund backed by Kamala Harris and Joe Biden staffers bailed out alleged child abuser, docs indicate"
-    excerpt: "A bail fund promoted by Democratic vice presidential nominee Kamala Harris and many staffers on Joe Biden's campaign to bail out rioters and violent protesters also helped release an accused child abuser,"
-    publishedDateTime: 2020-09-17T18:03:00Z
-    webUrl: "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 114
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29849dd8-f625-4758-ab9f-5b289b405717/f23922bb-04fd-4c1d-b408-031b30c89a7c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Devin Nunes on Why Kamala Harris Is 'Unqualified' to Be Vice President"
-    excerpt: "You may have thought the final impeachment vote in February would have been the end of the \"Russia, Russia, Russia\" narrative. But Sen. Kamala Harris (D-CA) brought the topic up"
-    publishedDateTime: 2020-09-14T13:30:00Z
-    webUrl: "https://townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127"
-    ampWebUrl: "https://townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127?amp=true"
+  - title: "Does Joe Biden and His Party Care About Real Science?"
+    excerpt: "Science must be free from bias, but it rarely works out that way. A flurry of mainstream media reporters and left-leaning politicians, led by Joe Biden, Kamala Harris, and Nancy"
+    publishedDateTime: 2020-09-26T04:01:00Z
+    webUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956"
+    ampWebUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
     quality: 85
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2019/323/1b0ab253-b53e-4b2e-9a5e-3e2d709a244b.jpg"
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
         width: 650
         height: 340
         isCached: true
-  - title: "Get Ready for President Kamala Harris and Vice President Nancy Pelosi"
-    excerpt: "It's time for President Trump to start telling the raw truth to the American people. He knows it. I know it. Most voters who don't suffer from \"Trump Derangement Syndrome\""
-    publishedDateTime: 2020-09-20T04:01:00Z
-    webUrl: "https://townhall.com/columnists/wayneallynroot/2020/09/20/get-ready-for-president-kamala-harris-and-vice-president-nancy-pelosi-n2576500"
-    ampWebUrl: "https://townhall.com/columnists/wayneallynroot/2020/09/20/get-ready-for-president-kamala-harris-and-vice-president-nancy-pelosi-n2576500?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/wayneallynroot/2020/09/20/get-ready-for-president-kamala-harris-and-vice-president-nancy-pelosi-n2576500?amp=true"
+  - title: "Biden Couldn't Name Support From a Single Law Enforcement Group"
+    excerpt: "After months of rioting, looting, and unrest in streets across America, President Trump has positioned himself as the law and order candidate. Only recently did Democrats start caring and speaking"
+    publishedDateTime: 2020-09-30T12:15:00Z
+    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188"
+    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
     quality: 85
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/b20f9ac6-a52c-4b94-a115-59904259ac9b.jpg"
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/ed2b43e7-9d41-4017-bb0d-1916ec16d4b7.jpg"
         width: 650
         height: 340
         isCached: true
-  - title: "Kamala Harris memorializes Ginsburg as a 'relentless defender of justice'"
-    excerpt: "Kamala Harris hailed Supreme Court Justice Ruth Bader Ginsburg as a “historic icon” and a “relentless defender of justice” following her death."
-    publishedDateTime: 2020-09-19T15:36:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice?_amp=true"
+  - title: "Barack Obama teams with Kamala Harris to raise money for Biden campaign"
+    excerpt: "Barack Obama is lending his star power to Democratic nominee Joe Biden’s campaign, planning to co-host a couple of fundraisers with Biden’s running mate, Sen. Kamala Harris of California."
+    publishedDateTime: 2020-09-24T21:35:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 84
+    quality: 80
+  - title: "Kyle Rittenhouse's Lawyers Demands Biden Campaign Retract Their Claim He Is a White Supremacist"
+    excerpt: "Lawyers for Kyle Rittenhouse, one of the alleged shooters in Kenosha, Wisconsin, are demanding Joe Biden's Democratic presidential campaign retract their claim that the 17-year-old is a white supremac"
+    publishedDateTime: 2020-09-30T18:30:00Z
+    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216"
+    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 73
     images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/d43fe7b/2147483647/strip/true/crop/4500x3214+0+0/resize/4500x3214!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb9%2Faa%2F960f4cf54253a6251fe82eecb914%2Fap20263460728700.jpg"
-        width: 4500
-        height: 3214
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
+        width: 650
+        height: 340
         isCached: true
-  - title: "Miami restaurant 'would've said no' to unannounced Kamala Harris visit"
-    excerpt: "A Doral restaurant owner who received an unannounced visit from Democratic vice presidential candidate Kamala Harris said he would have preferred she hadn't stopped by."
-    publishedDateTime: 2020-09-26T23:50:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/miami-restaurant-wouldve-said-no-to-unannounced-kamala-harris-visit"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/miami-restaurant-wouldve-said-no-to-unannounced-kamala-harris-visit?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/miami-restaurant-wouldve-said-no-to-unannounced-kamala-harris-visit?_amp=true"
+  - title: "Biden's refusal to rule out court-packing confirms he can't restrain his progressive wing"
+    excerpt: "There is a lot of discussion about how Joe Biden can’t really be a Trojan horse for the progressives in his party or how Biden is a true centrist who can hold the party in line. But neither of these things are true,"
+    publishedDateTime: 2020-09-22T17:42:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 65
-  - title: "Kamala Harris calls for inspector general investigation of John Durham's Russia inquiry"
-    excerpt: "Democratic vice presidential nominee Kamala Harris joined the nine other Democratic members of the Senate Judiciary Committee in calling upon Justice Department Inspector General Michael Horowitz to investigate U."
-    publishedDateTime: 2020-09-17T22:22:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/kamala-harris-calls-for-inspector-general-investigation-of-john-durhams-russia-inquiry"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/kamala-harris-calls-for-inspector-general-investigation-of-john-durhams-russia-inquiry?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-calls-for-inspector-general-investigation-of-john-durhams-russia-inquiry?_amp=true"
+    quality: 56
+  - title: "Leftists outraged at Biden quickly condemning violence and offering prayers for officers shot in Louisville"
+    excerpt: "Leftists criticized Joe Biden for a tweet that condemned violence and offered prayers for the police officers shot in Louisville, Kentucky, during protests and riots that followed a grand jury decision relating to the death of Breonna Taylor."
+    publishedDateTime: 2020-09-24T15:15:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 57
-  - title: "'Besides myself?': Kamala Harris says she threw best 'shade' in Democratic primary debates"
-    excerpt: "Kamala Harris praised her own sharp debate swipe skills in a comment that hit an awkward note considering her famous debate attack at her running mate Joe Biden in 2019."
-    publishedDateTime: 2020-09-25T23:49:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/besides-myself-kamala-harris-says-she-threw-best-shade-in-democratic-primary-debates"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/besides-myself-kamala-harris-says-she-threw-best-shade-in-democratic-primary-debates?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/besides-myself-kamala-harris-says-she-threw-best-shade-in-democratic-primary-debates?_amp=true"
+    quality: 47
+  - title: "Biden campaign touts analysis showing his policies would cost $7.3 trillion and add $3.2 trillion to deficits"
+    excerpt: "Joe Biden's campaign is touting a new economic analysis that shows his proposals would cost $7.3 trillion over a decade, raise taxes by $4.1 trillion, and increase deficits by an additional $3.2 trillion."
+    publishedDateTime: 2020-09-24T20:16:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/biden-campaign-touts-analysis-showing-his-policies-would-cost-7-3-trillion-add-3-2-trillion-to-deficits"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/biden-campaign-touts-analysis-showing-his-policies-would-cost-7-3-trillion-add-3-2-trillion-to-deficits?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/biden-campaign-touts-analysis-showing-his-policies-would-cost-7-3-trillion-add-3-2-trillion-to-deficits?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 55
-  - title: "Venezuelan Restaurant In Florida Says Kamala Harris Is \"Unwelcome\" After Surprise Campaign Stop"
-    excerpt: "Democratic vice presidential candidate Kamala Harris and her husband were told they were not welcome to visit after bringing their campaign retenue and security unannounced to a Venezuelan restaurant in Florida last week."
-    publishedDateTime: 2020-09-16T16:52:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/16/venezuelan_restaurant_in_florida_says_kamala_harris_is_unwelcome_after_surprise_campaign_stop.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 53
-    images:
-      - url: "https://assets.realclear.com/images/52/521452.jpg"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "Man accused of raping young girl released from jail after help from bail fund touted by Kamala Harris"
-    excerpt: "A bail fund touted by Democratic vice presidential nominee Kamala Harris contributed to the release of a man accused of raping an 8-year-old girl."
-    publishedDateTime: 2020-09-17T19:10:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/man-accused-of-raping-young-girl-released-from-jail-after-help-from-bail-fund-touted-by-kamala-harris"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/man-accused-of-raping-young-girl-released-from-jail-after-help-from-bail-fund-touted-by-kamala-harris?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/man-accused-of-raping-young-girl-released-from-jail-after-help-from-bail-fund-touted-by-kamala-harris?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 50
+    quality: 46
 
 secured: "mS4z7lCzjWvKttTmLbaJ1rCODIEvxx9nlWZOrGkUZ1V7OySZ0iZ0JjX59Jsp2R9G0zYWLt+PIchrFhDu42K99Ro5/MGbC5acuEABamKUrBlXXssYK8Sq+9VNmKlXMVSSFc/N1tcBgoPiZUcadogl36stpxkIwreRNLRXAyq4eWP/uT9ti6X5LAqN7OVCvY21vbk66y8+qHb6ck5vqIPoaEbhNgLn5D+pnh2ekhMmvp1S/dPZMutUm7fe6INHGZHE+F7aeIuLTuURW16CaziFN9ZAjENn2zHQhcAzswBEEVJaKMOPfnS1F24ih47gk6k3ar7cjec0nJgohbDjhq/+rQ/AxlZAjsN4bORXJYIyU4YHjnoimHwKqkgCcXimhhZENlcy2xjePcdrQSr+T6sAgQbwrlQx2VOhI6vVp9q+3I33wA4VqiO7L41yNwQE4xNN7qi8vMhm25AiQfU96X7C7vOKzKTm60KxQyc6h/5RRmIkv+pOtuV38QLtJ53fm3wY61gwBO6qKRbGOUpMGRznWA==;E0NRLW/dk6mIE2ToOO2hgg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Issues important to Trump await Barrett on Supreme Court"
+    excerpt: "Amy Coney Barrett's first votes on the Supreme Court could include two big topics affecting President Trump."
+    publishedDateTime: 2020-10-27T11:01:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KIwFUANKQSs/donald-trump-amy-coney-barrett-supreme-court-important-issues"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a1de409-79ad-4875-9231-c96193a4761b/656cc5d6-0379-4e6f-9b62-b3314c81d8c0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Russian hackers 'can't change votes,' Trump's national security adviser says"
     excerpt: "U.S. officials said that Russian hackers have targeted the networks of dozens of state and local governments in the United States in recent days, stealing data from at least two servers."

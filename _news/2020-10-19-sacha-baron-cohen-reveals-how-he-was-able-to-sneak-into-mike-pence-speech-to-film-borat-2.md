@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-b
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/amp/"
 type: article
 quality: 66
-heat: 146
+heat: 166
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/40a/1c1/e947ad9bcec542e1e4e5c8d59bb795d3c1-17-sacha.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Trump No Fan Of Sacha Baron Cohen"
+    excerpt: "US President Donald Trump said Friday he has not been a fan of Sacha Baron Cohen -- even before a clip from the British comedian's new Borat movie forced his lawyer Rudy Giuliani into an awkward explanation."
+    publishedDateTime: 2020-10-24T05:06:00Z
+    webUrl: "https://www.ibtimes.com/trump-no-fan-sacha-baron-cohen-3068744"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/24/while-the-plot-of-the-new-borat-film.jpg"
+        width: 1024
+        height: 608
         isCached: true
   - title: "Sacha Baron Cohen Really Did Crash Mike Pence's CPAC Speech for 'Borat 2'"
     excerpt: "A new movie has everyone talking because it's hard to tell what's real and what's creative editing. Like, did Borat crash CPAC for real?"

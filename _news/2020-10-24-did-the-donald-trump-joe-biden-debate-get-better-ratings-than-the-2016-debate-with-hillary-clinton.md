@@ -862,6 +862,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The secret to Biden's lead: People find him likable"
+    excerpt: "Former Vice President Joe Biden heads into the final week before Election Day with a substantial advantage over President Trump, built on a careful foundation of Biden’s own personal image."
+    publishedDateTime: 2020-10-27T11:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522830-the-secret-to-bidens-lead-people-find-him-likable"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522830-the-secret-to-bidens-lead-people-find-him-likable?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522830-the-secret-to-bidens-lead-people-find-him-likable?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_102420getty_fav.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Fact-checking claims on COVID-19 shutdowns, Trump’s taxes, Hunter Biden and more from the final debate"
     excerpt: "President Donald Trump’s first line of the night, about COVID-19 deaths, was false and set the tone as he and Democratic rival Joe Biden unleashed a torrent of claims in their last presidential debate."
     publishedDateTime: 2020-10-22T19:50:00Z

@@ -819,17 +819,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Issues important to Trump await Barrett on Supreme Court"
-    excerpt: "Amy Coney Barrett's first votes on the Supreme Court could include two big topics affecting the man who appointed her."
-    publishedDateTime: 2020-10-27T06:13:00Z
-    webUrl: "https://www.businessinsider.com/issues-important-to-trump-await-barrett-on-supreme-court-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/issues-important-to-trump-await-barrett-on-supreme-court-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/issues-important-to-trump-await-barrett-on-supreme-court-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Trump is leaning toward Amy Coney Barrett as nominee to replace Ruth Bader Ginsburg on Supreme Court, GOP sources say"
     excerpt: "While Barrett, 48, has been the front-runner for the nomination all along, the sources said she has become the sole focus of the process."
     publishedDateTime: 2020-09-25T21:47:00Z

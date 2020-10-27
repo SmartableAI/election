@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Is Joe Biden a Victim of Elder Abuse?"
-    excerpt: "I'm sitting on a park bench when I overhear a couple walking by. A man says to his female companion, “I think Joe Biden is a victim of elder abuse."
-    publishedDateTime: 2020-09-17T04:01:00Z
-    webUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349"
-    ampWebUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/252/61d5387e-6648-485a-b140-a23700adc812.jpg"
-        width: 650
-        height: 340
-        isCached: true
 
 secured: "8Pa5Jeacwk82EzesouKU778wyJG4hB37sPdaH+BHd6ZnfgQzwHjOYNGtqbAyYS7HVx2SIsyJLe+mPEbqHy/QKZHfV9bdPGIWY3awykWYvFYRNMnA5/gSGRpv99dWJ6I76c/D8FXQ/QcqFISL7f42llPLvpTtTE1RPLhX002LZbllFd7ipujJGXVoQpmf+tG89Fdo2OrnjPKaUVlIDAw1nlAH89LyzsfRmo01OVGH7wDyVMtsD5x5cfoOWNwWw1I/XojCBw8p8sUf6TpW6nGxnW/6hJxwd+aVM5uJREo5oRCWwUCf7p054Odpw1ylx5bEH3EFL0dGiKx3kQgS3BPi1qWSh8FpMzOd6b8K7X+4YzbPPDvtoHkyr8k47MnkzcDw/VXrb2CpEIkKj7npGndtg4OSmRc0ELwHtQub27z1YbBE8igq7/fomyMk45MPaO0GswwUBIIZDR/UWOc+6w32girV5eWIYQNHP7aXgrH2pfUSuxZhlBjr5DHlj8DZ5xwEoBAM2KPO3QGFIDAiljLvBQ==;tiOLMEKX65EqH/ueYI47MQ=="
 ---

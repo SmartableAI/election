@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden makes play for red states in final days of campaign as Trump narrows his focus"
+    excerpt: "Democratic presidential nominee Joe Biden's campaign is making a late push into deeper-red states in the final week before the 2020 election, chasing a number of possible paths to 270 electoral votes while President Donald Trump focuses on defending a narrower set of states that he won four years ago"
+    publishedDateTime: 2020-10-27T11:42:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UHcNMwE1gu0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/2020-election-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/2020-election-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026140712-01-biden-trump-election-night-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence's former lead coronavirus task force aide slams Trump and endorses Biden in new video"
     excerpt: "A former top aide to Vice President Mike Pence assailed President Donald Trump's response to the pandemic in a new video Thursday, adding to the growing list of former Trump administration officials who have criticized the President and, in several cases, endorsed his Democratic opponent Joe Biden.\n"
     publishedDateTime: 2020-09-18T02:04:10Z
@@ -1288,6 +1304,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "As coronavirus cases surge, Trump has another message"
+    excerpt: "While the U.S. sets new daily records for Covid-19 cases, Trump is betting voters care more about the economy and loosening restrictions than controlling the virus."
+    publishedDateTime: 2020-10-27T11:25:00Z
+    webUrl: "https://www.politico.com/news/2020/10/27/trumps-closing-argument-forget-about-covid-432692"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/dc/71/c9f41ad64107ba6dca8ac02fe3c2/gettyimages-1229298472-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump breaks with Meadows, says he hasn’t given up on controlling virus"
     excerpt: "The president also said the U.S. is “absolutely rounding the corner” on the pandemic, just days after the country set a single-day record of Covid-19 cases."
     publishedDateTime: 2020-10-27T06:31:00Z
@@ -1344,6 +1374,6 @@ related:
       domain: thedailybeast.com
     quality: 58
 
-secured: "lIlaQ8LfIgtb/qNuNdMM0nhu1nVMKy5FCtA8O1+3tcZXCyvV/NOVWTtPPJhMhVyC+8eHgZggN+N+4+1EvICGTgIoOsi//IyqOSF+IF6cEJZkmfLkkPpjKv470Qxf4ESwEodRQ8w9UR7NAhFYiuHWvL3qdQKZ0Cyqiyd9u4KEoZz0/jDfhYqJoTBR5YoQYEtjrs2lRWZ44Pg3+BRvrWGFTsH6HgcNpocPVXUo0EwmVdyVx2Iemliwo1GEa4VLUpKurnCdS1tN4ax1jXfnEJcYzdDk3ixAVvAQBc11jZ1kpY7dd4uu6Lu8WWbE/LnPZVMYFAMfyCKBRhNDscPpfJlaGsKBu2p7LJ/aRFB2gQfmrn4=;bxnG3AZhCFZ8LgxWuViW0A=="
+secured: "xYdopMXyEu0FlZvk2Ky8RQ62adj31SAJagpe5m2tFBye3pUidPXXE6csIWYPXKcma8XqUXUQmV93+uWsQeg57XUbpUZyfR976WnU1S9tHpbvZuJU5P3+2PJdFDXZ1tzW9asHy9i0sHH+aBUvAf3SSb437wA0TTqRo8rjE2fNyVHQe9EiSxobmUDIJhTMX57FU7kqWvbiK3MMgkuEUA3ulNV7GNfCAwtx2OiVoxEejRn9vXhnNSFYJjXyJmiksPURblY+ugdq0W1oxyIHXgq84RNl6ZRsp+O9AOPiu72je8bJqqHOynFnimpbJaU2D1SzqfvPNLuVhIzYP9v0Y7SVe9KPSHyuUPgXbpBexAN0STwMeSfKNLfrOMgQE3xIuxtohNbXTsitp098DbmKC96gd62VJzRpX3gSGamz7Vi3QboaX+btKODrfqqonBiMkMArORfDvdkLJMWtNXlz6O+UbXNtry8L8G0SDz6vx4C2SleOH2YS+zXcGVDOq7kj34wuPX72q901Vf5wbTDup9TQsA==;hyT76t8czgkSm6rFCHdvzQ=="
 ---
 

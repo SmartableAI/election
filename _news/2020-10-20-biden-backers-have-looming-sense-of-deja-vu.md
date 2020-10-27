@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-backers-have-looming-sense-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
 type: article
 quality: 175
-heat: 295
+heat: 275
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "http://assets.realclear.com/images/52/524567_5_.jpg"
         width: 750
         height: 552
-        isCached: true
-  - title: "A Biden Family Special Prosecutor in 2021?"
-    excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade"
-    publishedDateTime: 2020-10-27T04:01:00Z
-    webUrl: "https://townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819"
-    ampWebUrl: "https://townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/300/b56c4ad7-0b8b-4c0d-858d-a3e90867fcde.jpg"
-        width: 650
-        height: 340
         isCached: true
 
 secured: "Lt/wyG+K9fhIbX2Xv74273YWIQJPSLAjS3ASxS8H4vhda6WEtoMK+z6b1ZbUsaw5u3jhK6LkKv2Dz1uJJQBL3WttHqX4tXiEhiczn95bqyPLTYVRmVIvDY8TOKAAo6JW0ma20zfW8VJf3qDBu6BjLisqKG2XomtRkQ6CyeQlTFIRJoEA3SftrHIMiQQbUuxn5Bz8Jd2HoVcQ7dznKeLTMO0LJxz80UhH4NLCVfbnIh2hZr3ukdYaTuLDGQVaknq282Tb/lfvxkiXaYs2GWf8Wit0Ks/e/rr8bsZdkoYru+D0J4xwbP56V+9UtM5JzT7IbWJNtvwrWvMw3Egpoce7VeNwfDHWslLCMzvu+74CMJ0=;9G+eW8XJ1SfyMxOVuvQoCA=="

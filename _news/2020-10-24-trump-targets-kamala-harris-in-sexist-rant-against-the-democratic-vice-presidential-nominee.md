@@ -192,6 +192,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Banners and prayers for Kamala Harris in her ancestral Indian village"
+    excerpt: "A big banner of U.S. vice presidential candidate Kamala Harris welcomes visitors to Thulasendrapuram, a lush, green south Indian village that is praying for her Democratic Party's victory in the Nov."
+    publishedDateTime: 2020-10-27T08:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-harris-india-idUSKBN27C0VJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0VJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0VJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538943099&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0MB"
+        width: 804
+        height: 545
+        isCached: true
   - title: "The Countdown: Avengers stars quiz Kamala Harris and what to wear to vote"
     excerpt: "Thirteen days left and we look at what you can wear when you go vote and who gets to question Kamala Harris. It was Democrat vice-presidential pick Kamala Harris's birthday yesterday and the cast of the Avengers held a fundraiser over Zoom where they got to question her."
     publishedDateTime: 2020-10-21T17:26:00Z
@@ -1060,6 +1076,22 @@ related:
       - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1603304987"
         width: 1680
         height: 876
+        isCached: true
+  - title: "Joe Biden, Kamala Harris and Theresa Greenfield are silent about proposals to pack the Supreme Court. Why won't they share their views?"
+    excerpt: "Greenfield could enable a President Joe Biden to quickly fill new Supreme Court seats with agenda-driven liberals set on eviscerating the rule of law."
+    publishedDateTime: 2020-10-27T10:48:00Z
+    webUrl: "https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2020/10/27/theresa-greenfield-joe-biden-should-answer-supreme-court-packing/6045634002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6045634002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6045634002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 58
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/29c99289-a9bf-437a-8521-d282b629793c-GTY_1228773157.jpg?auto=webp&crop=5999,3375,x0,y400&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Alumni pressure Davidson to respond to NC congressman’s Twitter swipe at Kamala Harris | Charlotte Observer"
     excerpt: "Some alumni want Davidson College to directly rebuke U.S. Rep. Greg Murphy, after his comment on U.S. Sen. Kamala Harris’ race and qualifications to be vice president. During the vice presidential debate Oct."

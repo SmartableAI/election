@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Trump No Fan Of Sacha Baron Cohen"
+    excerpt: "US President Donald Trump said Friday he has not been a fan of Sacha Baron Cohen -- even before a clip from the British comedian's new Borat movie forced his lawyer Rudy Giuliani into an awkward explanation."
+    publishedDateTime: 2020-10-24T05:06:00Z
+    webUrl: "https://www.ibtimes.com/trump-no-fan-sacha-baron-cohen-3068744"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/24/while-the-plot-of-the-new-borat-film.jpg"
+        width: 1024
+        height: 608
+        isCached: true
   - title: "Flashback: Sacha Baron Cohen Interviews Donald Trump as Ali G"
     excerpt: "IMDb, the world's most popular and authoritative source for movie, TV and celebrity content."
     publishedDateTime: 2020-10-22T15:47:00Z

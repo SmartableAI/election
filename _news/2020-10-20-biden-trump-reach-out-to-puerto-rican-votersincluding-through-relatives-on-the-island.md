@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden makes play for red states in final days of campaign as Trump narrows his focus"
+    excerpt: "Democratic presidential nominee Joe Biden's campaign is making a late push into deeper-red states in the final week before the 2020 election, chasing a number of possible paths to 270 electoral votes while President Donald Trump focuses on defending a narrower set of states that he won four years ago"
+    publishedDateTime: 2020-10-27T11:42:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UHcNMwE1gu0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/2020-election-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/2020-election-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026140712-01-biden-trump-election-night-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence's former lead coronavirus task force aide slams Trump and endorses Biden in new video"
     excerpt: "A former top aide to Vice President Mike Pence assailed President Donald Trump's response to the pandemic in a new video Thursday, adding to the growing list of former Trump administration officials who have criticized the President and, in several cases, endorsed his Democratic opponent Joe Biden.\n"
     publishedDateTime: 2020-09-18T02:04:10Z
@@ -1285,6 +1301,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/5b/c4/4dffd5d14567b100759c19d555c8/201020-trump-pa-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "As coronavirus cases surge, Trump has another message"
+    excerpt: "While the U.S. sets new daily records for Covid-19 cases, Trump is betting voters care more about the economy and loosening restrictions than controlling the virus."
+    publishedDateTime: 2020-10-27T11:25:00Z
+    webUrl: "https://www.politico.com/news/2020/10/27/trumps-closing-argument-forget-about-covid-432692"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/dc/71/c9f41ad64107ba6dca8ac02fe3c2/gettyimages-1229298472-1.jpg"
         width: 1160
         height: 773
         isCached: true

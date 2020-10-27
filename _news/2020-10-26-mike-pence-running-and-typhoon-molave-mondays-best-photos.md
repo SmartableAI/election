@@ -3,8 +3,8 @@ category: news
 title: "Mike Pence running and Typhoon Molave – Monday's best photos"
 excerpt: "The Guardian’s picture editors select photo highlights from around the world"
 publishedDateTime: 2020-10-26T13:44:00Z
-originalUrl: "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos?ref=hvper.com"
-webUrl: "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos?ref=hvper.com"
+originalUrl: "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos"
+webUrl: "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos"
 type: article
 quality: 105
 heat: 125
@@ -46,6 +46,6 @@ related:
         height: 641
         isCached: true
 
-secured: "YYZ1o5IObg/uFlLXBj60YBpNnHB8TTGRWPHSG3Z4czeLvcSP40oPRI/PiEWQ/ArF8vkQSVAWDSJQOHQyQdDtfhRRIRlM0Bue21H+xuLx/cUuEX+aIS98EALwc9L/KE5N6OeGP+idw6iSOEnRCRVnlMT1EHGaGBNWhF20/s5Wj8vA1qFJeJcYQ+Y4AD46Ix0aYyE3hGnzXlBDDfJ+v2xvAYVCirxSkgIP3WKtuQ8i8R2hiVEWlw6K3SrxwR1wd+QOwa24GFhQ/YzKsR3jBde2kzhkgqxKgZzpLBK3MNLcCr3uvcWqqo8PB4FEUR26OW9hoPq18IOrADOj5mk8KQOqU4L2uOuEnMDSHpApDGSwPNM=;1riB7RbyzxhaqOzshktlCw=="
+secured: "dJ9XUVfh41JoZG5WMm+EzdZFYU/e2uD0oCEV/48U0UvZ+NtZdvW+x6P+8t3MnXYFRIVDUno+0fGmHUnnEVRAdpF2N66mgh9negzJrHcndCQg+czoLgbhesclv6+nlnsGgI6/c/fcw7V1eeGsoTKSjh1fKpf7JcFBFojnc6T6ev06ymcdWawGLnKy1M+PhZDlKgPD2OopY4AFHjs4wg/E0cc0ociBu7qYv4Qsp3CYBEnfBJLHl/al97PCp0uf4A4AiEUu6jwekvCZ1advJxdP1+Wnnxz+K82wHQmRr2T5RgH9MnvK7ih7FeNBisJzIkXRyy/UlV0Nc0Wy2dnxAAXMki3gxTlpnS5R0ivAmTXHBSI=;Ubzy016rOYTQdhxzW1PHaA=="
 ---
 

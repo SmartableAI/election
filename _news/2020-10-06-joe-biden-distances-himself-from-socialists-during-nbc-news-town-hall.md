@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-biden-distances-himself-from-so
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-distances-himself-from-socialists-during-nbc-news-town-hall.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 215
+published: true
 
 provider:
   name: Fox News
@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Sanders to host socially distant rally for Biden in New Hampshire"
-    excerpt: "Bernie Sanders will hold a socially distanced rally for Democratic nominee Joe Biden in New Hampshire on Saturday, the Biden campaign announced. "
-    publishedDateTime: 2020-10-02T21:16:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKW8nWOI1bQ/sanders-distant-rally-biden-new-hampshire"
-    ampWebUrl: "https://www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
+  - title: "Biden's wife pulls Dem nominee away from reporters in social-distancing reminder"
+    excerpt: "2020 presidential candidate Joe Biden's wife Jill, had to pull him away from a group of reporters on Monday, in an effort to maintain social distancing in the lead up to November's election. "
+    publishedDateTime: 2020-10-06T01:50:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bbF_muffj5c/ill-biden-has-to-physically-pull-joe-away-from-reporters-in-social-distancing-reminder"
+    ampWebUrl: "https://www.foxnews.com/politics/ill-biden-has-to-physically-pull-joe-away-from-reporters-in-social-distancing-reminder.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ill-biden-has-to-physically-pull-joe-away-from-reporters-in-social-distancing-reminder.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Sanders-4.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a89bf11-2e28-454f-95eb-ba332598ae37/c4318333-5578-4fa3-b85c-5fc881cbef9e/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "New Hampshire newspaper backs Biden, first Democrat for president in 100 years"
-    excerpt: "One of the nation's most prominent conservative-leaning newspapers endorsed Joe Biden for president on Sunday, marking the first time the publication has endorsed a Democratic presidential candidate in over 100 years."
-    publishedDateTime: 2020-10-25T19:37:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/90vbbqrnN5g/biden-endorsement-conservative-new-hampshire-union-leader-newspaper"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Joe Biden’s ObamaCare Tax Avoidance"
-    excerpt: "In 2019 he and his wife legally dodged payroll levies on $228,703 in income."
-    publishedDateTime: 2020-09-30T22:53:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-238687/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Enough With Fraudulent Biden 'Town Halls'"
     excerpt: "Beware the carefully scripted puffball \"town halls\" that have been organized by CNN and NBC to help Joe Biden's campaign. As Biden makes a virtue out of having tiny, underpopulated"

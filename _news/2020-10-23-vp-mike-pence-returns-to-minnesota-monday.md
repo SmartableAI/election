@@ -30,7 +30,7 @@ related:
   - title: "Mike Pence running and Typhoon Molave – Monday's best photos"
     excerpt: "The Guardian’s picture editors select photo highlights from around the world"
     publishedDateTime: 2020-10-26T13:44:00Z
-    webUrl: "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos?ref=hvper.com"
+    webUrl: "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos"
     type: article
     provider:
       name: The Guardian

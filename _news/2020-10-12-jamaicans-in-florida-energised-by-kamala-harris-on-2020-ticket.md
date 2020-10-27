@@ -169,6 +169,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Amy Coney Barrett Refuses To Tell Kamala Harris If She Thinks Black Voter Discrimination Exists"
+    excerpt: "No one doubts that.” It was in that context that Harris simply asked Barrett if she agrees with that opinion. Kamala Harris is describing the gutting of the VRA. Barrett looks like she is ..."
+    publishedDateTime: 2020-10-13T11:18:00Z
+    webUrl: "https://newsone.com/4030470/kamala-harris-amy-coney-barrett-supreme-court-confirmation-hearing/"
+    ampWebUrl: "https://newsone.com/4030470/kamala-harris-amy-coney-barrett-supreme-court-confirmation-hearing/amp/"
+    cdnAmpWebUrl: "https://newsone-com.cdn.ampproject.org/c/s/newsone.com/4030470/kamala-harris-amy-coney-barrett-supreme-court-confirmation-hearing/amp/"
+    type: article
+    provider:
+      name: NewsOne
+      domain: newsone.com
+    quality: 63
+    images:
+      - url: "https://ionenewsone.files.wordpress.com/2020/10/16026347644687.jpg?quality=80&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Maya Rudolph Nails Her SNL Return as Kamala Harris, in the Senator's Signature Sneakers, No Less"
     excerpt: "Maya Rudolph brought back her impression of vice presidential nominee Kamala Harris for Saturday Night Live's Oct. 3 episode."
     publishedDateTime: 2020-10-04T20:46:00Z
