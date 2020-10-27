@@ -141,6 +141,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trailer park residents say landlord threatened to double rent if Biden wins"
+    excerpt: "A Colorado trailer park's owner is accused of threatening tenants with sharp rent increases and other costs if President Trump does not win reelection."
+    publishedDateTime: 2020-10-22T17:04:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10152020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden says he'll set up commission to study reforming Supreme Court if elected"
     excerpt: "Democratic presidential nominee Joe Biden said that he would form a commission to \"study\" the Supreme Court when asked by CBS's Norah O'Donnell whether he would consider adding justices past the current nine seats."
     publishedDateTime: 2020-10-22T13:30:00Z
@@ -205,6 +221,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden calls controversial New York Post story about his son Hunter a 'smear campaign'"
+    excerpt: "Biden forcefully pushed back against the report that Hunter tried to set up a meeting between a Ukrainian official and the former Vice President."
+    publishedDateTime: 2020-10-17T18:13:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-hunter-biden-new-york-post-donald-trump-disinformation-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-hunter-biden-new-york-post-donald-trump-disinformation-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-hunter-biden-new-york-post-donald-trump-disinformation-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5f8b2e529e9fe40019009f10?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 375
+        isCached: true
+  - title: "Biden proposes at debate a \"Bidencare\" health plan that would include a public option"
+    excerpt: "Biden said during Thursday's debate that he would push for a version of Obamacare that includes a public option."
+    publishedDateTime: 2020-10-23T03:47:00Z
+    webUrl: "https://www.cbsnews.com/news/presidential-debate-bidencare-biden-proposes-health-plan-that-would-include-a-public-option/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/presidential-debate-bidencare-biden-proposes-health-plan-that-would-include-a-public-option/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/presidential-debate-bidencare-biden-proposes-health-plan-that-would-include-a-public-option/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/23/61bbb02e-4500-4864-9632-640c34e70ede/thumbnail/1200x630/4a030fac0bb97cc3d2f41c717d46a0e0/gettyimages-1229229085.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FBI probing whether emails in New York Post story about Hunter Biden are tied to Russian disinformation"
     excerpt: "The FBI is investigating whether emails published by the New York Post about Hunter Biden are linked to a Russian effort to spread disinformation."
     publishedDateTime: 2020-10-16T21:44:00Z
@@ -253,20 +301,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Biden faces voters' questions during town hall"
-    excerpt: "Democratic presidential nominee Joe Biden is back on the campaign trail after facing tough questions on issues including the COVID-19 pandemic and the Supreme Court in a televised town hall last night."
-    publishedDateTime: 2020-10-16T18:29:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-voter-questions-town-hall-covid-supreme-court/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/16/9e09baf2-69d3-4666-86a4-cb3eaa8ead88/thumbnail/1200x630/4d81d2ae682b8536e03b5acfb35cc04b/cbsn-fusion-biden-back-on-campaign-trail-after-facing-tough-voter-questions-during-town-hall-thumbnail-567322-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Impatient Democrats want Biden to do more in Texas"
     excerpt: "The whispers about Texas are picking up again."
     publishedDateTime: 2020-10-16T19:22:00Z
@@ -278,6 +312,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "19-year-old man suspected of plotting to kill Biden"
+    excerpt: "Prosecutors say Alexander Treisman, who was arrested for possessing child pornography, posted evidence of wanting to kill Democratic presidential candidate Joe Biden. Jeff Pegues has the latest details."
+    publishedDateTime: 2020-10-23T23:02:00Z
+    webUrl: "https://www.cbsnews.com/video/19-year-old-man-suspected-of-plotting-to-kill-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/23/88f90fd5-e8f8-4ec8-9f20-6bfd902e5298/thumbnail/1200x630/8eed3a1d31ca5cceb637f3920bcc8490/cbsn-fusion-19-year-old-man-suspected-of-plotting-to-kill-biden-thumbnail-573331-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Joe Biden - yes, Joe Biden - could revolutionize American politics"
     excerpt: "Joe Biden may be running a safe and centrist campaign, but beneath the methodical calm is a genuinely innovative ideological appeal. The former vice president is updating and bringing back the long-dormant Democratic tradition of labor liberalism."
     publishedDateTime: 2020-10-17T10:07:00Z
@@ -293,6 +341,22 @@ related:
       - url: "https://www.courant.com/resizer/62fGLeSoK1c5uUgQIK_MTD4KU9o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W3IYWI2YR5HIZOY2R6EEU5HYOU.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Joe Biden could return to Irish roots as US president"
+    excerpt: "Mr Biden was vice president. He wants to return, but next time as president. For now, heaven can wait. For Ronald Reagan it was Ballyporeen. For Barack Obama it was Moneygall. For Joe Biden it is Carlingford."
+    publishedDateTime: 2020-10-18T03:19:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54557939"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/158D7/production/_114897288_hi063809777.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "CAL THOMAS: Can Joe Biden be trusted?"
     excerpt: "It was President Richard Nixon who said in the midst of the enveloping Watergate scandal: “People have got to know whether or not their president is a crook. Well, I’m"
@@ -341,6 +405,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7AB4/production/_114921413_biden-mails.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Joe Biden’s contradictory statements show he’s not being honest with voters"
+    excerpt: "Joe Biden is not up for the job and is anything but a model of integrity, writes Marcia S. Hanzal of Avon in a letter to the editor."
+    publishedDateTime: 2020-10-16T15:23:00Z
+    webUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html"
+    ampWebUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RKTVKHVIOJGHRNG2YQIQHIHO7A.jpg"
+        width: 5220
+        height: 2715
         isCached: true
   - title: "In context: A look behind the NY Post headline about Joe Biden and a Ukraine meeting"
     excerpt: "For weeks, conservatives have tried to attack Democratic presidential nominee Joe Biden by raising what they portray as sketchy business dealings by his"
@@ -402,6 +482,15 @@ related:
         width: 846
         height: 571
         isCached: true
+  - title: "Joe Biden Remarks on the Pandemic Response"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Wilmington, Delaware, on the coronavirus pandemic and his campaign’s plan to combat the virus. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
+    publishedDateTime: 2020-10-23T18:00:00Z
+    webUrl: "https://www.c-span.org/video/?477287-1/joe-biden-unveils-coronavirus-pandemic-recovery-plan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "NY Post: Ex-Biden Business Partner Says Joe Was In On Family Deal 'to Make Millions' From China"
     excerpt: "A former business partner of Hunter Biden issued a statement to The New York Post overnight, asserting that the Biden family, including Joe, Hunter and Joe's brother James, \"aggressively leveraged the Biden family name to make millions of dollars from foreign entities even though some were from communist controlled China."
     publishedDateTime: 2020-10-22T09:43:00Z

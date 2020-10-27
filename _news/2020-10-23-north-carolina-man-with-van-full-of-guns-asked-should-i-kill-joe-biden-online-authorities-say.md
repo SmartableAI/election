@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3740228001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740228001"
 type: article
 quality: 112
-heat: 172
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence making 2 more campaign stops in North Carolina"
+    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump's reelection bid. Pence was scheduled to hold rallies at Piedmont Triad International Airport in Greensboro at midday Tuesday and at the Wilmington airport in the evening."
+    publishedDateTime: 2020-10-27T10:44:00Z
+    webUrl: "https://www.timesunion.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Joe Biden to visit Durham on Sunday as North Carolina’s early voting numbers soar | Charlotte Observer"
     excerpt: "More than one million North Carolina voters have already cast their ballots, and Democratic presidential nominee Joe Biden is hoping to increase those numbers. Biden will visit Durham on Sunday for a 1 p."
     publishedDateTime: 2020-10-17T12:02:00Z
@@ -79,6 +95,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden Campaigns in Durham, North Carolina"
+    excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a voter mobilization event in Durham, NC, where early voting is already underway."
+    publishedDateTime: 2020-10-18T19:00:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "SSiTGVNECR8I1oYDVaIEFTROapYEOnyhAPgwF4zegK9yZy4fcAhCjw5ID2ItjcrIt+AKs8jwHnDbP48957hdHFaP67HRhqsW5fit/m5jXhywyksaHRf9I8BBYNAgdJZs6MfhXqzhY9cAskUDVwpVuD4rHP+3G5d76UnsZ/mPbaB0eHFseVAH+4HH5wXPOE68DA4lw8mUAZj0DqfMxNp5mQnxx5FueHVbyYiFgCX6VOOw1BsUFA2b1I9pBzWm76fzP3wPEG0C/LwNVGl2V21fYQzk/ch/sBsXfA5PMdRgP5ycq9XDFNr9qlznlrWbLfmxvvYT4dzRPhlU6WVPA5A3Dp9qk7i/lJSnDzzvnRWsJfE=;hR2yeznLpcrehHckOkfPMw=="
 ---

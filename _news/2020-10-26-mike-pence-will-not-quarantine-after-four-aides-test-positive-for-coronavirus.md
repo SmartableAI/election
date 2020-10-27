@@ -47,20 +47,6 @@ related:
         width: 3500
         height: 2314
         isCached: true
-  - title: "Kamala Harris suspends campaign travel after aide, crew member test positive for coronavirus"
-    excerpt: "California Sen. Kamala Harris has suspended her vice presidential campaign travel through Sunday after two members of her staff and crew tested positive for the coronavirus."
-    publishedDateTime: 2020-10-16T11:49:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-cancels-campaign-travel-after-aide-15649875.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 94
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/56/25/20112734/5/rawImage.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
   - title: "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally"
     excerpt: "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ..."
     publishedDateTime: 2020-10-21T19:58:00Z
@@ -124,6 +110,22 @@ related:
       - url: "https://www.ocregister.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
         width: 1024
         height: 579
+        isCached: true
+  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
+    excerpt: "Mike Pence's chief of staff, his senior political adviser and at least one other staffer have tested positive for the coronavirus, reports said."
+    publishedDateTime: 2020-10-25T03:20:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6028911002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6028911002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
     excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."

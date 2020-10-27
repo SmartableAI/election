@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. group urges Biden to use financial regulation to control climate change"
+    excerpt: "A climate advocacy group comprised of high-profile backers of Democratic presidential candidate Joe Biden on Tuesday urged the former vice president to consider using U.S. financial regulation as a tool to fight global warming if he is elected."
+    publishedDateTime: 2020-10-27T16:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-climatechange-financial-idUSKBN27C2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2JI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539010385&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1N0"
+        width: 910
+        height: 545
+        isCached: true
   - title: "Biden reiterates in Philadelphia town hall that he does not want to ban fracking"
     excerpt: "Democratic presidential contender and former Vice President Joe Biden on Thursday again said he won't ban fracking"
     publishedDateTime: 2020-10-16T02:54:00Z
@@ -124,22 +140,6 @@ related:
       - url: "https://media.wkyc.com/assets/CCT/images/aef4a02d-ebe4-4a90-ad65-84b544f05c88/aef4a02d-ebe4-4a90-ad65-84b544f05c88_750x422.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Will Joe Biden Bring Republicans Into His Cabinet? It Seems Possible."
-    excerpt: "Although appointing GOP members to top cabinet positions is a way to reward those who have endorsed Biden’s presidential candidacy, it could worry or demobilize Democratic voters who see a Biden-led party as one that neglects progressive and far-left concerns."
-    publishedDateTime: 2020-10-20T23:12:00Z
-    webUrl: "https://nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063"
-    ampWebUrl: "https://nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063?amp"
-    cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063?amp"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 75
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-10-20T100035Z_581827861_RC2AMJ9873X7_RTRMADP_3_USA-ELECTION-ECONOMY-BIDEN%20copy.jpg"
-        width: 1700
-        height: 1133
         isCached: true
   - title: "3 Important Social Security Changes That Joe Biden Wants to Make"
     excerpt: "The Democratic presidential candidate has big plans for Social Security. Here are a few key points all voters should know about."
@@ -321,6 +321,15 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
     publishedDateTime: 2020-10-16T13:13:00Z
     webUrl: "https://www.c-span.org/video/?477058-1/joe-biden-speaks-voter-mobilization-event-detroit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Former President Obama Campaigns for Joe Biden in Miami"
+    excerpt: "Former President Obama delivers remarks at a drive-in campaign rally in North Miami, FL, in support of Democrat Joe Biden ’s 2020 presidential campaign. Former President Obama campaigned in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-10-24T17:56:00Z
+    webUrl: "https://www.c-span.org/video/?477346-1/president-obama-campaigns-joe-biden-miami"
     type: article
     provider:
       name: C-SPAN

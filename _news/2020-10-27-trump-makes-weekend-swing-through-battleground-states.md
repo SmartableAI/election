@@ -512,6 +512,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Win or Lose, It’s Donald Trump’s Republican Party"
+    excerpt: "Eighty-six percent white and a noted second-home locale for retirees fleeing the Northeast in winter, Manatee has voted for every Republican presidential nominee since 1948 — the sort of homogeneity that typically produces staid politics."
+    publishedDateTime: 2020-10-27T17:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/27/magazine/trump-influence-gop.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/27/magazine/trump-influence-gop.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/27/magazine/trump-influence-gop.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/01/magazine/01mag-slug-02/01mag-slug-02-facebookJumbo-v3.png"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump Tried to Blur Responsibility for His Family Separation Policy in Final Debate"
     excerpt: "President Trump repeatedly hurled the phrase “They built the cages” at his debate opponent Thursday, but separating children from parents was a policy all his own."
     publishedDateTime: 2020-10-23T23:27:00Z

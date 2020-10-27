@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "'Animal Crossing' Now Has Joe Biden Island With Ice Cream And Dogs"
+    excerpt: "Joe Biden has taken his presidential campaign to \"Animal Crossing: New Horizons\" as he now has his own island in the game."
+    publishedDateTime: 2020-10-19T11:37:00Z
+    webUrl: "https://www.ibtimes.com/animal-crossing-now-has-joe-biden-island-ice-cream-dogs-3064299"
+    ampWebUrl: "https://www.ibtimes.com/animal-crossing-now-has-joe-biden-island-ice-cream-dogs-3064299?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/animal-crossing-now-has-joe-biden-island-ice-cream-dogs-3064299?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/30/soundbitedemocratic-presidential-challenger-joe-biden-calls-republican-incumbent.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "SwuceAQe5I9JXfyfy7GQAPd21DWWGhhEJl98x+HkvlCEgjgA++zFycdEzIsbnQJRz1j8/wBZBa8PbP0mNh9FBgoh5ygBTWGi8jn+HAJA9XQgri1wE51k1TcwbxHnwMSpy/8NZ4PYMe3UZWlHLYOBmao7grJGQ8yF5R8B8j1eLNZX4jdX5oEgVYQUonUjVPvLVsCn7g/CgH3Enr9Ynpp6qoPug1RJqG49cPEoON/JpEhV3qfKx724HhKx7QN0bBnO8DUu3HMjczsXiRGNUriEqVpqqLHAdq5aVdKIzZkyHDIrq+4A3lFgHgoo+sMXgBz4jrHiwHp7/78lMlKdSD0acHB2fQRRDD9In2CfUVO123z1UloZj7YqyXktWwckR83isLWwCCKFQVTUhlfFIvRNeMBLPQLt/zpSG+vtagWuStDbEXgmcp4LOy9ozeGL2FtI/102ezZOgRcVWfVPVPp4bTtTxuvCGYfhsgBU5XazNT67OiE4Re/9B6I/BIIGsZAGIvwM3ccNLz2Pr+kWz1En9Q==;3LV7fsQ0+aoWwdPSy6eM7Q=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 1419
         height: 709
         isCached: true
+  - title: "Harry Reid says Joe Biden should end Senate filibuster after 3 weeks"
+    excerpt: "Former Senate leader Harry Reid says if Democrats win the presidency and the Senate, Joe Biden should take “no more than three weeks” to test bipartisanship before ending the filibuster so"
+    publishedDateTime: 2020-10-25T02:20:00Z
+    webUrl: "https://www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Election_2020_Harry_Reid_Filibuster_82932.jpg?w=1024&h=678"
+        width: 1024
+        height: 678
+        isCached: true
 
 secured: "EokRgN49YRdsiOHWlDHZ2oquXmf5BCBwloTOXnpIHdfXJMPhrmIZeB5/ztel+ngQjN84EM4nB/wwuFIKpKp0Px9O4GDnfpTLnyhyKsILWWUeDUx18oJdwJw33FX7fKl29BPhNvVwNUWNHuDZil9SctGvdovYndIhNOAIRme5V5wzauCCnkSUlEsKWNxjAZYNhqY5/A4IhWy1ZV+qvjH7/6Wr3NaOnF7Ri4MDgqp88Nc1m+RLcwGEoHFJqVmOSg1oKse/QcfJFesV9NQ+QKTjzIjZ1XcA15dAjGq2DJNqk1hAwrz/YTOIa674g2Z/yEowxThYknYjrkPrXOmTI/an+y8g9YicOGzAOj7lUIfASPs=;9U8Ay/6UzNWuMS+41qzhZg=="
 ---

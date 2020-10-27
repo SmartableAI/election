@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence making 2 more campaign stops in North Carolina"
+    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump's reelection bid. Pence was scheduled to hold rallies at Piedmont Triad International Airport in Greensboro at midday Tuesday and at the Wilmington airport in the evening."
+    publishedDateTime: 2020-10-27T10:44:00Z
+    webUrl: "https://www.timesunion.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "North Carolina man with van full of guns, explosives asked, 'Should I kill Joe Biden?' online, authorities say"
     excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
     publishedDateTime: 2020-10-25T12:37:00Z
@@ -75,6 +91,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden Campaigns in Durham, North Carolina"
+    excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a voter mobilization event in Durham, NC, where early voting is already underway."
+    publishedDateTime: 2020-10-18T19:00:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "Ux+aLKedNCje4gIhbF7s6Tvfca6FRFWhLD5xvf+FQoa2+PS/USV6+Hak/obZQiKMLUAtnW1uvwa1208fXTsyaSfb6T/gCZ4bZnLCuN7207ff7Dj8dWwZIVt6eXxLjyW6qL8qg3KGNHzvl6QiURQu5hCeCQcxiIeDEzTQE0crYDqLZXLNi9RKiJZ2/DLf7gfilaF04OwXFIMkxTx27NYos73P/+ErPBouDLCSakFx3Chsc/22lWpVe26d4q5qIWojfSdupKY7FtaZfS0aqU7JOochWGU+c0jWcL5B7pgm73fXaXahBbW2MqZZs4aLu2DJRni71Euez1wQ4/BEViUweu3mcMqQFla9OrKq0TT/dGpcgBzGUe3SlOPz856bNcoa0meDv6QrGbbzsad2HUuoA7TbjpGig3jjZm7f/4jWFRFYzqgusWuoQok66XqX+E2AE4X2+A2cUk7ounyDSr9BW7mNrnZoONbyi2MHOS4aCCTQ9wQoRJ/hGn4gWQdRfVh+Und9Knx7h62EFkIYEJ0Ppg==;D0hE+SNRv0g2PlQOEjYrvA=="
 ---

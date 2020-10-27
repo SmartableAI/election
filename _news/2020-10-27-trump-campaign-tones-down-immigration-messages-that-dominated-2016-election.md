@@ -2,9 +2,9 @@
 category: news
 title: "Trump Campaign Tones Down Immigration Messages That Dominated 2016 Election"
 excerpt: "A Wall Street Journal review found that immigration was the fourth most mentioned issue in Donald Trump’s 2016 campaign TV ads but has barely cracked the top 10 this cycle."
-publishedDateTime: 2020-10-27T13:08:00Z
-originalUrl: "https://www.wsj.com/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411"
-webUrl: "https://www.wsj.com/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411"
+publishedDateTime: 2020-10-27T16:00:00Z
+originalUrl: "https://www.wsj.com/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411?mod=djemalertNEWS"
+webUrl: "https://www.wsj.com/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411?mod=djemalertNEWS"
 ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411"
 type: article
@@ -79,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297811817906.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Obama unloads on Trump at rally for Biden: 'We can't afford 4 more years of this'"
+    excerpt: "Former President Obama repeatedly took aim at his successor in the White House as he campaigned Tuesday for Democratic presidential nominee Joe Biden in the crucial battleground state of Florida."
+    publishedDateTime: 2020-10-27T17:48:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eKxUtzvbGV8/obama-trump-criticism-orlando-rally-for-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-trump-criticism-orlando-rally-for-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-criticism-orlando-rally-for-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7826580-526e-4f1c-9721-011b800b19dd/40049331-d4f4-4d3f-a182-e8a8207c371b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden pushes back on Trump's attacks in Pennsylvania: ‘I’m not eliminating fracking’"
     excerpt: "Facing a barrage of incoming fire from President Trump, Democratic presidential nominee Joe Biden is making it clear where he stands on the nation’s oil industry."
@@ -413,6 +429,6 @@ related:
         height: 500
         isCached: true
 
-secured: "ruBdNfymMwdXpBg4fDvoXx7FPMnnIoKEMewLV2mHQ3rErWag36ylVdXTpEvaSK5YQfiD3/8qnhqZ9ycJxKyHQPubT2FDFJXr7myhBkm4x0iN/Jd2Xr7nTUDTIx0c3amFqjgkWR9LpBSFy28I7vZtxKk3Xo0E5RhIkxW82HlVfENojAONWFgc0mORPhejfA+UK0c4/jKf3kcTRC1TgKp2ZixP0lgVWE6KspwvPL7NtMPB1vzeSw+ucOpZ/SllXdnxpC8W+H14OgZ5cdvbpdxZmk0b0Dr2pRDTooBF5Plwl1yb2sowuqoXkE/sQXoLGtvYTkkTHUfSHbSDRf9T8BnL54+eDWhh+d7CqalkDchGLSA=;0/rglem/0rFpo7VnIvusGA=="
+secured: "Qsq8SkalCOtDfr1r9VEw29PmZ1wTDeRac0rFUogRC/HYeM3UfvEP+xE5z7wUG2FwkcVqr4jyAuXBe+RPGFr0enkjdnZPkBsluOdXkvrTve1uy326yKgFlgsEZutHp39PwwkNnb6vhaJCnTqpY38WXkpsLrxWLkvNNpDGox7LI0YguatTarKYY/JlfFq27zT1E4D8r0T/8dY4hXtEoGucH2LfyMJDsmhYsMdhPiqsYA+bAFggjo1jggJ+2GKIh4NluOKkYcMIB2rWHbswJryGu5CpaNDOdL1+zdZ4h4xF2yBV0ne8pGHhkjASo96a4r4eavHGpiDpZBXWGu8pqkpuX5dLgKMPLKHhc3oTWQdaGfs=;7da4+6RYLInNUg7wEsjpAA=="
 ---
 

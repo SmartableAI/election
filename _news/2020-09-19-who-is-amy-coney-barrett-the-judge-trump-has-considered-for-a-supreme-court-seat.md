@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-j
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
 type: article
 quality: 120
-heat: 240
+heat: 200
 published: true
 
 provider:
@@ -92,38 +92,6 @@ related:
       - url: "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Trump boasts Amy Coney Barrett was ‘toying’ with ‘evil’ Democrats"
-    excerpt: "President Donald Trump is bragging that his nominee for the U.S. Supreme Court, the supposedly non-partisan and non-political branch of government, was “toying” with the Democratic U.S. Senators on the Judiciary Committee this week."
-    publishedDateTime: 2020-10-15T23:20:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/barrett.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Women Marchers Led By ‘The Handmaid’s Tale’ Protesters Voice Opposition On Trump Ticket, Amy Coney Barrett Nomination"
-    excerpt: "Mike Pence presidential ticket and the Supreme Court nomination of Amy Coney Barrett was coordinated Saturday by the Women’s March organization."
-    publishedDateTime: 2020-10-17T23:35:00Z
-    webUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/"
-    ampWebUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 52
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20291710573192.jpg?w=512"
-        width: 512
-        height: 341
         isCached: true
 
 secured: "AmXU9qvh1/ZxYihzMTrmrlDURWenSeHbLr38gamKYRA9PMCBoqebFdFOvNK+kdJfk941qKBPWL+3I57L9fwSmLWsDC30MwvOKti1KkhA+JqMCJenpjzdjL0TPTCX4aRsGE3sqLbJmjts6tX2KzxYqOCwyLOST6epTayqATm02VOa5vnfNZHtM8O/SPiKHpSEWe3jyGyeE1P7pJMQBvH692xnStFRll7sahBM7X5CdrUmwgPKXCDIZ18NNpeteb/ffKyfha3O77kcqwPL88+Q98UbR0lyZipwwQYqo0XBke6jlKalEIGRmUWmCTPulmVUwFCZuBWBqjQGSKu1ATFD4LzRY/snOk2RQI70SWqPGKY=;Y0VOsQvYP5RhusK/JHWNdg=="

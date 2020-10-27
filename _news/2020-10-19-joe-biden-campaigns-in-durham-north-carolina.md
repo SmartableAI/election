@@ -19,145 +19,86 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden campaign puts up huge fundraising numbers in September"
-    excerpt: "Shattered records with $383 million haul, giving his campaign a whopping $432 million cash on hand and an enormous leg up on Trump's in campaign's homestretch."
-    publishedDateTime: 2020-10-15T12:03:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-campaign-fundraising-september/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-fundraising-september/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-fundraising-september/"
+  - title: "North Carolina man with van full of guns asked 'Should I kill Joe Biden?' online, authorities say"
+    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
+    publishedDateTime: 2020-10-23T11:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3740228001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740228001"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: Milwaukee Journal Sentinel
+      domain: usatoday.com
+    quality: 112
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/07/e09696b0-d773-4f59-8cdb-a9f02a49b57f/thumbnail/1200x630/a99e3f72fd1556e17b867982d953ea7a/cbsn-fusion-joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg-thumbnail-561204-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Biden calls controversial New York Post story about his son Hunter a 'smear campaign'"
-    excerpt: "Biden forcefully pushed back against the report that Hunter tried to set up a meeting between a Ukrainian official and the former Vice President."
-    publishedDateTime: 2020-10-17T18:13:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-hunter-biden-new-york-post-donald-trump-disinformation-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-hunter-biden-new-york-post-donald-trump-disinformation-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-hunter-biden-new-york-post-donald-trump-disinformation-2020-10?amp"
+  - title: "Mike Pence making 2 more campaign stops in North Carolina"
+    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump's reelection bid. Pence was scheduled to hold rallies at Piedmont Triad International Airport in Greensboro at midday Tuesday and at the Wilmington airport in the evening."
+    publishedDateTime: 2020-10-27T10:44:00Z
+    webUrl: "https://www.timesunion.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
-    images:
-      - url: "https://i.insider.com/5f8b2e529e9fe40019009f10?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 375
-        isCached: true
-  - title: "Biden proposes at debate a \"Bidencare\" health plan that would include a public option"
-    excerpt: "Biden said during Thursday's debate that he would push for a version of Obamacare that includes a public option."
-    publishedDateTime: 2020-10-23T03:47:00Z
-    webUrl: "https://www.cbsnews.com/news/presidential-debate-bidencare-biden-proposes-health-plan-that-would-include-a-public-option/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/presidential-debate-bidencare-biden-proposes-health-plan-that-would-include-a-public-option/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/presidential-debate-bidencare-biden-proposes-health-plan-that-would-include-a-public-option/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/23/61bbb02e-4500-4864-9632-640c34e70ede/thumbnail/1200x630/4a030fac0bb97cc3d2f41c717d46a0e0/gettyimages-1229229085.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cindy McCain praises Joe Biden in a new campaign ad, calling him a president who would 'put service before self'"
-    excerpt: "\"Joe will always fight for the American people, just like John did,\" Cindy McCain, wife of late Arizona Senator John McCain, said in the ad supporting Biden."
-    publishedDateTime: 2020-10-10T19:33:00Z
-    webUrl: "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f81ebbb642e9400180b52df?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden could return to Irish roots as US president"
-    excerpt: "Mr Biden was vice president. He wants to return, but next time as president. For now, heaven can wait. For Ronald Reagan it was Ballyporeen. For Barack Obama it was Moneygall. For Joe Biden it is Carlingford."
-    publishedDateTime: 2020-10-18T03:19:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54557939"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: Times Union
+      domain: timesunion.com
     quality: 75
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/158D7/production/_114897288_hi063809777.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
-  - title: "Joe Biden’s contradictory statements show he’s not being honest with voters"
-    excerpt: "Joe Biden is not up for the job and is anything but a model of integrity, writes Marcia S. Hanzal of Avon in a letter to the editor."
-    publishedDateTime: 2020-10-16T15:23:00Z
-    webUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html"
-    ampWebUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
+  - title: "Joe Biden to visit Durham on Sunday as North Carolina’s early voting numbers soar | Charlotte Observer"
+    excerpt: "More than one million North Carolina voters have already cast their ballots, and Democratic presidential nominee Joe Biden is hoping to increase those numbers. Biden will visit Durham on Sunday for a 1 p."
+    publishedDateTime: 2020-10-17T12:02:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article246508225.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article246508225.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article246508225.html"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 73
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 59
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RKTVKHVIOJGHRNG2YQIQHIHO7A.jpg"
-        width: 5220
-        height: 2715
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/2530ebd3-c89b-4972-9eff-cfb6c796564b/main/1280x720/1m46s304ms/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Joe Biden raises record $383 million in September"
-    excerpt: "The haul, announced Wednesday night, leaves him with $432 million in the bank just weeks before the Nov. 3 election."
-    publishedDateTime: 2020-10-15T05:25:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/?outputType=amp"
+  - title: "North Carolina man with van full of guns, explosives asked, 'Should I kill Joe Biden?' online, authorities say"
+    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
+    publishedDateTime: 2020-10-25T12:37:00Z
+    webUrl: "https://www.azcentral.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3740228001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3740228001"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
-  - title: "What it Means to Vote for Joe Biden"
-    excerpt: "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
-    publishedDateTime: 2020-10-22T09:57:00Z
-    webUrl: "https://patch.com/florida/palmharbor/what-it-means-vote-joe-biden"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 55
     images:
-      - url: "https://patch.com/img/cdn20/users/583297/20201020/111417/styles/patch_image/public/voting___20110535314.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Joe Biden Campaign Event in Durham, North Carolina"
-    excerpt: "Democratic presidential nominee Joe Biden delivered remarks at a voter mobilization event in Durham, North Carolina."
-    publishedDateTime: 2020-10-19T14:57:00Z
-    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaign-event-durham-north-carolina"
+  - title: "North Carolina man with van full of guns, explosives asked, 'Should I kill Joe Biden?' online, authorities say"
+    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
+    publishedDateTime: 2020-10-26T03:17:00Z
+    webUrl: "https://www.freep.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
+    ampWebUrl: "https://amp.freep.com/amp/3740228001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3740228001"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Former President Obama Campaigns in Philadelphia for Joe Biden"
-    excerpt: "President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden. Former President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden."
-    publishedDateTime: 2020-10-20T18:26:00Z
-    webUrl: "https://www.c-span.org/video/?477092-1/president-obama-campaigns-philadelphia-joe-biden"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "v18HV3mIWZbyHIJx+Bbuyb9RqKiuHujwRiLg+/8lfH6YcUJE+ShfeTvocs8ZCC2pzZuevaRa8BYF/J9imh1owGGZfRbrgS1nOfKSYs7rQ9zP5U23JNKXdTzNnsIgHZwwR/A+PlkZokjWFdTX6KQiyN+ba5kTMu+YibQdbF09uf8VMFTJvCzfZfGMyjCQmNcLcYqrReZTotyylMQfDG8ONLT9xLbeyClrg3zULTc5z4OXNTQGTxcgoGWP03cU6ehgisTomrvYv1r/elBJHr3UjekZSSlGTeknF1Mjam8GmZw6ELj56R5hBf8G2maWyXhvecVW3lzxkxwXbv6Tje7/bxyjVetYufB0WWdUsUKEKJBTwhgJzEk3oQA/6g7WJQzsjJdm3CtRYZ9pXtdLRALGFaSDIllQfJl4+ZXFmcn/D2tBjxALE2D88VOkK7imRRjQBWB8qIYbcirvXcrlPovofIuPwD4vlQ9DmF4pVMoUQmXz3FT8flU0WiA06JfY7yhydjPS8VN9IAiBbPByE+nJMA==;nHVP45WCevxB05JK4Vh6uQ=="
 ---

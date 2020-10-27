@@ -317,6 +317,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Judge Rejects Justice Department’s Bid To Shield Trump From Carroll Lawsuit"
+    excerpt: "The DOJ said Trump denied the rape allegations as an official part of his job, a U.S. District Judge disagreed."
+    publishedDateTime: 2020-10-27T16:39:00Z
+    webUrl: "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/"
+    ampWebUrl: "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 123
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9846fbc3e178a4ae7bff0e%2F0x0.jpg"
+        width: 1200
+        height: 651
+        isCached: true
   - title: "Feds investigating scam emails threatening voters if they don't vote for Trump"
     excerpt: "These emails are meant to intimidate and undermine American voters’ confidence in our elections,” said Christopher Krebs, DHS cybersecurity director."
     publishedDateTime: 2020-10-21T18:43:00Z
@@ -533,6 +549,22 @@ related:
     quality: 111
     images:
       - url: "https://www.gannett-cdn.com/presto/2019/12/17/USAT/304f1850-0bf1-4dd3-8a14-837260789dff-AP_17128533809612.jpg?auto=webp&crop=1701,957,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Wants NYPD To Let Officer Who Proclaimed ‘Trump 2020’ Over Police Horn To Return To Work"
+    excerpt: "President Donald Trump voiced his support for a New York Police Department officer who was suspended Sunday for saying \"Trump 2020\" over a patrol vehicle's loudspeaker while on duty, with Trump tweeting \"Get that great Officer back to work!"
+    publishedDateTime: 2020-10-27T17:30:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/10/27/president-wants-nypd-to-let-officer-who-proclaimed-trump-2020-over-police-horn-to-return-to-work/"
+    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/27/president-wants-nypd-to-let-officer-who-proclaimed-trump-2020-over-police-horn-to-return-to-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/27/president-wants-nypd-to-let-officer-who-proclaimed-trump-2020-over-police-horn-to-return-to-work/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 111
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9858143745e79056a74eec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D169%26cropY2%3D1857"
         width: 1200
         height: 675
         isCached: true

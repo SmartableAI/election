@@ -125,6 +125,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Man Arrested In N.C. Had Plan To Kill Joe Biden, Feds Say"
+    excerpt: "Alexander Hillel Treisman, 19, was indicted on child pornography charges. Federal agents presented evidence suggesting he was obsessed with mass shootings – and drove within 4 miles of Biden's home."
+    publishedDateTime: 2020-10-23T20:03:00Z
+    webUrl: "https://www.npr.org/2020/10/23/927181809/man-arrested-in-n-c-had-plan-to-kill-joe-biden-feds-say"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/23/ap_20282488538797_wide-dbc4104ac85aea3cee58df3cf4fad51eb21d9270.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Savannah Guthrie Compared To Matt Lauer After NBC Announces Trump Town Hall"
     excerpt: "Savannah Guthrie is scheduled to host a live town hall with President Donald Trump, and the internet is not happy about it. After Trump tested positive for COVID-19, his second debate with democratic presidential nominee Joe Biden was switched to a virtual event."
     publishedDateTime: 2020-10-14T20:09:00Z

@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump says COVID-19 aid deal expected after Nov. 3 election"
+    excerpt: "President Donald Trump said on Tuesday there would likely be a new COVID-19 stimulus package after the Nov. 3 election, reiterating his blame on House Speaker Nancy Pelosi for holding up the federal spending package."
+    publishedDateTime: 2020-10-27T17:37:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump/trump-says-covid-19-aid-deal-expected-after-nov-3-election-idUSKBN27C2MC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2MC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2MC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539013189&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1OW"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world"
     excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
     publishedDateTime: 2020-10-21T03:08:00Z
@@ -360,22 +376,6 @@ related:
       - url: "https://api.time.com/wp-content/themes/time2014/img/time-logo-og.png"
         width: 300
         height: 300
-        isCached: true
-  - title: "Kamala Harris in Michigan: Trump administration 'is admitting defeat' on COVID-19"
-    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris said that the Trump administration \"is admitting defeat\" after White House Chief of Staff Mark Meadows said the United States \"is not going to control\" the virus."
-    publishedDateTime: 2020-10-25T23:35:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/25/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19/4321603644464/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 85
-    images:
-      - url: "https://cdnph.upi.com/ph/st/th/4321603644464/2020/upi/3ad59f43d1778808fde5591a836b2b2a/v1.5/Kamala-Harris-in-Michigan-Trump-administration-is-admitting-defeat-on-COVID-19.jpg?lg=5"
-        width: 800
-        height: 534
         isCached: true
   - title: "Kamala Harris blames Trump for COVID-19 'mass casualty event’ during Michigan visit"
     excerpt: "Democratic vice presidential nominee Kamala Harris said President Donald Trump’s handling of the coronavirus pandemic caused the “greatest mass casualty event s"

@@ -77,6 +77,22 @@ related:
         width: 862
         height: 545
         isCached: true
+  - title: "Press: Joe Biden drops bomb on oil industry"
+    excerpt: "Asked about his plan to combat climate change, Biden defiantly pledged: “I would transition away from the oil industry, yes. The oil industry pollutes, significantly. It has to be replaced by ..."
+    publishedDateTime: 2020-10-27T12:15:00Z
+    webUrl: "https://thehill.com/opinion/campaign/522839-press-joe-biden-drops-bomb-on-oil-industry"
+    ampWebUrl: "https://thehill.com/opinion/campaign/522839-press-joe-biden-drops-bomb-on-oil-industry?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522839-press-joe-biden-drops-bomb-on-oil-industry?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_oiloklahoma_042720getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "'Black lives matter': Navy SEAL who oversaw bin Laden raid says he voted for Joe Biden"
     excerpt: "The retired Navy SEAL did not specifically name President Trump, but ended the op-ed by saying \"I voted for Joe Biden.\""
     publishedDateTime: 2020-10-21T05:12:00Z
@@ -108,6 +124,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D5AU6OATBEI6XISYMFFM6K4QNU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Breaking Down Joe Biden's Plan To Make The U.S. Carbon Neutral"
+    excerpt: "Joe Biden wants to make America carbon neutral by 2050 and says there will still be room for some fossil fuels. We look at how realistic this is and what activists make of it."
+    publishedDateTime: 2020-10-25T11:51:00Z
+    webUrl: "https://www.npr.org/2020/10/25/927564427/breaking-down-joe-bidens-plan-to-make-the-u-s-carbon-neutral"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "North America’s Building Trades Unions Issue Formal Endorsement of Joe Biden for President"
     excerpt: "Today, North America’s Building Trades Unions (NABTU) formally endorsed former Vice President Joe Biden and Senator Kamala Harris for President and Vice President of the United States. The organization issued the following statement from NABTU President Sean McGarvey: “North America’s Building Trades Unions are proud to endorse former Vice President Joe Biden for President of the United States."

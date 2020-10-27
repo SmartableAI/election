@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris vows independent DOJ after saying there would be 'no choice' but to prosecute Trump"
-    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday that Joseph R. Biden’s Justice Department would operate independently, after saying last year that her DOJ would have “no choice” but to pursue charges against President Trump under certain circumstances."
-    publishedDateTime: 2020-10-26T19:55:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/26/kamala-harris-vows-independent-doj-after-saying-th/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/26/kamala-harris-vows-independent-doj-after-saying-th/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/26/kamala-harris-vows-independent-doj-after-saying-th/"
+  - title: "BREAKING: Kamala Harris to campaign in Florida Monday"
+    excerpt: "Harris' Florida swing comes after busy week of campaigning that saw President Trump and Democratic rival Joe Biden make stops in Florida."
+    publishedDateTime: 2020-10-17T16:14:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/17/kamala-harris-resume-person-campaigning-florida-monday/3693432001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3693432001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3693432001"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 77
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 75
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/25/Election_2020_Harris_09529.jpg-c818a_c0-151-3620-2262_s1200x700.jpg?eba5093aa7c3f9e573648322a5cb679b545d8338"
+      - url: "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/08/24/PalmBeachPost/ghows_gallery_ei-LK-200829833-381fbd87.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
 
 secured: "6enQnmsv16jBMOiqp3oHAk6pSSrLtO8X919m/8IL3sLS4XZVAP2XqhRsDQDKXnFDOWzlHccFYjQCWJlGNdPpkkjcP585fHidAemF0M/Hz1kSVyqah/8CdvNhtZt3TyNchOnzHgt9Q5nBmv2UtUWgylP20psRdrrsP8vxVTZII1vTCtiKit0K3K5R9LDSMQJcJ7LsBYMV9H9NP7ghSYWjwEcrXjLMS+S4nZYtnzFO8xfJKTvmVdde3Uy4waXLMTI+dGOEZNHKPw1TY1iXqomhKV5fdaSMCehcaKnKoWCHlDaOMT7na7L7+av/VHfUH2IXr1LIlG7NYe6iYq0FjmAgc43u1eVIIkFd0JmjqkofQa/SAgZjvevRzCiNK9cu3LZt3czQn+YCaV9mVFXejPJihAESxmVuG5lsnImnaRPWXWewc+Wvf/klNBncQ5On6XXrdHvjrVAyCtl9Sr6u39X8kRJMixG06HWl2zCA8nHXea7RSKZJe9UFseDSYS4ZToVQL+MAQR0pXCnLtdawAkPAQQ==;JDvyiWV1RIKnxuCks59VtA=="

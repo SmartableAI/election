@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson"
-    excerpt: "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company."
-    publishedDateTime: 2020-10-25T16:15:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6NWqlGnUVw/joe-hunter-biden-china-ron-johnson"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
+  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
+    excerpt: "Rep. Ilhan Omar, D-Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
+    publishedDateTime: 2020-10-27T17:12:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gr2E32btmE8/ilhan-omar-progressives-biden-left"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "A Biden Family Special Prosecutor in 2021?"
-    excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
-    publishedDateTime: 2020-10-27T10:36:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
+    excerpt: "Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
+    publishedDateTime: 2020-10-27T17:15:00Z
+    webUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/52/525278_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "+Y5s4xG6YCHdmjtsBPMK+pv1eThVNZ7TBFnV21FN3gqL4qmqglUpDTVHsHqRXo9VIRi0RmZzUyV4TJ7yA8VHXidU2bfNzTeq3Nzs3EQ7b4wNtMxPx7Thp2MeRA1SijbMQ3kpSqmOL2kfo0kPHNS/kaXCqo43O1HpCDwaFLAem6uMpK1jCoMMklTZqu+EanPxDUl5bJeX8lQITyGSmfAvDPLLRvIzq44b5k7uZkoEMpGex/OhCmwbd1hNEpMTltpEpNEROlTZYlG+kk1JrLuNqiab2UG8xbInRePsEroEgH7pwjqWpVfGybnEYZEWeZWHNiA6MIHo5XkAJr8gDsBZvPYjHk4r+z1Gd6sRM8rrDYU=;E+tBg3de8CFuVVyhKq6o+A=="

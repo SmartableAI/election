@@ -114,6 +114,22 @@ related:
       name: Time
       domain: time.com
     quality: 75
+  - title: "Alicia Andrews: Joe Biden is the better presidential candidate to manage foreign affairs and the military"
+    excerpt: "The United States needs a leader who understands that when it comes to foreign policy, we need allies, we need thorough plans and to listen to our military leaders, Andrews"
+    publishedDateTime: 2020-10-18T05:00:00Z
+    webUrl: "https://tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.html"
+    ampWebUrl: "https://tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 58
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/d/3c/d3ce265c-fa12-11ea-baa9-2fa13ab2c22d/5f6557423aa11.image.jpg?resize=1024%2C1408"
+        width: 1024
+        height: 1408
+        isCached: true
   - title: "Vice President Mike Pence to make 2 South Florida stops on Thursday"
     excerpt: "President Trump and Vice President Mike Pence will both be in South Florida on Thursday, attending separate events. At 12:30 p.m.,"
     publishedDateTime: 2020-10-15T13:09:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1"
 type: article
 quality: 130
-heat: 390
+heat: 410
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08v5qvf.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Man Arrested In N.C. Had Plan To Kill Joe Biden, Feds Say"
+    excerpt: "Alexander Hillel Treisman, 19, was indicted on child pornography charges. Federal agents presented evidence suggesting he was obsessed with mass shootings – and drove within 4 miles of Biden's home."
+    publishedDateTime: 2020-10-23T20:03:00Z
+    webUrl: "https://www.npr.org/2020/10/23/927181809/man-arrested-in-n-c-had-plan-to-kill-joe-biden-feds-say"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/23/ap_20282488538797_wide-dbc4104ac85aea3cee58df3cf4fad51eb21d9270.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "'Mr. Rogers' versus 'someone's crazy uncle': There wasn't a debate Thursday, but the dueling-town-hall format played to Joe Biden's strengths"
     excerpt: "During the split-screen chaos, Biden's penchant for retail politics kept him in a strong place at a time when President Donald Trump needed momentum."

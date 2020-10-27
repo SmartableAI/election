@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "These three charts show Trump and Biden's favorite TV shows for campaign ads"
+    excerpt: "Despite the partisan rancor of the past several months, there's at least one issue on which the campaigns of President Donald Trump and former Vice President Joe Biden agree: Their voters love \"The Big Bang Theory.\"\n    \n"
+    publishedDateTime: 2020-10-27T17:30:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hltjm9Y4msA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-biden-most-targeted-tv-shows/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-biden-most-targeted-tv-shows/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023111911-20201023-trump-biden-political-ads-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence adviser Marty Obst tests positive for coronavirus"
     excerpt: "A top adviser to Vice President Mike Pence tested positive for coronavirus earlier this week, a source familiar with the matter told CNN.\n    \n"
     publishedDateTime: 2020-10-25T01:43:12Z
@@ -639,6 +655,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Obama offers blistering criticism of Trump over coronavirus: 'He's jealous of Covid's media coverage'"
+    excerpt: "Former President Barack Obama on Tuesday offered blistering criticism of President Donald Trump's handling of the coronavirus pandemic and the economy.\n    \n"
+    publishedDateTime: 2020-10-27T17:51:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OonvsIfcfoU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/barack-obama-trump-coronavirus-economy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/barack-obama-trump-coronavirus-economy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015161616-barack-obama-0921-2018-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "2020 Election Live Updates: Trump to Travel to 3 States as Biden Focuses on Pennsylvania"
     excerpt: "President Trump and Joe Biden prepare for their closing arguments in the final stretch, taking them to some of the country’s top battlegrounds. An order allowing multiple drop boxes per county in Texas is upheld."

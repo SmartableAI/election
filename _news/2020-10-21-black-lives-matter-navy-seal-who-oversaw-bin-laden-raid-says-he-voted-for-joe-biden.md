@@ -79,6 +79,22 @@ related:
         width: 862
         height: 545
         isCached: true
+  - title: "Press: Joe Biden drops bomb on oil industry"
+    excerpt: "Asked about his plan to combat climate change, Biden defiantly pledged: “I would transition away from the oil industry, yes. The oil industry pollutes, significantly. It has to be replaced by ..."
+    publishedDateTime: 2020-10-27T12:15:00Z
+    webUrl: "https://thehill.com/opinion/campaign/522839-press-joe-biden-drops-bomb-on-oil-industry"
+    ampWebUrl: "https://thehill.com/opinion/campaign/522839-press-joe-biden-drops-bomb-on-oil-industry?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522839-press-joe-biden-drops-bomb-on-oil-industry?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_oiloklahoma_042720getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "If Joe Biden loses, it probably won’t be because of an increase in GOP voter registration"
     excerpt: "Voter registration numbers recently released in Florida, North Carolina and Pennsylvania are not necessarily a sign of some significant underlying shift."
     publishedDateTime: 2020-10-22T17:24:00Z
@@ -94,6 +110,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D5AU6OATBEI6XISYMFFM6K4QNU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Breaking Down Joe Biden's Plan To Make The U.S. Carbon Neutral"
+    excerpt: "Joe Biden wants to make America carbon neutral by 2050 and says there will still be room for some fossil fuels. We look at how realistic this is and what activists make of it."
+    publishedDateTime: 2020-10-25T11:51:00Z
+    webUrl: "https://www.npr.org/2020/10/25/927564427/breaking-down-joe-bidens-plan-to-make-the-u-s-carbon-neutral"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Meadows defends against Biden virus criticism"
     excerpt: "White House chief of staff Mark Meadows is taking issue with Democratic presidential nominee Joe Biden’s criticism that the Trump administration has given up on trying to control the coronavirus pandemic."

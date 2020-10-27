@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence making 2 more campaign stops in North Carolina"
+    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump's reelection bid. Pence was scheduled to hold rallies at Piedmont Triad International Airport in Greensboro at midday Tuesday and at the Wilmington airport in the evening."
+    publishedDateTime: 2020-10-27T10:44:00Z
+    webUrl: "https://www.timesunion.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Joe Biden to visit Durham on Sunday as North Carolina’s early voting numbers soar | Charlotte Observer"
     excerpt: "More than one million North Carolina voters have already cast their ballots, and Democratic presidential nominee Joe Biden is hoping to increase those numbers. Biden will visit Durham on Sunday for a 1 p."
     publishedDateTime: 2020-10-17T12:02:00Z
@@ -75,6 +91,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden Campaigns in Durham, North Carolina"
+    excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a voter mobilization event in Durham, NC, where early voting is already underway."
+    publishedDateTime: 2020-10-18T19:00:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "48fpKZUKQ+sawYJHnT366hYl3V3w46ocjpbXExQp1uKl0Q4HR/tSDKSuG6mEeac5xhgjuV+ojtvJsqO7WaeKYr/YqDL4u3wnYGHFGFiNuurbmp493vYo9uxzcnDBOR/z6E0ZFxhEm7nIEVEHuJ9Xswzco2ThbWjiLT2bRtDAHZV76PXKu/+h0qu6I6LJMYbT6x9onixHnUJNpvxlHRimKqyrkQWmYJZrdaPrqb7C2rHBx2lmSY4S2xvEx4s+AI+3LmAr3+NHYqrzBrnZRQ5GckFx87Q6M0LJCg84F4IJd1A3LPF7iNKPjkp2eTZV+mplc4ralmHfpnMY1YkAcBQ87+m0VVMgnhwdcZa2EY37ztdBAp48T7s+QWuZaCeK5nd3LQxYydPnTr2vT27ZtWROAjfv5qPcfHraBHizWeGd0Xbtv3f7aweVYsIXWHDhnM3ycv/YNJLdZzYsIRGycOclp60DtvQyIMOCUE+RyHJVOeMl2EEC0EVHbkTWuC1nREGX48iVTlN3mzKedpqfq/ZBMQ==;H15TbIaXTJp74M2GQrjmWQ=="
 ---

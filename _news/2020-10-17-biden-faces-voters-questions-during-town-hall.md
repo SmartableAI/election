@@ -29,388 +29,207 @@ images:
     isCached: true
 
 related:
-  - title: "Column: Big Tech slaps The New York Post to shield Joe Biden"
-    excerpt: "We were always told it would come from the right, but now we see that it comes from Big Tech, which has interfered with a news organization’s coverage of a Joe Biden campaign issue. Social media giants Twitter and Facebook on Wednesday limited the sharing on their platforms of a story from The New York Post about questionable business dealings of Joe Biden’s son Hunter in Ukraine."
-    publishedDateTime: 2020-10-16T10:06:00Z
-    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/P2hqGpWjNVftSNcBqXQMwth4Lbs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H2RW7ZNH7DBS77JXMSLEEFLGFI.jpg"
-        width: 1200
-        height: 797
-        isCached: true
-  - title: "Joe Biden pressed whether he would take a COVID-19 vaccine"
-    excerpt: "Joe Biden says his mandate on vaccine distribution and consumption would depend on the \"nature\" of it and how it would be distributed."
-    publishedDateTime: 2020-10-16T01:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/201015_abc_biden_th_Q2_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "How come we never talk about Joe Biden’s health care plan?"
-    excerpt: "We're preoccupied with Trump's attack on Obamacare, but Biden's plan could produce the most intense fight of his presidency."
-    publishedDateTime: 2020-10-22T19:31:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NFPHNGAROEI6XISYMFFM6K4QNU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "More than 300 military family members endorse Biden"
-    excerpt: "More than 300 military family members are endorsing Democratic nominee Joe Biden for president. In an open letter released Friday, the spouses, parents, siblings and children of service members endorsed Biden as a “man of integrity with a lifelong record of public service and leadership."
-    publishedDateTime: 2020-10-23T09:38:00Z
-    webUrl: "https://thehill.com/policy/defense/522366-more-than-300-military-family-members-endorse-biden"
-    ampWebUrl: "https://thehill.com/policy/defense/522366-more-than-300-military-family-members-endorse-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/522366-more-than-300-military-family-members-endorse-biden?amp"
+  - title: "Biden campaign announces record $383M fundraising haul in September"
+    excerpt: "Democratic presidential nominee Joe Biden's (D) campaign announced late Wednesday that it had raised a massive $383 million during the third quarter of 2020, marking the best period for the campaign so far."
+    publishedDateTime: 2020-10-15T12:27:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101220getty_budowsky.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Progressives blast Biden plan to form panel on Supreme Court reform"
-    excerpt: "Progressive groups are blasting Democratic nominee Joe Biden’s plan to form a commission to study judiciary reforms and whether justices should be added to the Supreme Court."
-    publishedDateTime: 2020-10-22T19:37:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "19-year-old plotted to kill Joe Biden, court documents indicate"
-    excerpt: "A 19-year-old who had a van full of guns and explosives and allegedly plotted to kill Joe Biden was arrested in North Carolina earlier this year, according to a judge's order. Alexander Hillel Treisman faces pornography charges and investigators testified they found evidence he was plotting to carry out violent acts and was interested in \"terrorist incidents and mass shootings,"
-    publishedDateTime: 2020-10-24T00:26:00Z
-    webUrl: "https://www.cbsnews.com/news/north-carolina-man-plotted-kill-joe-biden/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/north-carolina-man-plotted-kill-joe-biden/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/north-carolina-man-plotted-kill-joe-biden/"
+  - title: "Biden campaign puts up huge fundraising numbers in September"
+    excerpt: "Shattered records with $383 million haul, giving his campaign a whopping $432 million cash on hand and an enormous leg up on Trump's in campaign's homestretch."
+    publishedDateTime: 2020-10-15T12:03:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-campaign-fundraising-september/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-fundraising-september/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-fundraising-september/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/23/a88e0c54-de33-4d41-937c-5818c494dace/thumbnail/1200x630/71ccb88887680b05b6b95366a001ffc7/nf5juvfd35b5vozk4ewvvrb4am.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/07/e09696b0-d773-4f59-8cdb-a9f02a49b57f/thumbnail/1200x630/a99e3f72fd1556e17b867982d953ea7a/cbsn-fusion-joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg-thumbnail-561204-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden gets late boost with key union endorsement"
-    excerpt: "Democratic presidential nominee Joe Biden got a late boost in the White House race Friday when he scored the endorsement of a prominent alliance of construction unions."
-    publishedDateTime: 2020-10-23T21:31:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522515-biden-gets-late-boost-with-key-union-endorsement"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522515-biden-gets-late-boost-with-key-union-endorsement?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522515-biden-gets-late-boost-with-key-union-endorsement?amp"
+  - title: "Biden denies unethical behavior involving his son Hunter during questioning at debate"
+    excerpt: "Democratic presidential nominee Joe Biden on Thursday denied any unethical behavior related to his son Hunter Biden under questioning at the second presidential debate with President Trump."
+    publishedDateTime: 2020-10-23T02:59:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe3_10222020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden says he'll set up commission to study reforming Supreme Court if elected"
-    excerpt: "Democratic presidential nominee Joe Biden said that he would form a commission to \"study\" the Supreme Court when asked by CBS's Norah O'Donnell whether he would consider adding justices past the current nine seats."
-    publishedDateTime: 2020-10-22T13:30:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden, squeezed on the Supreme Court, promises a commission to consider changes"
-    excerpt: "Joe Biden tells CBS’s “60 Minutes” that he would create a bipartisan commission to tackle a system that’s “out of whack.” He hopes to thread the needle between liberals demanding more justices and swing voters who show little interest in that idea."
-    publishedDateTime: 2020-10-23T01:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RZCQ57AUOUI6XOSC5RVFQCBW5U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Barr should appoint a special counsel to investigate the Hunter Biden allegations"
-    excerpt: "White House Chief of Staff Mark Meadows confirmed to me Wednesday morning that he has discussed the need for such a special counsel with President Trump."
-    publishedDateTime: 2020-10-22T15:28:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/barr-should-appoint-special-counsel-investigate-hunter-biden-allegations/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/barr-should-appoint-special-counsel-investigate-hunter-biden-allegations/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/barr-should-appoint-special-counsel-investigate-hunter-biden-allegations/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WNDO7AQOQQI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "How would Joe Biden handle a Supreme Court dangerously out of touch with the people?"
-    excerpt: "The pertinent question is not whether Biden believes in court packing but if or how he'd correct for some 40 years of blatant conservative activism."
-    publishedDateTime: 2020-10-15T10:14:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/15/joe-biden-supreme-court-federalist-society-amy-barrett-column/3640970001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3640970001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3640970001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
     quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/47a2b65a-0c84-45b1-af3d-3dc09e5f4d28-GTY_1229033254.jpg?auto=webp&crop=5297,2980,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_102202020_0.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "FBI probing whether emails in New York Post story about Hunter Biden are tied to Russian disinformation"
-    excerpt: "The FBI is investigating whether emails published by the New York Post about Hunter Biden are linked to a Russian effort to spread disinformation."
-    publishedDateTime: 2020-10-16T21:44:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/16/hunter-biden-fbi-probing-if-new-york-post-story-tied-russia/3684342001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3684342001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3684342001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/a7e1e9c5-cc73-4ba8-94df-4a843104fb36-GTY_1228757046.jpg?auto=webp&crop=4648,2615,x0,y28&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump threatened Facebook and Twitter again after they throttled the spread of a dubious New York Post story about Hunter Biden"
-    excerpt: "President Trump tweeted it was \"so terrible\" that Facebook and Twitter \"took down\" the New York Post article, which they did not do."
-    publishedDateTime: 2020-10-15T09:30:00Z
-    webUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The New York Post's Hunter Biden Stories Raise Questions About Joe Biden and It's Reporting — Here Are 9"
-    excerpt: "The emails and photos included in the report came from a Trump-supporting computer store owner in Delaware via Rudy Giuliani."
-    publishedDateTime: 2020-10-15T17:16:00Z
-    webUrl: "https://www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463"
-    ampWebUrl: "https://www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463?amp=1"
+  - title: "Video of Joe Biden Comforting Parkland School Shooting Families Watched Over 7 Million Times"
+    excerpt: "Footage of Joe Biden comforting the families of victims of the 2018 Parkland shooting has resurfaced and is being shared widely on social media. Arun Chaudhary, a political operative and filmmaker who served on President Barack Obama 's presidential 2008 campaign,"
+    publishedDateTime: 2020-10-22T10:22:00Z
+    webUrl: "https://www.newsweek.com/video-joe-biden-parkland-shooting-victims-families-1541245"
+    ampWebUrl: "https://www.newsweek.com/video-joe-biden-parkland-shooting-victims-families-1541245?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-joe-biden-parkland-shooting-victims-families-1541245?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 108
+    quality: 114
     images:
-      - url: "https://d.newsweek.com/en/full/1653127/hunter-biden.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d.newsweek.com/en/full/1656915/joe-biden.jpg"
+        width: 3000
+        height: 1941
         isCached: true
-  - title: "Impatient Democrats want Biden to do more in Texas"
-    excerpt: "The whispers about Texas are picking up again."
-    publishedDateTime: 2020-10-16T19:22:00Z
-    webUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
+  - title: "Cindy McCain praises Joe Biden in a new campaign ad, calling him a president who would 'put service before self'"
+    excerpt: "\"Joe will always fight for the American people, just like John did,\" Cindy McCain, wife of late Arizona Senator John McCain, said in the ad supporting Biden."
+    publishedDateTime: 2020-10-10T19:33:00Z
+    webUrl: "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "19-year-old arrested for plotting to kill Joe Biden"
-    excerpt: "Alexander Hillel Treisman was arrested in Kannapolis, N.C. on Oct. 22 for plotting to assassinate Democratic presidential nominee Joe Biden. Treisman was found with a van full of guns and explosives."
-    publishedDateTime: 2020-10-23T22:52:00Z
-    webUrl: "https://www.washingtonpost.com/video/national/19-year-old-arrested-for-plotting-to-kill-joe-biden/2020/10/23/275c08c1-3493-4834-8c2e-21fdbbc31bf7_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+    quality: 104
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-23-2020/t_7b1d336cc1f94902bcdd28e069e7b214_name_1___1920x1080___30p_00_01_30_09_Still015.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "How Joe Biden - yes, Joe Biden - could revolutionize American politics"
-    excerpt: "Joe Biden may be running a safe and centrist campaign, but beneath the methodical calm is a genuinely innovative ideological appeal. The former vice president is updating and bringing back the long-dormant Democratic tradition of labor liberalism."
-    publishedDateTime: 2020-10-17T10:07:00Z
-    webUrl: "https://www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html"
-    ampWebUrl: "https://www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 75
-    images:
-      - url: "https://www.courant.com/resizer/62fGLeSoK1c5uUgQIK_MTD4KU9o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W3IYWI2YR5HIZOY2R6EEU5HYOU.jpg"
+      - url: "https://i.insider.com/5f81ebbb642e9400180b52df?width=1200&format=jpeg"
         width: 1200
-        height: 799
+        height: 600
         isCached: true
-  - title: "CAL THOMAS: Can Joe Biden be trusted?"
-    excerpt: "It was President Richard Nixon who said in the midst of the enveloping Watergate scandal: “People have got to know whether or not their president is a crook. Well, I’m"
-    publishedDateTime: 2020-10-21T06:00:00Z
-    webUrl: "https://starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.html"
-    ampWebUrl: "https://starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.amp.html"
-    cdnAmpWebUrl: "https://starherald-com.cdn.ampproject.org/c/s/starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.amp.html"
+  - title: "Kamala Harris’ husband Doug Emhoff to campaign in West Michigan for Biden"
+    excerpt: "Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris, is planning several campaign visits in Michigan Friday. Joe Biden’s presidential campaign announced Emhoff will visit Muskegon County,"
+    publishedDateTime: 2020-10-21T19:06:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html?outputType=amp"
     type: article
     provider:
-      name: Scottsbluff Star Herald
-      domain: starherald.com
+      name: MLive
+      domain: mlive.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F5TQJ5FGVZGYZBWBHISZKJ47FA.JPG"
+        width: 1300
+        height: 838
+        isCached: true
+  - title: "Will Joe Biden Bring Republicans Into His Cabinet? It Seems Possible."
+    excerpt: "Although appointing GOP members to top cabinet positions is a way to reward those who have endorsed Biden’s presidential candidacy, it could worry or demobilize Democratic voters who see a Biden-led party as one that neglects progressive and far-left concerns."
+    publishedDateTime: 2020-10-20T23:12:00Z
+    webUrl: "https://nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063"
+    ampWebUrl: "https://nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063?amp"
+    cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063?amp"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
     quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/starherald.com/content/tncms/assets/v3/editorial/c/4c/c4c50070-b312-11e8-a5a2-574bfb12c724/5b9322aedfd4a.image.jpg"
-        width: 900
-        height: 1217
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-10-20T100035Z_581827861_RC2AMJ9873X7_RTRMADP_3_USA-ELECTION-ECONOMY-BIDEN%20copy.jpg"
+        width: 1700
+        height: 1133
         isCached: true
-  - title: "Would Joe Biden Transition To Clean Energy Destroy The Oil Industry?"
-    excerpt: "Biden's energy plan calls for net-zero emissions by 2050, saying the oil industry has to go because of pollution Biden denies he would eliminate fracking, an issue in the key swing state of Pennsylvania The oil industry lobbying group API calls Biden's proposed leasing ban \"extreme\" President Donald Trump and the oil industry tried to gin up fears of a Democratic victory in energy producing swing states with Election Day little more than a week away,"
-    publishedDateTime: 2020-10-23T17:06:00Z
-    webUrl: "https://www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445"
-    ampWebUrl: "https://www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445?amp=1"
+  - title: "Jake Tapper rips Joe Biden's quiet campaign schedule: 'Opposite of the word tireless'"
+    excerpt: "CNN anchor Jake Tapper on Sunday ripped Joseph R. During an interview with Democratic Sen. Chris Coons, Mr. Tapper expressed incredulity that Mr. Biden, the Democratic presidential nominee, had taken the day off Saturday less than three weeks before the election."
+    publishedDateTime: 2020-10-19T15:47:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/01/the-decision-to-halt-fracking-comes-weeks-before.jpg"
-        width: 1024
-        height: 611
-        isCached: true
-  - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
-    excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
-    publishedDateTime: 2020-10-15T11:07:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-54552101"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54552101"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54552101"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 73
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7AB4/production/_114921413_biden-mails.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "In context: A look behind the NY Post headline about Joe Biden and a Ukraine meeting"
-    excerpt: "For weeks, conservatives have tried to attack Democratic presidential nominee Joe Biden by raising what they portray as sketchy business dealings by his"
-    publishedDateTime: 2020-10-16T18:22:00Z
-    webUrl: "https://www.statesman.com/news/20201016/in-context-look-behind-ny-post-headline-about-joe-biden-and-ukraine-meeting"
-    ampWebUrl: "https://www.statesman.com/news/20201016/in-context-look-behind-ny-post-headline-about-joe-biden-and-ukraine-meeting?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201016/in-context-look-behind-ny-post-headline-about-joe-biden-and-ukraine-meeting?template=ampart"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: Washington Times
+      domain: washingtontimes.com
     quality: 68
     images:
-      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=NEWS&ArtNo=201019455&Ref=AR"
-        width: 3543
-        height: 2364
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/jake_tapper_c21-0-878-500_s1200x700.jpg?5d564dc8c21de85fddbb1ce2251f85bbcfca979a"
+        width: 1200
+        height: 700
         isCached: true
-  - title: "Did you see a photo of Joe Biden supposedly kneeling during the national anthem? Not so"
-    excerpt: "Biden was kneeling to pose for a photo with dancers during an event at the Little Haiti Cultural Complex in Miami, according to captions of AP photos taken at the scene."
-    publishedDateTime: 2020-10-18T22:49:00Z
-    webUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-a-photo-of-joe-biden-supposedly-kneeling-during-the-national-anthem-not-so.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-a-photo-of-joe-biden-supposedly-kneeling-during-the-national-anthem-not-so.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/10/did-you-see-a-photo-of-joe-biden-supposedly-kneeling-during-the-national-anthem-not-so.html?outputType=amp"
+  - title: "Joe Biden scales back rare Democratic investment in Texas, but dispatches Jill Biden to stoke the embers"
+    excerpt: "Former vice president Joe Biden hasn’t set foot in Texas since the primary, but on Friday, his campaign announced that he’s sending wife"
+    publishedDateTime: 2020-10-10T03:22:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/?outputType=amp"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 67
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 58
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L2AB4K5PPBECLAFEWAHMYUMV64.jpg"
-        width: 1024
-        height: 683
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/ZvCr4APszKnYx5_p2sPqxbo8mb0=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/CYH7CODPP2EWWRO7Y2VL6QDFKU.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Is This a Photograph of Joe Biden’s House?"
-    excerpt: "A little background research can go a long way towards avoiding the making of embarrassingly inaccurate accusations."
-    publishedDateTime: 2020-10-17T21:36:00Z
-    webUrl: "https://www.snopes.com/fact-check/biden-mansion-tweet/"
+  - title: "Joe Biden raises record $383 million in September"
+    excerpt: "The haul, announced Wednesday night, leaves him with $432 million in the bank just weeks before the Nov. 3 election."
+    publishedDateTime: 2020-10-15T05:25:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/?outputType=amp"
     type: article
     provider:
-      name: Snopes.com
-      domain: snopes.com
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
+  - title: "What it Means to Vote for Joe Biden"
+    excerpt: "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
+    publishedDateTime: 2020-10-22T09:57:00Z
+    webUrl: "https://patch.com/florida/palmharbor/what-it-means-vote-joe-biden"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
     quality: 55
     images:
-      - url: "https://www.snopes.com/tachyon/2020/10/biden_home.jpg"
-        width: 1122
-        height: 748
+      - url: "https://patch.com/img/cdn20/users/583297/20201020/111417/styles/patch_image/public/voting___20110535314.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "A Fox News reporter just debunked the latest conservative effort to smear Joe Biden"
-    excerpt: "The latest conservative effort to smear Democratic presidential nominee has now been debunked by a reporter at Fox News. On Thursday night, President Donald Trump invited Tony Bobulinski, an ex-business associate of Hunter Biden,"
-    publishedDateTime: 2020-10-23T16:18:00Z
-    webUrl: "https://www.salon.com/2020/10/23/a-fox-news-reporter-just-debunked-the-latest-conservative-effort-to-smear-joe-biden-_partner/"
+  - title: "Here’s How To Visit Joe Biden’s ‘Animal Crossing’ Island, Which Is Decked Out In Campaign Stuff"
+    excerpt: "The presidential election is less than a month away, and Democratic candidate Joe Biden’s campaign found a new way to reach voters. While it might be unconventional, Biden's campaign has a new virtual field office on an island in Animal"
+    publishedDateTime: 2020-10-17T16:00:00Z
+    webUrl: "https://www.elitedaily.com/p/heres-how-to-visit-joe-bidens-animal-crossing-island-which-is-decked-out-in-campaign-stuff-39314113"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 49
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 43
     images:
-      - url: "https://media.salon.com/2020/07/fox-news-hosts-0714201.jpg"
-        width: 846
-        height: 571
+      - url: "https://imgix.bustle.com/uploads/image/2020/10/17/8d59e681-577a-4830-893b-4d428623c657-combine_images-2.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "NY Post: Ex-Biden Business Partner Says Joe Was In On Family Deal 'to Make Millions' From China"
-    excerpt: "A former business partner of Hunter Biden issued a statement to The New York Post overnight, asserting that the Biden family, including Joe, Hunter and Joe's brother James, \"aggressively leveraged the Biden family name to make millions of dollars from foreign entities even though some were from communist controlled China."
-    publishedDateTime: 2020-10-22T09:43:00Z
-    webUrl: "https://www.cnsnews.com/article/national/susan-jones/ny-post-ex-biden-business-partner-says-joe-was-family-deal-make"
+  - title: "Joe Biden Campaign Event in Durham, North Carolina"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks at a voter mobilization event in Durham, North Carolina."
+    publishedDateTime: 2020-10-19T14:57:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaign-event-durham-north-carolina"
     type: article
     provider:
-      name: CNSNews.com
-      domain: cnsnews.com
-    quality: 23
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Former President Obama Campaigns in Philadelphia for Joe Biden"
+    excerpt: "President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden. Former President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-10-20T18:26:00Z
+    webUrl: "https://www.c-span.org/video/?477092-1/president-obama-campaigns-philadelphia-joe-biden"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "i0uRlQuEJv253Dy1at2/Sy6rklG/cSxlRnzH6ZAC7HCC8sCfDntj3sFokMUWiN+3zZMQKQiDDvTsj68M6YqwzLaaW6194W2kVZOKZ/5XCmlrp5Uv5VzEUEHNDhUE1wikA3ej1pxHBcPXi2EbWTB+B2r54b97IXrDxQejut/iQPWAkp/kJU48opUYMVLHLO9dVDwHXEV1NbkpIcwJuOjajVuW4WDwcs1qCbDVSeKoN23hRuN6RfAJ+ALiQHUxHLjb0gmcocj7GgRyM62mYV0TnaYyq64uT/eNa4o4ZnJ424imMgaCkxvXTKlVPxKsW12WwOiZiFTKguBpS9MiJZg/6OwEJ8tuLgUCaY0ZU/Mr+fDmM7UEj9Gqh79WbfQhzYFeCjnTTsYQ98BYBrT6IeybL5p/2xipVcLHdNV7I4wjfmoExoFGqsFKtHYdcNMDfFoHMSrzGGsAlQmqB775h/nMKxlliQpFB2RoUbyvs8ri+EeypWAs/4cYJFPpFY333cpyuOF5PkTZ5t4Eq6GQ1+O1nQ==;hsEnGhGZDiWpk1pp0lSgMA=="
 ---

@@ -171,6 +171,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden has a better option than court-packing: Legislating"
+    excerpt: "A Democratic Congress and president could prevent an activist Supreme Court from dismantling the regulatory state."
+    publishedDateTime: 2020-10-20T18:33:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/10/20/biden-court-packing-alternatives/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/10/20/biden-court-packing-alternatives/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/10/20/biden-court-packing-alternatives/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CKX2KQPGII6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "The Latest: Biden won't rule out studying court packing"
     excerpt: "Democratic presidential nominee Joe Biden won’t rule out studying the addition of members to the Supreme Court as part of a commission he plans to name to look at court reforms if he’s elected"
     publishedDateTime: 2020-10-22T13:51:00Z

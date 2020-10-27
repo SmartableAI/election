@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "WEB EXTRA: VP Mike Pence and Karen Pence Vote In 2020 Election"
-    excerpt: "Vice President Mike Pence and Second Lady Karen Pence voted in the 2020 general election in Indianapolis, IN on Friday. The Pences submitted their absentee ballots in person."
-    publishedDateTime: 2020-10-23T20:52:00Z
-    webUrl: "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/"
-    ampWebUrl: "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/"
-    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/"
+  - title: "Donald Trump to campaign Wednesday in Gastonia"
+    excerpt: "The president will be at the Gastonia Municipal Airport Wednesday to campaign for his 2020 reelection campaign."
+    publishedDateTime: 2020-10-16T21:46:00Z
+    webUrl: "https://www.wcnc.com/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
+    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
+    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
     type: article
     provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 70
+      name: WCNC
+      domain: wcnc.com
+    quality: 75
+    images:
+      - url: "https://media.wcnc.com/assets/WZZM/images/d11f7245-6d50-49bc-81d7-092cae6f06dd/d11f7245-6d50-49bc-81d7-092cae6f06dd_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "b6Ww5azY5ffoX4LipLzJrxZRNEsRdyTTUr1IBl0l12dEQJn93vlfdLMiZ9UgMFw9gQGXf7/yTabu0OpF5D6f/YOsdyvFR68Zwiyf5Lpfe4+5K4zCXCiJ6UdAWvGX0YyZ7+qkzjHI2dOdw5recY3BLkYVxqYtvj8lgo+/Y5WUreSSkPgcOykMPqIl233NML4OIzm+edcHVcbkSEBgpzVFxlnogGUKiOlk2k625AEjJDLaihraO1ftkJYKUy9ko2KJhT4ar+b4BxqT/h3rB+VopFhCzJxMMG9FX0YgxDt7difwYF+qRudytg/JZqyjOjvRtq5G/0dZq0sD0H2jW2/f6JhQb1gQiQbaYH0VYYHlFrU=;aeZvFMmfw2/MabilbDbt4A=="
 ---

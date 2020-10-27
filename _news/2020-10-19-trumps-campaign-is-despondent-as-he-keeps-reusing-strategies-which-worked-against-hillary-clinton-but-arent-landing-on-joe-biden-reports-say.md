@@ -176,6 +176,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Election 2020 live updates: Biden in Georgia, Trump makes Midwest swing 7 days before Election Day"
+    excerpt: "After Amy Coney Barrett's swearing in, Trump campaigns in Michigan, Wisconsin and Nebraska as Biden stumps in Georgia."
+    publishedDateTime: 2020-10-27T17:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6007506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007506002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 141
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/47550bc4-dbe9-439b-8655-3ac2d3740e82-VPC_OBAMA__BEIJING_BARRY_wide_ap.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "13 days to go: Trump hits the road, Biden looks for a boost from Obama"
     excerpt: "President Trump is hopping from one must-win stop on the electoral map to the next in the leadup to a final presidential debate. Joe Biden holes up to prep in advance of the faceoff."
     publishedDateTime: 2020-10-21T15:48:00Z
@@ -1343,6 +1359,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/07/e09696b0-d773-4f59-8cdb-a9f02a49b57f/thumbnail/1200x630/a99e3f72fd1556e17b867982d953ea7a/cbsn-fusion-joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg-thumbnail-561204-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biography Traces Political Mistakes And Personal Scars That Shaped Joe Biden"
+    excerpt: "In Joe Biden, New Yorker writer Evan Osnos writes about the candidate's enduring quest to become president. He says Biden has a different mindset today than he once had: \"He's a man who is at peace.\""
+    publishedDateTime: 2020-10-27T17:27:00Z
+    webUrl: "https://www.npr.org/2020/10/27/928158370/biography-traces-political-mistakes-and-personal-scars-that-shaped-joe-biden"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 102
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/27/gettyimages-1131072454_wide-c50947a15a5273c7ee3f4b472fd5790ea2ca6e5c.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Joe Biden: I 'guarantee' Trump will accept election results; no one's going to stick with him"
     excerpt: "Joseph R. Biden predicted that President Trump will ultimately accept the results of November’s election, saying he doesn’t have the support of the military to engineer some sort of “coup” if he had thoughts about doing so."

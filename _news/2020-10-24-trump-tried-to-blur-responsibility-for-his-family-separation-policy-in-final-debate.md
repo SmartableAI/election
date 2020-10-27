@@ -528,6 +528,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Win or Lose, It’s Donald Trump’s Republican Party"
+    excerpt: "Eighty-six percent white and a noted second-home locale for retirees fleeing the Northeast in winter, Manatee has voted for every Republican presidential nominee since 1948 — the sort of homogeneity that typically produces staid politics."
+    publishedDateTime: 2020-10-27T17:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/27/magazine/trump-influence-gop.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/27/magazine/trump-influence-gop.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/27/magazine/trump-influence-gop.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/01/magazine/01mag-slug-02/01mag-slug-02-facebookJumbo-v3.png"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump travel anticipates a race potentially decided by a single Electoral College vote"
     excerpt: "The president heads to Maine and Nebraska this week, with the Trump team citing several possible scenarios where the election could come down to one or two Electoral College votes."
     publishedDateTime: 2020-10-25T19:46:00Z

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-27-kamala-harris-had-the-perfect-response-when-asked-about-mike-pences-fly.md",
+      "title": "Kamala Harris had the perfect response when asked about Mike Pence’s fly",
+      "excerpt": "Leave it to Whoopi Goldberg to ask Sen. Kamala Harris the question still on everybody’s mind: “Did you see the fly?” On Monday’s episode of “The View,” Harris and hosts Goldberg, Joy Behar, Sara Haines, Sunny Hostin and Ana Navarro discussed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ea6deca/2147483647/strip/true/crop/2761x1803+0+64/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F51%2F34%2Fa7381c464f77b470593397f5f55d%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1228948960.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view?_amp=true",
+      "publishedDateTime": "2020-10-27T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-kamala-harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.md",
       "title": "Kamala Harris thinks she can laugh her way through serious questions: Pavlich",
       "excerpt": "Editor Katie Pavlich called Democratic vice-presidential nominee Sen. Kamala Harris “the most far-left Democrat in Washington, D.C.,\" and said Joe Biden picked her to \"make sure that the left wing of the party felt comfortable\" that they would have a voice in his administration.",
@@ -169,58 +222,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-kamala-harris-to-campaign-in-texas-first-dem-vp-candidate-to-do-so-in-30-plus-years.md",
-      "title": "Kamala Harris to Campaign in Texas, First Dem VP Candidate to Do So in 30-Plus Years",
-      "excerpt": "\"Texas is not a battleground state. It's that simple,\" former Texas Gov. Rick Perry said of Trump not campaigning in Texas prior to the election. Polls show the race as very tight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kamala-harris-campaign-texas-first-dem-vp-candidate-do-so-30-plus-years-1542001",
-      "originalUrl": "https://www.newsweek.com/kamala-harris-campaign-texas-first-dem-vp-candidate-do-so-30-plus-years-1542001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1658247/kamala-harris.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kamala-harris-campaign-texas-first-dem-vp-candidate-do-so-30-plus-years-1542001?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-campaign-texas-first-dem-vp-candidate-do-so-30-plus-years-1542001?amp=1",
-      "publishedDateTime": "2020-10-25T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-24-trump-on-kamala-harris-us-wont-have-socialist-president-especially-a-female-socialist.md",
       "title": "Trump on Kamala Harris: U.S. won't have socialist president, \"especially a female socialist\"",
       "excerpt": "President Trump was back on the campaign trail Friday in his \"home state\" of Florida after the second and final debate against Democratic nominee Joe Biden. Mr. Trump is trying to win over seniors and women,",
@@ -330,21 +331,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-23-fact-check-is-kamala-harris-more-liberal-than-bernie-sanders.md",
-      "title": "Fact Check: Is Kamala Harris ‘more liberal than Bernie Sanders’?",
-      "excerpt": "President Donald Trump said during Thursday’s debate that Kamala Harris is “more liberal than Bernie Sanders” and is eager to see government-run health care.",
+      "path": "_news/2020-10-22-in-rare-move-seattle-storm-endorse-joe-biden-and-kamala-harris-these-are-not-typical-times.md",
+      "title": "In rare move, Seattle Storm endorse Joe Biden and Kamala Harris: 'These are not typical times'",
+      "excerpt": "In a move rarely seen by professional sports teams, the Seattle Storm voiced its support for the 2020 Democratic ticket of Joe Biden and Kamala Harris on Wednesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.kansascity.com/news/politics-government/election/article246645198.html",
-      "originalUrl": "https://www.kansascity.com/news/politics-government/election/article246645198.html",
+      "webUrl": "https://www.startribune.com/in-rare-move-seattle-storm-endorse-joe-biden-and-kamala-harris-these-are-not-typical-times/572824402/",
+      "originalUrl": "https://www.startribune.com/in-rare-move-seattle-storm-endorse-joe-biden-and-kamala-harris-these-are-not-typical-times/572824402/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/b428e196-612e-452c-83b9-15d61114f11b/dcd15672-7f2e-445a-b020-202ff75ee139/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1603304987",
+          "width": 1680,
+          "height": 876,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -352,13 +353,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.kansascity.com/news/politics-government/election/article246645198.html",
-      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/election/article246645198.html",
-      "publishedDateTime": "2020-10-22T18:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T20:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kansas City Star",
-        "domain": "kansascity.com",
+        "name": "StarTribune",
+        "domain": "startribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -369,102 +370,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-chronicled-who-is-kamala-harris-new-podcast-by-the-chronicle-coming-soon.md",
-      "title": "Chronicled: Who is Kamala Harris? New podcast by The Chronicle coming soon",
-      "excerpt": "Is Kamala Harris a cop or progressive? A Berkeley radical or Beltway insider? This six-part podcast series from the San Francisco Chronicle delves into the making of a candidate. Listen to the trailer and subscribe on Apple,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfchronicle.com/politics/article/Chronicled-Who-is-Kamala-Harris-New-podcast-by-15664913.php",
-      "originalUrl": "https://www.sfchronicle.com/politics/article/Chronicled-Who-is-Kamala-Harris-New-podcast-by-15664913.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/00/16/02/16834711/10/375x250.jpg",
-          "width": 361,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sfchronicle.com/politics/amp/Chronicled-Who-is-Kamala-Harris-New-podcast-by-15664913.php",
-      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Chronicled-Who-is-Kamala-Harris-New-podcast-by-15664913.php",
-      "publishedDateTime": "2020-10-21T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Francisco Chronicle",
-        "domain": "sfchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-maryland-man-charged-with-threatening-biden-harris-in-letter-on-supporters-doorstep.md",
-      "title": "Maryland man charged with threatening Biden, Harris in letter on supporter's doorstep",
-      "excerpt": "Federal prosecutors on Wednesday charged a Maryland man with threatening Democratic presidential candidate Joe Biden and running mate Kamala Harris in a letter left on the doorstep of a someone with a yard sign supporting their campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538350209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1MS",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2762NM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM",
-      "publishedDateTime": "2020-10-21T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Kamala Harris"
       ]
     },
@@ -569,21 +474,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-talk-of-the-county-reader-opinion-our-garbage-collector-is-more-qualified-to-run-for-office-than-kamala-harris.md",
-      "title": "Talk of the County reader opinion: ‘Our garbage collector is more qualified to run for office’ than Kamala Harris",
-      "excerpt": "Being from California, if Kamala Harris had any decency and actually believed in law and order, then why didn’t she visit two police officers who were shot while sitting in their car from California?",
+      "path": "_news/2020-10-19-kamala-harris-to-make-two-stops-in-north-carolina-wednesday-charlotte-observer.md",
+      "title": "Kamala Harris to make two stops in North Carolina Wednesday | Charlotte Observer",
+      "excerpt": "Kamala Harris will visit North Carolina on Wednesday, almost a week after canceling a visit due to COVID-19 cases among a staffer and flight crew member. A brief statement released by the Joe Biden presidential campaign Monday said Harris plans to visit Asheville and Charlotte.",
       "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html",
+      "webUrl": "https://www.charlotteobserver.com/news/article246555648.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/article246555648.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 130,
       "tags": null,
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/Y-l6TvPRVPV9unrZaobdN9beS4E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S2FMJGCNYMIPZRCS3E742QM3PA.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/a3270031-586e-48ae-9de2-0b9a14248687/01c7d70f-98b4-4b30-8887-d9631f2436e7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -591,23 +496,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-19T09:06:00-07:00",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/article246555648.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article246555648.html",
+      "publishedDateTime": "2020-10-19T08:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -800,7 +696,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422",
       "featuredContent": null,
       "highlight": null,
-      "heat": 360,
+      "heat": 240,
       "tags": null,
       "images": [
         {
@@ -958,21 +854,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19.md",
-      "title": "Kamala Harris cancels campaign travel after two staffers test positive for COVID-19",
-      "excerpt": "The Biden campaign said Thursday that Kamala Harris will be suspending her campaign travel until Sunday because two people involved in the campaign, Harris' communications director, Liz Allen, and a non-staff flight crew member have tested positive for COVID-19.",
+      "path": "_news/2020-10-16-amy-coney-barrett-dodges-kamala-harriss-question-about-climate-change.md",
+      "title": "Amy Coney Barrett dodges Kamala Harris's question about climate change",
+      "excerpt": "I will not express a view on a matter of public policy, especially one that is politically controversial,” Barrett said.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
-      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
+      "webUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss",
+      "originalUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 1045,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/15/cc10423c-39d7-4270-9400-2c0531d11341/thumbnail/1200x630/1959e172e605cd7efe1545259aa66bf4/gettyimages-1228948443.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://thehill.com/sites/default/files/ca_amybarrett_getty101520.jpg",
+          "width": 1440,
+          "height": 880,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -980,16 +876,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
-      "publishedDateTime": "2020-10-15T07:28:00-07:00",
+      "ampWebUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp",
+      "publishedDateTime": "2020-10-15T12:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1120,58 +1016,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-kamala-harris-says-its-reckless-to-hold-supreme-court-hearings-during-a-pandemic.md",
-      "title": "Kamala Harris says it's 'reckless' to hold Supreme Court hearings during a pandemic",
-      "excerpt": "Harris also criticized Republicans, saying they are prioritizing pushing through Amy Coney Barrett's confirmation over a coronavirus stimulus package.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
-      "originalUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 319,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f84911591aa9e001880b021?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp",
-      "publishedDateTime": "2020-10-12T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-13-kamala-harris-husband-emhoff-everythings-on-the-line-right-now.md",
       "title": "Kamala Harris' husband Emhoff: 'Everything's on the line right now'",
       "excerpt": "Doug Emhoff called President Trump a failing and racist president who didn't deal with COVID-19 due to an \"inept lack of caring and lack of action\"",
@@ -1272,6 +1116,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-11-kamala-harris-faces-sexism-and-racism-as-online-commenters-label-her-black-hillary.md",
+      "title": "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’",
+      "excerpt": "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/politics-government/election/article246337265.html",
+      "originalUrl": "https://www.miamiherald.com/news/politics-government/election/article246337265.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/election/article246337265.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html",
+      "publishedDateTime": "2020-10-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-kamala-harris-vs-mike-pence-takeaways-coronavirus-im-speaking-and-californias-cameo.md",
       "title": "Kamala Harris vs. Mike Pence takeaways: Coronavirus, ‘I’m speaking’ and California’s cameo",
       "excerpt": "Aside from the historic nature of Sen. Kamala Harris’ appearance the event in Salt Lake City was so civil that the social media star of the evening was a fly that landed on Vice President Mike Pence’s hair and lingered for more than two minutes.",
@@ -1280,7 +1167,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1444,7 +1331,7 @@
       "originalUrl": "https://www.newsweek.com/kanye-west-tweets-video-vote-kanye-hat-kamala-harris-head-during-vp-debate-1537319",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1598,6 +1485,117 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-as-harris-prepares-for-pence-debate-asian-american-women-pay-tribute-to-their-immigrant-mothers-grandmothers.md",
+      "title": "As Harris Prepares for Pence Debate, Asian American Women Pay Tribute to Their Immigrant Mothers, Grandmothers",
+      "excerpt": "The Democratic Party's vice presidential nominee became the first Asian-American woman on a major party's ticket. Here's what her nomination means to the women she represents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176",
+      "originalUrl": "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 330,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1647685/kamala-harris.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1",
+      "publishedDateTime": "2020-10-07T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-ed-rollins-vp-debate-harris-pence-faceoff-in-utah-and-america-should-look-to-hear-this-one-word.md",
+      "title": "Ed Rollins: VP debate –Harris, Pence faceoff in Utah and America should look to hear this one word",
+      "excerpt": "It is not unrealistic to think that Pence or Harris could be America’s president in the not-too-distant future",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins",
+      "originalUrl": "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9237c49-0e3b-44b1-852b-13637dd6bd4a/fa189495-4350-42bd-a9f1-b6601bcdc060/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins.amp",
+      "publishedDateTime": "2020-10-07T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
         "Republican Voice",
         "Kamala Harris"
       ]

@@ -93,38 +93,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Trump boasts Amy Coney Barrett was ‘toying’ with ‘evil’ Democrats"
-    excerpt: "President Donald Trump is bragging that his nominee for the U.S. Supreme Court, the supposedly non-partisan and non-political branch of government, was “toying” with the Democratic U.S. Senators on the Judiciary Committee this week."
-    publishedDateTime: 2020-10-15T23:20:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/barrett.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Women Marchers Led By ‘The Handmaid’s Tale’ Protesters Voice Opposition On Trump Ticket, Amy Coney Barrett Nomination"
-    excerpt: "Mike Pence presidential ticket and the Supreme Court nomination of Amy Coney Barrett was coordinated Saturday by the Women’s March organization."
-    publishedDateTime: 2020-10-17T23:35:00Z
-    webUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/"
-    ampWebUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 52
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20291710573192.jpg?w=512"
-        width: 512
-        height: 341
-        isCached: true
 
 secured: "yT5xQqTp0uc7SObfRHdtw96VwuXjUxCWetBqxZzmh7UdLP4Zdb6mnzTC41wNVPnBh7vvWC9AOziwQpoW6cUiO0VPzKqFn0vbClkAPtvIDHnBZUPc0O+GVUKjcKxTXNE/Y3RsvCTurF2hFx4jyEkKO+z1WZT1DEeDYGpM6lmizrnog+S9pDNde+yZYyH78C2HIIVqYXg09tCwZoEI4hCr3msgBYyW834Dq89+EQbhobX1datlZ3DWrIi97xLIaHMpCqVTS7uXu7Xmc3SJqJOeVFaCvPxZiMJ20p+XZt4Rp/NefLCmPWBBxgJwuTrWZoKTlrqc3udxJig2QN690dJQy0RgL8aaRdsasB1kSYWylwg=;3AZlBD5PQcmAVV0AsjfB9A=="
 ---

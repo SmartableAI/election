@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "These three charts show Trump and Biden's favorite TV shows for campaign ads"
+    excerpt: "Despite the partisan rancor of the past several months, there's at least one issue on which the campaigns of President Donald Trump and former Vice President Joe Biden agree: Their voters love \"The Big Bang Theory.\"\n    \n"
+    publishedDateTime: 2020-10-27T17:30:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hltjm9Y4msA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-biden-most-targeted-tv-shows/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-biden-most-targeted-tv-shows/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023111911-20201023-trump-biden-political-ads-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence adviser Marty Obst tests positive for coronavirus"
     excerpt: "A top adviser to Vice President Mike Pence tested positive for coronavirus earlier this week, a source familiar with the matter told CNN.\n    \n"
     publishedDateTime: 2020-10-25T01:43:12Z
@@ -621,6 +637,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026212321-06-wh-barrett-sworn-in-1026-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Obama offers blistering criticism of Trump over coronavirus: 'He's jealous of Covid's media coverage'"
+    excerpt: "Former President Barack Obama on Tuesday offered blistering criticism of President Donald Trump's handling of the coronavirus pandemic and the economy.\n    \n"
+    publishedDateTime: 2020-10-27T17:51:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OonvsIfcfoU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/barack-obama-trump-coronavirus-economy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/barack-obama-trump-coronavirus-economy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015161616-barack-obama-0921-2018-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1415,6 +1447,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "A2KXsLj+UTZXphp7XmLWWQdHUpMr1i2ue7VBkKbgVSlq8X7Sj1A9XAcmPcD/5GOOeIRgDn+omJyhxfYaHbLfzYYeIFQgEJtccYQV6EisvFMqAyBEZg66rg2ueRTO62EPAnwsf5VhU/DBdFgxbSY7VnqaL4JK/Ysv4r4nJp0he4cLCaZoRqR+O9V+qGpEkKax/s3Hi9irWyXgoV4C4sPV0mrvErY9SJoMcWOPgYZFxHBvuSaz+Ovd85MJoIsSQ4mzb7Lrn/nhBfpVA4bUkPnHAPqUp08Jb/VqsayYa6IJXhkdlX/ToO1gtj4BV27TCx513hIMyFv02oCF+3SC21gMdwFazY4X+YZWl4QGg3LO6mg=;3v44sggwAAGrRewHibAgfg=="
+secured: "wr/D+BuzCHjHL8wVc1gm+mth7LnFy3upvuEkoLusum1t24HUAkAnP7YgY7TTrWWjWDaS7aFFgtkYVWwdvrfKs8mTZDuqhwutJ/hP8YZAL9pyEuUZbLvhsmKhyoFgpCjC9biFEKxx4VdhwHvN4HgPe4Yw8At73q1Vw2DyFhTcuINYsRGaQau2apMgYAKNVCt9rtvCw5D0+NzOCOSfsPTlzUgezNzOrz/pUZGyQStKHlaozhyvgk57odrGaC8Ghk0NfKZcfGkXR2nltxXPfsw0fJTGmmTsW81VwOAdANrdtDkZ6zgbp2G63u4FgUQSxru6oPJ9yrpKLg6NnYfDEEWJvVJwrl4h58pXt7RpUHbXKhMdfzmVS2Dqc9lrsRlAG+iHQAgcrXl5z8DmNmYLGktpXAHpCBAnpnNR7ftyOt2754xWuUJpUa1NhVFohY/JPI+09zWKaMxGR+yW93dapDVhO/GmU1D6KSZgSH4yE6/TJ23qORPcycHPVTDxUbMgNJ2AirHBD68BAl8Luh1khXbXJQ==;Vc8ogFK3kVuGBwoLdhL1eA=="
 ---
 

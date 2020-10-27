@@ -35,6 +35,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Watch live: Biden participates in HBCU homecoming"
+    excerpt: "Democratic presidential candidate Joe Biden and and his running mate, Kamala Harris, on Friday evening are slated to participate in a HBCU Homecoming rally hosted by actor and comedian Tiffany Hadish."
+    publishedDateTime: 2020-10-23T23:09:00Z
+    webUrl: "https://thehill.com/video/in-the-news/522531-watch-live-biden-participates-in-hbcu-homecoming"
+    ampWebUrl: "https://thehill.com/video/in-the-news/522531-watch-live-biden-participates-in-hbcu-homecoming?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/522531-watch-live-biden-participates-in-hbcu-homecoming?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Texas Governor Says Biden 'Just Killed' Family Paychecks With Oil Comments"
     excerpt: "The former vice president said he planned to \"transition\" away from oil should he be elected president on November 3."
     publishedDateTime: 2020-10-23T08:58:00Z
