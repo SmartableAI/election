@@ -312,9 +312,9 @@ related:
   - title: "Trump celebrates at White House as Supreme Court nominee confirmed"
     excerpt: "President Donald Trump reveled in one of his signature achievements on Monday at a White House ceremony to celebrate U.S. Senate confirmation of his third Supreme Court nominee, Amy Coney Barrett, eight days before the election."
     publishedDateTime: 2020-10-27T04:19:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-barrett-idUSKBN27A0CX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A0CX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A0CX"
+    webUrl: "https://www.reuters.com/article/usa-court-barrett-idINKBN27A0CX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A0CX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A0CX"
     type: article
     provider:
       name: Reuters

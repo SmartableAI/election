@@ -456,6 +456,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris: Donald Trump Is A Racist, \"It All Speaks For Itself\""
+    excerpt: "Sen. Kamala Harris explained a \"pattern\" of behavior that she believes proves President Trump is a racist during an interview which aired Sunday on \"60 Minutes.\" NORAH O'DONNELL: Do you think the president is racist?"
+    publishedDateTime: 2020-10-26T14:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/26/kamala_harris_donald_trump_is_a_racist_it_all_speaks_for_itself.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 90
+    images:
+      - url: "https://assets.realclear.com/images/52/525187.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Judge Barrett Wrecks Kamala Harris Under SCOTUS Questioning"
     excerpt: "It's been a long day on Capitol Hill but Democrat vice presidential nominee and Senator Kamala Harris finally got her turn to go after Judge Amy Coney Barrett during Supreme"
     publishedDateTime: 2020-10-14T00:05:00Z
@@ -471,20 +485,6 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/283/f1dd55fa-c588-4af6-9eee-335ffba85773.jpg"
         width: 650
         height: 340
-        isCached: true
-  - title: "Kamala Harris: Donald Trump Is A Racist, \"It All Speaks For Itself\""
-    excerpt: "Sen. Kamala Harris explained a \"pattern\" of behavior that she believes proves President Trump is a racist during an interview which aired Sunday on \"60 Minutes.\" NORAH O'DONNELL: Do you think the president is racist?"
-    publishedDateTime: 2020-10-26T14:28:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/26/kamala_harris_donald_trump_is_a_racist_it_all_speaks_for_itself.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 80
-    images:
-      - url: "https://assets.realclear.com/images/52/525187.jpg"
-        width: 750
-        height: 562
         isCached: true
   - title: "Kamala Harris: More Than Fair To Say Trump Has \"Exhibited A Reckless Disregard For Human Life\""
     excerpt: "Democratic nominee for vice president Sen. Kamala Harris at a virtual campaign event with Milwaukee voters on Tuesday: \"Frankly, I think that it is more than fair to say that Donald Trump has exhibited a reckless disregard for human life."

@@ -159,6 +159,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris should be the only Democrat to question Amy Coney Barrett for these 6 important reasons"
+    excerpt: "Kamala Harris, as a black woman, needed two Constitutional amendments to gain the right to vote. Kamala can ask – Amy, does the Constitution say 4 times the right to vote is “not to be denied ..."
+    publishedDateTime: 2020-10-12T11:16:00Z
+    webUrl: "https://www.rawstory.com/2020/10/kamala-harris-should-be-the-only-democrat-to-question-amy-coney-barrett-for-these-6-important-reasons/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/kamala-harris-should-be-the-only-democrat-to-question-amy-coney-barrett-for-these-6-important-reasons/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/kamala-harris-should-be-the-only-democrat-to-question-amy-coney-barrett-for-these-6-important-reasons/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 60
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/08/Kamala-Harris-Shutterstock-6-1-1-800x393.jpg"
+        width: 800
+        height: 393
+        isCached: true
   - title: "'Saturday Night Live': Maya Rudolph's Kamala Harris Declares That America Needs a 'WAP' - 'Woman as President'"
     excerpt: "The Emmy Award-winning comedian stated that America needs a 'woman as president' during the 'SNL' season 46 premiere cold open."
     publishedDateTime: 2020-10-04T05:33:00Z

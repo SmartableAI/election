@@ -3,10 +3,10 @@ category: news
 title: "With Weakness Among Hispanic Voters, Biden Trails in Texas"
 excerpt: "Large Democratic gains among white suburbanites suggest risks down the ballot for Republicans in congressional and state House races, our poll shows."
 publishedDateTime: 2020-10-26T19:47:00Z
-originalUrl: "https://www.nytimes.com/2020/10/26/upshot/texas-polls-biden-trump.html"
-webUrl: "https://www.nytimes.com/2020/10/26/upshot/texas-polls-biden-trump.html"
-ampWebUrl: "https://www.nytimes.com/2020/10/26/upshot/texas-polls-biden-trump.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/26/upshot/texas-polls-biden-trump.amp.html"
+originalUrl: "https://www.nytimes.com/2020/10/26/upshot/poll-texas-hispanics-trump.html"
+webUrl: "https://www.nytimes.com/2020/10/26/upshot/poll-texas-hispanics-trump.html"
+ampWebUrl: "https://www.nytimes.com/2020/10/26/upshot/poll-texas-hispanics-trump.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/26/upshot/poll-texas-hispanics-trump.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -750,6 +750,6 @@ related:
       domain: thedailybeast.com
     quality: 34
 
-secured: "whkGitguGVNqQjHXfFlsMRnFKahEolgnnCdU9aKffgLwG3Dd2fCR2qTzoPxgONK2hDmFOG+WswiSpPImKci3SbnBtWNANCFCnhAHVzlQL9ETOSt29CGubANAflLSs4P/tcG+NdhUhRar0nA09E4yqfcT4NVVdLYUU2lJGzQUU5AeZ3F/UO+ut1bSbyJzuCCkmOeJwVfap7MA65TrD9WwSJstjUYyLXLotEEcYXwOLAM7O/hNOOg3ie3aLAEQydY/Ry2zMF7CHog3ETfNKW0zA6IkIeg+fK7MM3v7E3vG1pP6C1j69JEE3s+e/UzbNY6VdEOvYRGEdoAcv/rnm5cJ3I9CwVTvBYhHsqh4V9rLepQJN5Yvdc/X/+aKknsi6GwSpgPkkH+j+Uj81vGMBDNzTRoc6AtqTX802FNCnyH22lKREnDZjohuUmnblghBwjLooYnBs0hgePYoDHNmpidsPHJRhKn+TkPLGW/yAj5m9K241teJ0HzGdvQ2rA3NqbmXVmkBiC/uxDfdWl+ZVKX0ng==;QF+8b++7bHswZjC60Tb/vg=="
+secured: "wWy8ngo7T13oCaD2WSJGSRDzrW4GAqCVAxz7fClR9l80UUAfNNIGO+kkjxgrvFKNXnXwTCpLbmvx9OpfDf4ixruC6QqnMbsue8sDtZlMQW1aGOMWEUCFEwUUUDcDNzM5hRXJC3K3MYdf4c7AX0ZqY/eQRZOd+JGSejJnCJc7UtWTNIVweB6L2VSHKFt5FQYCb6md9evSq3+RZpp30FWols935S/xvpp4GDMhLZFXwaIjZXvxUpvLJRm/PS9VRkuWQNcj80nLdMw6T0mLKA57BZ/jnzc2l24IOP3BaYkT527+837fPQsW4A8TgngutjG1RNg7ad9mv42F31DBF0S3+m/JFECRl7lcQTj0E6qEoi0=;qqfrdwQlwdJr8LRr58ILQQ=="
 ---
 

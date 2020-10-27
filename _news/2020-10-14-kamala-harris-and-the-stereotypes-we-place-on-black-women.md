@@ -2714,6 +2714,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Harris faces spotlight at Supreme Court hearing"
+    excerpt: "Sen. Kamala D. Harris (D-Calif.) had two big moments when she questioned Supreme Court nominee Brett M. Kavanaugh at his volatile confirmation hearing two years ago. The first was when she pressed ..."
+    publishedDateTime: 2020-10-12T12:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/harris-supreme-court-barrett/2020/10/10/ed1e4e1c-0a47-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/harris-supreme-court-barrett/2020/10/10/ed1e4e1c-0a47-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/harris-supreme-court-barrett/2020/10/10/ed1e4e1c-0a47-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WQI3WEVRHII6RC2TKAIWO2HETE.jpg&w=1440"
+        width: 1440
+        height: 902
+        isCached: true
   - title: "COVID derails Kamala Harris trip to Texas this weekend"
     excerpt: "Harris told a national television audience she was going to be Texas over the weekend, but on Thursday the Biden campaign announced that trip is on hold."
     publishedDateTime: 2020-10-15T17:13:00Z

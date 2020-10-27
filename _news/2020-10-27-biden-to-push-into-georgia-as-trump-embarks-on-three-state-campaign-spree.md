@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Biden to Push Into Georgia as Trump Embarks on Three-State Campaign Spree"
+title: "Biden to push into Georgia as Trump embarks on three-state campaign spree"
 excerpt: "With just a week to go until the Nov. 3 election, President Donald Trump and Democrat Joe Biden will criss-cross the country on Tuesday in an intense day of campaigning that will also see former President Barack Obama back on the stump."
-publishedDateTime: 2020-10-27T04:17:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2020-10-27/biden-to-push-into-georgia-as-trump-embarks-on-three-state-campaign-spree"
-webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-27/biden-to-push-into-georgia-as-trump-embarks-on-three-state-campaign-spree"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-27/biden-to-push-into-georgia-as-trump-embarks-on-three-state-campaign-spree?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-27/biden-to-push-into-georgia-as-trump-embarks-on-three-state-campaign-spree?context=amp"
+publishedDateTime: 2020-10-27T04:21:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27C0E3"
+webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27C0E3"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0E3"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0E3"
 type: article
-quality: 69
+quality: 139
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538927935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0A9"
+    width: 796
+    height: 545
+    isCached: true
 
 related:
   - title: "Election 2020: Both Trump and Biden campaign in battleground Pennsylvania"
@@ -1004,6 +1010,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Biden goes on offense in Georgia while Trump targets Midwest"
+    excerpt: "One week until Election Day, Joe Biden is going on offense, heading Tuesday to Georgia — which hasn’t backed a Democrat for president since 1992 — and pushing into other territory where President Donald Trump was once expected to easily repeat his wins from four years ago."
+    publishedDateTime: 2020-10-27T06:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-goes-on-offense-in-georgia-while-trump-targets-midwest-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-goes-on-offense-in-georgia-while-trump-targets-midwest-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-goes-on-offense-in-georgia-while-trump-targets-midwest-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z
@@ -1836,6 +1853,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Ir5aYobn6fALnF+cPkkjb2r6S8vfkUeOpL67nn77xICB8om+VbukgaE166G+HaA9fnuBvusNT/3DEtBLGCeO1wXbwHHZ2NG9ZLH8MNULsmMly3UpTx02wV2zM3CVJZFHUrbLJMTuc+2133j/4Qo27qCR2JSgpL5Gi3G2R7/Qlabse7cQix3ibaq/zezvl8u2wB1JKVmSyyCTT5rAutxxl07bNUK/HKkkin3MCUn3gE/zNdapKM0GZbvtXQGyO/PIzxSiRpcrQAhtXY34pzV/1dV2x9RP7C3ZUGNc3q25/qJnXh9+xLO4tnJUsrC5muihiEpKF2khLPRI86qvl6Bddemm2KIjXxXCkpzOhSzz6zWqCjBbTGxDXpeKZ1qTCol1cgb2KntQiHxKuMzsAOgBkKg9Qismu2A6cxF/o1w/J2S9N6m9b+CWOe3c/5E7AE8Cx4fWJ61hu0fqnhGdVZE8A93hKTzUptEUhH+N2xjkJ5jrlQTCI4aDb/E0hYgWl9si4q6VlNSRXSKAFGbmFRIjdA==;y8iMwCfwcM4hx1sUHmPwZw=="
+secured: "snNvV9RgMaVhPASUcF7G1QoMA1a9c3s6WywsNpAbJrF1ODXOv/mOX74YwT2W79EnrNzMKmWwDgsrRIZ96zqCEvuZCSQN/yxnW8/+cDRZn7sc28QSm+QYQaDqnHXk/N/m3975pwCQKkwZ4aLOum6HKF3zV+jtVCsuA7xO0ZRipGF4msJcLNssJAkogo7fk2lDFhE6Qu74QGnYjuEW3GuXSYSmYU9nN5PSqu7IbPGDp5WGxLB1A0cQnjBo4FUwVgrbPQrZnZDj+JJx6opd5HWY8wAJSEDryGzoKragbfMZ/1LdjE9YHnuhVjPi1Hgb21mD+X5jmkmqvBNIwDZJpJsbhvSD8g+EOM/TkDBjfhDk15Q=;tksRmx3g7T9RBiFC+lV8Vg=="
 ---
 

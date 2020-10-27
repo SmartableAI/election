@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I128"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I128"
 type: article
 quality: 140
-heat: 1440
+heat: 1460
 published: true
 
 provider:
@@ -802,6 +802,17 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 105
+  - title: "Issues important to Trump await Barrett on Supreme Court"
+    excerpt: "Amy Coney Barrett's first votes on the Supreme Court could include two big topics affecting the man who appointed her."
+    publishedDateTime: 2020-10-27T06:13:00Z
+    webUrl: "https://www.businessinsider.com/issues-important-to-trump-await-barrett-on-supreme-court-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/issues-important-to-trump-await-barrett-on-supreme-court-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/issues-important-to-trump-await-barrett-on-supreme-court-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
   - title: "Trump to nominate anti-abortion conservative Amy Coney Barrett to replace Ruth Bader Ginsburg on the Supreme Court"
     excerpt: "Barrett's addition to the Court would shift the ideological balance of the Court sharply to the right, giving conservatives a 6-3 majority."

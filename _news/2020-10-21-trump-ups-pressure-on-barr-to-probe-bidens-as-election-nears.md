@@ -457,6 +457,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to push into Georgia as Trump embarks on three-state campaign spree"
+    excerpt: "With just a week to go until the Nov. 3 election, President Donald Trump and Democrat Joe Biden will criss-cross the country on Tuesday in an intense day of campaigning that will also see former President Barack Obama back on the stump."
+    publishedDateTime: 2020-10-27T04:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27C0E3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0E3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0E3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538927935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0A9"
+        width: 796
+        height: 545
+        isCached: true
   - title: "With time running out, Trump to launch attacks on Biden's family at debate"
     excerpt: "U.S. President Donald Trump is expected to come out swinging in Thursday's final presidential debate with Democratic rival Joe Biden to try to close a gap in opinion polls before an election 12 days away."
     publishedDateTime: 2020-10-23T01:15:00Z
@@ -999,6 +1015,17 @@ related:
     webUrl: "https://www.businessinsider.com/trump-intensifies-fracking-assault-on-biden-in-pennsylvania-2020-10"
     ampWebUrl: "https://www.businessinsider.com/trump-intensifies-fracking-assault-on-biden-in-pennsylvania-2020-10?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-intensifies-fracking-assault-on-biden-in-pennsylvania-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Biden goes on offense in Georgia while Trump targets Midwest"
+    excerpt: "One week until Election Day, Joe Biden is going on offense, heading Tuesday to Georgia — which hasn’t backed a Democrat for president since 1992 — and pushing into other territory where President Donald Trump was once expected to easily repeat his wins from four years ago."
+    publishedDateTime: 2020-10-27T06:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-goes-on-offense-in-georgia-while-trump-targets-midwest-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-goes-on-offense-in-georgia-while-trump-targets-midwest-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-goes-on-offense-in-georgia-while-trump-targets-midwest-2020-10?amp"
     type: article
     provider:
       name: Business Insider
@@ -1608,17 +1635,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "Biden to Push Into Georgia as Trump Embarks on Three-State Campaign Spree"
-    excerpt: "With just a week to go until the Nov. 3 election, President Donald Trump and Democrat Joe Biden will criss-cross the country on Tuesday in an intense day of campaigning that will also see former President Barack Obama back on the stump."
-    publishedDateTime: 2020-10-27T04:17:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-27/biden-to-push-into-georgia-as-trump-embarks-on-three-state-campaign-spree"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-27/biden-to-push-into-georgia-as-trump-embarks-on-three-state-campaign-spree?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-27/biden-to-push-into-georgia-as-trump-embarks-on-three-state-campaign-spree?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "Joe Biden courts swing voters in Pennsylvania with a plea to ‘choose hope over fear’"
     excerpt: "Biden entered the final 10 days before Election Day with a hopeful message not unlike the one that lifted Barack Obama to the White House."
     publishedDateTime: 2020-10-24T21:14:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-26T14:28:00Z
 originalUrl: "https://www.realclearpolitics.com/video/2020/10/26/kamala_harris_donald_trump_is_a_racist_it_all_speaks_for_itself.html"
 webUrl: "https://www.realclearpolitics.com/video/2020/10/26/kamala_harris_donald_trump_is_a_racist_it_all_speaks_for_itself.html"
 type: article
-quality: 80
+quality: 90
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Election
   - Kamala Harris
   - Republican Voice
+  - Donald Trump
 
 images:
   - url: "https://assets.realclear.com/images/52/525187.jpg"

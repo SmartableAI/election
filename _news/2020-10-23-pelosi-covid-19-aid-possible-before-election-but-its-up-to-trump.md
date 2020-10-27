@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
 type: article
 quality: 140
-heat: 760
+heat: 780
 published: true
 
 provider:
@@ -218,6 +218,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump Claims Doctors Overcounting Covid-19 Coronavirus Deaths To Make More Money"
+    excerpt: "Here is the response on Twitter from physicians and various medical societies to the statements by Trump during a campaign rally in Wisconsin."
+    publishedDateTime: 2020-10-27T06:30:00Z
+    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/27/trump-claims-doctors-overcounting-covid-19-coronavirus-deaths-to-make-more-money/"
+    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/27/trump-claims-doctors-overcounting-covid-19-coronavirus-deaths-to-make-more-money/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/27/trump-claims-doctors-overcounting-covid-19-coronavirus-deaths-to-make-more-money/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 120
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f97ac2143dbbcfe48bf6f3c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump eyes hosting election night party at his DC hotel"
     excerpt: "President Donald Trump has his eye on hosting an election night party at his own hotel in the nation’s capital."
     publishedDateTime: 2020-10-27T00:49:00Z

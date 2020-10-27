@@ -1286,6 +1286,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump breaks with Meadows, says he hasn’t given up on controlling virus"
+    excerpt: "The president also said the U.S. is “absolutely rounding the corner” on the pandemic, just days after the country set a single-day record of Covid-19 cases."
+    publishedDateTime: 2020-10-27T06:31:00Z
+    webUrl: "https://www.politico.com/news/2020/10/26/mark-meadows-doubles-down-pandemic-control-432463"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/95/21/ccf435314ca191533d7868aeccbc/trump.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump Had Sound Bites. Biden Had Substance and Heart."
     excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."
     publishedDateTime: 2020-10-25T04:00:00Z

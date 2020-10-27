@@ -1272,6 +1272,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump breaks with Meadows, says he hasn’t given up on controlling virus"
+    excerpt: "The president also said the U.S. is “absolutely rounding the corner” on the pandemic, just days after the country set a single-day record of Covid-19 cases."
+    publishedDateTime: 2020-10-27T06:31:00Z
+    webUrl: "https://www.politico.com/news/2020/10/26/mark-meadows-doubles-down-pandemic-control-432463"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/95/21/ccf435314ca191533d7868aeccbc/trump.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump campaign adviser signals president will tone it down at final debate"
     excerpt: "Trump campaign senior adviser Jason Miller signaled Sunday that President Donald Trump will take a less combative tack toward Democratic presidential nominee Joe Biden during their televised debate this week."
     publishedDateTime: 2020-10-18T14:11:00Z
@@ -1314,6 +1328,6 @@ related:
       domain: thedailybeast.com
     quality: 58
 
-secured: "UzL7GiVCyJxYvEB/8N8i3g30Rdoso7NXJq6VFRT9TkwvfhDWUKJJWz9bBX/Jm/kCX3idGSZapp7xoI1KQOR9slQHoTT0HO2xM9IgXF0+KXArxypWUjfrJNV7EAzHT/TaFYASVxf/kisn7SLrONChMdDINdhbNVuqilvnXggn1rBI8v7s6jXPwkcKcGb60ywKnCFTPYtduEvnYOyCRU8TOMfdq2oWuHviAsea3jJFstvCqCkgfZ+ta8C+wSzFZ/F/yXGb7gYTjfW9wLV30mp5O/TOIFQ48iDGQdcTUgqMObU1QZrAZtEb8pXAV9E852WbQS63Q6O9Sg3HcOrxc7XLnQUqZH+J7Rtx9YE62RG5pJM=;Iw8vyiFGCT71EbdvWvK17w=="
+secured: "4LJ0QfoBwKExbl/+ILMwyWQcFqLxfBT/7UE1EgsBPtK4gBpiT5TuiByyfpfrlDfWCTEq4Suui6wmf7xZH0dUCVOWAhO9aFQxC35JUYOBrnXAlln0GkohOW06qbhqDtVAnSVf6hBdSXk3SBSaGI9wlkfHMScMbrMF5NYI4fsb22TIzegAAdPGEjbNhqGkzPRTe2/vS7VAlnwfB23WfiJHZ7Xv/EnbN4P9CfKj+f8vOIoDwVAmxDUgrytS9q48YnxIF0m71TKQ59APBdGYB6cjGZwoUcwIUbra5wmqGMpQgbl002pCrs+5mTgWD43ArPApualhba+/p4EadLF5dqldUyljQMHtn4Kgq1V913U0ydhuWrdYnHPvLWPwDElnszKhJHuADDlbk6lbiWcPBWv5qjvIyZqMSpeya1jKlFtxNaCLA+EttYOTFLBPZF1L8/ZKumvH1vYVeQ/5i7kOfUaep2REMVSjHe6No7djWY+tCeqZnmvrRY/x+bXZxO7SQbQH4YSt1YCEh2e9wNfV6+jcOQ==;AmkO1P9PV73Op2kSkaOegA=="
 ---
 

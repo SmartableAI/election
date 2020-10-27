@@ -171,6 +171,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris should be the only Democrat to question Amy Coney Barrett for these 6 important reasons"
+    excerpt: "Kamala Harris, as a black woman, needed two Constitutional amendments to gain the right to vote. Kamala can ask – Amy, does the Constitution say 4 times the right to vote is “not to be denied ..."
+    publishedDateTime: 2020-10-12T11:16:00Z
+    webUrl: "https://www.rawstory.com/2020/10/kamala-harris-should-be-the-only-democrat-to-question-amy-coney-barrett-for-these-6-important-reasons/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/kamala-harris-should-be-the-only-democrat-to-question-amy-coney-barrett-for-these-6-important-reasons/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/kamala-harris-should-be-the-only-democrat-to-question-amy-coney-barrett-for-these-6-important-reasons/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 60
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/08/Kamala-Harris-Shutterstock-6-1-1-800x393.jpg"
+        width: 800
+        height: 393
+        isCached: true
 
 secured: "b8FqroVA1FqW/vFT8nYKY1YcCw41QcmOaTCGicBHA89rHowrqjlTLOYs08wnoyWHSgtH8Ug4hNztkRzAPxoXZDdNapWyi1oQXXPnyN2DMBI0SAcGklfG1L3m7iW6UkHQ9f4ZcvcrfHiMdif6w51mCqR3bWPrO70Fl2JdZgDIGnxf6H7Sge3eka2jReu3h8luS5Lf91y7FDTuF355BJec1tH8YnJqm9x7qRmKYM8n0LB9XT57XINf1lDsWSsZD8lTnKkWdVEvxeBEQejqnQ9nQ6+HIqsRVc4UmhxsSP02h9r4jurHunMv4N9as0gPJfMqfYjO+yOPcsBh5PSAVravhjSQLAFSKhAha8p3Rczr9t72OWxNvsCrQ3h8jTQHiENpExAUEQaD4/i/ZUIS7RASH08dC/TIjzexUnpBsTk7dDPmM0ISoY+VRYlQC0ShC6LaZ5+H6hExQraqsrvHV2vWPycgcsHTJUWwJB9hkcxvSvcLbh+V57zS7Vg+fAqEZYQ2HGAw8Riou2t6YRSdKsvuHA==;MpmgjSrGsduVgNnRXTa1tg=="
 ---

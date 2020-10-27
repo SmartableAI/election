@@ -1606,6 +1606,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Kamala Harris, the tenacious former prosecutor, faces a complicated role as she questions Barrett"
+    excerpt: "(CNN)With Supreme Court nominee Amy Coney Barrett's confirmation hearings underway, many Democrats will be eagerly awaiting Kamala Harris' turn as the Senate Judiciary Committee's star prosecutor ..."
+    publishedDateTime: 2020-10-12T18:00:00Z
+    webUrl: "https://www.cnn.com/2020/10/12/politics/kamala-harris-amy-coney-barrett/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/kamala-harris-amy-coney-barrett/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/kamala-harris-amy-coney-barrett/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 122
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201008142359-17-photos-this-week-1008-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump requires food aid boxes to come with a letter from him"
     excerpt: "The Agriculture Department last week began mandating that millions of boxes of surplus food for needy families include a letter from President Donald Trump claiming credit for the program. The USDA’s $4 billion Families to Farmers Food Box Program has distributed more than 100 million boxes to those in need since May,"
     publishedDateTime: 2020-10-01T08:32:00Z

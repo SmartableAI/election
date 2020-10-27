@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2563
+heat: 2583
 published: true
 
 provider:
@@ -1590,6 +1590,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418073/201006-kamala-harris-2019-ac-807p_b4257ecc4931dfb8a23df49ab56623fc.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Kamala Harris, the tenacious former prosecutor, faces a complicated role as she questions Barrett"
+    excerpt: "(CNN)With Supreme Court nominee Amy Coney Barrett's confirmation hearings underway, many Democrats will be eagerly awaiting Kamala Harris' turn as the Senate Judiciary Committee's star prosecutor ..."
+    publishedDateTime: 2020-10-12T18:00:00Z
+    webUrl: "https://www.cnn.com/2020/10/12/politics/kamala-harris-amy-coney-barrett/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/kamala-harris-amy-coney-barrett/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/kamala-harris-amy-coney-barrett/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 122
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201008142359-17-photos-this-week-1008-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "'Raise your daughters like Wonder Woman': 3 life lessons I learned from my aunt, Sen. Kamala Harris"
     excerpt: "Meena Harris says she was raised by \"a hardworking single mom, a grandmother who taught me I should always make an impact, and an auntie who showed me I could do and be whatever I wanted to be.”"

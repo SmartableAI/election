@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Barrett Confirmation Vote in Washington, DC"
 excerpt: "Democratic presidential nominee Sen. Kamala Harris (D-Calif.) leaves the U.S. Capitol in Washington, D.C., after the Senate nomination vote of judge Amy Coney Barrett to be a Supreme Court Justice on Monday,"
 publishedDateTime: 2020-10-27T03:15:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/bd5448bc22d10f09fe46c349d8f947bc/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/bd5448bc22d10f09fe46c349d8f947bc/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/24278bd20f10249d545129bd9be90e98/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/24278bd20f10249d545129bd9be90e98/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/bd5448bc22d10f09fe46c349d8f947bc/BARRETT-VOTE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/24278bd20f10249d545129bd9be90e98/BARRETT-VOTE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1400,6 +1400,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Campaigns in Reno, Nevada"
+    excerpt: "T15:00:00-04:00 vice presidential candidate Senator Kamala Harris (D-CA) speaks to supporters at a campaign event in Reno, Nevada. Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to supporters at a campaign event in Reno,"
+    publishedDateTime: 2020-10-27T02:00:00Z
+    webUrl: "https://www.c-span.org/video/?477414-1/senator-kamala-harris-campaigns-reno-nevada"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Kamala Harris gives Orlando speech on first day of early voting in Florida"
     excerpt: "On her first stop in Florida, Kamala Harris gave a speech encouraging voters to go to the polls on the first day of early voting in Florida. Harris attacked President Trump's coronavirus response while assuring viewers that change was coming."
     publishedDateTime: 2020-10-19T16:53:00Z
@@ -1419,6 +1428,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "2nCL94YXinhUdQi5Qis6H7lzCv8FgMKLRHvk6dy4hC3pxMjP8HWT2dg6U8RiayRrk2lPOg1BBmUsHdgdmmDlgOGzOYtlqr2b67UIStHv5DjM0zmXOwPJPcgnzXH25Zg5FsFN1NoZkqlLsq9zC3OnnTHNSWA+M2MORIXqOzMSJZDOffn7khTghDJ0LAtbefJDczDU4GRcVtKFqfuHk0mSkhrX1UzfNwU6SBQxHxIKEwaeovLoajU/Tf/2dFqBblB6UfRVemsBhL4w4IBSCRszqh/SEeQA9Bhn0BSziyRyEirQ4iHko2aHT/5JcmaPQUqtGnjUaNhHZGhcLzAlwhhJ6oGrfJch/qlQmhfycSfHn5Q=;YMekntELTaVlAHRb+80ajA=="
+secured: "/4xQy3hPJ8WSzsoNe7WnAJcSl7mbVOmeo61XOFSTmHUE9T2C/Xiv/TbHGWUxOtofbPr/pie0aNIj5xtUv6CL1N90MqqrWrHVzpqsPvuI2dr6FBIhTdw0Rrry+7fLFMsADPivqiaFKx/wDxDicOuwdnJ3B6zyA50YX+6aETSIFg9DIZLUJHP3uufpOMIUD1+DArwKVuZ1CEofuG0u7AKRZOuJZjUKAq2JvMjfp5qV1+LosvcwEpRXKzRVPfh+irjNOQF6u0ftTJsmW2HTxskmzROb+8mjy99MLgVkSdZBHo0Wy3b+0EVG3XFISEXrkDJjhfztKINLG8yKe+xc1dSqZyHi7Qylvzntw7W/oo8K1i8=;L3yAORdEcLgL3HVqb0Ka7w=="
 ---
 

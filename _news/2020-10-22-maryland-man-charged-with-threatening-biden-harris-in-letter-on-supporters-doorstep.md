@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762NM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM"
 type: article
 quality: 143
-heat: 2123
+heat: 2143
 published: true
 
 provider:
@@ -1147,14 +1147,14 @@ related:
   - title: "Kamala Harris Barrett Confirmation Vote in Washington, DC"
     excerpt: "Democratic presidential nominee Sen. Kamala Harris (D-Calif.) leaves the U.S. Capitol in Washington, D.C., after the Senate nomination vote of judge Amy Coney Barrett to be a Supreme Court Justice on Monday,"
     publishedDateTime: 2020-10-27T03:15:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/bd5448bc22d10f09fe46c349d8f947bc/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/24278bd20f10249d545129bd9be90e98/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/bd5448bc22d10f09fe46c349d8f947bc/BARRETT-VOTE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/24278bd20f10249d545129bd9be90e98/BARRETT-VOTE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1400,6 +1400,15 @@ related:
     excerpt: "Senator Kamala Harris (D-CA) delivered remarks at the Triumph Church in Southfield, Michigan, which was filming its weekly Sunday service from inside the church and projecting it outside for parishioners to see in a drive-in setting."
     publishedDateTime: 2020-10-25T19:22:00Z
     webUrl: "https://www.c-span.org/event/?477350/c2020-sen-kamala-harris-dca-speaks-church-service-detroit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in Reno, Nevada"
+    excerpt: "T15:00:00-04:00 vice presidential candidate Senator Kamala Harris (D-CA) speaks to supporters at a campaign event in Reno, Nevada. Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to supporters at a campaign event in Reno,"
+    publishedDateTime: 2020-10-27T02:00:00Z
+    webUrl: "https://www.c-span.org/video/?477414-1/senator-kamala-harris-campaigns-reno-nevada"
     type: article
     provider:
       name: C-SPAN
