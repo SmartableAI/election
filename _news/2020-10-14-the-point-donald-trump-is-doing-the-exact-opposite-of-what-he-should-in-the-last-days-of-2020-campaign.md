@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Melania Trump focuses on Covid and slams Democrats for politicizing pandemic in campaign speech"
+    excerpt: "First lady Melania Trump focused on the Covid-19 pandemic in her first solo campaign event of 2020 and blasted Democrats for allegedly politicizing the pandemic.\n    \n"
+    publishedDateTime: 2020-10-27T21:47:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o1JcWMunGH0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/melania-trump-election-2020-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/melania-trump-election-2020-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002001026-melania-trump-file-september-14-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Trump Can’t Take Red Counties in North Carolina for Granted"
     excerpt: "Even some people in Gastonia, N.C., are a little perplexed about why the president was holding a rally in a small community that’s already in his camp."
     publishedDateTime: 2020-10-26T14:04:00Z

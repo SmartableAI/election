@@ -83,6 +83,31 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden makes last-minute plea to Hispanic voters in 11 states, including Texas"
+    excerpt: "With polls showing Joe Biden still doesn’t have enough support from Hispanic voters, his campaign has launched 5 new Spanish language ads airing in Texas and 10 other states."
+    publishedDateTime: 2020-10-27T17:56:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/65/42/20142261/7/rawImage.jpg"
+        width: 2048
+        height: 1451
+        isCached: true
+  - title: "Joe Biden Delivers Remarks in Warm Springs, Georgia"
+    excerpt: "T13:46:02-04:00 a week to go to election day, Democratic presidential candidate Joe Biden delivers remarks in Warm Springs, Georgia, home to FDR’s “Little White House.” The former vice president says he’s running to help “unite” and “heal” the country."
+    publishedDateTime: 2020-10-27T18:43:00Z
+    webUrl: "https://www.c-span.org/event/?477413/c2020-joe-biden-delivers-remarks-warm-springs-ga"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "YvbMAMsgukNeygyZ9MFWGGZhux3W5dqpvbs6ImjmHn0u85eYIiCGPtnR0OHlqX3aDnZ1MMBXMpvuIQO/eDUBxAwqBkzcYcN9AmrkBfvVm/KU38ejjzsgfBJENht3bLwA2bwSYSY643V2PlwGUY52L1V1KZTTUbr7ZqmJgF4+qcc+Jy/rge5h8O1vVuqNJxT7HHdt55J1OSUrtb3uTXVCaOUT5t/2dflcl3dDf0UX6H7WbINz5AXd/L90VYKM+2bIqQVC9RokgFRkFqyCV1JjzOsyBFwUPmmVvSkfHTGi0mgm2DB0BNLTN+JM8G2q4CuJaZGNwtkhbssj/mYkA01/i7Y1sjBdu1nZrucWAskv6qO/9eDvMNkWH1n7pNuyY2WY0s2EAUFBQyIH54Ba2iFfkOQobJEDrbtccXs6a1EBaP+mqlRqtf7anzJkVvwXt9kr+GSGQMHgCGM+rxzdgNnnkGmP7hXrViuVwtlvc3Ce3vqTsmvsTMyAamfFGXsHlWi8LNi9lQB0rKJE6OxU0vH9Ng==;MJ0mbPyn2K6VZ1nFWe18Uw=="
 ---

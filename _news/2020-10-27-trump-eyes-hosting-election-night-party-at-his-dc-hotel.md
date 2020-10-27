@@ -360,22 +360,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Kamala Harris blames Trump for COVID-19 'mass casualty event’ during Michigan visit"
-    excerpt: "Democratic vice presidential nominee Kamala Harris said President Donald Trump’s handling of the coronavirus pandemic caused the “greatest mass casualty event s"
-    publishedDateTime: 2020-10-26T04:15:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 84
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GJWXLVLC75EXNLWNT2JDQ3BBFM.JPG"
-        width: 4992
-        height: 4006
-        isCached: true
   - title: "Close political adviser to Mike Pence tests positive for COVID-19"
     excerpt: "According to Bloomberg News, one of Vice President Mike Pence’s top political advisers has tested positive for COVID-19. It is unclear if Marty Obst developed coronavirus symptoms when he tested positive."
     publishedDateTime: 2020-10-25T05:17:00Z
@@ -509,6 +493,17 @@ related:
         width: 928
         height: 523
         isCached: true
+  - title: "If Trump Wanted People to Avoid '60 Minutes,' It Didn't Work"
+    excerpt: "Angry about his interview with Lesley Stahl of “60 Minutes,” President Donald Trump released an unedited version of the talk on Facebook three days before the broadcast."
+    publishedDateTime: 2020-10-27T21:37:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-27/if-trump-wanted-people-to-avoid-60-minutes-it-didnt-work"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-27/if-trump-wanted-people-to-avoid-60-minutes-it-didnt-work?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-27/if-trump-wanted-people-to-avoid-60-minutes-it-didnt-work?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "np/kDpkXp7gIbP9Mo92rPPF9xa2n1UkBC2wB37PWlVliPozJ2f+biQ94GdPDd53Sjq05Cj6jp/O6PB2n4ZO7k0L3otjtTaCVq4qrUNMr5f1/VRXBawXFIbijhbObUQVysAPM/Xh1I/+YvNRz9ViCMKGItXnPhzeT1nZ6qz5rPiaQFMNwXbBOfaODjcAwAUq6JcQgXzIz9TCWUmFRlSATKXBzAupJiyNlpj4qxbt99KGLsD/T/4AHddJeXkTaf+Fh3pVdg82fqVL0LyipQRuqQtmsBbCKb824xqqGJWPZA7wPlhToVH3DXM+QYAQONwGWxGJInDFtAjjA/5Rs+/16sdM942UQ/1gEpmulxapz8hg=;zw9rlExRaOsiWQJRb1bWrQ=="
 ---

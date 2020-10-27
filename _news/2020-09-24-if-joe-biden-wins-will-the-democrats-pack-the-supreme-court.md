@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supre
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_10262020getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "The Supreme Court Is Going to Be a Problem for Joe Biden"
+    excerpt: "A hyper-partisan court stands ready to oppose everything a unified Democratic government does. This is Bloomberg Opinion Today, a Supreme Court of Bloomberg Opinion’s opinions.  Democrats must decide how to respond to a partisan Supreme Court."
+    publishedDateTime: 2020-10-27T20:45:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2020-10-27/the-supreme-court-is-going-to-be-a-problem-for-joe-biden"
+    ampWebUrl: "https://www.bloomberg.com/amp/opinion/articles/2020-10-27/the-supreme-court-is-going-to-be-a-problem-for-joe-biden"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-10-27/the-supreme-court-is-going-to-be-a-problem-for-joe-biden"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imGTeqWHd_l4/v1/360x-1.jpg"
+        width: 360
+        height: 267
         isCached: true
   - title: "Joe Biden to Democrats: Keep focus on health care, not expanding Supreme Court"
     excerpt: "The former vice president sidestepped any talk of expanding the court to counter conservative gains should he win in November and Democrats regain a Senate majority."

@@ -80,6 +80,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Melania Trump tears directly into Joe Biden as a 'socialist'"
+    excerpt: "First lady Melania Trump tore into Joe Biden’s “socialist agenda” in her first solo campaign appearance of the year on Tuesday and even slammed Democrats for a “sham” impeachment. "
+    publishedDateTime: 2020-10-27T21:54:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u6dtLg01lkA/melania-trump-joe-biden-socialist"
+    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-joe-biden-socialist.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-joe-biden-socialist.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Melania-Trump-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Obama unloads on Trump at rally for Biden: 'We can't afford 4 more years of this'"
     excerpt: "Former President Obama repeatedly took aim at his successor in the White House as he campaigned Tuesday for Democratic presidential nominee Joe Biden in the crucial battleground state of Florida."
     publishedDateTime: 2020-10-27T17:48:45Z
@@ -207,6 +223,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ece5c9a-651c-46db-b47f-755e18f7e523/5133f7d3-7d2e-4430-b650-ea3546d339ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden makes plea to ‘unite and heal’ the country during stop in Georgia"
+    excerpt: "Joe Biden, playing offense in a long time red state turned crucial battleground this year, made a closing campaign pitch on Tuesday for national unity to rise above what he called the division President Trump’s sown during his four years in the White House."
+    publishedDateTime: 2020-10-27T20:10:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4K5BdjTl8Po/biden-plea-unite-and-heal-the-country-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301662617518.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump continues swing through battleground states with stop in Pennsylvania"
     excerpt: "With the November election exactly two weeks away, President Trump is continuing his tour of the pivotal battleground states with a campaign stop in Pennsylvania, where he's currently trailing Democratic rival Joe Biden."
@@ -398,6 +430,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden makes plea to ‘unite and heal’ the country during stop in Georgia"
+    excerpt: "Joe Biden, playing offense in a long time red state turned crucial battleground this year, made a closing campaign pitch on Tuesday for national unity to rise above what he called the division President Trump’s sown during his four years in the White House."
+    publishedDateTime: 2020-10-27T20:15:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301662617518.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Hunter biz partner confirms e-mail, details Joe Biden’s push to make millions from China: Goodwin"
     excerpt: "Wait until Scranton hears about this. One of Joe Biden’s ways of contrasting himself with President Trump has been to declare the election a battle of Park Avenue values vs. Scranton, Pa., values."
     publishedDateTime: 2020-10-22T04:44:00Z
@@ -461,6 +509,6 @@ related:
         height: 500
         isCached: true
 
-secured: "giDpt25msy1SJxy9ypBYZXtynT0FKunCLV/fpERCQvGcesLnotWH17k+9CQuESARJdunctObAgjovETh0Q4FGY4jfGM10eh2HZNnZIUMDMuW6b9D2voQaSZCPCCTEu57b6rK64IOxTChfFmsF/facQtwae0uMjgYgAnCGqYBWskNm3CHDSGHapNiRz1iPk+KPduvdpN/Tlm1b8fU4W8JmvAkgGKh5NI/ljFl2rA0cgmmIK1peDsrGdGjewosSl9Kql7cuMfjmKtz7NuqfdQirbQ/Y1oQ0QiDSLvjtaM/aK24K357hHt1+6ex8Zs9FjJlDxjf+42dhy+PuSeOE2lrYwN/E2LxGf9J5wfGOug8EGQ=;UcJIYzO/5SGjWlL+4rg8LQ=="
+secured: "o2wxDHW8xP5SSPjz3l8QZ3tvI/pus9b52xBtuC8SDAPrabHAMoBjCC0F3RIfEHn7zHn3vp7/zlV8GeDqEAV4oR05HUJFy3DeqrCQPF0tCyuI4to9dUadV3SMpyWA6z2InnSIiWvL+reW4Nv7lYM4iydKZhtMj6njMkQvbqJ6KKFtXnY/ghhSnvBHUcL9pREdRaTHoffT2dUPifQTKeGGmsDpVCwg/3bd3ViWXG+NLq/b/LBZxBc3mGSsG+x/W8GI6tXMSYVpNj7Qi/OAPbJ8NwdxiMCjiHEmgbwmIfq4td8H4F4ELcmtbd8gVM9P6jKM4N6KoO+5IectixAD1GT1O/8Oai/Er0/xMf8SmhmbLYLNXVhtzGFhNole6nIRI1FV+5IUBykfhsG8DovSvwB1krNG9CTX1L3wy1pCoV0nL5O5wcswH+42vMJHWGk8qtjmmI3fQ6XI/qmwY9RZGAgejHp1mC7TqZRU9dEBmOjPbaU73rm8Unam7mpH0fSkmV6QDkeEnlLqkTp2l9bE8dBPBg==;gJYgr6OKcBH1LICBYu762Q=="
 ---
 

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Vice President Mike Pence talks up Supreme Court nominee in Columbus stop"
-excerpt: "Vice President Mike Pence denounced attacks on Judge Amy Coney Barrett's religion during a campaign sotp in Columbus on Monday."
-publishedDateTime: 2020-10-12T19:13:00Z
-originalUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/12/vp-mike-pence-promotes-supreme-court-nominee-columbus-stop/5970066002/"
-webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/12/vp-mike-pence-promotes-supreme-court-nominee-columbus-stop/5970066002/"
-ampWebUrl: "https://amp.cincinnati.com/amp/5970066002"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5970066002"
+excerpt: "Vice President Mike Pence denounced what he sees as attacks on religion by those opposing Amy Coney Barrett’s nomination to the U.S. Supreme Court during a campaign stop in Columbus on Monday ..."
+publishedDateTime: 2020-10-13T16:24:00Z
+originalUrl: "https://www.dispatch.com/story/news/politics/elections/2020/10/12/vp-mike-pence-promotes-supreme-court-nominee-columbus-stop/5970066002/"
+webUrl: "https://www.dispatch.com/story/news/politics/elections/2020/10/12/vp-mike-pence-promotes-supreme-court-nominee-columbus-stop/5970066002/"
+ampWebUrl: "https://amp.dispatch.com/amp/5970066002"
+cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/5970066002"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: Columbus Dispatch
+  domain: dispatch.com
 
 topics:
   - Election
@@ -122,6 +122,6 @@ related:
         height: 683
         isCached: true
 
-secured: "fVetAAifEMoOhXgv3uzRRz/4K4ukQOV2bzA3QMVdXaQ533ISLrN7a1YC4llvWC0rJ9dT4tKDaj6YxIvsEWavt9nBxaDr3FM+UYO+83xadKKqV539HHHHU5TzO2SCX2jiqOYOy7vMVu224Lr/m1BldrtPFJ0KIBD7rjYIgD6fgqOFx/zPxSlAwEZK0MboymNqGdK6AiiHyssk7Zoi1QDGMRGAQxFSnxaPUahQ+2Q2yWEDJ4OipU8F1zKZ0C8mUpbld/Ho8OaSdN2l+2jdDeMim/m9g/r+cHhU96hCqn3gDWT8hU3kAgnbSo9rG8w6UatKJrMJqQjV1CajxanTexFi7uaQX4gL6lpBPn+TV38I6QkHXPJitQiblj2MdochtmGoE4MTrU8EijxuXWqw43Gi62fhwi+BrYNCKD+FG1n7WQ0LaJEouwot1wUx40JM+F9R9IQKgSnxoRVXvsNr0/GSjvwIFBd8UhONB8k8FduZQeewBtvVbuW9Q25dfPXJ/e13pH5fsr5clidl9WOlAF6wNQ==;0HCik1GVB1vv3+Zm/1UB4Q=="
+secured: "iNnef9mNxWgy5LBaS5XaLsajk1Dd4M4jXEtI3KJnRxSw4wYsIAWzzfXuS4q5AbYh3sz3zOfz9+kHMh8v7ORGDfWbMBekZXD+30lWhfW/VxDMH6alCgJyvKgU/hqPOFxOjkm+z3a6V4lMghWn4Ja/iDYmUbDxNIBGyEjgpT67RR2y5ClgxoXQKx3pzbgn0Jm4u2i012RHb5vlPb/jKMrgG3T3mzt6Ic49Snomb0hba87BUYmunencoM5/VIdAqAc3zlxQrQieJEJs+dzPACDSnCum/+fpuSLwtz50pp1BbhxlvxCt7p8B0GwVoz4iJcpJQLWFrfAOx9BkJuXi2QL9QIwlivIZ0FoyHe0iEpQTBpY=;oAqk6d4vO1AHDDZSkWTJoQ=="
 ---
 

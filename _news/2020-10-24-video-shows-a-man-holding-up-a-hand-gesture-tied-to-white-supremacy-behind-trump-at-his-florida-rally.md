@@ -570,22 +570,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Donald Trump said wind turbines kill 'all the birds.' Cats and radio towers kill far more."
-    excerpt: "President Donald Trump's claim that wind turbines pose a great threat to our avian friends is dubious at best."
-    publishedDateTime: 2020-10-24T02:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/23/trump-biden-during-2020-debate-windmills-kill-all-birds/3744837001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3744837001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3744837001"
-    type: article
-    provider:
-      name: Florida Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Vice President Mike Pence to stay on campaign trail despite outbreak of COVID-19 among his senior aides"
     excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
     publishedDateTime: 2020-10-26T20:33:00Z

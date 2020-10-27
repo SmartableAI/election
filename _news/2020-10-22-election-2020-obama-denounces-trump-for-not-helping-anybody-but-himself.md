@@ -1547,6 +1547,22 @@ related:
         width: 2440
         height: 1312
         isCached: true
+  - title: "Donald Trump Criticizes Biden In Latest ‘Sleepy Joe’ Tweet And Voters Respond"
+    excerpt: "Joe Biden was seen to be in a 'mental fog' on Monday after speaking to reporters in Pennsylvania, according to President Trump."
+    publishedDateTime: 2020-10-27T18:50:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 87
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/26/democratic-presidential-candidate-joe-biden-has-savaged-president.jpg"
+        width: 1024
+        height: 627
+        isCached: true
   - title: "President Trump, Mike Pence planning final campaign surge in Arizona next week"
     excerpt: "In the final days before the November 3 election, President Trump’s campaign is planning a final surge in Arizona."
     publishedDateTime: 2020-10-24T06:09:00Z

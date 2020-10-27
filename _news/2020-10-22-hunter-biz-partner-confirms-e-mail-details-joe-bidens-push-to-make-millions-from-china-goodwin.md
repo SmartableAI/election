@@ -76,6 +76,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Melania Trump tears directly into Joe Biden as a 'socialist'"
+    excerpt: "First lady Melania Trump tore into Joe Biden’s “socialist agenda” in her first solo campaign appearance of the year on Tuesday and even slammed Democrats for a “sham” impeachment. "
+    publishedDateTime: 2020-10-27T21:54:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u6dtLg01lkA/melania-trump-joe-biden-socialist"
+    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-joe-biden-socialist.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-joe-biden-socialist.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Melania-Trump-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Obama unloads on Trump at rally for Biden: 'We can't afford 4 more years of this'"
     excerpt: "Former President Obama repeatedly took aim at his successor in the White House as he campaigned Tuesday for Democratic presidential nominee Joe Biden in the crucial battleground state of Florida."
     publishedDateTime: 2020-10-27T17:48:45Z
@@ -203,6 +219,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ece5c9a-651c-46db-b47f-755e18f7e523/5133f7d3-7d2e-4430-b650-ea3546d339ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden makes plea to ‘unite and heal’ the country during stop in Georgia"
+    excerpt: "Joe Biden, playing offense in a long time red state turned crucial battleground this year, made a closing campaign pitch on Tuesday for national unity to rise above what he called the division President Trump’s sown during his four years in the White House."
+    publishedDateTime: 2020-10-27T20:10:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4K5BdjTl8Po/biden-plea-unite-and-heal-the-country-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301662617518.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump continues swing through battleground states with stop in Pennsylvania"
     excerpt: "With the November election exactly two weeks away, President Trump is continuing his tour of the pivotal battleground states with a campaign stop in Pennsylvania, where he's currently trailing Democratic rival Joe Biden."
@@ -409,6 +441,22 @@ related:
       - url: "https://images.wsj.net/im-249427/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Biden makes plea to ‘unite and heal’ the country during stop in Georgia"
+    excerpt: "Joe Biden, playing offense in a long time red state turned crucial battleground this year, made a closing campaign pitch on Tuesday for national unity to rise above what he called the division President Trump’s sown during his four years in the White House."
+    publishedDateTime: 2020-10-27T20:15:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301662617518.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden's early White House transition plans negotiate pressure from both ends of political spectrum"
     excerpt: "Democratic presidential nominee Joe Biden has not yet been elected to the office, but he's planning his transition as though he has been."

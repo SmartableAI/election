@@ -377,22 +377,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Kamala Harris blames Trump for COVID-19 'mass casualty event’ during Michigan visit"
-    excerpt: "Democratic vice presidential nominee Kamala Harris said President Donald Trump’s handling of the coronavirus pandemic caused the “greatest mass casualty event s"
-    publishedDateTime: 2020-10-26T04:15:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 84
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GJWXLVLC75EXNLWNT2JDQ3BBFM.JPG"
-        width: 4992
-        height: 4006
-        isCached: true
   - title: "Trump Wants to Cut Democrat Cities’ COVID Funding—During a Surge In Cases"
     excerpt: "The proposed cuts come as apparent retribution for Democratic mayors not “dominating” their citizens protesting this summer."
     publishedDateTime: 2020-10-21T15:48:00Z
@@ -510,6 +494,17 @@ related:
         width: 928
         height: 523
         isCached: true
+  - title: "If Trump Wanted People to Avoid '60 Minutes,' It Didn't Work"
+    excerpt: "Angry about his interview with Lesley Stahl of “60 Minutes,” President Donald Trump released an unedited version of the talk on Facebook three days before the broadcast."
+    publishedDateTime: 2020-10-27T21:37:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-27/if-trump-wanted-people-to-avoid-60-minutes-it-didnt-work"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-27/if-trump-wanted-people-to-avoid-60-minutes-it-didnt-work?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-27/if-trump-wanted-people-to-avoid-60-minutes-it-didnt-work?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "cTm0IkQRt00gA6J/mvLEg8k2/NaqECwmNxSzw0yAkWdGiC7H1zpZhEC5dQIm2zpL0DvHLGhj0YoEsWybBecmRu+uCPooXXtDKYiJABdzh/qoxtL+mKlzGIyNAWmJk5Vt/sSjhTt3+ZQwzgHsWOjJBZ+SgQ0d5lc/UrScAx4/wpbSmEM3DyKyD3/qi5gvrGZYfKhV/P9p5PEodpfvv/2VQZ64gzwOajdKSspal1an6kcUKwuL8YlLn3Y2USWfKf8xmRsmvlBMEEyZBLIWmsKFTj7O9wYm2CPX9Owv6eOwYz7Fx7hYNbcydXkBTrEZJoA/g8bPhbqb41SWH5oKsJon6spzM+qzYsdeEh/zWKAyTa0=;LlIy3HhLpdPJvAUjcZP8BQ=="
 ---

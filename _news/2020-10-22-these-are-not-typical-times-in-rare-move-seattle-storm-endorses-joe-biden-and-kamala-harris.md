@@ -118,6 +118,22 @@ related:
         width: 804
         height: 545
         isCached: true
+  - title: "WATCH LIVE: Sen. Kamala Harris makes campaign stops in Nevada"
+    excerpt: "Joe Biden's campaign intends to use the final week before Election Day to go on offense, planning stops that may put President Donald Trump on defense in other states he won four years ago."
+    publishedDateTime: 2020-10-27T20:21:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-sen-kamala-harris-makes-campaign-stops-in-nevada"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-sen-kamala-harris-makes-campaign-stops-in-nevada"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-sen-kamala-harris-makes-campaign-stops-in-nevada"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-25T202015Z_387641121_RC2WPJ9QKW2E_RTRMADP_3_USA-ELECTION-HARRIS-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "The Countdown: Avengers stars quiz Kamala Harris and what to wear to vote"
     excerpt: "Thirteen days left and we look at what you can wear when you go vote and who gets to question Kamala Harris. It was Democrat vice-presidential pick Kamala Harris's birthday yesterday and the cast of the Avengers held a fundraiser over Zoom where they got to question her."
     publishedDateTime: 2020-10-21T17:26:00Z

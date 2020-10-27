@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Scaramucci blasts Trump's rhetoric and handling of COVID, says president 'has a screw loose'"
+    excerpt: "President Trump destroyed the U.S. economy with his botched response to the coronavirus pandemic, former White House Commuications Director Anthony Scaramucci told \"Bill Hemmer Reports\" Tuesday. "
+    publishedDateTime: 2020-10-27T21:03:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Q1qtAFjTl0/anthony-scaramucci-trump-rhetoric-covid-screw-loose"
+    ampWebUrl: "https://www.foxnews.com/politics/anthony-scaramucci-trump-rhetoric-covid-screw-loose.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anthony-scaramucci-trump-rhetoric-covid-screw-loose.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c0b29c07-db17-4aab-a106-2ee2144a099f/930a6ea0-14b2-4900-87cc-f3a92b3501c0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "First lady Melania Trump will not travel to PA rally due to 'lingering cough' after COVID battle"
     excerpt: "First Lady Melania Trump will not accompany President Donald Trump to a campaign rally in Pennsylvania Tuesday evening due to a “lingering cough” despite having recovered from the novel coronavirus."
     publishedDateTime: 2020-10-20T17:44:36Z

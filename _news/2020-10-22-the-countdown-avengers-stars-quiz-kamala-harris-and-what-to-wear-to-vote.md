@@ -127,6 +127,22 @@ related:
         width: 804
         height: 545
         isCached: true
+  - title: "WATCH LIVE: Sen. Kamala Harris makes campaign stops in Nevada"
+    excerpt: "Joe Biden's campaign intends to use the final week before Election Day to go on offense, planning stops that may put President Donald Trump on defense in other states he won four years ago."
+    publishedDateTime: 2020-10-27T20:21:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-sen-kamala-harris-makes-campaign-stops-in-nevada"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-sen-kamala-harris-makes-campaign-stops-in-nevada"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-sen-kamala-harris-makes-campaign-stops-in-nevada"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-25T202015Z_387641121_RC2WPJ9QKW2E_RTRMADP_3_USA-ELECTION-HARRIS-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Kamala Harris to Campaign in Texas, First Dem VP Candidate to Do So in 30-Plus Years"
     excerpt: "\"Texas is not a battleground state. It's that simple,\" former Texas Gov. Rick Perry said of Trump not campaigning in Texas prior to the election. Polls show the race as very tight."
     publishedDateTime: 2020-10-25T22:52:00Z

@@ -560,22 +560,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Donald Trump said wind turbines kill 'all the birds.' Cats and radio towers kill far more."
-    excerpt: "President Donald Trump's claim that wind turbines pose a great threat to our avian friends is dubious at best."
-    publishedDateTime: 2020-10-24T02:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/23/trump-biden-during-2020-debate-windmills-kill-all-birds/3744837001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3744837001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3744837001"
-    type: article
-    provider:
-      name: Florida Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
     excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
     publishedDateTime: 2020-10-24T09:12:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hil
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
 type: article
 quality: 109
-heat: 169
+heat: 149
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://i.insider.com/5f90ed74abcd0c0018d68f6e?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Joe Biden's polling lead is considerably stronger than Hillary Clinton's was 6 weeks before election"
-    excerpt: "Any mention of the word \"polls\" when discussing the 2020 election will evoke the predictable, and semi-understandable response of \"The polls are meaningless! They were way off in 2016! We can't trust the polls!"
-    publishedDateTime: 2020-09-23T18:31:00Z
-    webUrl: "https://www.chron.com/politics/article/Joe-Biden-polls-lead-averages-2016-Clinton-wrong-15584094.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/51/02/71/10759807/3/rawImage.jpg"
-        width: 2048
-        height: 1440
         isCached: true
 
 secured: "D6FoDfuhSw4w8bKh5b+uFai+NJ++V8ofQ9oDmR4nGD4JjMIpd0leZXna5HoOft4JOZHNpsYgSgOHUdGbTkskoyIbDZdQv77y5ebXdZHKmLOSKEhi0PiGryxfJ01ysuf/1Q+wi894JMXd72mAjSvPxLjY/bOoHK31iXemndnFdlRnZk1+Ac3SWQAFIo6LFo53JnqHxt1/niiDxwW50guHmI+I+Qugo5fPKWlESX9ICVGxlwVt051u8WYOncvU49QqRJxtExQX5L8F7WFS4UYltY3+UDBuigSqtzYF2zYMHXrbu3U4aaDqSxF3k58jbAGgiTMtU3wkx+3r8osQeWXpEdNBe4pfusSwVnblTyxF5zq9nlRq+QEtirUsaIcQwbeitnkot42B8/tBq+2sxMOHVZCAkaMm80D+25+a2mS5xjaqx3FhpGuclvU8+yK5q8PQR4idOXkosjoojMnmNTocHdwz5mQhCVrB8ZtmxOxGCYBp8Rg11U0qqSb3mSvYcdoT0zOjz8gx6Ir2z+5TYjvAfw==;va9lQGwYpDcV6sOhqR+E4A=="

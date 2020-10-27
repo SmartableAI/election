@@ -25,53 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why."
-    excerpt: "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small."
-    publishedDateTime: 2020-10-18T18:48:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
+  - title: "Joe Biden visiting Wisconsin for 3rd time, a key swing state Hillary Clinton lost in 2016"
+    excerpt: "It's been over a month since Joe Biden has been to Wisconsin-- a key swing state that critics say Hillary Clinton lost because she didn't pour enough time or resources into it. But that will ..."
+    publishedDateTime: 2020-10-26T23:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 109
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 116
     images:
-      - url: "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The FBI is investigating whether purported Hunter Biden-Burisma emails were part of a foreign intelligence operation"
-    excerpt: "The news comes shortly after it was reported that one of the sources of the emails, Rudy Giuliani, was a target for Russian intelligence."
-    publishedDateTime: 2020-10-16T03:43:00Z
-    webUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f2232ad40c1f34f271cefc4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Hunter Biden emails were reportedly shopped around in Ukraine for $5 million, while Giuliani met with officials and businessmen there last year"
-    excerpt: "Two people told Time that they were approached with the emails, and one said the person making the offer already had a buyer in mind, Trump's allies."
-    publishedDateTime: 2020-10-22T05:21:00Z
-    webUrl: "https://www.businessinsider.com/time-hunter-biden-emails-shopped-around-ukraine-last-year-5m-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/time-hunter-biden-emails-shopped-around-ukraine-last-year-5m-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/time-hunter-biden-emails-shopped-around-ukraine-last-year-5m-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/5f90ed74abcd0c0018d68f6e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/biden-event-04-rt-jef-201026_1603746299117_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "as0JT0b69tRw9WDyOzwTNCFNq8xRjG06JvRXWRjbByDt7KtD/b6pquQAPzRseXiUQWnFPurDebeL2JchgnV295rqLhhbtmP5WBP1Bf6uNgJJT9iWJK4Yzk1WVymBnW6UuF5W6pNpHI6dsvDmFyav/yywGL/NiD4I8CIFHVagzv6A1xwfOEq0VpzvVjVdHgZToaqMKihFgeUwQJbxvRTDvCQZHQnbVKAGs1/4Eu/SWBoq5uo+iUhCAnnUlYSjqTkUtFvOrF6hYmC/H13DK4XO5c0VexZ5IWhyYhJlHdGH4Qunfy2SznPUvTIBdwip03H5IyxYuCA54gWsJJsFzfnwOMJqzRDuXp06BOJOY90mkWvm6GdzHSXMCiGB9fa771nhnlcO+rZDPHc0UNP04dnLGInwrJDHDhoVjJ45tNx9RDQC72CU3qRqwufsvM935nUSF7+rpuet8BHIvZIf1kX+13xSjtJJ3nFEbiqWH0NKOaq3WXV8mtsTfPEZreLgJzpkwWYqaQsLLJNV1XqQmSjO6A==;s2LIUop4tD1WUi3NH4Nm1w=="

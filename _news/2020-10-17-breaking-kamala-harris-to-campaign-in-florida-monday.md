@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.palmbeachpost.com/amp/3693432001"
 cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3693432001"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 135
+published: true
 
 provider:
   name: Palm Beach Post
@@ -27,21 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump on Kamala Harris: U.S. won't have socialist president, \"especially a female socialist\""
-    excerpt: "President Trump was back on the campaign trail Friday in his \"home state\" of Florida after the second and final debate against Democratic nominee Joe Biden. Mr. Trump is trying to win over seniors and women,"
-    publishedDateTime: 2020-10-24T02:59:00Z
-    webUrl: "https://www.cbsnews.com/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/"
+  - title: "Kamala Harris to make two stops in North Carolina Wednesday | Charlotte Observer"
+    excerpt: "Kamala Harris will visit North Carolina on Wednesday, almost a week after canceling a visit due to COVID-19 cases among a staffer and flight crew member. A brief statement released by the Joe Biden presidential campaign Monday said Harris plans to visit Asheville and Charlotte."
+    publishedDateTime: 2020-10-19T15:41:00Z
+    webUrl: "https://www.charlotteobserver.com/news/article246555648.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/article246555648.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article246555648.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 129
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/20/021f18e6-a586-49c0-9a21-c58e187d4dc3/thumbnail/1200x630/5002ee90f26625444a995cd674070d36/gettyimages-1229173896.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/a3270031-586e-48ae-9de2-0b9a14248687/01c7d70f-98b4-4b30-8887-d9631f2436e7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Beyoncé, Kerry Washington, Kamala Harris and More Celebrate What Would've Been George Floyd's 47th Birthday"
+    excerpt: "Today marks what would have been George Floyd's 47th birthday. In honor of the occasion, a score of celebs posted tributes to his life, his memory and his impact. Actors, public figures, politicians and activists all joined in on commemorating the day,"
+    publishedDateTime: 2020-10-15T05:43:00Z
+    webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/beyonce-kerry-washington-kamala-harris-and-more-celebrate-what-wouldve-been-george-floyds-47th-birthday/603-cdff26cc-6b54-4a85-a15a-c52638b58f77"
+    ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/beyonce-kerry-washington-kamala-harris-and-more-celebrate-what-wouldve-been-george-floyds-47th-birthday/603-cdff26cc-6b54-4a85-a15a-c52638b58f77"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/beyonce-kerry-washington-kamala-harris-and-more-celebrate-what-wouldve-been-george-floyds-47th-birthday/603-cdff26cc-6b54-4a85-a15a-c52638b58f77"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 57
+    images:
+      - url: "https://media.kvue.com/assets/ETONLINE/images/c6234b46-27b0-423f-a452-2daa2c3e2498/c6234b46-27b0-423f-a452-2daa2c3e2498_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Kamala Harris in Florida: where and when will she campaign?"
+    excerpt: "Joe Biden's running mate will resume her campaign in Florida as the Democrats look to overhaul the Republicans in the most vital of swing states."
+    publishedDateTime: 2020-10-18T20:53:00Z
+    webUrl: "https://en.as.com/en/2020/10/18/latest_news/1603050982_131904.html"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 55
+    images:
+      - url: "https://as01.epimg.net/en/imagenes/2020/10/18/latest_news/1603050982_131904_1603057692_noticia_normal.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "MWowSI692c2e9kofXLlCXaKE2dgvmQTUM6chV1TAjOaYyhJOHRlgTZu9XieqYR0DGzL/JmrcUwp0CX4HTmxjEfr/oO5ICO7lwXohpFEgF3bDUx+3aETkxT+hTK+6IKbGpcNDpOEEHXxUis/2Wp205b4TkwD+2FycPmtZOD6Ar/jmMrjTvVyY0vN2iCABaWg54VR5nt+zkZ7Bgu9n9ZBYpx3RlMOBHsEl8f/vFh3Ppx7N1s/eUdt1HucVA6T1L40YS55lad85uYGHFxGikrP00eme3M7QIp2S4KfOqgyARK0imDy2poWW6V6hCZj+H8AD1z1cAf8OfJAL/mY0X/C7ui0F3pgQH+F5NpXVM2Du/t5w3fBZZibdcMybXX+FV1rs9PxJfos/jD2A7ePqMxKWCNjpG21+ywvBzm1KVfNXlTvE6ei7sitBX+HP0ntXPA6ZdwgJRwtiFbqCAZglUtvM6v9AbN7k07o0pzSlVBdyRQenP2ESzoC8UHRP0g4vYWiaVo7PfokxSd8xuSME8EH06Q==;Z6nz5svZ2KmAuSe7bQvU/Q=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/42dd33d5-AP20294037644605.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "CBP chief warns of border 'invasion' with liberal policies, reversal of Trump-era efforts"
+    excerpt: "The United States could face an \"invasion\" that would make the recent migrant crisis seem relatively tame if President Trump's efforts are reversed, and Democratic policies incentivize illegal border crossings, Acting Customs and Border Protection Commissioner Mark Morgan told reporters on Tuesday."
+    publishedDateTime: 2020-10-27T21:33:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CUodJeQ3JD0/border-chief-warns-invasion-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/border-chief-warns-invasion-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-chief-warns-invasion-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44a905b2-ea8a-4885-9570-85adbfdd4a61/1813cccf-5c76-4873-ac15-1d76991887a1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pro-Trump hay bale sculpture crops up after Tennesee man's traditional signs were cut down"
     excerpt: "Hay is for…campaign signs. At least on one Tennessee man’s property."

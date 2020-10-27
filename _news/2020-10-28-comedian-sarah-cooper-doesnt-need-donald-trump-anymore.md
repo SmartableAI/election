@@ -568,22 +568,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Donald Trump said wind turbines kill 'all the birds.' Cats and radio towers kill far more."
-    excerpt: "President Donald Trump's claim that wind turbines pose a great threat to our avian friends is dubious at best."
-    publishedDateTime: 2020-10-24T02:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/23/trump-biden-during-2020-debate-windmills-kill-all-birds/3744837001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3744837001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3744837001"
-    type: article
-    provider:
-      name: Florida Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
     excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
     publishedDateTime: 2020-10-24T09:12:00Z
@@ -1578,6 +1562,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "JdG9WtBvTTG+B4A73XymD9WS0Tlh/KNe0PWq7tD+5RM0M3LNkbPlQrflOWmSFNAASHv+RfJiXLUEbYpmwB6k4hT2nTOduL2CI5wL+5F0L51P21JZUsbgKLZFAU9YYMGlcuyB0YUHlGqUtlVY+G84xh8olXGPEII25u2m/iXd6l4UWkrTb2wys0OvKfPgK2nXNlpwg2NHZqFlMEba0DV3lqFWpk54AjWmSgwby5G0WQ/iB3hKmmuf/H6rJWiiJv3bX3odMSYM+2mu1yjUpR3ogn2tZJ2aFnltI9yE3XFFgo8CghcLmPsjcbR7n1jZZ+IexaDZUYApYnp+Ag5Q10/ny98vqddL0+o7OZB996/ARl8=;wSa7Zz7IB6/xJntiV8SBzQ=="
+secured: "FtNaKIB3Y4bicfYmYX+6SzrtGMea60d0QfJG0eVlBT4jcNLpevzxeJRjajFB8LCOSczHxmTbkde3h0YkpLCF/weiHoduRkGBqIMrjyJ568tRsegBa35sGOMSfk2d2XFl7aeroWh4nFc+QouIq8y56TFzyJ0AUAHUuV8AJIdbfGurYxRB/PPIu0rzkllazJ2t69EdFDV9cGD+LelvYAYZa4/zxot7D8dWm/+c+JnwtInfITR0UWpCXFiynUi0GPB2+K2pEDBtyt7URrZmVG2xrBmc3XBGTTjXPSo/fAudfWacWDWZNNjgAaOWNlAabl8l3fvc5/PQbhHHGauONAsO4OpRfNW9DW5BC/gmHX3PqyrVLL0Din5gAUWRReWro6r8BVSTL3CsxEVhH6GnODxgIuB4rTnUTLx6yRPQhov3GRA8BZyUq5cInB7EiFJYNElIAisySxBeKoLQLM35JPrLVamcsR/6UzciTeAzPKUW3BOsaOMoPuOPc5FKWJOFJ09zaP3tVHS3tGjpP0Euk1+LgA==;IYFCrNoxmNgCJaDXwhJz1w=="
 ---
 

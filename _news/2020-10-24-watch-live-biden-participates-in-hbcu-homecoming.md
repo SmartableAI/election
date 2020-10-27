@@ -79,10 +79,35 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden makes last-minute plea to Hispanic voters in 11 states, including Texas"
+    excerpt: "With polls showing Joe Biden still doesn’t have enough support from Hispanic voters, his campaign has launched 5 new Spanish language ads airing in Texas and 10 other states."
+    publishedDateTime: 2020-10-27T17:56:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/65/42/20142261/7/rawImage.jpg"
+        width: 2048
+        height: 1451
+        isCached: true
   - title: "Joe Biden Remarks in Michigan on Health Care"
     excerpt: "Democratic presidential nominee Joe Biden delivered remarks on health care and the economy at a campaign event in Southfield, Michigan, a suburb of Detroit."
     publishedDateTime: 2020-10-19T06:17:00Z
     webUrl: "https://www.c-span.org/video/?477057-1/joe-biden-campaigns-southfield-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Delivers Remarks in Warm Springs, Georgia"
+    excerpt: "T13:46:02-04:00 a week to go to election day, Democratic presidential candidate Joe Biden delivers remarks in Warm Springs, Georgia, home to FDR’s “Little White House.” The former vice president says he’s running to help “unite” and “heal” the country."
+    publishedDateTime: 2020-10-27T18:43:00Z
+    webUrl: "https://www.c-span.org/event/?477413/c2020-joe-biden-delivers-remarks-warm-springs-ga"
     type: article
     provider:
       name: C-SPAN

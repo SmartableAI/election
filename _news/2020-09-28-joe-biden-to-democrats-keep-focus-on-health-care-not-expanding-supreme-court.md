@@ -143,6 +143,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "The Supreme Court Is Going to Be a Problem for Joe Biden"
+    excerpt: "A hyper-partisan court stands ready to oppose everything a unified Democratic government does. This is Bloomberg Opinion Today, a Supreme Court of Bloomberg Opinion’s opinions.  Democrats must decide how to respond to a partisan Supreme Court."
+    publishedDateTime: 2020-10-27T20:45:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2020-10-27/the-supreme-court-is-going-to-be-a-problem-for-joe-biden"
+    ampWebUrl: "https://www.bloomberg.com/amp/opinion/articles/2020-10-27/the-supreme-court-is-going-to-be-a-problem-for-joe-biden"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-10-27/the-supreme-court-is-going-to-be-a-problem-for-joe-biden"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imGTeqWHd_l4/v1/360x-1.jpg"
+        width: 360
+        height: 267
+        isCached: true
   - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
     excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
     publishedDateTime: 2020-09-20T10:37:00Z

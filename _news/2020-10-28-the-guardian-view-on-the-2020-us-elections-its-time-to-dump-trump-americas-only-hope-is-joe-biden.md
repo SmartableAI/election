@@ -1547,6 +1547,22 @@ related:
         width: 2440
         height: 1312
         isCached: true
+  - title: "Donald Trump Criticizes Biden In Latest ‘Sleepy Joe’ Tweet And Voters Respond"
+    excerpt: "Joe Biden was seen to be in a 'mental fog' on Monday after speaking to reporters in Pennsylvania, according to President Trump."
+    publishedDateTime: 2020-10-27T18:50:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 87
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/26/democratic-presidential-candidate-joe-biden-has-savaged-president.jpg"
+        width: 1024
+        height: 627
+        isCached: true
   - title: "President Trump, Mike Pence planning final campaign surge in Arizona next week"
     excerpt: "In the final days before the November 3 election, President Trump’s campaign is planning a final surge in Arizona."
     publishedDateTime: 2020-10-24T06:09:00Z
@@ -2007,6 +2023,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "cDDCBIulZZFwNYWzKilHETYTA0ltzd9uK6j+13HfG2JUxmlj7HWX+dR6Ss+vAIlmdC9MB2rFIPsLC87ehrGofGyC2q+xuLKIgWDEP+o/QxKEtyz9bT9bWseejXmSZhG2b+EjPkA9xliBFUPdOVqfv/uF8tlieMgZRMzFwAiCIyvMvbAGv8JlqpqDa2HvLDgyrSFwqh2MLrxHJUWF0IPEFmrlr5sCeU3HP2cR8qoQrRKj9Wzm4uIvni8SaTLWPD62QuBjeDL7zYBZHdfaoFBU1m5/JBz6pDN14i4dxyOrtwaXXpBzLcTvDGicX/GC5HQN34a561iML4FaYsD+ovMWEw1IGDS0mmfUyiCK5JrCuy0=;3gshD1Y45d9OppdbWRUZKA=="
+secured: "bj/8soeOs5U4KKEhaj5moXmC6JLlSK7xv8RgZ59jiohTf41IZLgNQ/78W5uLvyxfOT1Jq+fnDSa3nAq7xqQbY4eB8YeKttFMivpVEVwmhDKsNwXhzjKsgGeIFdyEBx1hBZT+F0nignVSzES+GflwTFSdWvLcR3y1PpOCFILop9ojfRI21bnmwQbjXehwCe5ki00CNzVK7+IDOJNWrfBQ4fnBZs/Y9phlczgDDviQ5OjKzaw8rQjK6rPjHg8LtaJnoqID51m/WEyHemOzKE+YjD0MQ1Q8hDzf3xklnWELzD+//JgAKa6N1uyjrzggK9NdTklkR92MXpxI/UCtXF91sqCd04l5Bu+7Dc2hGC1k2apt/5ouVjj5sHv54btwASSSAZJK/wa80Si+FpZXxCWLNh/0OiESHW5mwwpoEszYCaJVY1z0fTpgOgJpeKkWFkbc8zz+8pZais2ZycIskd9MXWpM8MZgCW9CnYsUb8P+/iQ3r+3XlBuqh0I/cfjwqCi5p04kX9ZBsTBu6ir5jWZM8w==;Sm59GkuN9DbQrAOvTNP5vg=="
 ---
 
