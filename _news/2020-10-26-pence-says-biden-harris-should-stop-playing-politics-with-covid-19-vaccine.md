@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-says-biden-harris-should-stop
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp"
 type: article
 quality: 223
-heat: 463
+heat: 483
 published: true
 
 provider:
@@ -207,6 +207,20 @@ related:
       - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Kamala Harris Laughs When Asked If She Would Bring \"Socialist Or Progressive Perspective\" To Biden Administration"
+    excerpt: "During an interview on CBS’ “60 Minutes” released Sunday, anchor Norah O’Donnell asked Sen. Kamala Harris about being listed as the \"most liberal\" senator by the nonpartisan GovTrack website. \"What I will do,"
+    publishedDateTime: 2020-10-26T14:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/26/kamala_harris_laughs_when_asked_if_she_would_bring_socialist_or_progressive_perspective_to_biden_administration.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/52/525183.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "fbVDxuTenP1egtrcyF5cWQnKcUSTh7znMPjjDYRk+cg32G0RZpLEbATU7F0AqYRh6huR4eKLxso/kIgBFu3eKfhdMFMq1JtVMRVbAu0PfD/7Uo90upnZFNDe5CkYSFtZ/tYd/06ZxWF7PWSYEoTRFKWM0jR1dKLdL28iNVPluDOYBIJclJ+ykXsx3Tu1Wdz0JcQ3QPvtbREYYb4HUKTxpbp51FVQt4+Q8PADDXsfAcIFsspJ8ja3kVlYiXCHsmEjtw7wdIxhDEkh3VR5nFs7zYU+UPNdDFDyIIfA26+H8b5BFk174jFaVSOBTgX/xSBGnZS1TgYKlF2U/9aQiIGyoQ/9fKxCTVpKojeT4nStYGQ=;+VRKS3hftsdvyne4EHqhFA=="

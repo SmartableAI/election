@@ -206,6 +206,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Kamala Harris Laughs When Asked If She Would Bring \"Socialist Or Progressive Perspective\" To Biden Administration"
+    excerpt: "During an interview on CBS’ “60 Minutes” released Sunday, anchor Norah O’Donnell asked Sen. Kamala Harris about being listed as the \"most liberal\" senator by the nonpartisan GovTrack website. \"What I will do,"
+    publishedDateTime: 2020-10-26T14:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/26/kamala_harris_laughs_when_asked_if_she_would_bring_socialist_or_progressive_perspective_to_biden_administration.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/52/525183.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "l9/4vVyvHBy8J26YrZ1GCIlYfwH38IKgBzmSp0v6C2d/+zPyzrwU8SGYldgYXlItAm/tTXZfyx0ma5hakjxyPJ3F1N2L093TE04tvmpDARi0QWBANHjKkIW3ya9l1GLLK2mnPnsHmEpA/IkQWzS+RCJ3bvfUxCK8yLtIznp/DLk4/ctmlVIbsWmYaOvcamuBowxHjXtZ14yxvY62Gzb+GTj1vynkB1M/uOyOFR6+Cn5q1/OxmFHCmBigqGs1gVVq2tbXaVXDjAZbfIrAnf7ZCQB9hygP1+M3f1BOCQsXAK2QOZbBtzzSA0PVBgxYr3A1Fg6Sb0KdrEFi9uAMZnt+S2C2Ob4vMci6p2Z8BohzBJoE9/ZBJMY0w2ZcyrqV/tS8Rn5IRXZeHcNChMXP1Zha86RCGVZ/UmE82ZG0moppgHfrRWdErIupvuViptHmHJnh+6FqOfnFa0ZGIY/LbzkXT07y2LLxS3/ZjmO7TtuLOgWSHvYYWe3uVKLTv3qF/JgetStcaMx3gpzxF9OMwtIrPQ==;5AoDQ7nt1xDTeBPgHfePtg=="
 ---

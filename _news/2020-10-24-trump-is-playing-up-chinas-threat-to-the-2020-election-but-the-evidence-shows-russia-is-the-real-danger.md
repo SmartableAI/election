@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/china-russia-trolls-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/china-russia-trolls-trump-election-hnk-dst-intl/index.html"
 type: article
 quality: 172
-heat: 172
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,40 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "The Point: This chart shows why Trump is *so* dangerous to the GOP"
+    excerpt: "Win or lose in eight days' time, President Donald Trump's lasting legacy on the Republican Party will be a shrinking base that looks less and less like the country.\n    \n"
+    publishedDateTime: 2020-10-26T22:32:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/clzMhlHtFIQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/gop-shrinking-support-trump-graph/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/gop-shrinking-support-trump-graph/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142442-02-trump-rally-pa-1026-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Chuck Todd: “This path is more treacherous by the day for Donald Trump”"
+    excerpt: "To win re-election, Chuck Todd shows that President Trump would have to win in all four of the following close states: Arizona, Pennsylvania, North Carolina and Florida."
+    publishedDateTime: 2020-10-23T00:06:00Z
+    webUrl: "https://www.nbcnews.com/now/video/chuck-todd-this-path-is-more-treacherous-by-the-day-for-donald-trump-94442053697"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94442053697"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94442053697"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/ott_now_debate_trumppath_201022_1603413994454.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "tDMXDf2eTYkxfodhVVVp+ApCVgJYnKJrQV3L/NcH32H3U6mzlxWWcSlHeb6YAkYNHP48I6wPByyJ5zmVcXWndYj7YKiMu+bJfHGjHuh4G32SAqdjSR8y6aBngSAVrI843y+Py2y9uZ3g6iarYa6EKxj3vCizX9EjDc8ShHXbB4ZcQ8phqbFqBlQ/P5LVY8pDaowtMz4tU1noH3W8qUbLdQvT2LlPqqY5YbEW3Gc9CL5hcACG5czD/6U4JQZg6ORNiY2L1wdc21wfhtYwzzrkJEuzx659JFID9oYqwX3KBMc1e7vbLGI+39iPJzeeFnFKmovFTeUiKBY6e2x6hF51l9OmD8dsfpQKDbYELjYWxPA=;jQLLCVME9lMJA1EwwTWixA=="
 ---

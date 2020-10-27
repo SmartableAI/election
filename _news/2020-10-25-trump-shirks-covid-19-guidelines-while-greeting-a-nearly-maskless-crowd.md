@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-ma
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Minnesota reports three Covid-19 outbreaks related to Trump campaign events in September"
+    excerpt: "The Minnesota Department of Health is reporting three Covid-19 outbreaks related to Trump campaign events held in the state in September.\n    \n"
+    publishedDateTime: 2020-10-26T22:29:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HYxcc82-A9o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/covid-outbreaks-trump-campaign-events/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/covid-outbreaks-trump-campaign-events/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924114945-01-trump-bemidji-mn-rally-0918-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Saturday Night Live' sees Trump as a man without a Covid-19 plan"
     excerpt: "Live\" hammered President Donald Trump for his lack of a clear plan to combat the spread of Covid-19, opening with a spoof of the last presidential debate. It featured Alec Baldwin as Trump, Jim Carrey as Joe Biden and SNL alum Maya Rudolph as moderator Kristen Welker,"
     publishedDateTime: 2020-10-25T12:27:00Z

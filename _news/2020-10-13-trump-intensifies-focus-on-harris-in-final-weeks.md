@@ -2699,6 +2699,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Kamala Harris’ facial expressions during vice presidential debate go viral"
+    excerpt: "Sen. Kamala Harris let her face — eye rolls, smirking, scoffs and all — do all the talking during the vice presidential debate Wednesday night, but some experts believe it could cost her with ..."
+    publishedDateTime: 2020-10-08T17:33:00Z
+    webUrl: "https://nypost.com/2020/10/08/kamala-harris-facial-expressions-during-vp-debate-go-viral/"
+    ampWebUrl: "https://nypost.com/2020/10/08/kamala-harris-facial-expressions-during-vp-debate-go-viral/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/08/kamala-harris-facial-expressions-during-vp-debate-go-viral/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/kamala-harris-face-02.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Michael Keaton says Joe Biden should no longer participate in debates, criticizes Trump for being unprepared"
     excerpt: "Michael Keaton suggested that Joe Biden refuse to engage in further presidential debates after he “won” the first one on Tuesday against Donald Trump."
     publishedDateTime: 2020-10-01T12:38:00Z

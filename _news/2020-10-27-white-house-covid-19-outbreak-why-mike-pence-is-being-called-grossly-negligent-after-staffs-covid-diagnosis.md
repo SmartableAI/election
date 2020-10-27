@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Vice President Mike Pence's chief of staff Marc Short tests positive for COVID-19"
     excerpt: "\"Vice President Pence and Mrs. Pence both tested negative for COVID-19 today, and remain in good health,\" Pence's press secretary Devin O'Malley said."
-    publishedDateTime: 2020-10-25T04:13:00Z
-    webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3b"
+    publishedDateTime: 2020-10-25T05:20:00Z
+    webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?ftag=CNM-00-10aab7e"
     ampWebUrl: "https://www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
     type: article
@@ -158,6 +158,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7YepiCEI6wlAqsTKh/Y/SRaIrQttzlP8AD+chMGSf7KqXVIzsxSvZh2gZ174N5+ibOc5pKLjSTQjeaLIKGHoD75pDI8WXCqfWKXOPHq0oMkadXOz0KrWg9UQqUq8vH3/ULfRmoWhbhrA2h3HrP8QV13OfnYC5PJwTA2IwhkOiwqzsDbF8//cYjexmIKQJVt6NDP+Im37pSPzBODbL8BcuDR6IuDiv2sOdXV/fWRAvRViFjPHvghZhvDiElxAre67Hr77VoTOapknFW6duWxSuwB91vX8o8X3UpWbnjbTqx9JDWL/KYRikfqVGK9n6e97zPqELZvJxGpPmc5YJYjf7Fw3IeFGN7FlUpoH++hsz9E=;0QITSVP2Du6wc8KgO7UTBA=="
+secured: "3Ba0MLw7uynSOuPKH+JKiTpxjctNPtthn6l+Vr9+Y7bwPTlh56mu/WICsYBcEFqrbwidCtBjH0Bh+237XjsTBhAI7FfaYzDPizjIQx8Bq8ysmn7vgYftwanJTv9oXtxv6dHXguFmb1cmjZUkvVvRRPk5qd/Kih2FSN5QzSsTKilASpQTQLIC8eqbsBjVaKVAIqrtJB9ehjui3EoDtHNjCt8l3StYzadBj1UHh2Fkg2qkfq2uWXFYi5AtrJ0ZYTiJUazXr3gn0oZbLTBAXFa55P2A5ocqsqnA17fQzJJIh7zhfs25zmtyJwTEYcduaw/PvFYCYZOgdEa19nt5n+pWLskjTtwNC3Id/DrJ3Wvx6i4V/hgN/IKwBI4QR+8shG/Df5TE+4s8B7waiWNujmWz2YKaBmqo86TAMhrKF+Gzv0YnT50xif3cDPBIam7gwaQHulPS0ZQWLjCUTTe/aDI0LStJdAa2OBaB/je6ZxGwmGGjehMUfeJC23PMENJ8KlEf91SWKOr8QUg3l/6Z1TsAQg==;pPli/F6Ju5BvCZMR0aNGFw=="
 ---
 

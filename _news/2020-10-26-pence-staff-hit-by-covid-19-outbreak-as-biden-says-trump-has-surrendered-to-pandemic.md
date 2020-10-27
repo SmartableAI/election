@@ -2,11 +2,11 @@
 category: news
 title: "Pence staff hit by COVID-19 outbreak as Biden says Trump has surrendered to pandemic"
 excerpt: "Vice President Mike Pence campaigned on Sunday despite a COVID-19 outbreak among his aides and President Donald Trump claimed progress as the United States set records for daily infections, prompting Democratic challenger Joe Biden to accuse Trump of surrendering to"
-publishedDateTime: 2020-10-26T03:20:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election/pence-staff-hit-by-covid-19-outbreak-as-biden-says-trump-has-surrendered-to-pandemic-idUKKBN27A04U"
-webUrl: "https://www.reuters.com/article/us-usa-election/pence-staff-hit-by-covid-19-outbreak-as-biden-says-trump-has-surrendered-to-pandemic-idUKKBN27A04U"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27A04U"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27A04U"
+publishedDateTime: 2020-10-26T14:49:00Z
+originalUrl: "https://www.reuters.com/article/usa-election/update-3-amid-record-u-s-cases-and-new-white-house-outbreak-trump-claims-pandemic-progress-idUSL1N2HG0D6"
+webUrl: "https://www.reuters.com/article/usa-election/update-3-amid-record-u-s-cases-and-new-white-house-outbreak-trump-claims-pandemic-progress-idUSL1N2HG0D6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A04U"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A04U"
 type: article
 quality: 148
 heat: -1
@@ -5081,6 +5081,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "eOwucaRzd9XvD+Bh3gmEarG7QPQilfG3mNf3igrlUAkn/NiK8QLWdVOKD5Q6eURDPT/UeteV3eMy7GHXQ7Eq1a8uGMoYfeqR0BeYfv94kOkLN+yAzOcvmDrvoAaBSLT3Qtv7HSGzOnmHIV22FZezJARV7jkA70NYjyeekzH6NswC6xbpOvkbyJHC+x/qMfLKWE/fIU54pS0lnAFF+ylQ8mGeWDcB4HXaXQiD1tt+UHVvIPkZlX5QUg/zfRejfz3k/iDHv+6XxkFhlFQmmFaeVfbjk2rhPi4NFuhxvSZgUvH4r8kD+eM8ueZeLZQxKI8wxG9OLIa+TExVbSmEGjyIDEBoFqYmkrI+a3cO8YwQcx/bMAhuPQGyycVhtBHmVQQFacn83enj8fk0+mF8GjgDZtxQl+FsygoLMMgRWG7B4MDAjRWRJXFc7BVYYbcta6B2O+Oi38tcHt9Zq4PqMKlUQYq3xytQ2HP051SCFrHsSp4zUdWjIU1tvCpwRh7HmEonvP+cT3f6DRwurTiD8WFRCg==;O3/JTW23SpJKVxkVXK2mhw=="
+secured: "5wSmaoynyibyjN9hMvRECdJTrt1owGM/O0Dhw2QrGP7HEZ9FohhBMNEYN6RN8C2FlDx/Q4CwOiFSkaDnh8GFAYrAfiPo0uEU7ZuMOheF3gPgtdEl6mhZCSlBFy4MByYA4on/vGtNJY4VayQjjOjo3iodIdnAvL8Tn5mg5n/rpTjelwfZvgvP2py0xAGggXWsx/cXRTb2d+pbykkXST55vEodLrMYf4+1q6UaviHFEkRRrBPjvHh6kk+qLqSD0MDg2uPKg6QJhgde9bEm8Tf3jihyWGEJxUGdt/fTiM6LcslKspZbtTLGHn8LsVP9qcApWeKJktu08rFI/bPFpAyNf59c+YIAhBxd7KoitvfT9lA=;iRC3mty3z2WGUjQfPbvk+w=="
 ---
 

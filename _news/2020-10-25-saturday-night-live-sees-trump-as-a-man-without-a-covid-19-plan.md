@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Minnesota reports three Covid-19 outbreaks related to Trump campaign events in September"
+    excerpt: "The Minnesota Department of Health is reporting three Covid-19 outbreaks related to Trump campaign events held in the state in September.\n    \n"
+    publishedDateTime: 2020-10-26T22:29:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HYxcc82-A9o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/covid-outbreaks-trump-campaign-events/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/covid-outbreaks-trump-campaign-events/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924114945-01-trump-bemidji-mn-rally-0918-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "yoEq9Qjwn4m2SokesmqDm9kvKs2qdPmFezheTf3VpY3NL3Rpi5yolVVom55RThzHAs/cJmf8y6OmcGXGEGO4ViGQhMhdk3tSaovnlPpOBQy8En1lm1ScmjQXBUR8/vbkQ/Q35QfqHidYXJIwfHq8w9OzWclW0ClQCI9Bw4jRtwYY2lM4BzHi7EpQk+OmD4ydNbxevlDZgH9+tYeXHPZ36iVaAlEbTYuh/vsWbV9DBhXEWZXmCkdij8pX1DkE+byNwqBWAS5VC2eZh5V2smtEYMZFQJl7WqTmqObbUEC2E0CKkLq0ptRJhTKRjeNcf/Nte98ZrPSRwbFBe9uOcGnyNHnyXPmMWH84CgiPNaWHoGw=;djyQFAaUSHf+IJsC5/7QRg=="
 ---

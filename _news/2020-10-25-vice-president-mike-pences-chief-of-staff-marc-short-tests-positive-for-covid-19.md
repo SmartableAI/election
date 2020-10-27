@@ -2,9 +2,9 @@
 category: news
 title: "Vice President Mike Pence's chief of staff Marc Short tests positive for COVID-19"
 excerpt: "\"Vice President Pence and Mrs. Pence both tested negative for COVID-19 today, and remain in good health,\" Pence's press secretary Devin O'Malley said."
-publishedDateTime: 2020-10-25T04:13:00Z
-originalUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3b"
-webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3b"
+publishedDateTime: 2020-10-25T05:20:00Z
+originalUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?ftag=CNM-00-10aab7e"
+webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?ftag=CNM-00-10aab7e"
 ampWebUrl: "https://www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
 type: article
@@ -158,6 +158,6 @@ related:
         height: 746
         isCached: true
 
-secured: "ZCd6q9UIBlc9TsdQloN5azExrdOrc3N2mRkrP1ggWLKexTsMDunp3ZtsQgcWb2ssjSdREOzMbjaZF/nk8wldJaFI5YfC8Ku1ua/+p7vLV9FDYMOJWQC+qVsybv9VvocqaS7NKQNoAr0T3phkAgRSS3SvMfa3U6voaq24/T31Euonw7Uyw6yvxJAtzRnJvG5B5z7Om/IHQIv26bd8umQN3Xzk8m1bWPDF8WCFr4LTzrXOGM8Xql7ZwoxsAvlOZeq9EX94hWBxFfoEHvEPdQ3oHvWZebOTpt/MAEZFujm5txj4Scsw2HHW8r7gEh/+J6vKK2YKKl2MnfWXMSsKLO+Csxi9oTa7jbE7dXyjJekcaD1H/kw/4VTl9wyWYx11dRv+im3ycqlU73i75pwz0ACWaIUwibln5c3Iu4AgFOT38xf2iupX6TAQhlf9KqlmymlH8/loqp0qBVs6zt2QOKBFhqIMWeGj6muswYOwRWry/NnLRWtvYKgRnzrmTKoFgTDcR/5Wa2vxQyQqHflhyCIxRA==;gO/ny/8pL4XuufGrZCvZmQ=="
+secured: "OLSLvdtsyvVRIjtw1b94HDtTvFhCSXfU1hCpBacij3OdFujdk309i/JlOk2VrYXQu3aAzaWSzmDCLdkvYMWSZFg8nBS3geGsllEokw+35ohhyjZoGaZH1V2QZz3vMO9n6Y1tNn9DJnu7kxu6O1Qp8YN8nVfhr8qmKEONWakdPuiaoLLKm3aSIe8NBOTbma7zqsdRcjx7NHjc7JJx04ztIbkJZMQXBhCn1NZqbfonhoIpKu40BzF+Y7Q6bgRub70Lvy1de0S57YNz70XNueTt0WLpxBZHosBBcG5fBtqAYmHA+3qdhgKC9rRb4oskGKDqog8zsjpdy/WZw/FWTuNagupB88+BXT419WIb8e5Of5E=;UNPdiQDFO8xHPFsEs+wmAw=="
 ---
 

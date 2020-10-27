@@ -178,10 +178,10 @@ related:
         isCached: true
   - title: "Pence staff hit by COVID-19 outbreak as Biden says Trump has surrendered to pandemic"
     excerpt: "Vice President Mike Pence campaigned on Sunday despite a COVID-19 outbreak among his aides and President Donald Trump claimed progress as the United States set records for daily infections, prompting Democratic challenger Joe Biden to accuse Trump of surrendering to"
-    publishedDateTime: 2020-10-26T03:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election/pence-staff-hit-by-covid-19-outbreak-as-biden-says-trump-has-surrendered-to-pandemic-idUKKBN27A04U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27A04U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27A04U"
+    publishedDateTime: 2020-10-26T14:49:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/update-3-amid-record-u-s-cases-and-new-white-house-outbreak-trump-claims-pandemic-progress-idUSL1N2HG0D6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A04U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A04U"
     type: article
     provider:
       name: Reuters

@@ -2702,6 +2702,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Kamala Harris’ facial expressions during vice presidential debate go viral"
+    excerpt: "Sen. Kamala Harris let her face — eye rolls, smirking, scoffs and all — do all the talking during the vice presidential debate Wednesday night, but some experts believe it could cost her with ..."
+    publishedDateTime: 2020-10-08T17:33:00Z
+    webUrl: "https://nypost.com/2020/10/08/kamala-harris-facial-expressions-during-vp-debate-go-viral/"
+    ampWebUrl: "https://nypost.com/2020/10/08/kamala-harris-facial-expressions-during-vp-debate-go-viral/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/08/kamala-harris-facial-expressions-during-vp-debate-go-viral/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/kamala-harris-face-02.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'The Five' preview first presidential debate between Biden, Trump"
     excerpt: "In just four hours from now, President Trump and Joe Biden will square off for the first time in Cleveland, the former VP arriving for the debate just a few moments ago.  It's going to be must-see TV after the candidatestraded personal attacks on the campaign trail formonths."
     publishedDateTime: 2020-10-14T19:25:00Z

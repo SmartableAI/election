@@ -77,6 +77,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’"
+    excerpt: "Despite all the fury on social media about the fly on Mike Pence’s head and Kamala Harris’ demeanor, analysts say the vice presidential debate is unlikely to alter the state of the ..."
+    publishedDateTime: 2020-10-11T19:14:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246337265.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246337265.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246337265.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris' Charlotte event goes virtual after campaign staffers test positive for coronavirus"
     excerpt: "Kamala Harris' trip to North Carolina has been canceled after two campaign staffers tested positive for COVID-19, the Joe Biden-Kamala Harris campaign announced Thursday. Instead, Harris is planning to hold a virtual event in North Carolina on the first day of early vote Thursday."
     publishedDateTime: 2020-10-16T08:07:00Z

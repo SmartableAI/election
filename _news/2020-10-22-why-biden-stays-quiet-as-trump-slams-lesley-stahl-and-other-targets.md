@@ -318,6 +318,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump continues to hammer Biden on fracking stance during PA rallies"
+    excerpt: "Trump told Pennsylvania supporters that Biden would \"send your state into a crippling depression.\""
+    publishedDateTime: 2020-10-26T23:33:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSS5girTwOw/trump-biden-fracking-oil-pennsylvania-economy"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-fracking-oil-pennsylvania-economy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-fracking-oil-pennsylvania-economy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8ff879a-c32c-4d79-bc85-394cc76947b5/3ef0d8ed-9897-48c3-a727-376693a034af/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Twitter employees openly rip Trump, praise Biden: 'Trump must be defeated'"
     excerpt: "Twitter’s senior executives have a long history of anti-Trump hatred, a review of dozens of accounts of top employees found."
     publishedDateTime: 2020-10-18T02:33:14Z

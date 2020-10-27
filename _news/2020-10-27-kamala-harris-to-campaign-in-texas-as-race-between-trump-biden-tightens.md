@@ -2686,6 +2686,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Kamala Harris’ facial expressions during vice presidential debate go viral"
+    excerpt: "Sen. Kamala Harris let her face — eye rolls, smirking, scoffs and all — do all the talking during the vice presidential debate Wednesday night, but some experts believe it could cost her with ..."
+    publishedDateTime: 2020-10-08T17:33:00Z
+    webUrl: "https://nypost.com/2020/10/08/kamala-harris-facial-expressions-during-vp-debate-go-viral/"
+    ampWebUrl: "https://nypost.com/2020/10/08/kamala-harris-facial-expressions-during-vp-debate-go-viral/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/08/kamala-harris-facial-expressions-during-vp-debate-go-viral/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/kamala-harris-face-02.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Michael Keaton says Joe Biden should no longer participate in debates, criticizes Trump for being unprepared"
     excerpt: "Michael Keaton suggested that Joe Biden refuse to engage in further presidential debates after he “won” the first one on Tuesday against Donald Trump."
     publishedDateTime: 2020-10-01T12:38:00Z
@@ -3327,6 +3343,6 @@ related:
         height: 822
         isCached: true
 
-secured: "Ogf0S/fdTAIlyDdUIXmvmeY5TdRJOTMslnyCf2aIdH9R66rmVJHzecoe+8xA4pOE2aSE1k6SMAy8n9fTDJGIWBCA2n8fblkeg2ZyHHW0jVbgbbaXyDznLKCPP+9st7msnBmsaYnO8wvC22bKsN8WBIU0Do13Zrw8nvlrQKlcnk9p4nPhkWFMPfij0jtLn4gUug1ss9pWH+lzxIUQDBlPuApNnROtx12xOEjUEmqMdfpSBhPLRqoC2PKvAF7zbEPUtR28oFNtfpHuO0FZiIryP07OGbrPFS2ps+hyAxIWodl1WA5da6BKEAm3CHkuRqMtdkBOy++PGJJjOsZfsV2SZnX4Q2abX/uJsQMnjjk1s7Q=;PIUvcEU2I/MUp1SJGT9Waw=="
+secured: "Pbp0zWe0Rtr/Z9fffAV0+oo5DCQFboSs12B06A1w5AHkUAKkggYQXQAOlXrxJGywi0T/zqucGeh5Fvlm8MHFilwz2ko9glwXfr5/XHXJOMF92JEJg2Wr3t8wUGILXYIBjtyq8six248jrVEiIQg0aJm8TAiFuSNNZH0+6JPQwhxajl8d+vcWkzBHDV5edpyJCJ90tPQUo16pujycMj2sC7JJMAJtLvTvgWS4YCteeiiahz24UVB2cAszNlfgvbJZnuaDfMUJ2qLudENBz2rPcLuPm3Cesn4RdkzqapCVI6OFM0FOIlbI08oouEmAJsMYXQj9a609oFFvhd+S1HpFIxtZT16EQYY6Kue7m3WSSqH45JAf4F/DAgkdk4/bLKxMWaPCyeNOsdbfAxfg4jtOAq+t8SgHzpKYxUqhTJSaZ88N/tLHNXNt21gj0BYLC6Rh8fzsbVnKSkF+ynFBGxMy4MtK/BTp5TulrQ85yKWLz1cP3BOU9EosQv2rRsABdlk2a/Yv6O7H5Ri7RKEsTiNNVw==;3LrJ3cfECO7pzxRAa3Dq+g=="
 ---
 

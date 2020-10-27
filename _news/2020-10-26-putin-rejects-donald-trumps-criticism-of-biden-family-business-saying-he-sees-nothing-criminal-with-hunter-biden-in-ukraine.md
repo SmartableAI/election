@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump attacked Biden for warning against '4 more years of George,' but the Democrat was probably referring to moderator George Lopez"
+    excerpt: "Joe Biden called President Donald Trump \"George\" during a campaign event. Biden has been open about his stutter, calling himself a \"gaffe machine.\""
+    publishedDateTime: 2020-10-26T17:11:00Z
+    webUrl: "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f96ad79f21803001222bdca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "rqXxYh8TlDPPj/DpGPFSV6otcc3WFWxRWCJYXmiPnVESg8yJBJ+2jWX661fZevY7fmueL7b9qaYB3uE759oqbbcc6ULf1z14eeBjEKeFBBYPqtcmAMPBgBdmEn0iNfyN9oPDrNJYGekDebYYG5d3tshT3r2tBNZ+wrCin8UMLDaZK3N2FXengGi4RzDVesHY/XkmhsxkCDn1KXwazM+t28zwHHMmsf3u67gVjdkpxkdMrlcGv/Ka02zOcrmqchNsWpQeXVeMFNo9mpJvaPcfrNOhE/LmNx+kWssbzG3b3wqnPvBVG8V8DH+kFWzawCdGrez7OvIlfkIXpVKsTBiSP8s/ktWi5Ru3XnGyCGumagVYRq63MqNO2pI2YuxMZ+He86OYV362JrRkmGrpX/VeLLxCZ3w/bX6XO+nu+LcK/Ite3S4H8lsilbF2rRJ/GCEjuJjAE7GwAn38SmJ2ZMUAna0qtJbqxEnDtQgeWEWrxhCroMBYkTiGjLWuh0E+b935CDmUJvWafsnZhWt3I48lww==;GdGbVUDDnA2lc6k6mgem/g=="
 ---

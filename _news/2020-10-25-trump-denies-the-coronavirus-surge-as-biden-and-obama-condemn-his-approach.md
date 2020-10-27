@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 1778
+heat: 1798
 published: true
 
 provider:
@@ -797,6 +797,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Trump-Biden Electoral College tie could mean these House races determine the president"
+    excerpt: "To win a House vote for president, Democrats' best targets are small-population states that send only a single member to the chamber — like Alaska and Montana."
+    publishedDateTime: 2020-10-26T23:09:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-biden-electoral-college-tie-could-mean-these-house-races-ncna1244847"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244847"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244847"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423180/201026-think-montana-alaska-congressional-races-2x1-se-523p_816f0267421a6b3c9714aaf15587beac.jpg"
+        width: 2500
+        height: 1400
         isCached: true
   - title: "Donald Trump and Joe Biden Debate Law and Order"
     excerpt: "In the presidential debate Joseph R. Biden Jr. and Donald J. Trump debated the concept of law and order after recent unrest gripped the nation."

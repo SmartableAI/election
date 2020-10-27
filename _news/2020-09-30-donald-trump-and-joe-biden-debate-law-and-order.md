@@ -813,6 +813,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump-Biden Electoral College tie could mean these House races determine the president"
+    excerpt: "To win a House vote for president, Democrats' best targets are small-population states that send only a single member to the chamber — like Alaska and Montana."
+    publishedDateTime: 2020-10-26T23:09:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-biden-electoral-college-tie-could-mean-these-house-races-ncna1244847"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244847"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244847"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423180/201026-think-montana-alaska-congressional-races-2x1-se-523p_816f0267421a6b3c9714aaf15587beac.jpg"
+        width: 2500
+        height: 1400
+        isCached: true
   - title: "Biden Tested Negative. He Could Still Have the Coronavirus."
     excerpt: "President Trump and the first lady have tested positive for the coronavirus. Now everyone who has been anywhere near them will need to be tested too, ideally multiple times. That includes Joe Biden. He tested negative today,"
     publishedDateTime: 2020-10-02T22:22:00Z
