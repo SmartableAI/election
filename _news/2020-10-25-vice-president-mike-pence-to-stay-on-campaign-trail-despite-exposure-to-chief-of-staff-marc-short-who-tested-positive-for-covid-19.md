@@ -63,36 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Vice President Mike Pence to stay on campaign trail despite outbreak of COVID-19 among his senior aides"
-    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
-    publishedDateTime: 2020-10-26T20:33:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 109
-    images:
-      - url: "https://www.chicagotribune.com/resizer/u0DCzdkXJN-RGYRvSSr43-jHmvc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BSXXSPCSCJF4FHNE6RFJZESBP4.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence's top aides test positive for COVID-19, but he continues to work"
-    excerpt: "Mike Pence plans to preside over the Senate floor during a vote on Amy Coney Barrett's confirmation despite several of his top aides contracting COVID-19."
-    publishedDateTime: 2020-10-26T17:18:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/26/mike-pences-top-aides-test-positive-covid-19-vp-not-quarantining/6042345002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Mike Pence to keep up travel despite contact with infected aide"
     excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said Saturday."
     publishedDateTime: 2020-10-25T03:52:00Z
@@ -108,22 +78,6 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/10/AP20299110164423.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Vice President Mike Pence’s top aide tests positive for coronavirus"
-    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said Saturday. Pence himself tested negative,"
-    publishedDateTime: 2020-10-25T04:03:00Z
-    webUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
-    ampWebUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KTIDZGVA4VEXFPEH37ETNHERVA.jpg"
-        width: 3600
-        height: 2400
         isCached: true
 
 secured: "01NSPa70PCq11ykGuGCqW15VY0Sw+eNi9O1QSb7mWM+RQNm4xk9HHI0f7KoODOw+b4AmdXUiLfEFFPgYwnP5Tzrq38oc9bpYM6ZY4KRueiEpIyc1QI2p7uNTPdBl85d5rVUlkOReoaLdLVv4X391D/FA8yvCnJNCx+7YQyS20d9o3OALsJI39RSC8CmeWutbyf9M229H2MeraRkFzZZHwt7bfwAAJ6i8DHFDX6obVNu+6f0vHn1V2yvL8mZakfkT23yrNAGetXByS6JSQe10ROHlrO/9iAu33esP/kjviZynu6MJ4KB0kvvGMSMcEZEB5weOKwfiYT68jTyLdsSEJvZg/qRos+DFG1HzRh/7y3K9VNDhIbV/sFsaRNmdzI5EgYwC/MaOuQvDGekvcgNFV0ixNEGmTTWvaFf2FwRpEw0zwxW5thtQzwYksrYFeG6oXJpVDKcxwT2HJP07CrPBXgudFQyIuRtIB9DDQPv1lAEYr1bWLhaTz4BfO5U3CeyY3GBUU5MARdFA9ZanrFHchg==;iWMExzdAP+Yq1dxvMM/dsw=="

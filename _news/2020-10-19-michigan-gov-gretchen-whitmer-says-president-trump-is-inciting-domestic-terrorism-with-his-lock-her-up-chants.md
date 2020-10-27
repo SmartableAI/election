@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Under Donald Trump, Black Americans continue to trail whites in employment, home ownership"
-    excerpt: "Donald Trump boasts he's the best president for Black Americans since Abe Lincoln. But are Black lives really better under his administration?"
-    publishedDateTime: 2020-10-23T16:39:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/10/23/trump-blacks-trump-best-president-black-people-since-lincoln/3742081001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3742081001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3742081001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump Casts Doubt on Gov. Whitmer Kidnapping Plot, Tells Crowd: ‘Lock Them All Up’"
     excerpt: "President Donald Trump appeared to cast speculation on the foiled plot to kidnap Michigan Gov. Gretchen Whitmer during his rally in the state on Saturday."
     publishedDateTime: 2020-10-17T23:42:00Z

@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
-    excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."
-    publishedDateTime: 2020-10-20T11:37:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 64
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-18-at-5.11.31-PM.png"
-        width: 800
-        height: 430
-        isCached: true
 
 secured: "3wZxQS3Lqlw/3kCrZpZUBJmaDl3naO3suUMcqA0h5I6B32rhX2JU/22LtAU3DA/icPeEEecgr7N1wKLZtIYasghkmVbGS1G4vdK7eWenKKyI9MV4XcjHNLV4KLmkUPG8HvkOzCTRYwLi76M9zUKvm8WKtjh2V6Msivbv5Rg0m3FMq4egvo8yPmWzIMZi2JFJ3vEv63qaEM3Xbl0w5LNrdUq3X8/raOInLhUktMKAbpZLY9Z4FV7D0tdNxspeqK2pDZrNg5JX/LzZXL2mWTvKSsIs81EHMvg3aoShctmVPeF3+ByYL6MIkPAHnSBPrAzXrPZQ26TjToHu3W0puCMJzXIxfVr6axL0fiKdlfFjp+M=;1wxi5BlRTLIOYzateSL4zQ=="
 ---

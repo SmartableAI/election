@@ -27,53 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "President Trump casts a 'very secure vote' for himself in-person in Florida"
-    excerpt: "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida."
-    publishedDateTime: 2020-10-26T01:29:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
+  - title: "Trump joked that he'll 'find a way' to fire Florida Gov. Ron DeSantis if he loses the state in November"
+    excerpt: "The president sees Florida as a must-win state in his electoral coalition if he is to be reelected to a second term."
+    publishedDateTime: 2020-10-17T14:38:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 123
+    quality: 109
     images:
-      - url: "https://i.insider.com/5f9447ca4743a3001216b782?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f8afa23c21cfb00194689f7?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
-    excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
-    publishedDateTime: 2020-10-24T09:12:00Z
-    webUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Legendary Florida State coach Bobby Bowden says he beat coronavirus to vote for Donald Trump"
-    excerpt: "The Florida State coaching legend added another win to his career total, it just didn’t come on a football field. Bowden, 91, beat coronavirus. His motivation? He says it was so he could participate in the presidential election in November."
-    publishedDateTime: 2020-10-22T14:44:00Z
-    webUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html"
-    ampWebUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 64
-    images:
-      - url: "https://www.nydailynews.com/resizer/n86PgTsxzNsdGCH3r9bUqsW9kQo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7VS5ZK3VDHRSTYX6YFC7QYAD7A.aspx"
-        width: 1200
-        height: 816
         isCached: true
 
 secured: "4v0dW2mMnbeifYBgFlGYEgLEBY+VTiugobowK2LmSlJFcx+nkL9qu8RyTJzDaLLpjrQDIZKGCi3vA1KlRKkpTa/frbuZ/mCE31CypVlTaUKEqixIL+NmYi6Nb65V+TiRwhRFi2J4t1lRqHK/8q0GtIo8ck8TZura6bM2HP9C+jqusiBwMdiX2u8O7i1yUBcM0gIiN2fFor2qpQj4l2bk6hsQszPYc7tE02TdEJj/c+hZOBMsohqdqiX+h5GTgHCBgfpxtl86qaUsr2wtjAJQeHL6cmlWMpyiF3tHi9OvA95XpWd0GkavhHf0fszt6Waz+CLoBUTuQfas92cAHMPn1Bt2m8bYxziIjQ/mE/ih1jA=;90ZBL3QGBCDPvH/WWik2GA=="

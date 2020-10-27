@@ -59,6 +59,22 @@ related:
         width: 1199
         height: 799
         isCached: true
+  - title: "Trump envoy traveled to Syria for talks on missing Americans"
+    excerpt: "A senior White House official made an unusual, secret visit to Syria for high-level talks aimed at securing the release of two Americans who have been missing for years amid the country’s long civil w"
+    publishedDateTime: 2020-10-21T14:39:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_efc880968da349c0a4dc41b8f6155a29_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Has Promoted QAnon-Linked Twitter Accounts More Than 250 Times"
     excerpt: "The president previously said \"is that supposed to be a bad thing?\" when asked about theory that he is taking down satanic pedophiles."
     publishedDateTime: 2020-10-16T12:47:00Z
@@ -107,6 +123,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Poll: Most Americans Don’t Think What Trump Says Is Based In Fact"
+    excerpt: "Only 22% believe Trump’s campaign statements are always or often based in fact, including 45% of Republicans, while nearly a quarter of Republicans believe his statements are rarely or never factual."
+    publishedDateTime: 2020-10-21T14:31:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/21/poll-most-americans-dont-think-what-trump-says-is-based-in-fact/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9043c6bb76f50d5bdce0c0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D162%26cropY2%3D2694"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Iowa, the 4th-highest state for rate of COVID-19 infections, surpasses 100,000 cases as Trump plans rally there this week"
     excerpt: "As Iowa surpassed 100,000 confirmed coronavirus cases, the mayor of Des Moines expressed concern that President Trump’s rally this week could become a super-spreader event."
     publishedDateTime: 2020-10-13T12:03:00Z
@@ -138,22 +168,6 @@ related:
       - url: "https://nationalinterest.org/sites/default/files/main_images/2020-10-12T151726Z_1902732187_RC23HJ9V5YBP_RTRMADP_3_USA-COURT-BARRETT.JPG"
         width: 1200
         height: 823
-        isCached: true
-  - title: "Trump goes after Fauci, tries to buck up his campaign team"
-    excerpt: "President Donald Trump sought Monday to buck up his campaign staff two weeks from Election Day, dismissing the cautionary coronavirus advice of his scientific experts as well as polling showing him trailing Democratic rival Joe Biden across key battleground states."
-    publishedDateTime: 2020-10-19T19:17:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/61/52/20126397/73/375x250.jpg"
-        width: 375
-        height: 249
         isCached: true
   - title: "Trump ‘is hemorrhaging support’ and is flailing badly to win it back: reporter"
     excerpt: "President Donald Trump is trailing Democratic rival Joe Biden in the polls, and one veteran journalist said that he seems clueless about how to stop the bleeding. Journalist Alex Wagner, the host of Showtime’s “The Circus,"

@@ -266,17 +266,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Former President Barack Obama To Campaign For Joe Biden In Miami on Saturday"
-    excerpt: "Former President Barack Obama is coming to town Saturday to campaign for his former VP Joe BidenPlexiglass dividers were seen being put into place ahead of tonight's debate between President Trump and former Vice President Joe Biden."
-    publishedDateTime: 2020-10-22T11:41:00Z
-    webUrl: "https://miami.cbslocal.com/video/4810811-former-president-barack-obama-to-campaign-for-joe-biden-in-miami-on-saturday/"
-    ampWebUrl: "https://miami.cbslocal.com/video/4810811-former-president-barack-obama-to-campaign-for-joe-biden-in-miami-on-saturday/amp/"
-    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4810811-former-president-barack-obama-to-campaign-for-joe-biden-in-miami-on-saturday/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 52
   - title: "Waka Flocka Flame Thinks Donald Trump Is A Better President Than Barack Obama"
     excerpt: "Over the last few weeks, Hip Hop artists have revealed their support for incumbent President Donald Trump over former Vice President Joe Biden. For example, 50 Cent suggested having lower taxes for wealthy people is more important than being concerned about Trump’s racist rhetoric and policies."
     publishedDateTime: 2020-10-22T11:04:00Z

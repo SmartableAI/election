@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Women Marchers Led By ‘The Handmaid’s Tale’ Protesters Voice Opposition On Trump Ticket, Amy Coney Barrett Nomination"
-    excerpt: "Mike Pence presidential ticket and the Supreme Court nomination of Amy Coney Barrett was coordinated Saturday by the Women’s March organization."
-    publishedDateTime: 2020-10-17T23:35:00Z
-    webUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/"
-    ampWebUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 52
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20291710573192.jpg?w=512"
-        width: 512
-        height: 341
-        isCached: true
 
 secured: "VZiNx4IbldSI6WsxlLdYEMWeAqXMYQoByjRrjUogzdbuiPl6LRdQnXKvfryLGX2+ILjpUbcKaCojOG3pXpAW25/4Obsg4ql+m/R/EOryI8/HjzY+xjBqBVdceOkCBzTiNu/z3njKYOrxC8pKBE+2koEKKD/KwZANuAsZtKuAG6CAZFkvbQjjjnUpeCJMu9mWF28nN4SVu4NBoZhzBSTrZf2FM5H/GZfQ9qC0rBnnHsX8XkISfhsOtnfz/kSlxeLx7d5lIY0T0o6kS8UKwohBdin7ZQugLwKjvnR10xZrk1t2JHkTn0KjiUZiZjPVbii9tdyYL6Mp4kt+Gcru/4c57Emi1iR4G7RSzTQFhzQqlOOOwWfp2Rb8hFxMP47Ir7KGrdDLccugYTX7lcCgU8+UAYsaDoXxwinlitVgaVqfODyS904DnHN5X6F1KgbzQ9fUpc6r8uaFRzOVNRKrIWxZww/nVw7LjVs/eAGVV7K/yx/6XNAuH8Cxb4v8OLbnoXqfSlSrCGoIWUdMJX4pV8FwoA==;iPSd4jNYgFVj6e8BquUtcg=="
 ---

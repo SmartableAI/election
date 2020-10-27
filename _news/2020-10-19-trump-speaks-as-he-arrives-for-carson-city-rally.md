@@ -88,20 +88,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Why Beijing May Want To Keep Trump In The White House"
-    excerpt: "Donald Trump has frustrated and enraged China during a tumultuous first term, but Beijing may welcome his re-election as it scans the horizon for the decline of its superpower rival. Relations are as icy as at any time since formal ties were established four decades ago,"
-    publishedDateTime: 2020-10-20T07:16:00Z
-    webUrl: "https://www.ibtimes.com/why-beijing-may-want-keep-trump-white-house-3065107"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/a-significant-worry-for-beijing-is-that-biden.jpg"
-        width: 1024
-        height: 681
-        isCached: true
 
 secured: "seaw93Tg4hX+Vbjs5kNSEh9aQM0jIzy8264I4zkJDsvfk7qtOO+9PeisBLBlKRbh2+7rPKIEx+sQYwi0sUbHSVHmEWNxhFlPyO59QgOjOJffje1j37sHGVahhhY8E7Sz8JHviAWA+I6rhafJ+rZTTzycVhmziyYegDjsPE4FGi51k5eMff2mBNurYYI6i90z79SuWwxMqXSe5BOEFeKQTiyvNDPd9cJMyJSRCHe0S6BIi+vxcHXCaTYun4UiTE6sEf6OtNt/c/7I0ogUeyH+AfEFnL8PX2/MHctthgxzBIIAjsrLMT87HhrX3qbTGWuTvlzWCmi9BTdzNLKqyU/SlXO49xGNOlEwUZ9Z/NyyYbd5qxQYDHHbnsxOCwQ+GmkApjY1vTKL1VWCVTchPIWXYZ9O5o8PcyFR1GiZmd5nM75V9BiS64JT3RHDUf8SyuOE1BAExKHRy37JmzTP60JcEM5Uirm2RWsYhxk5GSKnKp0jfwTB2zQSsbhGRzAQBa96c+0Gey8zLV1E0ACZTGm3Kw==;c2M6R+rrjx5X9dVUV9hSMA=="
 ---

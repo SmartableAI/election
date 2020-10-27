@@ -95,22 +95,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "How Joe Biden can win Tuesday’s debate"
-    excerpt: "What Joe Biden needs from Tuesday’s opening debate with President Trump is, at one level, quite simple: Voters must see Biden as good enough. The Democratic nominee has enjoyed a steady lead in the polls."
-    publishedDateTime: 2020-09-28T12:06:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YS5THVX52YI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Joe Biden has foreign policy ideals that can work in this chaotic world"
     excerpt: "On trade policy, Biden supported the North American Free Trade Agreement and also promoted the Trans Pacific Partnership. The latter, which Hillary Clinton and Trump both opposed in 2016, sought to elevate standards for free trade on issues like labor rights,"
     publishedDateTime: 2020-09-28T15:00:00Z
@@ -342,22 +326,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/29/Election_2020_Debate_44204.jpg-74e82_c0-209-4955-3099_s1200x700.jpg?997af342a35fcecbf52c74f7b08e1f8b029a3b03"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Joe Biden releases 2019 tax returns ahead of debate"
-    excerpt: "The Bidens’ returns show the couple paid almost $300,000 in federal taxes in 2019, including almost $288,000 in personal income tax."
-    publishedDateTime: 2020-09-29T19:05:00Z
-    webUrl: "https://www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html"
-    ampWebUrl: "https://www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODUGFEJGCBFJRFZ6HSCOUQXKQA.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "What California’s COVID approach could teach the country if Joe Biden wins"
     excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."

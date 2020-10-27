@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5942236002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942236002"
 type: article
 quality: 122
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "Judge throws out Trump campaign lawsuit over Pennsylvania poll-watching law and mail-in ballots"
-    excerpt: "The Trump campaign had challenged the battleground state’s poll-watching law and how mail-in ballots are collected and counted."
-    publishedDateTime: 2020-10-10T21:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/10/judge-throws-out-trump-campaigns-pennsylvania-lawsuit/5956103002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5956103002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5956103002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/8bc0821d-3529-4ac9-921f-5c7197680059-AP_Election_2020_Lawsuits_Glance.jpg?auto=webp&crop=4855,2731,x0,y168&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Y+wbmFNvi8iKH43sijg98tZ1mNShidSCFkhdzjR7lypMz5xxQA6QLEvYV5nVI8wVkWK7/dJpoVHU1NOlTPMG+WspukQWT2g3fOaKAs2x153KbNfHSMnBHlnz2QnT5oRJBfXF1hvIG18KSGpP/oeEI9gep34RWi9aH0vUkhU6kH9AnCQszrahrr3ZA1bMqqQNlxWx0ouXg14C+0gZtMthBqVPqTo2pl1KIt2U2DZP6VaHkb1HOqC3AUdmDaOmNFBeFxm66+AYn9r+dFAVJu6ijpZk5AJGXz+Xuc96idkHevj0C1d2j/NH7wWbgI69XsJQmymWBWCBhoolpoZvEL+AlSC5RxOT+A90MO31a1EdNQY=;f6GlKJ1k83ynAGFdtIyx9Q=="
 ---

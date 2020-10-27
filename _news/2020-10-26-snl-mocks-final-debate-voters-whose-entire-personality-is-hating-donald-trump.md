@@ -208,6 +208,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "50 Cent says 'F--k Donald Trump' one week after expressing support for president"
+    excerpt: "Chelsea Handler has been outspoken about 50 Cent's support for Donald Trump in opposition to Joe Biden's tax plan"
+    publishedDateTime: 2020-10-27T00:03:00Z
+    webUrl: "https://www.foxnews.com/entertainment/50-cent-fk-donald-trump-after-support-president"
+    ampWebUrl: "https://www.foxnews.com/entertainment/50-cent-fk-donald-trump-after-support-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/50-cent-fk-donald-trump-after-support-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/50-Cent-Chelsea-Handler.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Some media liberals urge revenge, payback if Trump loses"
     excerpt: "Media commentators, who are unloading everything they have on President Trump, are no longer content with the idea of him merely losing."
     publishedDateTime: 2020-10-21T16:27:00Z

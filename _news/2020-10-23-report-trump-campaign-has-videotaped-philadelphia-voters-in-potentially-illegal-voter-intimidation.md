@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Voting across the US live updates: Joe Biden leads Donald Trump in Texas poll; New Hampshire can't ban armed voters; Facebook threat"
+    excerpt: "The latest in voting news, including Joe Biden leading Donald Trump in a new Texas poll and New Hampshire saying it can't keep armed voters away."
+    publishedDateTime: 2020-10-25T21:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/25/voting-2020-joe-biden-donald-trump-texas/3728764001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3728764001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3728764001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/1912c2b8-97e2-4eb4-a230-436baefc21e2-Dallas_line.jpg?auto=webp&crop=4819,2711,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "F8/HOZ3G4d9HoS6AF54ZSjOjrUZQicWo3HzCT/sPU0bGSoqNrCRmqhZ0+76+/HeHhaOTL9bIxqbTQ6JtF2LGFX26DIe/9PxCGMt4jnOyAQXEhlDLd3T64Ti60/hhZEPXmUB7AXNPJPk+Ij/0vaqGtq2tQnKAuSNKnEKCp7R4O0Tw+IGZG3FVljJoLxelVR9gTZxdSm22pjQCYxaQa63nM+zN6Mb3IfbVZiCjF2+fz6gWIfyoHCUEpFaO0LRkfvPgKgHjPsinf3eGI5i0MbQJ12pWWYOe5tZxHCLCcJ0wnXE3YXrbOwc7zXh03zMPaHL6YNfqVeoooCUQChhASAqv62vjaymx02rgaP09cSZfdIQ=;FN15icUsLnSnUWF4S3scGg=="
 ---

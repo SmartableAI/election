@@ -45,6 +45,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump targets Kamala Harris in sexist rant against the Democratic vice-presidential nominee"
+    excerpt: "\"We're not going to have a socialist president, especially a female socialist president ... we're not gonna' put up with it,\" Trump said."
+    publishedDateTime: 2020-10-24T01:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-targets-kamala-harris-in-sexist-rant-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-targets-kamala-harris-in-sexist-rant-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-targets-kamala-harris-in-sexist-rant-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 140
+    images:
+      - url: "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden campaign announces record $383M fundraising haul in September"
     excerpt: "Democratic presidential nominee Joe Biden's (D) campaign announced late Wednesday that it had raised a massive $383 million during the third quarter of 2020, marking the best period for the campaign so far."
     publishedDateTime: 2020-10-15T12:27:00Z
@@ -394,20 +410,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/55/72/20111037/7/rawImage.jpg"
         width: 2048
         height: 1744
-        isCached: true
-  - title: "'He's running against Joe Biden': Biden on healthcare"
-    excerpt: "Biden on healthcare. Posted . During Thursday's final presidential debate, Democratic presidential nominee Joe Biden and President Donal"
-    publishedDateTime: 2020-10-23T03:45:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD17UBJ3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201023&i=OVD17UBJ3&r=OVD17UBJ3&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "19-year-old man suspected of plotting to kill Biden"
     excerpt: "Prosecutors say Alexander Treisman, who was arrested for possessing child pornography, posted evidence of wanting to kill Democratic presidential candidate Joe Biden. Jeff Pegues has the latest details."
@@ -1141,6 +1143,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris Barrett Confirmation Vote in Washington, DC"
+    excerpt: "Democratic presidential nominee Sen. Kamala Harris (D-Calif.) leaves the U.S. Capitol in Washington, D.C., after the Senate nomination vote of judge Amy Coney Barrett to be a Supreme Court Justice on Monday,"
+    publishedDateTime: 2020-10-27T03:15:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bd5448bc22d10f09fe46c349d8f947bc/Kamala-Harris-Barrett-Confirmation-Vote-in-Washington-DC/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/bd5448bc22d10f09fe46c349d8f947bc/BARRETT-VOTE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Kamala Harris Cancels Travel After Staff Members Test Positive For Covid-19"
     excerpt: "Kamala Harris canceling all campaign travel through this weekend, after two people involved with the campaign test positive for Covid-19. Veuer's Elizabeth Keatinge has more."
     publishedDateTime: 2020-10-19T09:50:00Z
@@ -1374,15 +1390,6 @@ related:
     excerpt: "T12:29:55-04:00 vice presidential nominee and Senator Kamala Harris (CA) visits Cleveland, Ohio, and greets citizens. Democratic vice presidential nominee and Senator Kamala Harris (CA) visits Cleveland,"
     publishedDateTime: 2020-10-24T17:26:00Z
     webUrl: "https://www.c-span.org/event/?477345/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Former President Obama Campaign Event for Joe Biden in Miami"
-    excerpt: "Former President Obama delivered remarks at a drive-in campaign rally in North Miami, Florida, in support of former Vice President Joe Biden's 2020 Democratic presidential campaign. The was the former president's second in-person campaign event promoting Mr."
-    publishedDateTime: 2020-10-25T20:04:00Z
-    webUrl: "https://www.c-span.org/video/?477346-1/president-obama-campaign-event-joe-biden-miami"
     type: article
     provider:
       name: C-SPAN

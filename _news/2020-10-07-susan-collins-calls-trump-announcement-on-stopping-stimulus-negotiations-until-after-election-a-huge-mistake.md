@@ -3040,6 +3040,20 @@ related:
         width: 1200
         height: 774
         isCached: true
+  - title: "Mike Pence's role in the Trump administration"
+    excerpt: "Mike Pence's role in the Trump administration has been forced more into the spotlight with the president's illness from coronavirus. Here's a look back at Pence's career."
+    publishedDateTime: 2020-10-04T13:19:00Z
+    webUrl: "https://www.cincinnati.com/videos/news/2020/10/03/mike-pences-role-trump-administration-coronavirus/3613429001/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e3bab1f8-81e3-4fd2-b844-0f0af5276b68_poster.jpg?quality=10"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Stimulus 2: Trump Now Says He Would ‘Immediately’ OK Standalone Bill for $1,200 Checks"
     excerpt: "After announcing the end to coronavirus stimulus negotiations Tuesday, President Trump later signaled that he would sign a standalone bill sending $1,200 checks to Americans."
     publishedDateTime: 2020-10-07T02:56:00Z

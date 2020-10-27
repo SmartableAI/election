@@ -192,6 +192,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "50 Cent says 'F--k Donald Trump' one week after expressing support for president"
+    excerpt: "Chelsea Handler has been outspoken about 50 Cent's support for Donald Trump in opposition to Joe Biden's tax plan"
+    publishedDateTime: 2020-10-27T00:03:00Z
+    webUrl: "https://www.foxnews.com/entertainment/50-cent-fk-donald-trump-after-support-president"
+    ampWebUrl: "https://www.foxnews.com/entertainment/50-cent-fk-donald-trump-after-support-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/50-cent-fk-donald-trump-after-support-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/50-Cent-Chelsea-Handler.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "'SNL' mocks final debate, voters whose 'entire personality is hating Donald Trump'"
     excerpt: "Live\" satirized last week’s final presidential debate in this weekend's cold open by first making fun of the novel mute button that was introduced Thursday to keep the candidates from interrupting each other."
     publishedDateTime: 2020-10-26T04:20:00Z

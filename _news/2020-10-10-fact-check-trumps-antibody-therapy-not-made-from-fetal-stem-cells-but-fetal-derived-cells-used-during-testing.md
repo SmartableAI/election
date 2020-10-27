@@ -63,6 +63,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AP FACT CHECK: Trump and his familiar falsehoods"
+    excerpt: "President Donald Trump says Mexico is paying for the wall (it isn’t), health care choice for veterans came from him (it didn’t) and his tax cut stands as the biggest in American history (nowhere close)."
+    publishedDateTime: 2020-10-26T04:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-familiar-falsehoods-73826161"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-familiar-falsehoods-73826161"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-familiar-falsehoods-73826161"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_88494b7b4bf24725b9ae00ddd880a442_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "AP FACT CHECK: Trump and his oh-so-familiar falsehoods"
+    excerpt: "These are among his touchstones — the falsehoods that span his presidency — and he's giving them another go in the final days of his relentless campaigning. He's got fresher false material, too, claiming “incredible” numbers in the pandemic response despite record infections,"
+    publishedDateTime: 2020-10-26T04:27:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-trump-familiar-falsehoods-73828678"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-familiar-falsehoods-73828678"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-familiar-falsehoods-73828678"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_88494b7b4bf24725b9ae00ddd880a442_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fact-check: Did Trump's 'Liberate Michigan' Tweet Inspire Plot to Kidnap Gov. Whitmer?"
     excerpt: "The governor of Michigan has linked the plot to kidnap her to President Donald Trump's rhetoric during the pandemic."
     publishedDateTime: 2020-10-09T10:46:00Z

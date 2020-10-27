@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/"
 type: article
 quality: 125
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "After Sudan, Trump Predicts Saudis To Forge Israel Ties"
-    excerpt: "US President Donald Trump predicted Friday that Saudi Arabia would soon forge ties with Israel after brokering an agreement for Sudan to normalize ties with the Jewish state. Speaking to reporters as he held a three-way phone conversation with the prime ministers of Israel and Sudan,"
-    publishedDateTime: 2020-10-23T18:05:00Z
-    webUrl: "https://www.ibtimes.com/after-sudan-trump-predicts-saudis-forge-israel-ties-3068459"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/us-president-donald-trump-spoke-to-the-leaders.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "H5taUhlpkncqoC7y4+yIhQKm4OghbC1Cb6qwb/xDA6Dbek+AgHoW8mmFFgSPxjvzYqvBcabNVjs/agvMU4fpQLCvFlQWgAqku4U7OB8kaoOnlj2iaspxBhHQU9qXiEcnvEygJr+a7JXmVe1WR44659iaDS8laa+YqiOJOP6lg1Vd6F+nBmW2pV/t/t/LylSa2viI8M9CQUT9dwgaApnu2kFY+H9NIBdBDV/5MoVOx9yTi92eDJe5byhEUSDBrzmbENCRRytXinKLnzhN5WPvUiYzo9IFtrLTFjStUa5SJ+DorZtVxk/GUap8GN9N99AGKnZ/HKH6SLrczle6kvxg6eMQ+Nw7vOuzMVFB40OTqqs=;XvBzpMjBv86EMw0VNH3qVw=="
 ---

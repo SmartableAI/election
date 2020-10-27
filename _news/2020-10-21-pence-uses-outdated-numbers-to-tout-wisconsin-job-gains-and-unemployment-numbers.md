@@ -41,22 +41,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump grants clemency to five backed by ally Alice Johnson"
-    excerpt: "President Donald Trump on Wednesday granted clemency to five people convicted of committing drug and financial crimes, all of them cases that were pushed by prison reform advocate and Trump ally Alice Johnson."
-    publishedDateTime: 2020-10-22T01:15:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_daedaf4ef0704080945b2d81dc4a9a01_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "Foo/rZUxvXVOvByErmMGYejvOWg5S0MAzZld7bAdWD67M3ZKkSdaemGTUz39RTha+FpRxTjqzfpJU6x8sMlS1FuWO7pdvJn9i2oRYenErnINJ99DUU7ninhVy4P8fDTmorxXt4UW42Pv47nOfVpStG9LiKuDgMT/2nnSMicLCvHncBHVSTLkgHhTo8RpcN/Bt0wwOPpvi+guhsVSGypCnB1wNO7H02u1ZFRnmCDuzyFxPbkV6Pj7iztgDZD98nvM7ZzOz63eLJB/nL5V59QaNepcNZoXyblopwtuDR05MDKDA/f9RUJH9elxozgqSFRKKWkRh4g3wVIeoQvAQ8DsVqxBU/v7ir02RzBIhRJVpHQ=;66gd40CVfVPpVLii0/Jm3g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5937767002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937767002"
 type: article
 quality: 104
-heat: 144
+heat: 124
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://media.wcnc.com/assets/WZZM/images/d11f7245-6d50-49bc-81d7-092cae6f06dd/d11f7245-6d50-49bc-81d7-092cae6f06dd_750x422.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Women Marchers Led By ‘The Handmaid’s Tale’ Protesters Voice Opposition On Trump Ticket, Amy Coney Barrett Nomination"
-    excerpt: "Mike Pence presidential ticket and the Supreme Court nomination of Amy Coney Barrett was coordinated Saturday by the Women’s March organization."
-    publishedDateTime: 2020-10-17T23:35:00Z
-    webUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/"
-    ampWebUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 52
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20291710573192.jpg?w=512"
-        width: 512
-        height: 341
         isCached: true
 
 secured: "pCjj+ek4rR8hZqMJ+54U1D7bDO7gx6I6BLPOEMXvlgUzJXS20sVtbNvzYwB4PoeYp7q3NloB2cby9YOoGN3/l5sB3q6BPV+h+v/G61eF9jBN2FZD2K+iPYdeufhrOF78HP20ZZV2bRlMWX94EX0e6WsLTxE/wPWbdkPgVPzJhLeVFlks7m6I4NeLbEQzxSJzAdCmFnZKtkJrWYSl8L3SzsuOJFqBTXDqejqhAQGQSIv9v2NAqykCH58jjOWsyYR9Sz9bajRJxN/lJd5/VGolpOGa4bVpRHZQGU81k4d0SZfIj+21Ml/mh+p3bORfMpt8B2boIPs/kUPKxaUOdL2Sk/zc0PjHLLCSKtCPoLZVEGU=;xYDYau8rqCYL0juv9fiQPw=="

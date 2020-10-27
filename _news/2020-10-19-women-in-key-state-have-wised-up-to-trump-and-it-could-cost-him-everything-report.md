@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Living and learning: Donald Trump has never met a mistake he didn’t repeat"
-    excerpt: "At his Thursday night town hall, Joe Biden admitted that some of the 1994 crime bill he coauthored was a mistake, reminding us of our own mea culpa on stop-and-frisk four years ago."
-    publishedDateTime: 2020-10-18T08:05:00Z
-    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html?outputType=amp"
+  - title: "Jennifer Lawrence says Trump 'changed everything' about her political views"
+    excerpt: "Jennifer Lawrence said on Wednesday that despite formerly voting Republican, she won't be supporting Donald Trump."
+    publishedDateTime: 2020-10-22T15:27:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6004508002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6004508002"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 73
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
     images:
-      - url: "https://www.nydailynews.com/resizer/cYD80D5Ij1vd9mvtNW30qxnUC-Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6PB4IDWS2FHFTPB27EWL7PU5PQ.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2018/12/26/USAT/27985702-65b1-4f3c-bd87-16531ef2393b-1040038846.JPG?auto=webp&crop=3999,2249,x1,y144&format=pjpg&width=1200"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Don Lemon Goes OFF on NBC for Letting Trump Dictate Their Programming: ‘Outright Embarrassing Ratings Ploy!’"
-    excerpt: "CNN's Don Lemon tore into NBC for setting up a town hall with President Trump in direct competition with ABC's event with Joe Biden."
-    publishedDateTime: 2020-10-15T12:58:00Z
-    webUrl: "https://www.mediaite.com/tv/don-lemon-goes-off-on-nbc-for-letting-trump-dictate-their-programming-outright-embarrassing-ratings-ploy/"
-    ampWebUrl: "https://www.mediaite.com/tv/don-lemon-goes-off-on-nbc-for-letting-trump-dictate-their-programming-outright-embarrassing-ratings-ploy/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/don-lemon-goes-off-on-nbc-for-letting-trump-dictate-their-programming-outright-embarrassing-ratings-ploy/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 56
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-15-at-7.05.26-AM-1200x654.jpg"
-        width: 1200
-        height: 654
+        height: 675
         isCached: true
 
 secured: "HjTEadImFn+ACrMa+DSboL7Sn8TPa9VbJMsLLKp4hJCToor60h/dPQscC8CKDWUCl55Y2Nbt1vzAMm+v+wPqORN1YgWI52N5gaVkMrDDF2VFZtFtl9M8+M0+spU03aHITQnfbDbmVAOqOjhzDpFfyiUj6TtLdAzjsHu+xRQe5b1IiK5UDNLRaSiuRiSTE89SM09ynctmhkjMVFrvB6Si+SI6p6tO5O8QgsTJ40HxDF+E3oeHdTrge83NjhTJ6iAuHhbRU2WGsHiQJsd+ZLT3hRBFYi80u+UsZtFqWWGGC53KT5x7FQOHSLcUrUppVZ8JsEZOSDsTecdtNBidCaSD2ykwOPpWFFL9HF9YdRvSkcM=;S2QAN01qQwAdEtZzwlYHVg=="

@@ -127,17 +127,6 @@ related:
         width: 600
         height: 917
         isCached: true
-  - title: "New Florida Resident Trump Casts Presidential Ballot for Himself"
-    excerpt: "U.S. President Donald Trump voted in his new home state of Florida on Saturday, casting his ballot for his re-election at a public library across the street from one of his golf clubs. Trump, wearing a mask to prevent the spread of coronavirus,"
-    publishedDateTime: 2020-10-24T16:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "v/nPe2R+eUgjqR9M5sL9Bowj49ZAWquUYlb133TqIOHlWfEC1PrX2ptU6WZGonZXC9SJBxAa9tYoTXQNKTHWK4Y4HDXf21K89x1EgiZIYOfDZly/BFbj7Eb9kbQLcDVD53xiBAa3lBBOrq+FvXDZrAdDzYZF89zfnZmI7QQ+UqN9vZwNuPQSSNeE3/bbLSl4tw+Wr36vmsZLZSWxQcnLS/mGvofF/H4pQ+qEgqRwFWnCrOVanCPQNleDu+6wY66fjbGxjhRgVwCLuOnL+NlNC/QWCgHGjUWI06yXj0FHpYvguAmuD96NpuvrzNWS4arewrkVEm336Cu2HaexlIxklPJigUdgW04xTxum/tP3urnpufq+8PtdO5c18s2/umkXWcVKUpfY6vI9ipJsBTMzg1jmES5Vf/SqFKZkb1hhuoelvLpYqEykg6nbRgoLREzYCs9tOlcp2wDn8zNgg9525b4HyQNayqbqWTjYnyuhID7pVq70kvcAErij/bQfiz/h8ZGDGzsYqY/kJI3k8NDM1A==;spzh72VREnqM2Di6aAc3Uw=="
 ---

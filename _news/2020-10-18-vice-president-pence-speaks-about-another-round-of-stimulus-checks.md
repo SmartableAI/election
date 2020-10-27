@@ -91,22 +91,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Here's what Vice President Mike Pence might talk about during Fort Wayne campaign stop"
-    excerpt: "Vice President Mike Pence will stump for President Donald Trump in Indiana Thursday at the Fort Wayne Aero Center."
-    publishedDateTime: 2020-10-22T10:05:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/10/22/vice-president-mike-pence-campaign-fort-wayne-indiana-thursday/6006586002/"
-    ampWebUrl: "https://amp.indystar.com/amp/6006586002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6006586002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Vice President Pence speaks at Reading Regional Airport"
     excerpt: "BERN TWP., Pa. -- Hundreds of supporters of President Trump gathered at Reading Regional Airport Saturday to hear from Vice President Mike Pence. It's the first time a sitting Vice President has come to Berks County since 2002 when Dick Cheney visited ..."
     publishedDateTime: 2020-10-18T01:33:00Z
@@ -134,20 +118,6 @@ related:
       - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/-EsS03_JwaWk9BPSw-Qjh6TkMcg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/WJC7VGNPQ5ARXNJWQ5DOIRH2BE.JPG"
         width: 980
         height: 550
-        isCached: true
-  - title: "Vice President Mike Pence speaks at Fort Wayne rally"
-    excerpt: "Vice President Mike Pence held a \"Make America Great Again!\" rally at 4:30 p.m. Thursday at the Fort Wayne Aero Center. Pence was originally supposed to visit Indiana for some events and to vote on Oct."
-    publishedDateTime: 2020-10-23T04:19:00Z
-    webUrl: "https://www.idsnews.com/article/2020/10/vice-president-mike-pence-speaks-at-fort-wayne-rally"
-    type: article
-    provider:
-      name: Indiana Daily Student
-      domain: idsnews.com
-    quality: 55
-    images:
-      - url: "https://snworksceo.imgix.net/ids/7f9101a9-b3e1-4dad-88e4-27a90a110a1b.sized-1000x1000.png?w=800&h=600"
-        width: 774
-        height: 600
         isCached: true
 
 secured: "w3IyzS68fwEWOpL03zMn35iGZusmZ7CE9myWlUz3Y6sJfvFbaiVVGD+2fu4GuTiR/3oLhSQ/FNOn1XiZD0RwG2vAOouzvMvZXV/dgsWfnIBsi7a4snwNCEHrYeZ/3F05nVGG0Fri3dhZA+ORIfw3toGeyaYkX9/CA/fMkiFccMwZ/qjWzs1J1xaNfyrKH5rb2T2N2zTUU7iKYXfJUBBeUsRUMBVlXDr+JnCnQzoI4B8d24wirTr5NiIe50sEtX8KotlfL0WfqM4DbT82R5LEJUJetVwKKBWPzkYqjGFnwJXnZwIANKUKggic3XO4+BPo/5Bm1Lm3BUK8grm+NhBotS2htLWMdPb67DjhjM6HvPs=;fzcUydMPCSaSdRWaGfXXKA=="

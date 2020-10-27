@@ -396,15 +396,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 40
-  - title: "Vice President Pence Hosts Debate Watch Party in Lititz, Pennsylvania"
-    excerpt: "President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz, Pennsylvania. Vice President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz,"
-    publishedDateTime: 2020-09-29T22:26:00Z
-    webUrl: "https://www.c-span.org/video/?476356-1/vice-president-pence-hosts-debate-watch-party-lititz-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
   - title: "Vice President Pence Holds Rally in Council Bluffs, IA"
     excerpt: "President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs, IA. Vice President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs,"
     publishedDateTime: 2020-10-01T09:01:00Z

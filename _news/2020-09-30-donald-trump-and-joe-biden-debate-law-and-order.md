@@ -1141,6 +1141,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Poll: Trump ahead of Biden by single digits in Texas"
+    excerpt: "The latest survey of the southern battleground shows GOP Sen. John Cornyn with a larger lead in his reelection race."
+    publishedDateTime: 2020-10-27T04:22:00Z
+    webUrl: "https://www.politico.com/news/2020/10/26/poll-trump-biden-texas-432525"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/a0/1b/a2f1a3134300840713a2331bc39e/201026-donald-trump-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Three-quarters of Latino voters disapprove of Trump's coronavirus response in poll"
     excerpt: "\"After seven weeks of tracking Latino sentiments leading up to the election, it is difficult to overstate the impact that COVID-19 has had on the Latino electorate,\" writes pollster Stephen Nuño-Perez."
     publishedDateTime: 2020-10-22T12:48:00Z
@@ -1156,6 +1170,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418083/201006-donald-trump-face-mask-ac-959p_1b3321239400e6b3c742ea617772ba65.jpg"
         width: 2500
         height: 1619
+        isCached: true
+  - title: "Trump takes Supreme Court victory lap while deceiving nation over worsening pandemic"
+    excerpt: "President Donald Trump claimed a place in history Monday when Amy Coney Barrett's confirmation secured a dominant conservative majority on the Supreme Court, but the pomp of his victory lap could not disguise the reality of a pandemic that has placed his presidency in deep peril a week before the election."
+    publishedDateTime: 2020-10-27T04:00:00Z
+    webUrl: "https://www.cnn.com/2020/10/27/politics/donald-trump-confirmation-amy-coney-barrett-joe-biden-election-2020-supreme-court/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/donald-trump-confirmation-amy-coney-barrett-joe-biden-election-2020-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/donald-trump-confirmation-amy-coney-barrett-joe-biden-election-2020-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 128
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026212321-06-wh-barrett-sworn-in-1026-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "‘It’s clear Donald Trump’s campaign is desperate’: President Trump campaigns in traditional"
     excerpt: "With a little over two weeks until the election, President Donald Trump is spending a considerable amount of time campaigning in traditionally red states as he continues to trail Democratic presidential nominee former Vice President Joe Biden in the polls."
@@ -1261,6 +1291,15 @@ related:
     excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."
     publishedDateTime: 2020-10-25T04:00:00Z
     webUrl: "https://www.thedailybeast.com/trump-had-soundbites-at-the-final-presidential-debate-biden-had-substance-and-heart"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
+  - title: "Trump Camp Wants to Keep Some Distance From the Hunter Biden Story"
+    excerpt: "Despite the Trump-loving internet obsessing over it, and the president referencing it, the campaign has left it almost entirely out of its ad push."
+    publishedDateTime: 2020-10-27T05:50:00Z
+    webUrl: "https://www.thedailybeast.com/trump-camp-wants-to-keep-some-distance-from-the-hunter-biden-story"
     type: article
     provider:
       name: The Daily Beast

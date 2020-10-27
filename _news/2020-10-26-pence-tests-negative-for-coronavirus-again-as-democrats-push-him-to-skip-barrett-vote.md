@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Marc Short, chief of staff for Vice President Mike Pence, tests positive for coronavirus"
-    excerpt: "Marc Short, chief of staff for Vice President Mike Pence, has tested positive for the coronavirus, the vice president’s office confirmed Saturday night."
-    publishedDateTime: 2020-10-25T03:39:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wl9kEObMYe0/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Marc-Short.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "5 close to Pence test positive for coronavirus, VP to maintain campaign schedule, office says"
     excerpt: "Vice President Mike Pence's office announced Sunday that three more staffers have now tested positive for coronavirus."
     publishedDateTime: 2020-10-25T15:34:25Z
@@ -61,6 +45,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20299062818187.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Marc Short, chief of staff for Vice President Mike Pence, tests positive for coronavirus"
+    excerpt: "Marc Short, chief of staff for Vice President Mike Pence, has tested positive for the coronavirus, the vice president’s office confirmed Saturday night."
+    publishedDateTime: 2020-10-25T03:51:00Z
+    webUrl: "https://www.foxnews.com/politics/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Marc-Short.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

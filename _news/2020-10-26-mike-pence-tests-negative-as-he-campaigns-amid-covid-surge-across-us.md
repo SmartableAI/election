@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-neg
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge"
 type: article
 quality: 125
-heat: 265
+heat: 225
 published: true
 
 provider:
@@ -50,7 +50,7 @@ related:
   - title: "Vice President Mike Pence's chief of staff Marc Short tests positive for COVID-19"
     excerpt: "\"Vice President Pence and Mrs. Pence both tested negative for COVID-19 today, and remain in good health,\" Pence's press secretary Devin O'Malley said."
     publishedDateTime: 2020-10-25T04:13:00Z
-    webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3a&ftag=CNM-00-10aab4i"
+    webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3b"
     ampWebUrl: "https://www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
     type: article
@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Democrats ask Vice President Mike Pence to skip Amy Coney Barrett vote over COVID risk"
-    excerpt: "A deeply torn Senate is set to confirm Amy Coney Barrett to the Supreme Court, but Democratic leaders are asking Vice President Mike Pence to stay away from presiding over Monday’s session due to potential health risks after his aides tested positive for COVID-19."
-    publishedDateTime: 2020-10-26T12:16:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/democrats-ask-vice-president-mike-pence-to-skip-amy-coney-barrett-vote-over-covid-risk.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/democrats-ask-vice-president-mike-pence-to-skip-amy-coney-barrett-vote-over-covid-risk.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/democrats-ask-vice-president-mike-pence-to-skip-amy-coney-barrett-vote-over-covid-risk.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 67
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZHVGK7ZIFBGQBINZMERJYCYJMY.jpg"
-        width: 4000
-        height: 2938
-        isCached: true
   - title: "As Mike Pence speaks in Tallahassee, reports reveal 2 top aides tested positive for COVID-19"
     excerpt: "WASHINGTON – Vice President Mike Pence was in the middle of his second campaign rally in Florida at Tallahassee International Airport Saturday when Bloomberg reported that one of his closest advisers had tested positive for the novel coronavirus earlier ..."
     publishedDateTime: 2020-10-26T13:37:00Z
@@ -110,20 +94,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/25/PTAL/057a072d-a817-4e5e-8e7d-945716bff373-Trump_supporters032.JPG?auto=webp&crop=5417,3048,x0,y189&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Several People in Vice President Mike Pence’s World Now Have Covid-19"
-    excerpt: "At least five people in Vice President Mike Pence’s inner circle have tested positive for the coronavirus, according to a report from CNN. That tally includes some of his closest advisors, including his chief of staff Marc Short and an advisor named Marty Orbst."
-    publishedDateTime: 2020-10-25T15:25:00Z
-    webUrl: "https://www.motherjones.com/coronavirus-updates/2020/10/several-people-in-vice-president-mike-pences-world-now-have-covid-19/"
-    type: article
-    provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 55
-    images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/pencenormalize-10820.jpg?w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
         isCached: true
   - title: "White House COVID-19 Outbreak: Why Mike Pence Is Being Called ‘Grossly Negligent’ After Staff’s COVID Diagnosis"
     excerpt: "Trump administration and campaign officials faced questioning about Vice President Mike Pence’s planned travel in the upcoming week after two of his top aides tested positive for COVID-19."

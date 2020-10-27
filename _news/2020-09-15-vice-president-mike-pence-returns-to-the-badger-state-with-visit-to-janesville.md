@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence coming to West Mifflin for rally Friday"
-    excerpt: "Vice President Mike Pence will be in West Mifflin on Friday for a Make America Great Again Victory Rally. Pence will be joined by Rep. Mike Kelly and Luke Negron at the event, which will be held at Lynx FBO Pittsburgh on Lebanon Road."
-    publishedDateTime: 2020-10-22T11:11:00Z
-    webUrl: "https://www.wpxi.com/news/top-stories/vice-president-mike-pence-coming-west-mifflin-rally-friday/MMWS27SUUNCJ7L2GVEX4WNK6KU/"
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 55
-    images:
-      - url: "https://www.wpxi.com/resizer/k80XdFUY9-oMERdPVWgTMszBQPM=/1200x628/d1hfln2sfez66z.cloudfront.net/08-27-2020/t_1b5fc946b12544e2ada6fbef1564f361_name_Mike_Pence_What_you_need_to_know_5f47b61b836f805692005f63_1_Aug_27_2020_13_44_39_poster.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "j/URjkHO6tmVXM1pk3lQNmmK1dso8s+mYcopgwyg6qfL+arWFpXAkKlnvdKAbqcUYyjEDXDSm/alG+pwua3v+kHjHBsAe7XeBSSGRB+8OUNF4BczclGe37t0RsTkmWUd6kKC4By3ZSKmG544W2T6nqPG61EWFH0p0ZfuBfFf1+T6MCQdcZSchmHDOg3rZ81sOfxJ1mT779rHi4D5CbZi7xf9/vivXJmX//UZFfkkvs8oJ5w3rFLG/JSCLngC5mGRd1a/hNfvFv0RgTL8juz1GUcLGPUcyHJn3Al2jBpS7A/XgLWAi5Cjf+3J4iGW/AUsMB4HWP47O3mm4H75McAontMjnH1QWKaodCQuzDVtM4M=;sOsyzFpUFElyVrDveZvpWA=="
 ---

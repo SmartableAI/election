@@ -2,13 +2,13 @@
 category: news
 title: "Marc Short, chief of staff for Vice President Mike Pence, tests positive for coronavirus"
 excerpt: "Marc Short, chief of staff for Vice President Mike Pence, has tested positive for the coronavirus, the vice president’s office confirmed Saturday night."
-publishedDateTime: 2020-10-25T03:39:25Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wl9kEObMYe0/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wl9kEObMYe0/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus"
+publishedDateTime: 2020-10-25T03:51:00Z
+originalUrl: "https://www.foxnews.com/politics/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus"
+webUrl: "https://www.foxnews.com/politics/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus"
 ampWebUrl: "https://www.foxnews.com/politics/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marc-short-chief-of-staff-for-vice-president-mike-pence-tests-positive-for-coronavirus.amp"
 type: article
-quality: 176
+quality: 126
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Marc-Short.jpg?ve=1&tl=1"
@@ -65,6 +65,6 @@ related:
         height: 320
         isCached: true
 
-secured: "4CY54zELC3fnEDEfIeMWpiO+28v850+veeVJqxrYZzTvCbSuWhgz8gKqH7HGEtNDltqHLCRzm2LpyMaT9/vMrCgG8ucG4ybXX48W6Q1c+mokCJH47CqmRGyLl382/Sxy03x+PWiXXJbOM0CJBROCoTjK9ZPVXgeQ0UZ3y/0jAxHrLmpeqtZiot/b52zCK2AXtfrOo20U3HBhNh9dus1nUG3u5pZ9EpM0qabXKtPnsGXSBeuUKvjTByp0fcxAwNPnsnfEN0kGDml/UdKfhzdsFjmk6jHWlGtJvUOgkxbYX9h02NLoA4u4UNYJndfc4NlJtUqQOjHmq5FfK98AHSxaoJwQE7oMpa0+iNH5hIEs/4k=;po83P4vYnAl+uyh5tGlsWw=="
+secured: "4TYKv6k4fvL3XY/x5S4DjK46gUUZIFQdTtJPWtpb1n05M6ZrNikvqKEFylBW7Ar8KuxTx/cNLcB2EZzTyWosSN86tI850EwfZrTJ/LNKDZgjQ6ei/t42hBCTr9c/s+S84xZ0ZwBSlkDLCWSyhI5IvYJnkOfgQmAfKQ0XrXmT0gJRH7ym/LFkUKrD9kYWA0Q6/XiugoHMc+bANnEBqgVL7dUR2RGG1rTlH2mp/mh4dohM+fWNi2XbJEkbKryeEg56unUM48OcVlHVRqTtbpYKA1vRxfMdm/KitSrzMf9O/NhIYk2zjJkSCi/1I8F4nYYqZ7cMpAeFf7kyyHRGP9c6a95cZuU8kZldWSWfKdMwUP0=;vI/wu9tjYQKJgwH90ojjNg=="
 ---
 

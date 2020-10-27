@@ -463,15 +463,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Vice President Pence Remarks at Campaign Rally in New Hampshire"
-    excerpt: "President Pence delivers remarks at a campaign rally in Portsmouth, New Hampshire. Vice President Pence delivers remarks at a campaign rally in Portsmouth, New Hampshire. Vice President Pence spoke at a Trump campaign rally in Selma,"
-    publishedDateTime: 2020-10-21T17:38:00Z
-    webUrl: "https://www.c-span.org/video/?477199-1/vice-president-pence-remarks-campaign-rally-hampshire"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "TbnTVwI4v7IS822H1Oyd2gslBSI5SABKlJ/X80gL8UhURAkVURhwT7utz965yPuV4SETHwM/hzcE2dNFiiVBSFPinIJOuBC8tiy9zUxhUvSus06YtuLiRqCBw4Z6X2sbuEsOL6A3YbJ9fTqNFLuhddM7mrkiet1V9DEb3CycmdM/HH0zBIJvgKvtnsdvjEEVh4j8UIFyJcBPFDWLDO8P0guKVfvkhgy0aTn28F1SIZvIg6yVImo5PodBz0Q6pzxJ0KlbOx9UVKUV6ubL/schUKANZcOFWSA0XfLnmQwbc13Ta3RJ5JNXyvNvy11aBrvEnrk0x1fv77vKCHkcGb2ipgDLOfleBqOhIT8Mz9zPs/WSpS6SE8bOpk7krjX8Z0k76ib5p8mqMe6pKr6Cdf/HHx5N/8VXePxkgqVvG/5xrEek/zNxg0LCMi7gNnyj38r4sCHqypR6yhcVOCYdHaTcW79sMeQIPOcAimYcWRcDJ9DqlOkapnYDdmLMn5gH5hvpKi8y82za+h9eA+sXuKPTQg==;xE+v1Y2a05rB1CQsqT2VAw=="
 ---
