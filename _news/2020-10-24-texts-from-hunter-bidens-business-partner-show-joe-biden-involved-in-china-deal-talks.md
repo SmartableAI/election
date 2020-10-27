@@ -872,15 +872,15 @@ related:
         height: 576
         isCached: true
   - title: "Democratic candidate Kamala Harris to visit Phoenix, Tucson on Wednesday"
-    excerpt: "Kamala Harris, the Democratic candidate for vice president, will visit Phoenix and Tucson on Wednesday, her campaign announced on Monday. No further details on when or w"
-    publishedDateTime: 2020-10-26T23:38:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/26/democratic-candidate-kamala-harris-visit-phoenix-tucson-oct-28/6037148002/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/6037148002"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/6037148002"
+    excerpt: "Kamala Harris, the Democratic candidate for vice president, will visit Phoenix and Tucson on Wednesday, her campaign announced on Monday. No further details on when or where she will visit were immediately available."
+    publishedDateTime: 2020-10-26T23:57:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/26/democratic-candidate-kamala-harris-visit-phoenix-tucson-oct-28/6037148002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6037148002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6037148002"
     type: article
     provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
+      name: Tennessean
+      domain: tennessean.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"

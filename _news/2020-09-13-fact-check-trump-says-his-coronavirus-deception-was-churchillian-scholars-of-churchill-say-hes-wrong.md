@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: At Pennsylvania rally, Trump makes four false claims about voting in the state"
+    excerpt: "President Donald Trump has made a habit of lying about the integrity of the election. And in the first of his three Monday events in Pennsylvania, he made four false claims about voting in the state.\n    \n"
+    publishedDateTime: 2020-10-27T00:43:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UlOJrsdkIhI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/fact-check-voting-pennsylvania-fraud-philadelphia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/fact-check-voting-pennsylvania-fraud-philadelphia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142449-03-trump-rally-pa-1026-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Echoing Trump, Barr misleads on voter fraud to attack expanded vote-by-mail"
     excerpt: "The attorney general's remarks have worried civil rights advocates who fear the Justice Department will selectively enforce voting laws."
     publishedDateTime: 2020-09-19T09:16:00Z

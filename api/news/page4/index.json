@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-24-iran-says-its-not-interested-in-debate-after-biden-warns-it-will-pay-a-price.md",
+      "title": "Iran Says It's 'Not Interested' in Debate After Biden Warns It 'Will Pay A Price'",
+      "excerpt": "\"We have repeatedly stated that Iran does not interfere in other countries' elections,\" Iranian mission to the United Nations spokesperson Alireza Miryousefi told Newsweek.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/iran-not-interested-debate-biden-warns-pay-price-1541791",
+      "originalUrl": "https://www.newsweek.com/iran-not-interested-debate-biden-warns-pay-price-1541791",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1657961/vice-president-joe-biden-debate-trump.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/iran-not-interested-debate-biden-warns-pay-price-1541791?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/iran-not-interested-debate-biden-warns-pay-price-1541791?amp=1",
+      "publishedDateTime": "2020-10-23T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-trump-campaign-chief-calls-us-rep-ilhan-omar-dangerous.md",
       "title": "Trump Campaign Chief Calls US Rep. Ilhan Omar 'Dangerous'",
       "excerpt": "Donald Trump's top campaign aide lobbed an attack on U.S. Rep. Ilhan Omar on Friday, as the president's reelection team makes a play for Minnesota, calling her \"the most extreme, the most dangerous\" member of the Democratic Party.",
@@ -1272,62 +1324,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-bidens-court-commission-plan-court-packing.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-bidens-court-commission-plan-court-packing.amp",
       "publishedDateTime": "2020-10-22T14:50:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-trump-lambasts-lesley-stahl-for-pressing-him-on-tough-questions-thats-no-way-to-talk.md",
-      "title": "Trump lambasts Lesley Stahl for pressing him on 'tough questions': 'That's no way to talk'",
-      "excerpt": "President Trump, in a testy interview with CBS's Lesly Stahl, chastized the veteran reporter telling her \"that's no way to talk\" when she ribbed him about his ability to take \"tough questions\" during an interview meant to air on 60 Minutes on Sunday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m3M0n6CFYvs/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m3M0n6CFYvs/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd47da4d-02e5-45b9-a0f3-c6dfa1b62229/ec7f5fd6-cc4d-4598-999c-4cd944044c5b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions.amp",
-      "publishedDateTime": "2020-10-22T14:10:54-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

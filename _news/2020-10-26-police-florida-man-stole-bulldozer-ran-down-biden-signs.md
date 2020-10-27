@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/police-florida-man-sto
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
 type: article
 quality: 125
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden is making a late push for Cuban American voters in Florida. Will it matter?"
-    excerpt: "The Biden campaign made what one pollster called \"night and day difference\" in its outreach to Hispanic voters in Florida, which lifted its support."
-    publishedDateTime: 2020-10-21T01:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5884192002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884192002"
+  - title: "Joe Biden's dangerous, top secret 'foreign policy'"
+    excerpt: "Biden likely would have an unstable, factional coalition government and be unprepared to deal with any foreign hostilities."
+    publishedDateTime: 2020-10-26T14:00:00Z
+    webUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy"
+    ampWebUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/c5107522-4dbb-4bb7-bc07-5a9025a578a7-AFP_AFP_8T24WG.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "LWQQwVy9w6c0HG4eA9MiAkQoQ3d1RCSK225o3oQrpIDT2N7ryFiB8B46oA8Q5bcR3AxO964yxh/SGlgXZbLghQY16L6W/o1QLUBEoGy/UNpeQgFUaD4ZjcW+dLuWfNAaYePze11a3ep/oL3kyI6M3NzEzzQImIRr9XSCVkUZOP4VnLiMrj2Or+YgJZ9jV4xm/UzAmia3uKwEjJiW1Vpe4S9iDim74AhxOYD060d66prV3eHDJ/KKHa3yBsUUORxox25+IQnGLX98C0Fjnax5boJ+sd9ku3Tyo95JMHyMlqz3e1u3rvFALCCc+ya8L178uaLEn3AdiNSnAM5dnrKpoWLKpy8rhS+7gpFsgd0NCW4=;nK7qoKxcJivzer1fEYzb5A=="

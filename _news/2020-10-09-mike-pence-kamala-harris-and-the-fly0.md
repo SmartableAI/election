@@ -847,6 +847,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Virus Takes Center Stage as Pence and Harris Skirmish in Debate"
+    excerpt: "Vice President Mike Pence and Senator Kamala Harris met in a face-off that was more civil than the unruly presidential event but featured sharp exchanges over the virus, China policy, job creation ..."
+    publishedDateTime: 2020-10-08T10:06:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/vice-presidential-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/vice-presidential-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/vice-presidential-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07debate-ledeall-1/07debate-ledeall-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Watch 6 Standout Moments From Harris and Pence at the Debate"
     excerpt: "The vice-presidential matchup, far less combative than its presidential predecessor the week before, was marked by flashes of tension and political chess moves."
     publishedDateTime: 2020-10-09T08:31:00Z

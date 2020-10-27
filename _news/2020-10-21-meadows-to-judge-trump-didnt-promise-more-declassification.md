@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's taxes, election and abortion cases await Amy Coney Barrett in her first week"
+    excerpt: "Amy Coney Barrett is preparing to join the Supreme Court as the justices are ready to take action on a number of important petitions before them, including several related to next week's election.\n    \n"
+    publishedDateTime: 2020-10-27T01:22:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B5BdkyIE0wk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/taxes-election-abortion-amy-coney-barrett/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/taxes-election-abortion-amy-coney-barrett/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014132825-16-barrett-hearing-1014-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Listen to leaked call of Trump bashing Fauci"
     excerpt: "President Donald Trump claimed on a campaign call that people are tired of hearing about coronavirus, which has killed more than 215,000 Americans, and criticized Dr. Anthony Fauci as a \"disaster\" who has been around for \"500 years.\"\n    \n"
     publishedDateTime: 2020-10-19T19:08:33Z

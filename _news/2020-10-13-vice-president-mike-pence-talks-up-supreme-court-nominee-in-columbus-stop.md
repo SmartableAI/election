@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Smoothing chaos to dullness was Pence's point"
+    excerpt: "Before we get to his defense of the Trump administration, let's discuss Mike Pence's opposition to a wall. There was something deeply pathetic about the vice president protesting a panel of ..."
+    publishedDateTime: 2020-10-08T20:15:00Z
+    webUrl: "https://www.newsday.com/opinion/commentary/mike-pence-donald-trump-2020-presidential-election-vice-presidential-debate-kamala-harris-coronavirus-covid-19-1.50030980"
+    ampWebUrl: "https://www.newsday.com/amp/opinion/commentary/mike-pence-donald-trump-2020-presidential-election-vice-presidential-debate-kamala-harris-coronavirus-covid-19-1.50030980"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/commentary/mike-pence-donald-trump-2020-presidential-election-vice-presidential-debate-kamala-harris-coronavirus-covid-19-1.50030980"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 75
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.50030981.1602182199!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Vice President Mike Pence and his wife had requested absentee ballots by mail"
     excerpt: "IndyStar has learned Vice President Mike Pence and his wife, Karen Pence, in September requested absentee ballots from Marion County."
     publishedDateTime: 2020-10-09T16:37:00Z

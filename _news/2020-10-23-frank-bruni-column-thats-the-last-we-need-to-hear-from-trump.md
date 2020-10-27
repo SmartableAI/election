@@ -677,6 +677,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump eyes hosting election night party at his DC hotel"
+    excerpt: "President Donald Trump has his eye on hosting an election night party at his own hotel in the nation’s capital."
+    publishedDateTime: 2020-10-27T00:49:00Z
+    webUrl: "https://www.businessinsider.com/trump-eyes-hosting-election-night-party-at-his-dc-hotel-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-eyes-hosting-election-night-party-at-his-dc-hotel-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-eyes-hosting-election-night-party-at-his-dc-hotel-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Amid record U.S. cases and new White House outbreak, Trump claims pandemic progress"
     excerpt: "With U.S. coronavirus cases at record levels, President Donald Trump on Sunday repeated his refrain that the nation is \"rounding the turn\" in the pandemic, while Vice President Mike Pence pressed ahead with campaigning despite positive COVID-19 tests among multiple aides."
     publishedDateTime: 2020-10-25T20:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/?outputType=amp"
 type: article
 quality: 140
-heat: 2260
+heat: 2280
 published: true
 
 provider:
@@ -672,6 +672,17 @@ related:
     webUrl: "https://www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10"
     ampWebUrl: "https://www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Trump eyes hosting election night party at his DC hotel"
+    excerpt: "President Donald Trump has his eye on hosting an election night party at his own hotel in the nation’s capital."
+    publishedDateTime: 2020-10-27T00:49:00Z
+    webUrl: "https://www.businessinsider.com/trump-eyes-hosting-election-night-party-at-his-dc-hotel-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-eyes-hosting-election-night-party-at-his-dc-hotel-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-eyes-hosting-election-night-party-at-his-dc-hotel-2020-10?amp"
     type: article
     provider:
       name: Business Insider

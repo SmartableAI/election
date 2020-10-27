@@ -693,6 +693,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump eyes hosting election night party at his DC hotel"
+    excerpt: "President Donald Trump has his eye on hosting an election night party at his own hotel in the nation’s capital."
+    publishedDateTime: 2020-10-27T00:49:00Z
+    webUrl: "https://www.businessinsider.com/trump-eyes-hosting-election-night-party-at-his-dc-hotel-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-eyes-hosting-election-night-party-at-his-dc-hotel-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-eyes-hosting-election-night-party-at-his-dc-hotel-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Why faith voters should stick with Trump: Christian leaders of character surround him"
     excerpt: "Trump seldom reflects the desired fruits of the Spirit. But he kept his promises to the faith community and surrounded himself with key leaders from it."
     publishedDateTime: 2020-10-22T07:39:00Z

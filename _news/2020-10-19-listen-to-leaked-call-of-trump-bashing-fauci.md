@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's taxes, election and abortion cases await Amy Coney Barrett in her first week"
+    excerpt: "Amy Coney Barrett is preparing to join the Supreme Court as the justices are ready to take action on a number of important petitions before them, including several related to next week's election.\n    \n"
+    publishedDateTime: 2020-10-27T01:22:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B5BdkyIE0wk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/taxes-election-abortion-amy-coney-barrett/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/taxes-election-abortion-amy-coney-barrett/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014132825-16-barrett-hearing-1014-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Why Trump's road to 270 is narrow"
     excerpt: "President Donald Trump faces a large deficit in the polls right now. If the election were held today, he'd very likely lose.\n    \n"
     publishedDateTime: 2020-10-20T11:02:27Z

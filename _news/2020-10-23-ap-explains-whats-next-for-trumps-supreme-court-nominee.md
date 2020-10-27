@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump remakes Supreme Court as Senate confirms Amy Coney Barrett"
+    excerpt: "The Republican-led U.S. Senate handed President Donald Trump a major pre-election political victory on Monday by confirming his Supreme Court nominee Amy Coney Barrett as he delivered a dramatic conservative overhaul of the nation's top judicial body."
+    publishedDateTime: 2020-10-27T00:30:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN27C00H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C00H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C00H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538910364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q009"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "z5DTh+GAZ0ovxESn9Yn4QcAKZVJm0ZCimi+FKt4xS2Ta8ESEhjSmLTPivfc7eifaXDr4/yJVYolSj8Q2RFwgkHPHXA6Vn8PDEZo2ddoNxEuWVY+QDWWn+BNiCjDoKbc0mGfnIsJb9xm40E8sgW881akDUvkg42Wa9c6GNywY/3NvV8XZ+3WTssT/ZEnsWaIdPh0gNx1LmAHaNUqV0y8GHxetQWWNEfXPcMXugpvJ79nyJgqo3GW6gJcWNWEUroKWf6aNWcXVvoQ1ayuke51kI8LQzsIzdwmzTXNxyRuySDQ7q1BtBEYIIykhUoFWoEc1ivNPi1Q0rMv2W5/U9e/Q2eQz1l4aLAP7yRU99rkNbVo=;eHUVapFrjgsirsKxDkXoHg=="
 ---

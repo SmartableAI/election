@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2543
+heat: 2563
 published: true
 
 provider:
@@ -830,6 +830,22 @@ related:
       - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/vp_mash_thumb.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Virus Takes Center Stage as Pence and Harris Skirmish in Debate"
+    excerpt: "Vice President Mike Pence and Senator Kamala Harris met in a face-off that was more civil than the unruly presidential event but featured sharp exchanges over the virus, China policy, job creation ..."
+    publishedDateTime: 2020-10-08T10:06:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/vice-presidential-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/vice-presidential-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/vice-presidential-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07debate-ledeall-1/07debate-ledeall-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Mike Pence, Kamala Harris and the Fly0"
     excerpt: "It was a night of somber, serious suits and signals for both Kamala Harris and Mike Pence. Then the bug arrived."

@@ -319,6 +319,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump hits Biden on Social Security, Medicare flip flops"
+    excerpt: "With just barely more than a week to go before the November election, President Donald Trump has been taking Democratic presidential nominee Joe Biden to task for his flippant record on cutting Medicare and Social Security."
+    publishedDateTime: 2020-10-27T01:31:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KJvQaIJPEkM/election-trump-hitting-biden-social-security-medicare-flip-flops"
+    ampWebUrl: "https://www.foxnews.com/politics/election-trump-hitting-biden-social-security-medicare-flip-flops.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-trump-hitting-biden-social-security-medicare-flip-flops.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298017078188.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Twitter employees openly rip Trump, praise Biden: 'Trump must be defeated'"
     excerpt: "Twitter’s senior executives have a long history of anti-Trump hatred, a review of dozens of accounts of top employees found."
     publishedDateTime: 2020-10-18T02:33:14Z

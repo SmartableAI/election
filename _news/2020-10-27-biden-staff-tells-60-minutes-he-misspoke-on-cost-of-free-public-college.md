@@ -144,6 +144,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says he’s ‘not overconfident’ but predicts victories in key battlegrounds"
+    excerpt: "With eight days to go until Election Day on Nov. 3, Democratic presidential nominee Joe Biden is confident he’ll win a trio of crucial swing states that President Trump flipped from blue to red four years ago."
+    publishedDateTime: 2020-10-27T00:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/adi0j7Y3Zw0/biden-not-overconfident-victories-battlegrounds"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-not-overconfident-victories-battlegrounds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-overconfident-victories-battlegrounds.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden pressed over debate comment that he would 'transition from the oil industry'"
     excerpt: "After the final debate on Thursday night, Democratic presidential nominee Joe Biden was pressed by reporters on his comments about fossil fuels, following his remarks that he plans to \"transition from the oil industry.\""
     publishedDateTime: 2020-10-23T14:17:02Z
@@ -159,6 +175,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rove breaks down Trump's 'path to victory' through Michigan, Pennsylvania, Wisconsin"
+    excerpt: "The fate of President Trump's reelection bid will ultimately come down to the three battleground states that put him over the top in 2016: Michigan, Wisconsin, and Pennsylvania, former George W. Bush adviser Karl Rove predicted Monday."
+    publishedDateTime: 2020-10-27T00:49:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nmAKogyMUxU/rove-trump-path-victory-michigan-pennsylvania-wisconsin"
+    ampWebUrl: "https://www.foxnews.com/politics/rove-trump-path-victory-michigan-pennsylvania-wisconsin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rove-trump-path-victory-michigan-pennsylvania-wisconsin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230f52b5-e037-423b-befd-decdc0aec4bb/fb87aa77-b8d5-474e-8b02-5f88d81f5529/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden grilled on 'transition' away from oil and gas comment in Pennsylvania TV interviews"
     excerpt: "Democratic presidential nominee Joe Biden is getting grilled in Pennsylvania ever since he said during last week’s debate that he plans to “transition” away from the oil industry."

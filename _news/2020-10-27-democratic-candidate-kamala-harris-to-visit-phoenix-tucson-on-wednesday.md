@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Democratic candidate Kamala Harris to visit Phoenix, Tucson on Wednesday"
-excerpt: "Kamala Harris, the Democratic candidate for vice president, will visit Phoenix and Tucson on Wednesday, her campaign announced on Monday. No further details on when or w"
-publishedDateTime: 2020-10-26T23:38:00Z
-originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/26/democratic-candidate-kamala-harris-visit-phoenix-tucson-oct-28/6037148002/"
-webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/26/democratic-candidate-kamala-harris-visit-phoenix-tucson-oct-28/6037148002/"
-ampWebUrl: "https://amp.palmbeachpost.com/amp/6037148002"
-cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/6037148002"
+excerpt: "Kamala Harris, the Democratic candidate for vice president, will visit Phoenix and Tucson on Wednesday, her campaign announced on Monday. No further details on when or where she will visit were immediately available."
+publishedDateTime: 2020-10-26T23:57:00Z
+originalUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/26/democratic-candidate-kamala-harris-visit-phoenix-tucson-oct-28/6037148002/"
+webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/26/democratic-candidate-kamala-harris-visit-phoenix-tucson-oct-28/6037148002/"
+ampWebUrl: "https://amp.tennessean.com/amp/6037148002"
+cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6037148002"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Palm Beach Post
-  domain: palmbeachpost.com
+  name: Tennessean
+  domain: tennessean.com
 
 topics:
   - Election
@@ -1460,6 +1460,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "Hl02qUudEGDJcXfIItArHciAauKYfSAFfvdJ1he2t8YlnUY4xJ1zE3OBb7GGNFEHX7FO3O5wNqdyX4XeljnaK+T7ia6XMUp1+eJdL7EfubDPFNsAkFremDY0H5xld/8uG7r7DVZYQ5Dmst9eV8PsW+OgY54T8W91XN9gPIKsTVvCQ6vfk2roDJLN7YW8M3fRrBCfyW3DQmcGF7uQ9kdRBBsuV7GL5h3TR1xNhQ/GJHMCTNGHL/57tcvZQn6fezQjm6odqaWKCxug0n24VqWMRjZWH+KvoWq62TQDf+Hyu7AF99s0PWXSATMxAgTWh5+nAXL7cjfY0/qHGKV72JSeTPFV+awjfjhLrOKWVI/aBcU=;NjiytvZCQyDPKRNvj/vWEg=="
+secured: "nANiczosvXgQ7VPQMu88Aa03W5BWbPj9altJ3q4iZ4o97zMvuYaEch7jC+ydX1UC3dDx6PV2poEo8wuDdYhZr7B5PNBL0HF0s/JM4JGDf0amEvrKQJD2nf6LwexAc1cCcGei87wk2mZwbNDJ5ZuorzrStT84Cz/r7oE+ed8eY/aRjxgZMjQUdtM4pYcQ9tNnlwVxpIIj+6NsXcdbtF6WFLvgRUT1OHCbnwBTCBahvtiaU1+NGIvye+7I+gO0rjHf6Lnexhwwyw71GsigZ9pBgvNYfn7vXb6Qg7h75bLmxXmKmTt6+3Ie4zeQg+OlNAgpPRac9scejh6PmnKC1tjbPrENx5MrOqrTTd+64y7X1R4=;wsk00yN4Rba+lKP6376F/A=="
 ---
 

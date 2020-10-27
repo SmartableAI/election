@@ -4002,6 +4002,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Mike Pence has a record like no other: Kamala Harris cannot compare"
+    excerpt: "With the vice presidential debate set to air tonight, Mike Pence and Kamala Harris will confront each other over some of the biggest issues that matter to Americans most. Luckily for Mike Pence ..."
+    publishedDateTime: 2020-10-08T05:11:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/7/mike-pence-has-a-record-like-no-other-kamala-harri/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/7/mike-pence-has-a-record-like-no-other-kamala-harri/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/7/mike-pence-has-a-record-like-no-other-kamala-harri/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 100
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/2Election_2020_Pence_67576.jpg-e93fa_c3-0-3102-1808_s1200x700.jpg?03880638efec940efe8db1d2bfb68c4177db44d1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "TV tonight: Mike Pence, Kamala Harris square off in VP debate"
     excerpt: "Last week, the presidential candidates — Donald Trump and Joe Biden — went at it in an ugly showdown that was described as a “hot mess,” among other things. Tonight, Republican Mike Pence and Democrat Kamala Harris get their turn in their lone meeting at the University of Utah in Salt Lake City."
     publishedDateTime: 2020-10-07T18:12:00Z
