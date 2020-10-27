@@ -95,6 +95,31 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Twitter slapped yet another Trump tweet about mail-in voting with a 'misleading' label, and stopped other users from retweeting it"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 President Donald Trump has been fact-checked by Twitter. Again. Trump tweeted about mail-in voting on Monday, claiming there were ..."
+    publishedDateTime: 2020-10-27T11:15:00Z
+    webUrl: "https://www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Without Florida, There’s Almost No Path for Donald Trump to Stay in the White House"
+    excerpt: "There’s almost no plausible path to a second term for President Donald Trump without winning his adoptive home state. This week in the D.C. Brief, we’re going to take the temperature in ..."
+    publishedDateTime: 2020-10-26T19:33:00Z
+    webUrl: "https://time.com/5903917/trump-florida/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 79
   - title: "Living and learning: Donald Trump has never met a mistake he didn’t repeat"
     excerpt: "At his Thursday night town hall, Joe Biden admitted that some of the 1994 crime bill he coauthored was a mistake, reminding us of our own mea culpa on stop-and-frisk four years ago."
     publishedDateTime: 2020-10-18T08:05:00Z

@@ -225,7 +225,7 @@ related:
         isCached: true
   - title: "Biden makes play for red states in final days of campaign as Trump narrows his focus"
     excerpt: "Democratic presidential nominee Joe Biden's campaign is making a late push into deeper-red states in the final week before the 2020 election, chasing a number of possible paths to 270 electoral votes while President Donald Trump focuses on defending a narrower set of states that he won four years ago"
-    publishedDateTime: 2020-10-27T11:42:54Z
+    publishedDateTime: 2020-10-27T15:23:49Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UHcNMwE1gu0/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/2020-election-biden-trump/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/2020-election-biden-trump/index.html"
@@ -606,6 +606,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026212321-06-wh-barrett-sworn-in-1026-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Election live updates: Trump, Biden hit battleground states with one week to go"
+    excerpt: "With one week remaining until Election Day, Tuesday begins the final countdown of the campaign for President Donald Trump and Joe Biden. Trump is holding afternoon events in the key battleground states of Michigan and Wisconsin,"
+    publishedDateTime: 2020-10-27T10:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-27-trump-biden-election-n1244852"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244852"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244852"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 161
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "2020 Election Live Updates: Trump to Travel to 3 States as Biden Focuses on Pennsylvania"
     excerpt: "President Trump and Joe Biden prepare for their closing arguments in the final stretch, taking them to some of the country’s top battlegrounds. An order allowing multiple drop boxes per county in Texas is upheld."
@@ -1388,6 +1404,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 58
+  - title: "Trump Final Campaign Push Is to Kill His Own Supporters"
+    excerpt: "Donald Trump doesn’t care who gets sick or dies from COVID-19—even if it’s his own supporters. That’s the harsh reality of where we find ourselves as a nation as Trump holds superspreader campaign rallies and continues to intentionally—and I believe criminally—mislead Americans about this deadly virus because he believes this helps him politically."
+    publishedDateTime: 2020-10-27T09:04:00Z
+    webUrl: "https://www.thedailybeast.com/trump-final-campaign-push-is-to-kill-his-own-supporters"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "NxWYSvF+NAi0J65n3YZZMd+ZHXu1KVPQkqHzc+nIIEwFlaLpSbep7b6UwGxbtNR8URgurWe7zMQPUL+AI3iiZ6OPvtiW0edJKl8bfoY4leT+Xl/3iJo5ptjSD6JKk66yBSFIL6YUnaFTgp+DJTnqnfhnDWyroC108//4Hf0OtfImFU9EQ1RN8So5y5d0h01bSh2JCHqcO/LLTUHYocoEb49wjVVpc5Vn91FVKxq+sGYM1C1q8GNIr0QpCT9KM7Qmdc/iAssN1FgYWqLahjQbOkoXvWoaux0c/3qzQrus1qB/IBI0NHzTSMNZSgAxlE5W29NzZIuF/fFt6OvzDdHzKm46a2YsSOyr98W8/chCPYE=;SGm/eQPzAu4CNyUP9iXTbA=="
 ---

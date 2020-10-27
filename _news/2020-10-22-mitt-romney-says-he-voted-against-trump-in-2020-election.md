@@ -875,6 +875,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Industries To Invest In When President Trump Is Reelected"
+    excerpt: "Looking for an investment edge in your retirement account following the election? The reelection of President Trump is likely to benefit stocks in these industries."
+    publishedDateTime: 2020-10-27T13:33:00Z
+    webUrl: "https://www.forbes.com/sites/chriscarosa/2020/10/27/industries-to-invest-in-when-president-trump-is-reelected/"
+    ampWebUrl: "https://www.forbes.com/sites/chriscarosa/2020/10/27/industries-to-invest-in-when-president-trump-is-reelected/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriscarosa/2020/10/27/industries-to-invest-in-when-president-trump-is-reelected/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9799710fd1b76a1a9b8a05%2F0x0.jpg%3FcropX1%3D16%26cropX2%3D6000%26cropY1%3D76%26cropY2%3D3441"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
     publishedDateTime: 2020-10-10T17:45:00Z

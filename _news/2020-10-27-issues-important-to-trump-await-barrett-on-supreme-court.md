@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Issues important to Trump await Barrett on Supreme Court"
-excerpt: "Amy Coney Barrett's first votes on the Supreme Court could include two big topics affecting President Trump."
-publishedDateTime: 2020-10-27T11:01:38Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KIwFUANKQSs/donald-trump-amy-coney-barrett-supreme-court-important-issues"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KIwFUANKQSs/donald-trump-amy-coney-barrett-supreme-court-important-issues"
+excerpt: "Amy Coney Barrett's first votes on the Supreme Court could include two big topics affecting the man who appointed her. The court is weighing a plea from President Donald Trump to prevent the Manhattan district attorney from acquiring his tax returns."
+publishedDateTime: 2020-10-27T11:13:00Z
+originalUrl: "https://www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues"
+webUrl: "https://www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues"
 ampWebUrl: "https://www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -254,6 +255,6 @@ related:
         height: 720
         isCached: true
 
-secured: "LOtcWFETO85sqSkGRkL7wl7+mJykp/997+mB34+ltY9MU21152LG22beoFUtcK6T2Fiu1bQ6YPBTlSSjpE0iPgj7VrMdz7ZUOLMjfHlj/wYnHgt8dxCuBuEPrQwO+K5SaZV0F1CuRN8hzpKbGb++n6Mgc2UATolKM8PtTyHtSAJBk10JDrSzW0CCnpJRnQsMu0IrFHqMkR4dzO5DMuCWqTlBAEDD3bsbOvZYkayWW1ze+J3mkLn/5sPcDn8bZi6fbed9uI9wW9CVhwT8MUeAk5voRXdzGHSbL4sezHdP5jXh7R1OBWQWCNi4H30q8Pmsqg7NA8sOVJu7M2OtWRWf6wfCbcZt0D5k2F5wm1I7p1A=;CR+kl4qKRX1XMyU79uHtkw=="
+secured: "gc63T5TuwPALBh9ZAhpNhY6wSgDbJpR/DaFLByrJsHCFVVOTZvBgtGo3dWBe2LgG7eafxnAB1XW1FCFy2dgHfu7j2JHRdYBK0yRttR8K29yW0wc5E2/onqf/PaKAAPh8NdeFsraRXE66zY007V/qWoHX+uM6ISfYuK+GYnHV83uvAt5PEQ37JwXwIrF1MH0DBDhKGZyubjssRsTsFIC9MxBt/OOD+he8CKZR1MDIXCiIpQQvY13DMkraFsCyiKE+NsnBWwuw3MWMK+P+ACw+ShdXwov65UfuXUpA5LG+aPyQLnSWWTP5Me0oj0uSzj1glOnYzMJ81zLOWM0dkw3pHwL0/HBI3FpPd8snWeedXjM=;dfXMvmY3vSJuDOXPba6J4A=="
 ---
 

@@ -125,22 +125,6 @@ related:
         width: 750
         height: 552
         isCached: true
-  - title: "A Biden Family Special Prosecutor in 2021?"
-    excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade"
-    publishedDateTime: 2020-10-27T04:01:00Z
-    webUrl: "https://townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819"
-    ampWebUrl: "https://townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/300/b56c4ad7-0b8b-4c0d-858d-a3e90867fcde.jpg"
-        width: 650
-        height: 340
-        isCached: true
 
 secured: "q0of/lfr+y8t0460Md55XVL+XS2l9lk5DVCoSDd0kGvAqRFcytlkQS507jqsLQCZy+QvdBIqorRdVfoMaW5YCC3Eur96Xq5+pScVqsdMONMTiLjyzTHzSiCHdhMazZIshsvrg+6id4bJvn+RucF1GxpXQTuXoe2VwAK/xHouKIkFGYEJ9bzuq1cHXjQg4jW8okflEgvkPaM09HdbQhrYjKA59c5vyuDhZeMIWgmunSISj0eJvsEf5lTRt6v1XpeUZUpKeqzZeK6Qo3GFRePLi7mQU017Y5cYB7rdPfRKSpg3/iWY7O77X7bN6/Is43fQBlJ5/6eBBIrIrLpU0AeNuN95rcgZA/tff4hhGVSCKTY=;JzGqdxP2gUlJpWuX/YjL5g=="
 ---

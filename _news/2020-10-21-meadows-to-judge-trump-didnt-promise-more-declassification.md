@@ -206,6 +206,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration set to announce Medicare and Medicaid will cover Covid vaccine"
+    excerpt: "The Trump administration is set to announce as early as this week that Medicare and Medicaid will cover out-of-pocket costs for a potential coronavirus vaccine that is granted emergency use authorization, according to a person familiar with the matter.\n    \n"
+    publishedDateTime: 2020-10-27T13:56:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oKaKQ8ZAVtA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/coronavirus-vaccine-trump-admin-medicare-medicaid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/coronavirus-vaccine-trump-admin-medicare-medicaid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928091433-01-trump-0923-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration notifies Congress of $1.8B in proposed weapons sales to Taiwan "
     excerpt: "The US formally notified Congress of a proposed $1.8 billion in advanced weapons systems sales to Taiwan -- a move sure to increase tensions with Beijing.\n    \n"
     publishedDateTime: 2020-10-21T22:10:47Z

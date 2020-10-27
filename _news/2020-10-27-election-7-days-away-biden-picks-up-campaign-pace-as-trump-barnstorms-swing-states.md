@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-n
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-november-election.amp"
 type: article
 quality: 199
-heat: 619
+heat: 679
 published: true
 
 provider:
@@ -268,6 +268,52 @@ related:
     quality: 161
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/AP19236040982936.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden defends low-key campaign travel schedule, says he's 'not overconfident'"
+    excerpt: "Democratic presidential nominee Joe Biden on Monday defended his light campaign travel schedule, maintaining that he's not overconfident about his odds of defeating incumbent President Trump with one week to go until the November election."
+    publishedDateTime: 2020-10-27T15:47:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tKti5i3Mp50/biden-defends-low-key-campaign-travel-schedule-says-hes-not-overconfident"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20300747868320-e1603801372187.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Campaign Tones Down Immigration Messages That Dominated 2016 Election"
+    excerpt: "A Wall Street Journal review found that immigration was the fourth most mentioned issue in Donald Trump’s 2016 campaign TV ads but has barely cracked the top 10 this cycle."
+    publishedDateTime: 2020-10-27T13:08:00Z
+    webUrl: "https://www.wsj.com/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-tones-down-immigration-messages-that-dominated-2016-election-11603796411"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 148
+    images:
+      - url: "https://images.wsj.net/im-249967/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Lil Pump endorses Donald Trump for president, prompts record label to declare pro-Biden stance"
+    excerpt: "Rapper Lil Pump declared that he’s backing Donald Trump in the upcoming election, prompting his label to clarify its pro-Joe Biden position.  The “Gucci Gang” rapper took to Instagram on Monday to share a photoshopped image of himself shaking hands with the president."
+    publishedDateTime: 2020-10-27T15:54:00Z
+    webUrl: "https://www.foxnews.com/entertainment/lil-pump-endorses-donald-trump-president-label-declare-pro-biden"
+    ampWebUrl: "https://www.foxnews.com/entertainment/lil-pump-endorses-donald-trump-president-label-declare-pro-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/lil-pump-endorses-donald-trump-president-label-declare-pro-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Lil-Pump.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

@@ -127,6 +127,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Election 2020 live updates: Biden on offense in Georgia, Trump on defense in Midwest"
+    excerpt: "President Donald Trump has campaign rallies in Michigan, Wisconsin and Nebraska on Tuesday while former Vice President Joe Biden spends the day in Georgia."
+    publishedDateTime: 2020-10-27T14:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73842913"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73842913"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73842913"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 148
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-rally-martinsburg-03-gty-jef-201026_1603749251767_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Immigration Makes It Into Election Debate For First Time —Here Is Where Trump And Biden Stand"
     excerpt: "Donald Trump’s hardline immigration crackdown was brought back into focus during Thursday’s second—and final—presidential debate."
     publishedDateTime: 2020-10-23T11:17:00Z
@@ -1899,6 +1915,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "6OVuKuDeLfHLA2oG+Z+MZte/w0OMD1maK+CRj3spmxJgWiH7iQw2Q7OwK6HlsN3BRej4RCzFswGPQQaQBKZZF/QCs/9XdkzAcjFw4K930JnkT91fvaIqxGM1DY1vJVPC6VKjr4E5/LIU9D3llxES/cLiOX5nhmJxF376PMGS94uI9ntWZJlU8Mx8fcysSfRNKWRrTngCU/r+ScpIzaHS9+gUjO/67q1NYOD3vPQpqkbnEfdv24xbXlOmBz0y4kCKfbrUpbnDxs2WlNoQyZTCEM32pDw9oqg1tlV2lz9DAKsJZZhVEGb0WR2SE2C1ofMsYVdbi0H9bmacfDsT8WAgD6tqnxTGEzf+60ykQmtCVO8=;UXYYNf98veicqtmUKAA9EA=="
+secured: "x7rFiVLGSJtYNh7LkUnJX39fysZT6WyKmRB3ek+SZMDdkuW4aJBweZ2FFDuGMloub5AEX2nBwTLMpl4W76imr3imiBXdwHehb1vDluSNgIhJ/x6+sUa20xMzPysTzf6Vv/SCb9F6c9jbjN9G1CzlAGvXrKpA1f4nT6E4dLPcwq3Wu2oj6wq0iffUBJittydoCxVc7IsTEAjgGvZcKFZFVhOXOoLFMGdtqcAk1gV2sSth5poC5ELjknR88lCgF95onh6DSBEV5RQBa9do/mgnkVmEQmOpIwaL+o19IDvobLKOrWSzX1Peczi1Een1SPezAiBKU8ZlKU7j3dHi/QGYRDGyO/KKj4EDH/SWL4vVgi/RU/H6U8coFydaolxEiw/+XX+DouWFByJA2ewG4EzC8tJrpWAE2DxUYgPBDJu/0S7fypoBEQ8rjh22W3sFz+esUytH3vS0ScuKMp/5J4nV3N5A/uI348Ohvo0ek9bFpZZLjyhfNKoAvpbJYhWdmkGDFLxgiPMOtgFslJuKMADFAg==;wSZDubo07ywX5K7yiReU3g=="
 ---
 

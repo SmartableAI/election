@@ -242,7 +242,7 @@ related:
         isCached: true
   - title: "Biden makes play for red states in final days of campaign as Trump narrows his focus"
     excerpt: "Democratic presidential nominee Joe Biden's campaign is making a late push into deeper-red states in the final week before the 2020 election, chasing a number of possible paths to 270 electoral votes while President Donald Trump focuses on defending a narrower set of states that he won four years ago"
-    publishedDateTime: 2020-10-27T11:42:54Z
+    publishedDateTime: 2020-10-27T15:23:49Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UHcNMwE1gu0/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/2020-election-biden-trump/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/2020-election-biden-trump/index.html"
@@ -623,6 +623,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026212321-06-wh-barrett-sworn-in-1026-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Election live updates: Trump, Biden hit battleground states with one week to go"
+    excerpt: "With one week remaining until Election Day, Tuesday begins the final countdown of the campaign for President Donald Trump and Joe Biden. Trump is holding afternoon events in the key battleground states of Michigan and Wisconsin,"
+    publishedDateTime: 2020-10-27T10:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-27-trump-biden-election-n1244852"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244852"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244852"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 161
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Biden Courts Obama-Trump Voters as the President Seeks to Hold Them"
     excerpt: "The Democratic nominee, in Wisconsin, tried to place himself on the side of American workers, while Mr. Trump used a trip to Ohio to blame his opponent for job losses there."
@@ -1389,6 +1405,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 58
+  - title: "Trump Final Campaign Push Is to Kill His Own Supporters"
+    excerpt: "Donald Trump doesn’t care who gets sick or dies from COVID-19—even if it’s his own supporters. That’s the harsh reality of where we find ourselves as a nation as Trump holds superspreader campaign rallies and continues to intentionally—and I believe criminally—mislead Americans about this deadly virus because he believes this helps him politically."
+    publishedDateTime: 2020-10-27T09:04:00Z
+    webUrl: "https://www.thedailybeast.com/trump-final-campaign-push-is-to-kill-his-own-supporters"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "/gRB1dYkQiB7V3CA36Gjb7LwdkJht4CQQrlCAcYxwF1owtsBiyfHZz4w8uGhD+/F9S3i0/DtVy2va9EdE5LrR3AZgmtvvoZ3/0xYW50Ij8zjqcH//mOBvDxfKJF0KSjiZd5XZ1CgyKYd8cd9HgJE+Wa5t9J21mxk33vMxhfWsdBflMBcnZqjPL9l/MHdsM+8/Y8+O7L3RjTPDBJ622uY6FvCgsEWXrydD+ED7ok13oZ/CNFNhMVOxSbFCF1m6S1mHqfve2g0j6NcusruDNzOlA61eZF+4kVcLYhbq30sEKLpwmqe5Bn1V12A5U/1X7XUSt3W+6AMS371JrJKvQEmVRXytrwj8nT8EfE4EVNouiE=;7/1t0hWdC3b/UCdzji+tlg=="
 ---

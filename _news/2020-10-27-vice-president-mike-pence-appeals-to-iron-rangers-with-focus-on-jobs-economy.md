@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Mike Pence appeals to Iron Rangers with focus on jobs, economy"
-excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally."
-publishedDateTime: 2020-10-26T20:20:00Z
-originalUrl: "https://www.startribune.com/vice-president-mike-pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
-webUrl: "https://www.startribune.com/vice-president-mike-pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
+excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally. HIBBING, Minn. – A brisk wind blew across the runway and light snow greeted Vice President Mike Pence as he made his closing arguments to Iron ..."
+publishedDateTime: 2020-10-26T21:20:00Z
+originalUrl: "https://www.startribune.com/pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
+webUrl: "https://www.startribune.com/pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://stmedia.stimg.co/1603746270_08+1011869285+23PENCE102720.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+  - url: "https://stmedia.stimg.co/pence+kormann+012.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces"
     width: 1200
     height: 630
     isCached: true
@@ -1512,6 +1512,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Q04jiC6FBPEehhCNutbp60S2kg1DODJtZezFdAXg9YiPiNICdzwLHX84jy52VaIqxvBD+LTHcONOgmvCqtobyPVpWXHJdVIg1fkUhPVvpsncdBizNNIJ2cJrZnCQZDBfeWJkff12ww1muskxhYqKXNFqFXzHmj8afAxxRHCNV1pn89NW7MrHhOOFUredGaAbWoqhrWrSVp/udWehQeVCQ/RQVnS2S1B4EemvBH4bsiosoElusbl6TXI2jFDeLk6H3hdGZzNIKJhB/NXPbhZ78L9IK2kWJlFE4h9A2no2TL+PRYxPkbT8AVr3LLzT6CKZxYQ3NR6HkTJiXglpCt9y2tPSeOxXwHrkI/eVfkOkAmauun7JTuH93pH22XzCI1B9GgevfSBRbZ8GxpgQkHh5s74yBdOVN34reLPxxRhRn/F8Oj1EFjAUgSrt1GCdbMU0vz5dLGRTBaMD7QWqRJLCAg/p9KpzQQlqbj1wi5FZRsHkQVrnKoeRoWCfdsLu/zxWPghQIa9aTgkoK7nFRqkKSA==;D+iSvZiWkxFoHekzvVb8Uw=="
+secured: "48gDWf1vVW2YMLnkQLOXXLe8z/OKLnLBy5jDrT1RmPoIgckElUGMUOU8/wcGRLCzXWQe6+zULoTwP4HbMK/kGiCG0S0qfMEsB2/m8fkZTo6Iv2Kq9Jm9RWDG+mvRSj49uck4bem6zUaNjYVPaxyiL/HlysRtlTuUbFkxXEbrLUJ6IPch/XbatiWSLFHgzBNpTySfKPNCu8QkDDqW65uEd9FIgrtIap+L5V5LQCnM9G8WTip9yERxVjvnoEatxjgK/jPnLF5XWUTnFPbJrPrpxbyEHiOaa/X6qzkaJU6o8i828npgGVvVF5yEtAWQvvep8Bkgg8RtCfSLVf9OjpljoalD1nq1Ge6naalxf8tS0Qg=;FtdYuT+K2MXFp/SI7FBGPA=="
 ---
 

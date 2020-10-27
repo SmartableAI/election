@@ -64,22 +64,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Issues important to Trump await Barrett on Supreme Court"
-    excerpt: "Amy Coney Barrett's first votes on the Supreme Court could include two big topics affecting President Trump."
-    publishedDateTime: 2020-10-27T11:01:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KIwFUANKQSs/donald-trump-amy-coney-barrett-supreme-court-important-issues"
-    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a1de409-79ad-4875-9231-c96193a4761b/656cc5d6-0379-4e6f-9b62-b3314c81d8c0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Russian hackers 'can't change votes,' Trump's national security adviser says"
     excerpt: "U.S. officials said that Russian hackers have targeted the networks of dozens of state and local governments in the United States in recent days, stealing data from at least two servers."
     publishedDateTime: 2020-10-25T20:30:55Z
@@ -173,6 +157,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/181cfcca-2a48-4e5d-8d4b-11a506858939/daa0e4ed-79eb-48d3-a9fe-7476913978fa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Issues important to Trump await Barrett on Supreme Court"
+    excerpt: "Amy Coney Barrett's first votes on the Supreme Court could include two big topics affecting the man who appointed her. The court is weighing a plea from President Donald Trump to prevent the Manhattan district attorney from acquiring his tax returns."
+    publishedDateTime: 2020-10-27T11:13:00Z
+    webUrl: "https://www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a1de409-79ad-4875-9231-c96193a4761b/656cc5d6-0379-4e6f-9b62-b3314c81d8c0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
