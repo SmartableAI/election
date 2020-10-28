@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/taiwan-arms-sales-formal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/taiwan-arms-sales-formal-notification/index.html"
 type: article
 quality: 168
-heat: 228
+heat: 248
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 157
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025074215-kid-flu-shot-stock-3-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Washington Post: Trump administration to roll back federal protections from Alaska's Tongass National Forest"
+    excerpt: "Federal protections for Alaska's Tongass National Forest will be lifted this week by the Trump administration, allowing \"logging and other forms of development\" to occur in the world's largest intact temperate rainforest known as America's Amazon, The Washington Post reported Wednesday.\n    \n"
+    publishedDateTime: 2020-10-28T16:22:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aHbswDwT7dw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190913160012-tongass-forest-3-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

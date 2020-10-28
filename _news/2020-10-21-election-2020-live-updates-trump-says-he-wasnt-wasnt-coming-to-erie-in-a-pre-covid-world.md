@@ -95,6 +95,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump sticks to re-election rally strategy as COVID-19 roars back in U.S"
+    excerpt: "With less than a week of voting left, President Donald Trump pushed ahead on Wednesday with mass rallies despite a U.S. surge in COVID-19 cases and mounting criticism that he is prioritizing his re-election above the health of his supporters."
+    publishedDateTime: 2020-10-28T16:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election/with-six-days-left-in-race-trump-heads-to-arizona-and-biden-delivers-covid-19-speech-idUKKBN27D0FG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27D0FG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27D0FG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539136962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R08B"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump's mercurial maze of COVID-19"
     excerpt: "Every American should be thrilled by the president’s recovery and completely bewildered by the head-spinning nature of it."
     publishedDateTime: 2020-10-06T21:30:00Z

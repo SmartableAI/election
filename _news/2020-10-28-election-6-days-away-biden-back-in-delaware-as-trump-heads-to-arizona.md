@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-election-october-28.amp"
 type: article
 quality: 205
-heat: 1605
+heat: 1625
 published: true
 
 provider:
@@ -718,6 +718,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ece5c9a-651c-46db-b47f-755e18f7e523/5133f7d3-7d2e-4430-b650-ea3546d339ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden fundraising blows out Trump in wealthy NYC ZIP codes, clouding 'Scranton vs. Park Avenue' line"
+    excerpt: "New analysis from the New York Times shows that Biden's strong fundraising has been buoyed by individual donors in the nation's richest, most educated enclaves."
+    publishedDateTime: 2020-10-28T17:18:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NQAncLPhCPw/biden-trump-scranton-vs-park-avenue-fundraising"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-scranton-vs-park-avenue-fundraising.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-scranton-vs-park-avenue-fundraising.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301701741020-e1603892188715.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "President Trump pitches Nevada voters from Arizona after rally-related fines"
     excerpt: "President Trump will make his final pitch to voters Wednesday in the swing state of Nevada from battleground Arizona after exorbitant coronavirus-related fees were doled out following a September rally that attracted thousands. "

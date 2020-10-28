@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-15
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -159,6 +159,17 @@ related:
         width: 1302
         height: 868
         isCached: true
+  - title: "Joe Biden Says He Plans to Push New Health Care Legislation If Elected"
+    excerpt: "Speaking to reporters after voting in Wilmington, Delaware, Joe Biden says he has new legislation ready to go, if elected, that would improve the Obama-era Affordable Care Act that includes a public option and reduces prescription drug prices."
+    publishedDateTime: 2020-10-28T17:45:00Z
+    webUrl: "https://www.c-span.org/video/?c4919121/joe-biden-plans-push-health-care-legislation-elected"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4919121"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4919121"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
 
 secured: "EBDhcDRNZah4w+LnVHoi7hH9mK91KeaCaZFHG0hsabyykPG1/F/Vk/RU7u8XxvfN1ZuW1Rv971yI5igbLbcAG9etdg9aCEvfMWnPWYJH7iO2KBmSLZ+5U8jPZbtR4jmJ4tDenCeBrsCGj+9E1zA8jKa+g0KWVqTnb/7b4oS9EaOfALiyEiMSekL7I4g2fn2eDY6xFSm68iTXvq5/UtHOIbXT/eoYlKB1j5S7b31sAt7UlyrFeXSwmbOi5znn9pJ9gDTAnekl/YzKraCYf/14yO60wrzlGOFFGHgUfiOBrIXa1auIyR5BjomBoKAd0Re8TWj8XRnFgcC6pQ/2MqBFVTE3bsDdzupPO6C3yK/Hc0E=;U6cPk3KlpVXCwktfR6XkZQ=="
 ---

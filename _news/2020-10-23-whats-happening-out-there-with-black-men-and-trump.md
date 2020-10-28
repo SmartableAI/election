@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-o
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -120,6 +120,22 @@ related:
       name: Time
       domain: time.com
     quality: 79
+  - title: "Man arrested at Trump rally with South Dakota's Noem"
+    excerpt: "Police in Maine on Wednesday arrested a man who displayed two weapons at a campaign rally for President Donald Trump where South Dakota Gov. Kristi Noem was appearing. Noem spokeswoman Maggie Seidel said Noem's security detail engaged a man who had two weapons."
+    publishedDateTime: 2020-10-28T17:57:00Z
+    webUrl: "https://www.chron.com/news/article/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Living and learning: Donald Trump has never met a mistake he didn’t repeat"
     excerpt: "At his Thursday night town hall, Joe Biden admitted that some of the 1994 crime bill he coauthored was a mistake, reminding us of our own mea culpa on stop-and-frisk four years ago."
     publishedDateTime: 2020-10-18T08:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamal
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view?_amp=true"
 type: article
 quality: 149
-heat: 1349
+heat: 1369
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538943099&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0MB"
         width: 804
         height: 545
+        isCached: true
+  - title: "Kamala Harris to visit Fort Worth, McAllen and Houston on Friday"
+    excerpt: "Harris’s visit marks the first time in 30 years a Democratic presidential ticket has been campaigning in Texas this close to Election Day."
+    publishedDateTime: 2020-10-28T16:56:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Kamala-Harris-to-visit-Fort-Worth-McAllen-and-15681537.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Kamala-Harris-to-visit-Fort-Worth-McAllen-and-15681537.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Kamala-Harris-to-visit-Fort-Worth-McAllen-and-15681537.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/75/62/20176012/3/rawImage.jpg"
+        width: 2048
+        height: 1427
         isCached: true
   - title: "WATCH LIVE: Sen. Kamala Harris makes campaign stops in Nevada"
     excerpt: "Joe Biden's campaign intends to use the final week before Election Day to go on offense, planning stops that may put President Donald Trump on defense in other states he won four years ago."
@@ -236,14 +252,14 @@ related:
         isCached: true
   - title: "Kamala Harris campaigns in Phoenix and Tucson on Wednesday as Election Day nears"
     excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
-    publishedDateTime: 2020-10-28T13:08:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3750272001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3750272001"
+    publishedDateTime: 2020-10-28T16:23:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3750272001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3750272001"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 85
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"

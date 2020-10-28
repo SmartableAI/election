@@ -79,19 +79,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Bobulinski: How \"Big Guy\" Joe Biden Would Personally Benefit From A Stake In A Chinese Business Deal"
-    excerpt: "Former Hunter Biden business partner Tony Bobulinski told Tucker Carlson he is \"1000%\" certain that \"Big Guy\" stands for Joe Biden in leaked documents. TONY BOBULINSKI, FMR. HUNTER BIDEN BUSINESS PARTNER: I want to simplify this for the American people as much as I can."
-    publishedDateTime: 2020-10-28T14:20:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/27/tony_bobulinski_how_joe_biden_would_personally_benefit_from_a_stake_in_a_chinese_business_deal.html"
+  - title: "DOJ, citing Hunter Biden story, Justice Thomas, supports changes to Section 230 in letter to Congress"
+    excerpt: "The Department of Justice (DOJ) on Tuesday sent a letter to congressional leaders advocating for changes to Section 230 of the Communications Decency Act, a law passed about 25 years ago that prevents tech companies from being sued for user content posted on their platforms. "
+    publishedDateTime: 2020-10-28T16:09:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAhQImxanro/doj-citing-hunter-biden-story-justice-thomas-supports-changes-to-section-230-in-letter-to-congress"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 50
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
     images:
-      - url: "https://assets.realclear.com/images/52/525422.jpg"
-        width: 996
-        height: 746
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be276ed1-e6a3-4a5a-933b-707157d6ae65/651c60c4-05f1-4959-8be6-3f5ba1ed74b6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xGts46AnsBVD5lILDTQVQMCN3R1A1yAtaT0EuL780CtbedXNGzej6kmMzH9ZxJJqExoUi+5GbLzH7ZLFJB06KEIDzwfFFe2UvmZM+fp8vP+E9a9V0E7aSrZvd5PlAtuZ5b8HUBnWboiCR8a416ynTQQ4lux/wvzClEFeY06ccCpl+DSNDHyxT68ajqBZQhYVFgb3EUIfOAun/hgok1yh4BSd0cSrwRWhXaf/YmwgpAqPry+ju/6QfXP5yLlb/y+q+cCHbsZyux75EJiMLhz1K9NKItybqnlIcCFebMSl527YK/L2qvm6y7BKOnazWL6nlCrXUUM3Vhme1wZAyMVX6x4KPZ1qxzBaxcCwceaSxE0=;iyK3z0LOOAT8vwZIvBCOSQ=="

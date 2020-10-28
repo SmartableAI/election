@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Washington Post: Trump administration to roll back federal protections from Alaska's Tongass National Forest"
+    excerpt: "Federal protections for Alaska's Tongass National Forest will be lifted this week by the Trump administration, allowing \"logging and other forms of development\" to occur in the world's largest intact temperate rainforest known as America's Amazon, The Washington Post reported Wednesday.\n    \n"
+    publishedDateTime: 2020-10-28T16:22:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aHbswDwT7dw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190913160012-tongass-forest-3-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "wV2byiN+6S9mayVfk8QOqCd0TtyvBLXc6ke1hBZsS+q4+EC+X9GAeMhYUEN5YXqcgiUGdj0BVpIGxGCXMqo7tHepi+u9ZLVoT7kAUiSnr2jhyUbUl3/7oj+2wVcne83QNn73rWR7O4XZpuXKynwYvvvMPXxnaal9d0s1mKvj7fAhpI3AXsNNnYnK3eJFUilzB5aFHKLAUM539e3pGaUNuKgc1psnuWH/r//6nOsXL5x/PTo6Ywmb7u38/JZbtObgCFCwS3sRmAbLRhk6FLwjT4vyUXlxD6IilYyjOfUSnsTUoYRNzYLMKqlrVvbX+aFYF0VNeapPK7eUnqRSBklg3+K5PVanIfiI0qufXUgK41M=;IQb2TDKdfn+5kYZMNwHFUQ=="
 ---

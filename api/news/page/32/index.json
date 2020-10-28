@@ -2,6 +2,157 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-09-23-trump-makes-bizarre-claim-that-protesters-are-throwing-cans-of-goya-foods-products-and-bumble-bee-tuna-fish.md",
+      "title": "Trump makes bizarre claim that protesters are throwing cans of Goya Foods products and Bumble Bee tuna fish",
+      "excerpt": "At his rally, Trump also praised violence against journalists, reiterated false election fraud claims, and leveled an attack against Rep. Ilhan Omar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-claims-protesters-throwing-cans-goya-bumble-bee-tuna-soup-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-claims-protesters-throwing-cans-goya-bumble-bee-tuna-soup-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6ac1e839ab3b001192c7a2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-claims-protesters-throwing-cans-goya-bumble-bee-tuna-soup-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-protesters-throwing-cans-goya-bumble-bee-tuna-soup-2020-9?amp",
+      "publishedDateTime": "2020-09-22T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-mcmaster-warns-trump-plays-into-putins-hands-with-warm-remarks-about-russian-president.md",
+      "title": "McMaster warns Trump plays 'into Putin's hands' with warm remarks about Russian president",
+      "excerpt": "President Trump should be harder on Russian President Vladimir Putin in his public statements, former National Security Adviser H.R. McMaster argued on \"The Story\" Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kI-X8NENKHA/mcmaster-warns-trump-plays-into-putin-hands",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kI-X8NENKHA/mcmaster-warns-trump-plays-into-putin-hands",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c9ceb60-41d9-456c-be89-433c3511b967/b92bb690-5cc8-4e67-9aff-5bd0f7cb0f11/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcmaster-warns-trump-plays-into-putin-hands.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcmaster-warns-trump-plays-into-putin-hands.amp",
+      "publishedDateTime": "2020-09-22T19:40:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-air-force-two-carrying-mike-pence-makes-emergency-landing.md",
+      "title": "Air Force Two, carrying Mike Pence, makes emergency landing",
+      "excerpt": "Mike Pence was flying home to Washington from a campaign event at an airport hangar in nearby Gilford, New Hampshire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
+      "originalUrl": "https://www.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/09/22/Pence-Plane_09695.jpg-ac850_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
+      "publishedDateTime": "2020-09-22T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-cindy-mccain-endorses-biden-we-are-republicans-yes-but-americans-foremost.md",
       "title": "Cindy McCain endorses Biden: 'We are Republicans, yes, but Americans foremost'",
       "excerpt": "Cindy McCain, wife of the late Sen. John McCain, R-Ariz. Announced late Tuesday that she is breaking from her husband’s party to support democratic presidential candidate Joe Biden.",
@@ -1135,167 +1286,6 @@
         "name": "WMUR9",
         "domain": "wmur.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-donald-trump-mitch-mcconnell-and-the-republican-party-play-victims-dont-let-them.md",
-      "title": "Donald Trump, Mitch McConnell and the Republican Party play victims. Don't let them.",
-      "excerpt": "With the Supreme Court vacancy or anything else, only the Republicans think rules, honesty and comity are for suckers. Stop engaging in both-sidesism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5853211002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002",
-      "publishedDateTime": "2020-09-22T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.md",
-      "title": "Trump will go to Pittsburgh and Pence to New Hampshire as Harris visits Flint and Detroit.",
-      "excerpt": "Delivers remarks at a campaign rally in a hangar at Pittsburgh International Airport. Afternoon — Tours small businesses that have been affected by the coronavirus pandemic in Flint, Mich. 4:30 p.m. — Participates in “Shop Talk” round-table conversation with Black men in Detroit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.amp.html",
-      "publishedDateTime": "2020-09-22T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-super-pac-american-bridge-posts-pence-oppo-book-online-for-free-ahead-of-debates.md",
-      "title": "Super PAC American Bridge posts Pence oppo book online for free ahead of debates",
-      "excerpt": "Super PAC American Bridge has posted a Vice President Mike Pence opposition book online for free ahead of the debates.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
-      "originalUrl": "https://abcnews.go.com/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/mike-pence-gty-jef-200921_1600697875742_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
-      "publishedDateTime": "2020-09-22T03:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "U.S. group urges Biden to use financial regulation to control climate change"
+    excerpt: "A climate advocacy group comprised of high-profile backers of Democratic presidential candidate Joe Biden on Tuesday urged the former vice president to consider using U.S. financial regulation as a tool to fight global warming if he is elected."
+    publishedDateTime: 2020-10-27T21:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-climatechange-financial/us-group-urges-biden-to-use-financial-regulation-to-control-climate-change-idUSKBN27C2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2JI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539010385&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1N0"
+        width: 910
+        height: 545
+        isCached: true
   - title: "Biden reiterates in Philadelphia town hall that he does not want to ban fracking"
     excerpt: "Democratic presidential contender and former Vice President Joe Biden on Thursday again said he won't ban fracking"
     publishedDateTime: 2020-10-16T02:54:00Z
@@ -142,6 +158,20 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF"
         width: 817
         height: 545
+        isCached: true
+  - title: "How Joe Biden Is Positioning Himself as a Modern FDR"
+    excerpt: "If this sounds to you like Joe Biden, you’d be right. If this sounds like Franklin Delano Roosevelt, you’d also be right. With just a week before the election, Biden traveled to Warm Springs, Ga., Tuesday to deliver a speech on national healing and economic redemption—and to wrap himself in FDR’s mantle."
+    publishedDateTime: 2020-10-28T17:31:00Z
+    webUrl: "https://time.com/5904569/joe-biden-fdr/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/fdr-biden-diptych.jpg"
+        width: 2400
+        height: 1200
         isCached: true
   - title: "Democratic presidential nominee Joe Biden takes questions from voters at ABC town hall"
     excerpt: "Joe Biden defended his record amid a wide variety of questions during his town hall on ABC. Ed O'Keefe reports."

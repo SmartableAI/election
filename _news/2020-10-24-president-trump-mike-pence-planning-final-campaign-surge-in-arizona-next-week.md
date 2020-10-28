@@ -539,6 +539,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Which Story Wins? How Trump And Biden Tell Their Stories"
+    excerpt: "We’re in the final stretch of the US election, and as election day draws close we can see the full shape of the stories Donald Trump and Joe Biden have been telling about themselves, their vision for America,"
+    publishedDateTime: 2020-10-28T16:49:00Z
+    webUrl: "https://www.forbes.com/sites/rebeccavogels/2020/10/28/which-story-wins-how-trump-and-biden-tell-their-stories/"
+    ampWebUrl: "https://www.forbes.com/sites/rebeccavogels/2020/10/28/which-story-wins-how-trump-and-biden-tell-their-stories/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccavogels/2020/10/28/which-story-wins-how-trump-and-biden-tell-their-stories/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f999eac5cdf7e589bd58a32%2F0x0.jpg"
+        width: 1200
+        height: 804
+        isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
     excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
     publishedDateTime: 2020-10-22T06:50:00Z
@@ -810,6 +826,22 @@ related:
       - url: "https://s.abcnews.com/images/International/melania-trump-rally-02-rt-jef-201027_1603829914653_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "With six days left in race, Trump heads to Arizona and Biden delivers COVID-19 speech"
+    excerpt: "President Donald Trump will hold two campaign rallies on Wednesday in the battleground state of Arizona, where polls show him narrowly trailing Democratic rival Joe Biden, as the White House race heads into its final six-day stretch."
+    publishedDateTime: 2020-10-28T15:15:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27D0FG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27D0FG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27D0FG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539136962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R08B"
+        width: 817
+        height: 545
         isCached: true
   - title: "Election 2020 updates: Trump delivers shorter-than-usual speech in chilly Pennsylvania"
     excerpt: "With 14 days to go until Election Day, and President Donald Trump and former Vice President Joe Biden racing toward Nov. 3, voters are turning out in record numbers to cast their ballots early. Roughly 31 million Americans have already voted in the 2020 election,"
@@ -1650,6 +1682,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Election update: GOP hunts for new voters in Trump territory; Biden briefed on virus' spread"
+    excerpt: "To win Pennsylvania, President Donald Trump needs blowout victories and historic turnout across the state in conservative strongholds such as Butler County. SLIPPERY ROCK, Pa. (AP) — President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time."
+    publishedDateTime: 2020-10-28T17:15:00Z
+    webUrl: "https://www.nwitimes.com/news/national/election-update-gop-hunts-for-new-voters-in-trump-territory-biden-briefed-on-virus-spread/article_8bd16327-b973-5cfe-babb-9f230b3250b7.html"
+    ampWebUrl: "https://www.nwitimes.com/news/national/election-update-gop-hunts-for-new-voters-in-trump-territory-biden-briefed-on-virus-spread/article_8bd16327-b973-5cfe-babb-9f230b3250b7.amp.html"
+    cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/national/election-update-gop-hunts-for-new-voters-in-trump-territory-biden-briefed-on-virus-spread/article_8bd16327-b973-5cfe-babb-9f230b3250b7.amp.html"
+    type: article
+    provider:
+      name: Northwest Indiana Times
+      domain: nwitimes.com
+    quality: 94
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/4/08/408f7f5d-6b09-5737-8e1c-3d05f630ad42/5f99a4ae7bd15.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden has narrow lead over President Trump in new Florida poll"
     excerpt: "The survey from the University of North Florida had Biden up by one in Florida, within the poll's margin of error."
     publishedDateTime: 2020-10-21T12:15:00Z
@@ -2005,6 +2053,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump Campaigning Non-stop As Biden Holds Firm In Delaware"
+    excerpt: "Democrat Joe Biden huddled in his home state Wednesday six days before a monumental US election, fine-tuning his pandemic response plan while President Donald Trump crisscrosses America at a frenetic pace,"
+    publishedDateTime: 2020-10-28T17:42:00Z
+    webUrl: "https://www.ibtimes.com/trump-campaigning-non-stop-biden-holds-firm-delaware-3071854"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/28/democratic-white-house-candidate-joe-biden-attended-a.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden courts swing voters in Pennsylvania with a plea to ‘choose hope over fear’"
     excerpt: "Biden entered the final 10 days before Election Day with a hopeful message not unlike the one that lifted Barack Obama to the White House."
     publishedDateTime: 2020-10-24T21:14:00Z

@@ -2,19 +2,19 @@
 category: news
 title: "Kamala Harris campaigns in Phoenix and Tucson on Wednesday as Election Day nears"
 excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
-publishedDateTime: 2020-10-28T13:08:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
-webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
-ampWebUrl: "https://amp.azcentral.com/amp/3750272001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3750272001"
+publishedDateTime: 2020-10-28T16:23:00Z
+originalUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+ampWebUrl: "https://amp.cincinnati.com/amp/3750272001"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3750272001"
 type: article
 quality: 85
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
@@ -122,6 +122,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538943099&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0MB"
         width: 804
         height: 545
+        isCached: true
+  - title: "Kamala Harris to visit Fort Worth, McAllen and Houston on Friday"
+    excerpt: "Harris’s visit marks the first time in 30 years a Democratic presidential ticket has been campaigning in Texas this close to Election Day."
+    publishedDateTime: 2020-10-28T16:56:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Kamala-Harris-to-visit-Fort-Worth-McAllen-and-15681537.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Kamala-Harris-to-visit-Fort-Worth-McAllen-and-15681537.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Kamala-Harris-to-visit-Fort-Worth-McAllen-and-15681537.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/75/62/20176012/3/rawImage.jpg"
+        width: 2048
+        height: 1427
         isCached: true
   - title: "WATCH LIVE: Sen. Kamala Harris makes campaign stops in Nevada"
     excerpt: "Joe Biden's campaign intends to use the final week before Election Day to go on offense, planning stops that may put President Donald Trump on defense in other states he won four years ago."
@@ -859,6 +875,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "oxFCf3k0EMN7+9fuJE4N14SjN9uqZ1UP0ZKWm+lmYkOg8g73xTjY11XKUbGntEFVZJWh/H9llthFBIBdwdTtXf2Zzff5c3byQiOo/Q7IFJUOEUkUa+M/g2kmgqOzEqSSgaSM9+uvjirEGLy2y/2kZU+SFGFH4VC4USnWP2KwUmQiL89SLT2WTAwLmkUg7rSpheg3uGhz10MKBj4uTS6ifMyTRdarexBjDG66E5yOU6KKOjvxAHboNu24/iNIKLFdiTMNb2gRm5QoGTpmwA7yo/DSxkRkjC+aCBfLFSI3QU2E6JHDUHVXm2dTS5YehBVTTNd4JwyMYcZDG/bDv4zAzDnvJsTBarhfMdh6+Fe4uWuGDRmqNAlqzfF4KlVWiTBopBRi0aKa2hV+GH0NRf59cqIV4d426cllVGqk/BMbJJYn0VypXwq8PqZIauTqXXe7I2HzppcTR2qoN49t2kS2oNK+9kQ7e+2tFJ4mU7TQ2KuG97FqROk+bV+4YuQScHtEWasUro3qjVTHW0z6fOWolg==;AuyGzuxrscXpZGBCKb5V0w=="
+secured: "qzys5M4gE3SVbRrik215RurAZz1Sql22f5IzhWV0F0MltGebtAbBYVHwTIGGJnTdecYNjiNNXNZFehfqadWrcfDcUdh6/aFPkjGa4SKNduNHFexGgx7V4fprO5t5PSTHJUfUxRk5nfv32uiNL/DjlHV7KvqwY6lOFiyRNSElCBYR/uFvT3lbE8PHhp5BP8kwCxYGOcItCt/i6jkAlDeofzgN3idm6Q+J+HYYhVytJB3DTYq90H3FBGtmpo6uZ1cPvBr6XFVMDefhEz6WaZYKu2seD6la3vffzC1IPjf3JptwFX5yhcA15Q0QdsYxSahxJsj2hsdKwnj2Q/rAaz633R3yK4P59zGtes4pT3ESs7M=;xGeWgHE9ty6Eg3s2pODbyg=="
 ---
 

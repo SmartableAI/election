@@ -2,6 +2,175 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-28-bill-mcgurn-slams-outrageous-behavior-from-media-suppressing-hunter-biden-allegations.md",
+      "title": "Bill McGurn slams 'outrageous behavior' from media suppressing Hunter Biden allegations",
+      "excerpt": "After Hunter Biden’s former business associate Tony Bobulinsky gave an interview on Fox News’ “Tucker Carlson Tonight” Tuesday, Wall Street Journal columnist Bill McGurn reacted to the interview pointing out that the story has been covered up by the media and social media companies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zilQIo16iUo/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zilQIo16iUo/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp",
+      "publishedDateTime": "2020-10-28T10:38:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals.md",
+      "title": "2020 Hindsight on Impeachment Trial and Unravelling Biden Family Business Deals",
+      "excerpt": "Failing to get ahead of what has become the drip, drip of new details on Hunter Biden’s business dealings – and the potential ties to his father – could prove",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952",
+      "originalUrl": "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true",
+      "publishedDateTime": "2020-10-28T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-joe-biden-could-be-compromised-by-chinese-communist-party-rep-crenshaw.md",
+      "title": "Joe Biden could be compromised by Chinese Communist Party: Rep. Crenshaw",
+      "excerpt": "Joe Biden needs to answer whether or not he's compromised by China before the Nov. 3 election, Rep. Dan Crenshaw, R-Texas, said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0TxN8faCpd0/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0TxN8faCpd0/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw.amp",
+      "publishedDateTime": "2020-10-28T09:47:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-hunter-biden-engaged-in-raw-influence-peddling-on-grand-global-scale-turley.md",
       "title": "Hunter Biden engaged in ‘raw influence-peddling’ on grand, global scale: Turley",
       "excerpt": "Joe Biden and his family engaged in \"legal corruption\" despite claims of no wrongdoing, Fox News contributor Jonathan Turley argued Wednesday.",
@@ -126,7 +295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1605,
+      "heat": 1625,
       "tags": null,
       "images": [
         {
@@ -1496,174 +1665,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-donors-republican-senate-very-tough.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-donors-republican-senate-very-tough.amp",
       "publishedDateTime": "2020-10-24T17:37:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-once-presbyterian-now-says-hes-a-nondenominational-christian.md",
-      "title": "Trump, once Presbyterian, now says he's a 'nondenominational Christian'",
-      "excerpt": "Trump emphasized that his parents taught him the importance of faith and prayer throughout his life.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lP9Gdf_h2As/trump-identifies-non-denominational-christian",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lP9Gdf_h2As/trump-identifies-non-denominational-christian",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/811ca535-be57-4b71-adc1-4fe7047b47b8/85e13a02-9e52-4c03-8d4d-1e3635b6692c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-identifies-non-denominational-christian.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-identifies-non-denominational-christian.amp",
-      "publishedDateTime": "2020-10-24T12:52:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trumps-middle-east-peace-deals-rejected-conventional-wisdom-state-dept.md",
-      "title": "Trump's Middle East peace deals 'rejected conventional wisdom': State Dept.",
-      "excerpt": "President Trump's Middle East peace deals, including the latest Friday between Israel and Sudan, are \"unprecedented\" for the region, State Department spokeswoman Morgan Ortagus said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZmxoZXQDLPk/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZmxoZXQDLPk/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus.amp",
-      "publishedDateTime": "2020-10-24T11:50:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-pro-trump-high-schooler-sues-florida-district-for-censoring-support.md",
-      "title": "Pro-Trump high schooler sues Florida district for censoring support",
-      "excerpt": "A pro-Trump high school student was issued a temporary restraining order after suing his school district that took issue with his elephant statue supporting President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YAvPrWSLhPo/trump-florida-high-school-district-teen-vote-tyler-maxwell",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YAvPrWSLhPo/trump-florida-high-school-district-teen-vote-tyler-maxwell",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp",
-      "publishedDateTime": "2020-10-24T10:08:55-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

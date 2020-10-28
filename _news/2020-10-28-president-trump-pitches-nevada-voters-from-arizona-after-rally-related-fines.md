@@ -735,6 +735,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden fundraising blows out Trump in wealthy NYC ZIP codes, clouding 'Scranton vs. Park Avenue' line"
+    excerpt: "New analysis from the New York Times shows that Biden's strong fundraising has been buoyed by individual donors in the nation's richest, most educated enclaves."
+    publishedDateTime: 2020-10-28T17:18:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NQAncLPhCPw/biden-trump-scranton-vs-park-avenue-fundraising"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-scranton-vs-park-avenue-fundraising.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-scranton-vs-park-avenue-fundraising.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301701741020-e1603892188715.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden says he’s ‘not overconfident’ but predicts victories in key battlegrounds"
     excerpt: "With eight days to go until Election Day on Nov. 3, Democratic presidential nominee Joe Biden is confident he’ll win a trio of crucial swing states that President Trump flipped from blue to red four years ago."
     publishedDateTime: 2020-10-27T00:47:39Z

@@ -159,6 +159,17 @@ related:
         width: 1302
         height: 868
         isCached: true
+  - title: "Joe Biden Says He Plans to Push New Health Care Legislation If Elected"
+    excerpt: "Speaking to reporters after voting in Wilmington, Delaware, Joe Biden says he has new legislation ready to go, if elected, that would improve the Obama-era Affordable Care Act that includes a public option and reduces prescription drug prices."
+    publishedDateTime: 2020-10-28T17:45:00Z
+    webUrl: "https://www.c-span.org/video/?c4919121/joe-biden-plans-push-health-care-legislation-elected"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4919121"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4919121"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
 
 secured: "UJMlLY1zKzPc/Me2evO5hRs5ymEQzxxKJkBsp2w6TMAJFluDVbL9hR21WagoUNdzNwREiK+ZE9anbmlat2NMTjXXCoizF9BBKGB5wRreRNU5kyZUysPzYF9JuslFV2pWOJ8o7gYmCJLcM1xxK8HTkaJXDhVhWmldj0s+akGf7ZPhHgFZ+agzbbDl0/ufDPyNnfEcX1j6HI7J6nd9G6jM0JICxd1/pRYiR432G20rm4fDpvihuu2HbraOKV9XmyWF4EFwrrmPdO+B7eglcpW37otPec6CzlwzHu1bduvlDds8d0tvUkCocEooSP4XNbRSHcdXozIKgfEAY46DAwz0ys6MFkZtn/7JNduIzEQbKtw=;usOmBcGpj3/qP9EL7BJoeg=="
 ---
