@@ -9,8 +9,8 @@ ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 85
+published: true
 
 provider:
   name: U.S. News & World Report
@@ -24,6 +24,22 @@ topics:
   - Election
   - Donald Trump
   - Kamala Harris
+
+related:
+  - title: "The Latest: Trump heaping attention on 1 Nebraska district"
+    excerpt: "President Donald Trump talks with the traveling press as first lady Melania Trump waits near Air Force One at Andrews Air Force Base, Md., Tuesday, Oct. 27, 2020. They flew"
+    publishedDateTime: 2020-10-28T01:26:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-heaping-attention-on-1-nebraska-district/image_3a2d2708-da36-5d0e-bceb-7b2e43bd20ce.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/a2/3a2d2708-da36-5d0e-bceb-7b2e43bd20ce/5f98a68289117.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "f57eDw179FOZ2El4Uw2cF6IqQJvMuU63PFMJzRUcmRhYiXdFNIQ6Zagzyuu8Nx0dCgZDpMmGgYTUkZGoZFDn52zGpZqFvWqdcC0pDM+5WtnnI3u0Muu+h2WsT/+c/OQMLVXPZ8X+joWrQv6mRAi/iM9qRrkujYJnWBaSsKdtKdHoxdegyQzk+N4VZcfnfS8PgIOwytufnJUVjeWrLHpjbjlbBE4ToVFQOcN2l7/WWQQK4CmQl+ROoQH+UX0KFf5KU+MWq9oPQchKIPYdQ2HpK528Ps7A83hr//2phBBmgxfrjex+cV3nKUJegS4tRVrZ5WqrKZiV5c0IE6AOhp8L1PwdG7Sj8z1dnzL9pqtlFYypg0+WukrvYP0Ky9qOk3jiUdmICNO3Bbz/keiys4pybRcs96G1VzpwRWxFxz9h39pyU+EsnJDLQ+uKk3VX3x7UrPUMzZgrYVunXsmF+PfCjs0UHAwg9h/1aum8vKUW7ZuCpkMTMkclepERN09woh/M59pYBOiIsEcajclRCRkLZQ==;VdgBojoTuo+ZVB9ZCLChEA=="
 ---

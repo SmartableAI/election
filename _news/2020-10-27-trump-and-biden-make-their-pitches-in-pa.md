@@ -2618,6 +2618,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Biden goes for Georgia as Trump hits the rust belt"
+    excerpt: "Top News Biden goes for Georgia as Trump hits the rust belt. Posted [NFA] Trailing in national opinion polls, President Donald Trump again attacked U.S. election mechanics on Tues"
+    publishedDateTime: 2020-10-28T02:59:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-goes-for-georgia-as-trump-hits-the-id721299924"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201028&i=OVD1WT3VJ&r=OVD1WT3VJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump & Biden step up campaign schedules"
     excerpt: "Watch \"President Trump & Joe Biden step up campaign schedules\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-27T18:17:00Z

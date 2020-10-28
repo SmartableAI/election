@@ -124,6 +124,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pollsters who predicted Trump win in 2016 map out his path to reelection in 2020"
+    excerpt: "With one week left until Election Day, two pollsters that accurately forecast President Trump's surprise win in 2016, joined \"Hannity\" for insight on the state of the 2020 election."
+    publishedDateTime: 2020-10-28T04:05:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rIaJx6fKf6M/pollsters-lay-out-trump-path-reelection-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/pollsters-lay-out-trump-path-reelection-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pollsters-lay-out-trump-path-reelection-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump says Biden would 'tie the hands of every police officer' at Wisconsin rally"
     excerpt: "Trump told supporters in West Salem, Wis., that Biden and leading Democrats “incite violence and hatred against our police officers.” The president referenced attacks on officers in Philadelphia after protests turned violent after a fatal police-involved shooting of a Black man."
     publishedDateTime: 2020-10-28T00:51:35Z

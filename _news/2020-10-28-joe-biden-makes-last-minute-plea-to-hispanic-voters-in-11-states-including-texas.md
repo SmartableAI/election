@@ -2,23 +2,17 @@
 category: news
 title: "Joe Biden makes last-minute plea to Hispanic voters in 11 states, including Texas"
 excerpt: "With polls showing Joe Biden still doesn’t have enough support from Hispanic voters, his campaign has launched 5 new Spanish language ads airing in Texas and 10 other states."
-publishedDateTime: 2020-10-27T17:56:00Z
-originalUrl: "https://www.houstonchronicle.com/politics/texas/article/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
-webUrl: "https://www.houstonchronicle.com/politics/texas/article/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
-ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
+publishedDateTime: 2020-10-28T01:31:00Z
+originalUrl: "https://www.sfchronicle.com/news/article/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
+webUrl: "https://www.sfchronicle.com/news/article/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
 type: article
-quality: 120
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
@@ -114,6 +108,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "yyFnNO67maLkKGEx6g6cryPjyysSXajvyDbT9F5NFZ37fq6J9jgOJO010E1KzQcFasqPGwCkKoO+QcsM64pyF4e/m2CWvBd5s6ZZsxbkzQdgOyXUtD0yx8xO0Tkpom6q0oUqkXHFXYKoQvU5rRBL08WM8l/cr7LNjFm94pQMRGobzUuwJDfQ9xHgJnsx93viXXGLOgZg9x+9EdO9bXV4cT+Iv7BtyHqguglGDG8+1JDiB1lVmSwwY+C9lW8a5/VmJaqpTjH0tFiYB+p1NB1yhGRpCoHHbXMCP4XWQ9KzbpmP29LLfWEVFn3Rjq4G5d4NFw7Vb8eRonskw4mCz0ukZ4nRA1HA9BUcsL/vSJznZ0OAncc0h4HVsMRwqVvdX+CwnMH3VdfTWWVU0lUS1TiZ4C7bBmvhDOKq8ZwEwtJr8fxTsUJoxg9mONOD50GFLs/XPQkq3+2wgmEzaTD9U3GxqJ4rj2ctyTLtOrg0jo3z0cSHV31SESr09fgOUfUwDUS4dnl+c8EtkS04zc7iTFfUGA==;ih4n5lJkZNI9Ibqh28Dizw=="
+secured: "csu/04hSsQ00xOU9c/3ilP3K7Z+EbmZdAmTOm1H1d7CQi7v9v3DhiR+djYmffgkzbS0BoxikSLrybTL0hyqSDDApX3pZ3NnNwi8j8/lbck9w40RUwgcx4GG5rjdwy1wnny0vYNrza13WcT/T6sBVtMcGbQx7R3SRv11bsh7a+uCoe2MKhLBrpjNZ6Q1/MVnyUewHRsdZ3Sex2ADC/ptICAOGxgOKsC97QiG/+ai32vO3mz7rith63RHgi8xrfYBEusfw8p6eeRkr66zPCzKGsf4b3xbuginFIXbE47y3U7eNAN+C5VFRPi8zmuR/5xYv/Z7iTQDv6q2HFlP14oQ73QlwuLHM0t8Phwl5PKkBHNQ=;+i4a1fWbz9g7icca5HSuSQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.jsonline.com/amp/5977194002"
 cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5977194002"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 86
+published: true
 
 provider:
   name: Milwaukee Journal Sentinel
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "VP Pence holds campaign stop in Waukesha, talks one-on-one with CBS 58"
+    excerpt: "WAUKESHA, Wis. (CBS 58) – Vice President Mike Pence aimed to energize voters during a campaign stop in the Badger State with three weeks remaining until Election Day. Pence addressed a crowd of ..."
+    publishedDateTime: 2020-10-13T17:02:00Z
+    webUrl: "https://www.cbs58.com/news/vp-mike-pence-to-speak-at-campaign-rally-in-waukesha"
+    type: article
+    provider:
+      name: CBS 58
+      domain: cbs58.com
+    quality: 55
+    images:
+      - url: "https://newscdn2.weigelbroadcasting.com/ohBsV-1602628245-176663-blog-0500P_PENCE%20WAUKESHA_PK_WDJT8YFT.JPG"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "YBHJJmCNlISbqY9PQtaiaEo4IBxOEXmr/WwsxZi3h9yYI0L6UpXKsRC+DJLPfLhsbctGRdqg7wydH8TNg9vHWlfEUpbWd0zJcZtUCwUhiFhqQeuSBgCaPzX5ZXay3XjJ6qNfQ81PtngE2tJUGC9jMJSQLUQJVKpsG+pfELvdRiWDF8xBq46TxAou1makM7xaK1f691uFohEuo2I/JTNco+SlCNbDtseXKLBP7Q41WWtYhg4YrovP/KlChrgKBAv96ocoCvOCA4f7shuQsH6hK/6c33ZwBrLs/gyqCfJJCfpbGmcTRGN64K6vkNXE6c6uclIMwTgu6h/9kqtnl2UyF4+wkAeg6LAmHNl0X4DEAMo=;dJOPUNCcoJA8IBpwspdtww=="
 ---

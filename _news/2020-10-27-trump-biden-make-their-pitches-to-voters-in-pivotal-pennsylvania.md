@@ -479,6 +479,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden vows to unify and save country; Trump hits Midwest"
+    excerpt: "Joe Biden has traveled to the hot springs town where Franklin Delano Roosevelt coped with polio to declare the U.S. is not too politically diseased to overcome its health and economic crises"
+    publishedDateTime: 2020-10-28T02:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-vows-to-unify-and-save-country-trump-hits-midwest/2020/10/27/d35365e6-18be-11eb-8bda-814ca56e138b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-vows-to-unify-and-save-country-trump-hits-midwest/2020/10/27/d35365e6-18be-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-vows-to-unify-and-save-country-trump-hits-midwest/2020/10/27/d35365e6-18be-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Melania Trump slams Biden, Dems in first solo campaign stop"
     excerpt: "Melania Trump lined up squarely with her husband Tuesday on her first solo trip of the 2020 campaign, slamming Joe Biden, Democrats and the media as she pushed the president's reeelection message in the battleground state of Pennsylvania."
     publishedDateTime: 2020-10-28T02:04:00Z
@@ -702,6 +718,22 @@ related:
       - url: "https://s.abcnews.com/images/International/obama-miami-2-ap-rc-201024_1603571842167_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Analysis: Trump sanctions could give Biden a bargaining chip in deal talks with Iran"
+    excerpt: "The Trump administration’s imposition of new sanctions on Iran may have been intended to forestall a new nuclear deal with Tehran if Joe Biden is elected president, but it could backfire instead by strengthening Biden's hand at the bargaining table."
+    publishedDateTime: 2020-10-28T01:34:00Z
+    webUrl: "https://www.reuters.com/article/iran-nuclear-usa-oil-analysis-int/trump-sanctions-could-give-biden-a-bargaining-chip-in-deal-talks-with-iran-idUSKBN27C32U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C32U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C32U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539071001&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R05R"
+        width: 817
+        height: 545
         isCached: true
   - title: "Election 2020 live updates: Melania Trump delivers pointed political attack on trail"
     excerpt: "President Donald Trump has campaign rallies in Michigan, Wisconsin and Nebraska on Tuesday while former Vice President Joe Biden spends the day in Georgia."
@@ -1198,7 +1230,7 @@ related:
   - title: "The Guardian view on the 2020 US elections: It’s time to dump Trump. America’s only hope is Joe Biden"
     excerpt: "Four years of deranged and unpredictable behaviour is proof that the current US president is uniquely unsuited to the job"
     publishedDateTime: 2020-10-27T19:09:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/ng-interactive/2020/oct/27/the-guardian-view-on-the-2020-us-elections-its-time-to-dump-trump-americas-only-hope-is-joe-biden?ref=hvper.com"
+    webUrl: "https://www.theguardian.com/commentisfree/ng-interactive/2020/oct/27/the-guardian-view-on-the-2020-us-elections-its-time-to-dump-trump-americas-only-hope-is-joe-biden"
     type: article
     provider:
       name: The Guardian

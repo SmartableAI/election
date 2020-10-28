@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6011931002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6011931002"
 type: article
 quality: 116
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: Biden did tell a Detroit worker 'I'm not working for you' during gun rights argument"
+    excerpt: "A viral post on social media claims Joe Biden told a factory worker he doesn't work for him. Biden did say that, but the claim is missing context."
+    publishedDateTime: 2020-10-27T20:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/27/fact-check-yes-biden-told-detroit-worker-im-not-working-you/6044443002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6044443002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6044443002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/18/USAT/38928b0a-784e-42c7-a026-84ee2c8cd485-Biden_1.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Hillary Clinton, not Joe Biden, used the phrase 'super predators'"
     excerpt: "Joe Biden referred to Black people as 'super predators' during the passage of the 1994 crime bill. The Violent Crime Control and Law Enforcement Act of 1994, also known"
     publishedDateTime: 2020-10-24T22:34:00Z

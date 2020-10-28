@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 6875
+heat: 6895
 published: true
 
 provider:
@@ -2617,6 +2617,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/5f9766bae4b04f7ff7c2baa8-1603757754270?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden goes for Georgia as Trump hits the rust belt"
+    excerpt: "Top News Biden goes for Georgia as Trump hits the rust belt. Posted [NFA] Trailing in national opinion polls, President Donald Trump again attacked U.S. election mechanics on Tues"
+    publishedDateTime: 2020-10-28T02:59:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-goes-for-georgia-as-trump-hits-the-id721299924"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201028&i=OVD1WT3VJ&r=OVD1WT3VJ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Trump & Biden step up campaign schedules"
     excerpt: "Watch \"President Trump & Joe Biden step up campaign schedules\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

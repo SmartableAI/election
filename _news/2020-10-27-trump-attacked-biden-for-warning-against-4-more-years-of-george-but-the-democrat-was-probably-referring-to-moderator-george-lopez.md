@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush
 ampWebUrl: "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp"
 type: article
-quality: 109
+quality: 119
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://i.insider.com/5f96ad79f21803001222bdca?width=1200&format=jpeg"

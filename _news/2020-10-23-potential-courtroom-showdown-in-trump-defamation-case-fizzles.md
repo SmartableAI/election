@@ -592,6 +592,20 @@ related:
         width: 2500
         height: 1628
         isCached: true
+  - title: "Florida’s top prosecutor once sued Trump. Now she’s fighting for his reelection."
+    excerpt: "Ashley Moody ran on a promise to keep her office out of politics. She has quietly become a major Republican player in the must-win state."
+    publishedDateTime: 2020-10-28T02:04:00Z
+    webUrl: "https://www.politico.com/news/2020/10/27/florida-ashley-moody-trump-432617"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 125
+    images:
+      - url: "https://static.politico.com/5b/c8/bc1c3d7e4e74986946d4a7e37373/201026-ashley-moody-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Meadows to judge: Trump didn’t promise more declassification"
     excerpt: "The judge is asking whether Trump's tweets undercut the government’s decision to withhold portions of special counsel Robert Mueller’s final report."
     publishedDateTime: 2020-10-20T17:27:00Z

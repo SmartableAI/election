@@ -2632,6 +2632,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden goes for Georgia as Trump hits the rust belt"
+    excerpt: "Top News Biden goes for Georgia as Trump hits the rust belt. Posted [NFA] Trailing in national opinion polls, President Donald Trump again attacked U.S. election mechanics on Tues"
+    publishedDateTime: 2020-10-28T02:59:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-goes-for-georgia-as-trump-hits-the-id721299924"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201028&i=OVD1WT3VJ&r=OVD1WT3VJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z
