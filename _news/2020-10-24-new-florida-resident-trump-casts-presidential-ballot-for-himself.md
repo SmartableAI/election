@@ -135,6 +135,17 @@ related:
         width: 2400
         height: 1482
         isCached: true
+  - title: "Judge: US can't replace Trump in columnist's slander suit"
+    excerpt: "A federal judge on Tuesday denied President Donald Trump's request that he be replaced as the defendant in a defamation lawsuit alleging he raped a woman in a Manhattan department store in the 1990s."
+    publishedDateTime: 2020-10-27T20:40:00Z
+    webUrl: "https://www.businessinsider.com/judge-us-cant-replace-trump-in-columnists-slander-suit-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/judge-us-cant-replace-trump-in-columnists-slander-suit-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-us-cant-replace-trump-in-columnists-slander-suit-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "cj+IuoEl3I2pct2V3wr3aiXnxLVU1iKHVATCKJOgBPli2TohDCGujS9BcGlQRp7w3cMsvhA3IU3es3kA3e2GE1reMUb0gyn3rkWu0gtrCDjt268n6mWogr+JwY8dp88zsAHunqAPqfk92ZEkLpfDQ7OqBSWggvSDyX0KriLO+EZk0BHa3Qa/BRH5ozN+M8avtaHhz5lmDHTS1fToXztsIk1Z0X9o3duO3fsPZ2XOrJDKEKJy0d0hD86B3SRzYQ27PbRUoYTz+DY2HQ8XfNdkwbRX2yMG3EkA8DzAKdlOpcqlAWiVRH1zhiYXnFJO7Bi5Suae0SWT+zcFVlDcMkHOaGTYXsGF7Qrh0Fe4TVYy9WDy9/NGri+AMumpQh2P9jpQd3UDSwc1c3fbq9PRCt4BKZ1euDqtQ+0HsgGwczos6JFSNylmmbumZYgVSsuz8BsTIy+IUIABEAPuMxiwpRVnOcUoueTb5RwnCnPX2+K+brZD3nw+XpJUN21GJmCXzEblQFVO+19DOhKJrYKPt0E3+w==;lTYWHwPhf6DLFI7YMODhFw=="
 ---

@@ -80,6 +80,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'Squad' member Ayanna Pressley to stump for Biden in New Hampshire"
+    excerpt: "Rep. Ayanna Pressley, D-Mass., will stump in New Hampshire Thursday for Joe Biden, making her the first “Squad” member to officially campaign for the Democratic nominee. "
+    publishedDateTime: 2020-10-27T23:37:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xxTXxMo8zEk/squad-member-ayanna-pressley-biden-new-hampshire"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/ayanna.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Enough With Fraudulent Biden 'Town Halls'"
     excerpt: "Beware the carefully scripted puffball \"town halls\" that have been organized by CNN and NBC to help Joe Biden's campaign. As Biden makes a virtue out of having tiny, underpopulated"
     publishedDateTime: 2020-10-07T04:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C1DC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1DC"
 type: article
 quality: 140
-heat: 280
+heat: 300
 published: true
 
 provider:
@@ -125,6 +125,17 @@ related:
         width: 2400
         height: 1482
         isCached: true
+  - title: "Judge: US can't replace Trump in columnist's slander suit"
+    excerpt: "A federal judge on Tuesday denied President Donald Trump's request that he be replaced as the defendant in a defamation lawsuit alleging he raped a woman in a Manhattan department store in the 1990s."
+    publishedDateTime: 2020-10-27T20:40:00Z
+    webUrl: "https://www.businessinsider.com/judge-us-cant-replace-trump-in-columnists-slander-suit-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/judge-us-cant-replace-trump-in-columnists-slander-suit-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-us-cant-replace-trump-in-columnists-slander-suit-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "New Florida Resident Trump Casts Presidential Ballot for Himself"
     excerpt: "U.S. President Donald Trump voted in his new home state of Florida on Saturday, casting his ballot for his re-election at a public library across the street from one of his golf clubs. Trump, wearing a mask to prevent the spread of coronavirus,"
     publishedDateTime: 2020-10-24T16:02:00Z

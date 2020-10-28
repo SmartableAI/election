@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
 type: article
 quality: 140
-heat: 780
+heat: 820
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 125
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/193ad968-dec8-43a1-8b41-505a674538e1-foreign_policy_Trump.JPG?auto=webp&crop=4991,2807,x1,y374&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "White House Lists 'Ending' Covid-19 Pandemic As Trump Accomplishment"
+    excerpt: "\"The Administration has taken several actions to engage scientists in academia, industry, and government to understand and defeat this disease.\""
+    publishedDateTime: 2020-10-27T22:00:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/10/27/white-house-lists-ending-covid-19-pandemic-as-trump-accomplishment/"
+    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/27/white-house-lists-ending-covid-19-pandemic-as-trump-accomplishment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/27/white-house-lists-ending-covid-19-pandemic-as-trump-accomplishment/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98970c2540474cced7684f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2900%26cropY1%3D0%26cropY2%3D1631"
         width: 1200
         height: 675
         isCached: true
@@ -505,6 +521,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Fox News’ Stirewalt: Not Helpful for Trump to Brag About Big Rallies When People Still Really Concerned About Covid"
+    excerpt: "Fox News politics editor Chris Stirewalt argued that President Donald Trump's big campaign rallies might be good for Republicans, but it doesn't help him when so many people are still concer"
+    publishedDateTime: 2020-10-27T20:32:00Z
+    webUrl: "https://www.mediaite.com/election-2020/fox-news-stirewalt-not-helpful-for-trump-to-brag-about-big-rallies-when-people-still-really-concerned-about-covid/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/fox-news-stirewalt-not-helpful-for-trump-to-brag-about-big-rallies-when-people-still-really-concerned-about-covid/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/fox-news-stirewalt-not-helpful-for-trump-to-brag-about-big-rallies-when-people-still-really-concerned-about-covid/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 53
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/stirewalt.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7FEZaksCQFsGex1WFINuhQ3B7MV9+M4I0lGpPUADJfzEdejf/AiNnBzZ3KwNuHkW2PW7ErT5Bqih0G9VdJXWQ4FFY9dyfZzPdylFbda46nuyeNqczrPSbdNDrKXsP7XtX2i1Giluj08aULPiviYytXH1vpKanJ5W54KwIbhDBgSVWin19GrQSLPZcAaTjNWOLkQ4hkOF7pcn0Q9BZOZteerKfEugwLSWMCX6CZwXkFUii9++n3QKb/vJCHn1UzzXH31h4iMJ6G/a42SBMOjpXE9EmtIlvICQLARlaWya+feNXXPpxZDmvpY+2FW2MOMauSyPIjrcXwVQvmppfRo4aGgNJkSwNAzhJY9eYKBXO7c=;hJbtxQiSYXFg6nxqVc3PtA=="
 ---

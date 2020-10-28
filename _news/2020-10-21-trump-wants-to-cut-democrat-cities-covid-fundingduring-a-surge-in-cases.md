@@ -219,6 +219,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "White House Lists 'Ending' Covid-19 Pandemic As Trump Accomplishment"
+    excerpt: "\"The Administration has taken several actions to engage scientists in academia, industry, and government to understand and defeat this disease.\""
+    publishedDateTime: 2020-10-27T22:00:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/10/27/white-house-lists-ending-covid-19-pandemic-as-trump-accomplishment/"
+    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/27/white-house-lists-ending-covid-19-pandemic-as-trump-accomplishment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/27/white-house-lists-ending-covid-19-pandemic-as-trump-accomplishment/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98970c2540474cced7684f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2900%26cropY1%3D0%26cropY2%3D1631"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
     excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
     publishedDateTime: 2020-10-20T17:37:00Z
@@ -501,6 +517,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Fox News’ Stirewalt: Not Helpful for Trump to Brag About Big Rallies When People Still Really Concerned About Covid"
+    excerpt: "Fox News politics editor Chris Stirewalt argued that President Donald Trump's big campaign rallies might be good for Republicans, but it doesn't help him when so many people are still concer"
+    publishedDateTime: 2020-10-27T20:32:00Z
+    webUrl: "https://www.mediaite.com/election-2020/fox-news-stirewalt-not-helpful-for-trump-to-brag-about-big-rallies-when-people-still-really-concerned-about-covid/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/fox-news-stirewalt-not-helpful-for-trump-to-brag-about-big-rallies-when-people-still-really-concerned-about-covid/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/fox-news-stirewalt-not-helpful-for-trump-to-brag-about-big-rallies-when-people-still-really-concerned-about-covid/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 53
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/stirewalt.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "etOSe2LKp+7NW+rP/V1ekoIDriU7R7zXaEOC3vmEnw8b4SGp26bxy7bFf4MSETfnRaMEuOlL2Q8epYtPVSH/fFMjz/ZXVTisbVYtnGgrtozHQ+xU2ckiGoLq4KA4eo8RQQdzYVgNxKpllhWWXlDzLIAP0znp41eL31S0X0d8R3+0uSHG2G5foSTGURSAbvj++3LzFIw4V6HsEsLhSKCkibD1m4WoEuBGUBLAFEocTvSVEYAUJI25Wx5O0M7p2f1Ubp2wDkMDGiP7L08SUyOwMEsgrzVzVBGwdJCxjHDe/NDcMKKZ5TRX26dk7L50lgZOeHK+wnVTqTiqddPPylqcC+WJnovXcAyrLhHq/mjdsmH8UoJWOElHn4QbHAqMQwIiet0eWIwaZmti6aRAXBie3YfQ0eeSV1kAySU+R7a/8r1d9p/LpHjg3eHvrMCnmFFsY3ZNvm3i+XFQPYtfnKgVYxlh47tp2YjJ69wb46+BMwss7488inT4deH1RPdlv3GPbFAmYbdknq6BT/b1SI6M9w==;pTP2SBxHYdDwVUAjfd+8qA=="
 ---

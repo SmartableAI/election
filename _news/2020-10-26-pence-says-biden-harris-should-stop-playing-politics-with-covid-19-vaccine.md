@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-says-biden-harris-should-stop
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp"
 type: article
 quality: 223
-heat: 503
+heat: 523
 published: true
 
 provider:
@@ -48,6 +48,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/perry_chiaramonte_aem-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Hickenlooper follows lead of Biden and Harris, remains mum on court packing"
+    excerpt: "Colorado Democratic senate challenger John Hickenlooper has followed in the footsteps of presidential nominee Joe Biden in refusing to take a position on packing the Supreme Court in the lead up to the Nov. 3 election."
+    publishedDateTime: 2020-10-27T23:25:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRCe7aKmkjw/colorado-senate-dem-follows-lead-from-biden-harris-ticket-silent-on-court-packing"
+    ampWebUrl: "https://www.foxnews.com/politics/colorado-senate-dem-follows-lead-from-biden-harris-ticket-silent-on-court-packing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-senate-dem-follows-lead-from-biden-harris-ticket-silent-on-court-packing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 198
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19e10287-e208-4480-bf3f-71fd4f5a1143/9e83b600-1d73-4cd7-b924-8c68143575d9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden pitches 'BidenCare' as he spars with Trump on health care at debate"
     excerpt: "President Trump and 2020 Democratic nominee Joe Biden went head-to-head on health care during Thursday's debate, with Biden promoting an updated version of ObamaCare called BidenCare."

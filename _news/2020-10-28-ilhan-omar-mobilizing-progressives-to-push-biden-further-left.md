@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "A Biden Family Special Prosecutor in 2021?"
+    excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
+    publishedDateTime: 2020-10-27T10:36:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/525278_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "X5gxfrSkHAUJrD+h5/TxxIFesQnABkknrV+Z519o2w8N6FRH6W5v+3fISlU04o2nrHUyY5r8gHQndR7/Oy3MaUdxqeDjJsAQeNsKE0o8kP5gKpL+i/e5dUZ33cTvNymu7TojSU0RXjd5zUiAtZfgRMtVBVOKDl7Dwbs0cpSFfG6/eIKnionTgmR6f/kaLjNzM9znmDdcgj5re8KTPreqkzhB25GwDkYX+bvKI5suCDanEBFDVrzW2F9ilHzJGfEz2MdAJ5pHE6Bq4c6FA80HXriOVziz/DF1g2rLp5h+Dr4QEy1BZh1nqvYSK6xmyfue4E6FOeglQh5KqiWqSjdVzlBi87+CEsDqBwFH3y/0iV7DOYLDTYUdf1dowf8rsxdpKi+SxIJn2TXTOsIpDULQqDkfUxlZk/p5oAGLUJ93S1fquxBKuVtzKRYOzA3zIN2tTYs6234uCIMX8hHcgSSmhdawXnIbgGZ5093MwgM2r+u/hRc3xqx7nakCDKjWAejYj7mqhHFbz5Tew8ailvMXAg==;LEo7ROBTlMmOfC7Ehxm6dA=="
 ---

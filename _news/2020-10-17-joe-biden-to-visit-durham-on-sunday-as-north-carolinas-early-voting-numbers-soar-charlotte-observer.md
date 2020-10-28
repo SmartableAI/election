@@ -45,20 +45,15 @@ related:
         isCached: true
   - title: "Mike Pence making 2 more campaign stops in North Carolina"
     excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump's reelection bid. Pence was scheduled to hold rallies at Piedmont Triad International Airport in Greensboro at midday Tuesday and at the Wilmington airport in the evening."
-    publishedDateTime: 2020-10-27T10:44:00Z
-    webUrl: "https://www.timesunion.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    publishedDateTime: 2020-10-27T08:27:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
   - title: "North Carolina man with van full of guns, explosives asked, 'Should I kill Joe Biden?' online, authorities say"
     excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
     publishedDateTime: 2020-10-25T12:37:00Z

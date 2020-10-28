@@ -1,24 +1,20 @@
 ---
 category: news
 title: "A Biden Family Special Prosecutor in 2021?"
-excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade"
-publishedDateTime: 2020-10-27T04:01:00Z
-originalUrl: "https://townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819"
-webUrl: "https://townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819"
-ampWebUrl: "https://townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819?amp=true"
-cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/patbuchanan/2020/10/27/a-biden-family-special-prosecutor-in-2021-n2578819?amp=true"
+excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
+publishedDateTime: 2020-10-27T10:36:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.html#!"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
 type: article
 quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Townhall
-  domain: townhall.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -26,123 +22,61 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://media.townhall.com/townhall/reu/ha/2020/300/b56c4ad7-0b8b-4c0d-858d-a3e90867fcde.jpg"
-    width: 650
-    height: 340
+  - url: "https://assets.realclear.com/images/52/525278_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
-  - title: "Biden backers have looming sense of deja vu"
-    excerpt: "With multiple polls predicting a clear Biden victory in the November Election, Democrats are getting an uncomfortable sense of déjà vu given that polls in the final weeks of the 2016 election overwhelmingly predicted a victory for Hillary Clinton."
-    publishedDateTime: 2020-10-20T02:34:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dvqIv88vUQ/biden-backers-have-looming-sense-of-deja-vu"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
+  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
+    excerpt: "Rep. Ilhan Omar, D-Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
+    publishedDateTime: 2020-10-27T17:12:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gr2E32btmE8/ilhan-omar-progressives-biden-left"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291811263827.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Bernie Sanders eyeing potential Biden Cabinet role: report"
-    excerpt: "U.S. Sen. Bernie Sanders is reportedly interested in serving in Joe Biden’s Cabinet if the Democrat wins the presidency -- with plans to push for more “progressive voices” in the nation's leadership."
-    publishedDateTime: 2020-10-23T09:19:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iA4JqSIJgms/bernie-sanders-eyeing-potential-biden-cabinet-role-report"
-    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-eyeing-potential-biden-cabinet-role-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-eyeing-potential-biden-cabinet-role-report.amp"
+  - title: "Rep. Jim Jordan on reviewing and authenticating purported Hunter Biden emails"
+    excerpt: "Rep. Jim Jordan, R-Ohio, who said his staff reviewed and independently authenticated the purported emails from Hunter Biden’s laptop, told “Sunday Morning Futures” that “they’re as real as real can be.”"
+    publishedDateTime: 2020-10-25T19:58:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxG05FrYsd8/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451a825a-4bce-48ca-ae30-4802571fc1db/63d6daa7-1718-4ae9-9181-044df4ee0013/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Florida man stole bulldozer, ran down Biden signs"
-    excerpt: "A 26-year-old man has been accused of stealing a bulldozer from a Florida construction site, driving it into a neighborhood and knocking down campaign signs for Democratic presidential nominee Joe Biden, according to authorities and homeowners."
-    publishedDateTime: 2020-10-26T18:03:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5liMovvhVCM/florida-man-stole-bulldozer-ran-down-biden-signs"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-man-stole-bulldozer-ran-down-biden-signs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-man-stole-bulldozer-ran-down-biden-signs.amp"
+  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
+    excerpt: "Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
+    publishedDateTime: 2020-10-27T17:15:00Z
+    webUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f04fe45e-87a1-475d-a66b-295fbe3e130c/c7912994-fd52-4144-aeca-86b794a1b61b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AOC claims young voters will choose Biden because they can influence him more easily"
-    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., said that young Americans will vote for Democratic presidential nominee Joe Biden, not because they think he is “their favorite person” but because they believe they can more easily sway him to act on behalf of their interests."
-    publishedDateTime: 2020-10-25T15:53:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CV-mMk_x4ZA/aoc-young-voters-choose-biden-influence-him"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-young-voters-choose-biden-influence-him.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-young-voters-choose-biden-influence-him.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86013dd9-61fb-4c71-84ef-02bc3da60248/f1bf3308-3ad3-485e-9fa1-66cba83206e8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "House Republicans urge Barr to appoint special counsel to probe alleged Biden revelations"
-    excerpt: "EXCLUSIVE: House Republicans on Monday wrote to Attorney General William Barr, urging him to appoint a special counsel to investigate alleged revelations coming from a laptop purported to have belonged to Joe Biden’s son Hunter -- specifically the elder Biden’s alleged participation in his son’s business"
-    publishedDateTime: 2020-10-19T16:50:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j3QqEeHpmoc/house-republicans-barr-special-counsel-biden"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Hunter-Biden-Getty.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
-    excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
-    publishedDateTime: 2020-10-20T14:35:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "http://assets.realclear.com/images/52/524567_5_.jpg"
-        width: 750
-        height: 552
-        isCached: true
-  - title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
-    excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
-    publishedDateTime: 2020-10-20T22:32:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "http://assets.realclear.com/images/52/524567_5_.jpg"
-        width: 750
-        height: 552
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
-secured: "jdy56vOUWY2DCMSrAWYgoIjcyRxigYJ5bYIQkhjv9aKzeEV6qL10ofG2+madTz21bvH9XuT6CmSvW2ZTV4leNYlr1go7Wr41kb6b6kxi9GXWKdrzwRA9tZnCGgXGlA+F9YNvvqjD5EiKkYukcJWtWnHLpNjj8DdZoexUPf0+bMDjAXi3Cx+9TeGyFZD3Yh6vOTGSwh1Hq6vtWgsV2QOKZ8zswex75FJmFUsFXVHqvRUPKDn4pkdX9up9uldoDA41YBii5CeAA3d+wk19u8QyPKAT9VRbpc+7shK7MmUuT3ZGajPQbrabuxWXbphfHlmbq7gM2qVCje8y3iI7JHQ93XTyVLDT54K6wAF96ofzPGJLeceR8vHkUZUh4IjJ1CHXA+pfoMWuWR7ZG+dPHX7tIuXIJbXTng5e/dDtJUg/+qw0Ba+V0t1Jjc+Mv+ft4/6cwvUj2A9X/kc9nN5KUUmYs9kqdmERVgCOunxaNXACcvPtulYfkWLZOq2za7fg0VSJMZ5g99MmQS0zDNm9CGffbQ==;ntfTbKCk2Ypx9ftv69GOqg=="
+secured: "1qrfSi3OK2c8yzB65gkPigpzIWZ8yjuBbXJjtTFw8ssoWOSnqDXUyO0oMQIi9AIVFSgDOmYGfxWkcbo6dKkpMncvBv5VKgSt9e7OlaJTi6it3sX9RPoe2aHdP2x3m406rNbXz2uopwbjPpnf3RuGBmAWi+fn8EJYp4P6nn1Vc+0NQxuTb+1mMVG7EflsU/ekmDv+mwlLbNmpFlQHaTO7oWFcNs8ENDaTg/4w5dqeZu6p/iUhN/SGQiNU5Dzm6E3mi15M7MO9h5enuTZCveaT4MRUrSPiK19Z5o545wj4pPO9CbWnIqRBP/45lko84WBBLTklTrjChixtHpThEN4K9Jeh8u2LZtLCh1Q2Y41IB60=;FGhpokzH6T6lT+P+kS/ycg=="
 ---
 

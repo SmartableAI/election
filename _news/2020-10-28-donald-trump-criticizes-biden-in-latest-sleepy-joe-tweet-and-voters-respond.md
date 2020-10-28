@@ -8,7 +8,7 @@ webUrl: "https://www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe
 ampWebUrl: "https://www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996?amp=1"
 type: article
-quality: 87
+quality: 97
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/26/democratic-presidential-candidate-joe-biden-has-savaged-president.jpg"
@@ -1147,6 +1148,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Fact check: Biden did not say he will move to China if he loses, but Trump said he may consider leaving country"
+    excerpt: "Biden will move to China if he loses the election. A highly contested election this year has many debating what the candidates will do if their opponent wins. One Faceb"
+    publishedDateTime: 2020-10-27T21:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/27/fact-check-joe-biden-didnt-say-he-would-move-china/5996155002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5996155002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996155002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/cb798941-8e64-4ffd-af88-5c525c039daf-DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Guardian view on the 2020 US elections: It’s time to dump Trump. America’s only hope is Joe Biden"
     excerpt: "Four years of deranged and unpredictable behaviour is proof that the current US president is uniquely unsuited to the job"
     publishedDateTime: 2020-10-27T19:09:00Z
@@ -2023,6 +2040,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "H+urL2fw8l7F+dKt3PVRQdZ8NQD+ia5v/P4yq61ugzeJh2qLzCxN7vWajWo25sSBy8A2984XJyMXobiIRsUIxweY1ND0XR+8ILkRSyq4VGOpEMi9xfJCQqK4sHgCg48I8RfprDgg1PSBiSAEWXQ0nTMQeQu0AwTHL0mKeyIJcCnGnblhMN4nPslPZUr9Mb/guJ75nBbrW0eVPK5LHm2R2/KtKudCtVZ4swDLYQMjOY62QlW2cCWLX/McxDY5ghWP32e02jQQPJDLuV4Vl51nccPPrkn7J/csfuVKIn9GG8K3iLpzptDCPsPAhAWYGLCv86QK/LCnbNzmTPbA+kpdcpRocxmXyHhyKvR7JK/Mguc=;w/EDBS7FhfKkrsBA4Luqfg=="
+secured: "vFimm5q5NWtFMLuNKjrSmI7m4PTO1Yynq7X7V32nu895fMia91SIuI7RQTfVsIk+fy3bwuOEDVwc2yc68LhzWyYIkzWf7ApM5Yujq3kyZhDxYBvTg5+wgeVkMCeCzuT+5PRKPA3rn96xGPZ9Lt4Kbrj80Rv+Tz1SxZurvsD07Wc1hHOc0x5XEjlnKptYFgfWy6f1cX2TGcToKuH12YUFYexIVfLmUFlEEphaUC5uV/w5kuxFQz3YRc8R8l9nJUAdXyaFQ9bQKuvVVrd7F+XNCAWMIiIMQ40uhowqSyNCPcT24TjDVVNDSnZNWP0SJum/tFsMc4yNQGpr2f2+OEbhfjTeUzMWlC6OqD4I8v4403NUnCdfkrsIho4rn+qCniJEu5j4T44Zp8N4wI1XKWvtQgeZ9mQobD+uiRXX0pW55qDHD3oKcz+ONJko2kDJ4w1hhSx15A/pChIVXTgeOa+wX5D6RdIK7BzSFn6yGyASrfWGt5yzswZd80Erber/AH539DF4rC4+N0OMCuo9Z6LPlg==;0ZbrK2pZ6xK0+z2tuyUk7g=="
 ---
 

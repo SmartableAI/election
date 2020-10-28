@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Hickenlooper follows lead of Biden and Harris, remains mum on court packing"
+    excerpt: "Colorado Democratic senate challenger John Hickenlooper has followed in the footsteps of presidential nominee Joe Biden in refusing to take a position on packing the Supreme Court in the lead up to the Nov. 3 election."
+    publishedDateTime: 2020-10-27T23:25:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRCe7aKmkjw/colorado-senate-dem-follows-lead-from-biden-harris-ticket-silent-on-court-packing"
+    ampWebUrl: "https://www.foxnews.com/politics/colorado-senate-dem-follows-lead-from-biden-harris-ticket-silent-on-court-packing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-senate-dem-follows-lead-from-biden-harris-ticket-silent-on-court-packing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 198
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19e10287-e208-4480-bf3f-71fd4f5a1143/9e83b600-1d73-4cd7-b924-8c68143575d9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Harris, prominent Democrats listed as 'key contacts' for Biden family business venture projects"
     excerpt: "EXCLUSIVE: A list of “key domestic contacts” for a joint venture involving Jim and Hunter Biden and now-bankrupt CEFC China Energy Co. included former Vice President Joe Biden's current running mate Sen. Kamala Harris, among other prominent Democrats, Fox News has learned."
     publishedDateTime: 2020-10-22T13:44:21Z

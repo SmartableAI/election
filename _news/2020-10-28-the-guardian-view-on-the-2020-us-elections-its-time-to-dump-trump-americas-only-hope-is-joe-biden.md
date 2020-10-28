@@ -1145,6 +1145,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Fact check: Biden did not say he will move to China if he loses, but Trump said he may consider leaving country"
+    excerpt: "Biden will move to China if he loses the election. A highly contested election this year has many debating what the candidates will do if their opponent wins. One Faceb"
+    publishedDateTime: 2020-10-27T21:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/27/fact-check-joe-biden-didnt-say-he-would-move-china/5996155002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5996155002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996155002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/cb798941-8e64-4ffd-af88-5c525c039daf-DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z
@@ -1419,6 +1435,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Donald Trump Criticizes Biden In Latest ‘Sleepy Joe’ Tweet And Voters Respond"
+    excerpt: "Joe Biden was seen to be in a 'mental fog' on Monday after speaking to reporters in Pennsylvania, according to President Trump."
+    publishedDateTime: 2020-10-27T18:50:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 97
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/26/democratic-presidential-candidate-joe-biden-has-savaged-president.jpg"
+        width: 1024
+        height: 627
+        isCached: true
   - title: "Joe Biden: I 'guarantee' Trump will accept election results; no one's going to stick with him"
     excerpt: "Joseph R. Biden predicted that President Trump will ultimately accept the results of November’s election, saying he doesn’t have the support of the military to engineer some sort of “coup” if he had thoughts about doing so."
     publishedDateTime: 2020-10-24T16:45:00Z
@@ -1546,22 +1578,6 @@ related:
       - url: "https://www.rollingstone.com/wp-content/uploads/2020/10/snl-1.jpg"
         width: 2440
         height: 1312
-        isCached: true
-  - title: "Donald Trump Criticizes Biden In Latest ‘Sleepy Joe’ Tweet And Voters Respond"
-    excerpt: "Joe Biden was seen to be in a 'mental fog' on Monday after speaking to reporters in Pennsylvania, according to President Trump."
-    publishedDateTime: 2020-10-27T18:50:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-criticizes-biden-latest-sleepy-joe-tweet-voters-respond-3070996?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 87
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/26/democratic-presidential-candidate-joe-biden-has-savaged-president.jpg"
-        width: 1024
-        height: 627
         isCached: true
   - title: "President Trump, Mike Pence planning final campaign surge in Arizona next week"
     excerpt: "In the final days before the November 3 election, President Trump’s campaign is planning a final surge in Arizona."

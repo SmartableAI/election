@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/sanders-distant-rally-biden-new-ham
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "'Squad' member Ayanna Pressley to stump for Biden in New Hampshire"
+    excerpt: "Rep. Ayanna Pressley, D-Mass., will stump in New Hampshire Thursday for Joe Biden, making her the first “Squad” member to officially campaign for the Democratic nominee. "
+    publishedDateTime: 2020-10-27T23:37:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xxTXxMo8zEk/squad-member-ayanna-pressley-biden-new-hampshire"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/ayanna.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Biden’s ObamaCare Tax Avoidance"
     excerpt: "In 2019 he and his wife legally dodged payroll levies on $228,703 in income."
