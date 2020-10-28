@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/fbi-interview-request-hunter-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-interview-request-hunter-biden-ex-associate-tony-bobulinski-senate-committee.amp"
 type: article
 quality: 170
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f296e4f1-0c2d-4e64-928c-fefce295f16f/a06107ba-74f1-4faa-8a99-80e0cc89aea4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "'Plausible deniability': Tony Bobulinski claims Biden family shrugged off concerns about risk to 2020 bid"
+    excerpt: "Tony Bobulinski, a former business associate of Hunter Biden, claimed in an interview Tuesday that the Biden family shrugged off concerns that Joe Biden’s alleged ties to his son's business deals could put a future presidential campaign at risk."
+    publishedDateTime: 2020-10-28T02:25:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9F6v2hmVHIU/plausible-deniability-tony-bobulinski-biden-family"
+    ampWebUrl: "https://www.foxnews.com/politics/plausible-deniability-tony-bobulinski-biden-family.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/plausible-deniability-tony-bobulinski-biden-family.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden campaign slams Hunter Biden associate's claims about overseas business as 'desperate, pathetic farce'"
     excerpt: "“Joe Biden has never even considered being involved in business with his family,\" the campaign said."

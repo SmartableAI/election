@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-n
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-november-election.amp"
 type: article
 quality: 199
-heat: 799
+heat: 839
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pennsylvania energy workers feature heavily in Trump, Biden bid for votes"
+    excerpt: "The two 2020 contenders have clashed over Biden’s stance on hydraulic fracturing."
+    publishedDateTime: 2020-10-28T01:37:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2BeoZ235tOY/pennsylvania-energy-workers-trump-biden-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-energy-workers-trump-biden-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-energy-workers-trump-biden-votes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ec1b9f5-0348-4a6f-ae96-4b7562fb0ec2/c80ab8e5-4930-46c1-a768-aa7670ee23f8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Obama unloads on Trump at rally for Biden: 'We can't afford 4 more years of this'"
     excerpt: "Former President Obama repeatedly took aim at his successor in the White House as he campaigned Tuesday for Democratic presidential nominee Joe Biden in the crucial battleground state of Florida."
     publishedDateTime: 2020-10-27T17:48:45Z
@@ -92,6 +108,22 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7826580-526e-4f1c-9721-011b800b19dd/40049331-d4f4-4d3f-a182-e8a8207c371b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump says Biden would 'tie the hands of every police officer' at Wisconsin rally"
+    excerpt: "Trump told supporters in West Salem, Wis., that Biden and leading Democrats “incite violence and hatred against our police officers.” The president referenced attacks on officers in Philadelphia after protests turned violent after a fatal police-involved shooting of a Black man."
+    publishedDateTime: 2020-10-28T00:51:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q6GLgegvXMA/trump-biden-law-enforcement-police-wisconsin-west-salem-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-law-enforcement-police-wisconsin-west-salem-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-law-enforcement-police-wisconsin-west-salem-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c07699c5-c1b2-4704-84bc-36de560f402a/0ddd79af-4e5c-4332-a0a8-7c5d72203db2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

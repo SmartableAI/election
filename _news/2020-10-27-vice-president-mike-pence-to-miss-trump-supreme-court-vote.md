@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54693599"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54693599"
 type: article
 quality: 140
-heat: 2180
+heat: 2200
 published: true
 
 provider:
@@ -754,6 +754,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/ea344a62-27f3-43f3-bc18-064eec3db129/thumbnail/1200x630/2b643b630ac6e7dca1e24427c4417fa2/cbsn-fusion-multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus-thumbnail-574507-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "United States cannot replace President Trump as defendant in columnist’s lawsuit related to rape allegation, federal judge rules"
+    excerpt: "A federal judge on Tuesday denied President Donald Trump’s request that the United States replace him as the defendant in a defamation lawsuit alleging he raped a woman."
+    publishedDateTime: 2020-10-28T02:43:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 96
+    images:
+      - url: "https://www.chicagotribune.com/resizer/9T6xM9WwzncJC1U9YusfCXeCFF0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSWZ6OW4UASM2Y33DIGJOP55QE.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Vice President Mike Pence's top aides test positive for COVID-19, but he continues to work"
     excerpt: "Mike Pence plans to preside over the Senate floor during a vote on Amy Coney Barrett's confirmation despite several of his top aides contracting COVID-19."

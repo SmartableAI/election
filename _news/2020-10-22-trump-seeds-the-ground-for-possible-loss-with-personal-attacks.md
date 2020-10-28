@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump campaign website briefly defaced in cyber attack "
+    excerpt: "President Donald Trump's campaign website was defaced for a brief period on Tuesday in a hack.\n    \n"
+    publishedDateTime: 2020-10-28T01:22:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/af7mC1P5Ojo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-campaign-website-cyber-attack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-campaign-website-cyber-attack/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027191547-trump-1027-west-salem-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump renews focus on ex-friend with essay railing against 'pettiness'"
     excerpt: "First lady Melania Trump penned an essay on the White House website on Friday that railed against what she described as the \"pettiness\" of the media and ex-friend and former adviser Stephanie Winston Wolkoff.\n    \n"
     publishedDateTime: 2020-10-16T15:37:32Z
@@ -107,6 +123,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014123055-20201014-trump-mueller-investigation-campaign-donation-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Cash-strapped Trump campaign shifts resources in Florida as Democrats dominate the airwaves"
+    excerpt: "President Donald Trump, who has trailed his Democratic rival Joe Biden in fundraising, has pulled back some of his television advertising in the crucial state of Florida in the final sprint to Election Day, instead tapping his party's funds to help spread his message across the state.\n    \n"
+    publishedDateTime: 2020-10-28T01:36:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/shyb57XdGwQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-campaign-florida/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-campaign-florida/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027120930-donald-trump-1019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -157,6 +189,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/25/us/politics/25trump-carolina-1/25trump-carolina-1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Melania Trump talks Covid-19 diagnosis in first solo 2020 campaign event"
+    excerpt: "The first lady thanked well-wishers for their \"love and support\" after her Covid-19 diagnosis and warned Joe Biden's policies would \"destroy America\""
+    publishedDateTime: 2020-10-27T20:45:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/melania-trump-talks-covid-19-diagnosis-first-solo-2020-campaign-n1244977"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244977"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244977"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423430/201027-melania-trump-se-417p_85214a58292a4daabcea6a6df9a19003.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump campaign spokesperson claims parents of separated children don't want them back"
     excerpt: "Multiple media outlets reported this week that the federal government remains unable to find the parents of more than 500 children who were separated from their families."

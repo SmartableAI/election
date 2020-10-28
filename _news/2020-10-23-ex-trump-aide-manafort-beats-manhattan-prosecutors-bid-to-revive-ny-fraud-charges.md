@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2772UT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2772UT"
 type: article
 quality: 119
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,24 @@ images:
     width: 837
     height: 545
     isCached: true
+
+related:
+  - title: "Trump lifts tariffs on Canadian aluminum, warns he may resume them"
+    excerpt: "U.S. President Donald Trump issued a proclamation on Tuesday formally removing tariffs on raw aluminum imports from Canada but threatening to reinstate them if there was a surge in imports of the metal across the northern U."
+    publishedDateTime: 2020-10-28T00:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-canada-aluminum-idINKBN27C2TA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27C2TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27C2TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539024638&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1SE"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "/kR2/IUsLFLUxGVMzVVqb5uBFZP7BylIUjKey3CGfBLPLjvU41N30HMsrw+wGW5OZ8/jodKmeu3mBt8uxgBQ/pzwdV4RUcWBVnUl7KCcCooiFtdfzccyvGomfE5y2mpGf4rlvqhOwl5u455O8rwg9LcjZO7PtRADolpn3EZgVD2sK1CV3JgzVgbZ16qZHKnS2Shf/e5ZCRydWyBBFe+odb915yfmJFlvwOftYrCWCmC7i7579lqzZrCHXvudM3IwESj/fMJAWUegDJVWtNhRwknAYVXtnTsf8QBr5nCs9HK0Okp0+e7vyesuBsZkF1LOT6L/2/GB4mGV6UBa9fbYQgSHkvVlXl8jeUqY7Su3wmY=;3kzUYh0dLHriCss4pKSjrg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-am
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -139,6 +139,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden faces challenges in quickly combating the pandemic"
+    excerpt: "If Joe Biden wins next week's election, he says he'll immediately call Dr. Anthony Fauci, the nation's top infectious-disease expert. He'll work with governors and local officials to institute a nationwide mask-wearing mandate and instruct Congress to pass a sweeping spending bill by the end of January to address the coronavirus and its fallout."
+    publishedDateTime: 2020-10-28T02:39:00Z
+    webUrl: "https://www.businessinsider.com/biden-faces-challenges-in-quickly-combating-the-pandemic-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-faces-challenges-in-quickly-combating-the-pandemic-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-faces-challenges-in-quickly-combating-the-pandemic-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "North America’s Building Trades Unions Issue Formal Endorsement of Joe Biden for President"
     excerpt: "Today, North America’s Building Trades Unions (NABTU) formally endorsed former Vice President Joe Biden and Senator Kamala Harris for President and Vice President of the United States. The organization issued the following statement from NABTU President Sean McGarvey: “North America’s Building Trades Unions are proud to endorse former Vice President Joe Biden for President of the United States."
     publishedDateTime: 2020-10-23T17:32:00Z

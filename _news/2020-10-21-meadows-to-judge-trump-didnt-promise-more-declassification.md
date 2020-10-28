@@ -174,6 +174,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Has Trump delivered on any of his 2016 campaign promises?"
+    excerpt: "As President Trump's first term nears its end, CNN's Tom Foreman takes a closer look at which 2016 campaign promises he has delivered on.\n    \n"
+    publishedDateTime: 2020-10-28T00:27:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QQHJGQbIAxg/trump-campaign-promises-tom-foreman-ebof-pkg-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/28/trump-campaign-promises-tom-foreman-ebof-pkg-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/28/trump-campaign-promises-tom-foreman-ebof-pkg-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027192717-01b-trump-lansing-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump announces that Israel and Sudan have agreed to normalize relations"
     excerpt: "President Donald Trump announced Friday that Sudan and Israel have agreed to normalize relations -- a foreign policy achievement for the incumbent president less than two weeks before the US presidential election.\n    \n"
     publishedDateTime: 2020-10-23T16:29:33Z

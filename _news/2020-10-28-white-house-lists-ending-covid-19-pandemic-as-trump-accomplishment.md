@@ -309,6 +309,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Former President Obama slams Trump as 'jealous of COVID's media coverage' amid record cases"
+    excerpt: "Former President Barack Obama blasted President Donald Trump on Tuesday over the record number of new cases in the coronavirus pandemic."
+    publishedDateTime: 2020-10-27T17:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/obama-blasts-trump-over-handling-covid-19-pandemic-media-complaints/3750073001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3750073001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3750073001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/27/USAT/265fdd2d-d6b6-4aeb-9c8b-8aa44f1e360f-obama_orlando_1.jpg?auto=webp&crop=5861,3297,x0,y298&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "After Fauci said he's not surprised Trump got COVID-19, president calls top disease expert a 'disaster'"
     excerpt: "\"I think deep down, he believes in science,\" Fauci said of Trump. \"If he didn't, he would not have entrusted his health\" to the Walter Reed doctors."
     publishedDateTime: 2020-10-19T23:45:00Z
@@ -322,6 +338,22 @@ related:
     quality: 109
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/a30fa486-0dc7-4676-b4eb-19203fc74e96-AP_APTOPIX_Virus_Outbreak_Congress_1.jpg?auto=webp&crop=2831,1592,x1,y248&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Candidate Trump decried the national debt in 2016 and promised to eliminate it. It's only gotten bigger."
+    excerpt: "Analysts point to several reasons for the jump, including his tax cuts in 2017 and the federal response to the economic fallout from the pandemic."
+    publishedDateTime: 2020-10-28T02:45:00Z
+    webUrl: "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-has-failed-keep-campaign-pledge-erase-national-debt/3682405001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3682405001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3682405001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/17/USAT/304f1850-0bf1-4dd3-8a14-837260789dff-AP_17128533809612.jpg?auto=webp&crop=1701,957,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -538,6 +570,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5OiicL99yU9+8f69L9PIUIdruyshU2JePR8YeLZ9J4KNwfw7yphfoLZv3ZAQCHf2XKy6Yyc4sezJEEqkZ/FMHkju45rLaruNm5gDOUKcAj5FAqxo4VZ3hZMVDSvW4xkmtTiuhlSVtYFb2lf46Wq/W8ruigNIEnBea8Wmk+hJRz1THFW/ZGGFpytlCkrokRWGIdRpf0XCvF4W+pFdUfFKthvH9oLHGJmRnJ625xCkzEZKvT4REr4azaGidUel9tqVttKp8eP8gvriTR1Y8lb85m3gHtNpOXbBzNB7Wb6e0420rrGN2HvySPyCzsfaIfT3YP8jp/HOZV7PCKgGmkZgI1fOSVNyRTq9ttPxD4MyNA8=;JujKxw05LrvP86kkTjTz3Q=="
+secured: "fL3QOiSQo8i303734GqvAcIrZps+QgsgAxZxi068PDyC4rvRDSO/jfn3/TR5cgLLH4x4Zrk2bAaMlrdRSB8oPmg+UDjxg/grHMAV/vwb+i/xLUnFjvPKEESeScZJy+gACt+9kVAWpn/ApTLMavNdGnLkbRE2UX0f/8L2s2fR4lkf8aJKhfOCeQOgRmgmqngx+RWGDoR1PxDHWIOKIbTM+H3rTWXBjV3ogWkq6E+2iAdP/Fu8MvFjVmrnhVQnLkihJVKOeheM+ufPTp5yOYSAuRNe7IrMJEW4aqLprEh2Dqg3AhMjIBOwtHcDDJujj6zrfBaxkeE7+8yvFng2VOMJ52jrM/0FjZc+uLQHDQE4andOj9KInTjS89tHz2/fa+J1SgYzPr2XtGNo+CYh0UHdR8xEeqhOPfTkOKTXUczI0s4buT0pcu0/QtgOfSXE8FY5r2AbI8ZwCH+nQn+u00LqdYwE2ipDIq4TCZNMK4AAuatLkYD41YGdPUL8s8G7zrKNVe4+YXRNBujm4FMvDXc5Kw==;pjTWxwkaQTD0Jv+Z/VQziA=="
 ---
 

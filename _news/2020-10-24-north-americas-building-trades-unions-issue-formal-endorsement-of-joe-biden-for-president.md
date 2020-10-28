@@ -149,6 +149,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden faces challenges in quickly combating the pandemic"
+    excerpt: "If Joe Biden wins next week's election, he says he'll immediately call Dr. Anthony Fauci, the nation's top infectious-disease expert. He'll work with governors and local officials to institute a nationwide mask-wearing mandate and instruct Congress to pass a sweeping spending bill by the end of January to address the coronavirus and its fallout."
+    publishedDateTime: 2020-10-28T02:39:00Z
+    webUrl: "https://www.businessinsider.com/biden-faces-challenges-in-quickly-combating-the-pandemic-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-faces-challenges-in-quickly-combating-the-pandemic-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-faces-challenges-in-quickly-combating-the-pandemic-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies"
     excerpt: "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\""
     publishedDateTime: 2020-10-17T10:11:00Z

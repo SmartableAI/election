@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-03-barack-obama-wishes-speedy-recovery-to-president-trump-melania-no-matter-our-party.md",
+      "title": "Barack Obama wishes 'speedy recovery' to President Trump, Melania 'no matter our party'",
+      "excerpt": "Former President Barack Obama is calling for unity and compassion following President Donald Trump's COVID-19 diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/03/president-trump-covid-19-barack-obama-speedy-recovery/3606381001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/03/president-trump-covid-19-barack-obama-speedy-recovery/3606381001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/06/01/USAT/195abe67-14bf-4792-8ec0-a292567ea8d6-AFP_AFP_1RL4N1.JPG?auto=webp&crop=4499,2531,x1,y6&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3606381001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3606381001",
+      "publishedDateTime": "2020-10-02T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-commentary-what-happens-if-trump-is-unable-to-govern.md",
       "title": "Commentary: What happens if Trump is ‘unable’ to govern",
       "excerpt": "For some imaginable health outcomes, especially those associated with COVID-19, the 25th Amendment is ambiguous.",
@@ -1529,63 +1581,6 @@
       "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241323",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241323",
       "publishedDateTime": "2020-09-29T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-does-trumps-tightening-financial-vise-create-a-security-risk.md",
-      "title": "Does Trump's 'tightening financial vise' create a security risk?",
-      "excerpt": "Trump holding onto power might be one of the few options he has remaining to prevent his creditors from seizing his personal assets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-trump-s-tightening-financial-vise-create-security-risk-ncna1241325",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-trump-s-tightening-financial-vise-create-security-risk-ncna1241325",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/j/newscms/2020_40/3415692/200928-donald-trump-2019-ac-900p_b16f83d9a1a7db503e80ee100742757f.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T06:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",

@@ -111,6 +111,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Hours after Trump's dark and divisive White House speech, his doctor still won't say if he's tested negative"
+    excerpt: "(CNN)Seven hours after a defiant President Donald Trump resumed public events Saturday with a divisive speech from a White House balcony in front of hundreds of guests, his doctor released a memo ..."
+    publishedDateTime: 2020-10-10T14:26:00Z
+    webUrl: "https://edition.cnn.com/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 116
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010151101-08b-trump-white-house-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "IuCwSI1NdhfbEHgN/GEE8BHOCpxBN2t+p+wzVKO6Pc9iyRaxUSh3tDjHWDP9BuZjUEyA4JJ5kiIFejOhtdi/WJtIfXEXeoi/tPtSA08kYbY71xtxOWJ2/ZyneT9NW4fdX1V0zv227Es0FSbipOFTuNvZ3N8EmtzoKFkZ9m/E4WS+YEjAoJEz148HZWD/kQr21muMHkGpaPpL7mHaZts4aiInMNKUYTbl5xnyDt7hd+IYYTD4kYwlWzKXcIvlCUcp8cIt9S4m2prW5eLclaJ4g3TX0HVoqi3GIkUS+pGfJEnZKqxqY6t4GBR7iPpvnheXWSLcgE3w/RmKKXIuD5f3h2PtvgnT1jPl4nTTg9fr2qU=;M8F86icjX24SLzbFdvjnuQ=="
 ---

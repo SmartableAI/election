@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 2058
+heat: 2078
 published: true
 
 provider:
@@ -205,6 +205,22 @@ related:
     quality: 187
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023111911-20201023-trump-biden-political-ads-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Trump campaign deceptively snips video of Biden quoting the Pope"
+    excerpt: "The Trump campaign's \"war room\" Twitter account has been serially dishonest, repeatedly taking quotes from former Vice President Joe Biden and other Democrats out of context.\n    \n"
+    publishedDateTime: 2020-10-28T00:52:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pDK_MnbOrus/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/fact-check-biden-pope-francis-trump-war-room/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/fact-check-biden-pope-francis-trump-war-room/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027143937-03-biden-ga-1027-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,63 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-29-does-trumps-tightening-financial-vise-create-a-security-risk.md",
+      "title": "Does Trump's 'tightening financial vise' create a security risk?",
+      "excerpt": "Trump holding onto power might be one of the few options he has remaining to prevent his creditors from seizing his personal assets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-trump-s-tightening-financial-vise-create-security-risk-ncna1241325",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-trump-s-tightening-financial-vise-create-security-risk-ncna1241325",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/j/newscms/2020_40/3415692/200928-donald-trump-2019-ac-900p_b16f83d9a1a7db503e80ee100742757f.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-trump-reportedly-raked-in-427-million-from-the-apprentice-handing-him-a-financial-lifeline-amid-big-losses.md",
       "title": "Trump reportedly raked in $427 million from 'The Apprentice,' handing him a financial lifeline amid big losses",
       "excerpt": "Trump earned $427 million from starring on reality TV show \"The Apprentice,\" boosting his image and finances as his other businesses lost money.",
@@ -1507,58 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule.md",
-      "title": "Jeff Daniels On Donald Trump And Becoming James Comey In ‘The Comey Rule’",
-      "excerpt": "We hoped that it would be okay. He’ll have ten guys around him who won’t let him do anything crazy. That’s where the country was in 2016. Well, those ten guys are gone. And now look where we are.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/",
-      "originalUrl": "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cbe4b325b91c6fcc8a873%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/",
-      "publishedDateTime": "2020-09-24T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

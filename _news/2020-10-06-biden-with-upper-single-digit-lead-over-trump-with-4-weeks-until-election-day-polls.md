@@ -303,6 +303,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump denounces White supremacy '38 times' in new campaign video, amid Biden-Harris criticisms"
+    excerpt: "The Trump campaign on Tuesday released a video compiling more than three dozen times President Trump has denounced White supremacy, as his Democratic rival Joe Biden and his running mate Sen. Kamala Harris have claimed this week on the campaign trail that he has failed to do so."
+    publishedDateTime: 2020-10-28T01:25:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/73wTwhUOfQs/trump-denounce-white-supremacy-biden-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-denounce-white-supremacy-biden-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-denounce-white-supremacy-biden-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 203
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Vice presidential debate: Pence blasts Biden as 'cheerleader for communist China’"
     excerpt: "Vice President Mike Pence slammed Democratic nominee Joe Biden for being a “cheerleader for Communist China,” while saying the Trump administration, while wanting to “improve” relations with Beijing, will “hold China accountable” for the novel coronavirus."
     publishedDateTime: 2020-10-08T02:08:37Z

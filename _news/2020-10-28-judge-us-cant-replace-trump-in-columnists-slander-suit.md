@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Justice Department can't represent President Trump in E. Jean Carroll defamation case, judge rules"
+    excerpt: "E. Jean Carroll accused Trump of rape. He denied it. She sued him for defamation. Then the Justice Department got involved."
+    publishedDateTime: 2020-10-28T02:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/27/justice-dept-cant-represent-trump-e-jean-carroll-defamation-case/6052159002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6052159002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6052159002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/06/27/USAT/67fdd2af-3f5d-4f81-b81d-e067ca60bedd-AP_Trump_New_Accuser.JPG?auto=webp&crop=3599,2030,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "How the Trump Campaign is Trying to Suppress the Black Vote"
     excerpt: "Trump has a tendency to say the quiet part out loud, but in Wilmington, he was practically shouting that not all votes are created equal. And in North Carolina in particular, that means one thing: suppress Black voters."
     publishedDateTime: 2020-10-22T11:42:00Z

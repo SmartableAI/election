@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/trump-china-taxes-financ
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-china-taxes-financial-records/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924170345-01-trump-0924-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New York Times: Tax records show Trump had over $270 million in debt forgiven after failing to repay lenders"
+    excerpt: "President Donald Trump has had more than $270 million in debt forgiven since 2010 after he failed to repay his lenders for a Chicago skyscraper development, The New York Times reported Tuesday.\n    \n"
+    publishedDateTime: 2020-10-28T03:07:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/74TWLsx_c6s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-tax-records-chicago-loan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-tax-records-chicago-loan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

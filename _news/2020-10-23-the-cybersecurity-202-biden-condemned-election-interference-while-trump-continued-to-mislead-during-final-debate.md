@@ -495,6 +495,22 @@ related:
         width: 856
         height: 545
         isCached: true
+  - title: "Melania Trump slams Biden, Dems in first solo campaign stop"
+    excerpt: "Melania Trump lined up squarely with her husband Tuesday on her first solo trip of the 2020 campaign, slamming Joe Biden, Democrats and the media as she pushed the president's reeelection message in the battleground state of Pennsylvania."
+    publishedDateTime: 2020-10-28T02:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/melania-trump-slams-biden-dems-solo-campaign-stop-73865036"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/melania-trump-slams-biden-dems-solo-campaign-stop-73865036"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/melania-trump-slams-biden-dems-solo-campaign-stop-73865036"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_22ff58aa1a144b6cb1735412013c09eb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
     excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
     publishedDateTime: 2020-10-22T06:50:00Z
@@ -573,6 +589,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538993438&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1EW"
         width: 789
+        height: 545
+        isCached: true
+  - title: "Trump sanctions could give Biden a bargaining chip in deal talks with Iran"
+    excerpt: "The Trump administration’s imposition of new sanctions on Iran may have been intended to forestall a new nuclear deal with Tehran if Joe Biden is elected president, but it could backfire instead by strengthening Biden's hand at the bargaining table."
+    publishedDateTime: 2020-10-28T01:54:00Z
+    webUrl: "https://www.reuters.com/article/iran-nuclear-usa-oil-analysis-int-idUSKBN27C32U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C32U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C32U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539036061&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1Y5"
+        width: 817
         height: 545
         isCached: true
   - title: "Biden appears to pull slightly ahead of Trump in Florida - Reuters/Ipsos poll"
@@ -668,6 +700,22 @@ related:
     quality: 133
     images:
       - url: "https://s.abcnews.com/images/International/obama-miami-2-ap-rc-201024_1603571842167_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Election 2020 live updates: Melania Trump delivers pointed political attack on trail"
+    excerpt: "President Donald Trump has campaign rallies in Michigan, Wisconsin and Nebraska on Tuesday while former Vice President Joe Biden spends the day in Georgia."
+    publishedDateTime: 2020-10-28T02:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73842913"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73842913"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73842913"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/International/melania-trump-rally-02-rt-jef-201027_1603829914653_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
         isCached: true
@@ -1150,7 +1198,7 @@ related:
   - title: "The Guardian view on the 2020 US elections: It’s time to dump Trump. America’s only hope is Joe Biden"
     excerpt: "Four years of deranged and unpredictable behaviour is proof that the current US president is uniquely unsuited to the job"
     publishedDateTime: 2020-10-27T19:09:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/ng-interactive/2020/oct/27/the-guardian-view-on-the-2020-us-elections-its-time-to-dump-trump-americas-only-hope-is-joe-biden"
+    webUrl: "https://www.theguardian.com/commentisfree/ng-interactive/2020/oct/27/the-guardian-view-on-the-2020-us-elections-its-time-to-dump-trump-americas-only-hope-is-joe-biden?ref=hvper.com"
     type: article
     provider:
       name: The Guardian

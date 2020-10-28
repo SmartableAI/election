@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Hours after Trump's dark and divisive White House speech, his doctor still won't say if he's tested negative"
+    excerpt: "(CNN)Seven hours after a defiant President Donald Trump resumed public events Saturday with a divisive speech from a White House balcony in front of hundreds of guests, his doctor released a memo ..."
+    publishedDateTime: 2020-10-10T14:26:00Z
+    webUrl: "https://edition.cnn.com/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 116
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010151101-08b-trump-white-house-1010-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "SH2htA88FFuRe2v4RbrVUI28lCcQvT1/yvKHMGHVDQkUP1X7jgcYoqu5a2DstTe3OnFRyFHTMyzxctQKGALLXhjivyXsJ4nP5l8STTxlDsiyUDRjDBDqieFIiAIwl5C6TW1NA2OSRP8Qe0ImXecgl0xJdEBLbNiPWwKSR2z6QCuzxWQAqvTBakK6cXh+7gF0v3fbZvB26HT6M0BurLot6J4VXe1bC4xA1by/iGIUIjZTcyMqoLCtElKPmUGdXv46mKAKxe5DyxKQdfj1jrjiAF8mLtNXl4NAoAagfcrVi6jIKw5Ma+oHUN86ZzeV0ftzu9JxKMaz2jsJ/5e+2sTDZqfFMLYPF7GpV5o0yTwTzuE=;Whz1qpto4t8A98VH91/FPw=="

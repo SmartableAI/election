@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New York Times: Tax records show Trump had over $270 million in debt forgiven after failing to repay lenders"
+    excerpt: "President Donald Trump has had more than $270 million in debt forgiven since 2010 after he failed to repay his lenders for a Chicago skyscraper development, The New York Times reported Tuesday.\n    \n"
+    publishedDateTime: 2020-10-28T03:07:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/74TWLsx_c6s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-tax-records-chicago-loan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-tax-records-chicago-loan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "xHeMDICkh7kj0DgmooWo8jG2LUYmIeIxZK7l1gzUCvYKshR8O0wnZzAvoGEkkJvIfx9YGYA/QOYU0DWmXo2so3ffCjZdkqzKcNiMnTPagZlQrONqVNguXM4Ys039um7ebx/h+Fs6v9JlxCuhH/cmuO9fQGNcf74EYAsmxbgXPWByKh4S7oip4gOM/xbADmsmVVM7RYvnLwW8UpRbJCc2Ku8ioLqNj/6CF7Cx3peIdauzDeycSCqsEry5NN2Ri6nOFZIujwLxqTedh/q2K1htl2A9M4cRVr3qHzI56Q9q0e76XYLl+RDKs2VrMm/sT8OKtozNYpMzacBRWMMAyVnwrBEmeOWRj4EpHWzs1ohdGHE=;lZbOFONJNG3Y/cznC4ip+A=="
 ---

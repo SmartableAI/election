@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-28-cook-political-report-editor-time-to-sound-the-alarm-on-bidens-likely-victory.md",
+      "title": "Cook Political Report editor: Time to 'sound the alarm' on Biden's likely victory",
+      "excerpt": "Dave Wasserman, US House editor for Cook Political Report, said Tuesday it's time to \"sound the alarm\" that Joe Biden is likely to be the next President of the United States. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u_sFWI_ZIwc/cook-political-report-biden-victory",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u_sFWI_ZIwc/cook-political-report-biden-victory",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20296066937983-e1603462593267.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cook-political-report-biden-victory.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cook-political-report-biden-victory.amp",
+      "publishedDateTime": "2020-10-27T19:02:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-playing-offense-biden-pledges-if-we-win-georgia-we-win-everything.md",
+      "title": "Playing offense, Biden pledges if ‘we win Georgia, we win everything’",
+      "excerpt": "It’s been more than a quarter century since the Democrats won Georgia in a presidential election – but Joe Biden’s hoping to break the losing streak.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zBH_mjttiMM/playing-offense-biden-pledges-if-we-win-georgia-we-win-everything",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zBH_mjttiMM/playing-offense-biden-pledges-if-we-win-georgia-we-win-everything",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301800841373.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/playing-offense-biden-pledges-if-we-win-georgia-we-win-everything.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/playing-offense-biden-pledges-if-we-win-georgia-we-win-everything.amp",
+      "publishedDateTime": "2020-10-27T17:36:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-mcenany-joe-bidens-comments-on-oil-fracking-will-be-death-knell-of-his-campaign.md",
       "title": "McEnany: Joe Biden’s comments on oil, fracking will be ‘death knell’ of his campaign",
       "excerpt": "Democratic presidential hopeful Joe Biden \"lost\" Pennsylvania in the election after his comments on banning the oil and fracking industry, White House press secretary Kayleigh McEnany said on Tuesday.",
@@ -238,7 +350,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 799,
+      "heat": 839,
       "tags": null,
       "images": [
         {
@@ -1535,7 +1647,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1575,119 +1687,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-rallies-north-carolina-on-jam-packed-saturday.md",
-      "title": "Trump rallies North Carolina on jam-packed Saturday",
-      "excerpt": "President Trump rallied the critical swing state of North Carolina, making the pitch that he's the person to lead an economic comeback and stand with American workers, whereas Joe Biden would hold back progress. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gz-mknSm03U/trump-north-carolina-rally-jam-packed-saturday",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gz-mknSm03U/trump-north-carolina-rally-jam-packed-saturday",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://media.foxbusiness.com/BrightCove/854081161001/202010/427/854081161001_6204325784001_6204325515001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-north-carolina-rally-jam-packed-saturday.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-rally-jam-packed-saturday.amp",
-      "publishedDateTime": "2020-10-24T09:30:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-jennifer-aniston-discourages-voters-from-supporting-kanye-west-casts-her-ballot-for-joe-biden.md",
-      "title": "Jennifer Aniston discourages voters from supporting Kanye West, casts her ballot for Joe Biden",
-      "excerpt": "Jennifer Aniston officially voted in the 2020 presidential election. In addition to revealing who she voted for, she also discouraged voters from supporting Kanye West.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/jennifer-aniston-kanye-west-vote-joe-biden-2020-presidential-election-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/jennifer-aniston-kanye-west-vote-joe-biden-2020-presidential-election-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Jennifer-Aniston_Getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/jennifer-aniston-kanye-west-vote-joe-biden-2020-presidential-election-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jennifer-aniston-kanye-west-vote-joe-biden-2020-presidential-election-trump.amp",
-      "publishedDateTime": "2020-10-24T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

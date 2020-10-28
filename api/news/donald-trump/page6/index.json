@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-07-donald-trump-is-shown-gasping-for-air-in-white-house-return-video-twitter-users-claim.md",
+      "title": "Donald Trump Is Shown ‘Gasping For Air’ In White House Return Video, Twitter Users Claim",
+      "excerpt": "Shortly after the president was released from Walter Reed hospital, many noted he appeared to be gasping for air when he returned to the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543",
+      "originalUrl": "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/his-covid-19-diagnosis-has-left-president-donald.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543?amp=1",
+      "publishedDateTime": "2020-10-06T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-exclusive-former-cia-director-john-brennan-says-the-biggest-threat-to-the-2020-election-is-trump-himself.md",
       "title": "EXCLUSIVE: Former CIA director John Brennan says the biggest threat to the 2020 election is Trump himself",
       "excerpt": "Russia got everything it could have hoped for from Donald Trump's presidency, the former CIA chief said in an interview.",
@@ -1497,58 +1549,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-barack-obama-wishes-speedy-recovery-to-president-trump-melania-no-matter-our-party.md",
-      "title": "Barack Obama wishes 'speedy recovery' to President Trump, Melania 'no matter our party'",
-      "excerpt": "Former President Barack Obama is calling for unity and compassion following President Donald Trump's COVID-19 diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/03/president-trump-covid-19-barack-obama-speedy-recovery/3606381001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/03/president-trump-covid-19-barack-obama-speedy-recovery/3606381001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/06/01/USAT/195abe67-14bf-4792-8ec0-a292567ea8d6-AFP_AFP_1RL4N1.JPG?auto=webp&crop=4499,2531,x1,y6&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3606381001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3606381001",
-      "publishedDateTime": "2020-10-02T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

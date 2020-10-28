@@ -303,6 +303,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump denounces White supremacy '38 times' in new campaign video, amid Biden-Harris criticisms"
+    excerpt: "The Trump campaign on Tuesday released a video compiling more than three dozen times President Trump has denounced White supremacy, as his Democratic rival Joe Biden and his running mate Sen. Kamala Harris have claimed this week on the campaign trail that he has failed to do so."
+    publishedDateTime: 2020-10-28T01:25:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/73wTwhUOfQs/trump-denounce-white-supremacy-biden-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-denounce-white-supremacy-biden-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-denounce-white-supremacy-biden-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 203
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden with upper-single digit lead over Trump with 4 weeks until Election Day: polls"
     excerpt: "With the clock ticking toward Election Day on Nov. 3, Democratic presidential nominee Joe Biden holds a nearly 10-point lead over President Trump in an average of the latest national polls."
     publishedDateTime: 2020-10-06T17:28:28Z

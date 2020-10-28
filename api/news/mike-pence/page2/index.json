@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-21-vp-mike-pence-set-to-visit-jacksonville-florida-on-saturday.md",
+      "title": "VP Mike Pence set to visit Jacksonville, Florida, on Saturday",
+      "excerpt": "Vice President Mike Pence will be coming to Jacksonville and Tallahassee this Saturday, according to a tweet from his communications director.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jacksonville.com/story/news/politics/elections/presidential/2020/10/20/vp-mike-pence-set-visit-jacksonville-florida-saturday/5996634002/",
+      "originalUrl": "https://www.jacksonville.com/story/news/politics/elections/presidential/2020/10/20/vp-mike-pence-set-visit-jacksonville-florida-saturday/5996634002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/3658fd42755583d64b04f69690f6d4a6f28401aa/c=0-270-5184-3186/local/-/media/2020/09/09/JacksonvilleFL/ghows_gallery-LK-622009997-f7614850.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.jacksonville.com/amp/5996634002",
+      "cdnAmpWebUrl": "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/5996634002",
+      "publishedDateTime": "2020-10-20T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Florida Times-Union",
+        "domain": "jacksonville.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-pence-touts-gop-candidates-support-for-fishermen-in-maine.md",
       "title": "Pence touts GOP candidates, support for fishermen in Maine",
       "excerpt": "Vice President Mike Pence used a Monday appearance in Maine to tout Republican politicians in the state and boast about the federal government's support for lobster fishermen. Pence held a rally in Hermon,",
@@ -1386,63 +1429,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-mike-pence-and-the-gop-mount-a-last-stand-in-arizona.md",
-      "title": "Mike Pence and the GOP Mount a Last Stand in Arizona",
-      "excerpt": "Most voters have made up their minds, so the Trump campaign is rallying the conservative ‘old guard.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "originalUrl": "https://www.wsj.com/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-243001/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "publishedDateTime": "2020-10-09T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

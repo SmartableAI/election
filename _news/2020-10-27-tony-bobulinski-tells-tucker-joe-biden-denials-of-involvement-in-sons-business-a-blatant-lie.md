@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Plausible deniability': Tony Bobulinski claims Biden family shrugged off concerns about risk to 2020 bid"
+    excerpt: "Tony Bobulinski, a former business associate of Hunter Biden, claimed in an interview Tuesday that the Biden family shrugged off concerns that Joe Biden’s alleged ties to his son's business deals could put a future presidential campaign at risk."
+    publishedDateTime: 2020-10-28T02:25:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9F6v2hmVHIU/plausible-deniability-tony-bobulinski-biden-family"
+    ampWebUrl: "https://www.foxnews.com/politics/plausible-deniability-tony-bobulinski-biden-family.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/plausible-deniability-tony-bobulinski-biden-family.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden campaign slams Hunter Biden associate's claims about overseas business as 'desperate, pathetic farce'"
     excerpt: "“Joe Biden has never even considered being involved in business with his family,\" the campaign said."
     publishedDateTime: 2020-10-23T00:03:56Z
