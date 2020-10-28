@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "WATCH LIVE: Trump speaks at campaign rally in Bullhead City, Arizona"
+    excerpt: "Trump weighed in on two nights of clashes with Philadelphia police and store break-ins following the fatal shooting by police of Walter Wallace Jr."
+    publishedDateTime: 2020-10-28T18:57:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "If the Justice Department intervenes for Trump in defamation lawsuit, the case would ‘end’"
     excerpt: "Constitutional law expert Leah Litman explains the latest twist in E. Jean Carroll’s lawsuit against the president."
     publishedDateTime: 2020-09-18T11:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 6915
+heat: 6935
 published: true
 
 provider:
@@ -4904,6 +4904,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDTF/236fce4f-44df-4cc3-995d-311c6e79ab63-thumbnail_IMG_0236.jpg?auto=webp&crop=1279,720,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "President Donald Trump raised nearly twice as much money in Texas as Joe Biden"
+    excerpt: "While public polling shows a close race for the White House in Texas, campaign finance reports leave no doubt who is winning the financial battle. Donald Trump has raised nearly double the amount of money in Texas as Joe Biden has."
+    publishedDateTime: 2020-10-28T18:05:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/President-Donald-Trump-raised-nearly-twice-as-15681601.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 66
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/75/63/20176065/5/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "VP Mike Pence Highlights Trump’s Commitment To Law & Order During Wisconsin Visit"
     excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to “law and order” during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where violent protests erupted following the police shooting of Jacob Blake."

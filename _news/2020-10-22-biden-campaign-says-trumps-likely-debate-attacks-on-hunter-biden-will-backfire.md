@@ -415,6 +415,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Bloomberg super PAC outspending Trump in Ohio ahead of Election Day: report"
+    excerpt: "A recent Fox News poll showed Trump with a slight edge over Joe Biden in the battleground state."
+    publishedDateTime: 2020-10-28T19:14:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cV9wmDraXno/bloomberg-super-pac-outspending-trump-ohio-ahead-of-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/bloomberg-super-pac-outspending-trump-ohio-ahead-of-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bloomberg-super-pac-outspending-trump-ohio-ahead-of-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3de87600-dbcb-4a99-96cb-260adff5cd13/76b665ff-3f3c-446c-a671-d8b9ba729f56/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump, Biden clash over reopening plans, former VP won't rule out more shutdowns"
     excerpt: "Democratic presidential nominee Joe Biden indicated on Thursday that he was open to implementing more economic shutdowns to combat the coronavirus pandemic."
     publishedDateTime: 2020-10-23T02:14:10Z

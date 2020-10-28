@@ -2258,6 +2258,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Trump to participate in hour-long town hall on Oct. 15"
+    excerpt: "“From ‘Access Hollywood’ to the upcoming town hall, NBC has enabled Donald Trump for decades,” Ms. Thomas said. “By hosting this town hall for Donald Trump, NBC is complicit in his ..."
+    publishedDateTime: 2020-10-14T14:37:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/14/donald-trump-participate-hour-long-town-hall-oct-1/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/14/donald-trump-participate-hour-long-town-hall-oct-1/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/14/donald-trump-participate-hour-long-town-hall-oct-1/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/14/election_2020_trump_49864_c0-0-3000-1750_s1200x700.jpg?8fcc827e3d5c4d025cb0728722f014f10701a927"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Watch Live: President Trump's Campaign Remarks From Johnstown PA"
     excerpt: "Trailing in the polls, President Donald Trump returns to the battleground state Pennsylvania on Tuesday. Trump will speak at a rally at the John Murtha Johnstown-Cambria County Airport at 7 p.m. Trump has returned to the campaign trail after having tested positive for the coronavirus almost two weeks ago."
     publishedDateTime: 2020-10-14T01:11:00Z

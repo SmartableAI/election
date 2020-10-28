@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5942236002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942236002"
 type: article
 quality: 122
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 676
     isCached: true
+
+related:
+  - title: "Trump: Philadelphia protests 'terrible'"
+    excerpt: "President Donald Trump is denouncing the protests in Philadelphia in response to the police shooting of a Black man. \"Again, a Democrat run state, a Democrat run city, Philadelphia,\" Trump said. He claimed police had been told not to intervene."
+    publishedDateTime: 2020-10-28T19:25:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/28/trump-philadelphia-protests-terrible/6059493002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d755a6e9-b225-4583-9bf5-7ccc84f0dfca_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Y+wbmFNvi8iKH43sijg98tZ1mNShidSCFkhdzjR7lypMz5xxQA6QLEvYV5nVI8wVkWK7/dJpoVHU1NOlTPMG+WspukQWT2g3fOaKAs2x153KbNfHSMnBHlnz2QnT5oRJBfXF1hvIG18KSGpP/oeEI9gep34RWi9aH0vUkhU6kH9AnCQszrahrr3ZA1bMqqQNlxWx0ouXg14C+0gZtMthBqVPqTo2pl1KIt2U2DZP6VaHkb1HOqC3AUdmDaOmNFBeFxm66+AYn9r+dFAVJu6ijpZk5AJGXz+Xuc96idkHevj0C1d2j/NH7wWbgI69XsJQmymWBWCBhoolpoZvEL+AlSC5RxOT+A90MO31a1EdNQY=;f6GlKJ1k83ynAGFdtIyx9Q=="
 ---

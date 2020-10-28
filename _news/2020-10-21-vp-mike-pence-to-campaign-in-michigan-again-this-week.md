@@ -217,6 +217,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "‘I need you to vote, Michigan,’ Pence says at Trump campaign rally in Grand Rapids"
+    excerpt: "KENT COUNTY, MI – Vice President Mike Pence urged Michigan voters to cast a ballot before Election Day during a campaign visit to Kent County. Pence was met with several hundred supporters ..."
+    publishedDateTime: 2020-10-14T18:10:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/i-need-you-to-vote-michigan-pence-says-at-trump-campaign-rally-in-grand-rapids.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/i-need-you-to-vote-michigan-pence-says-at-trump-campaign-rally-in-grand-rapids.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/i-need-you-to-vote-michigan-pence-says-at-trump-campaign-rally-in-grand-rapids.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Y44BKFRI7BEP5JKORKTBH3VDHM.JPG"
+        width: 1300
+        height: 867
+        isCached: true
   - title: "Confused Trump tells Michigan voters ‘Minnesota, you better vote for me!’"
     excerpt: "In a moment of confusion, President Donald Trump appeared to forget where he was speaking Saturday night. Flying into Muskegon, Michigan, Trump cautiously walked down the steps of his airplane to take the stage before a large “make America great again,"
     publishedDateTime: 2020-10-17T23:42:00Z

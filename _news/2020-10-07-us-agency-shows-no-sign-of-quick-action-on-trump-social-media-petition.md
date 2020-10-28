@@ -3308,6 +3308,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump to resume campaigning as second debate canceled"
+    excerpt: "Washington – U.S. President Donald Trump will resume in-person campaigning on Saturday after being sidelined by a case of COVID-19, but a debate next week against his presidential election ..."
+    publishedDateTime: 2020-10-10T01:57:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2020/10/10/world/politics-diplomacy-world/donald-trump-campaign-debate-canceled/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 55
+    images:
+      - url: "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/10/np_file_43566-870x579.jpeg"
+        width: 870
+        height: 579
+        isCached: true
   - title: "Trump Says He Declassified Documents Related To Federal Investigation Of Russia Interference, Hillary Clinton Emails"
     excerpt: "President Donald Trump on Tuesday declassified all documents pertaining to the investigation into Russian interference in the 2016 election, along with files related to the probe of Hillary Clinton's email use."
     publishedDateTime: 2020-10-07T02:17:00Z

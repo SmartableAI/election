@@ -4901,6 +4901,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "President Donald Trump raised nearly twice as much money in Texas as Joe Biden"
+    excerpt: "While public polling shows a close race for the White House in Texas, campaign finance reports leave no doubt who is winning the financial battle. Donald Trump has raised nearly double the amount of money in Texas as Joe Biden has."
+    publishedDateTime: 2020-10-28T18:05:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/President-Donald-Trump-raised-nearly-twice-as-15681601.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 66
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/75/63/20176065/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "VP Mike Pence Highlights Trump’s Commitment To Law & Order During Wisconsin Visit"
     excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to “law and order” during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where violent protests erupted following the police shooting of Jacob Blake."
     publishedDateTime: 2020-09-14T19:49:00Z

@@ -417,6 +417,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Bloomberg super PAC outspending Trump in Ohio ahead of Election Day: report"
+    excerpt: "A recent Fox News poll showed Trump with a slight edge over Joe Biden in the battleground state."
+    publishedDateTime: 2020-10-28T19:14:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cV9wmDraXno/bloomberg-super-pac-outspending-trump-ohio-ahead-of-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/bloomberg-super-pac-outspending-trump-ohio-ahead-of-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bloomberg-super-pac-outspending-trump-ohio-ahead-of-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3de87600-dbcb-4a99-96cb-260adff5cd13/76b665ff-3f3c-446c-a671-d8b9ba729f56/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden campaign says Trump’s likely debate attacks on Hunter Biden will backfire"
     excerpt: "Hours before the second and final debate between Democratic presidential nominee Joe Biden and President Trump, it was pretty clear that the president would press the accelerator at the face-off in Nashville, Tenn., over the latest controversy surrounding the former vice president’s son Hunter Biden."
     publishedDateTime: 2020-10-22T21:24:57Z

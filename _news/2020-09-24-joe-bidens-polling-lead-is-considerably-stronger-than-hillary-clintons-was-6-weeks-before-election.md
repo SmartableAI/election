@@ -41,6 +41,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Votes Early In Wilmington, Del."
+    excerpt: "Democratic presidential nominee Joe Biden and his wife, Jill Biden, joined the nearly 75 million voters who have cast their ballots early. The former vice"
+    publishedDateTime: 2020-10-28T19:54:00Z
+    webUrl: "https://www.boisestatepublicradio.org/post/joe-biden-votes-early-wilmington"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 55
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202010/928745747.jpg"
+        width: 800
+        height: 455
+        isCached: true
 
 secured: "as0JT0b69tRw9WDyOzwTNCFNq8xRjG06JvRXWRjbByDt7KtD/b6pquQAPzRseXiUQWnFPurDebeL2JchgnV295rqLhhbtmP5WBP1Bf6uNgJJT9iWJK4Yzk1WVymBnW6UuF5W6pNpHI6dsvDmFyav/yywGL/NiD4I8CIFHVagzv6A1xwfOEq0VpzvVjVdHgZToaqMKihFgeUwQJbxvRTDvCQZHQnbVKAGs1/4Eu/SWBoq5uo+iUhCAnnUlYSjqTkUtFvOrF6hYmC/H13DK4XO5c0VexZ5IWhyYhJlHdGH4Qunfy2SznPUvTIBdwip03H5IyxYuCA54gWsJJsFzfnwOMJqzRDuXp06BOJOY90mkWvm6GdzHSXMCiGB9fa771nhnlcO+rZDPHc0UNP04dnLGInwrJDHDhoVjJ45tNx9RDQC72CU3qRqwufsvM935nUSF7+rpuet8BHIvZIf1kX+13xSjtJJ3nFEbiqWH0NKOaq3WXV8mtsTfPEZreLgJzpkwWYqaQsLLJNV1XqQmSjO6A==;s2LIUop4tD1WUi3NH4Nm1w=="
 ---

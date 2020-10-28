@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Author of 2018 'Anonymous' op-ed critical of Trump revealed"
+    excerpt: "The anonymous senior Trump administration official who wrote a 2018 New York Times op-ed and a subsequent book critical of President Donald Trump is Miles Taylor, he revealed in a statement to CNN on Thursday.\n    \n"
+    publishedDateTime: 2020-10-28T19:53:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ritTzykXEVI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/anonymous-new-york-times-oped-writer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/anonymous-new-york-times-oped-writer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191108093353-a-warning-anonymous-book-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Facebook-Twitter-Trump Wars Are Actually About Something Else"
     excerpt: "Much of the outrage around the Trump era and social media platforms — like, most recently, the decision by Facebook and Twitter to reduce the reach of a highly questionabl Post story about Hunter Biden — is actually about government power and accountability."
     publishedDateTime: 2020-10-18T19:06:00Z

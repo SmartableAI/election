@@ -283,6 +283,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden is the right choice for president of the United States for our times | Opinion"
+    excerpt: "Although some have tried to use Joe Biden’s years in Washington against him, his experience is actually a shield that can protect all of us."
+    publishedDateTime: 2020-10-28T19:31:00Z
+    webUrl: "https://www.tennessean.com/story/opinion/2020/10/28/joe-biden-right-choice-president-our-times-karen-camper/6058112002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6058112002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6058112002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PNAS/40f80051-62a0-4c08-9435-d0b6822cce49-_MJZ4295.JPG?auto=webp&crop=4550,2559,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "This Bay of Pigs vet in Miami is all in for Joe Biden, rejects GOP’s socialist attacks | Opinion"
     excerpt: "But finally, somebody with credibility and authority — a Bay of Pigs veteran, no less — is addressing the most damaging accusation by the Donald Trump campaign and the Florida GOP against Joe Biden and down-ballot Democrats."
     publishedDateTime: 2020-10-20T19:14:00Z
@@ -382,6 +398,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "I6cJiSItMFRrpprdRzeiq9QlJ1jvNRo66A+PPLcVdvz31XGshg8PyCyIKAFhuijaut7zmMhj4TJr0R0b4Ri24ib0z/2/g7N2bKM1ulNIU8s352GGnInxyvZSxbf2dPn6zWxSKR82yFxjcnopsm02fU56nOgVJMkqIaUwyXP2eaOCCwJ9eSGD+XxT+u8401ANZxnWm22fF3cNNWbcZUtwTJU+VQrVUg5k6YWvZZf9ic71cfmy3k8RkWcZvmwzMtixkew2/Uf3irQ8nmazjkOVJ2Dyx2/whUsB1/nI/rh9F+7u8q8oCze9FIboL2E61vszYsxMPfPO+HWHo92DWoQ6O29fWyAfKGeLP1BMT8ewyaU=;YSsYPLs7ErhlenQzMtXLQQ=="
+secured: "Gtl95SphtyHRYe91l1ss8QX/l6mgrb+VHDdAJqrReMqiCVgWSsncs1RiRXMRh4a40U3M4VNAo9j3wUKxnFnCp0yELcbSLw8Kaz9ZQDRxKq6R97DTIztjxCY+FwAsJ4IoHx7glwx3QXl0LMHj2ANxsvUEt/Dv7zd0/EMHWES2vVwbifkhfSxPGGbLd54gMzkz2/5x++Qsrf4XQK4rN9nx1jgM3LrWTo5HNKtCKK7h8QRJoB9dB1yy72t+UW1WUdb91jgg6WAJQDYMRM2F9khjxWjFnphi8SDFfROUoFXFkeTDqQuQ5P7BEyJQeTfjUR0pdx+YmqRHsoguH/JKmVMA6MaaftuDYHGjDHVsHMYZJj6oZQd/A9eXxWZpxjOp9bVyPcVezREgpmuCHT3KccAO6vneJnWTU7X4rXfMEYKYnNufM7L9J/HW+fxgps6MJkV3xFoWjxp0K7BzVuEnW8wgS2yId9XnQMd6U0yFf+RiiCoiswT3iYMnEKgoBVaIoGXNGV3BGGsEYuDQJ1seUIffZg==;x91cQ3ulaUf+StH7PjhC6w=="
 ---
 

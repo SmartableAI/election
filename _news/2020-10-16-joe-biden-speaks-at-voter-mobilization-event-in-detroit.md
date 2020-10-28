@@ -287,6 +287,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden is the right choice for president of the United States for our times | Opinion"
+    excerpt: "Although some have tried to use Joe Biden’s years in Washington against him, his experience is actually a shield that can protect all of us."
+    publishedDateTime: 2020-10-28T19:31:00Z
+    webUrl: "https://www.tennessean.com/story/opinion/2020/10/28/joe-biden-right-choice-president-our-times-karen-camper/6058112002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6058112002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6058112002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PNAS/40f80051-62a0-4c08-9435-d0b6822cce49-_MJZ4295.JPG?auto=webp&crop=4550,2559,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "This Bay of Pigs vet in Miami is all in for Joe Biden, rejects GOP’s socialist attacks | Opinion"
     excerpt: "But finally, somebody with credibility and authority — a Bay of Pigs veteran, no less — is addressing the most damaging accusation by the Donald Trump campaign and the Florida GOP against Joe Biden and down-ballot Democrats."
     publishedDateTime: 2020-10-20T19:14:00Z

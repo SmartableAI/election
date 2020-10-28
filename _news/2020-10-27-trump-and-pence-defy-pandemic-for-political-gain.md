@@ -1216,6 +1216,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "FBI agents back Christopher Wray in letters to Trump, Biden and warn that firing him could 'damage' bureau"
+    excerpt: "FBI agents voiced support for embattled Director Wray, warning Trump and Biden that his untimely removal could \"undermine stability\" in the agency."
+    publishedDateTime: 2020-10-28T19:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/28/fbi-agents-back-christopher-wray-urge-trump-biden-not-fire-him/6056819002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6056819002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6056819002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/03548a401af87e1b7b121935590cd6ce8c43a2dd/c=0-220-4382-2696/local/-/media/2018/06/28/USATODAY/USATODAY/636657901739522838-WRAYAFP-AFP-16S96L-101056403.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "A striking new poll out of Texas shows Biden tied with Trump in a state that's been a GOP mainstay since 1976"
     excerpt: "A new poll found President Donald Trump and former Vice President Joe Biden tied at 47% in Texas, which most recently turned blue with Jimmy Carter."
     publishedDateTime: 2020-10-23T01:23:00Z

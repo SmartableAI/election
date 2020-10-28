@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601"
 type: article
 quality: 116
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://s.hdnux.com/photos/51/02/71/10759807/3/rawImage.jpg"
         width: 2048
         height: 1440
+        isCached: true
+  - title: "Joe Biden Votes Early In Wilmington, Del."
+    excerpt: "Democratic presidential nominee Joe Biden and his wife, Jill Biden, joined the nearly 75 million voters who have cast their ballots early. The former vice"
+    publishedDateTime: 2020-10-28T19:54:00Z
+    webUrl: "https://www.boisestatepublicradio.org/post/joe-biden-votes-early-wilmington"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 55
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202010/928745747.jpg"
+        width: 800
+        height: 455
         isCached: true
 
 secured: "rUDyH8eOoVjQoJXpig2VF+qN/fz66HoUSw9GrGC15s6ZpaIsEXzEzHqhQYs4938+sLtXDz1qpQxRTq5rBc+U2+YQktgQwOY1PZxWAxw61/aKlXDqoVuGlHLzWQHB3L+kgMwOrrqE4aWGsrwr3svgzuul1AKWYib1L5kQt+2oJfNyMz2W0wrUmE0gesqGGE5hHU2KXz6XV6rdyVBVCu8nGOR5d3RI3D2nKrfPG5SefCTvtcn9kubLK/Gk6d02kkJ8HO5yMyJR2vS78IcrxCgoYEbvm8a4ylMNO2SB0uiPMCzpBO8vG+9itGr2j/JXWmc/Nq8wFH1VFsNesT86LzpFNqFKOqPqm9TkOrjraXg51M8=;VYLI2TeLaooiqnfZo3Zj+Q=="

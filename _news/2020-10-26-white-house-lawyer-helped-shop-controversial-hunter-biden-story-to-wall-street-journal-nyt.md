@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What problems did Joe Biden solve during his decades in government?"
+    excerpt: "The “60 Minutes” interviews of the presidential and vice-presidential candidates last Sunday were more revealing for questions not asked and for sidestepping than for what inquiring minds really want to know prior to Election Day."
+    publishedDateTime: 2020-10-28T19:27:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/28/what-problems-did-joe-biden-solve-during-his-decad/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/28/what-problems-did-joe-biden-solve-during-his-decad/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/28/what-problems-did-joe-biden-solve-during-his-decad/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/25/Election_2020_Biden_60_Minutes_58876.jpg-b5e30_c64-0-3535-2025_s1200x700.jpg?141c61a9d33cb3b21d542d653d6a235c32584f6c"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "OMHBlWt3UB3+DngCWFvAwN2J8+MqmDU7e/QX2aajNeM8iijjkOdOG/f/q2/IrehoOTXt9ffU6hBC5H7qfKB/r7o/ZyN+tA8yp6Imc7jb2tQGarS39PRfGF7KsbR1z5WA49WYDVcmklLfYivmTxHUhDTCWTpjnuDDuHWX4zu7vnJx6INLAQe/JTaCUTLsBGSGHy+sThc64mKjQ7sjWFdl08sPpt7SdSeW7ssfBfFf3PZfbGr7x0sSLmtkGDMjIDlaKaVpY4fa4fh0cZuzihQEWkLfVpuiDpQjl2KWLovMwQtGN0c7kwua9ra5pjLCZPUZRhUG0Pi4OJ8WfWPpcCfvGVSgfdkmDGIZ1rNLMWG6IfQDrOFnLM4dxN8QhxWUekfJmn5QeJ4xLnnyAqA455Q2SUDMU02NsFE4Hi7N4p3Lx7nhTIWFiSBM/zQoJ9KTtD+MjVk4nvwvc4IA8sCrkAMNF5A4wsPKGYqsZozdBhVKlVVA4rJz5G8bErdwVskbTnTxlb19YDashNvDvTIzi2xQvg==;EJSP2U5sHzDeatd9+NIETw=="
 ---

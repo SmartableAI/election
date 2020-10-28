@@ -278,6 +278,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris campaigns in Phoenix and Tucson on Wednesday as Election Day nears"
+    excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
+    publishedDateTime: 2020-10-28T18:19:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3750272001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3750272001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 85
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
     excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
     publishedDateTime: 2020-10-22T02:21:00Z
@@ -710,6 +726,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/24278bd20f10249d545129bd9be90e98/BARRETT-VOTE.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Kamala Harris to visit Fort Worth, McAllen and Houston on Friday"
+    excerpt: "Harris’s visit marks the first time in 30 years a Democratic presidential ticket has been campaigning in Texas this close to Election Day."
+    publishedDateTime: 2020-10-28T18:05:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-to-visit-Fort-Worth-McAllen-and-15681537.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/75/62/20176012/5/rawImage.jpg"
+        width: 2048
+        height: 1427
         isCached: true
   - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
     excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."

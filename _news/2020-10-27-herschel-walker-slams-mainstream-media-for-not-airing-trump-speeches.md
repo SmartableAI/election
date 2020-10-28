@@ -31,33 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Pro-Trump high schooler sues Florida district for censoring support"
-    excerpt: "A pro-Trump high school student was issued a temporary restraining order after suing his school district that took issue with his elephant statue supporting President Trump."
-    publishedDateTime: 2020-10-24T17:08:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YAvPrWSLhPo/trump-florida-high-school-district-teen-vote-tyler-maxwell"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp"
+  - title: "Ari Fleischer: Biden is 'taking advantage of' a 'broken-down media' that is 'biased against Trump'"
+    excerpt: "The Biden campaign is \"taking advantage\" of the media bias against President Trump to keep the controversy surrounding former Vice President Joe Biden's son Hunter out of the spotlight, former White House Press Secretary Ari Fleischer claimed Wednesday."
+    publishedDateTime: 2020-10-28T19:36:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj5ZGug0TOo/ari-fleischer-biden-taking-advantage-broken-down-media"
+    ampWebUrl: "https://www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 176
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump gains in Florida polls despite Democrats lead in early voting"
-    excerpt: "President Trump is leading for the first time in Florida polling, according to Real Clear Politics on Tuesday, even as Democrats lead in early voting."
-    publishedDateTime: 2020-10-28T01:17:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/96MEjXZ5sOA/trump-gains-in-florida-polls-despite-democrats-lead-in-early-voting"
+  - title: "Ingraham: Democrats hiding 'true agenda' from middle, working class by trotting out Biden cliches"
+    excerpt: "President Trump, not Joe Biden, is the candidate who truly fights for the working class, Laura Ingraham argued Wednesday on \"The Ingraham Angle.\""
+    publishedDateTime: 2020-10-22T05:03:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuH1Ia8_6RA/ingraham-democrats-true-agenda-middle-working-class"
+    ampWebUrl: "https://www.foxnews.com/politics/ingraham-democrats-true-agenda-middle-working-class.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ingraham-democrats-true-agenda-middle-working-class.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 162
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8444f0ee-8648-4409-a0ef-47a007399b43/4c457b58-807d-4865-8683-f24e2ce1a494/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-florida-high-school-district-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Herschel Walker slams mainstream media for not airing Trump speeches"
-    excerpt: "Former NFL running back Herschel Walker on Tuesday slammed the mainstream media for giving airtime to a speech by Barack Obama but not President Donald Trump."
-    publishedDateTime: 2020-10-27T23:15:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/afWXAgHX8E8/herschel-walker-mainstream-media-trump-speeches"
-    ampWebUrl: "https://www.foxnews.com/politics/herschel-walker-mainstream-media-trump-speeches.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-mainstream-media-trump-speeches.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49cd9545-8d20-42fb-a18a-f2dee89ff05f/aa598eef-8742-4fa8-b656-699b26d681b7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump gains in Florida polls despite Democrats lead in early voting"
     excerpt: "President Trump is leading for the first time in Florida polling, according to Real Clear Politics on Tuesday, even as Democrats lead in early voting."
     publishedDateTime: 2020-10-28T01:17:45Z

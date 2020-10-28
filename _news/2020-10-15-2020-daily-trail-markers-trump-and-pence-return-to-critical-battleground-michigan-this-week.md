@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
 type: article
 quality: 129
-heat: 449
+heat: 469
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
       - url: "https://i.insider.com/5f76599c74fe5b0018a8e9e0?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "‘I need you to vote, Michigan,’ Pence says at Trump campaign rally in Grand Rapids"
+    excerpt: "KENT COUNTY, MI – Vice President Mike Pence urged Michigan voters to cast a ballot before Election Day during a campaign visit to Kent County. Pence was met with several hundred supporters ..."
+    publishedDateTime: 2020-10-14T18:10:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/i-need-you-to-vote-michigan-pence-says-at-trump-campaign-rally-in-grand-rapids.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/i-need-you-to-vote-michigan-pence-says-at-trump-campaign-rally-in-grand-rapids.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/i-need-you-to-vote-michigan-pence-says-at-trump-campaign-rally-in-grand-rapids.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Y44BKFRI7BEP5JKORKTBH3VDHM.JPG"
+        width: 1300
+        height: 867
         isCached: true
   - title: "VP Mike Pence to campaign in Michigan again this week"
     excerpt: "Vice President Mike Pence will be making a campaign stop in Michigan this week, following a rally in Grand Rapids last Wednesday. This time, Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township on Thursday,"

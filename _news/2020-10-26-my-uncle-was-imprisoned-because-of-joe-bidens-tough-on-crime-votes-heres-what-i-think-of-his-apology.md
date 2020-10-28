@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/my-uncle-was-imprisoned-because-of-j
 webUrl: "https://www.thedailybeast.com/my-uncle-was-imprisoned-because-of-joe-bidens-tough-on-crime-votes-heres-what-i-think-of-his-apology"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ topics:
   - Election
   - Joe Biden
   - Democratic Voice
+
+related:
+  - title: "Most Democrats are Scared to Say So, but Joe Biden Is Poised for a Landslide Win"
+    excerpt: "Democrats were in denial about their Hillary Clinton’s weaknesses. Now, they’re afraid to acknowledge Biden’s strengths."
+    publishedDateTime: 2020-10-28T12:55:00Z
+    webUrl: "https://www.thedailybeast.com/most-democrats-are-scared-to-say-so-but-joe-biden-is-poised-for-a-landslide-win"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 40
 
 secured: "vCWRN9b01BcegB8SCRoGzvtjMUgojysWDIU2Hj5NhF+h5fRDMGPgsQumLu8wZVdISgrI7p/0F6e+ZHDafWQoIWSTF++8cIiMyuRtKct35m8RkMMSC4Pq0b67zodNz5EoymXzdzc01nlTPK0I0csNGSDYaAwXGJNB+He+Agzo/IzwcZK5LI1HRrxQuoMK0R0skGJiIxe8lGwACwQHwUSMl6iKPqsa9abCp+htDsRxOuxwc3+uvERBGOHacDFbwQzqIAFivANwPWpjfG47j7oklbUQB3sp208pPCngvhGIw9tj7o/wqSXlk8bDOkz4xkE5LAZHkGqYtOUzkQitPaRBf52geeAhmy+mRX10DqYfOxzC+dqBW9cBFJc7LGaULUyubzcpKKsRJkdr67OdUH6UcAQB4/3lfK0yJFrmYiv0fwkLEF3fecEbc6H5QiRdhFiWFjbfgcIJy0PqvmYS8WIEbmrmEAAFLSWFSw8aR/vBHwg28pOPDA7m44gnkRbximFc6kfXtfw1tf8khfneANrpqg==;OPBWgn/OFX2UMPRemboTCA=="
 ---

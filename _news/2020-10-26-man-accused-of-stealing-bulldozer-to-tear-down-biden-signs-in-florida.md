@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/state-watch/522761-man-accused-of-steal
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/522761-man-accused-of-stealing-bulldozer-to-tear-down-biden-signs-in-florida?amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "What problems did Joe Biden solve during his decades in government?"
+    excerpt: "The “60 Minutes” interviews of the presidential and vice-presidential candidates last Sunday were more revealing for questions not asked and for sidestepping than for what inquiring minds really want to know prior to Election Day."
+    publishedDateTime: 2020-10-28T19:27:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/28/what-problems-did-joe-biden-solve-during-his-decad/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/28/what-problems-did-joe-biden-solve-during-his-decad/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/28/what-problems-did-joe-biden-solve-during-his-decad/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/25/Election_2020_Biden_60_Minutes_58876.jpg-b5e30_c64-0-3535-2025_s1200x700.jpg?141c61a9d33cb3b21d542d653d6a235c32584f6c"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "agOkeI/y5NvGIMDBwKc47tNGs7NqLAL3tWl4KxoOfJ3mHLXDZlC5XcQDrO8rIfhNpGpiXOD0Yok0xhAHWlM2Drag37F50ZlIeTNwyfZBKkab28a/hy0q8rmZ/DE1Pk7qqKy+1Xk1a8gTcsUdBfZd2SghmulddR2fvmDSKH2eGfOK9u3G9Wqlo21pwFNIxHSVzBPr5UG4DGImspU/EouvZV4zlv2x5K/rbszhxMj2M2W3DBETSxKlvU5M7DqlAhx9rct2VDRhuSJ+4xh92owCANiVYGRvYnR9saajPM9VwKK0CP4sMYqblhutPsRr+chAqM496i/i49kaj+LT3vozmSqFwkDSBMfsVLVNFefEM6las7DQov5rLBytptEFhnen8DzWQQDgSCdN7zkxzkbcx7NQQpuSof7sxO4tXDe+TUbImpXT7Ihi95LuoSwXOiINwSf7jq29jmSkM9HgWJ1EI2F5ek9vU9YgnRaRi8i/0IS2CDNMfrmwGZJJyPiFFkg1rxOifXWxFNfKY962pI+TbA==;R/AT2r8gjL9f/GxqqDF9BQ=="

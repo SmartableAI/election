@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/ingraham-democrats-true-agenda-midd
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ingraham-democrats-true-agenda-middle-working-class.amp"
 type: article
 quality: 162
-heat: 202
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says Pennsylvania plant 'thinking of shutting down,' company responds to 'untrue' claim: report"
-    excerpt: "Democratic presidential nominee Joe Biden during a campaign stop in Pennsylvania over the weekend incorrectly said that a plant in the city was considering closing its doors, prompting the company to issue a response to calm workers' fears, Erie News Now reported Tuesday."
-    publishedDateTime: 2020-10-14T12:50:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7sGq_71w1A/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report.amp"
+  - title: "Ari Fleischer: Biden is 'taking advantage of' a 'broken-down media' that is 'biased against Trump'"
+    excerpt: "The Biden campaign is \"taking advantage\" of the media bias against President Trump to keep the controversy surrounding former Vice President Joe Biden's son Hunter out of the spotlight, former White House Press Secretary Ari Fleischer claimed Wednesday."
+    publishedDateTime: 2020-10-28T19:36:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj5ZGug0TOo/ari-fleischer-biden-taking-advantage-broken-down-media"
+    ampWebUrl: "https://www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 176
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Laura Ingraham: President Joe Biden would be 'surrounded by lapdogs' in mainstream media"
-    excerpt: "Events this week have made it more clear than ever that the mainstream media is Joe Biden's primary campaign communications team, Laura Ingraham claimed Friday."
-    publishedDateTime: 2020-10-17T04:22:00Z
-    webUrl: "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs"
-    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs.amp"
+  - title: "Herschel Walker slams mainstream media for not airing Trump speeches"
+    excerpt: "Former NFL running back Herschel Walker on Tuesday slammed the mainstream media for giving airtime to a speech by Barack Obama but not President Donald Trump."
+    publishedDateTime: 2020-10-27T23:15:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/afWXAgHX8E8/herschel-walker-mainstream-media-trump-speeches"
+    ampWebUrl: "https://www.foxnews.com/politics/herschel-walker-mainstream-media-trump-speeches.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-mainstream-media-trump-speeches.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 126
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3c39a6d-e37a-439e-84b0-f844b788d6a4/3a53338a-e0c8-4d63-bbce-705d0589afc6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49cd9545-8d20-42fb-a18a-f2dee89ff05f/aa598eef-8742-4fa8-b656-699b26d681b7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
