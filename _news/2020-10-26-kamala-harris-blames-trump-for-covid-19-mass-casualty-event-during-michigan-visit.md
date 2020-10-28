@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hundreds of Trump rallygoers were stranded in the cold because there reportedly weren't enough buses to transport them back to their cars"
+    excerpt: "Medics transported at least seven people to the hospital and police officers gave rides to elderly rallygoers."
+    publishedDateTime: 2020-10-28T15:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5f9964b669331a0011bc5a67?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Barack Obama Disses Donald Trump, Waka Flocka Thinks Trump Is A Better President"
     excerpt: "The rapper weighed in with his opinion and people can't stop talking about it. Former President Barack Obama seemed as if he was having a grand time throwing jabs at President Donald Trump. Obama spoke at a drive-in rally for former Vice President Joe Biden and his running mate Kamala Harris and"
     publishedDateTime: 2020-10-22T06:25:00Z

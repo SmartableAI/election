@@ -2,11 +2,11 @@
 category: news
 title: "Bloomberg is funding late $15 million push to help Biden in Texas, Ohio"
 excerpt: "Billionaire Michael Bloomberg is planning to spend around $15 million on television advertising in Texas and Ohio during the final week of the presidential campaign to help Democratic candidate Joe Biden defeat President Donald Trump,"
-publishedDateTime: 2020-10-27T19:45:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-bloomberg/update-1-bloomberg-is-funding-late-15-million-push-to-help-biden-in-texas-ohio-idUSL1N2HI12O"
-webUrl: "https://www.reuters.com/article/usa-election-bloomberg/update-1-bloomberg-is-funding-late-15-million-push-to-help-biden-in-texas-ohio-idUSL1N2HI12O"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C1OX"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1OX"
+publishedDateTime: 2020-10-27T18:19:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-bloomberg-idUKKBN27C1OK"
+webUrl: "https://www.reuters.com/article/uk-usa-election-bloomberg-idUKKBN27C1OK"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27C1OK"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27C1OK"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538993510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q140"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538981324&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q13T"
     width: 816
     height: 545
     isCached: true
@@ -130,6 +130,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "3+EjW2pnTXQ/OZ1ycBiuOa1lcfdowKzbgDR1emBtash1gwBCuDvYGV9+8d37X5DmbY+vjhnnbVFKRlz0Ddk0/K3JOj74GD5l0X3sCV+Uua097PCGEdnARgIHBcwDy0JnlQCPsq1THiEzv5kMPcTsdQ9t8+ogSyB9J3t5h+mA+1rC7VKO7Z8XzHNW6I9ql7NC5usC+NxLiN3GcQLVigmuJ0ZS97eobqFBZSE5LYRhPGJFK4IX9hXvRJSHe1268BJ+NKHJeS5S6b4/EXzQFfv3qpzFZYnZ3Q0mdvr6eKgkyL+Ec6PfN85cVXbkScoTJ1SGW1xBtjFncisHS+ubru3Pm6br4eIIo9uiQIL+i7MvhS0=;0ZYyXwxP154gVTs3X/Vhug=="
+secured: "+eQO7q1j4IJHC62y66nM8WV1jm1YKc+MMz0i581tl/SPYlgEKgNoJqa/kcveS4WvLPERAS5c8ivEhWYrEjOElXJe33Vp+JzUE0PI58tSeKILSzMJcH2n7IQTuOwVqbaLN/AeVJVLiz/Us0FkmLPlVzNs5tVtgRMcGfYmWc3xW/60ysVMWR+X8rqxLlUkSIq4R32XBXimLTSJvplDcV6W2B6jiSoZ7Zmi9kJ7pUdoo42NnPMbNzl5BbqlZWf55KL8EM8z9gJyu5Jjyafx/ToBMXAYJONrHCH1k7eEWrrvZ1Mr6vL38sqH9oI9EGWYCllncSq+VlH6CFPMyRIhIkAIgTJk67AMJEb6oCzyZwCOE6o=;YNs6loR8iLLLhYhdhJVEyQ=="
 ---
 

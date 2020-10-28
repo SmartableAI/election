@@ -1,0 +1,113 @@
+---
+category: news
+title: "Trump's unhappy warrior pitch to voters includes insults and highly specific grievances"
+excerpt: "President Donald Trump is ending his reelection bid in a frenzied cross-country push for votes in states he won -- some handily -- four years ago. But he is not pretending to be happy about it.\n    \n"
+publishedDateTime: 2020-10-28T15:32:58Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A_PvDI_mF7M/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A_PvDI_mF7M/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/trump-election-2020-insults/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/trump-election-2020-insults/index.html"
+type: article
+quality: 167
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028010254-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Hear Trump speak after voting in person in Florida"
+    excerpt: "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n"
+    publishedDateTime: 2020-10-24T15:11:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Obama in Florida: Trump's tough guy schtick is a fraud"
+    excerpt: "Former President Barack Obama on Saturday laced into President Donald Trump, describing his successor as a thin-skinned bully whose true weakness was revealed when he walked off the set of a high profile interview this week after being faced with a few probing questions.\n    \n"
+    publishedDateTime: 2020-10-25T01:53:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aWP-mx-OuAM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/barack-obama-florida-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/barack-obama-florida-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024165556-03-barack-obama-miami-1024-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump signs law designating 9-8-8 as universal number for national suicide hotline starting in 2022"
+    excerpt: "President Donald Trump on Saturday signed into a law a bipartisan bill that will make 9-8-8 the universal telephone number to reach the national suicide prevention hotline starting in 2022.\n    \n"
+    publishedDateTime: 2020-10-17T23:42:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4_MT-McEHSw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Bloomberg knocks Trump back on his heels in Florida"
+    excerpt: "The former New York City mayor’s spending is forcing the president to dig deep in the key swing state and enabling the Biden campaign to spend ad dollars elsewhere."
+    publishedDateTime: 2020-10-20T23:12:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/20/bloomberg-knocks-trump-back-on-his-heels-in-florida-1328177"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/41/86/94af27cc4b74a93b78d2798e7dcc/apbloomberg.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "'Vote for Trump or else!': Feds review threatening emails sent to Florida voters"
+    excerpt: "Local officials in five Florida counties told POLITICO they have turned the emails over to the FBI, which declined to offer specifics."
+    publishedDateTime: 2020-10-21T22:01:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/21/vote-for-trump-or-else-feds-review-threatening-emails-sent-to-florida-voters-1328913"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 110
+    images:
+      - url: "https://static.politico.com/5d/4f/08ad183c44b1b72837846f0a0d3e/190816-votingmachine-getty-773.jpg"
+        width: 3000
+        height: 1999
+        isCached: true
+
+secured: "HSANsQn824a5t7lI3Dgg9N/rO7eiCBQdXtzbfYbgOF9OEZaSSuwfUi7nL0GTGE8Km7a5DfTbKEmasJx83QWqaheLqz/0v85UB1KinKubb1zh9RgSnE/coyh70rj9iu+8LgF90bDSkR6rGVP4+9Xow8MWU44UvJUBY5eCufCeWEFOZYMUVD6inX9/+AsuziXXX0Hzi1qXvmx9hk2aUkFWike94nOFF/klKuXRqZ6WPfVOeU9YOFkMFRaUvgLLmja095eYNAlDIUDnCyt2ePTvdfbBduGrACl0cvKDNsepvDXveeGpba/4yQyXwqfwr7/cREm59XrzQ6x7LZXn8gFLN0Med90b1LrqDXlTsgMbZdc=;2NUGt6qYLXeWhDYfnjCW7g=="
+---
+

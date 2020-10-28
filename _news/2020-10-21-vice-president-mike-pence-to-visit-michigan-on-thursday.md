@@ -416,6 +416,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship"
+    excerpt: "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain."
+    publishedDateTime: 2020-10-28T09:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/28/president-donald-trump-anthony-fauci-timeline-relationship-coronavirus-pandemic/3718797001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3718797001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718797001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/31/USAT/5f2d0ac9-24b5-43ca-bb6c-a6da956b363b-AFP_AFP_1VA3UJ.jpg?auto=webp&crop=4011,2257,x0,y355&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Votes In Person And Slams Mail-In Voting As Campaign Urges Voters To Vote By Mail"
     excerpt: "Despite his denunciations of mail-in voting, Trump has said the practice is ‘safe in secure’ in Florida, where he voted, because of its Republican governor."
     publishedDateTime: 2020-10-24T16:26:00Z
@@ -730,6 +746,20 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/10/sarah-cooper-interview.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Living statues paint Trump as racist 'relic'"
+    excerpt: "A week before Election Day, living statues depicting a golden Donald Trump in unflattering poses were on temporary display at the Lincoln Memorial and Trump International Hotel. (Oct. 27)"
+    publishedDateTime: 2020-10-28T15:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/28/living-statues-paint-trump-racist-relic/6054246002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/33913ed7-8dc4-4054-977e-0a6d261e32d3_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Mike Pence touts Donald Trump's Supreme Court pick at Wisconsin rally"
     excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
@@ -1519,6 +1549,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Latest: Trump Supporters Delayed in the Cold After Rally"
+    excerpt: "Throngs of people who attended a campaign rally held by President Donald Trump at a Nebraska airport had to wait around in frigid weather for hours after it ended before they could get back to their cars."
+    publishedDateTime: 2020-10-28T14:22:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Vice President Mike Pence appeals to Iron Rangers with focus on jobs, economy"
     excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally. HIBBING, Minn. – A brisk wind blew across the runway and light snow greeted Vice President Mike Pence as he made his closing arguments to Iron ..."
     publishedDateTime: 2020-10-26T21:20:00Z

@@ -39,6 +39,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Ahead of U.S. poll, Trump ends a U.S. restriction applying to Israeli settlements"
+    excerpt: "The Trump administration lifted a decades-old ban on Wednesday that had prohibited U.S. taxpayer funding for Israeli scientific research conducted in Jewish settlements in occupied territory, drawing Palestinian condemnation."
+    publishedDateTime: 2020-10-28T14:37:00Z
+    webUrl: "https://www.reuters.com/article/worldNews/idUSKBN27D23Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D23Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D23Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539130142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R186"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "v//AvWqdF4+nmnHPsLpdU36nZvr4LHTStM4wnhlNn1kNQfYOV9DtsJ9a1YVUMZJx+kIW9XRI5KvcG6q3KrvKHg0aGVQfsTwwf8fMqmOOjBl9OmnabDMUdRaGlMm5P3DKuVaTyJ78HxU/v8sAp7gWgn4cjWgVL3gWlzEgPkM02YFd9Hd+ZyD3DWLyX4B9alyfC755zeSiZfC0xpNTIgxW1JRjU2N9mSbhtRKHF46VJidqpZTHVTEi1EE1NQlJTKUWQA7yEJjZhHrvrsDxT1ri7zYC330IGdk1J5o66/C/VtX3tyoWyV3BgKENCjDDufz70SIKpfBmKKQ4Bd2hZTHihXt3Y0gKzvFxbTDxuWqwWxPHsJekZ+H1HbMZfXKDcYNrq+yI9gjlzlKLrl09CB+FGY5uvW1fCozHtPDK3BgfvYjYAXJkg6OVKdJroBniVBNQACRRx5/G3uaoscvOmUZkl91vj61A6PpihiQ1rIOEYvQqm77PzEp5+6w4LZbNFPfY1Soajz0zHPpKm7XduiX8jw==;AAauSgPcmTaOJInaeXobJg=="
 ---

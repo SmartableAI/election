@@ -1414,6 +1414,17 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "RPT-Trump or Biden's big economic challenge: millions of struggling Americans"
+    excerpt: "The winner of the race for the White House will face a generation of low-to-middle income Americans struggling to get back to work because of a health crisis not seen in more than 100 years."
+    publishedDateTime: 2020-10-28T14:03:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-unemployed-idUSL1N2HJ19C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HJ19C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HJ19C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
   - title: "Biden says he won't return Trump's attacks on his children because 'it's crass' to target a political opponent's family"
     excerpt: "\"Look, I'm running against Donald Trump, not his children,\" Biden said in an interview with \"Pod Save America.\""
     publishedDateTime: 2020-10-24T23:45:00Z
@@ -1781,6 +1792,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 85
+  - title: "Joe Biden TRIPLES His Wisconsin Lead Over Trump in ABC News/Washington Post Survey"
+    excerpt: "Former Vice President Joe Biden has tripled his lead over President Donald Trump in Wisconsin since September, according to the latest ABC News/Washington Post poll."
+    publishedDateTime: 2020-10-28T14:47:00Z
+    webUrl: "https://www.mediaite.com/news/joe-biden-triples-his-wisconsin-lead-over-trump-in-abc-news-washington-post-survey/"
+    ampWebUrl: "https://www.mediaite.com/news/joe-biden-triples-his-wisconsin-lead-over-trump-in-abc-news-washington-post-survey/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/joe-biden-triples-his-wisconsin-lead-over-trump-in-abc-news-washington-post-survey/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 84
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-GettyImages-1269930713-b-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "USA TODAY/Suffolk Poll: Joe Biden leading Donald Trump by 7 points in pivotal Pennsylvania"
     excerpt: "Democratic presidential nominee Joe Biden is leading President Donald Trump by 7 percentage points in the key battleground state of Pennsylvania, according to a new USA TODAY/Suffolk University poll."
     publishedDateTime: 2020-10-21T10:55:00Z

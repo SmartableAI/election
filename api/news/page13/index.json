@@ -2,6 +2,278 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-15-defund-police-movement-drives-officers-toward-trump.md",
+      "title": "'Defund police' movement drives officers toward Trump",
+      "excerpt": "The progressive \"defund the police\" movement is driving members of law enforcement nationwide to back President Trump on Election Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AdaXXxYQAw/defund-police-movement-drives-police-to-back-president-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AdaXXxYQAw/defund-police-movement-drives-police-to-back-president-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/12_AP20250357950305.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/defund-police-movement-drives-police-to-back-president-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/defund-police-movement-drives-police-to-back-president-trump.amp",
+      "publishedDateTime": "2020-10-15T13:21:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-trump-rages-at-allies-as-potential-october-surprises-fizzle.md",
+      "title": "Trump rages at allies as potential October surprises fizzle",
+      "excerpt": "Halfway through October, President Donald Trump's surprises are sputtering.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nc64tNmRuP4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nc64tNmRuP4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201014145405-donald-trump-september-debate-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/trump-election-2020-october-surprises/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-election-2020-october-surprises/index.html",
+      "publishedDateTime": "2020-10-15T12:55:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-amy-coney-barrett-dodges-kamala-harriss-question-about-climate-change.md",
+      "title": "Amy Coney Barrett dodges Kamala Harris's question about climate change",
+      "excerpt": "I will not express a view on a matter of public policy, especially one that is politically controversial,” Barrett said.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss",
+      "originalUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1005,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_amybarrett_getty101520.jpg",
+          "width": 1440,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp",
+      "publishedDateTime": "2020-10-15T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-fact-checking-the-dangerous-bin-laden-conspiracy-theory-that-trump-touted.md",
+      "title": "Fact-checking the dangerous bin Laden conspiracy theory that Trump touted",
+      "excerpt": "President Donald Trump is no stranger to conspiracy theories. Before Trump was even elected, he spent years pushing birther lies about President Barack Obama, the first Black president of the United States.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x28x7rqW1Mg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x28x7rqW1Mg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 354,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015070220-02-donald-trump-iowa-1014-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html",
+      "publishedDateTime": "2020-10-15T12:28:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-conservative-group-head-trump-loss-would-not-vindicate-the-old-gop-formula.md",
+      "title": "Conservative group head: Trump loss would not vindicate 'the old GOP formula'",
+      "excerpt": "Oren Cass, executive director of the conservative think tank American Compass, said Thursday that if President Trump loses his reelection bid, the Republican Party’s takeaway should not be that “the o",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula",
+      "originalUrl": "https://thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trump101220.jpg",
+          "width": 797,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula?amp",
+      "publishedDateTime": "2020-10-15T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-trump-administration-sets-gulf-of-mexico-drilling-auction-for-nov-18.md",
       "title": "Trump administration sets Gulf of Mexico drilling auction for Nov. 18",
       "excerpt": "The Trump administration on Thursday said it would offer all available areas in the Gulf of Mexico for auction to oil and gas drillers on Nov. 18, the first major test of the offshore sector's appetite for investment since early this year.",
@@ -1045,270 +1317,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-trump-determined-to-avoid-hillary-clintons-fatal-campaign-blunder.md",
-      "title": "Trump determined to avoid Hillary Clinton's fatal campaign blunder",
-      "excerpt": "Focusing on tight races and battlegrounds, Clinton lost critical states in the Rust Belt after not campaigning there.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWdS12PwJII/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWdS12PwJII/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TrumpPrayer.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp",
-      "publishedDateTime": "2020-10-14T11:58:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-perry-hooper-mike-pence-won-the-vp-debate-hands-down.md",
-      "title": "Perry Hooper: Mike Pence won the VP debate hands down",
-      "excerpt": "Most importantly the debate confirmed that the vice president “has what it takes” to become Commander in Chief of our military.",
-      "sourceUrl": null,
-      "webUrl": "https://www.montgomeryadvertiser.com/story/opinion/2020/10/14/perry-hooper-mike-pence-won-vp-debate-hands-down/3653376001/",
-      "originalUrl": "https://www.montgomeryadvertiser.com/story/opinion/2020/10/14/perry-hooper-mike-pence-won-vp-debate-hands-down/3653376001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/09/06/PMOY/e8a13a38-c3ca-4b38-9d73-2d3ecaa95a03-PerryHooper.jpg?auto=webp&crop=2999,1676,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.montgomeryadvertiser.com/amp/3653376001",
-      "cdnAmpWebUrl": "https://amp-montgomeryadvertiser-com.cdn.ampproject.org/c/s/amp.montgomeryadvertiser.com/amp/3653376001",
-      "publishedDateTime": "2020-10-14T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Montgomery Advertiser",
-        "domain": "montgomeryadvertiser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-trump-prays-for-wisdom-and-grace-to-lead-country-in-call-with-evangelical-leaders.md",
-      "title": "Trump prays for 'wisdom and grace' to lead country in call with evangelical leaders",
-      "excerpt": "President Trump thanked everyone who prayed for him after recovering from the coronavirus on a campaign prayer call with evangelical leaders.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dTFNFuuJpe8/trump-prayer-call-evangelical-christian-leaders",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dTFNFuuJpe8/trump-prayer-call-evangelical-christian-leaders",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-prayer-call-evangelical-christian-leaders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-prayer-call-evangelical-christian-leaders.amp",
-      "publishedDateTime": "2020-10-14T10:42:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit.md",
-      "title": "‘Socialist Nightmare’: Trump Casts Democratic Plans As Apocalyptic Amid Polling Deficit",
-      "excerpt": "In a speech to a consortium of economic clubs, the president warned of a ‘catastrophe of unimaginable proportions’ under Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/",
-      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87300c45fb6fbb5e859664%2F0x0.jpg%3FcropX1%3D127%26cropX2%3D4299%26cropY1%3D192%26cropY2%3D2538",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/amp/",
-      "publishedDateTime": "2020-10-14T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.md",
-      "title": "Turley: Court-packing would be a 'blunder of the first order' by Biden",
-      "excerpt": "The Democrats, as usual, looking small and petty in comparison, but with just 22 days until you're the ultimate jury and the election takes place, let's turn back to the campaign trail where Joe Biden has finally mustered up the courage to leave his basement bunker for a few hours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden",
-      "originalUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/826bf8c5-7513-4888-b950-2911d89eb94e/d73bb5e3-e212-48a4-980d-7dbc454e86bd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp",
-      "publishedDateTime": "2020-10-14T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

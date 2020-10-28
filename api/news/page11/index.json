@@ -2,6 +2,261 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-17-trump-rips-little-ben-sasse-after-nebraska-senators-diatribe-against-the-president.md",
+      "title": "Trump rips 'Little Ben Sasse' after Nebraska senator's diatribe against the president",
+      "excerpt": "President Trump tore into Sen. Ben Sasse Saturday in a series of tweets after the Nebraska Republican excoriated the president in a recent call with constituents and called him a \"TV-obsessed narcissistic individual.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q51CjaU0DRo/trump-rips-ben-sasse-nebraska-senators-diatribe-against-president",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q51CjaU0DRo/trump-rips-ben-sasse-nebraska-senators-diatribe-against-president",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20286538611587-e1602519668720.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-rips-ben-sasse-nebraska-senators-diatribe-against-president.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-ben-sasse-nebraska-senators-diatribe-against-president.amp",
+      "publishedDateTime": "2020-10-17T11:51:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-breaking-kamala-harris-to-campaign-in-florida-monday.md",
+      "title": "BREAKING: Kamala Harris to campaign in Florida Monday",
+      "excerpt": "Harris' Florida swing comes after busy week of campaigning that saw President Trump and Democratic rival Joe Biden make stops in Florida.",
+      "sourceUrl": null,
+      "webUrl": "https://www.palmbeachpost.com/story/news/politics/2020/10/17/kamala-harris-resume-person-campaigning-florida-monday/3693432001/",
+      "originalUrl": "https://www.palmbeachpost.com/story/news/politics/2020/10/17/kamala-harris-resume-person-campaigning-florida-monday/3693432001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/08/24/PalmBeachPost/ghows_gallery_ei-LK-200829833-381fbd87.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.palmbeachpost.com/amp/3693432001",
+      "cdnAmpWebUrl": "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3693432001",
+      "publishedDateTime": "2020-10-17T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Palm Beach Post",
+        "domain": "palmbeachpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-a-georgia-state-lawmaker-crowdsurfed-over-maskless-attendees-at-a-georgia-trump-rally.md",
+      "title": "A Georgia state lawmaker crowdsurfed over maskless attendees at a Georgia Trump rally",
+      "excerpt": "Vernon Jones, a Black Democratic lawmaker who has endorsed President Trump for reelection, defied health guidelines with the stunt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10",
+      "originalUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8afdf99e9fe40019009ee6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10?amp",
+      "publishedDateTime": "2020-10-17T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-bidens-non-answer-answer-on-police-and-court-packing.md",
+      "title": "Biden's non-answer answer on police and 'court-packing'",
+      "excerpt": "While we seem to be left with two Biden non-answers, Biden’s non-answer on America’s system of justice gives us his implicit answer on packing the court. The key to that answer lies in Biden’s most important political audience — the left.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing",
+      "originalUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe6_09292020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing?amp",
+      "publishedDateTime": "2020-10-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-not-going-to-waste-a-single-minute-on-tweets-gop-sen-sasse-pushes-back-after-trump-attacks.md",
+      "title": "'Not going to waste a single minute on tweets': GOP Sen. Sasse pushes back after Trump attacks",
+      "excerpt": "Trump and GOP Sen. Ben Sasse are publicly feuding as Republicans are working overtime to try keep control of the Senate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-ben-sasse-feud-over-senators-repeated-attacks-during-election/3693805001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-ben-sasse-feud-over-senators-repeated-attacks-during-election/3693805001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6cf8dfb4-fad7-4cfc-85d5-5db9f4f1c455-GTY_1229069749.jpg?auto=webp&crop=3729,2098,x259,y133&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3693805001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3693805001",
+      "publishedDateTime": "2020-10-17T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-trump-joked-that-hell-find-a-way-to-fire-florida-gov-ron-desantis-if-he-loses-the-state-in-november.md",
       "title": "Trump joked that he'll 'find a way' to fire Florida Gov. Ron DeSantis if he loses the state in November",
       "excerpt": "The president sees Florida as a must-win state in his electoral coalition if he is to be reelected to a second term.",
@@ -1017,275 +1272,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-watch-live-joe-biden-delivers-remarks-on-health-care-in-michigan.md",
-      "title": "Watch Live: Joe Biden Delivers Remarks On Health Care In Michigan",
-      "excerpt": "Democratic nominee Joe Biden will make a campaign stop in Southfield, Michigan on Friday afternoon to deliver remarks on expanding access to health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/10/16/watch_live_biden_delivers_remarks_on_health_care_in_michigan.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/16/watch_live_biden_delivers_remarks_on_health_care_in_michigan.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/524025.jpg",
-          "width": 1102,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-maryland-republican-gov-hogan-a-longtime-trump-critic-casts-a-ballot-for-reagan.md",
-      "title": "Maryland Republican Gov. Hogan, a longtime Trump critic, casts a ballot for Reagan",
-      "excerpt": "Maryland Gov. Larry Hogan, a Republican and outspoken critic of President Donald Trump, wrote in Ronald Reagan for president when he cast his 2020 ballot.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pSfMrKIuFVM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pSfMrKIuFVM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190423112439-01-larry-hogan-nh-0423-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/larry-hogan-ronald-reagan-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/larry-hogan-ronald-reagan-donald-trump/index.html",
-      "publishedDateTime": "2020-10-16T07:55:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-says-susan-collins-not-worth-the-work-after-opponent-raises-394-million.md",
-      "title": "Trump Says Susan Collins ‘Not Worth The Work’ After Opponent Raises $39.4 Million",
-      "excerpt": "President Donald Trump dismissed Sen. Susan Collins (R-Maine) as “not worth the work” Friday as the senator is expected to vote against Judge Amy Coney Barrett’s confirmation to the U.S. Supreme Court,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/",
-      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89ae1e69ee9a3e704d0471%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D197%26cropY2%3D1884",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/amp/",
-      "publishedDateTime": "2020-10-16T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-rudy-giulianis-daughter-says-to-vote-for-biden-and-harris-to-end-trumps-reign-of-terror.md",
-      "title": "Rudy Giuliani's daughter says to vote for Biden and Harris to end Trump's 'reign of terror'",
-      "excerpt": "Caroline Giuliani, the daughter of President Donald Trump's personal attorney and former New York City mayor Rudy Giuliani, is urging Americans to \"end this nightmare\" by voting for Democratic nominee Joe Biden and his running mate Kamala Harris.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_UlRkADBOA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_UlRkADBOA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1785,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201016074545-01-caroline-giuliani-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html",
-      "publishedDateTime": "2020-10-16T06:40:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-and-biden-and-americas-two-polarized-political-realities-live-on-prime-time.md",
-      "title": "Trump and Biden and America's two, polarized political realities live on prime time",
-      "excerpt": "More than 800 Americans died from Covid-19 Thursday, yet President Donald Trump still played the victim.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MyD4mCRMXps/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MyD4mCRMXps/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 524,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015230410-biden-trump-town-halls-2-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html",
-      "publishedDateTime": "2020-10-16T04:40:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

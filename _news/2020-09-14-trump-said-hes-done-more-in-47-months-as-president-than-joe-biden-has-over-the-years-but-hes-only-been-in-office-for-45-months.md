@@ -80,6 +80,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Where Biden and Trump stand in the polls 6 days out from the election"
+    excerpt: "One of the notable trends emerging in the homestretch is Biden pulling away in Wisconsin, a key state Trump picked up in 2016."
+    publishedDateTime: 2020-10-28T15:42:00Z
+    webUrl: "https://www.businessinsider.com/2020-election-polls-biden-trump-swing-states-wisconsin-trend-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/2020-election-polls-biden-trump-swing-states-wisconsin-trend-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/2020-election-polls-biden-trump-swing-states-wisconsin-trend-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 155
+    images:
+      - url: "https://i.insider.com/5f972efff21803001222c0cd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Today’s Election 2020 Polls: Trump Strong On Economy, Biden Wins Everything Else"
     excerpt: "Biden is ahead of Trump by 10% nationally (52%-42%), according to a NPR/PBS NewsHour/Marist College poll conducted between September 11 and 16. Biden is also leading Trump in a handful of battleground states: the former vice president leads by 17% in Maine,"
     publishedDateTime: 2020-09-18T19:21:00Z

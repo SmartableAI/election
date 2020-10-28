@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/fbi-interview-request-hunter-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-interview-request-hunter-biden-ex-associate-tony-bobulinski-senate-committee.amp"
 type: article
 quality: 170
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b886986e-6a50-4d72-8925-ddcbb05b95ac/599caf0b-699f-4990-b357-251ea96b44b4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Bobulinski: How \"Big Guy\" Joe Biden Would Personally Benefit From A Stake In A Chinese Business Deal"
+    excerpt: "Former Hunter Biden business partner Tony Bobulinski told Tucker Carlson he is \"1000%\" certain that \"Big Guy\" stands for Joe Biden in leaked documents. TONY BOBULINSKI, FMR. HUNTER BIDEN BUSINESS PARTNER: I want to simplify this for the American people as much as I can."
+    publishedDateTime: 2020-10-28T14:20:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/27/tony_bobulinski_how_joe_biden_would_personally_benefit_from_a_stake_in_a_chinese_business_deal.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 50
+    images:
+      - url: "https://assets.realclear.com/images/52/525422.jpg"
+        width: 996
+        height: 746
         isCached: true
 
 secured: "EAb5DizhdWBpOrOv6AaDeoP/LpsfvX0MWhqUQ5NYNcskHCbu/9Dn6vB9OtoptvK4M590+N2f8Ea9R3Trhu5LGiLlxUdKn9rwomL4jP9Jozeh0SuHgYkrtPw8ijW4a1UTNEiZgvJALfDCr+jN9RAmTA+2SvWB1pUhSppGzl7ZPc8WZ2n4WCUmv75iU/arxAp6P9jZshNvW3HGS0Yq87BqGo+JmAV4ti+5z19AtbFQlHExXKlpIcZOlkGyAKM5IvXsTiDXojdI0xVTXEzBoYJJM4Ppe7UAwAsXmcggeXfb0wOfdM2veQLcnXwNsIh0kGufbcS/Q/oF3Uv3tlogBuFy9FIXtgjwwPtswdF4jShHrHw=;Vx+L1MpnBL5oM4HdcQFk2Q=="

@@ -575,6 +575,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House testing czar disputes Trump on key reasons behind Covid case surge"
+    excerpt: "Admiral Brett Giroir, the White House's coronavirus testing czar, said Wednesday that coronavirus cases are surging because the virus is spreading and that the US can control the pandemic, disputing President Donald Trump that cases are surging because of increased testing.\n    \n"
+    publishedDateTime: 2020-10-28T15:50:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NDGxXJ1PZ-U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/brett-giroir-trump-coronavirus-testing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/brett-giroir-trump-coronavirus-testing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200731101534-03-coronavirus-hearing-0731-brett-giroir-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: With 9 days to go, Biden's lead over Trump is holding, while Clinton's was collapsing at this point "
     excerpt: "The clock is running out on President Donald Trump's chances for a comeback. He continues to trail former Vice President Joe Biden nationally and in the key swing states with just nine days to go.\n    \n"
     publishedDateTime: 2020-10-25T17:55:38Z

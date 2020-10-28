@@ -3888,9 +3888,9 @@ related:
         height: 700
         isCached: true
   - title: "It's not easy being the first but for Kamala Harris it has become a habit"
-    excerpt: "Facebook Twitter Pinterest This January 1970 photo provided by the Kamala Harris campaign shows her, left, with her sister, Maya, and mother, Shyamala, outside their apartment in Berkeley ..."
-    publishedDateTime: 2020-10-14T08:52:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender"
+    excerpt: "This January 1970 photo provided by the Kamala Harris campaign shows her, left, with her sister, Maya, and mother, Shyamala, outside their apartment in Berkeley, California, after her parents ..."
+    publishedDateTime: 2020-10-14T06:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender?ref=hvper.com"
     type: article
     provider:
       name: The Guardian

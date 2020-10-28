@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-17-from-qanon-to-dictators-trump-embraces-those-who-embrace-him-back.md",
+      "title": "From QAnon to dictators, Trump embraces those who embrace him back",
+      "excerpt": "Throughout his presidency, Trump has struggled to condemn white supremacists and other extremists who show support for him, no matter their views or actions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWRT55AP5AI6XADUB2KDVEN7BA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-16T17:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo.md",
+      "title": "Barbra Streisand shades Donald Trump at event for Gov. Andrew Cuomo",
+      "excerpt": "Barbra Streisand got back to her New York roots while introducing Gov. Andrew Cuomo at a virtual event for his new book, “American Crisis: Leadership Lessons from the COVID-19 Pandemic,” on Thursday night.",
+      "sourceUrl": null,
+      "webUrl": "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/",
+      "originalUrl": "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pagesix.com/wp-content/uploads/sites/3/2020/10/barbra-streisand-donald-trump-andrew-cuomo.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/amp/",
+      "cdnAmpWebUrl": "https://pagesix-com.cdn.ampproject.org/c/s/pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/amp/",
+      "publishedDateTime": "2020-10-16T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Page Six",
+        "domain": "pagesix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-donald-trump-to-campaign-wednesday-in-gastonia.md",
       "title": "Donald Trump to campaign Wednesday in Gastonia",
       "excerpt": "The president will be at the Gastonia Municipal Airport Wednesday to campaign for his 2020 reelection campaign.",
@@ -1417,110 +1512,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-betting-on-the-base-can-trump-win-again.md",
-      "title": "Betting on the 'base' — can Trump win again?",
-      "excerpt": "President Trump has said he intends to win the 2020 election the same way he won the 2016 election. Not with a popular vote strategy. With an electoral vote strategy. He expects his vaunted “base” — concentrated in a few crucial states — to deliver an electoral vote majority for him just as it did four years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
-      "originalUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trump_supporter_rally_101020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp",
-      "publishedDateTime": "2020-10-13T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac.md",
-      "title": "‘Not Our Faith’: Bipartisan Christian Group Take On Trump In New Super PAC",
-      "excerpt": "The new super PAC plans to roll out six-figure ads to erode Christian support for President Donald Trump in the last few weeks before the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/",
-      "originalUrl": "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f85c2a88dba2d2dc167bd3b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3705%26cropY1%3D126%26cropY2%3D2596",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/",
-      "publishedDateTime": "2020-10-13T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

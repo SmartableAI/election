@@ -53,17 +53,17 @@ related:
         isCached: true
   - title: "Bloomberg is funding late $15 million push to help Biden in Texas, Ohio"
     excerpt: "Billionaire Michael Bloomberg is planning to spend around $15 million on television advertising in Texas and Ohio during the final week of the presidential campaign to help Democratic candidate Joe Biden defeat President Donald Trump,"
-    publishedDateTime: 2020-10-27T19:45:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-bloomberg/update-1-bloomberg-is-funding-late-15-million-push-to-help-biden-in-texas-ohio-idUSL1N2HI12O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C1OX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1OX"
+    publishedDateTime: 2020-10-27T18:19:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-bloomberg-idUKKBN27C1OK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27C1OK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27C1OK"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538993510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q140"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538981324&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q13T"
         width: 816
         height: 545
         isCached: true

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-28-hunter-biden-engaged-in-raw-influence-peddling-on-grand-global-scale-turley.md",
+      "title": "Hunter Biden engaged in ‘raw influence-peddling’ on grand, global scale: Turley",
+      "excerpt": "Joe Biden and his family engaged in \"legal corruption\" despite claims of no wrongdoing, Fox News contributor Jonathan Turley argued Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59uqOKu4B-c/hunter-biden-joe-scandal-election-corruption-jonathan-turley",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59uqOKu4B-c/hunter-biden-joe-scandal-election-corruption-jonathan-turley",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-joe-scandal-election-corruption-jonathan-turley.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-joe-scandal-election-corruption-jonathan-turley.amp",
+      "publishedDateTime": "2020-10-28T07:12:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-rehire-trump-as-national-ceo-to-continue-us-economic-renaissance-steve-cortes.md",
       "title": "Rehire Trump as national CEO to continue US economic renaissance: Steve Cortes",
       "excerpt": "President Trump will continue the thriving economy if re-elected, but Joe Biden threatens a reversal, Trump 2020 campaign senior adviser Steve Cortes told \"Fox & Friends.\"",
@@ -70,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1545,
+      "heat": 1605,
       "tags": null,
       "images": [
         {
@@ -503,62 +559,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-alarming-for-biden-to-consider-wacky-proposals-to-change-supreme-court-jonathan-turley.md",
-      "title": "‘Alarming’ for Biden to consider ‘wacky’ proposals to change Supreme Court: Jonathan Turley",
-      "excerpt": "Democratic presidential nominee Joe Biden calling the Supreme Court “out of whack” is \"alarming,” Fox News contributor Jonathan Turley said Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YOpITkJDE-Y/biden-supreme-court-packing-wacky-proposals-turley",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YOpITkJDE-Y/biden-supreme-court-packing-wacky-proposals-turley",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-supreme-court-packing-wacky-proposals-turley.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-packing-wacky-proposals-turley.amp",
-      "publishedDateTime": "2020-10-26T13:18:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },

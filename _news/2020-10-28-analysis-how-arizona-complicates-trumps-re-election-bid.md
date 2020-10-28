@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/arizona-road-to-270-anal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/arizona-road-to-270-analysis/index.html"
 type: article
 quality: 190
-heat: 1090
+heat: 1110
 published: true
 
 provider:
@@ -284,6 +284,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021182050-20201021-us-election-china-russia-interference-illo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Hundreds stranded in the cold waiting for buses in chaotic post-Trump rally scene"
+    excerpt: "When President Donald Trump left Omaha on Tuesday, thousands watched and cheered in the frigid air as Air Force One took off into the night sky. But for these loyal supporters, their experience at the Trump rally was far from over.\n    \n"
+    publishedDateTime: 2020-10-28T15:01:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wu7gOlWr0ew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-omaha-rally-cold/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-omaha-rally-cold/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028080320-01-trump-west-salem-1027-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

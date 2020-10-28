@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hundreds of Trump rallygoers were stranded in the cold because there reportedly weren't enough buses to transport them back to their cars"
+    excerpt: "Medics transported at least seven people to the hospital and police officers gave rides to elderly rallygoers."
+    publishedDateTime: 2020-10-28T15:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5f9964b669331a0011bc5a67?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris blames Trump for COVID-19 'mass casualty event’ during Michigan visit"
     excerpt: "Democratic vice presidential nominee Kamala Harris said President Donald Trump’s handling of the coronavirus pandemic caused the “greatest mass casualty event s"
     publishedDateTime: 2020-10-26T04:15:00Z

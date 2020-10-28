@@ -303,6 +303,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hundreds stranded in the cold waiting for buses in chaotic post-Trump rally scene"
+    excerpt: "When President Donald Trump left Omaha on Tuesday, thousands watched and cheered in the frigid air as Air Force One took off into the night sky. But for these loyal supporters, their experience at the Trump rally was far from over.\n    \n"
+    publishedDateTime: 2020-10-28T15:01:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wu7gOlWr0ew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-omaha-rally-cold/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-omaha-rally-cold/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028080320-01-trump-west-salem-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's rallies make no political sense. Here's why he does them anyway."
     excerpt: "President Donald Trump's bout with coronavirus gave him the chance for a reset on the top 2020 election issue. Characteristically, he has spurned it.\n    \n"
     publishedDateTime: 2020-10-18T11:26:55Z

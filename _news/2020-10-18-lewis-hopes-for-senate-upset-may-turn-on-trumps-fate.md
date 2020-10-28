@@ -139,6 +139,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "If Trump loses the election — experts worry that’s when things could get really ‘weird’"
+    excerpt: "As a Joe Biden election win appears increasingly likely, many in Washington, D.C., are beginning to wonder what will happen between Nov. 3 and Jan. 20. Even if President Donald Trump calmly accepts an election loss,"
+    publishedDateTime: 2020-10-28T15:11:00Z
+    webUrl: "https://www.rawstory.com/2020/10/if-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/if-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/if-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 82
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/10/trump-frown-afp.jpg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "48BSGaOhunCch29xlb+Yy0vZpLsWwdmlrFVvcmL7CmcxNq45iLegrTFLvCngz3StTF/vnG1Q983dYnt4T0NsoNymicTDo2Xvlg/UwlFaguyZY+BQ4vgRqF0izexsx6ooouXFksRvA42BueuipL2qhftKlREDr1p8FeOHK4OEMVEPbH6jtuL21T2sUC+bmYxdkUq3IxJYTIVc3LqQkJECVG3AChiFl497/Zh0tGzMoe5NIQllsqjalOuCBd0VWA7K+KM2FWY7b977XudvrBzm4gHCfd62fibgAKOXMNRIj/stIpiDoJjBr9hpXo0KlqRGEI5zdySZdaTcVD32zVKPepzIuQE231A0/l+FYzhOoRI=;aCpeQUMASU0l1tUOuTWznw=="
 ---

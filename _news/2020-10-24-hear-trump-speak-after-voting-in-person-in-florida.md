@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-fl
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024165556-03-barack-obama-miami-1024-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's unhappy warrior pitch to voters includes insults and highly specific grievances"
+    excerpt: "President Donald Trump is ending his reelection bid in a frenzied cross-country push for votes in states he won -- some handily -- four years ago. But he is not pretending to be happy about it.\n    \n"
+    publishedDateTime: 2020-10-28T15:32:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A_PvDI_mF7M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/trump-election-2020-insults/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/trump-election-2020-insults/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028010254-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

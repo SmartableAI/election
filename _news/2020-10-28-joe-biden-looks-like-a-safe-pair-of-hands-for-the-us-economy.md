@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden looks like a safe pair of hands for the US economy"
 excerpt: "Contrary to popular belief, Democratic presidents have been better for the economy than Republicans"
 publishedDateTime: 2020-10-28T07:00:00Z
-originalUrl: "https://www.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy"
-webUrl: "https://www.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy"
+originalUrl: "https://www.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy?ref=hvper.com"
+webUrl: "https://www.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy?ref=hvper.com"
 ampWebUrl: "https://amp.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy"
 type: article
@@ -352,6 +352,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "pcakJq6mj45Bdbj1AHuoKafkX8AJuJyVyYb9sILjtvFv46fXeqSMxSW4p0oZg61HSUV8DuU6WwUbIEiFJc1Udhw194NxZCFeEtPCtUAvxA4DNOSqaxv93/rDpq0+McZfz9Fxkgk4y86MSmDcc2ouwaiv+8B+gSnp7g4kENd2vICCcN5PelNtjayJIVopa48mg9XYJ6og+RUAsm+u+hfxx+uJindU/aoq1UBgx7Lz0wNveXRSYmA/m9KRSxKtxeJPMLzSmWyqSMaq9RwrdIHZ24ZMmlwbZEL43RnY4usv4IX5K55z2OQ/VHSKhi5dw3SiI3aDySax13mCFDgQjmgFUblSFQ53afEprLIkZqgBKFlsoTI5a2xdLJka1AZM8OH+qRHavgRwxwxFMFK7XPYm7Xw4xFu8qcRJBqfMxFRj2VkSVF5mM/7KDs//qI9hvLkoCA8BZymPR4HoPU2JEPOQnT1c6sVCambWg9IUhKKrUCWBah/t1fWsyLhegDJJoDn84kU6ri3mJFeBOo6vDoSZBA==;vUyMI/tdMQ9SzFGdqDcJgA=="
+secured: "ox5AORG+f8Flpvsomhv9enswdSeJwmEdPhLg5W+Tj8Qw3o9U8m67tim8Wc08JOZatknuBrdiUOVMb9/xxudzxBTvokGbVM5Dqc4ChvQ5lqND7+bFI97X0y1sFTYb2IR7bils/c5dTi0Nnt6SLyvTaSXwucH+3uVAWxIaYIfMBGmVKg885Iyvdv3ynGr7YGs7XEgauGsDSJe22WdTjQlMdjQWE63TtUxy7EE0JviLjugX7mH5YelR1+oLqyDdpBZVnzL4ke1YN4N3rpuvww9tWsbC/DIbURVv6J/eY5YIxBj0vOo8+8vQMckQdteHZId2F0nifnZokC71ceNkk5BelB0DFuuBBGr+pXORKgMg1uY=;AnZRQ/PmB+bJL2YIEdf8hg=="
 ---
 

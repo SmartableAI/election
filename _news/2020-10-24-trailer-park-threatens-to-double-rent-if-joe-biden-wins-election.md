@@ -588,6 +588,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Suburban mom on why she's backing Trump: Biden can't even say the words 'law and order'"
+    excerpt: "A suburban woman Trump supporter appeared on \"Fox & Friends\" Wednesday to explain why she is supporting the president for the 2020 election. "
+    publishedDateTime: 2020-10-28T15:28:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pyq_i1_US6Q/suburban-mom-fox-friends-trump-biden-law-order"
+    ampWebUrl: "https://www.foxnews.com/politics/suburban-mom-fox-friends-trump-biden-law-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/suburban-mom-fox-friends-trump-biden-law-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Eric Trump accuses Biden of 'hiding from one of the biggest scandals in American history'"
     excerpt: "Joe Biden is keeping a low profile ahead of Thursday's presidential debate both because he doesn't have the \"stamina\" to actively campaign and is afraid of questions about potential corruption involving himself and his son Hunter, Eric Trump claimed on \"Hannity\" Wednesday. "
     publishedDateTime: 2020-10-22T03:39:52Z
@@ -715,6 +731,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ece5c9a-651c-46db-b47f-755e18f7e523/5133f7d3-7d2e-4430-b650-ea3546d339ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "President Trump pitches Nevada voters from Arizona after rally-related fines"
+    excerpt: "President Trump will make his final pitch to voters Wednesday in the swing state of Nevada from battleground Arizona after exorbitant coronavirus-related fees were doled out following a September rally that attracted thousands. "
+    publishedDateTime: 2020-10-28T15:43:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/beQm-Opg7X8/president-trump-skates-around-coronavirus-restrictions-pitching-to-nevada-voters-from-arizona"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-skates-around-coronavirus-restrictions-pitching-to-nevada-voters-from-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-skates-around-coronavirus-restrictions-pitching-to-nevada-voters-from-arizona.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20269007676054-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden says he’s ‘not overconfident’ but predicts victories in key battlegrounds"
     excerpt: "With eight days to go until Election Day on Nov. 3, Democratic presidential nominee Joe Biden is confident he’ll win a trio of crucial swing states that President Trump flipped from blue to red four years ago."
@@ -1079,6 +1111,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11598c90-e6f7-4df5-8671-3a8bf384c4e9/d5a8c37d-61c8-4a04-acfe-10c423f7a4ad/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Cyber Daily: Trump vs. Biden on Key Security, Privacy Issues | Fraud-Detection Startup NS8 Heads to Bankruptcy Court"
+    excerpt: "Although cybersecurity and privacy issues get relatively little attention on a presidential campaign trail dominated by the coronavirus pandemic, several such matters could play an outsize role in the next four years of economic and foreign policy from the White House."
+    publishedDateTime: 2020-10-28T15:49:00Z
+    webUrl: "https://www.wsj.com/articles/cyber-daily-trump-vs-biden-on-key-security-privacy-issues-fraud-detection-startup-ns8-heads-to-bankruptcy-court-11603897374"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 107
+    images:
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Will Anti-Biden Attacks Boomerang Against Trump?"
     excerpt: "RealClearPolitics"

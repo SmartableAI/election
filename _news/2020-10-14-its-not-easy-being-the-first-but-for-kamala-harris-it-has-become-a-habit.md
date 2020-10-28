@@ -1,10 +1,10 @@
 ---
 category: news
 title: "It's not easy being the first but for Kamala Harris it has become a habit"
-excerpt: "Facebook Twitter Pinterest This January 1970 photo provided by the Kamala Harris campaign shows her, left, with her sister, Maya, and mother, Shyamala, outside their apartment in Berkeley ..."
-publishedDateTime: 2020-10-14T08:52:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender"
-webUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender"
+excerpt: "This January 1970 photo provided by the Kamala Harris campaign shows her, left, with her sister, Maya, and mother, Shyamala, outside their apartment in Berkeley, California, after her parents ..."
+publishedDateTime: 2020-10-14T06:54:00Z
+originalUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender?ref=hvper.com"
+webUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender?ref=hvper.com"
 type: article
 quality: 104
 heat: -1
@@ -8025,6 +8025,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "6aTZs+ogoklo3a1yY5e6gKBxclyf5TOzFwFJWisnaKDh6m0AF/r5CppR19EbM6h8kjx7Z8WXyNLmj+4FMkv2fuWNfx7NWKDvYZ+vuGeWewxhyXGdZY04s70DLaCQ1+Cl9z+Qu/Z6XqRqPU/wsuyCYQGMqXcv8Q+rJk6CvuO/VmT5dpgkpm2Zk42kvndL80Pok6gRVihSWEvk2PQdchSHTjTWD8sJLd3VOiNuWCHcZLVNRn/ufC1Fd2WTw3pGijPQJO7ysceSVBBP1ErCx3gIBAG6avBX5ScZIySSkxde6/eMr/Wudso/mnb6bpJinQwMlnxbWvA962X0rpF1s/6WlbMOnZ78e8xm0XMwvnsls3o=;FYKVXFyFW5csFT2tH8wQqw=="
+secured: "1LN+XfBJdAhC48K/bf+IqI0sx+62gWxvBGbtfxh4TSvINWYJqcz9FdMJXZtd4obr9PnregLEJ1s2Hd8FZt9DhsjfN+i3kLIJ14BMYYZ6siaO02v1oPWjJBXWXIjBrGcJuEr2wU6h7cCAcNlT6M2QndapGxYcMH1bkjrer0iPsDHd3zvXgyaYdvWrcrh6goRRtdnhpel4bmtJOkZ0oglD4+gMyJ3dwp1hh29baAN1vygomSuHdbvhOp6Vb2kl9YhKTfg68+3CA+cI9shLZr3l5DXhTGNlzxL/m2Cdi1Yt/zDzihsAKZvtnwGnUy0pgGsewr7k0mc0QwmwrNhls9ky9VZLPyLy0cAu1tYfIYu/MXU=;SapiGApOJt9lDM/kArjlUw=="
 ---
 

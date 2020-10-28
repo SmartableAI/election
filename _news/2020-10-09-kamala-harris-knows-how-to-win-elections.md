@@ -1510,6 +1510,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Why Kamala Harris has been so quiet as Biden’s No. 2"
+    excerpt: "A couple years after being elected attorney general of California a decade ago, Kamala Harris was sitting in San Francisco with a handful of aides when one speculated about her becoming president ..."
+    publishedDateTime: 2020-10-08T00:57:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/kamala-harris-biden-veep-debate-426898"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/8c/84/7bb82b9147a996dcb36ad0b1e664/webp.net-resizeimage%20(12).jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "G.O.P. Alarmed by Trump’s Comments on Extremist Group, Fearing a Drag on the Party"
     excerpt: "For the second time in two weeks, Republicans distanced themselves from the president, expressing unease about his failure to disavow a right-wing organization linked with white supremacy and acts of violence."
     publishedDateTime: 2020-10-01T08:22:00Z

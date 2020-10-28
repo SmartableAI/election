@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2583
+heat: 2603
 published: true
 
 provider:
@@ -1496,6 +1496,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/06/us/00ihw-harris2/00ihw-harris2-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Why Kamala Harris has been so quiet as Biden’s No. 2"
+    excerpt: "A couple years after being elected attorney general of California a decade ago, Kamala Harris was sitting in San Francisco with a handful of aides when one speculated about her becoming president ..."
+    publishedDateTime: 2020-10-08T00:57:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/kamala-harris-biden-veep-debate-426898"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/8c/84/7bb82b9147a996dcb36ad0b1e664/webp.net-resizeimage%20(12).jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Kamala Harris Knows How to Win Elections"
     excerpt: "The campaign has largely shrunk down from grand ideological issues to two practical problems: How to get rid of Donald Trump. How to beat Covid-19. The shrinkage happened in three stages. First, Democratic primary voters decided that beating Trump was more important than the revolution."
