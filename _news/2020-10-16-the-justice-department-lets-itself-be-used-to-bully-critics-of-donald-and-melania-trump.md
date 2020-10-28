@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Melania Trump Reveals Son Barron Also Tested Positive For Coronavirus"
-    excerpt: "Melania Trump penned an essay to share her personal experience with coronavirus and revealed that her son Barron also tested positive for COVID-19. But Melania, Barron and President Donald Trump have already recovered and have since tested negative."
-    publishedDateTime: 2020-10-15T01:57:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
+  - title: "Melania Trump said she 'chose to go a more natural route,' relying on 'vitamins and healthy food' to treat her COVID-19"
+    excerpt: "The First Lady didn't specify the supplements she used in her \"natural route\" to treat the coronavirus. Here's what we know about vitamins and COVID."
+    publishedDateTime: 2020-10-15T06:13:00Z
+    webUrl: "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
-        width: 1024
-        height: 682
+      - url: "https://i.insider.com/5f7bc7b2282c500018c78bd1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "New Trump Golf Course In Scotland Gets Go-head Despite Environmental Fears"
     excerpt: "President Donald Trump's company has been given permission by Scottish authorities to build a second golf course in northeast Scotland despite local objections. Plans for a new 18-hole golf course have been approved by Aberdeenshire council."

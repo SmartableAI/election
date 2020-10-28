@@ -2,6 +2,166 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-24-fact-check-post-claiming-joe-biden-wants-to-put-farms-in-land-banks-is-missing-context.md",
+      "title": "Fact check: Post claiming Joe Biden wants to put farms in 'land banks' is missing context",
+      "excerpt": "At a September town hall, Biden said he wants to put farms into \"land banks.\" Some have taken this to mean he wants a government takeover of farmland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-claim-lacks-important-details-biden-and-land-banks/6011931002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-claim-lacks-important-details-biden-and-land-banks/6011931002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/18/PWIL/ad743977-7d3a-417e-994d-eeee1172d267-AP20262045476717.jpg?auto=webp&crop=5580,3139,x0,y283&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6011931002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6011931002",
+      "publishedDateTime": "2020-10-23T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-democratic-rep-xochitl-torres-small-slams-biden-over-oil-remarks-at-debate-says-policy-is-out-of-touch.md",
+      "title": "Democratic Rep. Xochitl Torres Small slams Biden over oil remarks at debate, says policy is 'out of touch'",
+      "excerpt": "Biden said he would pursue policies that would “transition from the oil industry” if elected to office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a95G0z8pc0Y/democratic-rep-xochitl-torres-small-biden-oil-remarks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a95G0z8pc0Y/democratic-rep-xochitl-torres-small-biden-oil-remarks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62eb375b-2614-452e-a194-9b9665c58ee5/4bd50378-6878-40f5-aec4-aefdb644aaf6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democratic-rep-xochitl-torres-small-biden-oil-remarks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-rep-xochitl-torres-small-biden-oil-remarks.amp",
+      "publishedDateTime": "2020-10-23T14:45:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-trump-announces-that-sudan-will-israel-normalize-relations.md",
+      "title": "Trump Announces That Sudan Will Israel Normalize Relations",
+      "excerpt": "President Donald Trump announced Friday that Sudan had agreed to establish diplomatic ties with Israel, making it the third Arab state to do so under the Trump Administration-brokered peace deals, known as the “Abraham Accords.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/",
+      "originalUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934ca4eb1b5edb9d90d708%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4618%26cropY1%3D97%26cropY2%3D2694",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/",
+      "publishedDateTime": "2020-10-23T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-no-need-for-security-checks-or-covid-tests-borat-star-meets-donald-trump-jr-and-visits-white-house-in-deleted-scenes.md",
       "title": "'No need for security checks or COVID tests': Borat star meets Donald Trump Jr. and visits White House in deleted scenes",
       "excerpt": "President Donald Trump also makes an appearance in a deleted scene from the new movie posted to Borat's Twitter account.",
@@ -10,7 +170,7 @@
       "originalUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -236,62 +396,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-23-trump-makes-return-to-much-changed-mar-a-lago.md",
-      "title": "Trump makes return to much-changed Mar-a-Lago",
-      "excerpt": "In Mar-a-Lago's disco-lit main ballroom, he watched as a large crowd serenaded his son's girlfriend while sparklers flared. On the stone dining patio, he hosted the Brazilian President for talks as diners sat at tables nearby, crammed together like normal. Eager to appear like everything was fine, he",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JdXyqyBUghg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JdXyqyBUghg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200527133726-trump-bolsonaro-0307-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html",
-      "publishedDateTime": "2020-10-23T12:14:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-24-gregg-jarrett-hunter-biden-laptop-scandal-even-if-joe-biden-wins-theres-no-way-out-now.md",
       "title": "Gregg Jarrett: Hunter Biden laptop scandal — Even if Joe Biden wins, there's no way out now",
       "excerpt": "In the Hunter Biden laptop scandal, the unresolved and trenchant questions are: how much did Joe Biden know and to what extent was he involved",
@@ -403,6 +507,62 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-announces-that-israel-and-sudan-have-agreed-to-normalize-relations.md",
+      "title": "Trump announces that Israel and Sudan have agreed to normalize relations",
+      "excerpt": "President Donald Trump announced Friday that Sudan and Israel have agreed to normalize relations -- a foreign policy achievement for the incumbent president less than two weeks before the US presidential election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mpQdPNhUfAk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mpQdPNhUfAk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201023110745-sudan-israel-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/trump-sudan-israel/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-sudan-israel/index.html",
+      "publishedDateTime": "2020-10-23T09:29:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -615,62 +775,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-analysis-trumps-least-racist-claim-falls-flat-for-many-yet-his-campaign-still-holds-appeal-for-some-black-men.md",
-      "title": "Analysis: Trump's 'least racist' claim falls flat for many. Yet his campaign still holds appeal for some Black men.",
-      "excerpt": "It's one of those seemingly hard-to-explain things: President Donald Trump holds an allure for some Black men, despite his history of denigrating Black Americans and his refusal to explicitly acknowledge systemic racism.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgEVN-aRUNM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgEVN-aRUNM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200715164410-01-trump-atlanta-0715-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/trump-least-racist-black-men/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-least-racist-black-men/index.html",
-      "publishedDateTime": "2020-10-23T06:34:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1004,7 +1108,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1205,119 +1309,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-fact-check-where-does-kamala-harris-stand-on-health-care.md",
-      "title": "Fact check: Where does Kamala Harris stand on health care?",
-      "excerpt": "Trump claimed that Biden's running mate, Sen. Kamala Harris, D-Calif., supports \"socialized medicine.\" \"He wants sociali",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244434",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244434",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244210",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210",
-      "publishedDateTime": "2020-10-22T19:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-man-arrested-in-north-carolina-with-van-full-of-guns-explosives-planned-to-assassinate-joe-biden-report.md",
-      "title": "Man arrested in North Carolina with van full of guns, explosives, planned to assassinate Joe Biden: Report",
-      "excerpt": "A man arrested in North Carolina and being held in jail on child pornography charges allegedly also was plotting to carry out an act of terrorism, including an assassination attempt on Democratic presidential nominee Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XDnUDPSoWDM/man-arrested-in-north-carolina-had-van-full-of-guns-explosives-planned-to-assassinate-joe-biden-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XDnUDPSoWDM/man-arrested-in-north-carolina-had-van-full-of-guns-explosives-planned-to-assassinate-joe-biden-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7768bb1-92b6-48a2-8ba8-15ad21be22b9/5d2f94f1-7874-4da1-962e-eb44be36e742/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/man-arrested-in-north-carolina-had-van-full-of-guns-explosives-planned-to-assassinate-joe-biden-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/man-arrested-in-north-carolina-had-van-full-of-guns-explosives-planned-to-assassinate-joe-biden-report.amp",
-      "publishedDateTime": "2020-10-22T17:11:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

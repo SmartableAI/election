@@ -93,6 +93,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Flight attendant union endorses Biden"
+    excerpt: "A top flight attendant union endorsed Democratic nominee Joe Biden for president on Tuesday while the air travel industry pleads for relief from Congress and the administration."
+    publishedDateTime: 2020-10-27T21:46:00Z
+    webUrl: "https://thehill.com/homenews/campaign/523031-flight-attendant-union-endorses-biden"
+    ampWebUrl: "https://thehill.com/homenews/campaign/523031-flight-attendant-union-endorses-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523031-flight-attendant-union-endorses-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/nelsonsarah_flight_attendants_012419gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "'Black lives matter': Navy SEAL who oversaw bin Laden raid says he voted for Joe Biden"
     excerpt: "The retired Navy SEAL did not specifically name President Trump, but ended the op-ed by saying \"I voted for Joe Biden.\""
     publishedDateTime: 2020-10-21T05:12:00Z

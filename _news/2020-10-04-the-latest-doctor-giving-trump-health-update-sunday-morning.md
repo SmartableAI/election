@@ -9,8 +9,8 @@ ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: U.S. News & World Report
@@ -25,85 +25,21 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Election updates: Trump deemed 'safe' to return to public engagements, won't say if he's tested negative"
-    excerpt: "Trump's aides are working to satisfy his desire to get back out on the campaign trail as early as Monday in Pittsburgh."
-    publishedDateTime: 2020-10-11T00:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5882077002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002"
+  - title: "“Steroid-Induced Psychosis”: Donald Trump Follows Up Sunday Night Joyride With Extra-Crazy Monday (Even for Him)"
+    excerpt: "Capping off an insane weekend in which the White House got caught in its cover-up re: when Donald Trump tested positive for COVID-19, if he was ever put on supplemental oxygen, and how serious his case is,"
+    publishedDateTime: 2020-10-05T16:48:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-mania"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-mania/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-covid-19-mania/amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 54
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "2020 election live updates: Trump tells crowd at White House he's 'feeling great'; Christie out of hospital"
-    excerpt: "\"I'm feeling great, I don't know about you,\" Trump said in a nearly 20-minute speech while standing on the Blue Room balcony overlooking the South Lawn. The event was billed as a \"peaceful protest for law and order."
-    publishedDateTime: 2020-10-10T19:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/10/election-updates-trump-holds-campaign-event-white-house/5952593002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5952593002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5952593002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/e374f7a0-88b8-4ed8-a1dd-3a3703cb39d2-TRUMP_POSITIVE_CORONAVIRUS_14.JPG?auto=webp&crop=4270,2402,x1,y107&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump says he's not tested for COVID-19 every day but claims he is 'tested a lot'"
-    excerpt: "\"I was really tested a lot after I got rid of it because they wanted to make sure,\" Trump said on Fox Business. \"I said, 'How many tests do I have to take?'\""
-    publishedDateTime: 2020-10-16T01:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
-        width: 911
-        height: 455
-        isCached: true
-  - title: "Coronavirus updates: Trump can return to 'public engagements' on Saturday, doctor says"
-    excerpt: "A pandemic of the novel coronavirus has now killed more than 1 million people worldwide. Over 36.4 million people across the globe have been diagnosed with COVID-19, the disease caused by the new respiratory virus,"
-    publishedDateTime: 2020-10-10T07:35:00Z
-    webUrl: "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73493745"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/US/donald-trump-taxes-01-ap-llr-201007_1602087324181_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Trump claims he no longer has COVID-19 as White House dodges questions on whether he has tested negative"
-    excerpt: "Trump did not say in the interview whether he has tested negative for COVID-19. A memo by his physician, Dr. Sean Conley, didn’t address that either."
-    publishedDateTime: 2020-10-12T00:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/11/trump-says-he-no-longer-has-covid-doesnt-say-if-he-tested-negative/5960497002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5960497002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960497002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://media.vanityfair.com/photos/5e00d2996056aa0008852c53/master/pass/TrumpWind.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "TE5c6tFbpFj/Av6YAefVCWKMjYoP9yvMFeoCehvE6SJKSqXZjTgJXmt5obQ1wlk3FCKEvZ2MAOH5NKLJTBjgEXLexGbHUzzcvyLfRv6HJ6wJhBnBhiIvuNutmB48EtBzPEvh785Lv3zQaWTmsokfrkFZWQvSmg7ycmkG+JX0wQlyHb86xMFH/wDVkHAljf8V7C6K5QltkYY31GY5D49SACMN5UNlWFkMzUEJMFELS3o0LsUHseNg8yQhKTyKrn0Urc4k3GCJiYFAaxWwzg1UahDDjyB04vQZaIOANHO39V8odsT2gWQ5xAyL5yVTCsegDRrvF/DnkSzCLYR/NsfUJ/zKJqzIdxkDYn3D+5TPJipOSquuin/Nz1RREPnZln8MqpAjN30FE2CR32KiJ3EDW5/4IMMbfIZhYwGEE+bKh8VVl1tFKA9ab9LG/S8wyNDJFxWjkQgXF1veeatJvOIp9PmAS/CsP2povXCLJLJciN1NDbh/GNFTRzY+nLeDqBRtAjT8Fz2jor+/IlbeMMNrJA==;yxlxkVe0uCCuJeO7ATr7Hw=="

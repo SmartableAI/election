@@ -767,6 +767,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "As Trump, Biden hammer at swing states, advocates work to dismantle Electoral College"
+    excerpt: "Activists say adopting a national popular vote would force campaigns to broaden their outreach, while critics say it gives cities too much power."
+    publishedDateTime: 2020-10-28T10:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/28/election-results-and-electoral-college-pick-next-president/4718619002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4718619002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4718619002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/14/USAT/5c268ab8-b7c4-4163-8934-f393aa2a25f3-AP_Electoral_College_Alabama.JPG?auto=webp&crop=2399,1350,x0,y123&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 updates: Trump delivers shorter-than-usual speech in chilly Pennsylvania"
     excerpt: "With 14 days to go until Election Day, and President Donald Trump and former Vice President Joe Biden racing toward Nov. 3, voters are turning out in record numbers to cast their ballots early. Roughly 31 million Americans have already voted in the 2020 election,"
     publishedDateTime: 2020-10-22T23:03:00Z

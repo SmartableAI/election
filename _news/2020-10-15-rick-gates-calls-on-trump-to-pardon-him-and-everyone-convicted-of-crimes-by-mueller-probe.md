@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-
 cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mediaite
@@ -27,22 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Don Lemon Draws Fire From Ice Cube For ‘Punk Ass’ Trump-Related Criticism: ‘If You Have Any Balls. I Need To Be On Your Show’"
-    excerpt: "CNN anchor Don Lemon criticized Ice Cube for his involvement with President Donald Trump's presidential campaign, causing the rapper to lash out on Twitter and issue a challenge to meet on Lemon's show."
-    publishedDateTime: 2020-10-17T14:55:00Z
-    webUrl: "https://www.mediaite.com/news/don-lemon-draws-fire-from-ice-cube-for-punk-ass-trump-related-criticism-if-you-have-any-balls-i-need-to-be-on-your-show/"
-    ampWebUrl: "https://www.mediaite.com/news/don-lemon-draws-fire-from-ice-cube-for-punk-ass-trump-related-criticism-if-you-have-any-balls-i-need-to-be-on-your-show/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/don-lemon-draws-fire-from-ice-cube-for-punk-ass-trump-related-criticism-if-you-have-any-balls-i-need-to-be-on-your-show/amp/"
+  - title: "Trump says he'll 'kiss everyone' in crowd at rally"
+    excerpt: "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience."
+    publishedDateTime: 2020-10-13T01:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/13/trump-says-hell-kiss-everyone-crowd-rally/5975301002/"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 48
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Don-Lemon-Ice-Cube.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0e385ace-fd32-4196-b1c2-1265f34474f5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Donald Trump Doubles Down On COVID-19 Immunity: \"I'll Kiss Everyone\""
+    excerpt: "The President told those in the audience of his Florida rally that he'll give everyone a 'big fat kiss.' He's back to heating up the campaign trail to promote his bid to become America's leader once again."
+    publishedDateTime: 2020-10-13T01:14:00Z
+    webUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 75
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602551163_d7899330b7fbf5dd52d377294a843561.jpg/f38a03882fe2aefa58769e2eea500454/1602551163_cd8a0b17d84284a41870abd86bafcfef.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Latest: Trump Tells Fla. Supporters He Feels 'Powerful'"
+    excerpt: "President Donald Trump has returned to the campaign trail, holding his first rally since he contracted the coronavirus."
+    publishedDateTime: 2020-10-13T01:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "r7HlU/fBp+CQWHljc1rXV8FH+98PDch5KF6loNbeuv/yOQqBktc62qYRRBZnoGDyvFFWwgNl5ILosZxTOrgRk7aaVsOCptjyrl+pcoRuKJbT6tBDJJ7MkAakWKjBr/AT8WrP6Tf3czMCVeToKIbgChRPZ2zBlSJxXSd0U+sTDSZnrgifa3GsRDrV6ZceyolVAp5LCqqZX/UEZCm6EC0AXuXBoPOPhLKiDkxb4ZH1V8l8y9ozcittMCJZp3ygLdUJqZAHYra5elnPP3xxwltsARIpi1h+Hb9oA9I5+GEOq+uCv8lUI6yDhchXLNKs6D3PGKmr3KvONDnrPluy3Jxw+aC1CVHmpp+lpWwxQbUl08s=;faZOi1PHOcZVuQE8YW9Qlw=="
 ---

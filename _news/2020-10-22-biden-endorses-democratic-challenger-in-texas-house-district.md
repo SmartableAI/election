@@ -175,22 +175,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "A person who has flown with Biden in recent days tests positive for COVID-19"
-    excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
-    publishedDateTime: 2020-10-15T20:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 122
-    images:
-      - url: "https://s.abcnews.com/images/US/joe-biden-florida-flight-boarding-03-ap-jc-201015_1602794730255_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "George Floyd's sister says Biden is 'the change that we need' in new campaign ad"
     excerpt: "The Democratic presidential nominee released the ad on what would have been George Floyd's 47th birthday, in an appeal to Black voters."
     publishedDateTime: 2020-10-14T18:44:00Z
@@ -222,22 +206,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1651724/biden-campaign-florida.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Aviation staffer who has flown with Biden in recent days tests positive for COVID-19"
-    excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
-    publishedDateTime: 2020-10-15T23:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/aviation-staffer-flown-biden-recent-days-tests-positive/story?id=73639218"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/aviation-staffer-flown-biden-recent-days-tests-positive/story?id=73639218"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/aviation-staffer-flown-biden-recent-days-tests-positive/story?id=73639218"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/US/joe-biden-florida-flight-boarding-03-ap-jc-201015_1602794730255_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Georgetown University report finds Joe Biden's free public college plan would pay off within 10 years"
     excerpt: "To address such concerns, Democratic nominees former Vice President Joe Biden and Senator Kamala Harris have proposed a lengthy education plan that includes an eye-catching proposal: tuition-free public college for all families with incomes below $125,"

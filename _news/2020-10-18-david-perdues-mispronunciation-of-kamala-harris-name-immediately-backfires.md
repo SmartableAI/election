@@ -137,38 +137,6 @@ related:
         width: 1440
         height: 957
         isCached: true
-  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
-    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
-    publishedDateTime: 2020-10-13T12:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris tests negative for COVID-19 after 2 associated with campaign test positive"
-    excerpt: "Sen. Kamala Harris will not return to in-person campaigning until Monday after her communications director tested positive for COVID-19 Wednesday night."
-    publishedDateTime: 2020-10-15T19:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/Politics/kamala-harris-abc-er-201013_1602629962175_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Kamala Harris cancels events after flying with two people who tested positive for Covid – live"
     excerpt: "Harris’s communications director and a ‘non-staff flight crew member’ tested positive after she was in contact with them while wearing an N95 mask"
     publishedDateTime: 2020-10-15T18:52:00Z

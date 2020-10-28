@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-03-trumps-campaign-rocked-by-coronavirus-one-month-before-election.md",
+      "title": "Trump's campaign rocked by coronavirus one month before election",
+      "excerpt": "President Donald Trump's campaign has been thrown into chaos, adjusting its tactics, messaging and work environment following Trump and a number of top aides and political allies' positive tests for coronavirus.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nv4s0u3hqc8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nv4s0u3hqc8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 2050,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201003084500-07-trump-walter-reed-arrival-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/index.html",
+      "publishedDateTime": "2020-10-03T10:06:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-the-real-nightmare-scenario-a-sick-mike-pence.md",
       "title": "The Real Nightmare Scenario: A Sick Mike Pence",
       "excerpt": "The U.S. government knows how to handle an incapacitated commander in chief, but has no idea how to deal with a very sick vice president.",
@@ -412,7 +468,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1305,63 +1361,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-29-donald-trump-was-the-real-winner-of-the-apprentice.md",
-      "title": "Donald Trump Was the Real Winner of ‘The Apprentice’",
-      "excerpt": "The reality show temporarily revived his business fortunes by creating the illusion that he was already doing great.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/28/arts/28apprentice1/28apprentice1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.amp.html",
-      "publishedDateTime": "2020-09-28T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-pence-tells-americans-to-anticipate-that-cases-will-rise-with-more-coronavirus-testing.md",
       "title": "Pence tells Americans to 'anticipate that cases will rise' with more coronavirus testing",
       "excerpt": "Vice President Mike Pence said that \"the American people should anticipate that cases will rise\" as efforts for increased coronavirus testing are implemented and states in the Midwest are experiencing a surge.",
@@ -1589,25 +1588,25 @@
       ]
     },
     {
-      "path": "_news/2020-09-28-analysis-tax-bombshell-reveals-trumps-image-is-a-sham.md",
-      "title": "Analysis: Tax bombshell reveals Trump's image is a sham",
-      "excerpt": "It was the moment when Donald Trump's \"Art of the Deal\" fabulism, billionaire tycoon bluster and populist standard-bearing for forgotten Americans was revealed to be what it always looked like: a sham.\n    \n",
+      "path": "_news/2020-09-28-the-point-donald-trumps-tax-returns-reveal-why-he-really-ran-for-president.md",
+      "title": "The Point: Donald Trump's tax returns reveal why he *really* ran for president",
+      "excerpt": "Donald Trump needed a new act.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IxedFhXWNDQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IxedFhXWNDQ/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HqjVlGpKWqs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HqjVlGpKWqs/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 615,
+      "heat": 211,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200927181158-02-trump-press-briefing-0927-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/150701114048-donald-trump-escalator-super-tease.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1615,9 +1614,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html",
-      "publishedDateTime": "2020-09-27T22:23:56-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tax-returns-new-york-times/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tax-returns-new-york-times/index.html",
+      "publishedDateTime": "2020-09-28T07:11:45-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

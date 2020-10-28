@@ -27,6 +27,54 @@ images:
     isCached: true
 
 related:
+  - title: "2020 election live updates: White House says Trump has tested negative for COVID without saying when"
+    excerpt: "President Donald Trump has tested negative for COVID-19 on “consecutive days,” White House physician Sean Conley said in memo released Monday. The document, posted to Twitter by White House ..."
+    publishedDateTime: 2020-10-13T16:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "EXCLUSIVE: Former CIA director John Brennan says the biggest threat to the 2020 election is Trump himself"
+    excerpt: "Russia got everything it could have hoped for from Donald Trump's presidency, the former CIA chief said in an interview."
+    publishedDateTime: 2020-10-06T19:23:00Z
+    webUrl: "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f7cacb6282c500018c78e83?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Election updates: Trump deemed 'safe' to return to public engagements, won't say if he's tested negative"
+    excerpt: "Trump's aides are working to satisfy his desire to get back out on the campaign trail as early as Monday in Pittsburgh."
+    publishedDateTime: 2020-10-11T00:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5882077002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
     excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
     publishedDateTime: 2020-10-13T08:38:00Z
@@ -75,21 +123,53 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Says All His Friends Leaving 'Sad Place' New York City Due to COVID Lockdowns"
-    excerpt: "President Donald Trump railed against the coronavirus pandemic lockdown measures being enforced in his hometown of New York City, claiming the country's largest metropolis is now a \"ghost town.\" Trump defended his nonchalant attitude toward social-distancing measures prior to contracting COVID-19,"
-    publishedDateTime: 2020-10-11T13:36:00Z
-    webUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138"
-    ampWebUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
+  - title: "2020 election live updates: Trump tells crowd at White House he's 'feeling great'; Christie out of hospital"
+    excerpt: "\"I'm feeling great, I don't know about you,\" Trump said in a nearly 20-minute speech while standing on the Blue Room balcony overlooking the South Lawn. The event was billed as a \"peaceful protest for law and order."
+    publishedDateTime: 2020-10-10T19:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/10/election-updates-trump-holds-campaign-event-white-house/5952593002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5952593002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5952593002"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
     images:
-      - url: "https://d.newsweek.com/en/full/1649283/trump-new-york-city-lockdown.jpg"
-        width: 3000
-        height: 1933
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/e374f7a0-88b8-4ed8-a1dd-3a3703cb39d2-TRUMP_POSITIVE_CORONAVIRUS_14.JPG?auto=webp&crop=4270,2402,x1,y107&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A person who has flown with Biden in recent days tests positive for COVID-19"
+    excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
+    publishedDateTime: 2020-10-15T20:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/US/joe-biden-florida-flight-boarding-03-ap-jc-201015_1602794730255_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump says he's not tested for COVID-19 every day but claims he is 'tested a lot'"
+    excerpt: "\"I was really tested a lot after I got rid of it because they wanted to make sure,\" Trump said on Fox Business. \"I said, 'How many tests do I have to take?'\""
+    publishedDateTime: 2020-10-16T01:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
+        width: 911
+        height: 455
         isCached: true
   - title: "Trump's COVID prognosis: 3 scenarios based on sparse facts from an opaque White House"
     excerpt: "The president's health matters. But we can only speculate because his doctor has hidden behind confidentiality laws to withhold negative information."
@@ -107,6 +187,70 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Aviation staffer who has flown with Biden in recent days tests positive for COVID-19"
+    excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
+    publishedDateTime: 2020-10-15T23:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/aviation-staffer-flown-biden-recent-days-tests-positive/story?id=73639218"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/aviation-staffer-flown-biden-recent-days-tests-positive/story?id=73639218"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/aviation-staffer-flown-biden-recent-days-tests-positive/story?id=73639218"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/US/joe-biden-florida-flight-boarding-03-ap-jc-201015_1602794730255_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Coronavirus updates: Trump can return to 'public engagements' on Saturday, doctor says"
+    excerpt: "A pandemic of the novel coronavirus has now killed more than 1 million people worldwide. Over 36.4 million people across the globe have been diagnosed with COVID-19, the disease caused by the new respiratory virus,"
+    publishedDateTime: 2020-10-10T07:35:00Z
+    webUrl: "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73493745"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/US/donald-trump-taxes-01-ap-llr-201007_1602087324181_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
+    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
+    publishedDateTime: 2020-10-13T12:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris tests negative for COVID-19 after 2 associated with campaign test positive"
+    excerpt: "Sen. Kamala Harris will not return to in-person campaigning until Monday after her communications director tested positive for COVID-19 Wednesday night."
+    publishedDateTime: 2020-10-15T19:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-abc-er-201013_1602629962175_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Why do Republicans still work for Trump? Especially when the White House is a COVID hotspot?"
     excerpt: "When I left the Republican Party and lost my network, I fell into debt. I understand financial obligations. But now Trump is putting lives at risk."
     publishedDateTime: 2020-10-14T07:37:00Z
@@ -123,67 +267,53 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail"
-    excerpt: "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization."
-    publishedDateTime: 2020-10-10T21:24:00Z
-    webUrl: "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp"
+  - title: "Trump tells Fox News he had 'congestion' in his lungs, giving a small window into his COVID-19 infection"
+    excerpt: "\"Initially, I think they had some congestion in there, but ultimately it tested good, and with each day it got better,\" Trump said."
+    publishedDateTime: 2020-10-10T11:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-condition-had-congestion-in-lungs-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-condition-had-congestion-in-lungs-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-condition-had-congestion-in-lungs-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 108
     images:
-      - url: "https://i.insider.com/5f80a012ea74820019ca6469?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f8103c6642e9400180b5258?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "'Get the kids back to school': Donald Trump uses son's COVID-19 diagnosis to push for reopening classrooms"
-    excerpt: "Barron Trump’s positive COVID-19 test has become part of his father's push to physically reopen schools. The 14-year-old has since tested negative."
-    publishedDateTime: 2020-10-16T04:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/15/trump-uses-barrons-coronavirus-test-push-school-reopen/3667827001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3667827001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667827001"
+  - title: "Trump claims he no longer has COVID-19 as White House dodges questions on whether he has tested negative"
+    excerpt: "Trump did not say in the interview whether he has tested negative for COVID-19. A memo by his physician, Dr. Sean Conley, didn’t address that either."
+    publishedDateTime: 2020-10-12T00:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/11/trump-says-he-no-longer-has-covid-doesnt-say-if-he-tested-negative/5960497002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5960497002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960497002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 107
+    quality: 108
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump says he'll 'kiss everyone' in crowd at rally"
-    excerpt: "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience."
-    publishedDateTime: 2020-10-13T01:40:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/13/trump-says-hell-kiss-everyone-crowd-rally/5975301002/"
+  - title: "Iowa, the 4th-highest state for rate of COVID-19 infections, surpasses 100,000 cases as Trump plans rally there this week"
+    excerpt: "As Iowa surpassed 100,000 confirmed coronavirus cases, the mayor of Des Moines expressed concern that President Trump’s rally this week could become a super-spreader event."
+    publishedDateTime: 2020-10-13T12:03:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 100
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0e385ace-fd32-4196-b1c2-1265f34474f5_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Melania Trump said she 'chose to go a more natural route,' relying on 'vitamins and healthy food' to treat her COVID-19"
-    excerpt: "The First Lady didn't specify the supplements she used in her \"natural route\" to treat the coronavirus. Here's what we know about vitamins and COVID."
-    publishedDateTime: 2020-10-15T06:13:00Z
-    webUrl: "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5f7bc7b2282c500018c78bd1?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/xinGqbBIwRodW65Xg19hND5rako=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H3DGSVUANNB6BKO3FFXIS7V3UM"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
   - title: "Trump plans to hold an outdoor event at the White House over the weekend. He still hasn't released a negative COVID-19 test."
     excerpt: "ABC News and The New York Times said Trump was planning to address \"hundreds\" on the White House lawn from a balcony."
@@ -201,48 +331,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Fauci says Trump campaign 'in effect harassing' him after using a clip of him praising the US COVID-19 response out of context in a campaign ad"
-    excerpt: "Dr. Anthony Fauci told CNN over the weekend that his words were taken out of context from a press conference in March and without his consent."
-    publishedDateTime: 2020-10-13T14:41:00Z
-    webUrl: "https://www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10?amp"
+  - title: "Melania Trump Reveals Son Barron Also Tested Positive For Coronavirus"
+    excerpt: "Melania Trump penned an essay to share her personal experience with coronavirus and revealed that her son Barron also tested positive for COVID-19. But Melania, Barron and President Donald Trump have already recovered and have since tested negative."
+    publishedDateTime: 2020-10-15T01:57:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/5f850341c255d800190b97bf?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 75
-  - title: "Donald Trump Doubles Down On COVID-19 Immunity: \"I'll Kiss Everyone\""
-    excerpt: "The President told those in the audience of his Florida rally that he'll give everyone a 'big fat kiss.' He's back to heating up the campaign trail to promote his bid to become America's leader once again."
-    publishedDateTime: 2020-10-13T01:14:00Z
-    webUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 75
     images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602551163_d7899330b7fbf5dd52d377294a843561.jpg/f38a03882fe2aefa58769e2eea500454/1602551163_cd8a0b17d84284a41870abd86bafcfef.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Donald Trump’s COVID Results Had ‘Saturday Night Live’ Scrambling, Says Lorne Michaels"
     excerpt: "Live writers were revising the season’s first cold open right up to the last minute after President Donald Trump’s positive COVID test tossed all plans into the air. In"
@@ -260,63 +363,81 @@ related:
         width: 1024
         height: 542
         isCached: true
-  - title: "The Latest: Trump Tells Fla. Supporters He Feels 'Powerful'"
-    excerpt: "President Donald Trump has returned to the campaign trail, holding his first rally since he contracted the coronavirus."
-    publishedDateTime: 2020-10-13T01:33:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
+    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
+    publishedDateTime: 2020-10-13T17:55:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Tells Fans On Post-Covid Comeback Tour: 'I Feel So Powerful'"
-    excerpt: "US President Donald Trump is embarking on a tour of swing states Photo: AFP / MANDEL NGAN \"I feel so powerful. I'll walk in there, I'll kiss everyone in that audience. I'll kiss t"
-    publishedDateTime: 2020-10-13T02:06:00Z
-    webUrl: "https://www.ibtimes.com/trump-tells-fans-post-covid-comeback-tour-i-feel-so-powerful-3060877"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
-        width: 1024
-        height: 651
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
+        width: 800
+        height: 403
         isCached: true
-  - title: "Trump town hall: President Donald Trump tells Nancy Pelosi he’s ready to sign a ‘big, beautiful’ COVID stimulus"
-    excerpt: "President Donald Trump on Thursday pinned the months-long COVID-19 stimulus stalemate on House Speaker Nancy Pelosi, saying he’s ready to sign a “big, beautiful stimulus” immediately and shrugging off the fact that Republican senators have consistently thwarted several aid packages over cost concerns."
-    publishedDateTime: 2020-10-16T01:23:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/trump-town-hall-president-donald-trump-tells-nancy-pelosi-hes-ready-to-sign-a-big-beautiful-covid-stimulus.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/trump-town-hall-president-donald-trump-tells-nancy-pelosi-hes-ready-to-sign-a-big-beautiful-covid-stimulus.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/trump-town-hall-president-donald-trump-tells-nancy-pelosi-hes-ready-to-sign-a-big-beautiful-covid-stimulus.html?outputType=amp"
+  - title: "‘Where are the surrogates?’ Fox News corners White House aide on GOP lawmakers refusing to campaign for Trump"
+    excerpt: "White House Communications Director Alyssa Farah on Wednesday faced questions from Fox News about why Republican lawmakers have been absent from President Donald Trump’s re-election campaign. “If you look at the polls,"
+    publishedDateTime: 2020-10-14T16:00:00Z
+    webUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 55
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 56
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YF444BK6UZD5TD2DU2OGPYABOQ.jpg"
-        width: 6000
-        height: 4000
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Kilmeade-Farah-2-787x430.jpg"
+        width: 787
+        height: 430
         isCached: true
-  - title: "Donald Trump news – Son Barron, 14, only had covid ‘for like TWO SECONDS’, President claims as he demands schools reopen"
-    excerpt: "DONALD Trump has played down his son’s coronavirus infection insisted he recovered in “like two seconds”. Describing Barron Trump’s covid diagnosis, the President said:"
-    publishedDateTime: 2020-10-15T09:46:00Z
-    webUrl: "https://www.thesun.co.uk/news/12936099/donald-trump-news-son-barron-covid-biden-live/"
-    ampWebUrl: "https://www.thesun.co.uk/news/12936099/donald-trump-news-son-barron-covid-biden-live/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/12936099/donald-trump-news-son-barron-covid-biden-live/amp/"
+  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
+    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
+    publishedDateTime: 2020-10-13T10:03:00Z
+    webUrl: "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/5966027002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 50
+      name: Tennessean
+      domain: tennessean.com
+    quality: 53
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/10/COMP_RR_US-ELECTIONS-LIVE_TRUMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 674
         isCached: true
+  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
+    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
+    publishedDateTime: 2020-10-14T06:03:00Z
+    webUrl: "https://www.azcentral.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5966027002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5966027002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
+    excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
+    publishedDateTime: 2020-10-14T13:00:00Z
+    webUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.html"
+    ampWebUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 22
 
 secured: "PxWLWn9DZnjfEash3zxFA0dobuLo5hIpq4I4+SOXo/9ZhH03zGvEmtqa0HLOAqdAv+rL7JHeo/MuBBxa9fd1dgi69zuVdPlkCgQtd5Gd/xNslel2fNwvQCMuOBJOIns+N3O8IZSPSsJvoR/Yt0Y635FdYf24JYFncEXGJKJljB/gTkQOpKpzryAO1IKXvS6d2xTPkFpAYmKTsuU7ke0o/lKxDgi0jtTVh5579wxAWDdq66thH57Y76lE4Y0yoCSLbYffpuTumSm2ekJUb17NqBm9xfJ4eoxC6/J7kNCHOn7qw3gcUU0LSp0Uev4XdoYpiW+tzy2yRa2aowJ0lGYLPl/ebnFzC0AkHgYl9cHwxt0=;aSFUs1mLBXYOsjp+QbgZIw=="
 ---

@@ -2,6 +2,170 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-12-tupacs-relative-says-the-trump-campaign-was-clearly-disrespectful-to-leave-a-ticket-for-the-late-rapper-at-vice-presidential-debate.md",
+      "title": "Tupac's relative says the Trump campaign was 'clearly disrespectful' to leave a ticket for the late rapper at vice presidential debate",
+      "excerpt": "The dig came after vice presidential nominee Kamala Harris said Tupac Shakur is the \"best rapper alive\" during a recent interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f837a70642e9400180b5410?width=1200&format=jpeg",
+          "width": 720,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10?amp",
+      "publishedDateTime": "2020-10-11T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.md",
+      "title": "Trump calls C-SPAN's Scully 'a fraud,' mocks claims that Twitter account was hacked",
+      "excerpt": "President Trump on Sunday lambasted C-SPAN political editor Steve Scully over claims that his Twitter account was hacked.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_rQvDmxUgiQ/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_rQvDmxUgiQ/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4d52599-b966-4bf1-85d7-cb77a41ad33b/15422c29-d504-46cc-b568-fd89117f76a0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.amp",
+      "publishedDateTime": "2020-10-11T12:54:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-biden-sounding-very-much-like-trump-by-warning-of-chicanery-at-the-polls-reporter.md",
+      "title": "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter",
+      "excerpt": "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWob78RIhLY/biden-polls-chicanery-trump-election-politico",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWob78RIhLY/biden-polls-chicanery-trump-election-politico",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/ee41c591-thumb-trump-biden-1219a.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-11T11:56:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places.md",
       "title": "Biden: The 'only way' I'll lose is through 'chicanery' at polling places",
       "excerpt": "Democratic presidential nominee Joe Biden said only “chicanery” in the form of voter intimidation could prevent him from winning the presidential election, later adding that he would clarify the results of the election.",
@@ -242,6 +406,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-trump-says-all-his-friends-leaving-sad-place-new-york-city-due-to-covid-lockdowns.md",
+      "title": "Trump Says All His Friends Leaving 'Sad Place' New York City Due to COVID Lockdowns",
+      "excerpt": "President Donald Trump railed against the coronavirus pandemic lockdown measures being enforced in his hometown of New York City, claiming the country's largest metropolis is now a \"ghost town.\" Trump defended his nonchalant attitude toward social-distancing measures prior to contracting COVID-19,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138",
+      "originalUrl": "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1649283/trump-new-york-city-lockdown.jpg",
+          "width": 3000,
+          "height": 1933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1",
+      "publishedDateTime": "2020-10-11T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -622,58 +838,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-election-updates-trump-deemed-safe-to-return-to-public-engagements-wont-say-if-hes-tested-negative.md",
-      "title": "Election updates: Trump deemed 'safe' to return to public engagements, won't say if he's tested negative",
-      "excerpt": "Trump's aides are working to satisfy his desire to get back out on the campaign trail as early as Monday in Pittsburgh.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5882077002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002",
-      "publishedDateTime": "2020-10-10T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-pence-says-dogma-lives-loudly-in-him-condemns-dem-attacks-on-barretts-faith.md",
       "title": "Pence says 'dogma' lives loudly in him, condemns Dem attacks on Barrett's faith",
       "excerpt": "Vice President Mike Pence focused heavily on religious freedom during a Saturday rally in The Villages, the nation’s largest retirement community, located in one of the most traditionally conservative sectors of the country.",
@@ -840,21 +1004,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-joe-biden-tests-negative-for-coronavirus-sixth-time-since-debate.md",
-      "title": "Joe Biden tests negative for coronavirus sixth time since debate",
-      "excerpt": "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected.",
+      "path": "_news/2020-10-11-trump-tells-rush-limbaugh-he-might-not-have-recovered-from-covid-19-without-regeneron-antibody-cocktail.md",
+      "title": "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail",
+      "excerpt": "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/",
-      "originalUrl": "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/",
+      "webUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 108,
       "tags": null,
       "images": [
         {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg",
-          "width": 769,
-          "height": 433,
+          "url": "https://i.insider.com/5f80a012ea74820019ca6469?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -862,14 +1026,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-10T12:43:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp",
+      "publishedDateTime": "2020-10-10T14:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WSOC-TV",
-        "domain": "wsoctv.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -879,7 +1052,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Donald Trump"
       ]
     },
     {
@@ -1154,158 +1327,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-schiff-if-trump-wanted-more-infections-would-he-be-doing-anything-different.md",
-      "title": "Schiff: If Trump wanted more infections 'would he be doing anything different'?",
-      "excerpt": "Rep. Adam Schiff (D-Calif.) on Thursday tore into President Trump’s handling of the coronavirus, warning that a rally he plans to hold at the White House Saturday runs the risk of spreading the illness.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different",
-      "originalUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/schiffadam_092320gn2_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp",
-      "publishedDateTime": "2020-10-09T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet.md",
-      "title": "Trump Says Scans Found 'Congestion' In His Lungs, Doesn’t Know If He’s Virus-Free Yet",
-      "excerpt": "Trump's physician Dr. Sean Conley, who has given conflicting reports on Trump's health, previously said that scans resulted in \"expected findings.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/",
-      "originalUrl": "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f810fff2be6434eedee24f9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4808%26cropY1%3D211%26cropY2%3D2916",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/amp/",
-      "publishedDateTime": "2020-10-09T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-cenk-uygur-awesome-to-listen-donald-trump-and-rush-limbaugh-cry-about-fox-news.md",
-      "title": "Cenk Uygur: \"Awesome\" To Listen Donald Trump And Rush Limbaugh Cry About FOX News",
-      "excerpt": "\"The Young Turks\" host Cenk Uygur spoke Friday about the schadenfreude of listening to Donald Trump complain about FOX News during an interview with Rush Limbaugh. \"He complains about everything, he will not stop crying,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/10/09/cenk_uygur_awesome_to_listen_donald_trump_and_rush_limbaugh_cry_about_fox_news.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/09/cenk_uygur_awesome_to_listen_donald_trump_and_rush_limbaugh_cry_about_fox_news.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/51/513828.jpg",
-          "width": 1202,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

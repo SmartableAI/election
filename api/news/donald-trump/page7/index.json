@@ -2,6 +2,214 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-04-trump-said-to-be-improving-but-next-48-hours-critical.md",
+      "title": "Trump said to be improving but next 48 hours 'critical'",
+      "excerpt": "President Donald Trump says in a video from his hospital quarters that he is feeling better as he battles the novel coronavirus and hopes to “be back soon.”",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_d2b4023d2f934b70b528779f972f8185_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712",
+      "publishedDateTime": "2020-10-03T23:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-the-squad-responds-to-twitter-policy-banning-posts-wishing-for-trumps-death-excuse-me.md",
+      "title": "'The Squad' Responds to Twitter Policy Banning Posts Wishing for Trump's Death: 'Excuse Me?'",
+      "excerpt": "\"So... you mean to tell us you could've done this the whole time?\" Congresswoman Alexandria Ocasio-Cortez tweeted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234",
+      "originalUrl": "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1645787/squad.jpg",
+          "width": 3000,
+          "height": 2192,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234?amp=1",
+      "publishedDateTime": "2020-10-03T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-minnesota-congressmen-flew-delta-after-flying-with-trump.md",
+      "title": "Minnesota congressmen flew Delta after flying with Trump",
+      "excerpt": "Three Minnesota congressmen are facing backlash over taking a commercial flight home from Washington, D.C., on Friday night just two days after they shared Air Force One with President Donald Trump. U.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/201003_abcnl_spev_trump_6pm_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585",
+      "publishedDateTime": "2020-10-03T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-was-trump-ever-on-oxygen-health-security-experts-say-america-needs-total-honesty-on-presidents-condition.md",
+      "title": "Was Trump ever on oxygen? Health, security experts say America needs 'total honesty' on president's condition",
+      "excerpt": "Dr. Sean Conley created confusion about President Trump's COVID-19 diagnosis, which national security and health experts say is unnecessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/03/USAT/d224b2f6-0e48-445e-8fad-f60dcb191eaa-AP_Trump.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3609196001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3609196001",
+      "publishedDateTime": "2020-10-03T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-doctors-say-giving-trump-the-antiviral-drug-remdesivir-is-a-sign-his-infection-may-be-serious-even-though-the-timeline-is-still-unclear.md",
       "title": "Doctors say giving Trump the antiviral drug remdesivir is a sign his infection may be serious — even though the timeline is still unclear",
       "excerpt": "Trump received an IV infusion of the antiviral drug remdesivir on Friday. The therapy is typically reserved for severe cases.",
@@ -1366,224 +1574,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-matt-gorman-trump-has-a-new-running-mate-now.md",
-      "title": "Matt Gorman: Trump has a new running mate now",
-      "excerpt": "Yes, Vice President Mike Pence is still around. And no, the near-constant chatter about former U.N. Ambassador Nikki Haley did not come to pass.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman",
-      "originalUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b94a65f6-5ffd-48bb-a83f-27cccf0be04a/265a668a-7607-4662-85c1-473e327e8464/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp",
-      "publishedDateTime": "2020-09-30T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-undecided-voters-call-trump-unhinged-and-un-american-but-unswayed-by-debate.md",
-      "title": "Undecided voters call Trump ‘unhinged’ and ‘un-American’ — but unswayed by debate",
-      "excerpt": "After watching the first presidential debate Tuesday night, undecided voters from battleground states across the country still had plenty they wanted to know about coronavirus, racial injustice and what each candidate would do to unite the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545",
-      "originalUrl": "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/88/b9/ecc4dc754481bd290b736d50b15a/gettyimages-1228795856.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trumps-spy-chief-just-released-russian-disinformation-against-hillary-clinton-that-he-acknowledged-may-be-fabricated.md",
-      "title": "Trump's spy chief just released 'Russian disinformation' against Hillary Clinton that he acknowledged may be fabricated",
-      "excerpt": "DNI John Ratcliffe said in a letter that the US intel community \"does not know the accuracy\" of the allegation or whether it's been fabricated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9",
-      "originalUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5d385b01b44ce752ae61652b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9?amp",
-      "publishedDateTime": "2020-09-29T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-dont-be-like-trump-deducting-hairstyling-and-home-expenses-from-your-taxes-could-get-you-in-trouble-with-the-irs.md",
-      "title": "Don’t be like Trump: Deducting hairstyling and home expenses from your taxes could get you in trouble with the IRS",
-      "excerpt": "Trump tax returns confirm that the rich are different from you and me. So, no, you cannot deduct the cost of getting your hair cut and styled",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/",
-      "originalUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GCRX5UX4JQI6VMHEGUHE4YGMSE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp",
-      "publishedDateTime": "2020-09-29T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

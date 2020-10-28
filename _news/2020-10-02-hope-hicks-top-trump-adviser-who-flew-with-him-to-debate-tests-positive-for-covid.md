@@ -222,6 +222,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump makes surprise appearance outside hospital"
+    excerpt: "The masked president was captured on video waving from inside a black SUV, which passed cheering people standing close together, many of them not wearing masks."
+    publishedDateTime: 2020-10-04T22:28:00Z
+    webUrl: "https://www.politico.com/news/2020/10/04/trump-makes-surprise-appearance-outside-hospital-426127"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/trump-makes-surprise-appearance-outside-hospital-426127"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/trump-makes-surprise-appearance-outside-hospital-426127"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/af/b6/f1d573e448078b263ca5a7a960af/webp.net-resizeimage.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Live updates: Trump to leave Walter Reed hospital Monday night"
     excerpt: "President Donald Trump tweeted Monday afternoon that, after three days, he would be departing the hospital where he has been receiving treatment for Covid-19 at around 6:30 p.m. ET. White House physician Sean Conley said in a briefing with reporters after Trump's announcement that the president had \"met or exceeded all standard hospital discharge criteria\" and could be released from Walter Reed National Military Medical Center later in the day for continued treatment at the White House."
     publishedDateTime: 2020-10-05T21:09:00Z
@@ -349,6 +365,20 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417089/201002-donald-trump-cs-405p_f7ec29fb41e9828b420a325e8de84b79.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "What Trump reportedly says in private about his Christian supporters"
+    excerpt: "Trump often presents himself as a hero to people of faith, most notably Christian conservatives. In private, it's apparently a very different story."
+    publishedDateTime: 2020-09-29T15:49:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/what-trump-reportedly-says-private-about-his-christian-supporters-ncna1241335"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_06/3220181/prayer_campaign_2016_trump-jpeg-5d0da-maddowblog_53da12c3998f805b987c26f4cfc1e3fe.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Live updates: Trump spends first night at Walter Reed for Covid-19 treatment"
     excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"

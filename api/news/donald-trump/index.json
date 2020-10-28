@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-28-im-a-republican-former-elections-official-i-choose-democracy-over-trump-opinion.md",
+      "title": "I'm a Republican Former Elections Official. I Choose Democracy Over Trump | Opinion",
+      "excerpt": "It wasn't until I became the executive director of New York City's Board of Elections that I had an up-close view of how complex and difficult it is to manage an election in the largest city in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625",
+      "originalUrl": "https://www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1659972/president-donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625?amp=1",
+      "publishedDateTime": "2020-10-28T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-trump-and-the-boaty-mcboatfacing-of-america.md",
       "title": "Trump and the Boaty McBoatfacing of America",
       "excerpt": "Mr. Trump and his circle dumbfounded and afraid. Don Jr. told a friend that his father “looked as if he had seen a ghost. Melania was in tears — and not of joy.” Steve Bannon, according to Mr. Wolff,",
@@ -14,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -371,7 +423,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -627,7 +679,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3014,
+      "heat": 3034,
       "tags": null,
       "images": [
         {
@@ -1369,6 +1421,63 @@
       ]
     },
     {
+      "path": "_news/2020-10-24-in-the-home-stretch-signs-trumps-hard-sell-seniors-pitch-may-be-falling-short.md",
+      "title": "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short",
+      "excerpt": "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_43/3421859/201021-donald-trump-ew-145p_33980ba252755dffd3445498e1c818e0.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244167",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244167",
+      "publishedDateTime": "2020-10-23T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-trump-announces-that-sudan-will-israel-normalize-relations.md",
       "title": "Trump Announces That Sudan Will Israel Normalize Relations",
       "excerpt": "President Donald Trump announced Friday that Sudan had agreed to establish diplomatic ties with Israel, making it the third Arab state to do so under the Trump Administration-brokered peace deals, known as the “Abraham Accords.",
@@ -1429,7 +1538,7 @@
       "originalUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1453,102 +1562,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-the-latest-trump-says-final-debate-went-really-well.md",
-      "title": "The Latest: Trump Says Final Debate Went 'Really Well'",
-      "excerpt": "President Donald Trump is reviewing his debate against Democrat Joe Biden, saying he thought it went “really well” and was an “exciting night.”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking",
-      "originalUrl": "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp",
-      "publishedDateTime": "2020-10-23T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-campaign-chief-calls-us-rep-ilhan-omar-dangerous.md",
-      "title": "Trump Campaign Chief Calls US Rep. Ilhan Omar 'Dangerous'",
-      "excerpt": "Donald Trump's top campaign aide lobbed an attack on U.S. Rep. Ilhan Omar on Friday, as the president's reelection team makes a play for Minnesota, calling her \"the most extreme, the most dangerous\" member of the Democratic Party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-campaign-chief-calls-us-rep-ilhan-omar-dangerous-1541779",
-      "originalUrl": "https://www.newsweek.com/trump-campaign-chief-calls-us-rep-ilhan-omar-dangerous-1541779",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1657935/ilhan-omar.jpg",
-          "width": 2500,
-          "height": 1724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-campaign-chief-calls-us-rep-ilhan-omar-dangerous-1541779?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-campaign-chief-calls-us-rep-ilhan-omar-dangerous-1541779?amp=1",
-      "publishedDateTime": "2020-10-23T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

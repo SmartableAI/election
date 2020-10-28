@@ -47,22 +47,6 @@ related:
         width: 797
         height: 551
         isCached: true
-  - title: "‘Where are the surrogates?’ Fox News corners White House aide on GOP lawmakers refusing to campaign for Trump"
-    excerpt: "White House Communications Director Alyssa Farah on Wednesday faced questions from Fox News about why Republican lawmakers have been absent from President Donald Trump’s re-election campaign. “If you look at the polls,"
-    publishedDateTime: 2020-10-14T16:00:00Z
-    webUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 56
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Kilmeade-Farah-2-787x430.jpg"
-        width: 787
-        height: 430
-        isCached: true
   - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
     excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
     publishedDateTime: 2020-10-15T18:30:00Z

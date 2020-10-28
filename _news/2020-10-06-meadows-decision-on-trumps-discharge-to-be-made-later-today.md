@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'This election is about Donald Trump, up or down': Focus group pollsters"
+    excerpt: "Peter Hart, Democratic Pollster, Hart Research Associates, and Nicole McCleskey, Republican Pollster, Public Opinion Strategies, talk to Chuck Todd about a post-debate focus group they conducted for Meet the Press."
+    publishedDateTime: 2020-10-04T12:59:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/-this-election-is-about-donald-trump-up-or-down-focus-group-pollsters-93106245716"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93106245716"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93106245716"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/mtp_full_focus_201004.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump says U.S. economic recovery is faster than any other nation — but China is leaps and bounds ahead"
     excerpt: "China is seeing double-digit economic growth, Japan's Nikkei index is doing better than the Dow and Korea's unemployment rate is almost back to pre-pandemic levels."
     publishedDateTime: 2020-10-07T02:27:00Z

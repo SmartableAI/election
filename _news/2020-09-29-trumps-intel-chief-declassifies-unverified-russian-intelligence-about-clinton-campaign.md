@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Long concealed records show chronic losses and years of income tax avoidance for President Trump"
+    excerpt: "Trump paid $750 in federal taxes in 2016 and 2017, and paid none in 10 of the previous 15 years."
+    publishedDateTime: 2020-09-27T23:25:50Z
+    webUrl: "https://www.nytimes.com/interactive/2020/09/27/us/donald-trump-taxes.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 102
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/27/multimedia/thing-promo/thing-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "7sOw4qaCmk0Ypj8IFIWAkAwyCtWJvsoT2Moc1WZ6/ITlBDqNyaXquJlkMzTEij/SYEozwYCaOqInUazIURaia2AwDBiHEjbmjZrR/FK1R2fDgPBfqC64B+5Qy5Oi4zmXMwGrSCvow5MkcTQm1OYgLpRP6H+6dWnfTLsDPQUghS8/r8jd98bKqJdVzN/xmspsV1CBka2+IEU6qIkgDirBnXrQ0SHcYOt0u+PiTr2AgTT2XMsbZUmITMwEWRsIZNekKqCT8QP16s5e+igXy3rRRcF7G9OtDPizb6ZYqzTAqUkZEWDyjh6ClVGMUtM3BMJqsVGscMA6IK9X+Vmh0UsiGXyO3g8c9C0H3UhHonET66g=;2gnmKu84oQ5HhO8J0yhnXQ=="
 ---

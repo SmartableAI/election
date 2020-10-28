@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimulus/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 375
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: The absolutely bonkers threat Donald Trump made this week"
+    excerpt: "At a rally in Allentown, Pennsylvania, on Tuesday, President Donald Trump said something incredible -- even by his standards.\n    \n"
+    publishedDateTime: 2020-10-27T18:22:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0kZocpA_jeU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/tom-wolf-donald-trump-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/tom-wolf-donald-trump-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142449-03-trump-rally-pa-1026-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump doesn't want to fire Anthony Fauci. He wants him to quit."
     excerpt: "For a guy best known in pop culture -- prior to 2016 -- for telling people \"You're fired,\" Donald Trump doesn't actually like to fire people.\n    \n"
     publishedDateTime: 2020-10-13T14:37:19Z
@@ -60,6 +76,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011151047-02-fauci-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: The *real* secret of Donald Trump's success revealed by his tax returns"
+    excerpt: "President Donald Trump likes to tell people he made his fortune building things.\n    \n"
+    publishedDateTime: 2020-09-29T14:14:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yhTkq_2MfTQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190221170200-the-trump-dynasty-ae-doc-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

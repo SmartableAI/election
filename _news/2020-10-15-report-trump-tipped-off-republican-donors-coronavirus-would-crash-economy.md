@@ -125,6 +125,17 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
+    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
+    publishedDateTime: 2020-10-11T16:13:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 75
 
 secured: "EEipuYkJRdhANbUYz/C3ZXeeksEhatyADI6wbnqiB5CrvZkvPBsXCKyCLqfowkrkzhnrRr6avosUgSO8xX4A7CvpEQyYDcruOHWP5lyrpWLXcpcQ55t1QzfhxgvgypCkE3wEmg3OKtEa/0vXSQu6yTmuCbrhewsLWMZJoLUhPs6bbmvGu2GRm2BzeWuV5+cLoynAEcLNJLoFKaBJoXQZl9QxZFBVaU81mrYUDj13xpRfCPLT2bwXTbpegdTEf2/G+v8USl64mO6ShMfmunSbQk4SHMVMrkYfJlmZAlvna6fn05u4EBzDrfppDWbw8IHRnSW6ukPuflm38kUCWOv27J23M+XJKDbVaJXaWl0HkGk=;DvffNIQyeWpTIrnPsX09aA=="
 ---

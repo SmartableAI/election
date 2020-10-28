@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -269,6 +269,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Obama Gives Us One of the Best Reasons to Dump Trump"
+    excerpt: "Dean Obeidallah writes that while Americans have many reasons to vote Donald Trump out of office, former President Barack Obama came up with another compelling argument to vote for Joe Biden and Kamala Harris: It won't be so exhausting."
+    publishedDateTime: 2020-10-28T11:48:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/27/obama_gives_us_one_of_the_best_reasons_to_dump_trump_527601.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "5CIqIkZUEFB73TXv0yDkP3W+cUvyIIDReGxSXr1FPw4eG2f/2wALGLL+TiUZOtPbIsmPupoXVnE5CizHSjWLM/WD5nmZ5GE8WGCJL5+alfimpW6KOmuKVR+SDrjcUz6F+C/9tz/OrZNS1zS5OCv/OCQEaUnRrCEm08Z/071qPg2IB4hnejvImbl/ZJqdjHT9kf46vZCLbY3+hZ9A3yiLR5sDagCNbDK1QAT5UT4YVpcPob97uRDAhEqrctboa8J2RDMpML9fQoPl22KJBXslw6dusSrbrFEfa9wrxwx+WZbfoLlao7JNTAjQdfoL+PGFfgq7AkMxA9dwiDDgSm/lpQGdp1pCGISPvxaQZ401o2o=;fDorl6PHNwQbshtKsf66kQ=="
 ---

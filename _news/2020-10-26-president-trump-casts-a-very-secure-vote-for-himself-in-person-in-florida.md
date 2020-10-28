@@ -303,6 +303,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That"
+    excerpt: "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate."
+    publishedDateTime: 2020-10-28T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/"
+    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 124
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9890ed25a04196a125a749%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3202%26cropY1%3D0%26cropY2%3D1802"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Judge Rejects Justice Department’s Bid To Shield Trump From Carroll Lawsuit"
     excerpt: "The DOJ said Trump denied the rape allegations as an official part of his job, a U.S. District Judge disagreed."
     publishedDateTime: 2020-10-27T16:39:00Z

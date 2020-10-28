@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244167"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244167"
 type: article
 quality: 131
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: NBC News
@@ -30,40 +30,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "Trump makes return to much-changed Mar-a-Lago"
-    excerpt: "In Mar-a-Lago's disco-lit main ballroom, he watched as a large crowd serenaded his son's girlfriend while sparklers flared. On the stone dining patio, he hosted the Brazilian President for talks as diners sat at tables nearby, crammed together like normal. Eager to appear like everything was fine, he"
-    publishedDateTime: 2020-10-23T19:14:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JdXyqyBUghg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200527133726-trump-bolsonaro-0307-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump dials back his anger, but his debate performance doesn't change the facts"
-    excerpt: "Everybody showed up for a brawl Thursday night and a debate broke out.\n    \n"
-    publishedDateTime: 2020-10-23T10:42:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XXNm3OM9V2k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022224516-25-debate-nashville-1022-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "ZwvE5hTon2r2R8HP3sHHH1NDwoIK63xcMdNIvuwql/p5l3qMQpxFNuypQZFu/M4QjDca+ZSIqBu0Z4/an0a5igMDsmTRxtpBT3PCGV0eIWmSFS3aJewpPykBVb6f555zAzf0wDDH+5qNeiDohncGy6Ee8lUbQWpMc+bvPqbzCsSQWsxyDkHTLYRC1z1RbHYSh1Y8zMVNbF7Lcnpno+6msUMlcp1/ftDf/dPLuL5M6ByNpur4kxSLDyoSi/5Kroeq5xUgWkpo24xswIiRf5de0SAUI0vvmo1HVGnkMxfcNpkYVKqZuULgx/dgDFvKghCldkhspPeSRqg5J+2ien7JF2qg0bXe0Xl4Xb4gisd97nH9fPAo4L/r0LzgMonEPK+dk9Ih1zNH0e3hf3D0UExx3wqDGZRZbQZQkxxnlSesSm9ZqG2xQGMECgY03iY/+vD3V6MouYuTBjmAkhmzGGbiLE9jasTFtxWk1Q7vrKdhIzKrtkiICPMLkXPw3RcXKFCA2tZMhVBZ31nLZT89k4KGEg==;GXNPdltaBRleGpBbfUJ2aQ=="
 ---

@@ -2,6 +2,171 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-10-07-donald-trump-is-shown-gasping-for-air-in-white-house-return-video-twitter-users-claim.md",
+      "title": "Donald Trump Is Shown ‘Gasping For Air’ In White House Return Video, Twitter Users Claim",
+      "excerpt": "Shortly after the president was released from Walter Reed hospital, many noted he appeared to be gasping for air when he returned to the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543",
+      "originalUrl": "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/his-covid-19-diagnosis-has-left-president-donald.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543?amp=1",
+      "publishedDateTime": "2020-10-06T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-pence-to-vote-in-indiana-this-week-as-states-early-voting-begins.md",
+      "title": "Pence to vote in Indiana this week as state's early voting begins",
+      "excerpt": "Vice President Mike Pence and second lady Karen Pence are expected to fly to Indiana Friday, to vote in person from the second family’s home state, as early voting kicked off Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEC6hPcDV3Q/pence-vote-indiana-early-voting-begins",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEC6hPcDV3Q/pence-vote-indiana-early-voting-begins",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26f5f008-69d5-41ad-8f48-c32183c19256/0e9e91f4-e14d-47a0-a9b5-a59f5ba01f77/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-vote-indiana-early-voting-begins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-vote-indiana-early-voting-begins.amp",
+      "publishedDateTime": "2020-10-06T13:12:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-hollywood-inspired-trump-sign-pops-up-on-mountainside-above-california-freeway.md",
+      "title": "Hollywood-inspired ‘Trump’ sign pops up on mountainside above California freeway",
+      "excerpt": "A towering, Hollywood-esque Trump sign briefly appeared above California’s 405 Freeway near Sepulveda Pass, just to the west of Los Angeles, before workers took it down Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StaBn90dEgM/hollywood-trump-sign-california-freeway",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StaBn90dEgM/hollywood-trump-sign-california-freeway",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Hollywood-Sign-iStock.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hollywood-trump-sign-california-freeway.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hollywood-trump-sign-california-freeway.amp",
+      "publishedDateTime": "2020-10-06T12:54:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.md",
       "title": "Trump calls for pause on coronavirus stimulus talks until after the election",
       "excerpt": "President Trump on Tuesday said he has instructed Republicans to pause negotiations on a coronavirus stimulus package until after the election, instructing Senate Majority Leader Mitch McConnell, R-Ky., to focus “full-time” on getting his nominee to fill the vacant seat on the U.S. Supreme Court approved.",
@@ -55,58 +220,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-exclusive-former-cia-director-john-brennan-says-the-biggest-threat-to-the-2020-election-is-trump-himself.md",
-      "title": "EXCLUSIVE: Former CIA director John Brennan says the biggest threat to the 2020 election is Trump himself",
-      "excerpt": "Russia got everything it could have hoped for from Donald Trump's presidency, the former CIA chief said in an interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10",
-      "originalUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7cacb6282c500018c78e83?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp",
-      "publishedDateTime": "2020-10-06T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -554,7 +667,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 555,
+      "heat": 595,
       "tags": null,
       "images": [
         {
@@ -1229,114 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-goldmans-chief-economist-breaks-down-why-a-biden-led-blue-wave-would-prompt-an-upgrade-in-growth-forecasts.md",
-      "title": "Goldman's chief economist breaks down why a Biden-led blue wave would prompt an upgrade in growth forecasts",
-      "excerpt": "Longer-term economic growth forecasts would be lifted by spending increases on infrastructure, climate, healthcare, and education, Goldman said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10",
-      "originalUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7b3e7494fce90018f7b152?format=jpeg",
-          "width": 2886,
-          "height": 1443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp",
-      "publishedDateTime": "2020-10-05T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-eric-trump-scheduled-to-sit-for-deposition-monday-in-new-york-attorney-general-investigation.md",
-      "title": "Eric Trump scheduled to sit for deposition Monday in New York attorney general investigation",
-      "excerpt": "Eric Trump, who runs day-to-day operations of the family real estate empire, is scheduled to sit for a deposition on Monday as part of the New York attorney general's investigation into whether the Trump Organization improperly inflated the value of its assets to obtain loans or tax benefits.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gcN___596f0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gcN___596f0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005114222-eric-trump-2019-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html",
-      "publishedDateTime": "2020-10-05T09:30:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

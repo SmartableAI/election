@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
 type: article
 quality: 113
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -109,6 +109,17 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
+    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
+    publishedDateTime: 2020-10-11T16:13:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 75
   - title: "Report: Trump Tipped Off Republican Donors Coronavirus Would Crash Economy"
     excerpt: "Economic aides met privately with the Hoover Institution and told them the economic risks of the virus, allowing them to sell off stocks before most investors"
     publishedDateTime: 2020-10-15T12:32:00Z

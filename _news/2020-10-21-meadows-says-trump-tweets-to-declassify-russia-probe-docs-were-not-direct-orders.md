@@ -269,6 +269,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Obama Gives Us One of the Best Reasons to Dump Trump"
+    excerpt: "Dean Obeidallah writes that while Americans have many reasons to vote Donald Trump out of office, former President Barack Obama came up with another compelling argument to vote for Joe Biden and Kamala Harris: It won't be so exhausting."
+    publishedDateTime: 2020-10-28T11:48:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/27/obama_gives_us_one_of_the_best_reasons_to_dump_trump_527601.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "guaOpQFvGfKqZqro4Isv6Lw4TvuRuoG2jrgH3r6fxxUzRxcdQ+yfnoQ3k+Xc1AQaCk2laaOU9kW5Yv9ldm2zoVgkxCsca26MW1lmBJDX6FeNUWn46GzczRI6JxoJfmE2FmvbE5RY1IbR+1ieAy0J+Ya3GyB7LeLD/Od5hQC+veGGm6pM4EBaiLQqI8eE2dZJBKYAi+lkxp0x/dQRVCz9jJjdlDfpz75ZsomcNYI1KUZMt29uLpaenwS76LW5VfFnHUMKTwiPcpkZZVpcrptiG11lIR63IvSTOzvvWKKMU9VZuZEIMca88OookklMgBNDO53Cm0LP1JZbvgY61Y/Z12Da2KcXPHbMzMCdrPcYt9k=;qFw1XiVSGBYzV6Wf0C+TAg=="
 ---

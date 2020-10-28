@@ -263,20 +263,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Donald Trump threatens the retirement of every American worker"
-    excerpt: "Tom Michels worked 31 years at LTV's iron ore mine in northern Minnesota — and had already started making retirement plans — when the company's bankruptcy wiped out his job and most of his hard-earned pension."
-    publishedDateTime: 2020-10-23T08:43:00Z
-    webUrl: "https://www.salon.com/2020/10/23/how-donald-trump-threatens-the-retirement-of-every-american-worker_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 55
-    images:
-      - url: "https://media.salon.com/2018/08/trump-fox-and-friends2.jpg"
-        width: 846
-        height: 571
-        isCached: true
 
 secured: "ElQQ6bPsC5p72yJYhKR9QRf3qjILB6l2nVoHc9N1Sx3P0cgrpZktSPgUmxUR5MsfoZ4nuYRQi0bqwHhDdaAvfKsQgOp+jOA/2NZZ79NGAtEvBy+PGGol7baJjSGsSrhxwc7cm8QvUOOosUX3y+BRF+OIQwdT8It6ru6ozlwjna2KVFRuHqLLs7es+SqutN91xJdlAKu1RL4gveOGrEz728HUYs3gt1tK0V8vlp4WAQurA7/5UH86QD44DaXoCU03si33CRrHcp+hdtFFRjDPXAZKla1Yc8fd2jPdrmv4IJqbpcGaLKES1eDCftDhRrqm25O8eedQxIKvQJCw8CPJtGBJB7PJle6bPqBf2NjpaoE=;UVMlqhP28tH72Lmjxu6eNg=="
 ---

@@ -767,6 +767,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "As Trump, Biden hammer at swing states, advocates work to dismantle Electoral College"
+    excerpt: "Activists say adopting a national popular vote would force campaigns to broaden their outreach, while critics say it gives cities too much power."
+    publishedDateTime: 2020-10-28T10:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/28/election-results-and-electoral-college-pick-next-president/4718619002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4718619002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4718619002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/14/USAT/5c268ab8-b7c4-4163-8934-f393aa2a25f3-AP_Electoral_College_Alabama.JPG?auto=webp&crop=2399,1350,x0,y123&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 live updates: Melania Trump delivers pointed political attack on trail"
     excerpt: "President Donald Trump has campaign rallies in Michigan, Wisconsin and Nebraska on Tuesday while former Vice President Joe Biden spends the day in Georgia."
     publishedDateTime: 2020-10-28T02:26:00Z
@@ -2167,6 +2183,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "xtvXfmwp6/JWycSrIlIJfTH/HLTOyM2HJiC71oU5NbJ6RMStpKvCN5PvGG4v0o0Gv8T51O+gY38fZ9R6VgNrVtCPixjocndt70hfzBIsnku+KTf3xVL/QXyhyQGVyc88A/q4/NPmBnElE76URGbfajWJkNSjyxXJzYDxnyqJZHM9NFjB1x6s5kGvnyIyVeayKXbMMs84KMIISXzYBUb/lJ6TqnnawTRyyxK7KA4Hheil7grt7YTvWQlvj7cSaH/puzsShp0oYEte2S76G3NmZe0QBKzcGH6/3GdVr5vzoV9r7D6PzIMNuD1+w+9BNKmNvWf3hrYBr+7xjxR43wBzzVTwWlPa+ZcM2S+UrVF5XNs=;cJ85Fp9mJS9EnHUnEvlTbQ=="
+secured: "l9CjqfO4IG47x6QItra9fWfDkxxq+Zf2hLImw5EzduD9b+g4PHIPK0Nt+72J50XZbQn4ZY4BOSc1pvwXO2xOAErxZje1X082AGn951AmuMJJMgD+S7Ih0poLrhED1OPqiT5TQTUZZVvgBvMqBs4cPmxDo2H0QodPseIQjSDVGbP4TrHNLknMmSmrgp2WGSj9nWO7rxSpygwp3zgTAgpW1gquszhLHYXpMZY9n4rTz60d+YyNStbhBzl6jdqluDfIsDfOR8CTDtBfFDO1sGwqtnG4zN4poCRtag1bPJeykN3Ddfepoeb9jXrXpzTh4GAlG0hmbbgZJY0edC7n6zs9LZHfxhAhWL05Ii10fEUhfdkaprfFggDad1HOeNrjN4iSPLcQOdJOCFZmdQK2FuPdZ1StxvFrTLlVgmzzU6emT48iJzUe8P2bdjh3zcrdVgfVARFA4jgD+2i30ajLp2kS3PKNqxIF8749LpQA9PT3hc57WJuj4BLavBebM/GKoRI6W6Cvf6++wJufg9CWYI1ZVA==;vZq7IT1aRXwCuZQNFaWBSQ=="
 ---
 

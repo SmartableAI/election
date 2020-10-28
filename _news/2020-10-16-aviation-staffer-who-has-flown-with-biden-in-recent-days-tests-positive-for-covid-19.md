@@ -31,165 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "George Floyd's sister calls for change in new Biden ad"
-    excerpt: "In a new ad released by Democratic nominee Joe Biden's campaign on Wednesday, Bridgett Floyd, sister of George Floyd, calls for change and discusses the importance of voting after her brother was killed by police officers in Minneapolis,"
-    publishedDateTime: 2020-10-14T16:00:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
+  - title: "2020 election live updates: White House says Trump has tested negative for COVID without saying when"
+    excerpt: "President Donald Trump has tested negative for COVID-19 on “consecutive days,” White House physician Sean Conley said in memo released Monday. The document, posted to Twitter by White House ..."
+    publishedDateTime: 2020-10-13T16:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/georgefloyd063020.jpg"
-        width: 780
-        height: 551
-        isCached: true
-  - title: "Watch live: Biden holds town hall event"
-    excerpt: "Democratic presidential nominee Joe Biden is slated to hold a town hall event Thursday evening on ABC.The event is scheduled to begin at 8 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-10-15T22:46:00Z
-    webUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event"
-    ampWebUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "What we know – and don't know – about Hunter Biden's alleged laptop"
-    excerpt: "A central figure has contradicted himself about his actions and motivations, raising questions about his account."
-    publishedDateTime: 2020-10-15T22:04:00Z
-    webUrl: "https://www.cbsnews.com/news/hunter-biden-alleged-laptop-new-york-post/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-alleged-laptop-new-york-post/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-alleged-laptop-new-york-post/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/15/19cdb850-10df-4dd7-bf5f-13d82d9675d9/thumbnail/1200x630g3/74c90b18bdc18eb7190a4a1c998cb5f9/gettyimages-520756502.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Who Is George Stephanopoulous, Moderator of Biden Town Hall?"
-    excerpt: "Stephanopoulous, 59, leads breaking news and major special events coverage for ABC, a position he's held since 2014."
-    publishedDateTime: 2020-10-15T19:00:00Z
-    webUrl: "https://www.newsweek.com/who-george-stephanopoulous-moderator-biden-town-hall-1539523"
-    ampWebUrl: "https://www.newsweek.com/who-george-stephanopoulous-moderator-biden-town-hall-1539523?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-george-stephanopoulous-moderator-biden-town-hall-1539523?amp=1"
+  - title: "EXCLUSIVE: Former CIA director John Brennan says the biggest threat to the 2020 election is Trump himself"
+    excerpt: "Russia got everything it could have hoped for from Donald Trump's presidency, the former CIA chief said in an interview."
+    publishedDateTime: 2020-10-06T19:23:00Z
+    webUrl: "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1653288/george-stephanopoulos.jpg"
-        width: 3606
-        height: 2549
+      - url: "https://i.insider.com/5f7cacb6282c500018c78e83?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Biden campaign removing retired general from ad after his complaint"
-    excerpt: "The Biden campaign will remove images of a former commander of the U.S.-led anti-ISIS military coalition from an ad after he called out the campaign for including him without his permission, a spokesman said Monday."
-    publishedDateTime: 2020-10-19T21:32:00Z
-    webUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint"
-    ampWebUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
+  - title: "Election updates: Trump deemed 'safe' to return to public engagements, won't say if he's tested negative"
+    excerpt: "Trump's aides are working to satisfy his desire to get back out on the campaign trail as early as Monday in Pittsburgh."
+    publishedDateTime: 2020-10-11T00:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5882077002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Retired Navy admiral behind bin Laden raid says he voted for Biden"
-    excerpt: "William McRaven, the retired Navy admiral who oversaw the raid that killed Osama bin Laden, endorsed Democratic presidential nominee Joe Biden in an op-ed fo"
-    publishedDateTime: 2020-10-20T15:12:00Z
-    webUrl: "https://thehill.com/homenews/campaign/521839-retired-navy-admiral-behind-bin-laden-raid-says-he-voted-for-biden"
-    ampWebUrl: "https://thehill.com/homenews/campaign/521839-retired-navy-admiral-behind-bin-laden-raid-says-he-voted-for-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521839-retired-navy-admiral-behind-bin-laden-raid-says-he-voted-for-biden?amp"
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T08:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://thehill.com/sites/default/files/mcraven_1.jpg"
-        width: 980
-        height: 551
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Biden up by single point in Florida: poll"
-    excerpt: "Democratic presidential nominee Joe Biden has a single-point lead over President Trump in Florida, according to a poll released Tuesday from the University of No"
-    publishedDateTime: 2020-10-20T18:55:00Z
-    webUrl: "https://thehill.com/homenews/campaign/521899-biden-up-by-single-point-in-florida-survey"
-    ampWebUrl: "https://thehill.com/homenews/campaign/521899-biden-up-by-single-point-in-florida-survey?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521899-biden-up-by-single-point-in-florida-survey?amp"
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_091420getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
         isCached: true
-  - title: "The best case against a Biden presidency: Him"
-    excerpt: "When you take a clear-eyed look at Biden, there is no meaningful case for his candidacy. His biggest argument is that he is the “good guy” in this election, which he describes as a “battle for the soul of the nation."
-    publishedDateTime: 2020-10-21T16:45:00Z
-    webUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him"
-    ampWebUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
+  - title: "Melania Trump says son Barron tested positive for COVID-19, had no symptoms"
+    excerpt: "Melania Trump said Wednesday that after an initial negative test, 14-year-old Barron Trump tested positive for COVID-19."
+    publishedDateTime: 2020-10-15T05:39:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/10/14/melania-trump-says-son-barron-trump-tested-positive-covid-19/3656978001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3656978001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3656978001"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "What we need to hear from Biden at the debate"
-    excerpt: "I listed questions that President Trump should have to answer for each of the debate topics listed, except for covid-19, since it was already a topic in the first debate. Now, here are the questions Biden should address: If you add a public option to the Affordable Care Act,"
-    publishedDateTime: 2020-10-21T12:01:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/21/what-we-need-hear-biden-debate/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/21/what-we-need-hear-biden-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/21/what-we-need-hear-biden-debate/?outputType=amp"
+  - title: "2020 election live updates: Trump tells crowd at White House he's 'feeling great'; Christie out of hospital"
+    excerpt: "\"I'm feeling great, I don't know about you,\" Trump said in a nearly 20-minute speech while standing on the Blue Room balcony overlooking the South Lawn. The event was billed as a \"peaceful protest for law and order."
+    publishedDateTime: 2020-10-10T19:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/10/election-updates-trump-holds-campaign-event-white-house/5952593002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5952593002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5952593002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FRLZVLQSMYI6XISYMFFM6K4QNU.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Biden endorses Democratic challenger in Texas House district"
-    excerpt: "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas."
-    publishedDateTime: 2020-10-21T19:20:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/e374f7a0-88b8-4ed8-a1dd-3a3703cb39d2-TRUMP_POSITIVE_CORONAVIRUS_14.JPG?auto=webp&crop=4270,2402,x1,y107&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "A person who has flown with Biden in recent days tests positive for COVID-19"
     excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
@@ -207,263 +159,289 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "George Floyd's sister says Biden is 'the change that we need' in new campaign ad"
-    excerpt: "The Democratic presidential nominee released the ad on what would have been George Floyd's 47th birthday, in an appeal to Black voters."
-    publishedDateTime: 2020-10-14T18:44:00Z
-    webUrl: "https://www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10?amp"
+  - title: "Trump says he's not tested for COVID-19 every day but claims he is 'tested a lot'"
+    excerpt: "\"I was really tested a lot after I got rid of it because they wanted to make sure,\" Trump said on Fox Business. \"I said, 'How many tests do I have to take?'\""
+    publishedDateTime: 2020-10-16T01:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
     images:
-      - url: "https://i.insider.com/5f871fa52a400c0019deba3a?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
+      - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
+        width: 911
+        height: 455
         isCached: true
-  - title: "Joe Biden Opens Up Lead in Florida, Has Increased Chance of Winning With Bookmakers"
-    excerpt: "\"It seems that the books believe Biden is hitting stride at just the right time,\" said betting comparison website Oddschecker."
-    publishedDateTime: 2020-10-14T15:46:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-lead-florida-chance-winning-bookmakers-1539020"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-lead-florida-chance-winning-bookmakers-1539020?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-lead-florida-chance-winning-bookmakers-1539020?amp=1"
+  - title: "Trump's COVID prognosis: 3 scenarios based on sparse facts from an opaque White House"
+    excerpt: "The president's health matters. But we can only speculate because his doctor has hidden behind confidentiality laws to withhold negative information."
+    publishedDateTime: 2020-10-10T08:22:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/10/trump-covid-19-prognosis-murky-white-house-hides-facts-column/5941684002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5941684002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5941684002"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://d.newsweek.com/en/full/1651724/biden-campaign-florida.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Georgetown University report finds Joe Biden's free public college plan would pay off within 10 years"
-    excerpt: "To address such concerns, Democratic nominees former Vice President Joe Biden and Senator Kamala Harris have proposed a lengthy education plan that includes an eye-catching proposal: tuition-free public college for all families with incomes below $125,"
-    publishedDateTime: 2020-10-14T14:17:00Z
-    webUrl: "https://www.cnbc.com/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 110
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106742672-1602619695489-Former_Vice_President_and_presidential_nominee_Joe_Biden.jpg?v=1602619788"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Joe Biden speaks on health care in Michigan"
-    excerpt: "Watch \"Joe Biden speaks on health care in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-16T20:56:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201016200018-joe-biden-speaks-on-health-care-in-michigan/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07294060_1602880564.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden prepares for final debate as Obama hits the campaign trail"
-    excerpt: "Democratic nominee Joe Biden has no public events scheduled Wednesday as he prepares for Thursday's second and final presidential debate. Meanwhile, former President Barack Obama will make his first in-person campaign appearance on Biden's behalf in Philadelphia."
-    publishedDateTime: 2020-10-21T15:43:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-campaign-prepare-debate-obama-philadelphia/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/21/a429cbc0-5775-483b-87d7-24f0a697b41d/thumbnail/1200x630/e72afb088e1d6bd07f186c30bf1ae09c/cbsn-fusion-joe-biden-takes-break-from-campaign-trail-to-prepare-for-last-debate-before-election-thumbnail-571471-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/b0891de5-111f-4a9f-89e2-cf887bf8087a-truman_balcony.jpg?auto=webp&crop=4865,2737,x0,y247&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Insiders at the NY Post are griping about the Hunter Biden coverage, highlighting a political divide in the tabloid newsroom"
-    excerpt: "The publication of the story so close to the election quickly stirred questions and conspiracy theories among some Post rank-and-file."
-    publishedDateTime: 2020-10-16T23:49:00Z
-    webUrl: "https://www.businessinsider.com/ny-post-insiders-gripe-about-biden-coverage-2020-10"
+  - title: "Coronavirus updates: Trump can return to 'public engagements' on Saturday, doctor says"
+    excerpt: "A pandemic of the novel coronavirus has now killed more than 1 million people worldwide. Over 36.4 million people across the globe have been diagnosed with COVID-19, the disease caused by the new respiratory virus,"
+    publishedDateTime: 2020-10-10T07:35:00Z
+    webUrl: "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73493745"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/US/donald-trump-taxes-01-ap-llr-201007_1602087324181_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
+    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
+    publishedDateTime: 2020-10-13T12:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris tests negative for COVID-19 after 2 associated with campaign test positive"
+    excerpt: "Sen. Kamala Harris will not return to in-person campaigning until Monday after her communications director tested positive for COVID-19 Wednesday night."
+    publishedDateTime: 2020-10-15T19:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-abc-er-201013_1602629962175_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Why do Republicans still work for Trump? Especially when the White House is a COVID hotspot?"
+    excerpt: "When I left the Republican Party and lost my network, I fell into debt. I understand financial obligations. But now Trump is putting lives at risk."
+    publishedDateTime: 2020-10-14T07:37:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/14/trump-aides-risk-lives-white-house-covid-19-hotspot-column/3639042001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3639042001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3639042001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/7385b54a-975b-40ee-bde4-adc23355f2c7-AFP_AFP_8RY3ZW.jpg?auto=webp&crop=4480,2520,x226,y95&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump tells Fox News he had 'congestion' in his lungs, giving a small window into his COVID-19 infection"
+    excerpt: "\"Initially, I think they had some congestion in there, but ultimately it tested good, and with each day it got better,\" Trump said."
+    publishedDateTime: 2020-10-10T11:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-condition-had-congestion-in-lungs-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-condition-had-congestion-in-lungs-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-condition-had-congestion-in-lungs-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 78
+    quality: 108
     images:
-      - url: "https://i.insider.com/5f8a00499e9fe40019009e3b?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://i.insider.com/5f8103c6642e9400180b5258?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Kamala Harris Remarks On George Floyd's 47th Birthday"
-    excerpt: "Kamala Harris Wednesday remarked on what would have been George Floyd's 47th birthday. The Vice Presidential candidate said on Twitter that Floyd \"should still be alive today celebrating another year with his family and friends."
-    publishedDateTime: 2020-10-14T21:00:00Z
-    webUrl: "https://patch.com/minnesota/southwestminneapolis/kamala-harris-remarks-george-floyd-s-47th-birthday"
-    ampWebUrl: "https://patch.com/minnesota/southwestminneapolis/amp/29018972/kamala-harris-remarks-on-george-floyds-47th-birthday"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/southwestminneapolis/amp/29018972/kamala-harris-remarks-on-george-floyds-47th-birthday"
+  - title: "Trump claims he no longer has COVID-19 as White House dodges questions on whether he has tested negative"
+    excerpt: "Trump did not say in the interview whether he has tested negative for COVID-19. A memo by his physician, Dr. Sean Conley, didn’t address that either."
+    publishedDateTime: 2020-10-12T00:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/11/trump-says-he-no-longer-has-covid-doesnt-say-if-he-tested-negative/5960497002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5960497002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960497002"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Iowa, the 4th-highest state for rate of COVID-19 infections, surpasses 100,000 cases as Trump plans rally there this week"
+    excerpt: "As Iowa surpassed 100,000 confirmed coronavirus cases, the mayor of Des Moines expressed concern that President Trump’s rally this week could become a super-spreader event."
+    publishedDateTime: 2020-10-13T12:03:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 100
+    images:
+      - url: "https://www.chicagotribune.com/resizer/xinGqbBIwRodW65Xg19hND5rako=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H3DGSVUANNB6BKO3FFXIS7V3UM"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump plans to hold an outdoor event at the White House over the weekend. He still hasn't released a negative COVID-19 test."
+    excerpt: "ABC News and The New York Times said Trump was planning to address \"hundreds\" on the White House lawn from a balcony."
+    publishedDateTime: 2020-10-10T08:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f7de0fd282c500018c791ae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald and Melania Trump's son Barron had tested positive for Covid-19"
+    excerpt: "The first lady revealed that the 14-year-old had first tested negative for coronavirus but was found positive in a subsequent test."
+    publishedDateTime: 2020-10-15T09:42:00Z
+    webUrl: "https://www.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
+    ampWebUrl: "https://amp.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
     quality: 75
     images:
-      - url: "https://patch.com/img/cdn20/getty/22887410/20201014/115957/styles/patch_image/public/gettyimages-1228230080___14114308192.jpg?width=984"
-        width: 984
-        height: 738
+      - url: "https://d.ibtimes.co.uk/en/full/1600176/barron-trump-melania-trump.jpg"
+        width: 1600
+        height: 1099
         isCached: true
-  - title: "Harry Dunn death: Mum appeals to US candidate Joe Biden"
-    excerpt: "The mother of Harry Dunn has called on the US presidential candidate Joe Biden to help bring her son's alleged killer to justice if he wins the election. Charlotte Charles's 19-year-old son was killed when his motorbike and a car driven by American Anne Sacoolas crashed outside a US military base."
-    publishedDateTime: 2020-10-18T12:44:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-england-northamptonshire-54589802?intlink_from_url=&link_location=live-reporting-story"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-england-northamptonshire-54589802"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-england-northamptonshire-54589802"
+  - title: "Melania Trump Reveals Son Barron Also Tested Positive For Coronavirus"
+    excerpt: "Melania Trump penned an essay to share her personal experience with coronavirus and revealed that her son Barron also tested positive for COVID-19. But Melania, Barron and President Donald Trump have already recovered and have since tested negative."
+    publishedDateTime: 2020-10-15T01:57:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: International Business Times
+      domain: ibtimes.com
     quality: 75
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6A72/production/_109205272_harry_dunn.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
         width: 1024
-        height: 576
+        height: 682
         isCached: true
-  - title: "The good and bad of Joe Biden’s $2 trillion climate change plan: Bjorn Lomborg"
-    excerpt: "We are not sustainably going to fix climate change with expensive policies that are hundreds or thousands of times more costly than what people are willing to pay."
-    publishedDateTime: 2020-10-13T22:05:00Z
-    webUrl: "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/"
-    ampWebUrl: "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/"
+  - title: "Donald Trump’s COVID Results Had ‘Saturday Night Live’ Scrambling, Says Lorne Michaels"
+    excerpt: "Live writers were revising the season’s first cold open right up to the last minute after President Donald Trump’s positive COVID test tossed all plans into the air. In"
+    publishedDateTime: 2020-10-16T17:58:00Z
+    webUrl: "https://deadline.com/2020/10/saturday-night-live-donald-trump-covid-results-scrambling-lorne-michaels-1234598806/"
+    ampWebUrl: "https://deadline.com/2020/10/saturday-night-live-donald-trump-covid-results-scrambling-lorne-michaels-1234598806/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/saturday-night-live-donald-trump-covid-results-scrambling-lorne-michaels-1234598806/amp/"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 71
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2020/10/OCR-L-VIRUS-CLIMATECHANGE-0403-02-1.jpg?w=1024&h=662"
-        width: 1024
-        height: 662
-        isCached: true
-  - title: "Massachusetts Gov. Charlie Baker floated as possible Cabinet member for Joe Biden"
-    excerpt: "Baker finds himself among a handful of Republicans currently under consideration for Cabinet posts should Biden beat Trump."
-    publishedDateTime: 2020-10-20T20:42:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 70
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SCABQQT6OZCHVNUUEPFM2KFSZM.JPG"
-        width: 3000
-        height: 2187
-        isCached: true
-  - title: "Joe Biden takes question on milkshake flavors, scurries away after Hunter Biden inquiry"
-    excerpt: "Democratic presidential nominee Joe Biden was ready and willing to talk about his favorite milkshake flavors this weekend until the subject turned to his son Hunter."
-    publishedDateTime: 2020-10-19T19:13:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
+      name: Deadline.com
+      domain: deadline.com
     quality: 67
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/Election_2020_Biden_70752.jpg-301da_c0-0-5329-3108_s1200x700.jpg?5e87b37174222647cce88ce9da594e5f12880f5c"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
-    excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
-    publishedDateTime: 2020-10-16T13:52:00Z
-    webUrl: "https://www.washingtonian.com/2020/10/16/tj-ducklo-32-joe-bidens-press-secretary-and-he-has-stage-4-cancer/"
-    type: article
-    provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 55
-    images:
-      - url: "https://www.washingtonian.com/wp-content/uploads/2020/10/20200226_winyaindigosociety_charleston_sc_0003-1024x681.jpg"
+      - url: "https://deadline.com/wp-content/uploads/2020/10/snl-today.jpg?w=1024"
         width: 1024
-        height: 681
+        height: 542
         isCached: true
-  - title: "The greatest risk for a Biden administration"
-    excerpt: "The greatest risk for a possible Biden administration and Democratic majority is not attacking these disasters aggressively enough. Big problems call for big solutions — and if the problems are not fixed,"
-    publishedDateTime: 2020-10-21T09:48:00Z
-    webUrl: "https://theweek.com/articles/944800/greatest-risk-biden-administration"
+  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
+    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
+    publishedDateTime: 2020-10-13T17:55:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
     type: article
     provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 55
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
     images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/biden_go_big.jpg?itok=0cFJOnsA"
-        width: 1260
-        height: 560
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
+        width: 800
+        height: 403
         isCached: true
-  - title: "Twitter erupts over Sam Elliott TV ad for Joe Biden during World Series"
-    excerpt: "Actor Sam Elliott lent his voice to a Joe Biden campaign video that aired during the World Series Tuesday and became a Twitter magnet. See the ad and responses to"
-    publishedDateTime: 2020-10-21T03:45:00Z
-    webUrl: "https://tulsaworld.com/article_0346b718-cd6f-56a1-b748-63e502647644.html"
+  - title: "‘Where are the surrogates?’ Fox News corners White House aide on GOP lawmakers refusing to campaign for Trump"
+    excerpt: "White House Communications Director Alyssa Farah on Wednesday faced questions from Fox News about why Republican lawmakers have been absent from President Donald Trump’s re-election campaign. “If you look at the polls,"
+    publishedDateTime: 2020-10-14T16:00:00Z
+    webUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 55
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 56
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/34/0346b718-cd6f-56a1-b748-63e502647644/5f8facfc3043c.preview.jpg?crop=1763%2C992%2C0%2C92&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Kilmeade-Farah-2-787x430.jpg"
+        width: 787
+        height: 430
         isCached: true
-  - title: "What you need to know about Joe Biden's tax plan"
-    excerpt: "In general, Biden is proposing to raise taxes on the wealthy and on corporations by reversing some of the Republican-backed tax cuts that President Donald Trump signed into law in"
-    publishedDateTime: 2020-10-21T02:00:00Z
-    webUrl: "https://www.wdrb.com/news/national/what-you-need-to-know-about-joe-bidens-tax-plan/article_28451f8c-1341-11eb-a401-472a556b662e.html"
+  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
+    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
+    publishedDateTime: 2020-10-13T10:03:00Z
+    webUrl: "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/5966027002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002"
     type: article
     provider:
-      name: WDRB
-      domain: wdrb.com
-    quality: 55
+      name: Tennessean
+      domain: tennessean.com
+    quality: 53
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/a/d7/ad7f1080-1180-11eb-8b8e-f385863a0ff6/5f8ca5c0e104f.image.jpg?resize=946%2C630"
-        width: 946
-        height: 630
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "Charlie Baker Reportedly Under Consideration For Potential Joe Biden Cabinet Position"
-    excerpt: "Massachusetts Republican Gov. Charlie Baker is reportedly being considered for a spot in a potential Joe Biden cabinet."
-    publishedDateTime: 2020-10-21T01:11:00Z
-    webUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/"
-    ampWebUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
-    type: article
-    provider:
-      name: CBS Boston
-      domain: cbslocal.com
-    quality: 48
-  - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
-    excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
-    publishedDateTime: 2020-10-20T00:32:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3668502001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3668502001"
+  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
+    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
+    publishedDateTime: 2020-10-14T06:03:00Z
+    webUrl: "https://www.azcentral.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5966027002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5966027002"
     type: article
     provider:
       name: The Arizona Republic
       domain: azcentral.com
-    quality: 41
-  - title: "Joe Biden Campaigns in Durham, NC"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham, NC, where early voting is already underway. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham,"
-    publishedDateTime: 2020-10-17T11:10:00Z
-    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-nc"
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
+    excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
+    publishedDateTime: 2020-10-14T13:00:00Z
+    webUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.html"
+    ampWebUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: AZFamily
+      domain: azfamily.com
+    quality: 22
 
 secured: "ynjkP9fWF8JjYn94Tt+fI7O4Sl9fy2FTjR6t7+Az9q5HUEeCdh1sjh6/pJ+rhSyymx8pyTBt+wDCreHoPIDC3CTCl2fNYnHF1kNyEKLQ1vKGbbBTpFCwwuMuic6qRuSk49OLR1CmK0QVaKfAeIJ/yPvY+rUR7cFia+ZhXjrHAeQnAW5abYdTwltDrAOzQHahjMoLtcBJiWChCJXgJw6ob9RtRAMHmdqGGSbKKuij/1pql0r4Haja7fF71ERj2nXJz4FAzJ0lVO6guHJePiEZQk7H3UP8kQSXu8T9FMXnoZF31BWMlX6UhAvVKf4Hy4ro/vZHLvIaDP/DzemP6fX/h7l8DeN6cZVoTpp++P11zmMVaCA4vJqiRukjgWtTR224+DPx3b1rGyBUVPazWZRzTL+nNYqfllnD8DcdOeehJeEEk8qrpF1FBAP+HDxW1qJ5Ygio/yvfIBh1wcw9fXb0/zSm3XoN57WCzxkG3Niymk22qXA2irwIP0+6MxgnKib9lDhv++j0R/XenOQTDo+Flw==;/0pWK5yESkge5dj4Z1xnOg=="
 ---

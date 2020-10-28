@@ -2,6 +2,102 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-17-how-donald-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue.md",
+      "title": "How Donald Trump’s developer dad and a Brooklyn rabbi saved a synagogue",
+      "excerpt": "When congregants enter the Beach Haven Jewish Center in Gravesend, Brooklyn, they pass a small plaque hanging just outside the main sanctuary. “Fred Trump. Humanitarian,” declare the gold",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
+      "originalUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fred2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
+      "publishedDateTime": "2020-10-17T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-scotus-to-hear-trump-administrations-argument-to-exclude-illegal-immigrants-from-census.md",
+      "title": "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census",
+      "excerpt": "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
+      "originalUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Supreme_Court.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
+      "publishedDateTime": "2020-10-17T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-watchdog-claims-trump-campaign-illegally-coordinated-with-a-super-pac-in-2016-through-its-work-with-cambridge-analytica.md",
       "title": "Watchdog claims Trump campaign illegally coordinated with a Super PAC in 2016 through its work with Cambridge Analytica",
       "excerpt": "The Campaign Legal Center claimed newly published emails showed Cambridge Analytica's overlapping work for the campaign and PAC violated federal law.",
@@ -993,7 +1089,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 544,
+      "heat": 524,
       "tags": null,
       "images": [
         {
@@ -1190,114 +1286,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-end-this-nightmare-rudy-giulianis-daughter-urges-americans-to-vote-for-joe-biden-in-vanity-fair-editorial.md",
-      "title": "'End this nightmare': Rudy Giuliani's daughter urges Americans to vote for Joe Biden in Vanity Fair editorial",
-      "excerpt": "Caroline Giuliani called her father the \"president's personal bulldog,\" and described Trump's time in the White House as a \"reign of terror.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
-      "originalUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f88b9f19e9fe40019009a62?width=1200&format=jpeg",
-          "width": 733,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
-      "publishedDateTime": "2020-10-16T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-twitter-announces-new-policies-after-hunter-biden-report-imbroglio.md",
-      "title": "Twitter announces new policies after Hunter Biden report imbroglio",
-      "excerpt": "A top policy executive at Twitter announced policy changes at the social media giant late Thursday after the company faced its toughest allegations yet of censorship in order to protect Democratic candidates.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 795,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp",
-      "publishedDateTime": "2020-10-15T21:19:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

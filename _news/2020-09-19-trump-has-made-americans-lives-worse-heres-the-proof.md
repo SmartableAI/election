@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-am
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp"
 type: article
 quality: 125
-heat: 445
+heat: 425
 published: true
 
 provider:
@@ -250,20 +250,6 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/09/chuck-todd-azar.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "How Donald Trump threatens the retirement of every American worker"
-    excerpt: "Tom Michels worked 31 years at LTV's iron ore mine in northern Minnesota — and had already started making retirement plans — when the company's bankruptcy wiped out his job and most of his hard-earned pension."
-    publishedDateTime: 2020-10-23T08:43:00Z
-    webUrl: "https://www.salon.com/2020/10/23/how-donald-trump-threatens-the-retirement-of-every-american-worker_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 55
-    images:
-      - url: "https://media.salon.com/2018/08/trump-fox-and-friends2.jpg"
-        width: 846
-        height: 571
         isCached: true
   - title: "Kilmeade Asks Trump if China is Going to ‘Get Away’ With Coronavirus: They’re ‘Responsible For the Deaths of 200,000 Americans’"
     excerpt: "Fox & Friends host Brian Kilmeade urged President Donald Trump in a Monday interview to punish China for the fact that the coronavirus has killed approximately 200,000 Americans."

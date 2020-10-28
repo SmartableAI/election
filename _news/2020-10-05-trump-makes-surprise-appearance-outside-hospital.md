@@ -32,234 +32,154 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Tax bombshell reveals Trump's image is a sham"
-    excerpt: "It was the moment when Donald Trump's \"Art of the Deal\" fabulism, billionaire tycoon bluster and populist standard-bearing for forgotten Americans was revealed to be what it always looked like: a sham.\n    \n"
-    publishedDateTime: 2020-09-28T05:23:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IxedFhXWNDQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html"
+  - title: "Advisers made last-minute push to get reluctant Trump to Walter Reed"
+    excerpt: "Marine One was idling on the South Lawn Friday as President Donald Trump's advisers were inside the White House making a last-minute push to get him to board the helicopter.\n    \n"
+    publishedDateTime: 2020-10-03T21:46:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z3m0YPCtKZ4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927181158-02-trump-press-briefing-0927-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003084500-07-trump-walter-reed-arrival-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: How Trump's losing among seniors at a historic rate"
-    excerpt: "Former Vice President Joe Biden has jumped out to an 11-point lead over President Donald Trump in CNN's poll of polls. While Biden is doing better with pretty much all groups compared with 2016 Democratic nominee Hillary Clinton, one group jumps out: seniors.\n    \n"
-    publishedDateTime: 2020-10-06T19:44:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/02-alpifwcg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-senior-vote/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-senior-vote/index.html"
+  - title: "Trump surprises crowd with drive-by outside Walter Reed"
+    excerpt: "President Donald Trump surprised his supporters with a drive-by appearance from his motorcade outside Walter Reed medical center, where he is receiving treatment for Covid-19. CNN's Jeremy Diamond reports.\n    \n"
+    publishedDateTime: 2020-10-04T21:51:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-zI3pGJ7qkM/president-trump-drives-by-crowd-walter-reed-motorcade-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/04/president-trump-drives-by-crowd-walter-reed-motorcade-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/04/president-trump-drives-by-crowd-walter-reed-motorcade-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200312170709-01-week-in-photos-0313-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004174331-president-trump-drives-by-crowd-walter-reed-motorcade-vpx-00001506-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Why Trump's efforts to divide the left will likely fall flat"
-    excerpt: "President Donald Trump seems to be trying to cause a rift between former Vice President Joe Biden and those on the left. For example, when Biden said he was not in favor of The Green New Deal at last week's debate, Trump responded, \"Oh you don't? Well, that's a big statement. You just lost the radical"
-    publishedDateTime: 2020-10-10T17:40:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWtuk3FmnoI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/trump-biden-left-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-biden-left-analysis/index.html"
+  - title: "'That should never have happened': Inside Trump's Walter Reed parade"
+    excerpt: "Pacing the well-appointed presidential suite at Walter Reed National Military Medical Center between intravenous doses of remdesivir and near-hourly checks of his vitals, President Donald Trump has told more than one well-wisher he's desperate to fly the coop.\n    \n"
+    publishedDateTime: 2020-10-05T11:02:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GRLp57TfTbY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/trump-secret-service-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-secret-service-trip/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929212319-16-debate-cleveland-trump-0929-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004173307-02-trump-walter-reed-motorcade-1004-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: How women are historically against Trump"
-    excerpt: "Poll of the week: A new CNN/SSRS poll finds that former Vice President Joe Biden is at 57% to President Donald Trump's 41% among likely voters.\n    \n"
-    publishedDateTime: 2020-10-11T12:07:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqLdn-1k-yc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/women-voters-trump-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/women-voters-trump-analysis/index.html"
+  - title: "The Point: Donald Trump's Walter Reed drive-by reveals his true nature"
+    excerpt: "Donald Trump's unannounced -- and wildly unnecessary -- drive-by of his supporters outside Walter Reed medical center on Sunday night aptly summed up his presidency to date: An entirely self-focused political (and PR) stunt with little regard for the impacts on people other than himself.\n    \n"
+    publishedDateTime: 2020-10-05T14:15:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w-sM5ordFtU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-walter-reed-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-walter-reed-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729172717-38-womens-history-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005093825-05-trump-walter-reed-morotcade-1004-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Trump's war on Obamacare is coming back to bite him"
-    excerpt: "Americans don't yet know whether doctors have protected President Donald Trump from the effects of Covid-19. They do know his gold-standard care is beyond their reach.\n    \n"
-    publishedDateTime: 2020-10-11T21:19:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/opIPFhSUDRg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/affordable-care-act-trump-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/affordable-care-act-trump-election-2020/index.html"
+  - title: "Trump returns to White House and removes mask despite having Covid"
+    excerpt: "It's been more than two days since President Donald Trump was airlifted to Walter Reed National Military Medical Center, but Americans remain largely in the dark about the trajectory of his infection with Covid-19 and the specifics of his condition as the White House tries to control the optics of his"
+    publishedDateTime: 2020-10-06T01:08:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Mz23KP1Wmo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-covid-condition-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-covid-condition-walter-reed/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191220094911-corte-falla-incosntitucional-clausula-obamacare-salud-pkg-isabel-morales-00003206-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004234718-04-trump-walter-reed-morotcade-1004-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: How Trump is dragging down fellow Republicans"
-    excerpt: "President Donald Trump's struggles in the polls have been well documented. He entered the final debate down about 10 points to former Vice President Joe Biden and trailed in key swing states.\n    \n"
-    publishedDateTime: 2020-10-24T12:42:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zVyvuYrIgys/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/trump-republicans-down-ballot-races-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/trump-republicans-down-ballot-races-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022214220-09-debate-nashville-1022-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Trump relishes his role as a divider as he vows to be 'vicious'"
-    excerpt: "Taking the stage at a rally in Nevada Saturday night, President Donald Trump didn't hold back.\n    \n"
-    publishedDateTime: 2020-09-13T14:49:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XuwDjmXtx2Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200908191141-02-trump-nc-0908-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Trump reignites climate fight in visit to fire-ravaged West Coast"
-    excerpt: "For weeks, President Donald Trump was largely silent on the wildfires that have charred more than 3.3 million acres in California, triggered Oregon officials to prepare for a potential \"mass fatality incident,\" and created apocalyptic orange skies and clouds raining ash that have drifted across cities"
-    publishedDateTime: 2020-09-14T21:06:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5zU9tawExY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200913235654-03-wildfires-california-0909-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: Donald Trump's tax returns reveal why he *really* ran for president"
-    excerpt: "Donald Trump needed a new act.\n    \n"
-    publishedDateTime: 2020-09-28T14:11:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HqjVlGpKWqs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tax-returns-new-york-times/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tax-returns-new-york-times/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/150701114048-donald-trump-escalator-super-tease.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The Point: The *real* secret of Donald Trump's success revealed by his tax returns"
-    excerpt: "President Donald Trump likes to tell people he made his fortune building things.\n    \n"
-    publishedDateTime: 2020-09-29T14:14:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yhTkq_2MfTQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
+  - title: "Former Trump campaign manager Brad Parscale steps down from role as senior adviser"
+    excerpt: "Brad Parscale stepped down from his role as a senior adviser to President Donald Trump's campaign on Wednesday, two sources close to the campaign confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-10-01T01:43:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6415mQt0pvs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190221170200-the-trump-dynasty-ae-doc-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200430103432-01-brad-parscale-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Trump's alternate reality of Covid-19 crumbles as the White House obfuscates"
-    excerpt: "Some seven months into a pandemic that has killed more than 200,000 Americans, the nation is now facing a grave governing crisis with its commander in chief hospitalized -- his condition hinging on his progress over the coming days -- as the White House events of the past week serve as a textbook example"
-    publishedDateTime: 2020-10-04T05:01:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OTTNqiRG08k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/donald-trump-coronavirus-alternate-reality/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/donald-trump-coronavirus-alternate-reality/index.html"
+  - title: "Trump taken to Walter Reed medical center and will be hospitalized 'for the next few days'"
+    excerpt: "President Donald Trump will be taken to Walter Reed National Military Medical Center, according to the White House.\n    \n"
+    publishedDateTime: 2020-10-03T00:47:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TNOHTVNrNYc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003213715-national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx-00000512-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002092919-03-trump-1001-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Trump chooses denial and recklessness as he's set to resume campaign rallies"
-    excerpt: "As President Donald Trump stood on a White House balcony Saturday — spewing mistruths about his opponent's plan for policing and claiming the coronavirus is \"disappearing\" while hundreds of people watched from below — it was clear that his illness has taught him very little and he will continue to endanger"
-    publishedDateTime: 2020-10-11T21:11:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gyqJgOE-oGY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/trump-coronavirus-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/trump-coronavirus-2020-election/index.html"
+  - title: "Health officials scrambling to produce Trump's ‘last-minute’ drug cards by Election Day"
+    excerpt: "As officials debate how to get Trump’s name on the cards, health officials warn of a taxpayer-funded boondoggle to bolster president’s flagging poll numbers."
+    publishedDateTime: 2020-10-09T02:28:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/seema-verma-mark-meadows-drug-card-plan-427950"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/seema-verma-mark-meadows-drug-card-plan-427950"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/seema-verma-mark-meadows-drug-card-plan-427950"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
+      name: Politico
+      domain: politico.com
+    quality: 142
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/63/f7/633226d24867bd031645e6b3566b/201008-seema-verma-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Analysis: Trump flails and shows no ability to reset as some Republicans voice their concerns"
-    excerpt: "As President Donald Trump began a packed day of events Friday, he delivered an unusually somber message to seniors -- a group he won in 2016 and desperately needs to win back -- speaking of the pain and grief inflicted by the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2020-10-17T10:57:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qkAZPOr6_xg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
+  - title: "Trump Attacked Rochester Protesters. Not All Local Republicans Agree."
+    excerpt: "In Western New York, the president’s vilification of Black Lives Matter protests has forced candidates to decide whether to line up behind him."
+    publishedDateTime: 2020-09-26T09:12:00Z
+    webUrl: "https://www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/09/25/nyregion/00rochester-trump5/00rochester-trump5-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "'This election is about Donald Trump, up or down': Focus group pollsters"
-    excerpt: "Peter Hart, Democratic Pollster, Hart Research Associates, and Nicole McCleskey, Republican Pollster, Public Opinion Strategies, talk to Chuck Todd about a post-debate focus group they conducted for Meet the Press."
-    publishedDateTime: 2020-10-04T12:59:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/-this-election-is-about-donald-trump-up-or-down-focus-group-pollsters-93106245716"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93106245716"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93106245716"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 149
-    images:
-      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/mtp_full_focus_201004.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "'I am feeling well!': Trump gives update on Twitter"
-    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center on Friday, the same day he announced he and first lady Melania Trump had tested positive for Covid-19. The president was \"doing very well\" and did not require supplemental oxygen,"
-    publishedDateTime: 2020-10-04T03:17:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241990"
+  - title: "Live updates: Trump receives Covid-19 treatment at Walter Reed"
+    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center as what was described as a precautionary measure on Friday, the same day he announced he and wife Melania had tested positive for Covid-19."
+    publishedDateTime: 2020-10-03T07:30:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-10-03-trump-covid-n1241952"
     ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
     type: article
@@ -272,51 +192,165 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Contact tracers scramble to find people infected by Trump and his entourage"
-    excerpt: "The possibility that the president and his entourage have become traveling superspreaders is a nightmare scenario for officials in the four states he visited in the last week."
-    publishedDateTime: 2020-10-02T23:10:00Z
-    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-contact-tracing-425622"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
+  - title: "Trump campaign adviser spars with Chris Wallace over debate"
+    excerpt: "A senior campaign adviser to President Donald Trump accused \"Fox News Sunday\" host Chris Wallace of not being a neutral moderator during last week's presidential debate. \"He had to debate not just Joe Biden,"
+    publishedDateTime: 2020-10-04T14:26:00Z
+    webUrl: "https://www.politico.com/news/2020/10/04/trump-debate-wallace-cortes-425992"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/trump-debate-wallace-cortes-425992"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/trump-debate-wallace-cortes-425992"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 133
+    quality: 135
     images:
-      - url: "https://static.politico.com/14/83/e0cf91bd4b3887707e2a394d5fb1/201002-trump-pa-rally-ap-773.jpg"
+      - url: "https://static.politico.com/66/41/3375f88b4d5190ebda54b2ae25be/200929-chris-wallace-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "New York Times' Trump taxes bombshell reveals massive national security threat"
-    excerpt: "The revelations of the president’s tax records must become part of a larger and still unresolved investigation into Trump’s potential compromise by foreign powers."
-    publishedDateTime: 2020-09-29T19:06:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/new-york-times-trump-taxes-bombshell-reveals-massive-national-security-ncna1241363"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241363"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241363"
+  - title: "Trump lets the tweets fly from inside Walter Reed hospital"
+    excerpt: "The president hasn't been this active on the social media platform in days as he's undergone treatment for Covid-19."
+    publishedDateTime: 2020-10-05T11:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-lets-tweets-fly-inside-walter-reed-hospital-n1242094"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242094"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242094"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417453/201005-trump-health-mc-1204_06e8020cbda3d2e9487750ac644a07f1.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Live updates: Trump to leave Walter Reed hospital Monday night"
+    excerpt: "President Donald Trump tweeted Monday afternoon that, after three days, he would be departing the hospital where he has been receiving treatment for Covid-19 at around 6:30 p.m. ET. White House physician Sean Conley said in a briefing with reporters after Trump's announcement that the president had \"met or exceeded all standard hospital discharge criteria\" and could be released from Walter Reed National Military Medical Center later in the day for continued treatment at the White House."
+    publishedDateTime: 2020-10-05T21:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/2020-10-05-trump-covid-n1242088"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242088"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/nbc_spec_doctors_discharge_201005_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump asked Walter Reed doctors to sign non-disclosure agreements in 2019"
+    excerpt: "At least two Walter Reed doctors who refused to sign non-disclosure agreements last year were not permitted to be involved in Trump’s care."
+    publishedDateTime: 2020-10-08T09:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-asked-walter-reed-doctors-sign-non-disclosure-agreements-2019-n1242293"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242293"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242293"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418267/201007-walter-reed-mn-1530_76a297a12a026ce9306916d1a9a781c3.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Turning Power of State Against Rivals, Trump Seeks Power of Authoritarians"
+    excerpt: "President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct immediate government action against specific opponents, timed to serve his re-election campaign."
+    publishedDateTime: 2020-10-10T21:33:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/10/us/politics/10dc-prexy-2/10dc-prexy-2-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Live updates: Trump back at White House after Covid-19 treatment at Walter Reed"
+    excerpt: "President Donald Trump has returned to the White House after leaving Walter Reed National Military Medical Center, where he had been receiving treatment for Covid-19 since Friday. He immediately took off his mask to pose for pictures before walking into the building."
+    publishedDateTime: 2020-10-06T19:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/live-blog/2020-10-06-trump-covid-n1242234"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242234"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242234"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 131
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416080/200928-donald-trump-mn-1510_69cbbd57bea01db5a9d2fc17f67d75ab.JPG"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417772/201006-trump-white-house-mc-9222_79f93e44e9a757ca1d9de38e3e8ec331.JPG"
         width: 2500
-        height: 1405
+        height: 1672
         isCached: true
-  - title: "Newsom bans new gas cars — and begs Trump for a fight"
-    excerpt: "The Democratic governor announced he is directing the California Air Resources Board to establish regulations requiring that all new cars and passenger trucks sold in California in 2035 be zero-emission vehicles."
-    publishedDateTime: 2020-09-24T00:00:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/09/23/newsom-bans-new-gas-cars-and-begs-trump-for-a-fight-1317947"
+  - title: "Trump defends actions in lead up to Covid diagnosis in video posted from Walter Reed"
+    excerpt: "President Donald Trump on Saturday addressed his health and defended his actions in the lead up to his Covid-19 diagnosis in a video recorded from a Walter Reed hospital room. “I just didn’t want to stay in the White House."
+    publishedDateTime: 2020-10-03T23:55:00Z
+    webUrl: "https://www.politico.com/news/2020/10/03/trump-says-doing-much-better-in-new-video-425892"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/03/trump-says-doing-much-better-in-new-video-425892"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/03/trump-says-doing-much-better-in-new-video-425892"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 128
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/f00273f6-6c5b-40ad-ba25-7102aa8168a0/216cfcff-5c66-4716-aa6b-a7757b14653a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/fc38fbab-13a6-4391-8b07-e78c2b79737a/8b9885fa-5de5-4533-9335-3cf4d7748571/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Pushed False Claims of Voter Fraud as Justice Dept. Moved to Investigate Matter"
+    excerpt: "Former department officials from both parties have warned that under Attorney General William P. Barr, the department is slipping into a partisan morass it had long sought to avoid."
+    publishedDateTime: 2020-10-09T23:08:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/trump-justice-department-voter-fraud.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/trump-justice-department-voter-fraud.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/trump-justice-department-voter-fraud.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09dc-justice1/09dc-justice1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump tries to prove he's back in fighting form in freewheeling Fox Business interview"
+    excerpt: "President Donald Trump returned to form on Thursday morning, engaging in a freewheeling, 55-minute interview on Fox Business in which he made bold claims about his health and coronavirus in general just days after announcing he had contracted the deadly disease."
+    publishedDateTime: 2020-10-08T16:28:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/trump-medical-condition-id-love-to-do-a-rally-tonight-427936"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/trump-medical-condition-id-love-to-do-a-rally-tonight-427936"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/trump-medical-condition-id-love-to-do-a-rally-tonight-427936"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 127
+    images:
+      - url: "https://static.politico.com/f9/8b/3ab7a55f40caacae2c7f314a0e1d/ap20279851367783.jpg"
+        width: 4145
+        height: 2763
+        isCached: true
+  - title: "Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment"
+    excerpt: "WASHINGTON — President Donald Trump, who has Covid-19 and was taken to Walter Reed National Military Medical Center on Friday, is \"doing very well\" and has not required any supplemental oxygen, his physician said Friday night."
+    publishedDateTime: 2020-10-03T06:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-be-transported-walter-reed-medical-center-marine-one-helicopter-n1241899"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241899"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241899"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417089/201002-donald-trump-cs-405p_f7ec29fb41e9828b420a325e8de84b79.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "What Trump reportedly says in private about his Christian supporters"
     excerpt: "Trump often presents himself as a hero to people of faith, most notably Christian conservatives. In private, it's apparently a very different story."
@@ -332,45 +366,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Long concealed records show chronic losses and years of income tax avoidance for President Trump"
-    excerpt: "Trump paid $750 in federal taxes in 2016 and 2017, and paid none in 10 of the previous 15 years."
-    publishedDateTime: 2020-09-27T23:25:50Z
-    webUrl: "https://www.nytimes.com/interactive/2020/09/27/us/donald-trump-taxes.html"
+  - title: "Live updates: Trump spends first night at Walter Reed for Covid-19 treatment"
+    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
+    publishedDateTime: 2020-10-03T15:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-02-trump-covid-n1241780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241780"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 102
+      name: NBC News
+      domain: nbcnews.com
+    quality: 112
+  - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
+    excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
+    publishedDateTime: 2020-10-02T00:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/hope-hicks-top-trump-adviser-who-flew-him-debate-tests-n1241751"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 109
     images:
-      - url: "https://static01.nyt.com/images/2020/09/27/multimedia/thing-promo/thing-promo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_40/3416833/201001-hope-hicks-2018-ac-842p_58ccf042fc6d35570ea1522bae16016e.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Everything We Know About When Trump Got Sick, His Treatment, And How He Is Now"
-    excerpt: "He is currently being treated at Walter Reed medical center. How exactly is he doing and how long has he been ill? That is more up in the air than I think most American citizens would prefer! Here’s everything we know—and everything we don’t—regarding the timeline of when he was diagnosed,"
-    publishedDateTime: 2020-10-03T20:23:00Z
-    webUrl: "https://slate.com/technology/2020/10/trump-covid-timeline-questions.html"
-    ampWebUrl: "https://slate.com/technology/2020/10/trump-covid-timeline-questions.amp"
-    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/10/trump-covid-timeline-questions.amp"
+  - title: "Trump Says He Is “Starting to Feel Good” in Video From Walter Reed"
+    excerpt: "After a day of confusion and conflicting information about President Donald Trump’s health, the commander in chief tweeted out a video message from Walter Reed saying his condition has improved. But he also made clear that he is well aware he’s far from being given the all-clear and will have to see how his treatment develops."
+    publishedDateTime: 2020-10-04T00:22:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/10/trump-starting-feel-good-video-walter-reed-coronavirus.html"
+    ampWebUrl: "https://slate.com/news-and-politics/2020/10/trump-starting-feel-good-video-walter-reed-coronavirus.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/news-and-politics/2020/10/trump-starting-feel-good-video-walter-reed-coronavirus.amp"
     type: article
     provider:
       name: Slate
       domain: slate.com
-    quality: 81
+    quality: 85
     images:
-      - url: "https://compote.slate.com/images/59762ffc-7a8b-48da-be82-7f52858f9245.jpeg?width=780&height=520&rect=3864x2576&offset=136x0"
+      - url: "https://compote.slate.com/images/551350a5-d40e-4cdf-8186-83db94062aaa.png?width=780&height=520&rect=840x560&offset=64x0"
         width: 780
         height: 520
         isCached: true
-  - title: "H.R. McMaster Tries to Wish Away His Old Boss Donald Trump"
-    excerpt: "Don’t look to the former national security adviser’s new book for revelations about his time serving Trump. Look to it for its evasions—which explain that service to Trump so well."
-    publishedDateTime: 2020-09-20T09:09:00Z
-    webUrl: "https://www.thedailybeast.com/hr-mcmaster-tries-to-wish-away-his-old-boss-donald-trump"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
 
 secured: "hgNblUlps6aSha31SPeW635Eqc+UqfJ0An9wBIxixNlkmNqNsifiLp6K2deBePf/8KncB/ZMje4A15RUzrGHqyCs7KFlfRksFn3k/IkdykTKwtRnAYkclBeD/cDFzPPKKF/4kuI5+szHVaKV3Wh7dgme6pga2+iddH1UQfxHlTdXlv1h8auUG114x6C3GT6BaLWEJT9gz6sApvi0kpgPLg7O2eRG8Z5AKUX9pQOj0oMnBptEDDQdVK930x00Q+wBmts1xb+QyWtUPySRyz46CQVa/m/hPz5mQwAYEZVWnhsjh3WLipAV7wIa0zLhUVYH8W31Q/5pralI+Z2X9dZgMkFxWKZuuKIORpymcJiVcI0=;cKWcc6ZMHLkN1JnI5Trczg=="
 ---

@@ -141,22 +141,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Iowa, the 4th-highest state for rate of COVID-19 infections, surpasses 100,000 cases as Trump plans rally there this week"
-    excerpt: "As Iowa surpassed 100,000 confirmed coronavirus cases, the mayor of Des Moines expressed concern that President Trump’s rally this week could become a super-spreader event."
-    publishedDateTime: 2020-10-13T12:03:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 100
-    images:
-      - url: "https://www.chicagotribune.com/resizer/xinGqbBIwRodW65Xg19hND5rako=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H3DGSVUANNB6BKO3FFXIS7V3UM"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Why Are Ben Sasse and other Republicans Trying to Cancel Donald Trump?"
     excerpt: "Sasse and others avoided criticizing Trump when he was up. Now that he’s down, they’re turning on him. The hypocrisy is rich."
     publishedDateTime: 2020-10-16T20:07:00Z
@@ -204,22 +188,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2018/08/Soy-farmer-745x430.jpg"
         width: 745
         height: 430
-        isCached: true
-  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
-    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
-    publishedDateTime: 2020-10-13T17:55:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 61
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
-        width: 800
-        height: 403
         isCached: true
   - title: "BUSTED: Fake Black Trump ‘supporters’ — with tens of thousands of followers — purged on social media"
     excerpt: "Forbes reported that Twitter is suspending several fake accounts posing as Black supporters of President Donald Trump, saying that they violate the guidelines on spam and account manipulation. Many of these accounts used identical language over and over,"

@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump makes frenetic election push in states that highlight his Covid denial"
+    excerpt: "President Donald Trump's final sprint to shore up states he won four years ago led him Tuesday into the epicenter of America's quickening viral surge in Wisconsin, as the state's record single day spikes in Covid-19 cases and deaths crystalized his administration's failures that could end his political"
+    publishedDateTime: 2020-10-28T09:52:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vg8MRTKzZ8s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-coronavirus-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-coronavirus-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027213702-trump-wisconsin-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence adviser Marty Obst tests positive for coronavirus"
     excerpt: "A top adviser to Vice President Mike Pence tested positive for coronavirus earlier this week, a source familiar with the matter told CNN.\n    \n"
     publishedDateTime: 2020-10-25T01:43:12Z
@@ -1313,6 +1329,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026212321-06-wh-barrett-sworn-in-1026-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Young voters in swing states are a big part of the early surge. That could boost Biden."
+    excerpt: "The 20 to 29 years olds are making their presence felt in places like Florida, Texas, Michigan and elsewhere. Younger Americans are voting early in droves this cycle, far outpacing their pre-Election Day turnout in several key swing states at this time in 2016."
+    publishedDateTime: 2020-10-28T11:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/young-voters-swing-states-are-big-part-early-surge-could-n1244923"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244923"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244923"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423366/201027-la-vote-se-1205p_0fc3d607c68be8f161774257b7c59a38.jpg"
+        width: 2500
+        height: 1556
         isCached: true
   - title: "‘It’s clear Donald Trump’s campaign is desperate’: President Trump campaigns in traditional"
     excerpt: "With a little over two weeks until the election, President Donald Trump is spending a considerable amount of time campaigning in traditionally red states as he continues to trail Democratic presidential nominee former Vice President Joe Biden in the polls."

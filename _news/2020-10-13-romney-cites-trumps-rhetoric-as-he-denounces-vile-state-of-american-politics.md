@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Trump's rallies make no political sense. Here's why he does them anyway."
-    excerpt: "President Donald Trump's bout with coronavirus gave him the chance for a reset on the top 2020 election issue. Characteristically, he has spurned it.\n    \n"
-    publishedDateTime: 2020-10-18T11:26:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/osdCZoSmPw8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/2020-campaign-trump-rallies/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/2020-campaign-trump-rallies/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015184731-donald-trump-rally-greenville-north-carolina-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump signs executive order that critics warn politicizes federal career civil service"
     excerpt: "President Donald Trump signed an executive order that appears to provide him and his agency appointees more leeway in the hiring and firing of federal employees deemed disloyal, a move that critics say politicizes civil service and could lead to career officials being pushed out for political reasons.\n"
     publishedDateTime: 2020-10-23T15:16:48Z

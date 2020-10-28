@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 928
         isCached: true
+  - title: "Trump praises himself for not being a 'typical politician.' That line worked in 2016, but former supporters now see it as 'lack of experience.'"
+    excerpt: "\"We need somebody that has experience, who knows what to do, knows what to say,\" a former Trump supporter who now supports Biden said."
+    publishedDateTime: 2020-10-28T11:51:00Z
+    webUrl: "https://www.businessinsider.com/former-trump-supporters-support-biden-typical-politican-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/former-trump-supporters-support-biden-typical-politican-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-trump-supporters-support-biden-typical-politican-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "jcU1BjcmiKujGPVSGgmUblA0MD1KeGt7GutDXOGGIdn/qfcI2CCsw3jn2ys8leV+MEus9CKxFap8SXtDYGr3w/D1b016lPiHljxVIlD/ekCWWCaR5FvvPRgWqCuJPSrQ/VS23PgPevPFdFPBJLEo9Sk7WYLWC+c0EEVVVUUrVfcaWHBblTtLIAAxjEmcyTNyHKRX1TOiIc94z9o8aLXIPKNSSHK7KijbszqapOrOJUZ5yafqTve4W19YTgG9ygpA/o8XkXv4UcEUN2x7yvIczDf4xjfEMcxVZ9yeqUV/qhT91kwJ33KcE72fozHOZoW2KxxQ9gWMf+2MAJNqDj/eauNsYr50CqgTVAseEodPW/E=;AwoCG03YDCheBfbj64vnVw=="
 ---

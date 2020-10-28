@@ -2,6 +2,105 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-22-biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.md",
+      "title": "Biden faces backlash for saying 'America was an idea' that 'we've never lived up to'",
+      "excerpt": "Joe Biden was facing intense backlash Wednesday night for referring to America as an \"idea\" that \"we've never lived up to.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f93da98f-cf85-410a-865f-986bff199415/14f02d01-20fb-42ab-be54-7fb6e3dfe8d7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp",
+      "publishedDateTime": "2020-10-21T23:52:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-gallery-pence-visits-the-granite-state.md",
+      "title": "Gallery: Pence visits the Granite State",
+      "excerpt": "Visit the post for more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/",
+      "originalUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems15-1.jpg?w=1024&h=627",
+          "width": 1024,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
+      "publishedDateTime": "2020-10-21T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-ingraham-democrats-hiding-true-agenda-from-middle-working-class-by-trotting-out-biden-cliches.md",
       "title": "Ingraham: Democrats hiding 'true agenda' from middle, working class by trotting out Biden cliches",
       "excerpt": "President Trump, not Joe Biden, is the candidate who truly fights for the working class, Laura Ingraham argued Wednesday on \"The Ingraham Angle.\"",
@@ -283,6 +382,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-22-an-angry-trump-enters-final-debate-as-advisers-hope-for-some-chill.md",
+      "title": "An 'angry' Trump enters final debate as advisers hope for some chill",
+      "excerpt": "After his abrasive debate performance in September, President Donald Trump walked off stage believing he had won. It was only in the ensuing hours, as he watched clips of his constant interruptions and irate demeanor play on television, that he recognized how poorly his conduct came across.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KP2UhXlOuEk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KP2UhXlOuEk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201021160110-01-donald-trump-0929-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html",
+      "publishedDateTime": "2020-10-21T17:00:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-blackburn-trump-should-focus-on-his-incredible-record-at-presidential-debate-not-biden-inc.md",
       "title": "Blackburn: Trump should focus on his 'incredible record' at presidential debate, not 'Biden Inc.'",
       "excerpt": "President Trump should focus on his own accomplishments during Thursday night's second and final presidential debate against Joe Biden, Sen. Marsha Blackburn, R-Tenn., told \"Special Report\" Wednesday.",
@@ -435,6 +590,62 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-trump-administration-notifies-congress-of-18b-in-proposed-weapons-sales-to-taiwan.md",
+      "title": "Trump administration notifies Congress of $1.8B in proposed weapons sales to Taiwan ",
+      "excerpt": "The US formally notified Congress of a proposed $1.8 billion in advanced weapons systems sales to Taiwan -- a move sure to increase tensions with Beijing.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jL8O3RBxnEw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jL8O3RBxnEw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/taiwan-arms-sales-formal-notification/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/taiwan-arms-sales-formal-notification/index.html",
+      "publishedDateTime": "2020-10-21T15:10:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -593,62 +804,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-21-trump-administration-continues-to-send-mixed-messages-about-future-of-us-troops-in-afghanistan.md",
-      "title": "Trump administration continues to send mixed messages about future of US troops in Afghanistan",
-      "excerpt": "The Trump administration continued to send contradictory messages about the future of US troops in Afghanistan on Wednesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n8CGetyeKJI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n8CGetyeKJI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190908155230-afghanistan-us-soldiers-file-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/us-troops-afghanistan-obrien-hutchison/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/us-troops-afghanistan-obrien-hutchison/index.html",
-      "publishedDateTime": "2020-10-21T13:03:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-21-inside-melania-trumps-unprecedented-campaign-trail-absence.md",
       "title": "Inside Melania Trump's unprecedented campaign trail absence",
       "excerpt": "First lady Melania Trump -- in a historic break from precedent -- has yet to set foot on the campaign trail this year even as her husband, President Donald Trump, fights for votes, especially among suburban White women with whom she could hold appeal.\n    \n",
@@ -661,7 +816,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 475,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -1165,171 +1320,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-retired-navy-seal-william-mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-as-crazy-as-denying-the-moon-landing.md",
-      "title": "Retired Navy SEAL William McRaven says bin Laden conspiracy theory Trump boosted is as 'crazy' as denying the moon landing",
-      "excerpt": "\"By promoting this crazy conspiracy theory, you really disrespected those guys that went on the mission,\" McRaven said to CNN on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10",
-      "originalUrl": "https://www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8f7cd1dace450018a3e57d?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10?amp",
-      "publishedDateTime": "2020-10-20T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-tiffany-trump-says-her-father-has-always-supported-lgbtq-people.md",
-      "title": "Tiffany Trump says her father 'has always supported' LGBTQ people",
-      "excerpt": "\"Prior to politics, he supported gays, lesbians, the LGBQIA+ community,\" she said of the president at a Trump Pride event in Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/tiffany-trump-says-her-father-has-always-supported-lgbtq-people-n1244078",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/tiffany-trump-says-her-father-has-always-supported-lgbtq-people-n1244078",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/tiff-trump-pride.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244078",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244078",
-      "publishedDateTime": "2020-10-20T18:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-new-york-times-tax-records-show-trump-maintains-chinese-bank-account.md",
-      "title": "New York Times: Tax records show Trump maintains Chinese bank account ",
-      "excerpt": "President Donald Trump's tax records show he has pursued expansive business projects in China for years and even maintains a Chinese bank account, The New York Times reported Tuesday, disclosures that deal a blow to the President's efforts to paint Democratic nominee Joe Biden as the presidential candidate",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RJz7Px1UJvY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RJz7Px1UJvY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201020081317-donald-trump-air-force-one-1019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/20/politics/trump-china-taxes-financial-records/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-china-taxes-financial-records/index.html",
-      "publishedDateTime": "2020-10-20T18:41:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/trump-european-union-dip
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/trump-european-union-diplomacy-intl-analysis/index.html"
 type: article
 quality: 162
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Contact tracers scramble to find people infected by Trump and his entourage"
+    excerpt: "The possibility that the president and his entourage have become traveling superspreaders is a nightmare scenario for officials in the four states he visited in the last week."
+    publishedDateTime: 2020-10-02T23:10:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/14/83/e0cf91bd4b3887707e2a394d5fb1/201002-trump-pa-rally-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "IHoWK5uHC2GZc0UTBXQmd1TUGN/u6Ktuew67wuHIswXRr4HOhMxgGGeTgrkDt0Dn+STdVuhRYZYVEgYksCxWjo2aJnY+r3FUpFCCtLOcb1VqcOseJ6tnBwnuDwaMbm/g74Njd1iP7DM7IkCz4szTE+/GIZY19f0EyyOZK5h9BG74vPZpXQJ9TiJ57FJnxWSbuisTo/R4l2lsFG7dgnpbvSmY3VYPh7lYHUvCGxAwzX7fmagOnVyBqzGQ7/BgNeVOpxX+9orInhNEb08zmFPuaT8Gri7ikxO4qFcYNRk1rUag4C3eiGK6gncvz+Tl0Fv/qeG71TK5A5ENuw8wIL3Ilp06uSbMHhudO9wvnIIDl3Q=;ZFJyTLYjkh9runl4bMIGmg=="
 ---

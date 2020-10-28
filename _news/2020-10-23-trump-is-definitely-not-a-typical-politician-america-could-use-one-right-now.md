@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/23/trump-is-definite
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/?outputType=amp"
 type: article
 quality: 120
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump praises himself for not being a 'typical politician.' That line worked in 2016, but former supporters now see it as 'lack of experience.'"
+    excerpt: "\"We need somebody that has experience, who knows what to do, knows what to say,\" a former Trump supporter who now supports Biden said."
+    publishedDateTime: 2020-10-28T11:51:00Z
+    webUrl: "https://www.businessinsider.com/former-trump-supporters-support-biden-typical-politican-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/former-trump-supporters-support-biden-typical-politican-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-trump-supporters-support-biden-typical-politican-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How Donald Trump’s ‘America first’ agenda has damaged global human rights"
     excerpt: "The Trump administration's overt transgressions of international norms embolden other world leaders to violate human rights."
     publishedDateTime: 2020-10-22T13:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house-biden/index.html"
 type: article
 quality: 175
-heat: 555
+heat: 595
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009111757-02-cunningham-tillis-debate-1001-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "'I am feeling well!': Trump gives update on Twitter"
+    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center on Friday, the same day he announced he and first lady Melania Trump had tested positive for Covid-19. The president was \"doing very well\" and did not require supplemental oxygen,"
+    publishedDateTime: 2020-10-04T03:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241990"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "‘Don’t Be Afraid of Covid,’ Trump Says. But Many Are."
     excerpt: "Readers discuss the president’s comments and removal of his mask upon his return from the hospital, and the “world-class care” he received compared with that available to others."
@@ -296,6 +312,22 @@ related:
       - url: "https://static.politico.com/dd/98/543c5dcf457192472a4ec33989f6/ap20184626091205-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Everything We Know About When Trump Got Sick, His Treatment, And How He Is Now"
+    excerpt: "He is currently being treated at Walter Reed medical center. How exactly is he doing and how long has he been ill? That is more up in the air than I think most American citizens would prefer! Here’s everything we know—and everything we don’t—regarding the timeline of when he was diagnosed,"
+    publishedDateTime: 2020-10-03T20:23:00Z
+    webUrl: "https://slate.com/technology/2020/10/trump-covid-timeline-questions.html"
+    ampWebUrl: "https://slate.com/technology/2020/10/trump-covid-timeline-questions.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/10/trump-covid-timeline-questions.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 81
+    images:
+      - url: "https://compote.slate.com/images/59762ffc-7a8b-48da-be82-7f52858f9245.jpeg?width=780&height=520&rect=3864x2576&offset=136x0"
+        width: 780
+        height: 520
         isCached: true
   - title: "Remembering Wayne Barrett, the Journalist Who Saw Trump Coming Decades Ago"
     excerpt: "He taught us to dig. That the facts were knowable, written down and filed somewhere. That facts steadfastly accumulated could reveal what was hidden and be agents of justice."

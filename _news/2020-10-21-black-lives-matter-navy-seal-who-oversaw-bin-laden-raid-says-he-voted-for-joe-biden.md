@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Flight attendant union endorses Biden"
+    excerpt: "A top flight attendant union endorsed Democratic nominee Joe Biden for president on Tuesday while the air travel industry pleads for relief from Congress and the administration."
+    publishedDateTime: 2020-10-27T21:46:00Z
+    webUrl: "https://thehill.com/homenews/campaign/523031-flight-attendant-union-endorses-biden"
+    ampWebUrl: "https://thehill.com/homenews/campaign/523031-flight-attendant-union-endorses-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523031-flight-attendant-union-endorses-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/nelsonsarah_flight_attendants_012419gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "If Joe Biden loses, it probably won’t be because of an increase in GOP voter registration"
     excerpt: "Voter registration numbers recently released in Florida, North Carolina and Pennsylvania are not necessarily a sign of some significant underlying shift."
     publishedDateTime: 2020-10-22T17:24:00Z

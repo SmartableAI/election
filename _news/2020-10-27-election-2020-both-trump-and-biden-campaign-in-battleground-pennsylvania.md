@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 3014
+heat: 3034
 published: true
 
 provider:
@@ -750,6 +750,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539071001&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R05R"
         width: 817
         height: 545
+        isCached: true
+  - title: "As Trump, Biden hammer at swing states, advocates work to dismantle Electoral College"
+    excerpt: "Activists say adopting a national popular vote would force campaigns to broaden their outreach, while critics say it gives cities too much power."
+    publishedDateTime: 2020-10-28T10:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/28/election-results-and-electoral-college-pick-next-president/4718619002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4718619002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4718619002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/14/USAT/5c268ab8-b7c4-4163-8934-f393aa2a25f3-AP_Electoral_College_Alabama.JPG?auto=webp&crop=2399,1350,x0,y123&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Election 2020 live updates: Melania Trump delivers pointed political attack on trail"
     excerpt: "President Donald Trump has campaign rallies in Michigan, Wisconsin and Nebraska on Tuesday while former Vice President Joe Biden spends the day in Georgia."
