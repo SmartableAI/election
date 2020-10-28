@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
 type: article
 quality: 171
-heat: 211
+heat: 191
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump claims Obama 'campaigning for us' after former president's scathing rebuke"
-    excerpt: "President Trump claimed that former President Obama was campaigning for him “every time he speaks,” after Trump’s predecessor slammed him at a rally for Joe Biden Wednesday night. "
-    publishedDateTime: 2020-10-22T21:00:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xDnpvv7VpU/trump-obama-campaigning-for-us"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-obama-campaigning-for-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-obama-campaigning-for-us.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Obama-Trump-AP.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Rove breaks down Trump's 'path to victory' through Michigan, Pennsylvania, Wisconsin"
     excerpt: "The fate of President Trump's reelection bid will ultimately come down to the three battleground states that put him over the top in 2016: Michigan, Wisconsin, and Pennsylvania, former George W. Bush adviser Karl Rove predicted Monday."
     publishedDateTime: 2020-10-27T00:49:46Z

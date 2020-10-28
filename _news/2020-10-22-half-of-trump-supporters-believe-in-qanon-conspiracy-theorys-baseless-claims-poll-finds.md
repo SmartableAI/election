@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 1025
         isCached: true
+  - title: "Trump's Instinct to Attack Helped Win Him the White House. Now It May Be His Undoing"
+    excerpt: "President Donald Trump’s campaign is ramping up the pace of the President’s travel, preparing to hold three rallies a day next week. But Republican strategists warn that more Trump isn’t ..."
+    publishedDateTime: 2020-10-13T23:59:00Z
+    webUrl: "https://time.com/5900987/trump-campaign-message-distraction/"
+    ampWebUrl: "https://time.com/5900987/trump-campaign-message-distraction/"
+    cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5900987/trump-campaign-message-distraction/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 118
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/doug-mills-donald-trump-campaign-rally-2020.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Romney Slams Trump For Refusing To Denounce QAnon, But Says Left Should Condemn Antifa, Too"
     excerpt: "As parties rush down a rabbit hole, they may be opening the door to a political movement that could eventually eclipse them both,” he said."
     publishedDateTime: 2020-10-16T17:21:00Z

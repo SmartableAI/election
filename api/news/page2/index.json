@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-27-election-7-days-away-biden-picks-up-campaign-pace-as-trump-barnstorms-swing-states.md",
+      "title": "Election 7 days away: Biden picks up campaign pace as Trump barnstorms swing states",
+      "excerpt": "President Trump is embarking on a campaign swing through key battleground states with the November election just one week away, as Democratic rival Joe Biden picks up the pace of his travel with a planned trip to reliably red Georgia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y341n3Gsk5E/trump-biden-presidential-campaign-november-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y341n3Gsk5E/trump-biden-presidential-campaign-november-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 859,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230f52b5-e037-423b-befd-decdc0aec4bb/fb87aa77-b8d5-474e-8b02-5f88d81f5529/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-presidential-campaign-november-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-november-election.amp",
+      "publishedDateTime": "2020-10-27T05:31:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company.md",
       "title": "No Dividends, No Problem: Trump Megadonor Sheldon Adelson Has Given At Least $180 Million This Year, Despite Troubles At His Company",
       "excerpt": "Regardless of what happens with his casino empire, Sheldon Adelson has more than enough cash to remain one of the biggest political donors in the country.",
@@ -214,7 +270,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2954,
+      "heat": 3014,
       "tags": null,
       "images": [
         {
@@ -1293,58 +1349,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-journalist-peggy-noonan-blasted-for-calling-kamala-harris-dancing-embarrassing.md",
-      "title": "Journalist Peggy Noonan Blasted For Calling Kamala Harris’ Dancing ‘Embarrassing’",
-      "excerpt": "Wall Street Journal columnist Peggy Noonan was heavily criticized for her comments on Sen. Kamala Harris in a recent op-ed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/journalist-peggy-noonan-blasted-calling-kamala-harris-dancing-embarrassing-3070034",
-      "originalUrl": "https://www.ibtimes.com/journalist-peggy-noonan-blasted-calling-kamala-harris-dancing-embarrassing-3070034",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/kamala-harris.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/journalist-peggy-noonan-blasted-calling-kamala-harris-dancing-embarrassing-3070034?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/journalist-peggy-noonan-blasted-calling-kamala-harris-dancing-embarrassing-3070034?amp=1",
-      "publishedDateTime": "2020-10-26T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

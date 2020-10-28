@@ -6,11 +6,11 @@
       "title": "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week",
       "excerpt": "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won.",
       "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
-      "originalUrl": "https://www.freep.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
+      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
+      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/3754115001",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3754115001",
-      "publishedDateTime": "2020-10-27T18:33:00-07:00",
+      "ampWebUrl": "https://amp.azcentral.com/amp/3754115001",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001",
+      "publishedDateTime": "2020-10-27T22:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Mike Pence",
+        "Joe Biden"
       ]
     },
     {
@@ -1509,7 +1510,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 513,
+      "heat": 533,
       "tags": null,
       "images": [
         {

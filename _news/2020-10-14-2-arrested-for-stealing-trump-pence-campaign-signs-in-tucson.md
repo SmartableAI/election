@@ -2626,6 +2626,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Donald Trump Jr. rallies supporters outside Statehouse ahead of father's visit"
+    excerpt: "FOR A WARMUP OF SORTS. (áááPKGááá) <57;08 WHAT'S GOIN ON GUYS?> DONALD TRUMP JR. SPOKE TO ABOUT 150 SUPPORTERS OF áPRESIDENT TRUMP ON THE STEPS OF THE STATEHOUSE TUESDAY -- AHEAD OF HIS ..."
+    publishedDateTime: 2020-10-13T23:26:00Z
+    webUrl: "https://www.kcci.com/article/donald-trump-jr-visits-des-moines/34363675"
+    ampWebUrl: "https://www.kcci.com/amp/article/donald-trump-jr-visits-des-moines/34363675"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/donald-trump-jr-visits-des-moines/34363675"
+    type: article
+    provider:
+      name: KCCI Des Moines
+      domain: kcci.com
+    quality: 71
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/ba3839f6-8149-43c9-aabc-388ed3ec92a3/ba3839f6-8149-43c9-aabc-388ed3ec92a3_image.jpg?crop=0.785xw:0.786xh;0.126xw,0&resize=1200:*"
+        width: 1005
+        height: 566
+        isCached: true
   - title: "Donald Trump administration to face more lawsuits challenging H-1B rules close to two weeks before elections"
     excerpt: "B workers and also made qualifying for H-1B visa tougher. First of the lawsuit filed by US IT companies on October 16 was against the wage hike rule. Two more are likely to follow in the coming days,"
     publishedDateTime: 2020-10-18T07:32:00Z

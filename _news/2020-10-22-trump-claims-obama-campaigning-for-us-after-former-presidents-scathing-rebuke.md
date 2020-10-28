@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tiffany Trump hitting campaign trail in NC, Michigan, other battleground states"
-    excerpt: "President Trump's youngest daughter, Tiffany Trump, will be campaigning for her father in four battleground states, North Carolina, Pennsylvania, Michigan and Minnesota, after keeping a low profile during the 2016 campaign."
-    publishedDateTime: 2020-10-26T13:00:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N8961wMi8CY/tiffany-trump-2020-campaign-trail-trump-daughter"
-    ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
+  - title: "Trump campaign website briefly defaced by hackers making outlandish claims"
+    excerpt: "President Trump’s campaign website was briefly hacked Tuesday, according to reports."
+    publishedDateTime: 2020-10-28T07:08:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/koSNkPEs6Ec/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297040355134.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Rove breaks down Trump's 'path to victory' through Michigan, Pennsylvania, Wisconsin"
-    excerpt: "The fate of President Trump's reelection bid will ultimately come down to the three battleground states that put him over the top in 2016: Michigan, Wisconsin, and Pennsylvania, former George W. Bush adviser Karl Rove predicted Monday."
-    publishedDateTime: 2020-10-27T00:49:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nmAKogyMUxU/rove-trump-path-victory-michigan-pennsylvania-wisconsin"
-    ampWebUrl: "https://www.foxnews.com/politics/rove-trump-path-victory-michigan-pennsylvania-wisconsin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rove-trump-path-victory-michigan-pennsylvania-wisconsin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230f52b5-e037-423b-befd-decdc0aec4bb/fb87aa77-b8d5-474e-8b02-5f88d81f5529/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/beba87ae-315f-4d4f-af9c-349ea7c729e2/cfc957e4-d7a5-46c7-86eb-cab2922961e9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

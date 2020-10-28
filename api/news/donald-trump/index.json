@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-28-trump-and-the-boaty-mcboatfacing-of-america.md",
+      "title": "Trump and the Boaty McBoatfacing of America",
+      "excerpt": "Mr. Trump and his circle dumbfounded and afraid. Don Jr. told a friend that his father “looked as if he had seen a ghost. Melania was in tears — and not of joy.” Steve Bannon, according to Mr. Wolff,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/28/opinion/trump-boaty-mcboatface.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/28/opinion/trump-boaty-mcboatface.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/28/opinion/28boylan-01/28boylan-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/28/opinion/trump-boaty-mcboatface.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/28/opinion/trump-boaty-mcboatface.amp.html",
+      "publishedDateTime": "2020-10-28T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-we-need-you-gop-hunts-for-new-voters-in-trump-territory.md",
       "title": "‘We need you’: GOP hunts for new voters in Trump territory",
       "excerpt": "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time",
@@ -198,63 +255,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-dems-struggle-in-rural-america-as-trump-holds-steady.md",
-      "title": "Dems struggle in rural America as Trump holds steady",
-      "excerpt": "But it’s a different story in some pockets of rural America. Long-tenured House Democrats from Oregon timber country to Midwest dairy land are watching their reelection races tighten even as their party presses for bigger gains in nearly every major metro area in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/27/house-democrats-rural-america-431296",
-      "originalUrl": "https://www.politico.com/news/2020/10/27/house-democrats-rural-america-431296",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/96/00/92fe63b04b4d84fb9fcfdf6419af/200129-peter-defazio-ap-773.jpg",
-          "width": 4148,
-          "height": 2764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -627,7 +627,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2954,
+      "heat": 3014,
       "tags": null,
       "images": [
         {

@@ -59,6 +59,22 @@ related:
         width: 646
         height: 363
         isCached: true
+  - title: "Joe Biden looks like a safe pair of hands for the US economy"
+    excerpt: "Contrary to popular belief, Democratic presidents have been better for the economy than Republicans"
+    publishedDateTime: 2020-10-28T07:00:00Z
+    webUrl: "https://www.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy"
+    ampWebUrl: "https://amp.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/b8147904e132d78468aab14375d97c0ad91cb23d/0_87_5304_3182/master/5304.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25238f8ed303e9d2146e0c5164c0eb95"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Watch live: Biden holds campaign event in Atlanta"
     excerpt: "Democratic presidential nominee Joe Biden is set to hold a drive-in campaign event in Atlanta, Ga., on Tuesday evening.The event is scheduled to begin at 5 p.m. EDT.Watch the live video above."
     publishedDateTime: 2020-10-27T21:52:00Z

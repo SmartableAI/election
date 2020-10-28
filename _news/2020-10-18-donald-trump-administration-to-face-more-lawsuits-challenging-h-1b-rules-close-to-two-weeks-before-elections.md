@@ -2641,6 +2641,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Donald Trump Jr. rallies supporters outside Statehouse ahead of father's visit"
+    excerpt: "FOR A WARMUP OF SORTS. (áááPKGááá) <57;08 WHAT'S GOIN ON GUYS?> DONALD TRUMP JR. SPOKE TO ABOUT 150 SUPPORTERS OF áPRESIDENT TRUMP ON THE STEPS OF THE STATEHOUSE TUESDAY -- AHEAD OF HIS ..."
+    publishedDateTime: 2020-10-13T23:26:00Z
+    webUrl: "https://www.kcci.com/article/donald-trump-jr-visits-des-moines/34363675"
+    ampWebUrl: "https://www.kcci.com/amp/article/donald-trump-jr-visits-des-moines/34363675"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/donald-trump-jr-visits-des-moines/34363675"
+    type: article
+    provider:
+      name: KCCI Des Moines
+      domain: kcci.com
+    quality: 71
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/ba3839f6-8149-43c9-aabc-388ed3ec92a3/ba3839f6-8149-43c9-aabc-388ed3ec92a3_image.jpg?crop=0.785xw:0.786xh;0.126xw,0&resize=1200:*"
+        width: 1005
+        height: 566
+        isCached: true
   - title: "Claiming Covid-19 Immunity, Trump Hits The Election Trail Again"
     excerpt: "US President Donald Trump will launch a campaign marathon Monday, holding rallies in three key swing states over the next few days as his White House race against surging rival Joe Biden enters its critical final weeks."
     publishedDateTime: 2020-10-12T05:40:00Z

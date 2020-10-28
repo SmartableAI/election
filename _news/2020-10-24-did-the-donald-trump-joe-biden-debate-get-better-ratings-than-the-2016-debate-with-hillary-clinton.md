@@ -558,6 +558,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump questions counting late ballots as Biden preaches unity in Georgia"
+    excerpt: "Republican President Donald Trump questioned the integrity of the U.S. election again on Tuesday, saying it would be \"inappropriate\" to take extra time to count the tens of millions of ballots cast by mail in his race against Democrat Joe Biden."
+    publishedDateTime: 2020-10-28T03:41:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/democrats-push-into-trump-country-as-biden-visits-georgia-bloomberg-funds-texas-ads-idUSKBN27C25G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0E3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0E3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539059013&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R02V"
+        width: 816
+        height: 545
+        isCached: true
   - title: "With time running out, Trump to launch attacks on Biden's family at debate"
     excerpt: "U.S. President Donald Trump is expected to come out swinging in Thursday's final presidential debate with Democratic rival Joe Biden to try to close a gap in opinion polls before an election 12 days away."
     publishedDateTime: 2020-10-23T01:15:00Z
@@ -942,6 +958,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Poll: Susan Collins trails challenger Sara Gideon by small margin; Biden leading Trump statewide"
+    excerpt: "\"If (Collins) doesn't get a lot of split ticket voters ... she's going to return to private life,\" the lead researcher told USA TODAY."
+    publishedDateTime: 2020-10-28T09:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/28/maine-poll-susan-collins-sarah-gideon-close-race-biden-leads-trump/3754874001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3754874001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3754874001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/362df6ee-658b-4a7f-aa97-fc2a230f662b-Susan_Collins_Sara_Gideon.jpg?auto=webp&crop=2511,1413,x0,y73&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "As campaign enters final stretch, Trump and Biden scrap on oil and the worsening COVID-19 pandemic"
     excerpt: "The surge of activity with just 11 days remaining in the 2020 contest highlighted the candidates' divergent strategies."
     publishedDateTime: 2020-10-23T16:56:00Z
@@ -1021,6 +1053,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_102420getty_fav.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "WATCH: Joe Biden holds campaign event in Atlanta"
+    excerpt: "Joe Biden is going on offense in the final week before Election Day, heading Tuesday to Georgia and planning travel that may put President Donald Trump on defense in other states he won four years ago."
+    publishedDateTime: 2020-10-27T19:24:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-campaign-event-in-atlanta"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-campaign-event-in-atlanta"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-campaign-event-in-atlanta"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-16T184519Z_1096142081_RC2UJJ9MSE4N_RTRMADP_3_USA-ELECTION-BIDEN-1024x682.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "WATCH LIVE: Joe Biden holds campaign event in Atlanta"
     excerpt: "Joe Biden is going on offense in the final week before Election Day, heading Tuesday to Georgia and planning travel that may put President Donald Trump on defense in other states he won four years ago."

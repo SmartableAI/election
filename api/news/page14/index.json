@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-14-suburban-women-will-you-please-like-me-trump-attempts-to-appeal-to-voter-group-he-has-struggled-to-reach.md",
+      "title": "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach",
+      "excerpt": "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8644e9fd1f49001964d784?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp",
+      "publishedDateTime": "2020-10-13T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-trump-to-coronavirus-victims-i-feel-your-pain-because-ive-felt-your-pain.md",
       "title": "Trump to coronavirus victims: 'I feel your pain because I've felt your pain'",
       "excerpt": "The president told a crowd in Johnstown, Pennsylvania, that he \"felt like Superman\" after getting an experimental drug treatment for Covid-19 and that he's now \"immune.\"",
@@ -374,6 +426,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-trump-hasnt-saved-christianity-and-christians-shouldnt-save-his-presidency.md",
+      "title": "Trump hasn’t 'saved Christianity' and Christians shouldn’t save his presidency",
+      "excerpt": "President Donald Trump’s campaign is making a closing argument that he has “saved Christianity,” a blasphemous claim that in reality is aimed at getting people of faith to save him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/opinion/2020/10/13/trump-and-christianity-no-he-did-not-save-christianity-column/5962278002/",
+      "originalUrl": "https://www.azcentral.com/story/opinion/2020/10/13/trump-and-christianity-no-he-did-not-save-christianity-column/5962278002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/5962278002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5962278002",
+      "publishedDateTime": "2020-10-13T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -776,7 +871,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10680,
+      "heat": 10700,
       "tags": null,
       "images": [
         {
@@ -1211,105 +1306,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-trump-touts-his-covid-19-treatment-in-first-rally-since-diagnosis.md",
-      "title": "Trump touts his COVID-19 treatment in first rally since diagnosis",
-      "excerpt": "President Trump hailed the medical care received in his first rally since testing positive for the coronavirus, vowing to a crowd in Sanford, Florida that he would ensure the whole country enjoyed the type of treatment he received.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ed56aWGnxWY/trump-rally-florida-coronavirus-treatment-positive",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ed56aWGnxWY/trump-rally-florida-coronavirus-treatment-positive",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31790f6b-ec92-43ef-8975-b267c39de1ad/50309679-a9dd-431d-8943-98675c68aa9e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp",
-      "publishedDateTime": "2020-10-12T18:02:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-former-ohio-state-qb-cardale-jones-gets-shout-out-from-vice-president-mike-pence.md",
-      "title": "Former Ohio State QB Cardale Jones gets shout out from Vice President Mike Pence",
-      "excerpt": "Former Ohio State University quarterback Cardale Jones, and the Buckeyes' national football championship, earned a shout out from Vice President Mike Pence as he spoke at a Columbus rally on Monday. But the Cleveland native,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dispatch.com/story/news/politics/elections/presidential/2020/10/12/former-ohio-state-qb-cardale-jones-attendance-pence-rally/5929861002/",
-      "originalUrl": "https://www.dispatch.com/story/news/politics/elections/presidential/2020/10/12/former-ohio-state-qb-cardale-jones-attendance-pence-rally/5929861002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/NCOD/37bc8937-e0d5-424e-8b6a-18133a358b79-pence_inside_ac_02.JPG?auto=webp&crop=3384,1904,x0,y243&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.dispatch.com/amp/5929861002",
-      "cdnAmpWebUrl": "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/5929861002",
-      "publishedDateTime": "2020-10-12T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Columbus Dispatch",
-        "domain": "dispatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

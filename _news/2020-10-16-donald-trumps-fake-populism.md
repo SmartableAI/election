@@ -176,6 +176,22 @@ related:
         width: 2500
         height: 1669
         isCached: true
+  - title: "Lesley Stahl challenges Pence on Trump's '60 Minutes' meltdown"
+    excerpt: "\"60 Minutes\" host Lesley Stahl challenged Vice President Pence on President Trump's decision to storm out of his int"
+    publishedDateTime: 2020-10-26T04:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244723"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244646"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244646"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Science journal editor calls out Trump administration"
     excerpt: "H. Holden Thorp wrote that the FDA Commissioner was pressured by the White House to overstate the benefits of convalescent plasma."
     publishedDateTime: 2020-10-15T18:03:00Z

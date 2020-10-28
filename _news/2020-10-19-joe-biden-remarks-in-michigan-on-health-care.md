@@ -85,13 +85,15 @@ related:
         isCached: true
   - title: "Joe Biden makes last-minute plea to Hispanic voters in 11 states, including Texas"
     excerpt: "With polls showing Joe Biden still doesn’t have enough support from Hispanic voters, his campaign has launched 5 new Spanish language ads airing in Texas and 10 other states."
-    publishedDateTime: 2020-10-28T01:31:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
+    publishedDateTime: 2020-10-27T17:56:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Joe-Biden-makes-last-minute-plea-to-Hispanic-15678638.php"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 50
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
     images:
       - url: "https://s.hdnux.com/photos/01/14/65/42/20142261/7/rawImage.jpg"
         width: 2048

@@ -3892,6 +3892,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "It's not easy being the first but for Kamala Harris it has become a habit"
+    excerpt: "Facebook Twitter Pinterest This January 1970 photo provided by the Kamala Harris campaign shows her, left, with her sister, Maya, and mother, Shyamala, outside their apartment in Berkeley ..."
+    publishedDateTime: 2020-10-14T08:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 104
+    images:
+      - url: "https://i.guim.co.uk/img/media/d2d72d3b0fdf26d32badfd8ca46dbf5d36ce8eee/1084_1026_2734_1641/master/2734.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a005aa63fe45ea4004f7e891c1b1591"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How sexist, racist attacks on Kamala Harris have spread online — a case study"
     excerpt: "Kamala D. Harris (D-Calif.) found that a solid 54 percent of Americans approved, while only 29 percent had a negative opinion. But in the fetid corners of the Internet, a different set of plotlines took hold."
     publishedDateTime: 2020-10-07T16:45:00Z

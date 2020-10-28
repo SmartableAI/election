@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-conspiracy-th
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/63KJTAQSQII6XISYMFFM6K4QNU.jpg&w=1440"
         width: 1280
         height: 1025
+        isCached: true
+  - title: "Trump's Instinct to Attack Helped Win Him the White House. Now It May Be His Undoing"
+    excerpt: "President Donald Trump’s campaign is ramping up the pace of the President’s travel, preparing to hold three rallies a day next week. But Republican strategists warn that more Trump isn’t ..."
+    publishedDateTime: 2020-10-13T23:59:00Z
+    webUrl: "https://time.com/5900987/trump-campaign-message-distraction/"
+    ampWebUrl: "https://time.com/5900987/trump-campaign-message-distraction/"
+    cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5900987/trump-campaign-message-distraction/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 118
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/doug-mills-donald-trump-campaign-rally-2020.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Half of Trump supporters believe in QAnon conspiracy theory's baseless claims, poll finds"
     excerpt: "Half of Trump supporters — whether they'd heard of QAnon or not — said they believe the core tenets of the conspiracy."

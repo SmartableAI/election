@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump claims Obama 'campaigning for us' after former president's scathing rebuke"
-    excerpt: "President Trump claimed that former President Obama was campaigning for him “every time he speaks,” after Trump’s predecessor slammed him at a rally for Joe Biden Wednesday night. "
-    publishedDateTime: 2020-10-22T21:00:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xDnpvv7VpU/trump-obama-campaigning-for-us"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-obama-campaigning-for-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-obama-campaigning-for-us.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Obama-Trump-AP.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "oH6whsx7QaErV+cfvs9YlKhNdaC1ef9+O880R4KWxnMF+/9bEJgu4U+jsGlA7CkRBO24osrr9MVZh1r5kXkyP1PFmziMkOjt0mNC7pJxyrxcgQnMWZJN7tJVCPHdaJuDZLerB1KTY0xVwc0a0sYa0cDet6c/e4Iaz8ASjSmrtm+bQ5+SsmGpVO0OiJgFwh0dg5uLXduuZCiOHkgBdal/vmmEz9lov9cRrpL6yBt32CHWKqQSpRrkZE2mM8q03J8Yl0Wa4shgZf0IopY9eYa4YxCzsc4c3o+L6cFRpcOm6iGZuxZlvQkQDsVXr41jkNXPSwnF77/pYeV13iL1t6enoEkmQJz8jsbEvxzDpo0pFCA=;BCoNsvPwETDFfsWMCQuyCw=="
 ---

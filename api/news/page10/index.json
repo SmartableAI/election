@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-19-vice-president-mike-pence-to-hold-rally-monday-in-york-county.md",
+      "title": "Vice President Mike Pence to hold rally Monday in York County",
+      "excerpt": "Vice President Mike Pence will be in Fairview Township on Monday, holding a rally at the Capital City Airport in Fairview Township, according to President Donald Trump's website. The \"Make America Great Again!",
+      "sourceUrl": null,
+      "webUrl": "https://www.ydr.com/story/news/crime/2020/10/18/vice-president-mike-pence-hold-rally-monday-york-county/3703933001/",
+      "originalUrl": "https://www.ydr.com/story/news/crime/2020/10/18/vice-president-mike-pence-hold-rally-monday-york-county/3703933001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/30/PPYR/c302c7aa-57ec-4889-8356-201f2b62b871-PMK_8808.JPG?auto=webp&crop=4927,2772,x0,y495&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ydr.com/amp/3703933001",
+      "cdnAmpWebUrl": "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3703933001",
+      "publishedDateTime": "2020-10-18T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YDR",
+        "domain": "ydr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-trump-attends-church-service-in-las-vegas.md",
       "title": "Trump attends church service in Las Vegas",
       "excerpt": "U.S. President Donald Trump made a rare visit to church Sunday as he and Democratic rival Joe Biden campaigned across the country from one another. (Oct. 18)",
@@ -1242,58 +1285,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-watchdog-claims-trump-campaign-illegally-coordinated-with-a-super-pac-in-2016-through-its-work-with-cambridge-analytica.md",
-      "title": "Watchdog claims Trump campaign illegally coordinated with a Super PAC in 2016 through its work with Cambridge Analytica",
-      "excerpt": "The Campaign Legal Center claimed newly published emails showed Cambridge Analytica's overlapping work for the campaign and PAC violated federal law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f58a80ce6ff30001d4e7a9a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp",
-      "publishedDateTime": "2020-10-17T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
