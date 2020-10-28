@@ -384,6 +384,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Former ICE director blasts Biden for Obama administration’s immigration policy"
+    excerpt: "Former ICE Director Tom Homan on Saturday blasted 2020 Democratic presidential candidate Joe Biden for attacking the Trump administration about their apparent family separation policy."
+    publishedDateTime: 2020-10-25T02:24:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BSnLAExWIMk/former-ice-director-trump-biden-obama-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/former-ice-director-trump-biden-obama-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-ice-director-trump-biden-obama-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
     excerpt: "The backlash against Sen. Dianne Feinstein, D-Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,” Graham told “Fox & Friends\" Friday."
     publishedDateTime: 2020-10-16T20:05:56Z
@@ -816,22 +832,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6729064b-80bc-422e-b189-47661a5a1ba3/98ac0c8a-2d4f-40be-b442-1f78e38ba4b5/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Cher campaigning for Joe Biden in Nevada and Arizona"
-    excerpt: "Cher is getting out on the campaign trail for former Vice President Joe Biden and Sen. Kamala Harris. The campaign announced in an email obtained by Fox News on Thursday that the singer-actress, 74, will \"travel to Nevada and Arizona to campaign on behalf of Joe Biden and Kamala Harris."
-    publishedDateTime: 2020-10-22T17:13:00Z
-    webUrl: "https://www.foxnews.com/entertainment/cher-campaigning-biden-nevada-arizona"
-    ampWebUrl: "https://www.foxnews.com/entertainment/cher-campaigning-biden-nevada-arizona.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/cher-campaigning-biden-nevada-arizona.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Cher.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Hunter Biden partner speaking to FBI today after accusing Joe Biden"
     excerpt: "The former Hunter Biden business partner who on Thursday accused Democratic presidential candidate Joe Biden of lying about involvement in his son’s overseas business deals will speak Friday with"

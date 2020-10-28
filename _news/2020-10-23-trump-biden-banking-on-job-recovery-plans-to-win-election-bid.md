@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden calls himself Harris' running mate during campaign event in Atlanta"
+    excerpt: "Democratic presidential nominee Joe Biden jokingly introduced himself as Sen. Kamala Harris' running mate during the beginning of his stump speech in Atlanta on Tuesday."
+    publishedDateTime: 2020-10-28T13:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oTkrU_sDn3U/biden-harris-running-mate-campaign-event-atlanta"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-running-mate-campaign-event-atlanta.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-running-mate-campaign-event-atlanta.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 199
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20301662617518.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Hickenlooper follows lead of Biden and Harris, remains mum on court packing"
     excerpt: "Colorado Democratic senate challenger John Hickenlooper has followed in the footsteps of presidential nominee Joe Biden in refusing to take a position on packing the Supreme Court in the lead up to the Nov. 3 election."
     publishedDateTime: 2020-10-27T23:25:47Z
@@ -236,7 +252,7 @@ related:
   - title: "Kamala Harris Laughs When Asked If She Would Bring \"Socialist Or Progressive Perspective\" To Biden Administration"
     excerpt: "During an interview on CBS’ “60 Minutes” released Sunday, anchor Norah O’Donnell asked Sen. Kamala Harris about being listed as the \"most liberal\" senator by the nonpartisan GovTrack website. \"What I will do,"
     publishedDateTime: 2020-10-26T14:28:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/26/kamala_harris_laughs_when_asked_if_she_would_bring_socialist_or_progressive_perspective_to_biden_administration.html"
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/26/kamala_harris_laughs_when_asked_if_she_would_bring_socialist_or_progressive_perspective_to_biden_administration.html#!"
     type: article
     provider:
       name: RealClearPolitics

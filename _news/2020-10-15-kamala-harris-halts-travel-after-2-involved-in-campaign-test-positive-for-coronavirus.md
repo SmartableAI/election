@@ -96,54 +96,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden enters final stretch with large cash advantage over Trump"
-    excerpt: "Democratic presidential nominee Joe Biden had nearly three times as much cash in his campaign coffers than President Trump at the start of this month, according to the latest fundraising filings from both major party nominees."
-    publishedDateTime: 2020-10-21T14:36:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Lv0xCOy6JQ/biden-cash-advantage-over-trump-presidential-election"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cash-advantage-over-trump-presidential-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cash-advantage-over-trump-presidential-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20295013465553.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump claims Biden disrespected Obama with immigration answer at debate"
-    excerpt: "President Trump claimed that Joe Biden was “very disrespectful” to his former running mate President Obama. "
-    publishedDateTime: 2020-10-23T19:42:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XCugzB21ueE/trump-biden-disrespected-obama-immigration-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-disrespected-obama-immigration-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-disrespected-obama-immigration-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20297083042965-e1603466224157.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden vs. Trump: ObamaCare, access to health care in rural US impacts voters' decisions"
-    excerpt: "With only days until the 2020 presidential election, the topic of health care access, insurance and affordability is front and center in the minds of millions of Americans."
-    publishedDateTime: 2020-10-22T17:50:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W5VcaQJcRJk/biden-vs-trump-rural-health-care-access-obamacare-impacts-voter-decisions"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-vs-trump-rural-health-care-access-obamacare-impacts-voter-decisions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vs-trump-rural-health-care-access-obamacare-impacts-voter-decisions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/stephb.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Kamala Harris caught on hot mic checking rally location: 'Are we in Cleveland?'"
     excerpt: "A hot mic appeared to catch Democratic vice presidential nominee Sen. Kamala Harris checking her location before addressing supporters Saturday."
     publishedDateTime: 2020-10-25T04:04:10Z
@@ -288,38 +240,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Obama slams Trump at Biden rally, warns voters ‘we can’t be complacent'"
-    excerpt: "Former President Barack Obama took aim at his successor in the White House on Wednesday as he campaigned in-person for the first time for Democratic presidential nominee Joe Biden."
-    publishedDateTime: 2020-10-22T01:07:00Z
-    webUrl: "https://www.foxnews.com/politics/obama-slams-trump-warns-voters-we-cant-be-complacent-in-first-campaign-trail-appearance-for-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/obama-slams-trump-warns-voters-we-cant-be-complacent-in-first-campaign-trail-appearance-for-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-slams-trump-warns-voters-we-cant-be-complacent-in-first-campaign-trail-appearance-for-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20295802945154.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Kamala Harris reschedules Cleveland trip as Trump gains in Ohio polls"
-    excerpt: "Democratic vice presidential candidate Kamala Harris will hold a campaign event in Cleveland on Saturday as the Biden campaign attempts to rally support in the key battleground state of Ohio. Further details about Harris’ trip to Cleveland,"
-    publishedDateTime: 2020-10-22T22:06:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-cleveland-trip-trump-gains-ohio-polls"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-cleveland-trip-trump-gains-ohio-polls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-cleveland-trip-trump-gains-ohio-polls.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4e8ff0d-d9db-4626-b9da-37b669934c72/90e950f7-e76b-4303-9f45-717cf17942b1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Harris rips Barrett confirmation process as 'illegitimate,' claims nominee will 'undo' Ginsburg's legacy "
     excerpt: "Democratic vice presidential nominee Kamala Harris, a member of the Senate Judiciary Committee, slammed the panel for carrying out what she called an “illegitimate” process to confirm Judge Amy Coney Barrett to the Supreme Court before Election Day, while warning President Trump’s nominee for the high"
     publishedDateTime: 2020-10-12T17:39:58Z
@@ -349,38 +269,6 @@ related:
       - url: "https://images.wsj.net/im-244852/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "In Rust Belt states, data could make the difference for Trump"
-    excerpt: "With now just 11 days until the presidential election, incumbent Republican President Trump is increasingly focused on presenting his case to Rust Belt voters drifting towards Democratic challenger Joe Biden."
-    publishedDateTime: 2020-10-23T20:01:00Z
-    webUrl: "https://www.foxnews.com/politics/rust-belt-states-data-president-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/rust-belt-states-data-president-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rust-belt-states-data-president-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292007915773.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump faces confrontational questions at NBC News town hall"
-    excerpt: "Good evening, welcome to Washington. I'm Bret Baier. Breaking tonight, President Trump staking much of his reelection patch with just 2-1/2 weeks until voting day on his response to the coronavirus. As you see there live in Ocala,"
-    publishedDateTime: 2020-10-24T11:53:00Z
-    webUrl: "https://www.foxnews.com/transcript/trump-faces-confrontational-questions-at-nbc-news-town-hall"
-    ampWebUrl: "https://www.foxnews.com/transcript/trump-faces-confrontational-questions-at-nbc-news-town-hall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-faces-confrontational-questions-at-nbc-news-town-hall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7aa3c96a-79ab-42ad-8df9-6a33109c53c9/2d092bf2-3ce5-46cb-86bc-8ce076a4071c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Kamala Harris caught on hot mic checking rally location: 'Are we in Cleveland?'"
     excerpt: "A hot mic appeared to catch Democratic vice presidential nominee Sen. Kamala Harris checking her location before addressing supporters Saturday."

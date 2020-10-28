@@ -229,6 +229,22 @@ related:
         width: 1300
         height: 853
         isCached: true
+  - title: "Kamala Harris campaigns in Phoenix and Tucson on Wednesday as Election Day nears"
+    excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
+    publishedDateTime: 2020-10-28T13:08:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3750272001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3750272001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 85
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say | Charlotte Observer"
     excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
     publishedDateTime: 2020-10-22T03:59:00Z
@@ -482,6 +498,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/kamala-harris.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Bay Area political events: Women in politics, Kamala Harris chief of staff"
+    excerpt: "Chronicle columnist Heather Knight and Washington correspondent Tal Kopan lead a discussion on women in politics, and a conversation with Karine Jean-Pierre, chief of staff to Democratic vice presidential candidate Sen."
+    publishedDateTime: 2020-10-26T17:09:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Bay-Area-political-events-Women-in-politics-15675578.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Bay-Area-political-events-Women-in-politics-15675578.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Bay-Area-political-events-Women-in-politics-15675578.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 73
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/73/16/20165545/5/rawImage.jpg"
+        width: 2048
+        height: 1294
         isCached: true
   - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Raleigh News & Observer"
     excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."
@@ -803,6 +835,15 @@ related:
     excerpt: "T15:00:00-04:00 vice presidential candidate Senator Kamala Harris (D-CA) speaks to supporters at a campaign event in Reno, Nevada. Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to supporters at a campaign event in Reno,"
     publishedDateTime: 2020-10-27T02:00:00Z
     webUrl: "https://www.c-span.org/video/?477414-1/senator-kamala-harris-campaigns-reno-nevada"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in Tucson, Arizona"
+    excerpt: "Senator Kamala Harris (D-CA) campaigned in Reno, Nevada, one week ahead of Election… 2020 vice presidential nominee Senator Kamala Harris (D-CA) campaigned at an early voting mobilization event in Atlanta."
+    publishedDateTime: 2020-10-28T12:28:00Z
+    webUrl: "https://www.c-span.org/video/?477473-1/senator-kamala-harris-campaigns-tucson-arizona"
     type: article
     provider:
       name: C-SPAN

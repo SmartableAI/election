@@ -3,10 +3,10 @@ category: news
 title: "Obama Gives Us One of the Best Reasons to Dump Trump"
 excerpt: "Dean Obeidallah writes that while Americans have many reasons to vote Donald Trump out of office, former President Barack Obama came up with another compelling argument to vote for Joe Biden and Kamala Harris: It won't be so exhausting."
 publishedDateTime: 2020-10-28T11:48:00Z
-originalUrl: "https://www.realclearpolitics.com/2020/10/27/obama_gives_us_one_of_the_best_reasons_to_dump_trump_527601.html"
-webUrl: "https://www.realclearpolitics.com/2020/10/27/obama_gives_us_one_of_the_best_reasons_to_dump_trump_527601.html"
+originalUrl: "https://www.realclearpolitics.com/2020/10/28/obama_gives_us_one_of_the_best_reasons_to_dump_trump_527601.html#!"
+webUrl: "https://www.realclearpolitics.com/2020/10/28/obama_gives_us_one_of_the_best_reasons_to_dump_trump_527601.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Donald Trump
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/52/525446_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Trump’s Mission: Burn it down"
@@ -33,6 +39,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9375a979-3951-45a7-b621-8a930ac310b9/81b3d6f4-fac0-49c0-867d-5701e2cd8c63/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "New Jersey judge throws out Trump campaign mail-in ballot lawsuit"
+    excerpt: "A federal judge in New Jersey Thursday threw out an August lawsuit filed by the Trump campaign in relation to mail-in voting.  "
+    publishedDateTime: 2020-10-23T04:26:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sv9BGKAUejY/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1963c64d-d3e7-4868-9a06-8939df701d4d/347f5a13-791d-4178-a0ba-6670d52fead8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -212,6 +234,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Many on Wall Street Who Predicted a Trump Win in 2016 Aren’t So Sure Now"
+    excerpt: "In 2016, a small number of well-known investors and executives predicted that Donald Trump would win the presidential election. This year they aren’t quite so bold."
+    publishedDateTime: 2020-10-28T13:15:00Z
+    webUrl: "https://www.wsj.com/articles/many-on-wall-street-who-predicted-a-trump-win-in-2016-arent-so-sure-now-11603890007"
+    ampWebUrl: "https://www.wsj.com/amp/articles/many-on-wall-street-who-predicted-a-trump-win-in-2016-arent-so-sure-now-11603890007"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/many-on-wall-street-who-predicted-a-trump-win-in-2016-arent-so-sure-now-11603890007"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
+    images:
+      - url: "https://images.wsj.net/im-250339/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "In Trump Country, Supporters Are Steadfast, but His Personality, Pandemic Wear"
     excerpt: "Virginia’s Buchanan County went big for President Trump in 2016 and is expected to give him another win this year, but even his supporters feel some Trump fatigue after four years of controversy and a pandemic."
     publishedDateTime: 2020-10-27T12:18:00Z
@@ -275,6 +313,6 @@ related:
         height: 720
         isCached: true
 
-secured: "nRyCtoS2KS0wSOtlu7m7XSPgr43NONM3/p/6Qrf2XHdqv7OYbit/fV0kKqTZqpXOw74SzrL9/OkarMvj+2wG4q2wfwdo0UeKiPTzbMliBBAaK6j/TgxfE4n6G5XcV8OKcL+/vEtbnYCktPt9RBD2qMmR5ZQ9MU1CcVbd2zQzKlebVM5LwcwmnjdDoEAKZjvJhgGB6lywxwa+vvstXPwQ63PK660MdmAloC5FIt+Yn0F5kDJP28NUX0MjVR7/JmyZkhl843W6cRyxRyefR86pwT1XDK3c5acXWrBui9GtQIBdD3HOHnEGO5etgXoUd5+5M8+XqF12SlAmKWfpboRJ7HMGi5XGoQuZzc/kg8eQ5Pc=;nQXqK4IqXTx6SaKwNDF+eQ=="
+secured: "P47dIobUfdCWiByZpkPdxl9kPzKVrydE3dV1z7EROpPrt07guHJdw1eo2MGpaS7zFR83XOrUCmTnx7LO3Wh1VTGfiOqS/86P6Cof81oi/utomxcCAN8uu7GSph6CfFyohZL61TqZIgFOhyTpG5oMJAweKj9uEA9VCPBmn7gHnl0vcXYFO2Aqg+Ku8xJnKTGOcWKUw3uwamLUJvrOZz2m/Lt+OT8gNVJevzYCmeGSUur/5CiD1eQg9ox2Otvd9L19osrK7zYZ0+VT40s49tAFcjS4ChNlcNe7SkFKcrhf6dtHub4GvAlgl1v4kK2KXLyZVFQBBCGud2VyU4Cay75pYTlYO5j6fMyYim0zRE7kYhI=;wpMNfB2MZIQmpN/Ge+vwEw=="
 ---
 

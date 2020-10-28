@@ -111,246 +111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump tells Arizona rally Biden’s lucky Barr hasn’t locked him up"
-    excerpt: ""
-    publishedDateTime: 2020-10-20T03:55:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pBtZirhE0ME/trump-tells-arizona-rally-bidens-lucky-barr-hasnt-locked-him-up"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-tells-arizona-rally-bidens-lucky-barr-hasnt-locked-him-up.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tells-arizona-rally-bidens-lucky-barr-hasnt-locked-him-up.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Karl Rove: Trump campaign should focus on the economy, not Hunter Biden"
-    excerpt: "With less than two weeks left before the 2020 presidential election, former White House deputy chief of staff Karl Rove said it would be more “effective” for the Trump campaign to focus on the economy as opposed to the Hunter Biden “scandal.”"
-    publishedDateTime: 2020-10-21T18:50:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gtc-_ypVeWo/karl-rove-trump-campaign-should-focus-on-the-economy-not-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-campaign-should-focus-on-the-economy-not-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-campaign-should-focus-on-the-economy-not-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "The 6 topics Biden and Trump will debate at Thursday's final faceoff"
-    excerpt: "The stakes couldn’t be higher for Thursday’s second and final presidential debate between Democratic nominee Joe Biden and President Trump. Here's a look at the six topics that will be debated."
-    publishedDateTime: 2020-10-21T19:02:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xF0kLlM8fwM/presidential-debate-topics-biden-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-topics-biden-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-topics-biden-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20294710883639.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden slams Trump ally Rudy Giuliani as ‘Russian pawn’ in 2nd debate"
-    excerpt: "Democratic presidential nominee Joe Biden fended off questions over his son Hunter's business dealings in Russia and said President Trump's associate, Rudy Giuliani, is a \"Russian pawn\" engaged in a disinformation campaign."
-    publishedDateTime: 2020-10-23T16:48:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C8dAgY4LcqI/biden-debate-giuliani-russian-pawn-hunter-biden-story"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-debate-giuliani-russian-pawn-hunter-biden-story.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-giuliani-russian-pawn-hunter-biden-story.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53c5bd67-5e0e-45c5-bf8d-6d99eff60090/fc5e7bac-df8d-4b30-9726-44e921fed04b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden slams Trump on coronavirus, says president’s ‘quit on America’"
-    excerpt: "Joe Biden warned that coronavirus “isn’t showing any signs of slowing down” as the Democratic presidential nominee once again criticized President Trump’s handling of the federal response to the pandemic."
-    publishedDateTime: 2020-10-23T21:21:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tDSrgUOrKpc/biden-slams-trump-on-coronavirus-says-presidents-quit-on-america"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-slams-trump-on-coronavirus-says-presidents-quit-on-america.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slams-trump-on-coronavirus-says-presidents-quit-on-america.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297716827486.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Lara Trump calls out Joe Biden's 'dismal' coronavirus warning at debate"
-    excerpt: "The two presidential candidates gave contrasting messages about the coronavirus, Trump 2020 campaign adviser Lara Trump said on Friday."
-    publishedDateTime: 2020-10-23T16:31:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A28qEwLTUW0/lara-trump-joe-biden-debate-dismal-coronavirus-message"
-    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-joe-biden-debate-dismal-coronavirus-message.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-joe-biden-debate-dismal-coronavirus-message.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McEnany: Trump hasn't asked DOJ to investigate Bidens"
-    excerpt: "President Trump has not asked Attorney General Bill Barr to open an investigation into the Bidens, according to White House press secretary Kayleigh McEnany."
-    publishedDateTime: 2020-10-23T20:19:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ew6SdMq2O8/mcenany-trump-hasnt-asked-doj-investigate-bidens"
-    ampWebUrl: "https://www.foxnews.com/politics/mcenany-trump-hasnt-asked-doj-investigate-bidens.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-trump-hasnt-asked-doj-investigate-bidens.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/mcenany.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump, Biden clash again over fracking, oil industry at final debate"
-    excerpt: "President Trump and Democratic nominee Joe Biden clashed again Thursday night over energy policy and how reform would impact American workers."
-    publishedDateTime: 2020-10-23T03:12:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5K8Q6c3ABCI/biden-trump-final-debate-fracking"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-final-debate-fracking.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-final-debate-fracking.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f995fd09-8565-4e10-b719-634a6f6a1cc4/73bb155e-d199-49ac-9706-624f5cc08796/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump, Biden refrain from interrupting each other"
-    excerpt: "At the second and final presidential debate Thursday night in Nashville, Tenn., both candidates mostly played nice and avoided interrupting each other."
-    publishedDateTime: 2020-10-23T02:20:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9M-6fjsagSg/trump-and-biden-refrain-from-interrupting-each-other"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-biden-refrain-from-interrupting-each-other.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-biden-refrain-from-interrupting-each-other.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202970612992621.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden nixes reciprocation in Trump's attacks on family: 'It's crass'"
-    excerpt: "Democratic nominee Joe Biden called attacks on a candidate's family \"crass\" during an interview with \"Pod Save America\" published Saturday."
-    publishedDateTime: 2020-10-24T18:55:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zRX5rAr2ym4/biden-hunter-trump-crass-family"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hunter-trump-crass-family.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hunter-trump-crass-family.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Netanyahu skirts Trump's attempted condemnation of Joe Biden"
-    excerpt: "In a phone conversation with Israeli Prime Minister Benjamin Netanyahu Friday, President Trump pivoted a discussion on the Israel-Sudan peace agreement to knock his Democratic opponent Joe Biden."
-    publishedDateTime: 2020-10-24T21:45:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2EmX4XbobPE/netanyahu-skirts-trumps-condemnation-joe-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/netanyahu-skirts-trumps-condemnation-joe-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/netanyahu-skirts-trumps-condemnation-joe-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d324f611-449f-4cce-b9d9-0f7603f88888/e95f1d00-27d6-42ed-8614-2ddce9364233/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pro-Trump group crashes Biden drive-in rally in Pennsylvania"
-    excerpt: "A parade of Trump supporters on Saturday interrupted a drive-in rally for 2020 Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-24T19:01:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PuSg_A5qcsU/trump-parade-crashes-biden-rally-bristol-pennsylvania"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-parade-crashes-biden-rally-bristol-pennsylvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-parade-crashes-biden-rally-bristol-pennsylvania.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/811ca535-be57-4b71-adc1-4fe7047b47b8/85e13a02-9e52-4c03-8d4d-1e3635b6692c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden appears to confuse Trump with former President George W. Bush"
-    excerpt: "Democratic presidential nominee Joe Biden misspoke on Sunday and appeared to begin saying the name of former President George W. Bush rather than President Trump while emphasizing that the 2020 election is important \"because who I'm running against.\""
-    publishedDateTime: 2020-10-26T09:53:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3A-QwrRwuyg/joe-biden-bush-trump-misspeak"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-bush-trump-misspeak.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-bush-trump-misspeak.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump continues to hammer Biden on fracking stance during PA rallies"
-    excerpt: "Trump told Pennsylvania supporters that Biden would \"send your state into a crippling depression.\""
-    publishedDateTime: 2020-10-26T23:33:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSS5girTwOw/trump-biden-fracking-oil-pennsylvania-economy"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-fracking-oil-pennsylvania-economy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-fracking-oil-pennsylvania-economy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8ff879a-c32c-4d79-bc85-394cc76947b5/3ef0d8ed-9897-48c3-a727-376693a034af/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump hits Biden on Social Security, Medicare flip flops"
-    excerpt: "With just barely more than a week to go before the November election, President Donald Trump has been taking Democratic presidential nominee Joe Biden to task for his flippant record on cutting Medicare and Social Security."
-    publishedDateTime: 2020-10-27T01:31:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KJvQaIJPEkM/election-trump-hitting-biden-social-security-medicare-flip-flops"
-    ampWebUrl: "https://www.foxnews.com/politics/election-trump-hitting-biden-social-security-medicare-flip-flops.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-trump-hitting-biden-social-security-medicare-flip-flops.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298017078188.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Twitter employees openly rip Trump, praise Biden: 'Trump must be defeated'"
     excerpt: "Twitter’s senior executives have a long history of anti-Trump hatred, a review of dozens of accounts of top employees found."
     publishedDateTime: 2020-10-18T02:33:14Z
@@ -383,54 +143,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump, Biden traveling to Tennessee for final presidential debate showdown"
-    excerpt: "President Trump and Democratic rival Joe Biden are preparing to face off for the second and final debate on Thursday night in Tennesee with the November election just 12 days away."
-    publishedDateTime: 2020-10-22T11:48:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zy9-lYIGcgw/trump-biden-nashville-tennessee-final-presidential-debate-on-the-trail"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-nashville-tennessee-final-presidential-debate-on-the-trail.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-nashville-tennessee-final-presidential-debate-on-the-trail.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/biden-trump-split.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Jr: Media, Big Tech 'doing whatever they can' to help elect Joe Biden"
-    excerpt: "The Trump campaign is up against Big Tech giants and the mainstream media who are practically campaigning for Joe Biden, Donald Trump Jr. told \"Fox & Friends.\""
-    publishedDateTime: 2020-10-22T14:54:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Cxn378dkAU/trump-jr-biden-debate-hunter-media-social-media-donald-jr-campaign-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-biden-debate-hunter-media-social-media-donald-jr-campaign-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-biden-debate-hunter-media-social-media-donald-jr-campaign-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden campaign says Trump’s likely debate attacks on Hunter Biden will backfire"
-    excerpt: "Hours before the second and final debate between Democratic presidential nominee Joe Biden and President Trump, it was pretty clear that the president would press the accelerator at the face-off in Nashville, Tenn., over the latest controversy surrounding the former vice president’s son Hunter Biden."
-    publishedDateTime: 2020-10-22T21:24:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1dNBUS2j05c/biden-campaign-trump-debate-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-trump-debate-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-trump-debate-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/biden-trump-debate-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump traveling to NC as Biden fundraises ahead of candidates' dueling town halls"
     excerpt: "With the November election less than three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden will make one of their final appeals to voters during dueling town halls on Thursday night. "
     publishedDateTime: 2020-10-15T11:35:00Z
@@ -444,22 +156,6 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55fa5d1d-f2dc-4dad-ad5e-12cc3fc901cc/67ca0bb6-f143-4037-9e0f-08b4a0a236cd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump, Biden clash over reopening plans, former VP won't rule out more shutdowns"
-    excerpt: "Democratic presidential nominee Joe Biden indicated on Thursday that he was open to implementing more economic shutdowns to combat the coronavirus pandemic."
-    publishedDateTime: 2020-10-23T02:14:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sLz4LWIdl_Y/biden-open-to-more-coronavirus-shutdowns"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-open-to-more-coronavirus-shutdowns.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-to-more-coronavirus-shutdowns.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da4eca33-79e6-42ab-8d9d-1005f2df2e60/40447b11-2332-413c-b1e1-e90b031d7930/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -508,22 +204,6 @@ related:
     quality: 184
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/960b2918-9ba8-4b0c-b3a3-34b2104389ca/fad2a428-7655-40df-8fcc-842443bc6012/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hunter Biden revelations roil 2020 race hours before Trump, Biden take debate stage"
-    excerpt: "President Trump and Democratic challenger Joe Biden are set to take the debate stage to discuss issues including coronavirus, national security, and climate change, but one subject looming over it is the latest details regarding Hunter Biden's business dealings and whether or not his father was involved."
-    publishedDateTime: 2020-10-22T19:20:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F9w8qz8gKDs/hunter-biden-revelations-roil-2020-race-hours-before-trump-biden-take-debate-stage"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-revelations-roil-2020-race-hours-before-trump-biden-take-debate-stage.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-revelations-roil-2020-race-hours-before-trump-biden-take-debate-stage.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef3d8e70-1210-4846-9c7c-5e01d7921066/f1c47198-22fe-4887-9644-ecbc6356e1e5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -607,54 +287,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "'Mistake' for Trump to focus so much on Hunter Biden allegations, says Mike Huckabee"
-    excerpt: "President Trump leading with the Hunter Biden email story at the next presidential debate \"is a mistake,\" Fox News contributor Mike Huckabee said on Wednesday."
-    publishedDateTime: 2020-10-21T17:00:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Nm439w3bbA/mike-huckabee-hunter-biden-trump-mistake"
-    ampWebUrl: "https://www.foxnews.com/politics/mike-huckabee-hunter-biden-trump-mistake.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-hunter-biden-trump-mistake.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Donald Trump Jr.: Joe Biden is 'corrupted and compromised and America has to know it'"
-    excerpt: "Trump Organization Executive Vice President Donald Trump Jr., described Democratic nominee Joe Biden as \"corrupted and compromised\" following the latest revelations about Hunter Biden's overseas business dealings. "
-    publishedDateTime: 2020-10-23T04:36:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sa5W1eTOMnE/trump-jr-joe-biden-corrupted-compromised"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-joe-biden-corrupted-compromised.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-joe-biden-corrupted-compromised.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e03cb1b2-34d0-400f-aef3-8c5579dcb03d/078e74c4-17eb-4448-bd04-e155eba2d17d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump heads to Florida as Biden stumps in Delaware following final presidential debate"
-    excerpt: "With the November election just 11 days away and the final presidential debate over, President Trump and Democratic challenger Joe Biden have entered the final stretch of the 2020 campaign."
-    publishedDateTime: 2020-10-23T11:39:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GrSOnrzGX0I/trump-biden-florida-delaware-campaign-trail"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-florida-delaware-campaign-trail.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-florida-delaware-campaign-trail.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b43e550-96b1-4cb8-a50d-ef262c0b526a/6c7be324-7c90-4ba3-ac98-bbcd58e14bb1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump stumping in Florida, Georgia as Biden heads to Michigan after competing town halls"
     excerpt: "With the November election less than three weeks away, President Trump and Democratic rival Joe Biden will stump in key battleground states on Friday, making a final appeal to voters one night after their dueling town halls."
     publishedDateTime: 2020-10-16T11:56:23Z
@@ -670,38 +302,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a3fbf4f-6076-40df-8823-df6b439f99dc/a8433a2c-7c62-4227-ad56-00b87f9fb54a/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Eric Trump accuses Biden of 'hiding from one of the biggest scandals in American history'"
-    excerpt: "Joe Biden is keeping a low profile ahead of Thursday's presidential debate both because he doesn't have the \"stamina\" to actively campaign and is afraid of questions about potential corruption involving himself and his son Hunter, Eric Trump claimed on \"Hannity\" Wednesday. "
-    publishedDateTime: 2020-10-22T03:39:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sj0FizH3ksA/eric-trump-joe-biden-hiding-from-one-of-biggest-scandals"
-    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-joe-biden-hiding-from-one-of-biggest-scandals.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-joe-biden-hiding-from-one-of-biggest-scandals.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab13a510-e846-4585-bd04-4a85898edcf5/984db21c-8bea-498b-94cb-3419adf8236f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "President Trump plans to bring Hunter Biden associate Tony Bobulinski as guest to debate"
-    excerpt: ""
-    publishedDateTime: 2020-10-22T19:46:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oRQf9zSi2Ow/president-trump-plans-to-bring-hunter-biden-associate-tony-bobulinski-as-guest-to-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-plans-to-bring-hunter-biden-associate-tony-bobulinski-as-guest-to-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-plans-to-bring-hunter-biden-associate-tony-bobulinski-as-guest-to-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://amp.spot.im/loader.png"
-        width: 375
-        height: 815
         isCached: true
   - title: "Trump says Biden family 'protected' by Big Tech, threatens platforms 'unless they shape up'"
     excerpt: "President Trump said that the Biden family has been “protected” by Big Tech after censorship of a damning New York Post report, and threaten to revoke their Section 230 protections “unless they shape up.” "
@@ -732,38 +332,6 @@ related:
     quality: 180
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7aa3c96a-79ab-42ad-8df9-6a33109c53c9/2d092bf2-3ce5-46cb-86bc-8ce076a4071c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump to hold campaign rally in North Carolina as Biden preps for final debate in Delaware"
-    excerpt: "With the November election less than two weeks away, President Trump is continuing his campaign swing through the pivotal battleground states with a planned rally in North Carolina, where he's currently neck-and-neck with Democratic rival Joe Biden. "
-    publishedDateTime: 2020-10-21T11:56:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tj9K1x6Tfkk/trump-biden-harris-pence-campaign-trail-october-21"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70e3d4b4-5e63-4832-8c75-ee41ed434ffa/50aacca5-a79f-4a2c-a351-5e34e1c22c5f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump says 'good chance' coronavirus vaccine ready in weeks, as Biden predicts 'dark winter'"
-    excerpt: "President Donald Trump and Democratic candidate Joe Biden met for their second and final presidential debate before the Nov. 3 election, immediately jumping into the impact of the coronavirus."
-    publishedDateTime: 2020-10-23T01:50:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c8PWo-kuYM8/trump-coronavirus-vaccine-ready-biden-dark-winter"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-ready-biden-dark-winter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-ready-biden-dark-winter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e7e263-c47a-4806-adeb-362bea3235a1/ad72107a-c53f-4f28-8d21-229f9c3fdd73/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -925,20 +493,6 @@ related:
         width: 996
         height: 560
         isCached: true
-  - title: "Top pro-Trump super PAC takes aim at Biden in $10M final push"
-    excerpt: "EXCLUSIVE: The leading outside group supporting President Trump's re-election bid is launching a final ad blitz starting Saturday that takes aim at Democratic presidential nominee Joe Biden in TV ads to run in some of the crucial battleground states that will decide the winner of the White House race."
-    publishedDateTime: 2020-10-23T14:56:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2tVTluZ0ZZo/pro-trump-super-pac-final-ad-blitz-biden"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20297054891763-e1603463644972.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How Biden, McConnell could find themselves in familiar role as negotiating partners"
     excerpt: "If Republicans hold the Senate and Biden defeats President Donald Trump to win the presidency, Biden and McConnell would find themselves in the familiar role of negotiating partners."
     publishedDateTime: 2020-10-24T12:46:55Z
@@ -1079,118 +633,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Joe Biden Blitzes TV While Trump Spends on Events, Fundraising"
-    excerpt: "The Democrat’s presidential campaign effort outspent the president’s by at least $110 million and ended the third quarter with more cash on hand."
-    publishedDateTime: 2020-10-22T15:18:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-blitzes-tv-while-trump-spends-on-events-fundraising-11603379652"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-blitzes-tv-while-trump-spends-on-events-fundraising-11603379652"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-blitzes-tv-while-trump-spends-on-events-fundraising-11603379652"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-248142/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Karl Rove: Trump campaign should focus on the economy, not Hunter Biden"
-    excerpt: "With less than two weeks left before the 2020 presidential election, former White House deputy chief of staff Karl Rove said it would be more “effective” for the Trump campaign to focus on the economy as opposed to the Hunter Biden “scandal."
-    publishedDateTime: 2020-10-21T19:03:00Z
-    webUrl: "https://www.foxnews.com/politics/karl-rove-trump-campaign-should-focus-on-the-economy-not-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-campaign-should-focus-on-the-economy-not-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-campaign-should-focus-on-the-economy-not-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pennsylvania Trump supporters blast Joe Biden's fracking flip-flop"
-    excerpt: "Breaking, a senior law enforcement official is telling FOX News that the FBI and the DOJ both concur that Hunter Biden's laptops and emails allegedly retrieved from that laptop are not part of any Russian disinformation campaign."
-    publishedDateTime: 2020-10-24T12:32:00Z
-    webUrl: "https://www.foxnews.com/transcript/pennsylvania-trump-supporters-blast-joe-bidens-fracking-flip-flop"
-    ampWebUrl: "https://www.foxnews.com/transcript/pennsylvania-trump-supporters-blast-joe-bidens-fracking-flip-flop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/pennsylvania-trump-supporters-blast-joe-bidens-fracking-flip-flop.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6322353-7ffe-42d9-ad49-8d966125d51a/13f4199b-1924-4bff-b673-d6c132749746/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trailer park threatens to double rent if Joe Biden wins election"
-    excerpt: "A Colorado trailer park landlord is warning tenants of huge rent increases if Joe Biden is elected president, telling them that “everything you do and have to pay for will change completely,”"
-    publishedDateTime: 2020-10-23T17:28:00Z
-    webUrl: "https://nypost.com/2020/10/23/trailer-park-threatens-to-double-rent-if-joe-biden-wins-election/"
-    ampWebUrl: "https://nypost.com/2020/10/23/trailer-park-threatens-to-double-rent-if-joe-biden-wins-election/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/23/trailer-park-threatens-to-double-rent-if-joe-biden-wins-election/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/colorado-rent-87-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Netanyahu skirts Trump's attempted condemnation of Joe Biden"
-    excerpt: "In a phone conversation with Israeli Prime Minister Benjamin Netanyahu Friday, President Trump pivoted a discussion on the Israel-Sudan peace agreement to knock his Democratic opponent Joe Biden."
-    publishedDateTime: 2020-10-24T21:51:00Z
-    webUrl: "https://www.foxnews.com/politics/netanyahu-skirts-trumps-condemnation-joe-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/netanyahu-skirts-trumps-condemnation-joe-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/netanyahu-skirts-trumps-condemnation-joe-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d324f611-449f-4cce-b9d9-0f7603f88888/e95f1d00-27d6-42ed-8614-2ddce9364233/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Dave Bautista talks 'toughness' in campaign video for Joe Biden that's critical of Donald Trump"
-    excerpt: "Former WWE star Dave Bautista is the latest celebrity to endorse Joe Biden for president by appearing in a campaign ad that’s critical of Donald Trump."
-    publishedDateTime: 2020-10-26T13:36:00Z
-    webUrl: "https://www.foxnews.com/entertainment/dave-bautista-toughness-campaign-video-joe-biden-critical-donald-trump"
-    ampWebUrl: "https://www.foxnews.com/entertainment/dave-bautista-toughness-campaign-video-joe-biden-critical-donald-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dave-bautista-toughness-campaign-video-joe-biden-critical-donald-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/DaveBautista1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "David Bossie: Biden must answer these questions at presidential debate with Trump"
-    excerpt: "Thursday night’s final debate between President Trump and former Vice President Joe Biden is certain to be a historic event."
-    publishedDateTime: 2020-10-22T11:05:00Z
-    webUrl: "https://www.foxnews.com/opinion/biden-trump-presidential-debate-david-bossie"
-    ampWebUrl: "https://www.foxnews.com/opinion/biden-trump-presidential-debate-david-bossie.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-trump-presidential-debate-david-bossie.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 145
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Brian Arbour: Everybody likes Joe Biden – here's why that's very bad news for Trump"
     excerpt: "Everybody likes Joe. Well, not everybody. Our most recent Fox News poll shows that 41% of those surveyed have an unfavorable impression of Democratic presidential nominee Joe Biden. But more crucially,"
     publishedDateTime: 2020-10-20T19:53:00Z
@@ -1207,38 +649,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Doug Schoen: Biden's ahead in polls — but so was Hillary Clinton. Can Trump still win?"
-    excerpt: "Yet, for many Americans, Biden’s current position feels reminiscent of the two weeks before the 2016 election, when Hillary Clinton held a similar lead. At this point in 2016, FiveThirtyEight’s election model gave Hillary Clinton an 86% chance of winning."
-    publishedDateTime: 2020-10-21T21:01:00Z
-    webUrl: "https://www.foxnews.com/opinion/biden-polls-hillary-trump-still-win-doug-schoen"
-    ampWebUrl: "https://www.foxnews.com/opinion/biden-polls-hillary-trump-still-win-doug-schoen.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-polls-hillary-trump-still-win-doug-schoen.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 142
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/doug-schoen.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "David Bossie: Top takeaways from Trump-Biden debate — one candidate exceeds expectations"
-    excerpt: "President Trump gave a very different debate performance from his last face-off with Joe Biden. Trump had clearly learned his lesson; poor post-debate polling made it clear that browbeating his rival would not win over any votes."
-    publishedDateTime: 2020-10-23T07:13:00Z
-    webUrl: "https://www.foxnews.com/opinion/trump-biden-final-debate-david-bossie"
-    ampWebUrl: "https://www.foxnews.com/opinion/trump-biden-final-debate-david-bossie.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-biden-final-debate-david-bossie.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6eea3295-662e-4dec-b0eb-a26ef9785083/7a5f3f14-f6e4-4bc2-be5b-d8c89863e0ce/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump to press Biden on Hunter Biden email stories if debate moderator doesn't, adviser says"
     excerpt: "Trump campaign adviser Jason Miller said on Monday that the president in Thursday's debate will bring up allegations that Democratic presidential nominee Joe Biden met with a Ukrainian business associate of his son,"
     publishedDateTime: 2020-10-19T15:53:00Z
@@ -1252,22 +662,6 @@ related:
     quality: 139
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/519d1dce-d470-4ec6-8e31-2cc28ea5750b/3f026495-75f6-4585-a64c-271e52683b7a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Mike Huckabee: Trump will move America forward, Biden would return US to disastrous Obama era"
-    excerpt: "The final debate Thursday night between President Trump and former Vice President Joe Biden showed the American people exactly what is at stake in this election."
-    publishedDateTime: 2020-10-23T23:37:00Z
-    webUrl: "https://www.foxnews.com/opinion/biden-trump-final-debate-mike-huckabee"
-    ampWebUrl: "https://www.foxnews.com/opinion/biden-trump-final-debate-mike-huckabee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-trump-final-debate-mike-huckabee.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 139
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/963f5bf2-9335-4886-a3c9-1ee87dfa8459/f344b739-f3d5-4279-925c-6f9f7b6ed52f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1367,36 +761,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Liz Peek: Winners and losers at final presidential debate – What the Trump, Biden scorecard looks like now"
-    excerpt: "At the final presidential debate, Trump came prepared to show the country that he could be civil, stay (mostly) on topic, and still beat Biden."
-    publishedDateTime: 2020-10-23T15:38:00Z
-    webUrl: "https://www.foxnews.com/opinion/winners-and-losers-presidential-debate-trump-biden-liz-peek"
-    ampWebUrl: "https://www.foxnews.com/opinion/winners-and-losers-presidential-debate-trump-biden-liz-peek.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/winners-and-losers-presidential-debate-trump-biden-liz-peek.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/340/340/liz_peek_headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Why Biden stays quiet as Trump slams Lesley Stahl and other targets"
-    excerpt: "The Biden campaign declared a lid at 10:41 a.m. yesterday--telling reporters that no more news would be made that day. There have been a lot of early lids lately. The former VP has been off the trail for several days as he prepares for tonight’s second and final debate against President Trump,"
-    publishedDateTime: 2020-10-22T07:19:00Z
-    webUrl: "https://www.foxnews.com/media/why-biden-stays-quiet-as-trump-slams-lesley-stahl-and-other-targets"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11598c90-e6f7-4df5-8671-3a8bf384c4e9/d5a8c37d-61c8-4a04-acfe-10c423f7a4ad/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Another former Republican National Committee chairman endorses Joe Biden for president"
     excerpt: "Michael Steele, who became the first Black chairman of the Republican National Committee a decade ago, has endorsed Democratic nominee and former Vice President Joe Biden in the 2020 presidential race."
     publishedDateTime: 2020-10-21T02:18:00Z
@@ -1488,20 +852,6 @@ related:
     quality: 84
     images:
       - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Will Anti-Biden Attacks Boomerang Against Trump?"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-10-22T19:43:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/22/will_anti-biden_attacks_boomerang_against_trump_527205.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 80
-    images:
-      - url: "https://assets.realclear.com/images/47/477943_5_.jpg"
         width: 750
         height: 500
         isCached: true

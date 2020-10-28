@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Election 2020 polling average shows Biden leading Trump nationally with just days left"
+    excerpt: "Democratic nominee Joe Biden continues to lead President Trump in national polling, although the race has tightened to a seven-point lead for Biden, down from 10 points earlier in October, according to Real Clear Politics' polling average."
+    publishedDateTime: 2020-10-28T12:51:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JNm9gtw1bS0/election-2020-polling-average-trump-biden-six-days-away"
+    ampWebUrl: "https://www.foxnews.com/politics/election-2020-polling-average-trump-biden-six-days-away.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-polling-average-trump-biden-six-days-away.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 197
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301625773721.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "AOC warns libs Trump-Biden election a lifestyle changer: ‘There’s no going back to brunch’"
     excerpt: "Rep. Alexandria Ocasio-Cortez has braced her supporters for a very different future than they may have expected -- even if presidential nominee Joe Biden and other Democrats prevail in November."
     publishedDateTime: 2020-09-20T03:31:26Z

@@ -253,6 +253,31 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter's Emails Confirm Claims of Biden Corruption"
+    excerpt: "Thanks to three brave Americans, we now know that Joe Biden has long misled the public about his involvement with his family’s foreign business entanglements while he served as vice president."
+    publishedDateTime: 2020-10-25T18:18:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/490563_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Tell Joe Biden that Black education matters"
+    excerpt: "Politics influence educational equality. It’s been this way since the beginning. But why does the Democratic Party assume blacks will vote for them considering Democrats’ efforts to defund black educational freedom?"
+    publishedDateTime: 2020-10-28T10:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/tell-joe-biden-and-kamala-harris-that-black-education-matters"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/tell-joe-biden-and-kamala-harris-that-black-education-matters?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/tell-joe-biden-and-kamala-harris-that-black-education-matters?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "CQLaQ3Opv7T1zGQN488LgsYiUMiE0vtPjRRm+l5E6DSi0MFBUZkizH4y3T+0e0Yj1LzwN7mr7Jl93TdCEy40G9opEK6t6DKdZiQFJ/ZBHVxKeFziBmqU/a4+1Te8BRk376xVuiBvtcXP6VFJtV17XyGNKCRyySATJL4x7AE/r6/+U8FCscdC572CXG92S98WRCGixnlROY8syrZnAZVCGSoOXfRD73a+Ho0kef5gS5iJYGYnJG76eIQjKLtfr3kRCznTThHDWuXIRW/HyuFWJSKvi07fMQqwpWMhcES7m9zGTvjstELXubJdbagYEsA3iTl/IjnzuERlkPen5pf89FWHlkwyCGQJ2dTbro/bXqI=;MSsF782levuxWVU+mOVySA=="
 ---

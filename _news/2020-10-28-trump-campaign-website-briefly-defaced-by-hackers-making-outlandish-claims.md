@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-website-briefly-defa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Obama-Trump-AP.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Trump campaign takes over YouTube masthead for debate day with help of UFC supporters"
+    excerpt: "EXCLUSIVE: President Trump's campaign Thursday will take over YouTube's masthead for 24 hours, controlling the prime internet real estate on the day of final debate between Trump and Democratic nominee Joe Biden, Fox News has learned."
+    publishedDateTime: 2020-10-22T02:20:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z0bruodusTk/trump-campaign-takes-over-youtube-masthead-for-debate-day"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "iy9N5FgbFfKoOCZFd4KWaDfJ/NGqw/Y403iATZNh3yd2pKVLOfi3vE2i673lFbj75uCDWxy1JvaFpVzJKBGxfsqNoKKQDAYxEgXdSxI1ycMr+q0/E8dEPJC5UvISJW+zxwXueI8GH5nGC3H0npdWFLPDJ2JediQgIZanM1PdHEf5tkBVUQg6BalXEAI+y8sthPgndRYetPkJrCMg6WpiwTpGJzpbIhhqJYMk6NMhk8rM6U9cU8SCLUWltzUSJZu/DmDPQWdfKo+qqlhiCpQw46l2Ryb/mUJfYrMiet/DXmsqEn/n/nx4ITwNIvMPXFR69DQRDxcpaWdB0/jAHbC+QOP5t+nBh5hSEZFHyGUQy58=;HSojHUryWfVbKqyR5qIIxA=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.realclearpolitics.com/video/2020/09/20/watch_live_joe_
 webUrl: "https://www.realclearpolitics.com/video/2020/09/20/watch_live_joe_biden_speaks_on_supreme_court_vacancy_in_philadelphia.html"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: 65
+published: false
 
 provider:
   name: RealClearPolitics
@@ -24,19 +24,6 @@ images:
     width: 1130
     height: 846
     isCached: true
-
-related:
-  - title: "Philadelphia-area Biden supporters confident they'll make the difference for him in Pennsylvania"
-    excerpt: "The path to the White House for Joe Biden could run through the suburbs of Philadelphia. While there's little doubt that the former vice president will win the liberal suburbs of Bucks, Chester, Delaware,"
-    publishedDateTime: 2020-10-21T19:07:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 52
 
 secured: "Z66w20K4Vv8DqDu+QdFSDK/hkDRhQ/RAmwuRRpFSljC8aDrujpNsbYftqQJPsM29XL0leCGHdj6w8pwCjKhi2qP9gAEu4WT096Wbgr/CCcknoKM7DBbEf8b6ocDHzG7Ulh5bUSZGrJIPjlCnNhp9C3Z4sVNtJHG60KFSaN//Mahix8yEXNapOLXKMbBVwhwl7RPYnv1XhHm66k2ktiZis59nGteBiqnotFO6vhAd4hxILUe+JL+e+SgfOUbI8epxNFQHrxeV5iJjxVIVT5gUqz0APSy9dNTC5ETZhF6PuT82fctPH9nIYXVN1w30T2dJmVlhAQibVbN2M1tAf9DOvreHMXKmEjtJvAbEdXR2W5zPm+sZvzZnSgcqRvwulStI2qebuZbrhNKHnUcZzHo0E+GmZGO4zSpekYB5ryNL6rgj6YNkOiwBcEeAeSU8TND0fei/XIplxN2SwC6WrXxl98rWmJiJLxH2cRPwpQGgllKisL6mWeba5X7dw75uiwKilHlXSNCaFRvYMl30ch5z/w==;J9yZMWSti0b5gufhDge46w=="
 ---

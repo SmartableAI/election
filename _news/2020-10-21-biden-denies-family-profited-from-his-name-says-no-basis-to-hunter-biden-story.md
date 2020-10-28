@@ -253,6 +253,31 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter's Emails Confirm Claims of Biden Corruption"
+    excerpt: "Thanks to three brave Americans, we now know that Joe Biden has long misled the public about his involvement with his family’s foreign business entanglements while he served as vice president."
+    publishedDateTime: 2020-10-25T18:18:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/490563_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Tell Joe Biden that Black education matters"
+    excerpt: "Politics influence educational equality. It’s been this way since the beginning. But why does the Democratic Party assume blacks will vote for them considering Democrats’ efforts to defund black educational freedom?"
+    publishedDateTime: 2020-10-28T10:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/tell-joe-biden-and-kamala-harris-that-black-education-matters"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/tell-joe-biden-and-kamala-harris-that-black-education-matters?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/tell-joe-biden-and-kamala-harris-that-black-education-matters?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "W+vfBsv4z5cTjoIS+rl8e2+UTIJ0AoVLno7SI+22yYtjT8d+u4NDsuW6ZroduCDs2S8IbsRkmasKq3wdrwrxMr4WW1eFZNFf8Lf5EyNUivf2n6MJDTQm009lix7MXxh233q+J2Aa/CLodWlSiRtUhzoRo/LAjCKUlKCFw+wij3yaAg93qT7AgEKQxtLpl99T8ScAsth23fg08rnppBhpRtA3RI3/n9sHtUHGZ5uYAyPogXT7ThT+VApwzpNOuhPp9FQm91yrVprvZ9HSxQtyK4ii3CKYEaF9BCbqrb0VDqjDemmr+ykd2g30Fp84bsuSbaRle5fzbDkDaewuajg4GPgLIfdGax7CHtRoPcx21Jc=;bdufTaj578dYKtQb8uwgGg=="
 ---

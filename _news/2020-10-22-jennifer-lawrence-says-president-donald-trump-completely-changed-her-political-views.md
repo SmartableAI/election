@@ -303,6 +303,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Can you change your vote? Trump thinks people should"
+    excerpt: "President Donald Trump, arguing he's gained since the last debate, on Tuesday encouraged voters who have already voted absentee to look into changing their votes."
+    publishedDateTime: 2020-10-28T13:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/change-vote-trump-thinks-people/story?id=73854468"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/change-vote-trump-thinks-people/story?id=73854468"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/change-vote-trump-thinks-people/story?id=73854468"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-lititz-rally-01-rt-jef-201026_1603738033058_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That"
     excerpt: "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate."
     publishedDateTime: 2020-10-28T10:30:00Z

@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Hunter Biden associate's records don't show proof of Biden business relationship amid unanswered questions"
-    excerpt: "Hunter Biden's former business partner Tony Bobulinski claimed this week that former Vice President Joe Biden was allegedly involved in discussions about his son's business dealings, something the Democratic presidential nominee has repeatedly denied."
-    publishedDateTime: 2020-10-23T17:44:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7e1P0CqlCQ/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions.amp"
+  - title: "Biden stays silent on Bobulinski claims about family's business ventures"
+    excerpt: "Joe Biden and his presidential campaign are staying mum after Hunter Biden’s former business associate went public to say he met twice in the past with the former vice president "
+    publishedDateTime: 2020-10-28T13:07:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zj1XQOSiU60/biden-bobulinski-claims-family-business-deals"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bobulinski-claims-family-business-deals.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bobulinski-claims-family-business-deals.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "Bz2Ux1vJSOwHPpQBlVU7UA5zUsM/7HsbPi4MICKIpR19/ZEUh+LoJlErd0I7las4fKugDt14Uq3M8AzcC2iPUkHtcJO2AjUvAGCP9iIf0NH28ANrPLIO6kQXsf24jEZYlEwiHgxXL2sKae2pTZ2evEG2mD+dNrLISR5OkkDvWUS7B3TqI7NaGrFZB2l+oIRo2/Nln3V8nb7GBKdDVSYaKxA4/ZJl95578cNry+/5mrccnJkvJFVedlWWdRX386tVSOHvjaAfna6okkHDGlPgH8dFdLzjTMOSxiZ0u+/0+EJqsNnowwy8bPkn62/DfXI9g0kNYWg3zs6eaSJCDdM9ExqWwHX+Hz1OzNyqNl0NAl8=;QfwRwENrjhC4Y/pOq7Sqkw=="

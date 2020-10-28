@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/playing-offense-biden-pledges-if-we
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/playing-offense-biden-pledges-if-we-win-georgia-we-win-everything.amp"
 type: article
 quality: 175
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,40 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Biden makes plea to ‘unite and heal’ the country during stop in Georgia"
+    excerpt: "Joe Biden, playing offense in a long time red state turned crucial battleground this year, made a closing campaign pitch on Tuesday for national unity to rise above what he called the division President Trump’s sown during his four years in the White House."
+    publishedDateTime: 2020-10-27T20:10:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4K5BdjTl8Po/biden-plea-unite-and-heal-the-country-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301662617518.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden makes plea to ‘unite and heal’ the country during stop in Georgia"
+    excerpt: "Joe Biden, playing offense in a long time red state turned crucial battleground this year, made a closing campaign pitch on Tuesday for national unity to rise above what he called the division President Trump’s sown during his four years in the White House."
+    publishedDateTime: 2020-10-27T20:15:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301662617518.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "5pgtJ/HAMYJz0z6FM5v5FcPMQ+OOyleiM9Lc4Rl2mPmWOpZENTX4bzz47TYHAj4aL3A+bTPyuoNA5jf2a62GkXtKiz/v/seq1DPb6DN00T4AIXDpKcvvJ96zsJo2GIMBiOjACLzq+gJv4xevQGSbk62XUuKSYGAjwbV8xodRtg1NXOOEnTyv6Y0s2rHpR5WJN5rHpWGVcdl4WFAAjcoDFLuMyI5R3+qd5kTBBzBwvYe0N1+il/jHXd3CliuBfbcb8d+m6a94EgyPjGQg97SbP1lp9E9JVJZ4CMMhTc9C6mCaYJ3oA6H38Vfg6SKMLiyM96JD/1XYOmkuv84psFaf6rbw0VhVrzELbXJegrCcZNo=;8aiQhZoiZjIRhdKjggWNRg=="
 ---

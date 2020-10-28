@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-come-clean.amp"
 type: article
 quality: 190
-heat: 470
+heat: 510
 published: true
 
 provider:
@@ -254,6 +254,31 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter's Emails Confirm Claims of Biden Corruption"
+    excerpt: "Thanks to three brave Americans, we now know that Joe Biden has long misled the public about his involvement with his family’s foreign business entanglements while he served as vice president."
+    publishedDateTime: 2020-10-25T18:18:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/490563_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Tell Joe Biden that Black education matters"
+    excerpt: "Politics influence educational equality. It’s been this way since the beginning. But why does the Democratic Party assume blacks will vote for them considering Democrats’ efforts to defund black educational freedom?"
+    publishedDateTime: 2020-10-28T10:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/tell-joe-biden-and-kamala-harris-that-black-education-matters"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/tell-joe-biden-and-kamala-harris-that-black-education-matters?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/tell-joe-biden-and-kamala-harris-that-black-education-matters?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "NGpXwZ3dZHWC/p1mfYj+Kd+GhelGzBxrnJy2qolkeklIlKDNMBrwNObYAIetff85wxnPYdTF/ZfsjufFPUAeG0BlRkOcv/Zm6Y3Fu7rxMccTeD1JUIEiuM1aeogCw59M2v64Pa+b83l6IYYoVx+HDrO756oy+77yHYDymx+3k/9pzzS0lwqbIhOconOnmqruaIS1us7ezfqeH+o3nToMszka4Tcbam0l9dUZLQ3anNIdd+WLYcX+j06C5LKLivUaKPNtUPqgnPO/EJpTi9uTFj4rXCjBXa48+1HyhG34DBAyH4h9LCLN0abFMf5CkrFC2h7vS+ueCDzN2Ix/CzKay2YrOUZiXy5wo0uTnb3B0Fk=;OKG9Zr2BvWZZnCKoRhsAGg=="
 ---

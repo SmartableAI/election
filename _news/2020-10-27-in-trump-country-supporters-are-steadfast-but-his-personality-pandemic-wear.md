@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New Jersey judge throws out Trump campaign mail-in ballot lawsuit"
+    excerpt: "A federal judge in New Jersey Thursday threw out an August lawsuit filed by the Trump campaign in relation to mail-in voting.  "
+    publishedDateTime: 2020-10-23T04:26:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sv9BGKAUejY/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1963c64d-d3e7-4868-9a06-8939df701d4d/347f5a13-791d-4178-a0ba-6670d52fead8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "’60 Minutes’ airs Trump interview cut short by president"
     excerpt: "“60 Minutes” aired the interview on Sunday night. Stahl warned viewers that the interview started politely but “ended, regrettably, contentiously.”"
     publishedDateTime: 2020-10-26T08:53:56Z
@@ -224,6 +240,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Many on Wall Street Who Predicted a Trump Win in 2016 Aren’t So Sure Now"
+    excerpt: "In 2016, a small number of well-known investors and executives predicted that Donald Trump would win the presidential election. This year they aren’t quite so bold."
+    publishedDateTime: 2020-10-28T13:15:00Z
+    webUrl: "https://www.wsj.com/articles/many-on-wall-street-who-predicted-a-trump-win-in-2016-arent-so-sure-now-11603890007"
+    ampWebUrl: "https://www.wsj.com/amp/articles/many-on-wall-street-who-predicted-a-trump-win-in-2016-arent-so-sure-now-11603890007"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/many-on-wall-street-who-predicted-a-trump-win-in-2016-arent-so-sure-now-11603890007"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
+    images:
+      - url: "https://images.wsj.net/im-250339/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "50 Cent says 'F--k Donald Trump' one week after expressing support for president"
     excerpt: "Chelsea Handler has been outspoken about 50 Cent's support for Donald Trump in opposition to Joe Biden's tax plan"
     publishedDateTime: 2020-10-27T00:03:00Z
@@ -273,12 +305,17 @@ related:
   - title: "Obama Gives Us One of the Best Reasons to Dump Trump"
     excerpt: "Dean Obeidallah writes that while Americans have many reasons to vote Donald Trump out of office, former President Barack Obama came up with another compelling argument to vote for Joe Biden and Kamala Harris: It won't be so exhausting."
     publishedDateTime: 2020-10-28T11:48:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/27/obama_gives_us_one_of_the_best_reasons_to_dump_trump_527601.html"
+    webUrl: "https://www.realclearpolitics.com/2020/10/28/obama_gives_us_one_of_the_best_reasons_to_dump_trump_527601.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525446_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "n5phQNeZb7qX1Okyj6Nz1/3XjpNoopEWh5bgkDfDu7X7U6ej/DW432PfK8uWibPj3e6WX+Hr8SDQLGzrJfRnxS0OQ8byi8PTFiz/4NpZ+8hT48ME8ps+HFqnG9d5u7EfEB/DEIHbwI5VErBrsnEcTFJY9zUO5oBJTCwd34U4kzJKDGOtws0qAuCqcSXjLHIewQFsjZIm5ZFK3o1ftdNYlKmGwIQ+ArPZpNmLHWb1H9otXOhVlzescW8UXYsjLuByrKAG8v5Ucr0OJ1wMLC0RzOlA2WK5rRcmI0Ep3AEtwbUwbcd45HPYKSAW8FhUf5BN4O0+JYtz7E8TJQbgUBhdBwm2MPxlcR0/05BJlYPw6NU=;b9v1rfU15rPCnF/8oxyDig=="
 ---

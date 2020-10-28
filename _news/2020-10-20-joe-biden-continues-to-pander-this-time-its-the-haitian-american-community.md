@@ -9,8 +9,8 @@ ampWebUrl: "https://townhall.com/columnists/madgienicolas/2020/10/19/joe-biden-c
 cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/madgienicolas/2020/10/19/joe-biden-continues-to-pander-this-time-its-the-haitianamerican-community-n2578393?amp=true"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: Townhall
@@ -30,24 +30,6 @@ images:
     width: 650
     height: 340
     isCached: true
-
-related:
-  - title: "RNC Chair McDaniel calls out Biden for energy comments: 'He's lying to the American people'"
-    excerpt: "Republican National Committee Chair Ronna McDaniel accused Democratic presidential nominee Joe Biden of \"lying to the American people\" regarding his energy policies, specifically regarding fracking and the oil industry."
-    publishedDateTime: 2020-10-25T13:46:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDKAnypyY1U/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people"
-    ampWebUrl: "https://www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c12189ec-a656-4aec-b107-11d3bc0ac4f5/5ec31af4-90ba-4cb1-9c02-e0d45010d724/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "o7yPva/ykBVf9Nwnp41hdjL/ELW8aMGbCHFJqbl1REv1u7jh4aF4q3CWgT+r312gb0/zo0Ji8S+9Mmwtr7Djzfgz6cTYp4W/cJ/3Hy40eYuAOU4a1eib/eFdBJjsHTICUAKQfZcseAe8iPdf/oMSLEAWtAFxgMIAKX5oxrKhU/Du+vaeV3u3AfVdPGtrNhig5nGz8/J2b1PSnMXQko810PmA/QP4l4k7Egb4SI0mOTkAzl2SoZld8u3XfTMGm2SW3COSvMT5kR20hiC6Dq+LmHF9b6RK7lNRqzREO9yM7jcguna4bqrIgbRYhUD7nqDX5KgdtbnBMOjqqjQOKJfCOYg8sea1w+1/ZuCRP3qTj6JTkY16B2hX3MrOZShTn8PTW6J+EHc+ikEOjhEYidVe+vGQ20VDAw5WcnZKEN6qYXMOkfh+aXDXLa3Ut+gfZqpXx5wMcLW1S2OHpxIfL1FJvLZyg5kl/BqbV9EriM4QEqTLw578KtdD8qMKsnPLE4BN66tZLcMZ5JzyI44UuanZ0g==;zOSXtOxYPlDgZtM1qMkVDA=="
 ---

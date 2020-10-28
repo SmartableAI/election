@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden will ‘campaign aggressively’ in final stretch, top aide insists"
+    excerpt: "When it comes to the number of in-person campaign events being held in the White House race, President Trump is lapping Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-23T08:03:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7S3hNtXlns/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297057827109.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Ilhan Omar mobilizing progressives to push Biden further left"
     excerpt: "Rep. Ilhan Omar, D-Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
     publishedDateTime: 2020-10-27T17:12:46Z
@@ -48,37 +64,37 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Rep. Jim Jordan on reviewing and authenticating purported Hunter Biden emails"
-    excerpt: "Rep. Jim Jordan, R-Ohio, who said his staff reviewed and independently authenticated the purported emails from Hunter Biden’s laptop, told “Sunday Morning Futures” that “they’re as real as real can be.”"
-    publishedDateTime: 2020-10-25T19:58:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxG05FrYsd8/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
+  - title: "McEnany: Joe Biden’s comments on oil, fracking will be ‘death knell’ of his campaign"
+    excerpt: "Democratic presidential hopeful Joe Biden \"lost\" Pennsylvania in the election after his comments on banning the oil and fracking industry, White House press secretary Kayleigh McEnany said on Tuesday."
+    publishedDateTime: 2020-10-27T18:16:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RIuiVjo3EW8/mcenany-biden-oil-fracking-comments-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/mcenany-biden-oil-fracking-comments-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-biden-oil-fracking-comments-campaign.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "A Biden Family Special Prosecutor in 2021?"
-    excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
-    publishedDateTime: 2020-10-27T10:36:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+  - title: "Biden rips Hunter Biden email leak as 'smear campaign,' says Russia trying to spread disinformation"
+    excerpt: "Democratic presidential nominee Joe Biden slammed the recent reports of his son Hunter’s overseas business dealings, calling them a “smear campaign” and arguing that the information is part of a Russian disinformation campaign."
+    publishedDateTime: 2020-10-26T02:26:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
     images:
-      - url: "https://assets.realclear.com/images/52/525278_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d83e8ba2-3baf-4881-ba00-146146946f25/fad58832-89f0-405f-9f53-c0961608987b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "X5gxfrSkHAUJrD+h5/TxxIFesQnABkknrV+Z519o2w8N6FRH6W5v+3fISlU04o2nrHUyY5r8gHQndR7/Oy3MaUdxqeDjJsAQeNsKE0o8kP5gKpL+i/e5dUZ33cTvNymu7TojSU0RXjd5zUiAtZfgRMtVBVOKDl7Dwbs0cpSFfG6/eIKnionTgmR6f/kaLjNzM9znmDdcgj5re8KTPreqkzhB25GwDkYX+bvKI5suCDanEBFDVrzW2F9ilHzJGfEz2MdAJ5pHE6Bq4c6FA80HXriOVziz/DF1g2rLp5h+Dr4QEy1BZh1nqvYSK6xmyfue4E6FOeglQh5KqiWqSjdVzlBi87+CEsDqBwFH3y/0iV7DOYLDTYUdf1dowf8rsxdpKi+SxIJn2TXTOsIpDULQqDkfUxlZk/p5oAGLUJ93S1fquxBKuVtzKRYOzA3zIN2tTYs6234uCIMX8hHcgSSmhdawXnIbgGZ5093MwgM2r+u/hRc3xqx7nakCDKjWAejYj7mqhHFbz5Tew8ailvMXAg==;LEo7ROBTlMmOfC7Ehxm6dA=="

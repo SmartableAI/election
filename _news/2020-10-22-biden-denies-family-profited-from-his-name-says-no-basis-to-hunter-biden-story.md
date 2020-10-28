@@ -254,6 +254,31 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter's Emails Confirm Claims of Biden Corruption"
+    excerpt: "Thanks to three brave Americans, we now know that Joe Biden has long misled the public about his involvement with his family’s foreign business entanglements while he served as vice president."
+    publishedDateTime: 2020-10-25T18:18:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/490563_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Tell Joe Biden that Black education matters"
+    excerpt: "Politics influence educational equality. It’s been this way since the beginning. But why does the Democratic Party assume blacks will vote for them considering Democrats’ efforts to defund black educational freedom?"
+    publishedDateTime: 2020-10-28T10:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/tell-joe-biden-and-kamala-harris-that-black-education-matters"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/tell-joe-biden-and-kamala-harris-that-black-education-matters?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/tell-joe-biden-and-kamala-harris-that-black-education-matters?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "TGhHKyY0xHU4/KJxTxbq0NrQvcrASQuXzeIqz2M5KFFQfp+UWR+zqe7WWBTGbn0elfyof4seIct1BUsZA0Q0Om3fuOvqxxjicneium822TT812tZCQBsIkgHXYGoiM63dDmQF7rHn8ItapH35NeKlBbpcMs5OcXUMMKFuD3kuF5F+NCVlE1BAXclvT9nbYU3S3ewLlbo0nzTX9S9BHnv6s3tbJbMK2BXvZuApx7sEXlydkyfH5lBG50fJ26Vv8n7csgeJH73WxWDu7pCuaiyL9yIBiE5jCd5TXo2MzLrFNi0TVyTYfMWcTxhUbgPa5gv2paPz2DGX32/898XLv8Jpkr63wtMpD8DsO27O8gT+oRaIQWHf9W5AT+JbJpFAULNrrsSPoLtIgJ1A+NcF0lCOBzs5vd/LlFkOhmAFoljpPDQ3eojDHM+1wtk5u9kvToF7RtBkcFOlkGSgupXNM/3pVUhV3NjNGSeuw8XC2FBJsy+OeHxNP0onTvvxVikAR0jIJNYhCUkJuSDkeOd3l+Nvw==;nKHGrfVZHZOe1dA/JJwyhg=="
 ---

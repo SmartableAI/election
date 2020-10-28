@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/im-republican-former-elections-official-i-c
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625?amp=1"
 type: article
 quality: 134
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -59,7 +59,18 @@ related:
         width: 846
         height: 571
         isCached: true
+  - title: "Trump Administration Sets Record Low Limit for New U.S. Refugees"
+    excerpt: "The Trump administration has slashed the number of refugees it will allow to resettle in the United States in the coming year, capping the number at 15,000, a record low in the history of the country's modern refugee program."
+    publishedDateTime: 2020-10-28T12:40:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
-secured: "glLiKM1MTtbGd61BdBDH6pkBmWn5PgWDvxJydiPTxTjaOmNqXUaapI9gD8ATkF6pp4zZIyOaRPikwPCBQj3Uf96peItxq/rKLt1nTRB4eXHuScFvI0Id1kOvGf5T2oayA+Y0bTPh/0Ln5MugiqSrUBve7mkPMMmQDl2FfrpINWAfpXcvlkrTXc7nrWVi4TIkzr27WZosABedod8mXYne904QqHePGrcJqW73AnzsGRtVIX/lLQVaL/I8ub9SOxZ69cMjfQIgmPceuqICjc1GKV05Mzto3mNEnQnDrGm6q3MmGWNNLKQQwoIqghDv/U1vAjjT5caWZq4QrHdzMZ5PxJGLqBPey6l50ilVxVN12dw=;bizd1NiBr+mv41sG3Npfgg=="
+secured: "v3SOhYjzRazB04MZcXyBvi4p8t/i/ywlSEWE2hXeNsvSZXaOC4vLUNcGbCcNUI8r7UeQ/PgCPXq4XeRupBIdrgtYEpClZNY9H0gEQ1REQar2bJRTCD7pFRx4OKMRcDekN0Jmvb+sPj6fBehwyjp2T7zMNfAxpadhCS5fHNhG//MYQWosjbUy9F2vBWxFYv5Rpj3AiI9qeo9ki2m3/EoHyABnjuRvielQCWnK1Py+67RDEZfYQ1C71j2XfuL00/kFx8om/Ub2jqQ0pTOybzYurDOvb95CrtAj6hrA6SURU726YX0uEF5XGpweNqOsW+ry6o2ktFef+R3n5kUj0DdNV8W4A7+DPhfj4Ekun1B+4zA=;5BoyUA64li1TzcUPphpUBA=="
 ---
 

@@ -480,6 +480,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Obama to join Biden on campaign trail for final weekend push"
+    excerpt: "Former President Barack Obama is set to join Democratic nominee Joe Biden on the campaign trail during the final weekend of the election season, two people familiar with the plans told CNN.\n    \n"
+    publishedDateTime: 2020-10-28T12:20:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KHkCJOZbqBA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/obama-biden-2020-joint-campaign-appearance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/obama-biden-2020-joint-campaign-appearance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024165230-01-barack-obama-miami-1024-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump keeps chipping away at Obamacare with only weeks until the election -- and a Supreme Court hearing"
     excerpt: "The Trump administration has taken a step to weaken the Affordable Care Act in a key battleground state, with only weeks to go until Election Day as well as Supreme Court arguments that could determine the landmark law's future.\n    \n"
     publishedDateTime: 2020-10-17T15:00:13Z
@@ -863,6 +879,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Biden is vastly outspending Trump in the final week of the 2020 race"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2020-10-28T13:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/biden-vastly-outspending-trump-final-week-2020-race-n1245081"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245081"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245081"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423600/201028-joe-biden-al-0818_c361e1f5a92731c3953fa35bee82b5e9.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden calls out Trump for suggesting 'injecting bleach' to treat coronavirus"
     excerpt: "While speaking about vaccine production, Joe Biden called out President Donald Trump for suggesting that \"injecting bleach\" could help treat the coronavirus, while the president claimed it was said \"sarcastically."
@@ -1511,6 +1543,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "0SyztK056utJC23q2z37FuYvVqAtV/jCoEMYMx67S/5cRklvomx87+qlxkafIGi8MK+WO3/gHnGwAt67FCOPUkmW6Hp530oLkUL0JKFxzURVka3Oa5ThRqnH2hlfHNFbKCy3h6ru7k4QDn4Vx6lFT8rvqxT8Mo3w13RIa5pBzWipz2LcWjEDhQVqdYfipAjo2jlaHyDkUSK+PZa6FdyLdRpIrLyumXruvehCoNJrQo3Y8u3G1/vmOlL63sXmXBnv1EUTVF7Xx23KAud+PYFrBJPoLi3SawtEX6BBHOfDkzQWcIhi/VwdWc3Tni9YaERU/5298dWW0HSQsVTIKNmLGw7N650gbPQqoJ78J5GxWQg=;d9qTVgbwkrH9V01s0sdv0w=="
+secured: "BzZlMaPpOnHa+Im3LdKzkJIF6pGWAmnMgH0CBR1bbrANu88qUskTXaU5zISpYqKaFvkMXfsGOAZniqAuMc4dn1amkI+Tf3gl5BCU1v9IgCoQNS1Uao3W9Utah8KYpOKo2COz/VVul9r52DmmOadxcmVvnMN0V6a+ydv1Rr9yfEemAW5ndt7ebGXzB5QnioZWDacDx8apoITKt+uWoeyvYWmmAmVG1Syv7Wek4WQJ/SjnEq8dugXRJ47iDvt4XmzCQbUWDZ2AyrZGpl7Ipr6H55haLm/MPuNmmYjd0qdG4iLiR0zuzU4RNbb68wzOWOueFtPBQbhkkcFSwyJKZWkVJIS/B+lbOq+RTesRKh9s1oo3dEM7cGKRCiSV0uvMUY+mwcJtTuusZ9c+3Wg6BM+K7eW1dl2AAfcjSodoj4WNVSPS7x83B5GehqVpzOI/OU+aqijGxjfubhktIJPPv824E5URP2xUYLI5UB5xGYIVuaDv5AXfAHg4x/sKHWnYRzZp+jBcwUtUXMSKgXvNTfwmSA==;S94jPDIsj9frQ/MVx7UBsA=="
 ---
 

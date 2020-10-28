@@ -92,20 +92,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "House Republicans urge Barr to appoint special counsel to probe alleged Biden revelations"
-    excerpt: "EXCLUSIVE: House Republicans on Monday wrote to Attorney General William Barr, urging him to appoint a special counsel to investigate alleged revelations coming from a laptop purported to have belonged to Joe Biden’s son Hunter -- specifically the elder Biden’s alleged participation in his son’s business"
-    publishedDateTime: 2020-10-19T16:50:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j3QqEeHpmoc/house-republicans-barr-special-counsel-biden"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Hunter-Biden-Getty.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
     excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
     publishedDateTime: 2020-10-20T22:32:00Z

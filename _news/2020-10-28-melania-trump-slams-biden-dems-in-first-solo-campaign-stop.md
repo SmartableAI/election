@@ -511,6 +511,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Majority of Americans View Joe Biden as More of a Patriot Than Donald Trump, New Poll Shows"
+    excerpt: "The vice president has defended himself against claims he supports socialism, and a new poll may indicate that Trump hasn't been able to make the socialist label stick to his challenger."
+    publishedDateTime: 2020-10-28T13:21:00Z
+    webUrl: "https://www.newsweek.com/majority-americans-view-joe-biden-more-patriot-donald-trump-new-poll-shows-1542822"
+    ampWebUrl: "https://www.newsweek.com/majority-americans-view-joe-biden-more-patriot-donald-trump-new-poll-shows-1542822?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-view-joe-biden-more-patriot-donald-trump-new-poll-shows-1542822?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1660261/joe-biden-donald-trump-patriot.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
     excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
     publishedDateTime: 2020-10-22T06:50:00Z

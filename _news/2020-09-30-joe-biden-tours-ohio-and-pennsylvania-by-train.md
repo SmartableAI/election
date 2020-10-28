@@ -499,6 +499,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Majority of Americans View Joe Biden as More of a Patriot Than Donald Trump, New Poll Shows"
+    excerpt: "The vice president has defended himself against claims he supports socialism, and a new poll may indicate that Trump hasn't been able to make the socialist label stick to his challenger."
+    publishedDateTime: 2020-10-28T13:21:00Z
+    webUrl: "https://www.newsweek.com/majority-americans-view-joe-biden-more-patriot-donald-trump-new-poll-shows-1542822"
+    ampWebUrl: "https://www.newsweek.com/majority-americans-view-joe-biden-more-patriot-donald-trump-new-poll-shows-1542822?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-view-joe-biden-more-patriot-donald-trump-new-poll-shows-1542822?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1660261/joe-biden-donald-trump-patriot.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Melania Trump slams Biden, Dems in first solo campaign stop"
     excerpt: "Melania Trump lined up squarely with her husband Tuesday on her first solo trip of the 2020 campaign, slamming Joe Biden, Democrats and the media as she pushed the president's reeelection message in the battleground state of Pennsylvania."
     publishedDateTime: 2020-10-28T02:04:00Z

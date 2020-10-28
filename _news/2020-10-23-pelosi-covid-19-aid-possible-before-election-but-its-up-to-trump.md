@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
 type: article
 quality: 140
-heat: 860
+heat: 880
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/193ad968-dec8-43a1-8b41-505a674538e1-foreign_policy_Trump.JPG?auto=webp&crop=4991,2807,x1,y374&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Obama mocks Trump for being 'jealous of COVID's media coverage'"
+    excerpt: "Former President Barack Obama said that President Trump had \"completely [screwed] this up\" and mocked his response to the coronavirus crisis."
+    publishedDateTime: 2020-10-28T12:41:00Z
+    webUrl: "https://www.businessinsider.com/video-barack-obama-mock-donald-trump-jealous-covid-media-coverage-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-barack-obama-mock-donald-trump-jealous-covid-media-coverage-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-barack-obama-mock-donald-trump-jealous-covid-media-coverage-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f99417c69331a0011bc5a24?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "White House Lists 'Ending' Covid-19 Pandemic As Trump Accomplishment"
     excerpt: "\"The Administration has taken several actions to engage scientists in academia, industry, and government to understand and defeat this disease.\""
