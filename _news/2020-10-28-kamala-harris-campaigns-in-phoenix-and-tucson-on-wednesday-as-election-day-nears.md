@@ -2,19 +2,19 @@
 category: news
 title: "Kamala Harris campaigns in Phoenix and Tucson on Wednesday as Election Day nears"
 excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
-publishedDateTime: 2020-10-28T13:08:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
-webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
-ampWebUrl: "https://amp.azcentral.com/amp/3750272001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3750272001"
+publishedDateTime: 2020-10-28T16:23:00Z
+originalUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+ampWebUrl: "https://amp.cincinnati.com/amp/3750272001"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3750272001"
 type: article
 quality: 85
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
@@ -109,8 +109,8 @@ related:
         isCached: true
   - title: "Banners and prayers for Kamala Harris in her ancestral Indian village"
     excerpt: "A big banner of U.S. vice presidential candidate Kamala Harris welcomes visitors to Thulasendrapuram, a lush, green south Indian village that is praying for her Democratic Party's victory in the Nov."
-    publishedDateTime: 2020-10-27T08:36:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-harris-india-idUSKBN27C0VJ"
+    publishedDateTime: 2020-10-27T12:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-harris-india/banners-and-prayers-for-kamala-harris-in-her-ancestral-indian-village-idUSKBN27C0V7"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0VJ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0VJ"
     type: article
@@ -260,6 +260,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZGTDFLUUNFFR5IUKOA55HRRVKU.JPG"
         width: 1300
         height: 853
+        isCached: true
+  - title: "Rick Scott to run Florida TV ad attacking Joe Biden and Kamala Harris"
+    excerpt: "Florida Republican Sen. Rick Scott isn’t on the 2020 ballot, but voters in Florida will get a glimpse of the senator on their TV screens this weekend."
+    publishedDateTime: 2020-10-28T21:05:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article246786022.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246786022.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246786022.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 90
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/190951ad-211d-4476-9caf-2eb44994d02d/e4f6c851-08c1-4d1c-9f2a-056b2a9fc7ef/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris in Michigan: Trump administration 'is admitting defeat' on COVID-19"
     excerpt: "Democratic vice presidential nominee Sen. Kamala Harris said that the Trump administration \"is admitting defeat\" after White House Chief of Staff Mark Meadows said the United States \"is not going to control\" the virus."
@@ -946,6 +962,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "OZIR2/BoE2DFZyuDWwyTUYBdnSop44wddZDKr3qi53VDzcMqULEggGVJ2o5iQXnOugbgFhZdEVYtEsnel6S6bc6HKNP/48KQqmbyArAZRz49VgOrldKGURO2Vqbg/XnawnSh8FY1s86uLvFcr3NvyESal55s+mFo6q94k9o2bQvoUKeGniUDDHokcCCrdWinm/7lCcc+VQ0To7VDMzgpvf2PKCbfN7cSbg8CfEdTp6H/1MCsDmQlkFNq1688NVMYni3mVgymdWvo0bPmqmeSs4xuf6Gt7X/Gu/QI2Nec1RclCnSde8Gh8e9JP/vVHcZ66DoVhey/v3yThbjSj/vUfjInWOrx4j11CepPs33rOQQ=;ruhLG0/wLgP9+iuQYoPT5Q=="
+secured: "OK760WzGnxi8l+H08KYI9o0sHJLWna6mStaIZ93xbk029L/nhA7Vrq5dtCc1AvTHaMUjF+Z1cEgCgyjpcrbFTo/92ICMqIxmFsXEOOvrGtrU+8fG78qyTYPbTmLdhPNtzqlFZM8fdskGD5TWR2t2mJWfRdxt/1XyRXQdsfmHozyIWSI+Cb3k79noa09Y4ArLpanspSiYAPcmCedDPox8j3Qy44ZZAIgsOWw7L4sLaxjqQfGCTEK+gbybFCqdqk4QboYs1EGrbTBuh7sKsS/LSM5oH7bjrT2K87WyUVE4RCTjiGEZJ1fyCcUsHD9Y0u3IhkMC6zyCTvGomzh91KLUuu+4nkEsRc4aiBj9yjxaq58=;KM1fD5FOidXjSsCMvOAJqg=="
 ---
 

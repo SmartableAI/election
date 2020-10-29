@@ -1054,6 +1054,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rev. Samuel Rodriguez: Biden vs. Trump -- Why Latinos in Florida are turning to Trump"
+    excerpt: "As expected, Biden is leading President Trump with Latino voters nationally, but he is seriously underperforming Hillary Clinton’s support among the community in 2016. This is of particular concern in Florida,"
+    publishedDateTime: 2020-10-29T04:27:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-trump-latinos-florida-rodriguez"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-trump-latinos-florida-rodriguez.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-trump-latinos-florida-rodriguez.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abd46989-7790-4196-b6ac-017715cd6a1b/9cc87f82-51b7-4ace-abc8-4b5989288067/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Doug Schoen: Biden's ahead in polls — but so was Hillary Clinton. Can Trump still win?"
     excerpt: "Yet, for many Americans, Biden’s current position feels reminiscent of the two weeks before the 2016 election, when Hillary Clinton held a similar lead. At this point in 2016, FiveThirtyEight’s election model gave Hillary Clinton an 86% chance of winning."
     publishedDateTime: 2020-10-21T21:01:00Z

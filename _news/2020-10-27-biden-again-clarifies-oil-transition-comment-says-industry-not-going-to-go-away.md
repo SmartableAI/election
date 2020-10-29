@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-oil-industry-not-going-away.a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-oil-industry-not-going-away.amp"
 type: article
 quality: 168
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Karl Rove: Promised Biden 'transition' from oil, fossil fuels would be death blow to Texas economy"
+    excerpt: "Joe Biden's promise to \"transition\" from the oil industry and fossil fuel exploration will kill the economy in Texas and other states while increasing energy costs and causing massive job losses, Fox News contributor Karl Rove told \"The Ingraham Angle\" Wednesday."
+    publishedDateTime: 2020-10-29T04:19:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MubjlemHxTU/karl-rove-biden-transition-fossil-fuels-death-blow-texas"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-biden-transition-fossil-fuels-death-blow-texas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-biden-transition-fossil-fuels-death-blow-texas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e5f5ecf-69c8-4d65-b006-590531973a2b/9f5f1411-3d53-4ddb-97de-fe9ab048d593/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's Amtrak trips prompt House GOP questions on costs, impact on railroad operations"
     excerpt: "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign."
     publishedDateTime: 2020-10-22T09:16:00Z

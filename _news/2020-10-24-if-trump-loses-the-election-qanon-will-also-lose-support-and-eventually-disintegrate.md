@@ -496,6 +496,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "What data journalists say about the election models giving Trump slim chance of winning"
+    excerpt: "A serious slice of the country is still scarred from 2016 when Donald Trump defied the odds and defeated Hillary Clinton. Four years later, that political upset has led many Americans to be skeptical of current models showing Trump,"
+    publishedDateTime: 2020-10-29T04:32:00Z
+    webUrl: "https://www.cnn.com/2020/10/29/media/data-journalists-election-models-trump-reliable-sources/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/media/data-journalists-election-models-trump-reliable-sources/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/media/data-journalists-election-models-trump-reliable-sources/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029001611-donald-trump-goodyear-arizona-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Already in a health care ditch, Trump gets shovel, keeps digging"
     excerpt: "Trump's health care comments to \"60 Minutes\" were a mess. His related rhetoric during the presidential debate wasn't any better."
     publishedDateTime: 2020-10-23T16:56:00Z

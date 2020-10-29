@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
 type: article
 quality: 190
-heat: 450
+heat: 470
 published: true
 
 provider:
@@ -202,6 +202,22 @@ related:
     quality: 134
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump: Philadelphia police shooting a 'terrible event,' but rioting comes from group Joe Biden 'supports'"
+    excerpt: "President Trump called on Democrats in Philadelphia to crack down on recent rioting, and blamed Joe Biden for not condemning the unrest strongly enough."
+    publishedDateTime: 2020-10-29T04:38:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3de87600-dbcb-4a99-96cb-260adff5cd13/76b665ff-3f3c-446c-a671-d8b9ba729f56/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

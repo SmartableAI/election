@@ -2,19 +2,19 @@
 category: news
 title: "Amy Coney Barrett, Mike Pence, Tropical Storm Zeta: 5 things to know Monday"
 excerpt: "Amy Coney Barrett is poised to become the ninth Supreme Court justice, Tropical Storm Zeta expected to develop into a hurricane and more things to start your Monday."
-publishedDateTime: 2020-10-26T09:02:00Z
-originalUrl: "https://www.tennessean.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/"
-webUrl: "https://www.tennessean.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/"
-ampWebUrl: "https://amp.tennessean.com/amp/6031654002"
-cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6031654002"
+publishedDateTime: 2020-10-26T08:19:00Z
+originalUrl: "https://www.freep.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/"
+webUrl: "https://www.freep.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/"
+ampWebUrl: "https://amp.freep.com/amp/6031654002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6031654002"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Tennessean
-  domain: tennessean.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -163,6 +163,6 @@ related:
         height: 532
         isCached: true
 
-secured: "vdwI0ADJSWqdeiK1iKdEsnY4t2j77z+BHCb06H0kaKp3hOqHBLY/5J5KP/BRs8v1XrkG4FevqAqooIsALX03Othg029hGYH2r2otSubHci2GgHDeCtUgXigTYOvWk1jfpMFoUfBpEwxqIQVo8iifsomkDtHzwRl3O0XAld+0tuUDIMcAO0FWCJD6s3oLr6yNQRKfdt+P1nxkRSLxmlCyP/3PAGMGZWMYGhO/6lbHJSYw/zm9GxZ5xcUT9Vlsw7qYRqtIC1UXDy+zu6Mm7jBUND2LBgjzZ0ZIVMMG68slFw6fi1UTkzHJsR2kJO6Pm49UestB2ySsxanaJj5v2jrJ22MV8RnxKk4lwtsUwz0HWCQ=;v3ln3uvJZ2oN3FmCDaZFZg=="
+secured: "cw0S1TO6HHy7YJ8fjyaMeMnrQqzZuFp/VDjupJbbGu2OIQ+KHovikRYb80MCSmAp8ZVuOWSkMbNh1mFWQXlZ0XUjtg+Pds9ZYND1Q6mRNZ7ua7QtwU9wffF7o6qylawO5GafV/pJ99QQwoeRMaLJSa532cnLcTr9IPxon3ctyaRK6HLij86FPkQcOYEKks7YYT6dGBH0fmQNtQflB2ctyW5sKIWD0z6rXxxptLK6ob/Dtt4fNwFdn8SB6DuKZIKaVBRJcSB0SM33TYSDkVTK2JxJWtn46C6mkll8hDJZyVeFk8y7wvVwXUmMv/DQdbGug7zR4RpvYd7NtFqrdw/GwnPXIAqmMbp6jbG4vVQ5C5U=;uPJAVZX9DWJITB8oQwa+ag=="
 ---
 

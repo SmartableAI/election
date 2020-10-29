@@ -1311,6 +1311,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Is the stock market rooting for Trump or Biden? The answer may surprise you"
+    excerpt: "It turns out the stock market cares more about which party controls Congress than it does about which party wins the presidency."
+    publishedDateTime: 2020-10-29T04:07:00Z
+    webUrl: "https://www.usatoday.com/story/money/markets/2020/10/29/trump-biden-election-2020-stimulus-stock-market-dow/3755707001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3755707001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3755707001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 138
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/5ef8c7fd-4183-4634-8d21-f7566ea9c780-AP_Election_2020_Debate.jpg?auto=webp&crop=5464,3074,x0,y160&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump, Biden debate was exchange of insults and incivility. See for yourself."
     excerpt: "The first debate between Republican President Donald Trump and Democratic candidate Joe Biden will probably be remembered for the personal attacks, insults and incivility that surprised and dismayed even the most jaded viewers."
     publishedDateTime: 2020-10-01T22:58:00Z

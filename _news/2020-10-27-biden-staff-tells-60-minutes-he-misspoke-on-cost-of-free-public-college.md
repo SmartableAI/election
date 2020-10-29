@@ -206,6 +206,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump: Philadelphia police shooting a 'terrible event,' but rioting comes from group Joe Biden 'supports'"
+    excerpt: "President Trump called on Democrats in Philadelphia to crack down on recent rioting, and blamed Joe Biden for not condemning the unrest strongly enough."
+    publishedDateTime: 2020-10-29T04:38:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3de87600-dbcb-4a99-96cb-260adff5cd13/76b665ff-3f3c-446c-a671-d8b9ba729f56/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'The Tape' Shows Biden Is Lying About Fracking"
     excerpt: "Democratic nominee Joe Biden is lying. On Thursday, during the final 2020 presidential debate, Biden denied ever saying he opposes fracking. But he absolutely did. To claim otherwise, as the former vice president did Thursday evening,"
     publishedDateTime: 2020-10-23T19:16:00Z

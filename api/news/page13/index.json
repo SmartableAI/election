@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-17-exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence.md",
+      "title": "EXCLUSIVE: NBC2 speaks one-on-one with Vice President Mike Pence",
+      "excerpt": "All eyes are on Florida Thursday as President Donald Trump visits Miami for town hall meeting to be broadcast on NBC. Vice President Mike Pence held a rally Thursday in Miami befo",
+      "sourceUrl": null,
+      "webUrl": "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/",
+      "originalUrl": "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nbc-2.com/wp-content/uploads/2020/10/pence.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/",
+      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/",
+      "publishedDateTime": "2020-10-16T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC2",
+        "domain": "nbc-2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-halloween-2020-pet-costumes-to-dress-dogs-up-as-baby-yoda-donald-trump-and-more.md",
       "title": "Halloween 2020: Pet costumes to dress dogs up as baby Yoda, Donald Trump and more",
       "excerpt": "These adorable pet costumes will surely brighten your day, even if the COVID pandemic ruined your plans this year. Dressing up to celebrate Halloween is one of the safest ways to celebrate during the pandemic.",
@@ -1279,49 +1322,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-pence-touts-anti-socialism-in-miami-campaign-stop.md",
-      "title": "Pence touts anti-socialism in Miami campaign stop",
-      "excerpt": "Vice President Mike Pence traveled to Florida on Thursday to rally Hispanic voters by highlighting President Donald Trump's record opposing socialist leaders across Latin America. (Oct. 15)",
-      "sourceUrl": null,
-      "webUrl": "https://www.jsonline.com/videos/news/nation/2020/10/15/pence-touts-anti-socialism-miami-campaign-stop/3671610001/",
-      "originalUrl": "https://www.jsonline.com/videos/news/nation/2020/10/15/pence-touts-anti-socialism-miami-campaign-stop/3671610001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/91dffbe1-e4dc-4656-8571-0b21820a99e0_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "jsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

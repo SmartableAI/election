@@ -113,8 +113,8 @@ related:
         isCached: true
   - title: "Banners and prayers for Kamala Harris in her ancestral Indian village"
     excerpt: "A big banner of U.S. vice presidential candidate Kamala Harris welcomes visitors to Thulasendrapuram, a lush, green south Indian village that is praying for her Democratic Party's victory in the Nov."
-    publishedDateTime: 2020-10-27T08:36:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-harris-india-idUSKBN27C0VJ"
+    publishedDateTime: 2020-10-27T12:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-harris-india/banners-and-prayers-for-kamala-harris-in-her-ancestral-indian-village-idUSKBN27C0V7"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0VJ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0VJ"
     type: article
@@ -265,6 +265,22 @@ related:
         width: 1300
         height: 853
         isCached: true
+  - title: "Rick Scott to run Florida TV ad attacking Joe Biden and Kamala Harris"
+    excerpt: "Florida Republican Sen. Rick Scott isn’t on the 2020 ballot, but voters in Florida will get a glimpse of the senator on their TV screens this weekend."
+    publishedDateTime: 2020-10-28T21:05:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article246786022.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246786022.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246786022.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 90
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/190951ad-211d-4476-9caf-2eb44994d02d/e4f6c851-08c1-4d1c-9f2a-056b2a9fc7ef/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris in Michigan: Trump administration 'is admitting defeat' on COVID-19"
     excerpt: "Democratic vice presidential nominee Sen. Kamala Harris said that the Trump administration \"is admitting defeat\" after White House Chief of Staff Mark Meadows said the United States \"is not going to control\" the virus."
     publishedDateTime: 2020-10-25T23:35:00Z
@@ -283,14 +299,14 @@ related:
         isCached: true
   - title: "Kamala Harris campaigns in Phoenix and Tucson on Wednesday as Election Day nears"
     excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
-    publishedDateTime: 2020-10-28T13:08:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3750272001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3750272001"
+    publishedDateTime: 2020-10-28T16:23:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3750272001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3750272001"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 85
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"

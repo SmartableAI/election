@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Karl Rove: Promised Biden 'transition' from oil, fossil fuels would be death blow to Texas economy"
+    excerpt: "Joe Biden's promise to \"transition\" from the oil industry and fossil fuel exploration will kill the economy in Texas and other states while increasing energy costs and causing massive job losses, Fox News contributor Karl Rove told \"The Ingraham Angle\" Wednesday."
+    publishedDateTime: 2020-10-29T04:19:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MubjlemHxTU/karl-rove-biden-transition-fossil-fuels-death-blow-texas"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-biden-transition-fossil-fuels-death-blow-texas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-biden-transition-fossil-fuels-death-blow-texas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e5f5ecf-69c8-4d65-b006-590531973a2b/9f5f1411-3d53-4ddb-97de-fe9ab048d593/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "9ZhZipS34jEIW9Tthj1Z36YLpMHkqZ3V9Vy15Zml7uR7qqKRJnmcgwFyqKn+mIpiPF7Upoc+u9Or5H477lIoPnD0yYmMZTcLxYjX5zk7s2GCruGrTJhWc9+yHbpKNKmIkT0jWyujxkzXoZZ2PZNXLkqEJ2TubknMtCYmaEblYowpwRZTo+9oGaVaUh4V7snnYg4dh3vpqsL+oARyq1kf520vObfFcU33t/lUfovmRbLjcSL5Qd0OkssAHetzS5ZTKD9gwNkjigQ7vrXsR8SnFZnwFo7ZsEn9BpxLoz2KgB176r+XXLzGOr5PObFv1avfFMw3Uwl08NB+mzaV9rInPvI5/E3R7tcyr4yIoQBLnFL2D1JWG1LOFpR3oAz2EU/U45/5KhnaZpFt+N0UDhrwb8Iu8vV6onbXzPsoh9DZepVjxO8K+D84WsyaLMV2Ui4yNb1/vT2Uq8CnV/eBNB3Cax9kKpu/FBsUCPrgsb3j7WNNidwa7CnFH5mk/BrFviPDC3/BVSqX9lto2iTiebp4Ug==;Ea1I75jgj3+YpXXzqGD73w=="
 ---

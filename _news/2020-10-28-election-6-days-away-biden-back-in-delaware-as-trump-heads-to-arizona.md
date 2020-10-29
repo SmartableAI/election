@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-election-october-28.amp"
 type: article
 quality: 205
-heat: 1765
+heat: 1785
 published: true
 
 provider:
@@ -1050,6 +1050,22 @@ related:
     quality: 145
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rev. Samuel Rodriguez: Biden vs. Trump -- Why Latinos in Florida are turning to Trump"
+    excerpt: "As expected, Biden is leading President Trump with Latino voters nationally, but he is seriously underperforming Hillary Clinton’s support among the community in 2016. This is of particular concern in Florida,"
+    publishedDateTime: 2020-10-29T04:27:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-trump-latinos-florida-rodriguez"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-trump-latinos-florida-rodriguez.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-trump-latinos-florida-rodriguez.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abd46989-7790-4196-b6ac-017715cd6a1b/9cc87f82-51b7-4ace-abc8-4b5989288067/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

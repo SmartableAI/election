@@ -152,14 +152,14 @@ related:
         isCached: true
   - title: "Amy Coney Barrett, Mike Pence, Tropical Storm Zeta: 5 things to know Monday"
     excerpt: "Amy Coney Barrett is poised to become the ninth Supreme Court justice, Tropical Storm Zeta expected to develop into a hurricane and more things to start your Monday."
-    publishedDateTime: 2020-10-26T09:02:00Z
-    webUrl: "https://www.tennessean.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/6031654002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6031654002"
+    publishedDateTime: 2020-10-26T08:19:00Z
+    webUrl: "https://www.freep.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/"
+    ampWebUrl: "https://amp.freep.com/amp/6031654002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6031654002"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 73
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
