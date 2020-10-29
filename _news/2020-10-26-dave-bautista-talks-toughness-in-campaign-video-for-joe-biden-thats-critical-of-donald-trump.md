@@ -401,6 +401,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump, Biden trade barbs at dueling Florida rallies"
+    excerpt: "With five days left until Election Day on Nov. 3, Democratic presidential nominee Joe Biden and President Trump took aim at each other and courted the dwindling ranks of undecided voters at campaign stops in Florida on Thursday."
+    publishedDateTime: 2020-10-29T21:40:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrHh3vYOEdQ/trump-biden-trade-barbs-florida-rallies"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-trade-barbs-florida-rallies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-trade-barbs-florida-rallies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20303720362961.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pennsylvania energy workers feature heavily in Trump, Biden bid for votes"
     excerpt: "The two 2020 contenders have clashed over Biden’s stance on hydraulic fracturing."
     publishedDateTime: 2020-10-28T01:37:48Z
@@ -846,6 +862,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cb39650-9836-4a92-bd37-131f281931a1/b6d1095f-0a69-4927-bcd9-d064fdae3b93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden has multiple 'pathways to get to 270' while Trump does not, ex-Obama deputy campaign manager says"
+    excerpt: "Democratic presidential nominee Joe Biden has more paths to win the 270 electoral votes required to become president than incumbent President Trump, former Obama deputy campaign manager Stephanie Cutter told \"The Daily Briefing\" Thursday."
+    publishedDateTime: 2020-10-29T21:06:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UkdtP3JlH18/stephanie-cutter-biden-multiple-pathways-270-electoral-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/stephanie-cutter-biden-multiple-pathways-270-electoral-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephanie-cutter-biden-multiple-pathways-270-electoral-votes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd198156-4653-4620-b65e-ee04e2c5de27/3f2031d7-2c15-4ee3-abb6-af6b5f530674/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1308,6 +1340,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11598c90-e6f7-4df5-8671-3a8bf384c4e9/d5a8c37d-61c8-4a04-acfe-10c423f7a4ad/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden Holds Narrow Lead Over Trump Among Florida Hispanics, Poll Finds"
+    excerpt: "Ahead of competing events in Florida today, Joe Biden leads Donald Trump with Hispanic voters in the Sunshine State by a tight 48%-43% margin, according to [a Telemundo poll]( out this morning. Mr. Bi"
+    publishedDateTime: 2020-10-29T21:07:00Z
+    webUrl: "https://www.wsj.com/livecoverage/election-live-updates-trump-biden-2020-10-29/card/F6PPyw64gZL8dypQXzc0"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-251723?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Cyber Daily: Trump vs. Biden on Key Security, Privacy Issues | Fraud-Detection Startup NS8 Heads to Bankruptcy Court"
     excerpt: "Although cybersecurity and privacy issues get relatively little attention on a presidential campaign trail dominated by the coronavirus pandemic, several such matters could play an outsize role in the next four years of economic and foreign policy from the White House."

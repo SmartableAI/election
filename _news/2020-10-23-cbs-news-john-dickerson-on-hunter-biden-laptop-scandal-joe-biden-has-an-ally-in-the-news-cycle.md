@@ -112,22 +112,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Joe Biden calls son Hunter 'smartest guy I know' amid questions over business dealings"
-    excerpt: "Democratic nominee Joe Biden on Wednesday described his son Hunter as “the smartest guy I know” -- amid growing questions about the former vice president's alleged ties to his son’s business dealings."
-    publishedDateTime: 2020-10-29T16:23:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8rOkwZ4yrgc/joe-biden-hunter-smartest-guy-i-know"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-smartest-guy-i-know.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-smartest-guy-i-know.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f8e86b2-dd62-4fc1-bc9d-057cb49070b6/f0c0f954-ce2f-4c61-b3d0-c8a1aa9a87aa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Source on alleged Hunter Biden email chain verifies message about Chinese investment firm"
     excerpt: "One of the people on an explosive email thread involving Hunter Biden has verified the veracity of the messages, which purportedly outlines a pay out for former Vice President Joe Biden as part of a deal with a Chinese energy firm."
     publishedDateTime: 2020-10-17T00:28:57Z
@@ -269,6 +253,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Joe Biden calls son Hunter 'smartest guy I know' amid questions over business dealings"
+    excerpt: "Democratic nominee Joe Biden on Wednesday described his son Hunter as “the smartest guy I know” -- amid growing questions about the former vice president's alleged ties to his son’s business dealings."
+    publishedDateTime: 2020-10-29T16:28:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-hunter-smartest-guy-i-know"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-smartest-guy-i-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-smartest-guy-i-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f8e86b2-dd62-4fc1-bc9d-057cb49070b6/f0c0f954-ce2f-4c61-b3d0-c8a1aa9a87aa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Gowdy rips media silence on Hunter Biden scandal: 'It's relevant whether Joe Biden took any money'"
     excerpt: "S.C., blasted the mainstream media Thursday for downplaying confirmation by Hunter Biden's former business partner that an email published by the New York Post last week is \"genuine."

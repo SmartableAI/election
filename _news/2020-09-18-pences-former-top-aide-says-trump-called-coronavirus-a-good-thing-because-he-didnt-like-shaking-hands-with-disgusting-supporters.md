@@ -1515,6 +1515,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 135
+  - title: "4-year-old twin girls dress as presidential candidates Donald Trump and Joe Biden"
+    excerpt: "Footage showing Koti and Haven dressed as President Donald Trump and former Vice President Joe Biden has garnered millions of view on TikTok."
+    publishedDateTime: 2020-10-29T19:42:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/year-twin-girls-dress-presidential-candidates-donald-trump/story?id=73907949"
+    ampWebUrl: "https://goodmorningamerica.com/amp/family/story/year-twin-girls-dress-presidential-candidates-donald-trump-73907949"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/family/story/year-twin-girls-dress-presidential-candidates-donald-trump-73907949"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/GMA/twins-halloween-trump-biden-ht-MAIN-np-201029_1603998896443_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Cuts Joe Biden's Lead in Half After Ruth Bader Ginsburg's Death: Poll"
     excerpt: "President Donald Trump gained five points on Democratic presidential candidate Joe Biden in poll data released Thursday."
     publishedDateTime: 2020-09-24T21:26:00Z

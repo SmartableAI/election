@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamal
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view?_amp=true"
 type: article
 quality: 149
-heat: 1489
+heat: 1509
 published: true
 
 provider:
@@ -205,6 +205,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/cc0ed281-5adb-4618-9ee5-604969d0c8ad/thumbnail/1200x630/fa39c5b4e5cc5d77afb0abb53f77ec75/1026-en-norah-575001-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Harris target of more misinformation than Pence, data shows"
+    excerpt: "Long before Democratic presidential nominee Joe Biden announced her as his running mate, Kamala Harris was the target of widespread online misinformation. Social media posts included racist claims that she was ineligible to serve in the White House or that she was lying about her Black and Indian heritage."
+    publishedDateTime: 2020-10-29T21:25:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Harris-target-of-more-misinformation-than-Pence-15686458.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Harris-target-of-more-misinformation-than-Pence-15686458.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Harris-target-of-more-misinformation-than-Pence-15686458.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 100
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/77/36/20182943/3/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
   - title: "Democrats of color rally around Kamala Harris amid racial microaggressions, political attacks"
     excerpt: "Kamala Harris' path on the campaign trail has been filled with discrimination, as she is the first Black and Indian Democratic vice presidential nominee, and a woman."

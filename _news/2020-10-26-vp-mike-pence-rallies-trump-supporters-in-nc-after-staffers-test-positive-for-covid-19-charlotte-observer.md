@@ -353,6 +353,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump officials tout progress on border wall before election"
+    excerpt: "Top Trump administration officials visited Texas five days before Election Day to announce they have nearly completed 400 miles of U.S.-Mexico border wall, trying to show progress on perhaps the president's best-known campaign promise four years ago."
+    publishedDateTime: 2020-10-29T20:33:00Z
+    webUrl: "https://www.businessinsider.com/trump-officials-tout-progress-on-border-wall-before-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-officials-tout-progress-on-border-wall-before-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-tout-progress-on-border-wall-before-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Pelosi, Trump trade blame on COVID-19 stimulus talks; Senate Republicans on sidelines"
     excerpt: "U.S. House Speaker Nancy Pelosi said on Friday it still was possible to get another round of COVID-19 aid before the Nov. 3 general election, but that it was up to President Donald Trump to act, including bringing along reluctant Senate Republicans."
     publishedDateTime: 2020-10-24T08:54:00Z
@@ -517,6 +528,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "The Trump Administration Asked Celebrities to Film a COVID PSA. They Ghosted."
+    excerpt: "HHS planned a start-studded, taxpayer-funded campaign ostensibly meant to educate the public on the pandemic, but was actually designed as damage control for the president."
+    publishedDateTime: 2020-10-29T20:16:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/trum-admin-celebrity-covid-psa"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/trum-admin-celebrity-covid-psa/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/trum-admin-celebrity-covid-psa/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 72
+    images:
+      - url: "https://media.vanityfair.com/photos/5f9adc08d070eec8d50f0fad/master/pass/Trump10.29.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Trump Tries To Out-macho Covid And Signs Of Election Defeat"
     excerpt: "President Donald Trump doubled down Tuesday on the macho image his fans adore after declaring himself cured of Covid-19 and scoffing at disastrous opinion polls only four weeks before election day against Democrat Joe Biden."
     publishedDateTime: 2020-10-06T16:21:00Z
@@ -628,6 +655,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/stirewalt.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump Administration Reportedly Had to Exclude a Bunch of Anti-Trump Celebs From $250 Million Coronavirus Ad Campaign"
+    excerpt: "A total of 264 celebrities and public figures were excluded from a $250 million advertising contract, which aimed to \"defeat despair and inspire hope\" amid the coronavirus pandemic for being too critical of President Donald Trump and his policies,"
+    publishedDateTime: 2020-10-29T21:19:00Z
+    webUrl: "https://www.mediaite.com/politics/trump-administration-reportedly-had-to-exclude-a-bunch-of-anti-trump-celebs-from-250-million-coronavirus-ad-campaign/"
+    ampWebUrl: "https://www.mediaite.com/politics/trump-administration-reportedly-had-to-exclude-a-bunch-of-anti-trump-celebs-from-250-million-coronavirus-ad-campaign/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/politics/trump-administration-reportedly-had-to-exclude-a-bunch-of-anti-trump-celebs-from-250-million-coronavirus-ad-campaign/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 52
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/GettyImages-1203665058-1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "5xjvQC/FzT7TlFDqNKpmmqu7a3N1EYgDOKTA6VGgPL237xA7Zx1JdDJRX9NecBRhmPv8FEPQwlWjxWznguwPeYOXNG0yo+sdMjKZ450vjddoFMQuM9I5CGAUzH2E2t1MeHZvb4urv0mkipEL3snE0lbiz95b8UIojfECrUVp1vSimM+RKlCLESC15oQNz30GtHLTdxfU2SFKvPnHUygg+FacOGOtMrOAQnNJWwG5CjLrDhJaIF6ZVbS0GD4DDltZyJ0g3pT2JqLWr8Dm8SRowOhGFeasqT8AqtaqI4lO0uJYzfiNjfTImyegtT03PpWYNvUf0qdeF7Ov4dDNvVOQvmALHppf84SAxgu5pjoJeFauo0lnWaqyX1EeXoCrJ/MEkr1f9HtcfZgBcj4BKk77bAO6ZbvdJ0NSGr3FFvfiihM/bavco3uJkvNUVdO4LAQpeqRi9A6+FyKNdxDxaw1TN01/YQoqZPOI/TmKsKhAF/0fm4/XqGgUSoxMHHamdBRCo21ImeFwvFsIri3KiO/7PQ==;0N7S8v8S9EqGxce9FosbEA=="

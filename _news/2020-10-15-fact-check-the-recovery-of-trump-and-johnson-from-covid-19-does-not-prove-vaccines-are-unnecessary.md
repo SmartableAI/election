@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden says Trump is 'going to throw everything but the kitchen sink at me,' after Hunter Biden stories spark Facebook, Twitter backlash"
+    excerpt: "Democratic presidential nominee Joe Biden warned campaign donors that President Donald Trump is \"going to throw everything but the kitchen sink at me\" during the 19 days remaining before Election Day."
+    publishedDateTime: 2020-10-15T21:48:00Z
+    webUrl: "https://www.cnbc.com/2020/10/15/joe-biden-says-trump-lies-will-continue-after-hunter-biden-articles.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/15/joe-biden-says-trump-lies-will-continue-after-hunter-biden-articles.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/15/joe-biden-says-trump-lies-will-continue-after-hunter-biden-articles.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 108
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106739921-16025015462020-10-10t235625z_178747536_rc2xfj93a2cr_rtrmadp_0_usa-election-biden.jpeg?v=1602501611"
+        width: 3269
+        height: 1991
+        isCached: true
   - title: "Fact Check: Would Biden Raise Your Taxes? It Depends on Your Income"
     excerpt: "The Committee for a Responsible Federal Budget (CRFB) reported that Biden's plan would create revenue of \"$3.35 trillion and $3.67 trillion over a decade if enacted in full starting in 2021.\""
     publishedDateTime: 2020-10-09T17:43:00Z

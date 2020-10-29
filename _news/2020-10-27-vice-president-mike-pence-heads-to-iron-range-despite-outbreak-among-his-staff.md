@@ -773,20 +773,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Vice President Mike Pence campaigns in Mosinee"
-    excerpt: "Vice President Mike Pence campaigned in Mosinee Wednesday at the Central Wisconsin Airport. His visit comes a day after President Trump held a rally in West Salem. The Vice President spoke to voters about health care, jobs, and the economy. He said that ..."
-    publishedDateTime: 2020-10-29T00:00:00Z
-    webUrl: "https://wkow.com/2020/10/28/vice-president-mike-pence-campaigns-in-mosinee/"
-    type: article
-    provider:
-      name: WKOW
-      domain: wkow.com
-    quality: 55
-    images:
-      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/8/2020/10/pence-mosinee.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Vice President Pence Campaigns in Maine"
     excerpt: "President Pence delivers remarks at a campaign rally in Hermon, Maine. Vice President Pence delivers remarks at a campaign rally in Hermon, Maine. President Trump delivered remarks at a campaign rally in Macon,"
     publishedDateTime: 2020-10-19T13:34:00Z

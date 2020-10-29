@@ -187,6 +187,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Biden says Trump is 'going to throw everything but the kitchen sink at me,' after Hunter Biden stories spark Facebook, Twitter backlash"
+    excerpt: "Democratic presidential nominee Joe Biden warned campaign donors that President Donald Trump is \"going to throw everything but the kitchen sink at me\" during the 19 days remaining before Election Day."
+    publishedDateTime: 2020-10-15T21:48:00Z
+    webUrl: "https://www.cnbc.com/2020/10/15/joe-biden-says-trump-lies-will-continue-after-hunter-biden-articles.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/15/joe-biden-says-trump-lies-will-continue-after-hunter-biden-articles.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/15/joe-biden-says-trump-lies-will-continue-after-hunter-biden-articles.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 108
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106739921-16025015462020-10-10t235625z_178747536_rc2xfj93a2cr_rtrmadp_0_usa-election-biden.jpeg?v=1602501611"
+        width: 3269
+        height: 1991
+        isCached: true
   - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
     excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
     publishedDateTime: 2020-10-19T15:48:00Z

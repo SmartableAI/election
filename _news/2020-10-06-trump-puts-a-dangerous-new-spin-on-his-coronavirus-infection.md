@@ -766,6 +766,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "2 people who attended Trump's rally in North Carolina have tested positive for coronavirus"
+    excerpt: "Two people who attended one of President Donald Trump's recent rallies in North Carolina have tested positive for the coronavirus.\n    \n"
+    publishedDateTime: 2020-10-29T21:36:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lonDchYHybI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/trump-rally-covid-north-carolina-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/trump-rally-covid-north-carolina-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029164000-01-trump-rally-covid-case-1021-gastonia-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Election live updates: Biden, Trump campaigns push in battleground states"
     excerpt: "With only nine days until Election Day, the campaigns for both President Donald Trump and Democratic nominee Joe Biden are ramping up their public events in battleground states in their final full week on the trail."
     publishedDateTime: 2020-10-25T12:12:00Z
@@ -827,6 +843,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027143925-01-biden-ga-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pro-Biden unions, many contending with the coronavirus, double down in campaign's closing days"
+    excerpt: "This presidential election is so important to Eric Brown that he's not only telling his West Philadelphia neighbors and coworkers to vote, he's walking with them to the mailbox to drop off their absentee ballots.\n    \n"
+    publishedDateTime: 2020-10-29T21:14:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OQkUkmBo5Ag/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/unions-get-out-the-vote-biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/unions-get-out-the-vote-biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027155843-laura-rivas-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

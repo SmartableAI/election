@@ -2,13 +2,13 @@
 category: news
 title: "Joe Biden calls son Hunter 'smartest guy I know' amid questions over business dealings"
 excerpt: "Democratic nominee Joe Biden on Wednesday described his son Hunter as “the smartest guy I know” -- amid growing questions about the former vice president's alleged ties to his son’s business dealings."
-publishedDateTime: 2020-10-29T16:23:08Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8rOkwZ4yrgc/joe-biden-hunter-smartest-guy-i-know"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8rOkwZ4yrgc/joe-biden-hunter-smartest-guy-i-know"
+publishedDateTime: 2020-10-29T16:28:00Z
+originalUrl: "https://www.foxnews.com/politics/joe-biden-hunter-smartest-guy-i-know"
+webUrl: "https://www.foxnews.com/politics/joe-biden-hunter-smartest-guy-i-know"
 ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-smartest-guy-i-know.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-smartest-guy-i-know.amp"
 type: article
-quality: 167
+quality: 127
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -325,6 +326,6 @@ related:
         height: 500
         isCached: true
 
-secured: "amaQ7n+n0/tEzKGF3XZkXpcLTvUB+L0ZBFAAzUBHoexkmaXrpkF1KETM11ePggXmWpYj0Dp1utNX3z8/P4M1ZLbc/2kWaU48QQ2488BvNj6pc1PGa0ExSJa/CpA9o5s7IjHQKZ2BRbtlc76koeC8hEby4WS13D4JQPgrTiMY54t7+c7WszKa4UhclAvz0xjFBYid5RLj50xKHWo+xq91od4Hu6uUX/UxXgyaVv3V6ShvHfEe+QXFZKaqiV9bCScMfVsgXrDrP2md+Ixr461PkLXLEdtF/yGr/YV0Yw05sFZTyv2fB0AaASRAeECi6Xc7DtH18815VyY5eAqylZuukNOrbpjTCFpsHBLOj9eJFtY=;8lQmvTrxpwnmWK0dKceSrQ=="
+secured: "+WSa5k0YGJ+lWF1TSyahfRQeVJ/d83sgnrbVA7yHzq5LchUkj6lk48J2bUAABMXgEbD1WvgSkWtJ2ONR1HyDtAGlcuXL+ctBi98+Woe5YJdgLdDW8pbaw1wqC8QFVU9oU5DoK/KXn2P2gpdwGPRMuutRrtG5+GUF45EIS5EpkTUgJDxEjAl0Dy6Uk1Yc3zDoN78nYQgmpsVvWp31EjsrxcZe86jfGF7S9yYFuL46c1TskeiyzPedCV/Fr+g2U/j+JWVSRasxOv28z9A50wm0uF5iWBYe2aTubGPDZ+LhENJ3DiHL5QKNnrfHcJKTLk+VJKJohfhSPqmMLM4wKniww6T1WPiJIXFMCcOp6DPBseE=;dS8WPNV5iqaDyp6+eeSoGw=="
 ---
 

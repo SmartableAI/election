@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump seems to strike a new tone on masks: 'If you get close, wear a mask'"
+    excerpt: "President Donald Trump struck a slightly a new tone on mask-wearing at a rally on Thursday, telling a group of largely maskless, shoulder-to-shoulder supporters that he thinks wearing a mask is appropriate when social distancing isn't possible.\n    \n"
+    publishedDateTime: 2020-10-29T21:53:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/320rlFYwXBY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/trump-masks-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/trump-masks-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029155018-01-trumps-tampa-1029-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Saturday Night Live' sees Trump as a man without a Covid-19 plan"
     excerpt: "Live\" hammered President Donald Trump for his lack of a clear plan to combat the spread of Covid-19, opening with a spoof of the last presidential debate. It featured Alec Baldwin as Trump, Jim Carrey as Joe Biden and SNL alum Maya Rudolph as moderator Kristen Welker,"
     publishedDateTime: 2020-10-25T12:27:00Z

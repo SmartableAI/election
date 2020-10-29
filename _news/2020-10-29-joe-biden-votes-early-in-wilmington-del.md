@@ -141,6 +141,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Watch live: Biden holds campaign rally in Florida"
+    excerpt: "Democratic presidential nominee Joe Biden will hold a drive-in campaign rally Thursday night in Tampa, Fla.The event is scheduled to begin at 6:30 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-10-29T22:00:00Z
+    webUrl: "https://thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida"
+    ampWebUrl: "https://thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "WATCH LIVE: Joe Biden holds drive-in rally in Tampa, Florida"
+    excerpt: "Both nominees are now focusing on encouraging voters to turn out in person on Election Day, next Tuesday. More than 73 million Americans have already voted, either by absentee or by mail."
+    publishedDateTime: 2020-10-29T17:50:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-09T170355Z_1622682236_RC25FJ9G8NK1_RTRMADP_3_USA-ELECTION-BIDEN-1024x717.jpg"
+        width: 1024
+        height: 717
+        isCached: true
   - title: "President Trump casts a 'very secure vote' for himself in-person in Florida"
     excerpt: "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida."
     publishedDateTime: 2020-10-26T01:29:00Z

@@ -205,6 +205,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Harris target of more misinformation than Pence, data shows"
+    excerpt: "Long before Democratic presidential nominee Joe Biden announced her as his running mate, Kamala Harris was the target of widespread online misinformation. Social media posts included racist claims that she was ineligible to serve in the White House or that she was lying about her Black and Indian heritage."
+    publishedDateTime: 2020-10-29T21:25:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Harris-target-of-more-misinformation-than-Pence-15686458.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Harris-target-of-more-misinformation-than-Pence-15686458.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Harris-target-of-more-misinformation-than-Pence-15686458.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 100
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/77/36/20182943/3/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Democrats of color rally around Kamala Harris amid racial microaggressions, political attacks"
     excerpt: "Kamala Harris' path on the campaign trail has been filled with discrimination, as she is the first Black and Indian Democratic vice presidential nominee, and a woman."
     publishedDateTime: 2020-10-22T19:17:00Z
