@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden denies ever meeting Ukrainian official at behest of son Hunter and slams Rudy Giuliani's 'conspiracy theories'"
+    excerpt: "Joe Biden's campaign denied a report that the former vice president met with a Ukrainian businessman who worked with his son, Hunter Biden. “Investigations by the press, during impeachment ..."
+    publishedDateTime: 2020-10-14T18:05:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/joe-biden-denies-ever-meeting-ukrainian-official-at-behest-of-son-hunter-slams-rudy-giulianis-conspiracy-theories"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/joe-biden-denies-ever-meeting-ukrainian-official-at-behest-of-son-hunter-slams-rudy-giulianis-conspiracy-theories?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/joe-biden-denies-ever-meeting-ukrainian-official-at-behest-of-son-hunter-slams-rudy-giulianis-conspiracy-theories?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 60
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/3aed740/2147483647/strip/true/crop/2276x1326+0+0/resize/2276x1326!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F43%2F1f%2F2c6e67be4379a74b505b167e9db0%2Fap19277700435833.jpg"
+        width: 2276
+        height: 1326
+        isCached: true
 
 secured: "Izb+9oA8ihwaW0/FcdWaRoGusGAcIbrm7oz1NRyx5TBoHR6vhq1VpS9Bd9WRDBrvhEz4J32+p1Zih8lHdiyH0yzykEetuh348pTJDu3gcGLFgih4e6KAR6/BFnAY5bLqdqqQdg4xXYj31BIhYONGw3LSPRBZrFgaOAnUeAAgGoKzldhC5Dq/W675EOHLkMURjcLP068f6D3+uVMNwiJChuaQY62Xuyu0N4R0RJab74N2JItuZVL9ZFer8nk4Y1ScfOTZTSMnV3pyXtR76f262pPnrBej3H27uQxxCBQ0aA1LjOplA543nzhkVQYO0o+AihDoVXCoOdCT/bxihYcAHr08HxuGdFrcXpg0yCjJ0PY=;YhCg5BnZYsormx0+x9yiEQ=="
 ---

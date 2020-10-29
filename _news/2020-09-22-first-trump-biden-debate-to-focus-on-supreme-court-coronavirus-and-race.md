@@ -1667,6 +1667,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump confronts his 50 percent problem"
+    excerpt: "The president’s inability to capture a majority of support sheds light on his extraordinary efforts to suppress the vote."
+    publishedDateTime: 2020-10-29T11:23:00Z
+    webUrl: "https://www.politico.com/news/2020/10/29/trump-suppress-vote-win-433460"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/1c/24/737d01c44eba856b0407acb6a147/gettyimages-1282747712-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump campaign adviser signals president will tone it down at final debate"
     excerpt: "Trump campaign senior adviser Jason Miller signaled Sunday that President Donald Trump will take a less combative tack toward Democratic presidential nominee Joe Biden during their televised debate this week."
     publishedDateTime: 2020-10-18T14:11:00Z

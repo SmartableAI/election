@@ -560,6 +560,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Aims to Erode Trump’s Support Among Older Voters in Florida"
+    excerpt: "Visiting the Democratic stronghold of Broward County, Joe Biden argued that the president viewed older Americans who are at higher risk of the coronavirus as “expendable.” By Patricia Mazzei ..."
+    publishedDateTime: 2020-10-14T14:01:00Z
+    webUrl: "https://www.nytimes.com/2020/10/13/us/politics/joe-biden-florida-voters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/13/us/politics/joe-biden-florida-voters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/13/us/politics/joe-biden-florida-voters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/13/us/politics/13biden-florida/13biden-florida-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump hits Biden over unverified report on his son Hunter"
     excerpt: "Trump, at a rally in Des Moines and in an interview with Newsmax, seized on an unverified report in the New York Post about Hunter Biden."
     publishedDateTime: 2020-10-15T02:59:00Z

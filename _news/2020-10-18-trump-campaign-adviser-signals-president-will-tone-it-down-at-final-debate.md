@@ -1682,6 +1682,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump confronts his 50 percent problem"
+    excerpt: "The president’s inability to capture a majority of support sheds light on his extraordinary efforts to suppress the vote."
+    publishedDateTime: 2020-10-29T11:23:00Z
+    webUrl: "https://www.politico.com/news/2020/10/29/trump-suppress-vote-win-433460"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/1c/24/737d01c44eba856b0407acb6a147/gettyimages-1282747712-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Had Sound Bites. Biden Had Substance and Heart."
     excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."
     publishedDateTime: 2020-10-25T04:00:00Z

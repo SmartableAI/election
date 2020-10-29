@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-ramping-up-outreach-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-ramping-up-outreach-to-arizona-latinos.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/jill-joe-biden.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden campaign says Burisma meeting not on ‘official schedule’"
+    excerpt: "Democratic presidential candidate Joe Biden’s campaign said Wednesday in a carefully worded statement there were no meetings on his “official schedules” in 2015 with Burisma board adviser ..."
+    publishedDateTime: 2020-10-14T02:36:00Z
+    webUrl: "https://nypost.com/2020/10/14/biden-campaign-says-burisma-meeting-not-on-official-schedule/"
+    ampWebUrl: "https://nypost.com/2020/10/14/biden-campaign-says-burisma-meeting-not-on-official-schedule/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/14/biden-campaign-says-burisma-meeting-not-on-official-schedule/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/201014-biden-response.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Joe Biden Raised $383 Million in September, Breaking Earlier Record"
     excerpt: "Democratic presidential nominee Joe Biden’s campaign surpasses the record-breaking haul it collected a month earlier, raising funds that will allow it to run a large advertising campaign in the final weeks before the Nov."

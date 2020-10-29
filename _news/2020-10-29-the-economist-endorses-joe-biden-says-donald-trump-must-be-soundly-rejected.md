@@ -8,7 +8,7 @@ webUrl: "https://www.newsweek.com/economist-endorses-joe-biden-donald-trump-soun
 ampWebUrl: "https://www.newsweek.com/economist-endorses-joe-biden-donald-trump-soundly-rejected-1543157?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/economist-endorses-joe-biden-donald-trump-soundly-rejected-1543157?amp=1"
 type: article
-quality: 136
+quality: 146
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://d.newsweek.com/en/full/1661238/biden-speaks-during-drive-campaign-rally.jpg"
@@ -2516,6 +2517,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "vg/RAjEw9UEHkiJ2OMgojTsh/Ip8C2pbBs8cd0AoC+h4xWrDsWJw7t9nVzshUDqCHn2mO3Uf1qWs83JVg1gVlcPoiInNhlLXj0CbNby63elEegZufCRS8U19PM+ATlMg70NLt7SPr+0UrSRVHiLC9NNC5St8J4m7fp21Zt5s4gRvQgZfqkJQg3mxbvHrzAoVaxLh9tqOvRTNud+jauIKOHDJWUOwa1cRUMAL5xhJUOM0yFW3OPnCNkEjpGbYNdOUfl/nfbnNy+6JFS6k2UzsPk+gHGXYDDiVryIPZaWnneUAagCDGUbP2iDU0dsy568p8jydp3Q3JO/8yCPjrg74UlK6XiBo0dhvlrwVPcAO1KE=;lfeV9klKdmLs6zLxEDHjgw=="
+secured: "gaMsh5LlwjtJXqppNO9ejwDGF2fiGsEfgj2m8dLzDF3xppLwEIBdPqB5VgdBcZhXhNL3cZDLbjT54Rb6utCEnQR3bhM4Kyfxx6kOyDKXpz5KrdeClcAs/5IraGd2IkPtvt6sDQkIjHD1Ld1sn/ui7SF/jEJlsIDNTxG9vg7p4qpLxurBcvm6k1bUk7FHePoWL3Y27mFLHhZu34U81cCAqORMZdcB3Cm6MZZWHg6OGEbI16FguSglEMizRIc1vjaiJ+eqYHEX/7YH96FYVIoqz2aH9z4q5PJHScUbs77ITT2hCocmFnlHlLlMVPIJUlJg6C1egXVuF1idhY1U6qQ/8qGHFXltuB8mSMYPMOyShea8kPepMqUIaorhL9KeXajIpCIKT2HwmZWNAZCseS/8qTCqD5vOBgh7YvF2P/nTl+UtLnNnU/b1rOIyd8CDj5FjFRdEYuxic7fV4BQPwiztKqGcps7LKhuYlhSmcgjHq2KB5mx/l2kYBDYduXcQnxEuSFgwDME+1It2XwOldL67eQ==;ly5b2GnV7oUVgXYgEMyl4A=="
 ---
 

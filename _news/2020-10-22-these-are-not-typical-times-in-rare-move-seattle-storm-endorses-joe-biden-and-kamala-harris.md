@@ -104,8 +104,8 @@ related:
         isCached: true
   - title: "Banners and prayers for Kamala Harris in her ancestral Indian village"
     excerpt: "A big banner of U.S. vice presidential candidate Kamala Harris welcomes visitors to Thulasendrapuram, a lush, green south Indian village that is praying for her Democratic Party's victory in the Nov."
-    publishedDateTime: 2020-10-27T12:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-harris-india/banners-and-prayers-for-kamala-harris-in-her-ancestral-indian-village-idUSKBN27C0V7"
+    publishedDateTime: 2020-10-27T08:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-harris-india-idUSKBN27C0VJ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0VJ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0VJ"
     type: article

@@ -2,9 +2,9 @@
 category: news
 title: "Banners and prayers for Kamala Harris in her ancestral Indian village"
 excerpt: "A big banner of U.S. vice presidential candidate Kamala Harris welcomes visitors to Thulasendrapuram, a lush, green south Indian village that is praying for her Democratic Party's victory in the Nov."
-publishedDateTime: 2020-10-27T12:54:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-harris-india/banners-and-prayers-for-kamala-harris-in-her-ancestral-indian-village-idUSKBN27C0V7"
-webUrl: "https://www.reuters.com/article/us-usa-election-harris-india/banners-and-prayers-for-kamala-harris-in-her-ancestral-indian-village-idUSKBN27C0V7"
+publishedDateTime: 2020-10-27T08:36:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-harris-india-idUSKBN27C0VJ"
+webUrl: "https://www.reuters.com/article/usa-election-harris-india-idUSKBN27C0VJ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0VJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0VJ"
 type: article
@@ -966,6 +966,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "3vgJja6NzcXBDkYKZZ7JCde641F3XJDesy2KI0HGlg7mKnYIiBZrIGMctmLhlxrtmENZraEVP55lg2lOlpKpCFKtXAFeYhPpAhdltP1L0Bqk+Denmd+IWwK3GQFdKhiahdqHkE1aAGV1vmqyX4ZWSgdXL47qg9Frn4hvnpXiRX70oF2WPDTuNLnTnXgmkdtRcenkIeX1vgWpNKwNR8lzMUPsf9jbwas/R2V1UPndBoPA2au/kpcnJoo5niB3DvzI9t8FZ2uObA2urpDVGoJ1YXvHOB8BmUO9ojlh6iZnpbkjaENO9zwbG3MqStaPSqbXlUKj7cxOdU5zPOz/9lrgKf9ecnJNJ/4rTUscaGA4S1fLHmxE0m+3F2cqMK4ob6206vHKmM6GAzcxOo2yvEPgU/zB4EVgfWmdVFLN8epCk8O5yo8Q6EH1nOMdmcRpAezDxDT6gFVW5Dw/t5foiER3TEx1Z5u1NM4mNCZw2gWuVzyPfZhCvPqeH7P/oZ+xLGtu9wx21plvD/eJ25xq1OCxYA==;L1Qaw6Jbw8X0fq/yj3ctlg=="
+secured: "95Bsk9hwUDn3qMA8mxrr8J8fCHEANz8JTZkhN9OEftEwgJwHzHln7QRMLY0lrNFiYRGfzeC0pIlwnTE9uwPrG7KDfws7YXDA2W4fZBEjR38Kx6r9vmzU6ExNX+wHMoPAP/s3NQMqKAFmAaTDnst/cdefBEw6PtrUb3u3RIeAtEDllSBK+M2uq42NqgWIY9lXykvMmAJ0EGP8o9fRK7sNDezD3zkE5kTuIMioc8MeZi4Mkm9CGHnwW6x4H4yxlDV7xBC+OBxi8rh92I/SWZ85mw9fEkOlOlM3BUvpQj9sjA7/N014JKmuSOHJylXBzPnlxrgFMPKEWfX5KtNHWjfqFnbPQVnD6GDnU38pQbeNgks=;N1BJRf3X+49roZsDzTH+6g=="
 ---
 

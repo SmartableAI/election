@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/blind-pig.png?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Former Trump Campaign Staffer: \"Father, Forgive Me\" For I Believed Him In His Con"
+    excerpt: "Former Trump campaign official Jessica Denson is now backing former Vice President Joe Biden for president, calling the Trump campaign a \"vile, self-serving branding exercise\" for Trump and his family."
+    publishedDateTime: 2020-10-29T11:42:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/29/former_trump_campaign_staffer_father_forgive_me_for_i_believed_him_in_his_con.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/52/525517.jpg"
+        width: 1068
+        height: 800
         isCached: true
 
 secured: "13vi7cG30S3kMZprvOUQDDW0pSHVKQmeKTKhn3q2siVAHKd7Dlkigf9C7lgit5tU2iYzN+DJsRLaNaIjnOt2mfpR3U8fJVYgT63CmzhenSGUO9s/DXfaUenc8xtowakcACu7DqpwE9YSgJcjM7l2Jn6SbIF4hOejTGStzYSwL+Y8JGK3yPw19gzx2bKiiHhMHqvVkzp7XoFf5XweLVIIR7NpjKhf05zN6c6GJ8rOo94hLYfDs9CuxNnf7BtLKSf78X8Sg1SdDuOv6OxOLk/yP8YlUD1SDayZOzjFffw3cnTsummClsPigfhuxRnBBcKtlexbCCLzKXkYfA8cW0kfRbEzhB9TfA/oXFOJBFUY1R8=;8WmMOOcsMFAkz6pqPdx2kg=="

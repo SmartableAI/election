@@ -3,8 +3,8 @@ category: news
 title: "GRAPHIC-Trump's stock market - A wild four years"
 excerpt: "The four years since President Donald Trump's 2016 election victory have been a period like no other for the U.S. stock market."
 publishedDateTime: 2020-10-29T10:27:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-markets-stocks/graphic-trumps-stock-market-a-wild-four-years-idUSL1N2HC1UL"
-webUrl: "https://www.reuters.com/article/usa-election-markets-stocks/graphic-trumps-stock-market-a-wild-four-years-idUSL1N2HC1UL"
+originalUrl: "https://www.reuters.com/article/usa-election-markets-stocks-idUSL1N2HC1UL"
+webUrl: "https://www.reuters.com/article/usa-election-markets-stocks-idUSL1N2HC1UL"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HC1UL"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HC1UL"
 type: article
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1659972/president-donald-trump.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue"
+    excerpt: "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in"
+    publishedDateTime: 2020-10-29T10:35:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKBN27E1HY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E1HY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
+        width: 817
+        height: 545
         isCached: true
   - title: "Obama reminds voters of a Trump-less America"
     excerpt: "In a reminder of better times, former president Barack Obama traveled to Philadelphia on Wednesday and delivered a stemwinder for the Democratic ticket. His topic was deadly serious — the need to rescue America — but he was joyous,"
@@ -241,6 +257,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "4rdSaX66iI+pGUXF+K+F/qvf+vtr1eSDzGqxyOSJa0oCJg2ToA/+U72GFm5m6tTZw/UKcUosqfS+S0TGbe/BiUh7IURiPTrDPdMMmw8uokJBjG1/dXzvhObE7LdA7whIWNDkL9dNgX5sbcTOJJsenE4VtmvQbXDzwSsQoGQQvyZmfZr+ibdrWFJPkb7HGsaOEiOq+H9k3/rarrItJ8CQuNF/quANjX/kAnCMR6Edyn66l80k9hmxSHRp/H7a0uYGmBzpBiGySR9EHm8JB5SOBVjR/TWpV90D1Dlqk4q6rqvK3GZxwq3fF/mpVpnsGrCr2pUVfxevafvnelHzlxxw1e6XhRpR+CHbw/OzsML1evY=;YWlAecj2UFWoOvZHXFRmDA=="
+secured: "qpzOqa1H4gsE80An043YAfA65uaDOmf8MYGisGI46SQ7uzNuJQRjOEfCGspmpqpuVfRpf9yLSuZF7FnYcr4WReLHzJCYdnLiiqVsTArZsVTPX8zOeOaknw8EJJOf3RTXTSHHCTNpHkVbVxoYsp8LOFZ+XfWrprYRs3XYrNP4iDqM6UrpSrwiwCXmwB9sxnD2+Mx7HqYnQVYSO1kdtqomyt2IFV2iu2jC60reGxpbtfomDx4ISEevA5r7EJnVAisyT0nJhQPnbF3JKFM09jdnhebR5Y85CvMyBXOhe6L7Tf7VJsN/FyhWd6SROIUgf6TZ7wCeos1ljFxowX8o+xWi8DuBxMUEEvxGYMiP17SJtiY=;6mjdaIRUqHJpGK8CHSv3lg=="
 ---
 

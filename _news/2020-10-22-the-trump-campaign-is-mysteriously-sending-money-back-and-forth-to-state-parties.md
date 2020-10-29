@@ -728,6 +728,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Watch: Trump rushes Sen. Martha McSally on stage during Arizona rally"
+    excerpt: "During a campaign rally in Goodyear, Ariz., President Donald Trump rushed Republican Senator Martha McSally on stage to speak. McSally is in a close Senate race with her Democratic challenger astronaut Mark Kelly."
+    publishedDateTime: 2020-10-29T11:54:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally-94906437729"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94906437729"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94906437729"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/f_mo_mcsally_trump_201029.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Take This Trump Election Day Quiz Before It’s Too Late"
     excerpt: "Happy Almost Election Day! I know it’s been a tough road, people, but you’ve been doing a great job. And since your vote is basically all about how you regard the last four years of Trumpdom, here’s a quick quiz."
     publishedDateTime: 2020-10-29T00:05:00Z

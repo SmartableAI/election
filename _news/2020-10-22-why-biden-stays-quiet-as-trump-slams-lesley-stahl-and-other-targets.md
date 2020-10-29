@@ -62,6 +62,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Election 5 days away: Trump, Biden to hold dueling rallies in Florida battleground"
+    excerpt: "President Trump and his Democratic rival Joe Biden are set to hold dueling campaign rallies in Florida — a crucial battleground state vital to winning the White House — with just five days left in the presidential race.  "
+    publishedDateTime: 2020-10-29T13:14:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeG7Tf_o_v4/election-5-days-away-trump-biden-to-hold-dueling-rallies-in-crucial-battleground-state"
+    ampWebUrl: "https://www.foxnews.com/politics/election-5-days-away-trump-biden-to-hold-dueling-rallies-in-crucial-battleground-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-5-days-away-trump-biden-to-hold-dueling-rallies-in-crucial-battleground-state.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 199
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac5052ea-223b-4dea-ab75-46a21834a649/2654eb5d-f634-47b4-8bb5-16d784f64855/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump tells Arizona rally Biden’s lucky Barr hasn’t locked him up"
     excerpt: ""
     publishedDateTime: 2020-10-20T03:55:32Z
@@ -1304,6 +1320,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "How Arizona Complicates Trump's Reelection Bid"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-29T11:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/28/how_arizona_complicates_trumps_reelection_bid_527801.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
 
 secured: "ocQ6M3XQsBwWVuDPbKKqwYIfJ+THUigZX2lUViKc72SC6vmLn4K0ZEZAxzZ7QZRheOL7PKTDpc9iNWasF1zoWWxKh12Edv+PNrhowhNumiWoxWeh8UHdaUmfVyzYidKvF1ckUT17qpxHSDEC1PS8EufhyLvYV7q8YzsIilE74Jx1RRrcxP3qZ7kTiC/vif3wNOO3jARY+ZiZNxPe6VSG+x+9ZJ/3tbZ8bYLXNLx1WlfgY76msBX47YDUDKTAuN/Rntp2Ch8bu2olbJ/N8FHVqLpaQF0SinS7UWfQOfFmLmGRrWY0TkY373ZCoZx0+uY+dEupP2OYHxJGMbjD560mHoEjWqO9/CkZYH3ca/Vf+Bx4AHciirs5Y/Hp3PxO30kjIfEp+QpQVI9P2plT/bGhAKBuxcqkBkt3yF0k6V5UXEPM81njAgKO4C2Hg8SxaCcRBBk+DtFst8tP/ayv3XJk1RJlQGFSl1wGM1QWSJsmayLo4GiZfBmJLIOElhT8R50Wljq+4t8j58fdmUFt/bJYkA==;ur8eqekHeHv9zdZYdW5qgw=="
 ---

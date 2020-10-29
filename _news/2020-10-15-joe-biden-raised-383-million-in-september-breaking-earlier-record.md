@@ -62,6 +62,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden campaign says Burisma meeting not on ‘official schedule’"
+    excerpt: "Democratic presidential candidate Joe Biden’s campaign said Wednesday in a carefully worded statement there were no meetings on his “official schedules” in 2015 with Burisma board adviser ..."
+    publishedDateTime: 2020-10-14T02:36:00Z
+    webUrl: "https://nypost.com/2020/10/14/biden-campaign-says-burisma-meeting-not-on-official-schedule/"
+    ampWebUrl: "https://nypost.com/2020/10/14/biden-campaign-says-burisma-meeting-not-on-official-schedule/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/14/biden-campaign-says-burisma-meeting-not-on-official-schedule/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/201014-biden-response.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden's Amtrak trips prompt House Republican scrutiny on costs, impact on railroad operations"
     excerpt: "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign."
     publishedDateTime: 2020-10-22T09:13:00Z

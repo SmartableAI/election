@@ -143,6 +143,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The Economist Endorses Joe Biden, Says Donald Trump 'Must Be Soundly Rejected'"
+    excerpt: "The Economist newspaper has formally endorsed former Vice President Joe Biden. The London-based current affairs publication released its endorsement on its website on Thursday. The op-ed backing Biden will appear in The Economist's print edition on Friday,"
+    publishedDateTime: 2020-10-29T11:16:00Z
+    webUrl: "https://www.newsweek.com/economist-endorses-joe-biden-donald-trump-soundly-rejected-1543157"
+    ampWebUrl: "https://www.newsweek.com/economist-endorses-joe-biden-donald-trump-soundly-rejected-1543157?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/economist-endorses-joe-biden-donald-trump-soundly-rejected-1543157?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 146
+    images:
+      - url: "https://d.newsweek.com/en/full/1661238/biden-speaks-during-drive-campaign-rally.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Immigration Makes It Into Election Debate For First Time —Here Is Where Trump And Biden Stand"
     excerpt: "Donald Trump’s hardline immigration crackdown was brought back into focus during Thursday’s second—and final—presidential debate."
     publishedDateTime: 2020-10-23T11:17:00Z
@@ -782,22 +798,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/e168c91b2013bd6b210aea3b6d06321cebd33388/0_56_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b9e0f3db31c62f7d03657b8f843bed68"
         width: 600
         height: 360
-        isCached: true
-  - title: "The Economist Endorses Joe Biden, Says Donald Trump 'Must Be Soundly Rejected'"
-    excerpt: "The Economist newspaper has formally endorsed former Vice President Joe Biden. The London-based current affairs publication released its endorsement on its website on Thursday. The op-ed backing Biden will appear in The Economist's print edition on Friday,"
-    publishedDateTime: 2020-10-29T11:16:00Z
-    webUrl: "https://www.newsweek.com/economist-endorses-joe-biden-donald-trump-soundly-rejected-1543157"
-    ampWebUrl: "https://www.newsweek.com/economist-endorses-joe-biden-donald-trump-soundly-rejected-1543157?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/economist-endorses-joe-biden-donald-trump-soundly-rejected-1543157?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 136
-    images:
-      - url: "https://d.newsweek.com/en/full/1661238/biden-speaks-during-drive-campaign-rally.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Surprise: Biden and Trump Both Back Modest Tax Cuts For Middle-Income Households"
     excerpt: "Joe Biden and Donald Trump would both cut taxes for middle-income households, but in different ways and at different times"

@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Election 5 days away: Trump, Biden to hold dueling rallies in Florida battleground"
+    excerpt: "President Trump and his Democratic rival Joe Biden are set to hold dueling campaign rallies in Florida — a crucial battleground state vital to winning the White House — with just five days left in the presidential race.  "
+    publishedDateTime: 2020-10-29T13:14:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeG7Tf_o_v4/election-5-days-away-trump-biden-to-hold-dueling-rallies-in-crucial-battleground-state"
+    ampWebUrl: "https://www.foxnews.com/politics/election-5-days-away-trump-biden-to-hold-dueling-rallies-in-crucial-battleground-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-5-days-away-trump-biden-to-hold-dueling-rallies-in-crucial-battleground-state.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 199
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac5052ea-223b-4dea-ab75-46a21834a649/2654eb5d-f634-47b4-8bb5-16d784f64855/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump tells Arizona rally Biden’s lucky Barr hasn’t locked him up"
     excerpt: ""
     publishedDateTime: 2020-10-20T03:55:32Z
@@ -1303,6 +1319,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "How Arizona Complicates Trump's Reelection Bid"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-29T11:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/28/how_arizona_complicates_trumps_reelection_bid_527801.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
 
 secured: "38cib6cRRj74YyQZZbBgt3wvsBvLbUInVyUzwV2DMxsSZx97vsnoHe279swqCRKpV0+d4qgK5Y6w99FfZcJn3mwAGQ7WR/NKiKFdQx+Vlk9AE79/c5AZKVXK3PvogLc2bLWX34dVhbI6Y8w6T3vW1BLc53x01dIRz0oMHV2PsnbJ0pdtyAe0XEoDphc7Fbt8PBN+vAUnzHu3v1uI8NBy3g58FsfUBDXZQAoip2oArCVvDgHnbb96tJlVV5jvpukCwGC/HC6SK782ZnWr/a6nrUFjz3khBfTt2ZdczjkBqDp7akZxsE4JSSxYSJD6xuU6BJv51H0uNsYeTcrsf7XJsVYeMebDw7FxewumAZgBfQo=;tZjStE+mLpIsYGIq8RADSw=="
 ---

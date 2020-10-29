@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Election 5 days away: Trump, Biden to hold dueling rallies in Florida battleground"
+    excerpt: "President Trump and his Democratic rival Joe Biden are set to hold dueling campaign rallies in Florida — a crucial battleground state vital to winning the White House — with just five days left in the presidential race.  "
+    publishedDateTime: 2020-10-29T13:14:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeG7Tf_o_v4/election-5-days-away-trump-biden-to-hold-dueling-rallies-in-crucial-battleground-state"
+    ampWebUrl: "https://www.foxnews.com/politics/election-5-days-away-trump-biden-to-hold-dueling-rallies-in-crucial-battleground-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-5-days-away-trump-biden-to-hold-dueling-rallies-in-crucial-battleground-state.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 199
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac5052ea-223b-4dea-ab75-46a21834a649/2654eb5d-f634-47b4-8bb5-16d784f64855/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump tells Arizona rally Biden’s lucky Barr hasn’t locked him up"
     excerpt: ""
     publishedDateTime: 2020-10-20T03:55:32Z
@@ -1303,6 +1319,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "How Arizona Complicates Trump's Reelection Bid"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-29T11:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/28/how_arizona_complicates_trumps_reelection_bid_527801.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
 
 secured: "qo9DqmcQf7PON3xqKNjPYv139dVdterRNAsry6G1LR1zruxbPaYGMxfX508spDGiLIjSzBjK/MrMSRWJzbKgna8p/M5DxxvqZLI1TUyzCdj8m4qge8gzYZCs2m6dhEMegnzP43UVb+8xiaqiF9Uv57i7lrF+a2rbMKmHqfjQ4N8BRKo5WZZ+YYtdOsaPVraJLjraK9P0yJMFvTwyNYEF4h5D3tk4gD24w8nfAm5y/fTDNX8ayXg7K3zL1QzkvBfmVjvY/2xqaSvStOw1RbkBSwEhIrqNZaiQk62gsufST4vRqyH5CFfUau9lPpMlLmB9pen477NqIfy+z9+uFfs7xAnLtsFM45C7JSkllH2hUAM=;Sim3AVFGt5P09IPiCDAyaw=="
 ---

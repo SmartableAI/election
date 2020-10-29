@@ -490,6 +490,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump, Biden fight for Florida in dueling campaign events"
+    excerpt: "The race is on for Florida."
+    publishedDateTime: 2020-10-29T13:30:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7MMfUWfuDS4/live-updates-trump-biden-florida-dueling-campaign-events"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-florida-dueling-campaign-events.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-florida-dueling-campaign-events.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a545a925-4bc0-46b4-9aa9-f084a2a9a07b/429531e2-a3c3-48c4-806c-5115126a7f21/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z

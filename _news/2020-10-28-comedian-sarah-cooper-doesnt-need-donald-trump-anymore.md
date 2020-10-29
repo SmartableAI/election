@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue"
+    excerpt: "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in"
+    publishedDateTime: 2020-10-29T10:35:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKBN27E1HY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E1HY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Obama reminds voters of a Trump-less America"
     excerpt: "In a reminder of better times, former president Barack Obama traveled to Philadelphia on Wednesday and delivered a stemwinder for the Democratic ticket. His topic was deadly serious — the need to rescue America — but he was joyous,"
     publishedDateTime: 2020-10-22T13:47:00Z
@@ -80,7 +96,7 @@ related:
   - title: "GRAPHIC-Trump's stock market - A wild four years"
     excerpt: "The four years since President Donald Trump's 2016 election victory have been a period like no other for the U.S. stock market."
     publishedDateTime: 2020-10-29T10:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-markets-stocks/graphic-trumps-stock-market-a-wild-four-years-idUSL1N2HC1UL"
+    webUrl: "https://www.reuters.com/article/usa-election-markets-stocks-idUSL1N2HC1UL"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HC1UL"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HC1UL"
     type: article
