@@ -747,6 +747,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Vice President Mike Pence campaigns in Mosinee"
+    excerpt: "Vice President Mike Pence campaigned in Mosinee Wednesday at the Central Wisconsin Airport. His visit comes a day after President Trump held a rally in West Salem. The Vice President spoke to voters about health care, jobs, and the economy. He said that ..."
+    publishedDateTime: 2020-10-29T00:00:00Z
+    webUrl: "https://wkow.com/2020/10/28/vice-president-mike-pence-campaigns-in-mosinee/"
+    type: article
+    provider:
+      name: WKOW
+      domain: wkow.com
+    quality: 55
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/8/2020/10/pence-mosinee.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Vice President Mike Pence heads to Iron Range despite outbreak among his staff"
     excerpt: "A brisk wind blew across the runway hours ahead of Vice President Mike Pence’s campaign visit to the Range Regional Airport here Monday. About 250 chairs were spaced out as attendees slowly filed in after many waited in their cars,"
     publishedDateTime: 2020-10-26T20:44:00Z

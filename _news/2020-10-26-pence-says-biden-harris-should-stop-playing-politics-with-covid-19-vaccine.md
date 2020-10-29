@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-says-biden-harris-should-stop
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp"
 type: article
 quality: 223
-heat: 543
+heat: 563
 published: true
 
 provider:
@@ -251,6 +251,17 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Kamala Harris encourages voters to reelect Kim Foxx in Cook County robocall"
+    excerpt: "With less than a week until Election Day, Democratic vice presidential nominee Kamala Harris is encouraging residents in Cook County, Illinois, to support the reelection of State's Attorney Kim Foxx."
+    publishedDateTime: 2020-10-29T14:37:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/kamala-harris-encourages-voters-to-reelect-kim-foxx-in-cook-county-robocall"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/kamala-harris-encourages-voters-to-reelect-kim-foxx-in-cook-county-robocall?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-encourages-voters-to-reelect-kim-foxx-in-cook-county-robocall?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 63
   - title: "Kamala Harris Laughs When Asked If She Would Bring \"Socialist Or Progressive Perspective\" To Biden Administration"
     excerpt: "During an interview on CBS’ “60 Minutes” released Sunday, anchor Norah O’Donnell asked Sen. Kamala Harris about being listed as the \"most liberal\" senator by the nonpartisan GovTrack website. \"What I will do,"
     publishedDateTime: 2020-10-26T14:28:00Z

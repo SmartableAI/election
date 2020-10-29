@@ -260,6 +260,17 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Kamala Harris encourages voters to reelect Kim Foxx in Cook County robocall"
+    excerpt: "With less than a week until Election Day, Democratic vice presidential nominee Kamala Harris is encouraging residents in Cook County, Illinois, to support the reelection of State's Attorney Kim Foxx."
+    publishedDateTime: 2020-10-29T14:37:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/kamala-harris-encourages-voters-to-reelect-kim-foxx-in-cook-county-robocall"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/kamala-harris-encourages-voters-to-reelect-kim-foxx-in-cook-county-robocall?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-encourages-voters-to-reelect-kim-foxx-in-cook-county-robocall?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 63
 
 secured: "COC1M8qAUo6hjmzRIlVzsnaZHfL+udiaKIodJdp8shDGSA06N7EjAAtoXYBJkR4bisXqIQJrRzZsP0zIqI1y5773gljUP+Uw3N3DQuIf/7ISLRBXBzXzJE31HsVu/3BqR4wZ25zwlgYoP1RtCj8NqPtVipn8HxzCRWnlBU3MIsVE/Ah0ld/8WT5EYCtNhl/XnyipGdpQzozofMb9iftBJz0ggGiJfzwhoqx0xyxMTTD/ElQ5yHTgSXKDSGor51ObqaEy/MG1nGH2jjwH/UNcmf+Ki2vOq3uSBphtzrVGTRSKYkxdQMuPuazKP7+hGXvtzmN2ck48Rin4+jWdcdKXx1Kn7ikoPEaoOp24R92QOr4byPWxa1cCOVAj9XyWsA7TRpqQyfIuBOi4KYLTXsACNlRbFT3X5nL8QtfIhjWuIZ3QSribzxBXfPntLtRs0i7XhN5dWXjQCcMEc1Erh19jI1QfYgHBk0F/lv6szf++kW9oMTeVlHkxzY2AE7WTjG6Vs0kbx3E6xKXPRhvl9VWxoQ==;xpybb+/8E5+qrag+58O6yg=="
 ---

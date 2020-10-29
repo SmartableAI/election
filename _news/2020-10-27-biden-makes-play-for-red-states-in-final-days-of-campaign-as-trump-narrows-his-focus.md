@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "These are the big words associated with Trump and Biden as the 2020 campaign closes"
+    excerpt: "In the final days of the presidential campaign, Americans have the coronavirus and the final presidential debate on their minds when asked what they have seen, read or heard about President Donald Trump and former Vice President Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-29T16:00:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8_GaCDXBJxE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/the-breakthrough-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/the-breakthrough-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022110005-05-trump-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence's former lead coronavirus task force aide slams Trump and endorses Biden in new video"
     excerpt: "A former top aide to Vice President Mike Pence assailed President Donald Trump's response to the pandemic in a new video Thursday, adding to the growing list of former Trump administration officials who have criticized the President and, in several cases, endorsed his Democratic opponent Joe Biden.\n"
     publishedDateTime: 2020-09-18T02:04:10Z

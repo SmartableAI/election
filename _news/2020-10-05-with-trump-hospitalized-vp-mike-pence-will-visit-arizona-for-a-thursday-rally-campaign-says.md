@@ -245,6 +245,22 @@ related:
         width: 5568
         height: 3712
         isCached: true
+  - title: "2 days after Donald Trump’s visit, Mike Pence returning to Arizona"
+    excerpt: "Vice President Mike Pence is coming back to Arizona on Friday, four days before Election Day, for rallies in Flagstaff and Tucson."
+    publishedDateTime: 2020-10-28T21:44:00Z
+    webUrl: "https://ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/"
+    ampWebUrl: "https://ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/amp/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 90
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2020/10/ap_7e3e06fc1c1a4e0891785a8538a2833c-15.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Trump criticized for leaving hospital to greet supporters"
     excerpt: "US President Donald Trump sparked an angry backlash from the medical community Sunday with a protocol-breaking visit to his supporters outside the hospital where he is being treated for the highly-infectious,"
     publishedDateTime: 2020-10-05T11:28:00Z

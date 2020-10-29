@@ -19,19 +19,62 @@ topics:
   - Mike Pence
 
 related:
-  - title: "VP Mike Pence stops in Swanton"
-    excerpt: "From hitting the links to hitting the trails -- it may not look like much from the highway, but a big project is underway on the former site of the Spuyten Duyval and Cottonwood Creek golf courses."
-    publishedDateTime: 2020-10-23T23:54:00Z
-    webUrl: "https://www.13abc.com/video/2020/10/23/vp-mike-pence-stops-swanton/"
+  - title: "Hundreds attend rally to see Vice President Mike Pence in Greenville"
+    excerpt: "The vice president had landed in Greenville, an Upstate South Carolina city that is, in most regards, strongly considered to be Trump country. “I don’t want to lose this country to Joe Biden,\" said Dean Cox,"
+    publishedDateTime: 2020-10-28T15:51:00Z
+    webUrl: "https://www.wyff4.com/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
+    ampWebUrl: "https://www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
+    cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
     type: article
     provider:
-      name: 13abc.com
-      domain: 13abc.com
-    quality: 55
+      name: WYFF4
+      domain: wyff4.com
+    quality: 75
     images:
-      - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/EmNxNTzTFXBObjoLmE5GcoFrZMM=/980x0/smart/do0bihdskp9dy.cloudfront.net/10-23-2020/t_5969b745094d4ac3a7e29582486f620c_name_file_1280x720_2000_v3_1_.jpg"
-        width: 980
-        height: 551
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/img-5460-1603849421.jpg?crop=1.00xw:0.752xh;0,0.111xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "Vice President Mike Pence welcomed by crowd of 500 in Flint"
+    excerpt: "Tonight as the sun went down, Air Force Two touched down at Flint Bishop Airport. Pence hustled up to the podium, highlighting the importance of Michigan in this election."
+    publishedDateTime: 2020-10-29T04:28:00Z
+    webUrl: "https://www.fox2detroit.com/video/865403"
+    ampWebUrl: "https://www.fox2detroit.com/video/865403.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/video/865403.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 55
+  - title: "Vice President Mike Pence appeals to Iron Rangers with focus on jobs, economy"
+    excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally. HIBBING, Minn. – A brisk wind blew across the runway and light snow greeted Vice President Mike Pence as he made his closing arguments to Iron ..."
+    publishedDateTime: 2020-10-26T21:20:00Z
+    webUrl: "https://www.startribune.com/pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 52
+    images:
+      - url: "https://stmedia.stimg.co/pence+kormann+012.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Watch Now: 'I need you to be sure to vote,' Vice President Mike Pence tells 200 supporters at Greensboro rally on Tuesday"
+    excerpt: "A crowd of about 200 people chanted for “four more years” of President Donald Trump on Tuesday afternoon during a campaign rally featuring Vice President Mike Pence."
+    publishedDateTime: 2020-10-28T08:19:00Z
+    webUrl: "https://greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.html"
+    ampWebUrl: "https://greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.amp.html"
+    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.amp.html"
+    type: article
+    provider:
+      name: News & Record
+      domain: greensboro.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/3/2b/32bbaa04-189a-11eb-96fc-97e1fd38bd2a/5f9886a6215fe.image.jpg?resize=1024%2C713"
+        width: 1024
+        height: 713
         isCached: true
 
 secured: "Fpa+3itpjtCpGK81fxN2UV/QTOU96XQEWkbBnOle2qmgfyrQ4AXs0a4zss17ILgsXPoJXaLJCXSVRccGGLcoMcf6sOgin0ioNRAbLsQ6bcIqs9Y8gi5oauZNZQyv5ukaWgXYU3l8UEAz//shMQI/6RYc+iuvuZttYdmuPHUKlnaKWTEM7ntWpFSEuAgKgwFzvYvA0BtGcgC6n6SIhmUbmZr34Jb3hIGuwYSSj5ZGqdYd6ho90UfDbLCIhs6oD+lo+zmLNMzJRup69vzP0OO2YPB1RAi6ZiEUvdoppwqD9KrX7CsNFM464wyqatNsnv5f+QqRlu/BUx9BaA52vH18wwIdSO0epavcwXRQigfzWqDw82yp5KfwpWII9yAeH71qR53WH99b1RpCixalDx+MHZbDk4PE5CH/bDhHwd5hSPJkA2pI8rvHo5tl9jgJjgU29VVwUNPsAJOm1dBfKidXWbrmsPuE3OEq8lKWtGSS+23gSLlbtX+91MGKy7lcJ7pAdcv5jnKuEGh7jIilz4KoMg==;/ZrLhACdgipkitwscoixvQ=="

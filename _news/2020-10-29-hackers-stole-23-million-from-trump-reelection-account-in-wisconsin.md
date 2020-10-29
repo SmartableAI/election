@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-2
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/"
 type: article
 quality: 140
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -248,6 +248,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Hackers Stole $2.3M From Wisconsin GOP, How Does It Affect Trump's Reelection Bid?"
+    excerpt: "The Wisconsin Republican Party has announced that hackers have stolen $2.3 million from funds meant for Donald Trump’s reelection campaign. The hackers compromised Republican ve"
+    publishedDateTime: 2020-10-29T17:55:00Z
+    webUrl: "https://www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626"
+    ampWebUrl: "https://www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 84
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/us-president-donald-trump-claps-during-a-rally.jpg"
+        width: 1024
+        height: 708
+        isCached: true
   - title: "Trump administration proposes reversal of homeless policy"
     excerpt: "A new federal plan to end homelessness released last week by the Trump administration calls for a reversal of Obama-era “housing first” policies. The plan, released Oct. 19, is the first from the United States Interagency Council on Homelessness since President Donald Trump fired its executive director last year and replaced him with Robert G."
     publishedDateTime: 2020-10-27T19:00:00Z
@@ -292,6 +308,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "Z9Gh7ywfSF8z+Pk4ut6ZTEMhO6vtHCD8C/bmXasMdRZ2HTEmxq+sdb1Q4w5gsUx3xe7SpncVTMOdLgRkuS/henfNP/FhHyQRXA4CChsml0gBlpN07ajcRSnsGHQIUY4qzL6Ia9AslA6w0kBMazyP/cLRf709m+ku94vAt0c33OPd6IRKqQehf8ASzgTlnRAu4SmRoD6zlm0XhFWgyS/unnN23QDt5QWbcmJRAgC3Xued7GA3j0GrPGxoT8lnRbmH8OBnkn8eu/4PYitVjv9J2EzBsbFtW3WAQyR9I5BJQ+LVKfLc+VDWKUlk1/SC4Emz8xo0mg39euRPDm03sq8FBGDmiAYGot5Zedm0eeq0OLU=;BxWIH4j0Wj9KzJWz11/7Tg=="
+secured: "TmfzY0rFC7K1/r+oQDGtCR0M+tumj06uuDgBnvRIJPUCYChn9sJjxgys+1NjdZeExT7q2d3RKmjafhYPBK9a6dkXopZJbY1BeBU242dwMqzRZxv92bXxRZlgbb36wbBkK7RhsVSMJQOSit+wEZxD6leq5KJrxjUxQirSjCTg6piGmKjxDR7ONzJgh73r9g/fLKug0vi18CldADwjEh9l6K/QEyE5zFePLRlPIGEu0R/WpuS/4npLH/BN+pGNt4jL0rsnRwYttalVlaanc0mkiJkL15H5znU0pgawp6vgWF5fvjMS2LXeyKEPODP+ec7npk2hx4HM1PiL9myf29ALHA2udVy5RtdQsxpCfFnxMVfEb2/W0DlZRmhYc0rpeDwIeYBWKFPWopq9MtEI9nee4eLh0U+tjpA79EseZWo0ecJJu+1KMqDn4gDzsRZvYfZMMZz8oR0LGswNaAJ8uthVSyZRN78YRHLlbuQUrUDKk221yGiZ+6tKrpqHurcbKa8UDVWOTicETYV7bVBCywVByA==;DZ7GIX8SVrtB+6dnLNHa+w=="
 ---
 

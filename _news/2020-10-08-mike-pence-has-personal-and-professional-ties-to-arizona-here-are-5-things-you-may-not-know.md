@@ -233,6 +233,22 @@ related:
         width: 5568
         height: 3712
         isCached: true
+  - title: "2 days after Donald Trump’s visit, Mike Pence returning to Arizona"
+    excerpt: "Vice President Mike Pence is coming back to Arizona on Friday, four days before Election Day, for rallies in Flagstaff and Tucson."
+    publishedDateTime: 2020-10-28T21:44:00Z
+    webUrl: "https://ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/"
+    ampWebUrl: "https://ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/amp/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 90
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2020/10/ap_7e3e06fc1c1a4e0891785a8538a2833c-15.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
     excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
     publishedDateTime: 2020-10-04T23:01:00Z

@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is taking credit for the 'biggest and best' GDP  in American history. Here are the facts"
+    excerpt: "The US government just published an eye-popping report: Gross domestic product, the broadest measure of the country's economic growth, grew at a stunning 33.1% annual rate in the third quarter.\n    \n"
+    publishedDateTime: 2020-10-29T15:18:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEqNM0jKFkw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/economy/gdp-report-trump-biggest-best-factcheck/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/economy/gdp-report-trump-biggest-best-factcheck/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028225743-01-trump-fastest-gdp-growth-history-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "ydWORL1ayXUA1RXBiB4LsOybm6b47HYpg8Mw71h3STXZI7R+VWzsVqQgrFIGV2Bc+K5Ej2S0azPBXBUAEgQ+RNITL/CgsO+Pi0SAF9YlK7UtjWPx6J/CSP+dmX6qXw84uUR1PC/VIjozpwpz+ydN9v/t0tfivHERHYjX4gVudzK5QcMZFEqt9K6c3CP5y3ipF5YgK3iHJRBmLwCdmJdx9+3LXswEZUofRlwnIAGgsVd3/9bfDmok3avnfUOhibbcI6l+3WPTJgnC68BZwVVl/YINkKcU7TzMPpFyGqgUVsz4weYMouioJwQJbtGyBuexwIwjXAdh6f7iN6XLat3I+bGOHhpHka0xqACdPRno3y0=;oUx3mh3Z806XXBCYapgjog=="
 ---

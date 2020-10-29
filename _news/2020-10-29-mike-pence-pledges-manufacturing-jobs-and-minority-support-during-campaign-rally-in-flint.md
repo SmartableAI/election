@@ -25,17 +25,64 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence making 2 more campaign stops in North Carolina | Charlotte Observer"
-    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump’s reelection bid."
-    publishedDateTime: 2020-10-27T08:17:00Z
-    webUrl: "https://www.charlotteobserver.com/news/article246741486.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/article246741486.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article246741486.html"
+  - title: "Mike Pence holds rally at Des Moines airport, as Election Day approaches"
+    excerpt: "Five days before Election Day and with early voting in Iowa well underway, Vice President Mike Pence will hold a rally Thursday at the Des Moines International Airport. Doors open for the \"Make America Great Again\" rally at 11:30 a.m. The event is ..."
+    publishedDateTime: 2020-10-29T14:03:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/10/29/vice-president-mike-pence-holds-des-moines-make-america-great-again-rally/6062552002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6062552002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6062552002"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 51
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 89
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/01/PDEM/6ffe1074-25ef-434b-a18c-db8b494b26ec-Pence1.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Mike Pence to visit Tucson, Flagstaff on Oct. 30, days before Election Day"
+    excerpt: "Vice President Mike Pence will be making back-to-back stops in Flagstaff and Tucson on Friday with Election Day just around the corner."
+    publishedDateTime: 2020-10-29T12:56:00Z
+    webUrl: "https://www.fox10phoenix.com/news/vp-mike-pence-to-visit-tucson-flagstaff-on-oct-30-days-before-election-day"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 67
+    images:
+      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2020/10/1280/720/7C065C5A723F4848A4980D62A92EE016.jpg?ve=1&tl=1"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Mike Pence speaks at Fort Wayne rally"
+    excerpt: "Vice President Mike Pence held a \"Make America Great Again!\" rally at 4:30 p.m. Thursday at the Fort Wayne Aero Center. Pence was originally supposed to visit Indiana for some events and to vote on Oct."
+    publishedDateTime: 2020-10-23T04:19:00Z
+    webUrl: "https://www.idsnews.com/article/2020/10/vice-president-mike-pence-speaks-at-fort-wayne-rally"
+    type: article
+    provider:
+      name: Indiana Daily Student
+      domain: idsnews.com
+    quality: 55
+    images:
+      - url: "https://snworksceo.imgix.net/ids/7f9101a9-b3e1-4dad-88e4-27a90a110a1b.sized-1000x1000.png?w=800&h=600"
+        width: 774
+        height: 600
+        isCached: true
+  - title: "HAPPENING TODAY: Vice President Mike Pence to visit Des Moines"
+    excerpt: "Everyone attending the rally will be given a temperature check and hand sanitizer. Attendees are instructed to wear masks."
+    publishedDateTime: 2020-10-29T13:14:00Z
+    webUrl: "https://kwwl.com/2020/10/29/happening-today-vice-president-mike-pence-to-visit-des-moines/"
+    type: article
+    provider:
+      name: KWWL
+      domain: kwwl.com
+    quality: 55
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/6/2020/01/mike-pence-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "viZVn+UQ5y4lQzM4Zh9erzCUGLJF/HyoaS/xDVe0ht5WOxirC6oxyKNsA0K0SHsFfnyvu7NYerSTzgPWlnA4KkF1Zbx1zIdKn9zQX4bBbmxz0vuZT66mnPAuTZDSqlacgk2mPUamy7hD/xw2Eet47PEyvLuekFiKPLdNSMFpMppybv8E/P7Ng3tYJSJ752zJNnxZ5zqJFGP5aYWlxH4XyWbMaXEtxYKGcNjhmdIu+tLQFtfSXDCOugRyL5qqTy6GK6n8VQpUAfl5mCExa08sJ7fjkCNnngZxC2vZZL56qS06KadaDAJCtjB/wEa/hZtXwY3qGdKt+qWN6svGVjTC6wxQt/P6P7SM19t6wXYby08=;OlMiAmKAORMfKl6XifTH8g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-o
 cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/"
 type: article
 quality: 75
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/-EsS03_JwaWk9BPSw-Qjh6TkMcg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/WJC7VGNPQ5ARXNJWQ5DOIRH2BE.JPG"
         width: 980
         height: 550
-        isCached: true
-  - title: "Vice President Mike Pence speaks at Fort Wayne rally"
-    excerpt: "Vice President Mike Pence held a \"Make America Great Again!\" rally at 4:30 p.m. Thursday at the Fort Wayne Aero Center. Pence was originally supposed to visit Indiana for some events and to vote on Oct."
-    publishedDateTime: 2020-10-23T04:19:00Z
-    webUrl: "https://www.idsnews.com/article/2020/10/vice-president-mike-pence-speaks-at-fort-wayne-rally"
-    type: article
-    provider:
-      name: Indiana Daily Student
-      domain: idsnews.com
-    quality: 55
-    images:
-      - url: "https://snworksceo.imgix.net/ids/7f9101a9-b3e1-4dad-88e4-27a90a110a1b.sized-1000x1000.png?w=800&h=600"
-        width: 774
-        height: 600
         isCached: true
 
 secured: "q7+nFajhfvH/wtL06Gh6h4cfxXbZcnD3ATZpz6UK/KeLOTTUIml91cdOnTlIA3d8WZuhS6cQKrBJmSGRvU69/jPGLuJpOb85szTD240YmAG3qmNlAnMgTAPimQXlp5FsmC8G55J9xVVXuUkJ9kTM8s88U+qUGs0GVaLbdO9yYBqXVrX88VbGqvyO+S5bfrMYXl9bxmXpMDpmmUcCg3QStJX5dXSzle6AigyIeLMnMC2NT3jGE7TkDSzGvbrIrPqK3FBxLdH7AZUr4fztUCzyVZeJkB5wiXYHesx35N+qBXnzPxHkh39tP+mLIRgq7tswnfUW1NeKgcu0Y8JEwbssgRtVbRNH/DtQVbcG/m4gmjCpplhr/AvLDptf9LKo+cGtW7f2w2G38fpjSYVm7QkElZe+tKGSAhE2N67KHAxDKcAoBP7DqtfeYsRC5ZHNXFon34aFvEvo2mCpwESv7RM483f2lyCxFsU5RQsK5F7hK0tZB6Tzc5Sbhrtu3fN2wgmlwezsa2LwLFy23mHmZy1B9Q==;vXCBARW/KUtTamo0VcAFWA=="

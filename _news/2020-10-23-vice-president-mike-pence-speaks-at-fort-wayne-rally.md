@@ -25,97 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "EXCLUSIVE: NBC2 speaks one-on-one with Vice President Mike Pence"
-    excerpt: "All eyes are on Florida Thursday as President Donald Trump visits Miami for town hall meeting to be broadcast on NBC. Vice President Mike Pence held a rally Thursday in Miami befo"
-    publishedDateTime: 2020-10-16T20:01:00Z
-    webUrl: "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/"
-    ampWebUrl: "https://nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/"
+  - title: "Mike Pence holds rally at Des Moines airport, as Election Day approaches"
+    excerpt: "Five days before Election Day and with early voting in Iowa well underway, Vice President Mike Pence will hold a rally Thursday at the Des Moines International Airport. Doors open for the \"Make America Great Again\" rally at 11:30 a.m. The event is ..."
+    publishedDateTime: 2020-10-29T14:03:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/10/29/vice-president-mike-pence-holds-des-moines-make-america-great-again-rally/6062552002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6062552002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6062552002"
     type: article
     provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 75
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 89
     images:
-      - url: "https://nbc-2.com/wp-content/uploads/2020/10/pence.png"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "One-on-one interview with Vice President Mike Pence"
-    excerpt: "After Vice President Mike Pence’s campaign rally in Berks County on Saturday, Eyewitness News spoke one-on-one with the Vice President. The"
-    publishedDateTime: 2020-10-17T21:03:00Z
-    webUrl: "https://www.pahomepage.com/top-stories/one-on-one-interview-with-vice-president-mike-pence/"
-    ampWebUrl: "https://www.pahomepage.com/top-stories/one-on-one-interview-with-vice-president-mike-pence/amp/"
-    cdnAmpWebUrl: "https://www-pahomepage-com.cdn.ampproject.org/c/s/www.pahomepage.com/top-stories/one-on-one-interview-with-vice-president-mike-pence/amp/"
-    type: article
-    provider:
-      name: WYOU
-      domain: pahomepage.com
-    quality: 75
-    images:
-      - url: "https://www.pahomepage.com/wp-content/uploads/sites/91/2020/10/vlcsnap-2020-10-17-16h53m31s475.png?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Vice President Mike Pence arrives in Berks County"
-    excerpt: "Vice President Mike Pence landed at Reading Regional Airport about 1 p.m. and has been speaking to a crowd of about 1,000 supporters. Pence was still on the ground conducting interviews at 2:30 p.m. and it was unclear when he would be setting off for his next stop."
-    publishedDateTime: 2020-10-17T18:00:00Z
-    webUrl: "https://www.readingeagle.com/news/politics/vice-president-mike-pence-arrives-in-berks-county/article_d563be00-10a1-11eb-ab78-0b3976afd5ed.html"
-    ampWebUrl: "https://www.readingeagle.com/news/politics/vice-president-mike-pence-arrives-in-berks-county/article_d563be00-10a1-11eb-ab78-0b3976afd5ed.amp.html"
-    cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/news/politics/vice-president-mike-pence-arrives-in-berks-county/article_d563be00-10a1-11eb-ab78-0b3976afd5ed.amp.html"
-    type: article
-    provider:
-      name: Reading Eagle
-      domain: readingeagle.com
-    quality: 75
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/2/f1/2f1eaf86-10a2-11eb-9cee-2706909b2f7a/5f8b30c8048eb.image.jpg?resize=1024%2C749"
-        width: 1024
-        height: 749
-        isCached: true
-  - title: "Here's what Vice President Mike Pence might talk about during Fort Wayne campaign stop"
-    excerpt: "Vice President Mike Pence will stump for President Donald Trump in Indiana Thursday at the Fort Wayne Aero Center."
-    publishedDateTime: 2020-10-22T10:05:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/10/22/vice-president-mike-pence-campaign-fort-wayne-indiana-thursday/6006586002/"
-    ampWebUrl: "https://amp.indystar.com/amp/6006586002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6006586002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/01/PDEM/6ffe1074-25ef-434b-a18c-db8b494b26ec-Pence1.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Pence speaks at Reading Regional Airport"
-    excerpt: "BERN TWP., Pa. -- Hundreds of supporters of President Trump gathered at Reading Regional Airport Saturday to hear from Vice President Mike Pence. It's the first time a sitting Vice President has come to Berks County since 2002 when Dick Cheney visited ..."
-    publishedDateTime: 2020-10-18T01:33:00Z
-    webUrl: "https://www.wfmz.com/news/area/berks/vice-president-pence-speaks-at-reading-regional-airport/article_4248b3da-10d5-11eb-81d7-7f604f967283.html"
+  - title: "VP Mike Pence to visit Tucson, Flagstaff on Oct. 30, days before Election Day"
+    excerpt: "Vice President Mike Pence will be making back-to-back stops in Flagstaff and Tucson on Friday with Election Day just around the corner."
+    publishedDateTime: 2020-10-29T12:56:00Z
+    webUrl: "https://www.fox10phoenix.com/news/vp-mike-pence-to-visit-tucson-flagstaff-on-oct-30-days-before-election-day"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 55
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 67
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/97/197d2af2-3955-57f9-a37e-d506b801d511/5f8b945d9b476.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2020/10/1280/720/7C065C5A723F4848A4980D62A92EE016.jpg?ve=1&tl=1"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "VP Pence makes campaign stop in Hermon, speaks one-on-one with TV5"
-    excerpt: "HERMON, Maine (WABI) - The road to re-election runs through Northern Maine. That’s what the Vice President said today at a. TV5 was at the rally and spoke with Pence following his remarks. President Trump won Maine’s Second District four years ago,"
-    publishedDateTime: 2020-10-22T03:44:00Z
-    webUrl: "https://www.wabi.tv/2020/10/19/vp-pence-makes-campaign-stop-in-hermon-speak-one-on-one-with-tv5/"
+  - title: "HAPPENING TODAY: Vice President Mike Pence to visit Des Moines"
+    excerpt: "Everyone attending the rally will be given a temperature check and hand sanitizer. Attendees are instructed to wear masks."
+    publishedDateTime: 2020-10-29T13:14:00Z
+    webUrl: "https://kwwl.com/2020/10/29/happening-today-vice-president-mike-pence-to-visit-des-moines/"
     type: article
     provider:
-      name: WABI
-      domain: wabi.tv
+      name: KWWL
+      domain: kwwl.com
     quality: 55
     images:
-      - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/-EsS03_JwaWk9BPSw-Qjh6TkMcg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/WJC7VGNPQ5ARXNJWQ5DOIRH2BE.JPG"
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/6/2020/01/mike-pence-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mike Pence pledges manufacturing jobs and minority support during campaign rally in Flint"
+    excerpt: "“This election is a choice between a Trump recovery and a Biden depression,\" Vice President Mike Pence said. Vice President Mike Pence was in Flint Wednesday night for a ‘Make America Great Again Victory Rally’ at Flint’s Bishop International Airpor"
+    publishedDateTime: 2020-10-29T05:46:00Z
+    webUrl: "https://www.abc12.com/2020/10/29/mike-pence-pledges-manufacturing-jobs-and-minority-support-during-campaign-rally-in-flint/"
+    type: article
+    provider:
+      name: ABC12
+      domain: abc12.com
+    quality: 46
+    images:
+      - url: "https://gray-wjrt-prod.cdn.arcpublishing.com/resizer/hm3qtc1uIAkJib34XdY7k2ul2Mg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/GPBUNPMH3BE5FGRTSV5HGDHT5I.png"
         width: 980
-        height: 550
+        height: 547
         isCached: true
 
 secured: "uTfo3fWg6fmLtO2bEq3gBbn5IV31TTFn8ttE4YULsWPnHuMPgo+TiUtuJlo0tKFxuY2p7BaJa9onx8coD5bOdXhtV2eQT4bRABUrojKT1KlBPoZFHI/O3kdPz41Be7EYUqz9UMu2u6wgdgG90DDmw8BFDCOQHtlcXCE6Qu88rMmZfNhBTPvFGD/b/GnCQKa4i/gyrQ0yJHX7oucZA/p1CosvP9Tko0Di+yZGVqgZlYld2d8XJL6eonaeEKeVdwptT6dIoxOeXcVq9meuJce9zLv2FoFcSfT5cac2rQHPUV4mE2qr/RdYg7v2jR8PYKhNmdqaK+yOq1FLPvy/3GRB1KAfB/LfhJkkbzNtIeodKRliQuoz43Y/EYfShAuTI76XbbIPKDdD6jeSKE/NMLnM343NCAa0RNqOcq4g4eSLrGujh+RO1/Rlcs48dBX1RRqhqfO05XKg/9vmv4AbPXEHPPCeCBlWkHW1wAX1YkbayIMpOxlJwZXNti7BbFu+ug3GhHDzijG7NQYn+igLjvy/Zg==;2zGIRJVPeSJxMLQzDeK6qw=="

@@ -747,6 +747,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Vice President Mike Pence campaigns in Mosinee"
+    excerpt: "Vice President Mike Pence campaigned in Mosinee Wednesday at the Central Wisconsin Airport. His visit comes a day after President Trump held a rally in West Salem. The Vice President spoke to voters about health care, jobs, and the economy. He said that ..."
+    publishedDateTime: 2020-10-29T00:00:00Z
+    webUrl: "https://wkow.com/2020/10/28/vice-president-mike-pence-campaigns-in-mosinee/"
+    type: article
+    provider:
+      name: WKOW
+      domain: wkow.com
+    quality: 55
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/8/2020/10/pence-mosinee.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Vice President Mike Pence heads to Iron Range despite outbreak among his staff"
     excerpt: "A brisk wind blew across the runway hours ahead of Vice President Mike Pence’s campaign visit to the Range Regional Airport here Monday. About 250 chairs were spaced out as attendees slowly filed in after many waited in their cars,"
     publishedDateTime: 2020-10-26T20:44:00Z
@@ -771,6 +785,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "r+8XgvthvT/kGg1qXiQ1oDjReTV+S8U7cVkZGt9l1Uic7KrN5ubx12Y8Ny4oCGjt92usNrR6mJi2GrjNb2H4Z/TJw8uAdYAsAhtGPo2YXV+1Cnf4RzNVAzcMcYAogcPe1hbn1wd2PyF0fKX+yP/DRXum2FCeAqrHQ8m65G+Nl34Kpgck9lfgCac+f+HhQJQ5qdLUiXIrYDIFqkYkKb/38PTxON8c2aJCM2TEKO9ibPq9pRP56YL+/cRdjtUW0qL3CNT6DnDIcn7+5JeWOKBn+CzWe2pIgVy/A44UPc2/OouzEafiHzEtYtvh2Fj61in+oa0yke1LKxZDF6XzkliAshl07wP7/tgowHlRLfNoTpU=;f57aiDbmPfaGvZmq59qm7A=="
+secured: "5kYETatdsD+6blVLZgIW1YJkyStEcKO2L3Qv3yG6e1R/BfuVfL0XvIp+4gbfVDGE96UTXMLTdP7/VnlTGkgkACiUlL39WGdmoHYyQHHM9jB6kZ3W66Y9mla6yGELnGjx44x+dzKVofnQnPBQpFNN/PzZQMOF4evHovMedIthAn9uJzBjJG3hynvEM4lLr2bsVSg1BCVH21kJWGdFTtwUOUj2H+uKzsRiDyYhdlzp8Ke3D7a4bPV7OF4rZzOvsAx3OeKXAcn42b1tYo8EXheIt8RtzUTRX89fPh8Ocrpk0NbvlTgmOp25NKjJFWLFcT4+rsZDdu1fTR6aPD0t110xhWGYdZc2y4fEMxpfwNK27y38lBbUl6qi8dYtn8uYcQzDk/MvC2XRDSl8Qoi1lhg38tTLuU5QgIRmRr6lrWwpwpXPQAnG2+O8+3aRhDvUx6vrkG2mSzd+0p9uQ6J4+E8jcg0qA9ztNTTnvyzLMa/an7n0sgRNscBAWFlWqQbSwh31uqgQV3xY+AxgUo04qJxn3w==;ZbVlPu/ag6auwyyGjd+vZQ=="
 ---
 

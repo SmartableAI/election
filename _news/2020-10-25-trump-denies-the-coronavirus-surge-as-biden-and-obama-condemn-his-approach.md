@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 2398
+heat: 2418
 published: true
 
 provider:
@@ -301,6 +301,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190327184249-marc-short-tsr-03272019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "These are the big words associated with Trump and Biden as the 2020 campaign closes"
+    excerpt: "In the final days of the presidential campaign, Americans have the coronavirus and the final presidential debate on their minds when asked what they have seen, read or heard about President Donald Trump and former Vice President Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-29T16:00:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8_GaCDXBJxE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/the-breakthrough-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/the-breakthrough-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022110005-05-trump-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
