@@ -159,6 +159,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Donald Trump is doing the *exact* opposite of what he should in the last days of 2020 campaign"
+    excerpt: "(CNN)President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better. Fresh off battling Covid-19 -- and a multi-day ..."
+    publishedDateTime: 2020-10-14T19:12:00Z
+    webUrl: "https://www.cnn.com/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 123
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump campaign's 2020 shot-for-shot remake of 2016 is flopping hard"
     excerpt: "Trump's attempts to manufacture the wild moments that led to his victory four years ago are keeping the sequel from catching on with audiences."
     publishedDateTime: 2020-10-20T09:14:00Z

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-29-they-call-themselves-wives-of-the-deplorables-because-their-husbands-support-trump.md",
+      "title": "They call themselves 'Wives of the Deplorables' because their husbands support Trump",
+      "excerpt": "Carole Catherine did not know her husband, Tim, supported Donald Trump until the day after Hillary Clinton lost the 2016 election. She called him the next morning crying.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0_fxBqAxP8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0_fxBqAxP8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201028170152-wives-of-the-deplorables-support-fb-group-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/29/politics/wives-of-the-deplorables-support-group/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/wives-of-the-deplorables-support-group/index.html",
+      "publishedDateTime": "2020-10-29T04:21:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-trump-pitches-economic-plan-for-hispanic-americans-6-days-before-the-election.md",
       "title": "Trump pitches economic plan for Hispanic Americans -- 6 days before the election",
       "excerpt": "President Donald Trump announced a two-page second-term vision for the Hispanic American community -- the \"American Dream Plan\" -- to rallygoers in Arizona on Wednesday, six days before Election Day.\n    \n",
@@ -296,7 +352,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1190,
+      "heat": 1210,
       "tags": null,
       "images": [
         {
@@ -1368,7 +1424,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2338,
+      "heat": 2378,
       "tags": null,
       "images": [
         {
@@ -1610,63 +1666,6 @@
       "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244530",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244530",
       "publishedDateTime": "2020-10-23T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-in-the-home-stretch-signs-trumps-hard-sell-seniors-pitch-may-be-falling-short.md",
-      "title": "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short",
-      "excerpt": "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_43/3421859/201021-donald-trump-ew-145p_33980ba252755dffd3445498e1c818e0.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244167",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244167",
-      "publishedDateTime": "2020-10-23T17:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",

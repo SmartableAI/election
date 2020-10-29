@@ -219,6 +219,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "If Donald Trump loses the election — experts worry that’s when things could get really ‘weird’"
+    excerpt: "As a Joe Biden election win appears increasingly likely, many in Washington, D.C., are beginning to wonder what will happen between Nov. 3 and Jan. 20. Even if President Donald Trump calmly accepts an election loss,"
+    publishedDateTime: 2020-10-29T10:45:00Z
+    webUrl: "https://www.rawstory.com/2020/10/if-donald-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/if-donald-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/if-donald-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 78
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/10/trump-frown-afp.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Top Donald Trump Quotes During The Final Presidential Debate 2020"
     excerpt: "The second and final presidential debate saw Joe Biden and Donald Trump in a series of sharp exchanges over topics such as COVID-19, national security, and racism in America."
     publishedDateTime: 2020-10-23T04:49:00Z

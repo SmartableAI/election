@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How coronavirus is sinking Trump's election hopes"
+    excerpt: "I have long argued that coronavirus was the only election issue that really mattered. History tells us that when a non-economic issue is topping the list of the nation's problems in a presidential election year, then the candidate who is trusted most on that issue almost always wins.\n    \n"
+    publishedDateTime: 2020-10-29T11:17:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9aTxz-pK39A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/coronavirus-trump-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/coronavirus-trump-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027213702-trump-wisconsin-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact Check: Misleading new Trump ad claims Biden plans to 'end fracking'"
     excerpt: "Less than two weeks before Election Day, a new Trump campaign ad scheduled to air in Pennsylvania misleadingly portrays former Vice President Joe Biden's stance on fracking, a drilling method used to extract oil or natural gas.\n    \n"
     publishedDateTime: 2020-10-26T19:37:01Z
@@ -188,6 +204,22 @@ related:
     quality: 189
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200312115342-cabot-oil-and-gas-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden and Trump head to Florida for dueling rallies in battleground state"
+    excerpt: "The battle for Florida is at the forefront of the presidential race Thursday as President Donald Trump and Democratic challenger Joe Biden hold dueling rallies in the marquee swing state.\n    \n"
+    publishedDateTime: 2020-10-29T10:02:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fCwXeN1rrKs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/florida-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/florida-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200724045318-02-biden-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

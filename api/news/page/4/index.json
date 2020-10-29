@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-27-coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80.md",
+      "title": "Coal baron Murray, a Trump ally who fought environmental regulation, dead at 80",
+      "excerpt": "U.S. coal baron Robert Murray, an ally of President Donald Trump and a leading industry voice who called global warming a hoax, died on Sunday at age 80, U.S. media reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10",
+      "originalUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10?amp",
+      "publishedDateTime": "2020-10-26T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-election-2020-both-trump-and-biden-campaign-in-battleground-pennsylvania.md",
       "title": "Election 2020: Both Trump and Biden campaign in battleground Pennsylvania",
       "excerpt": "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3394,
+      "heat": 3474,
       "tags": null,
       "images": [
         {
@@ -1305,64 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.md",
-      "title": "Pence says Biden, Harris should stop playing politics with COVID-19 vaccine",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V5wwFhiQcL0/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V5wwFhiQcL0/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 543,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp",
-      "publishedDateTime": "2020-10-25T20:52:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
       ]
     }
   ],

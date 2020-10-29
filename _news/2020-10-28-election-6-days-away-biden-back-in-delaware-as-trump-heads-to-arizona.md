@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-election-october-28.amp"
 type: article
 quality: 205
-heat: 1785
+heat: 1805
 published: true
 
 provider:
@@ -686,6 +686,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e7e263-c47a-4806-adeb-362bea3235a1/ad72107a-c53f-4f28-8d21-229f9c3fdd73/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Election 2020 polls show Biden with slim lead in Florida, wider lead nationally, with 5 days to go"
+    excerpt: "President Trump is polling close behind Democratic nominee Joe Biden in Florida, according to one poll, as national polls continue to show Biden leading."
+    publishedDateTime: 2020-10-29T11:46:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hgjPSLhHaV0/florida-trump-rally-tampa-biden-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-trump-rally-tampa-biden-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-trump-rally-tampa-biden-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298770907211.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Debate pays off for Trump as campaign hauls in $26M"
     excerpt: "President Trump's re-election campaign is showcasing a fundraising record they set around Thursday’s second debate between the president and Democratic nominee Joe Biden."

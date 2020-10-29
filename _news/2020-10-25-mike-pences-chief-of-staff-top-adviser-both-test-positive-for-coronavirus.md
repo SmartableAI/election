@@ -558,6 +558,22 @@ related:
         width: 1300
         height: 867
         isCached: true
+  - title: "Vice President Mike Pence shuns quarantine, rallies Trump crowd at Central Wisconsin Airport in Mosinee"
+    excerpt: "The vice president's visit comes while Wisconsin sees record high cases of COVID-19 and while members of his staff have been infected."
+    publishedDateTime: 2020-10-29T03:17:00Z
+    webUrl: "https://www.wausaudailyherald.com/story/news/2020/10/28/mike-pence-mosinee-central-wisconsin-airport-rally-trump-set/6054485002/"
+    ampWebUrl: "https://amp.wausaudailyherald.com/amp/6054485002"
+    cdnAmpWebUrl: "https://amp-wausaudailyherald-com.cdn.ampproject.org/c/s/amp.wausaudailyherald.com/amp/6054485002"
+    type: article
+    provider:
+      name: Wausau Daily Herald
+      domain: wausaudailyherald.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PWAU/639b99c2-6b8d-4fe7-8529-232863157d65-SPJ_Mike_Pence_Mosinee_rally_102820_354_ttm.jpg?auto=webp&crop=2260,1272,x0,y141&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
     excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"
     publishedDateTime: 2020-10-22T21:15:00Z

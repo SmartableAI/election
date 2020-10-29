@@ -6349,6 +6349,20 @@ related:
         width: 1024
         height: 526
         isCached: true
+  - title: "Where President Donald Trump and challenger Joe Biden stand on the issues"
+    excerpt: "The 2020 presidential election between President Donald Trump and former Vice President Joe Biden is as divisive a presidential race as the United States has seen in modern history. Polls indicate few voters remain undecided,"
+    publishedDateTime: 2020-10-14T09:19:00Z
+    webUrl: "https://www.spokesman.com/stories/2020/oct/14/where-president-donald-trump-and-challenger-joe-bi/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 79
+    images:
+      - url: "https://thumb.spokesman.com/vWbs-LUKxWAFftn1PUJf0kTQCfg=/1200x0/media.spokesman.com/photos/2020/10/13/201014_OnTheIssues_CherGraphic.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris: Faith Values Bind Us Together, Joe Biden Will Restore Them in Our Public Life"
     excerpt: "Kamala Harris and Vice President Mike Pence, to speak directly to Utahns and the nation in this forum. To read exclusive commentary by Vice President Pence, click here. When my sister Maya and I were growing up,"
     publishedDateTime: 2020-10-18T23:20:00Z
@@ -7429,20 +7443,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
-  - title: "Where President Donald Trump and challenger Joe Biden stand on the issues"
-    excerpt: "The 2020 presidential election between President Donald Trump and former Vice President Joe Biden is as divisive a presidential race as the United States has seen in modern history. Polls indicate few voters remain undecided,"
-    publishedDateTime: 2020-10-14T09:19:00Z
-    webUrl: "https://www.spokesman.com/stories/2020/oct/14/where-president-donald-trump-and-challenger-joe-bi/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 69
-    images:
-      - url: "https://thumb.spokesman.com/vWbs-LUKxWAFftn1PUJf0kTQCfg=/1200x0/media.spokesman.com/photos/2020/10/13/201014_OnTheIssues_CherGraphic.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris struggles to contain her laughter when asked about the fly on Mike Pence's head"
     excerpt: "Kamala Harris has been asked about the now-famous fly that landed on Mike Pence's head during the vice presidential debate and her laughter said it all. Speaking to Rachel Maddow on MSNBC, the vice-presidential nominee couldn't restrain her laughter when the topic of the fly was brought up."
     publishedDateTime: 2020-10-15T10:48:00Z

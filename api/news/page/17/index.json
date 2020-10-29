@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-10-13-former-ohio-state-qb-cardale-jones-gets-shout-out-from-vice-president-mike-pence.md",
+      "title": "Former Ohio State QB Cardale Jones gets shout out from Vice President Mike Pence",
+      "excerpt": "Former Ohio State University quarterback Cardale Jones, and the Buckeyes' national football championship, earned a shout out from Vice President Mike Pence as he spoke at a Columbus rally on Monday. But the Cleveland native,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dispatch.com/story/news/politics/elections/presidential/2020/10/12/former-ohio-state-qb-cardale-jones-attendance-pence-rally/5929861002/",
+      "originalUrl": "https://www.dispatch.com/story/news/politics/elections/presidential/2020/10/12/former-ohio-state-qb-cardale-jones-attendance-pence-rally/5929861002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/12/NCOD/37bc8937-e0d5-424e-8b6a-18133a358b79-pence_inside_ac_02.JPG?auto=webp&crop=3384,1904,x0,y243&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.dispatch.com/amp/5929861002",
+      "cdnAmpWebUrl": "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/5929861002",
+      "publishedDateTime": "2020-10-12T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Columbus Dispatch",
+        "domain": "dispatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-the-pennsylvania-women-trump-has-lost.md",
       "title": "The Pennsylvania women Trump has lost   ",
       "excerpt": "They are all nervous.\n    \n",
@@ -1281,54 +1324,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-as-trump-revives-push.md",
-      "title": "Pelosi calls latest Trump stimulus proposal 'grossly inadequate' as Trump revives push",
-      "excerpt": "\"It is hard to understand who is shaping their approach,\" Pelosi said of the Trump administration, \"which to date has been a miserable and deadly failure.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-trump-revives-n1242854",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-trump-revives-n1242854",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242854",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242854",
-      "publishedDateTime": "2020-10-11T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -703,6 +703,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Election 2020 polls show Biden with slim lead in Florida, wider lead nationally, with 5 days to go"
+    excerpt: "President Trump is polling close behind Democratic nominee Joe Biden in Florida, according to one poll, as national polls continue to show Biden leading."
+    publishedDateTime: 2020-10-29T11:46:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hgjPSLhHaV0/florida-trump-rally-tampa-biden-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-trump-rally-tampa-biden-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-trump-rally-tampa-biden-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298770907211.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump's debate mic appeared to cut off during health care answer"
     excerpt: "President Trump appeared to have his microphone cut off for a brief moment while he was explaining his health care plan during the final presidential debate in Nashville, Tenn., on Thursday night."
     publishedDateTime: 2020-10-23T08:13:05Z

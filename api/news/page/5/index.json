@@ -2,6 +2,64 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-26-pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.md",
+      "title": "Pence says Biden, Harris should stop playing politics with COVID-19 vaccine",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V5wwFhiQcL0/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V5wwFhiQcL0/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 543,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp",
+      "publishedDateTime": "2020-10-25T20:52:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-biden-on-attacks-on-mental-fitness-trump-thought-911-attack-was-711-attack.md",
       "title": "Biden on attacks on mental fitness: Trump thought '9/11 attack was 7/11 attack'",
       "excerpt": "Former Vice President Joe Biden (D) defended his mental acuity and took shots at President Trump during an interview airing Sunday on CBS's \"60 Minutes.\"",
@@ -826,7 +884,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1113,
+      "heat": 1133,
       "tags": null,
       "images": [
         {
@@ -1109,7 +1167,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2338,
+      "heat": 2378,
       "tags": null,
       "images": [
         {
@@ -1319,62 +1377,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-once-presbyterian-now-says-hes-a-nondenominational-christian.md",
-      "title": "Trump, once Presbyterian, now says he's a 'nondenominational Christian'",
-      "excerpt": "Trump emphasized that his parents taught him the importance of faith and prayer throughout his life.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lP9Gdf_h2As/trump-identifies-non-denominational-christian",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lP9Gdf_h2As/trump-identifies-non-denominational-christian",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/811ca535-be57-4b71-adc1-4fe7047b47b8/85e13a02-9e52-4c03-8d4d-1e3635b6692c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-identifies-non-denominational-christian.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-identifies-non-denominational-christian.amp",
-      "publishedDateTime": "2020-10-24T12:52:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

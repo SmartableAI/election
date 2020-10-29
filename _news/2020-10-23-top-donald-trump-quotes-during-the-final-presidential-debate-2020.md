@@ -223,6 +223,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "If Donald Trump loses the election — experts worry that’s when things could get really ‘weird’"
+    excerpt: "As a Joe Biden election win appears increasingly likely, many in Washington, D.C., are beginning to wonder what will happen between Nov. 3 and Jan. 20. Even if President Donald Trump calmly accepts an election loss,"
+    publishedDateTime: 2020-10-29T10:45:00Z
+    webUrl: "https://www.rawstory.com/2020/10/if-donald-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/if-donald-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/if-donald-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 78
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/10/trump-frown-afp.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Lewis' hopes for Senate upset may turn on Trump's fate"
     excerpt: "Jason Lewis' strategy for knocking off Democratic U.S. Sen. Tina Smith has been clear for over a year: For better or worse, the former congressman is all in for President Donald Trump. Lewis, a one-term former congressman best known from his days as a conservative talk radio host known as “Minnesota's Mr."
     publishedDateTime: 2020-10-18T05:09:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/arizona-road-to-270-anal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/arizona-road-to-270-analysis/index.html"
 type: article
 quality: 190
-heat: 1190
+heat: 1210
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022165949-01-trump-melania-debate-departure-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump bet against science, and voters are casting judgment"
+    excerpt: "The failed bet laid by President Donald Trump to ignore science and prioritize his political goals early in the pandemic, revealed Wednesday in fresh detail by new Jared Kushner tapes, is backfiring in devastating fashion at the critical moment of his reelection bid.\n    \n"
+    publishedDateTime: 2020-10-29T10:44:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/awIbbsDptkE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/donald-trump-election-2020-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/donald-trump-election-2020-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028173656-01-trump-arizona-1028-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

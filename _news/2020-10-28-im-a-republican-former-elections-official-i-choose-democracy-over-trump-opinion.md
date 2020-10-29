@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/im-republican-former-elections-official-i-c
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625?amp=1"
 type: article
 quality: 134
-heat: 414
+heat: 434
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/10/22/812459fd-84cf-4dbf-a7de-e8a43424a224/thumbnail/1200x630/12f84b52ee8edd82c120ff8a4d47dbdc/gettyimages-672492960-copy.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "GRAPHIC-Trump's stock market - A wild four years"
+    excerpt: "The four years since President Donald Trump's 2016 election victory have been a period like no other for the U.S. stock market."
+    publishedDateTime: 2020-10-29T10:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-markets-stocks/graphic-trumps-stock-market-a-wild-four-years-idUSL1N2HC1UL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HC1UL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HC1UL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539255040&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0U6"
+        width: 817
+        height: 545
         isCached: true
   - title: "How Republicans can grow the party's base after Donald Trump is gone"
     excerpt: "Republican operatives at the Lincoln Project spin wicked videos designed to get under President Donald Trump’s skin. Veterans from the Bush Administration sign up with 43 Alumni for Biden. Retired security officers leap on the blue bandwagon."

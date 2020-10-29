@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-14T09:19:00Z
 originalUrl: "https://www.spokesman.com/stories/2020/oct/14/where-president-donald-trump-and-challenger-joe-bi/"
 webUrl: "https://www.spokesman.com/stories/2020/oct/14/where-president-donald-trump-and-challenger-joe-bi/"
 type: article
-quality: 69
+quality: 79
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://thumb.spokesman.com/vWbs-LUKxWAFftn1PUJf0kTQCfg=/1200x0/media.spokesman.com/photos/2020/10/13/201014_OnTheIssues_CherGraphic.jpg"

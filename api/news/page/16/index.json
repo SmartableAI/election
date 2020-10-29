@@ -2,6 +2,63 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-14-trump-to-coronavirus-victims-i-feel-your-pain-because-ive-felt-your-pain.md",
+      "title": "Trump to coronavirus victims: 'I feel your pain because I've felt your pain'",
+      "excerpt": "The president told a crowd in Johnstown, Pennsylvania, that he \"felt like Superman\" after getting an experimental drug treatment for Covid-19 and that he's now \"immune.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-coronavirus-victims-i-feel-your-pain-because-i-ve-n1243288",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-coronavirus-victims-i-feel-your-pain-because-i-ve-n1243288",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_42/3419974/201013-donald-trump-rally-ac-910p_e23b1abe2187633878e526f64d203010.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243288",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243288",
+      "publishedDateTime": "2020-10-13T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-us-election-2020-do-celebrity-endorsements-help-joe-biden.md",
       "title": "US election 2020: Do celebrity endorsements help Joe Biden?",
       "excerpt": "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris.",
@@ -1262,49 +1319,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-former-ohio-state-qb-cardale-jones-gets-shout-out-from-vice-president-mike-pence.md",
-      "title": "Former Ohio State QB Cardale Jones gets shout out from Vice President Mike Pence",
-      "excerpt": "Former Ohio State University quarterback Cardale Jones, and the Buckeyes' national football championship, earned a shout out from Vice President Mike Pence as he spoke at a Columbus rally on Monday. But the Cleveland native,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dispatch.com/story/news/politics/elections/presidential/2020/10/12/former-ohio-state-qb-cardale-jones-attendance-pence-rally/5929861002/",
-      "originalUrl": "https://www.dispatch.com/story/news/politics/elections/presidential/2020/10/12/former-ohio-state-qb-cardale-jones-attendance-pence-rally/5929861002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/NCOD/37bc8937-e0d5-424e-8b6a-18133a358b79-pence_inside_ac_02.JPG?auto=webp&crop=3384,1904,x0,y243&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.dispatch.com/amp/5929861002",
-      "cdnAmpWebUrl": "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/5929861002",
-      "publishedDateTime": "2020-10-12T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Columbus Dispatch",
-        "domain": "dispatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

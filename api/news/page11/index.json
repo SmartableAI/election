@@ -2,6 +2,63 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-19-harris-spotlights-trumps-weird-obsession-with-obamas-legacy.md",
+      "title": "Harris spotlights Trump’s ‘weird obsession’ with Obama's legacy",
+      "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris – campaigning in Florida on the first day of in-person early voting in the largest of the traditional general election battleground states – is taking aim once again at President Trump over his repeated moves to repeal the national health care law",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 680,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293628165220.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp",
+      "publishedDateTime": "2020-10-19T12:21:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.md",
       "title": "Sarah Sanders says Trump should ‘hammer home’ these 2 issues at last debate",
       "excerpt": "President Trump has two issues he needs to \"hammer home” at the next presidential debate, Fox News contributor Sarah Sanders said on Monday.",
@@ -1236,58 +1293,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things.md",
-      "title": "Donald Trump Jr. says dad’s ‘next move’ is to ‘break up’ FBI: ‘He has to get rid of these things’",
-      "excerpt": "Donald Trump Jr. on Sunday called on his father to “break up” the FBI if he wins a second term. During an interview on Fox News, host Maria Bartiromo asked the president’s son what his father would do if the FBI does not do his bidding by smearing the son of Democratic nominee Joe Biden",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/",
-      "originalUrl": "https://www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/VID_20201018_10.52.09-0001-794x430.jpg",
-          "width": 794,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/amp/",
-      "publishedDateTime": "2020-10-18T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -639,6 +639,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Sunshine State showdown: Trump, Biden to take campaign battle to Florida"
+    excerpt: "With Election Day looming, President Donald Trump and Democratic rival Joe Biden will both rally supporters on Thursday in the critical battleground state of Florida – campaigning in the same city hours apart and putting their differing approaches to the resurgent"
+    publishedDateTime: 2020-10-29T05:26:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27E0K8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E0K8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E0K8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539218779&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0BJ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "With time running out, Trump to launch attacks on Biden's family at debate"
     excerpt: "U.S. President Donald Trump is expected to come out swinging in Thursday's final presidential debate with Democratic rival Joe Biden to try to close a gap in opinion polls before an election 12 days away."
     publishedDateTime: 2020-10-23T01:15:00Z
@@ -750,6 +766,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99dc200f79606cb9793dcf%2F0x0.jpg"
         width: 1200
         height: 727
+        isCached: true
+  - title: "The Economist Endorses Joe Biden, Says Donald Trump 'Must Be Soundly Rejected'"
+    excerpt: "The Economist newspaper has formally endorsed former Vice President Joe Biden. The London-based current affairs publication released its endorsement on its website on Thursday. The op-ed backing Biden will appear in The Economist's print edition on Friday,"
+    publishedDateTime: 2020-10-29T11:16:00Z
+    webUrl: "https://www.newsweek.com/economist-endorses-joe-biden-donald-trump-soundly-rejected-1543157"
+    ampWebUrl: "https://www.newsweek.com/economist-endorses-joe-biden-donald-trump-soundly-rejected-1543157?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/economist-endorses-joe-biden-donald-trump-soundly-rejected-1543157?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
+    images:
+      - url: "https://d.newsweek.com/en/full/1661238/biden-speaks-during-drive-campaign-rally.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Election 2020 live updates: Biden leads Trump in Wisconsin, Georgia; Americans are stressed about the election"
     excerpt: "At just six days until Election Day, the presidential campaigns focus on Arizona, which appears to be still up for grabs."
@@ -974,6 +1006,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZATPJKAT6UI6XISYMFFM6K4QNU.jpg&w=1440"
         width: 1440
         height: 929
+        isCached: true
+  - title: "Paleologos on the Poll: Trump, Biden supporters agree on little, but there's widespread worry about election violence"
+    excerpt: "Among that 48 percent who responded “better off”, President Trump is beating Former Vice President Joe Biden 74 percent to 20 percent. Likely voters who trust Fox News were more than five times as likely to respond that they were better off now than they were four years ago compared to those who trust CNN."
+    publishedDateTime: 2020-10-29T10:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/29/trump-biden-supporters-concern-election-violence-power-struggles/6063488002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6063488002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6063488002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/2ebe3c985df0bd9e6de7b004ee6126bfa220816e/c=0-118-3456-2067/local/-/media/USATODAY/USATODAY/2014/08/20/1408560454000-Dave-Paleologos-2110.jpeg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 677
         isCached: true
   - title: "Trump Muses About Ultimate Fighting Championship Scenario Against Biden Amid Lag in Polls"
     excerpt: "\"One gentle little touch to the face and he's down,\" President Donald Trump said of his hypothetical \"dream fight\" with Democratic presidential nominee Joe Biden during a campaign rally on Wednesday."
@@ -1523,6 +1571,22 @@ related:
       - url: "https://i.insider.com/5f92e59d212113001874067f?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Poll: Biden holds small lead over Trump with Latino voters in pivotal Florida; lead grows in other battlegrounds"
+    excerpt: "Latinos will be the largest ethnic or racial minority group in the 2020 election, with 32 million eligible to vote."
+    publishedDateTime: 2020-10-29T10:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/29/2020-biden-leads-trump-latino-voters-florida-texas-arizona-nevada/6062957002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6062957002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6062957002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/01799edb-fafc-4beb-b811-34f70419afa4-AP_Election_2020_Trump_Biden_Policy.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden has solid lead in Wisconsin, narrower edge in Pennsylvania: Reuters/Ipsos poll"
     excerpt: "Democratic presidential challenger Joe Biden led President Donald Trump by a solid margin in Wisconsin and maintained a narrower advantage in Pennsylvania with just over a week until Election Day, Reuters/Ipsos opinion polls showed on Monday."
