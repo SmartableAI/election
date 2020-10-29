@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-exp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ben Shapiro explains why he'll vote for Trump this time around: 'Democrats have lost their f---ing minds'"
-    excerpt: "Conservative commentator Ben Shapiro revealed Monday that he plans to vote for President Trump in the upcoming election after declining to support his 2016 presidential bid."
-    publishedDateTime: 2020-10-20T20:50:00Z
-    webUrl: "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020"
-    ampWebUrl: "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.amp"
+  - title: "Former Democrat Rubin on why he is voting for Trump: 'No feeling of patriotism' on the left anymore"
+    excerpt: "President Trump is the last bastion to stopping the radical left, talk show host Dave Rubin said Thursday."
+    publishedDateTime: 2020-10-29T15:41:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 118
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4284e8ac-4bba-4f37-827e-83cfc7b6b39f/32e33807-bba9-4a35-8092-3c75f6e1dcde/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "1oJoIjuVzXPTMpXfH8HcLnmwhsBnv7x6TVkIYJZbSzh02l8rzEzKzVI81VQz+091BhpxK1YgdXC9mpUU+rIaYjwyibAF2j4uJdKsVVCLzLcdgRudCMIUVbU4788oYVHzsOhA920Q000yydXaFfDBssGeAzPQrP8DrClBr1cp7/Z6X8RjfzX+65/rWh3Ao+R/Ui1JL7o/Cxuz9gbUv39TeP3oNtp6xWP/KtglAspWRAn/gs12tGl5RTZ3+NYRiNRFiZFQtb+xSKyWN6tFwv/3R2FmIrBc+v77yJIzF9IExcJXdsB6qwtCQfwW7L9zqY4c38qk6HneJw+QzwJZTcdp0C1hC4jPLsS2JBk/TZq1kEzWL75Ozv8vEudMmvyXm+nirTJtyUujIHhR3gF82vkd/eSNlc6PyEHnVTJXQP67MolZnCdCUErLFErhOtbSgBlJCwixZBPOY/E0HWJNLU6rZnTzIbfeuqFy41ml8azZ59sPZxpFoKyzKbS6nTqMPr2e75YCZIlku/qPS4gr6vtv0w==;L5WwAnHiAq9B04immacqdA=="

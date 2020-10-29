@@ -749,6 +749,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Wisconsin GOP says hackers stole $2.3M from Trump reelection fund"
+    excerpt: "Hackers stole $2.3 million from the Wisconsin Republican Party's account that was being used to help reelect President Donald Trump in the key battleground state, the party's chairman told The Associated Press on Thursday."
+    publishedDateTime: 2020-10-29T14:05:00Z
+    webUrl: "https://www.politico.com/news/2020/10/29/wisconsin-gop-hackers-stole-trump-fund-433593"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/85/52/a79465a34957a0b5f9633bce3c82/ap20255820099032.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Tried to Blur Responsibility for His Family Separation Policy in Final Debate"
     excerpt: "President Trump repeatedly hurled the phrase “They built the cages” at his debate opponent Thursday, but separating children from parents was a policy all his own."
     publishedDateTime: 2020-10-23T23:27:00Z

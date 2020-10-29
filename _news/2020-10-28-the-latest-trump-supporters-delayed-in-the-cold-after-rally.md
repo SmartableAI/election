@@ -57,6 +57,17 @@ related:
         width: 1024
         height: 563
         isCached: true
+  - title: "RI's House Speaker in Tight Race in Pro-Trump District"
+    excerpt: "Rhode Island's Democratic House speaker is in a tight race as he campaigns to hang on to his legislative seat in a district that went for Donald Trump in 2016."
+    publishedDateTime: 2020-10-25T12:53:00Z
+    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district"
+    ampWebUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "EX74qVhW9bfPAv4rmLhnBpyCJv4Ce1Ih0sSoDuIfGTpL8DwR72Iybt/7fgtJP4hy8eOLVXARCzzk+JH5QL7QEGmqwZ3wPcR/+hBKxQ2DukTLehx2qwu6grcj24vH0Haf0/OHXjAJIlaSqADCn8xzsW9F2h89/1yiVC3E6TFoQH69K4IFGNVImEjN0GSll/fm0OpcdLOybRB5zzN3UnJncCKBbRHKItwUHbdiS2lssMVwFHMmATb+1uLhgZP0eNSgQjIbqgWn2zJPNUFrf82jEqhj9JFnR8CIkgo9RcyWY6iyfKIOlFq6s+TP7STJJ/UegZZ0LGsm2tKvxgQVSFwwY0xeijmeYvVHHo2EtJM4iuQSOjt84biiaAU5iRGQ6lRUqiOmfAcz98NSU9gprM+0qeeZDY1SzbkrEAhm+vk+z+A0779ABw3VD3bXq0doz/sV9YpKQ9143y6SLu4mL7lN9qWeBAwpUVC8bwVObBWgcpq0LvXaCOtLdLgyoz7Q51rP+2GJ2CxG/hlFUB0uiYSj9g==;61+TDP1FX1j0erJzeh1wqg=="
 ---

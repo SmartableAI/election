@@ -47,22 +47,6 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "Trump's EPA rewrote the rules on air, water energy. Now voters face a choice on climate change issues"
-    excerpt: "Election Day will be a decision between deregulation or re-regulation. A look at Trump's rollbacks and their long term effects nationwide."
-    publishedDateTime: 2020-10-29T07:14:00Z
-    webUrl: "https://www.usatoday.com/in-depth/news/investigations/2020/10/29/climate-change-escalates-voters-face-choice-deregulate-re-regulate/3668667001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3668667001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3668667001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/NCOD/292b255e-c6f8-4fde-80dd-72114e11db3c-04_Environment_Election_CLH.jpg?auto=webp&crop=1999,1125,x0,y101&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "AlIY5jlnNG0ukmcYhNSZGh3NnCIjbbdfleF+VSDXCw6pxgalI0FfmnuZLJMJTcbEobo5QxLNYYKGBq/iCKdK4lbvPpTFMkYcQ3TmbavGiQSEQnN2skHq9qsQxclaJspw7SgHrAmcNf61uQdSjX0h3SqDNMG1tAiizIyP3O/v53kWaSwIeoPGs6ft4TJ5fi5Sams+nhPziA8Rh2nCJJttzSM8GrbXRK/GJVVJFpb2j+TNPe7s8WJcxtWk0t0vmrcvyTIhW1lHj/hn1PvOOq439AlnGe8IS+5hzq2HyLssYPVlF/wgfjoJIll6B9xfaM9coUFqvORhvAoHlnwubJN8pp4B5G2U52ROtngl/tEG3QE=;JryjU4wRA5lk9xoBe0nPFQ=="
 ---

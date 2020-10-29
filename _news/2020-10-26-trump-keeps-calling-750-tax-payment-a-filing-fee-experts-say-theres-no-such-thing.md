@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6010994002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6010994002"
 type: article
 quality: 117
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Incoming Sarasota School Board member getting backlash for calling Trump supporters ‘Nazis’"
-    excerpt: "The newest member of the Sarasota County School Board is facing backlash for calling Trump supporters Nazis in a 2017 Facebook post."
-    publishedDateTime: 2020-10-20T20:07:00Z
-    webUrl: "https://www.usatoday.com/story/news/education/2020/10/19/sarasota-school-board-member-called-trump-supporters-nazis-2017/3710042001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3710042001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3710042001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/NSHT/c84afe4c-edcb-4ae9-946f-328495ddf94e-EdwardsTom_01.jpg?auto=webp&crop=4149,2334,x0,y399&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "RNC chairwoman say Republicans who distance themselves from Trump are 'hurting themselves in the long run'"
     excerpt: "Her comments came after Trump lashed out at Nebraska Sen. Ben Sasse for leaked audio from a constituent town hall where he criticized the president."
     publishedDateTime: 2020-10-18T18:14:00Z

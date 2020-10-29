@@ -31,194 +31,142 @@ images:
     isCached: true
 
 related:
-  - title: "'It's a shame.' Trump reacts to COVID-19 death toll hitting 200,000"
-    excerpt: "Asked about the 200,000 COVID-19 deaths as reported by Johns Hopkins as he left the White House on Tuesday, Trump said \"it’s a shame.\""
-    publishedDateTime: 2020-09-22T22:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3493983001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3493983001"
+  - title: "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue"
+    excerpt: "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in"
+    publishedDateTime: 2020-10-29T10:35:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKBN27E1HY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E1HY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 132
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/4308ed0f-ac3d-4420-9278-e87feee6b420-AP_Election_2020_Trump_1.jpg?auto=webp&crop=4146,2333,x0,y211&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump calls his handling of pandemic 'phenomenal' as US death toll nears 200K"
-    excerpt: "President Donald Trump on Monday called his handling of the pandemic \"phenomenal\" even as the death toll neared 200,000."
-    publishedDateTime: 2020-09-21T18:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 122
-    images:
-      - url: "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump Says Coronavirus 'Affects Virtually Nobody,' As U.S. Has World's Highest Death Toll"
-    excerpt: "At a campaign event on Monday, Joe Biden struck a different tone to the president, stating the number of dead cannot become \"background noise.\""
-    publishedDateTime: 2020-09-22T07:53:00Z
-    webUrl: "https://www.newsweek.com/trump-covid-virtually-nobody-rally-ohio-1533452"
-    ampWebUrl: "https://www.newsweek.com/trump-covid-virtually-nobody-rally-ohio-1533452?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-covid-virtually-nobody-rally-ohio-1533452?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1640302/donald-trump-toledo-express-airport-swanton-ohiogetty.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "‘It affects virtually nobody’: Trump incorrectly claims covid-19 isn’t a risk for young people"
-    excerpt: "In front of a large crowd of mostly maskless supporters not adhering to social distancing in Swanton, Ohio, Trump again publicly downplayed the pandemic."
-    publishedDateTime: 2020-09-22T09:03:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/?outputType=amp"
+  - title: "Boat parades, road rallies buoy Trump and his supporters"
+    excerpt: "Soon he was leading nearly 300 combines and tractors pulling hay wagons and manure spreaders through the western Ohio village of Fort Recovery, one of many parades nationwide organized by a swell of grassroots supporters for President Donald Trump."
+    publishedDateTime: 2020-10-24T15:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/boat-parades-road-rallies-buoy-trump-and-his-supporters/2020/10/24/1c60470c-160a-11eb-a258-614acf2b906d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/boat-parades-road-rallies-buoy-trump-and-his-supporters/2020/10/24/1c60470c-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/boat-parades-road-rallies-buoy-trump-and-his-supporters/2020/10/24/1c60470c-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S7DQDNH4OUI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Ex-FDA commissioners, including former Trump advisor, warn against White House efforts to 'tip the scales' on COVID-19 vaccine"
-    excerpt: "Trump's first commissioner, and six others, suggest he's manipulating the FDA and undermining trust in any future coronavirus vaccine."
-    publishedDateTime: 2020-09-30T05:41:00Z
-    webUrl: "https://www.businessinsider.com/fda-leaders-warn-against-trump-manipulation-of-covid-19-vaccine-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/fda-leaders-warn-against-trump-manipulation-of-covid-19-vaccine-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fda-leaders-warn-against-trump-manipulation-of-covid-19-vaccine-2020-9?amp"
+  - title: "Trump celebrates at White House as Supreme Court nominee confirmed"
+    excerpt: "President Donald Trump reveled in one of his signature achievements on Monday at a White House ceremony to celebrate U.S. Senate confirmation of his third Supreme Court nominee, Amy Coney Barrett, eight days before the election."
+    publishedDateTime: 2020-10-27T04:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett-idINKBN27A0CX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A0CX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A0CX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538916881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q02G"
+        width: 777
+        height: 545
+        isCached: true
+  - title: "Trump remakes Supreme Court as Senate confirms Amy Coney Barrett"
+    excerpt: "The Republican-led U.S. Senate handed President Donald Trump a major pre-election political victory on Monday by confirming his Supreme Court nominee Amy Coney Barrett as he delivered a dramatic conservative overhaul of the nation's top judicial body."
+    publishedDateTime: 2020-10-27T00:30:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN27C00H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C00H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C00H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538910364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q009"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes"
+    excerpt: "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week."
+    publishedDateTime: 2020-10-24T22:53:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5f7646e80ab50d00184adb29?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Foreign students show less zeal for US since Trump took over"
+    excerpt: "On a recruiting trip to India’s tech hub of Bangalore, Alan Cramb, the president of a reputable Chicago university, answered questions not just about dorms or tuition but also American work visas."
+    publishedDateTime: 2020-10-25T22:47:00Z
+    webUrl: "https://www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "3 Cities Designated As 'Anarchist' Filing Lawsuit Against Trump Administration"
+    excerpt: "After months of street protests, President Trump described New York City, Portland and Seattle as lawless places and threatened to withhold federal aid. City officials say the law is on their side."
+    publishedDateTime: 2020-10-22T18:38:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/10/22/926695864/3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 101
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/22/ap_20133094368037_wide-0ecc215828e095c74a18670fb311744097545173.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "U.S. Supreme Court rejects Trump bid to block North Carolina absentee ballot extension"
+    excerpt: "The U.S. Supreme Court on Wednesday rejected a request by President Donald Trump's campaign to block North Carolina's extension of the deadline for receiving mail-in ballots as the justices acted in another voting case ahead of Nov."
+    publishedDateTime: 2020-10-28T23:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-court-northcarolina-idUSKBN27D3DR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D3DR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D3DR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 97
-    images:
-      - url: "https://i.insider.com/5f73ebf174fe5b0018a8e241?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'It's a low bar to be not Donald Trump': Young Democratic activists explain the vision of the future driving first-time voters to the polls"
-    excerpt: "But will movements like March for Our Lives and the global climate strike translate to the ballot box?"
-    publishedDateTime: 2020-09-24T20:09:00Z
-    webUrl: "https://www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9?amp"
+  - title: "Foreign Students Show Less Zeal for US Since Trump Took Over"
+    excerpt: "America has been considered the premier destination for international students, with the promise of an education at top-notch universities leading to job opportunities."
+    publishedDateTime: 2020-10-25T15:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/5f5c2cc5e6ff30001d4e878f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "CDC guidelines discouraging people from getting COVID-19 tests was published by Trump officials despite objections from scientists, report says"
-    excerpt: "The CDC previously denied that the controversial advisory was the result of political meddling, but new evidence from The New Times says otherwise."
-    publishedDateTime: 2020-09-18T13:17:00Z
-    webUrl: "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/5f649951323fc4001e0d70ba?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump Administration Trampled Over Science Again With COVID Testing Guidance; Report"
-    excerpt: "The CDC revised its guidelines regarding asymptomatic people despite its own scientists’ objections, according to the Times. Well, Trump has said he wanted testing slowed down."
-    publishedDateTime: 2020-09-18T16:50:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 68
-    images:
-      - url: "https://media.vanityfair.com/photos/5f64cf97ff5dee9bb494a517/master/pass/Trump9.18.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
-  - title: "Jake Tapper Goes Off to Covid Testing Czar: Trump Is ‘Constantly Undermining Your Message About Mask Wearing’"
-    excerpt: "CNN's Jake Tapper confronted Admiral Brett Giroir, the White House coronavirus testing czar, on Sunday over failures in the U.S. covid response and President Donald Trump \"undermining\""
-    publishedDateTime: 2020-09-20T15:11:00Z
-    webUrl: "https://www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/"
-    ampWebUrl: "https://www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 56
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/tapper-giroir.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neighborhood Sign Reminds VP Pence that 200,000 have died to COVID-19"
-    excerpt: "A boy cicycles past a handmade sign that reminds Vice President Mike Pence that the United States has lost 200,000 citizens to the Cocid-19 pandemic, in the Woodley Park neighborhood of Washington, DC on Monday,"
-    publishedDateTime: 2020-09-21T20:38:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c6fb08512518abb48213925c87f65c13/Neighborhood-Sign-Reminds-VP-Pence-that-200000-have-died-to-COVID-19/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/c6fb08512518abb48213925c87f65c13/PENCE-VIRUS.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Coronavirus: Mike Pence recognizes grim milestone of 200,000 U.S. COVID-19 deaths"
-    excerpt: "President Mike Pence recognized the United States’ grim milestone of reaching 200,000 deaths due to the novel coronavirus. While he did not say the number by name, he described it as a “heartbreaking” moment and milestone,"
-    publishedDateTime: 2020-09-22T22:50:00Z
-    webUrl: "https://globalnews.ca/video/7351936/coronavirus-mike-pence-recognizes-grim-milestone-of-200000-u-s-covid-19-deaths/"
+  - title: "Denver Groups to Remove Trump Letter From Food-Aid Boxes"
+    excerpt: "A coalition of anti-hunger groups in Denver have been removing letters from President Donald Trump from inside federal food assistance boxes that address recipient families."
+    publishedDateTime: 2020-10-29T15:51:00Z
+    webUrl: "https://www.usnews.com/news/best-states/colorado/articles/2020-10-29/denver-groups-to-remove-trump-letter-from-food-aid-boxes"
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 50
-    images:
-      - url: "https://i0.wp.com/media.globalnews.ca/videostatic/news/aofr4b62rg-d7atcfvij0/edit_here.00_00_04_18.Still810.jpg?w=500&quality=70&strip=all"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Google searches to buy chloroquine spiked by 442% following Donald Trump and Elon Musk’s endorsements of the drug for treating COVID-19"
-    excerpt: "A study published in JAMA Internal Medicine suggests that the American public is highly susceptible to endorsements from public leaders regarding unproven COVID-19 drug therapies — even when such drugs have been linked to fatal poisonings."
-    publishedDateTime: 2020-09-20T12:53:00Z
-    webUrl: "https://www.rawstory.com/2020/09/google-searches-to-buy-chloroquine-spiked-by-442-following-donald-trump-and-elon-musks-endorsements-of-the-for-treating-19/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/google-searches-to-buy-chloroquine-spiked-by-442-following-donald-trump-and-elon-musks-endorsements-of-the-for-treating-19/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/google-searches-to-buy-chloroquine-spiked-by-442-following-donald-trump-and-elon-musks-endorsements-of-the-for-treating-19/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 43
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/1667033-origin_1-658x430.jpg"
-        width: 658
-        height: 430
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "lw5RRWpvrbtWYk0EHciAUYkNDa47FYx8d+yFcaCPpmApv4iP3XfLDNsZvHEjkMoikqsm+Xevk34MF78REW7quKxvfjxjIkY7s3KWq5uWqR6w+zn4a2dqN0MKGbiAdBiebM+A9ahRbcG9JxzBjb+EaRDj2chz66HhblFLSTXTk/pVFjDtBd7HMWVRKyFu0PcLLqqu3mCujaK3v3/uNgaMc+/vwpcFSYNa1OUDpHgzQ26GpTK7y5zl0rOPGCZYiEQ0GiNIP5YJMYHNx+v7Pwf2qgukSyb56Dx2vDGa+izJKQf5bAMEkyLbUVkWI95p8Vq+hSUDs1eidqFH3Gb5vVvZZ4H7/Q4hYZzB/jByIRPAEdo=;s/zWV4LsnFR1fdydHZG8mw=="
 ---

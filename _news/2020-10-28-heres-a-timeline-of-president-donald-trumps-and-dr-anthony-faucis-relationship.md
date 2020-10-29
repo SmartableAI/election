@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3718797001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718797001"
 type: article
 quality: 119
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Ex-Homeland Security Official Outs Himself As 'Anonymous' Anti-Trump Author"
-    excerpt: "Miles Taylor defended his decision to criticize the president anonymously, saying it forced him to address the merits of the claims, \"rather than creating distractions through petty insults.\""
-    publishedDateTime: 2020-10-28T21:20:00Z
-    webUrl: "https://www.npr.org/2020/10/28/928816691/ex-homeland-security-official-outs-himself-as-anonymous-anti-trump-author"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 103
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/28/ap_20302745238654_wide-0cee878279e71bf1f888e43b84ba132a4485fece.jpg?s=1400"
-        width: 1201
-        height: 675
-        isCached: true
 
 secured: "aOusZkxvW4VzMePOWXGHGwZ+cPozVODPpXfRqtexRHXGIdacSVlswAwmmQUamrq4z3t6h3COhspIitQwxG2gRoG6d1APoCETLKdKfky2fx0wGhkX8wlcZtYmqg2jFS+VeFdSY3jqYazqQUcUU8diJBVKO+cFoHgd4+Sx2v8xFsFKysm54jKynPRwLwHBIpU+4bkLuac+oMlAfRULRZKVfw5xtDNn4eoMzHBT/swM6+YfyfxFdehyNUDEnratyN8WnirQWehPFQR6JNMJza3R3DXwVLwvAGKOVpw5l6jl+OhnwX40DKn8QPKuzIrlb6XxVSZ5JLjGeejzG9yTZ9PYSEQGV/ccev7LUDvWH8NSjkc=;QpY4TNWj0E+Ulmv0IdoDFA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/amp/"
 type: article
 quality: 113
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,17 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "The Latest: Trump Says Final Debate Went 'Really Well'"
-    excerpt: "President Donald Trump is reviewing his debate against Democrat Joe Biden, saying he thought it went “really well” and was an “exciting night.”."
-    publishedDateTime: 2020-10-23T19:33:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
+  - title: "Trump issues order for some career federal employees to lose their civil service protections"
+    excerpt: "Career federal employees whose work involves making policy would no longer be hired under competitive procedures."
+    publishedDateTime: 2020-10-22T21:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html?outputType=amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 65
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SYLKOEQUQQI6XPAQICZFHAXRXY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "58/Qj3dv5wXMeBA8RIDP7oYEm+HJDmXbaNdaRVVzRil8aVBA9nSmiQaIlr3sQ+tG0YTVIn+tHVHKK8zbXXXb6uVlJvfAT4To5xGmYRc0hr/KA61VkFnJm2uMgs4NubxSMPu4EkIeP9ByAnMTIsLJbd/GTeTpsmglE+9ddWRg7FxQdmD8ytPkeXKfW12DUVnHo5MMF9zcaUHu84Z7jBROcScaKqQAGVOqj4IBzC2vJPTm/mvOP7f1OtKgNvwp+m9jzaD3wR3rMbyaHgimgXee2J7g7SpAnN6ewEodK+8BGsTRfJ4bzG4fNd1v2aede5WKS2Agd1SAtEXP2776WaylBzgr+AacNJ1vLqAWtjS5kUg=;nU6FGus4qgMEgVWFyreP6g=="
 ---

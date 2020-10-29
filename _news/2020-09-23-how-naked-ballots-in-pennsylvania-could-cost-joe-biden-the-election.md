@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to Watch, Live Stream Trump's Tuesday Rally in Pennsylvania, a Crucial State for the President"
+    excerpt: "The Trump campaign hopes to pull off a repeat victory next month in securing all 20 of the state's electoral votes."
+    publishedDateTime: 2020-09-22T19:00:00Z
+    webUrl: "https://www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317"
+    ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 111
+    images:
+      - url: "https://d.newsweek.com/en/full/1639685/trump-pennsylvania-rally.jpg"
+        width: 594
+        height: 360
+        isCached: true
   - title: "Evangelicals at base of Trump hopes for Pennsylvania repeat"
     excerpt: "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith."
     publishedDateTime: 2020-09-19T13:55:00Z

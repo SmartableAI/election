@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/arizona-road-to-270-anal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/arizona-road-to-270-analysis/index.html"
 type: article
 quality: 190
-heat: 1230
+heat: 1250
 published: true
 
 provider:
@@ -748,6 +748,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/28/opinion/28Collins-01/28Collins-01-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Wisconsin GOP says hackers stole $2.3M from Trump reelection fund"
+    excerpt: "Hackers stole $2.3 million from the Wisconsin Republican Party's account that was being used to help reelect President Donald Trump in the key battleground state, the party's chairman told The Associated Press on Thursday."
+    publishedDateTime: 2020-10-29T14:05:00Z
+    webUrl: "https://www.politico.com/news/2020/10/29/wisconsin-gop-hackers-stole-trump-fund-433593"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/85/52/a79465a34957a0b5f9633bce3c82/ap20255820099032.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump Tried to Blur Responsibility for His Family Separation Policy in Final Debate"
     excerpt: "President Trump repeatedly hurled the phrase “They built the cages” at his debate opponent Thursday, but separating children from parents was a policy all his own."

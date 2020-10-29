@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp"
 type: article
 quality: 55
-heat: 95
+heat: 75
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - Donald Trump
 
 related:
-  - title: "The Latest: Trump heaping attention on 1 Nebraska district"
-    excerpt: "President Donald Trump talks with the traveling press as first lady Melania Trump waits near Air Force One at Andrews Air Force Base, Md., Tuesday, Oct. 27, 2020. They flew"
-    publishedDateTime: 2020-10-28T01:26:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-heaping-attention-on-1-nebraska-district/image_3a2d2708-da36-5d0e-bceb-7b2e43bd20ce.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/a2/3a2d2708-da36-5d0e-bceb-7b2e43bd20ce/5f98a68289117.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "“Steroid-Induced Psychosis”: Donald Trump Follows Up Sunday Night Joyride With Extra-Crazy Monday (Even for Him)"
     excerpt: "Capping off an insane weekend in which the White House got caught in its cover-up re: when Donald Trump tested positive for COVID-19, if he was ever put on supplemental oxygen, and how serious his case is,"
     publishedDateTime: 2020-10-05T16:48:00Z

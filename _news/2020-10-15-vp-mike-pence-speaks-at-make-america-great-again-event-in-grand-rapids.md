@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wkyc.com/amp/article/news/local/vice-president-pence-vis
 cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07"
 type: article
 quality: 74
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Pence to host ‘Make America Great Again!’ event in NH"
+    excerpt: "GILFORD, N.H. (WHDH) - Vice President Mike Pence will be hosting a “Make America Great Again!” event in Gilford, New Hampshire on Tuesday. This event comes as President Donald Trump and Pence ..."
+    publishedDateTime: 2020-09-22T09:44:00Z
+    webUrl: "https://whdh.com/news/pence-to-host-make-america-great-again-event-in-nh/"
+    ampWebUrl: "https://whdh.com/news/pence-to-host-make-america-great-again-event-in-nh/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/pence-to-host-make-america-great-again-event-in-nh/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 55
   - title: "Vice President Pence Remarks at Faith in America Roundtable in Miami"
     excerpt: "President Mike Pence speaks at a roundtable in Miami on religious freedom. The vice president also talks about President Trump’s foreign policy record, including his Middle East policy and moving the U."
     publishedDateTime: 2020-10-15T21:37:00Z

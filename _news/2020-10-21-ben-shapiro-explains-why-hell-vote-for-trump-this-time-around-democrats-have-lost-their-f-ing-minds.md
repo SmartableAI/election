@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.amp"
 type: article
 quality: 118
-heat: -1
-published: false
+heat: 138
+published: true
 
 provider:
   name: Fox News
@@ -32,21 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump town hall 'nodding woman' explains why she left Democratic Party"
-    excerpt: "It was a tale of two town halls that exposed the corrupt, the dishonest, abusively biased media mob in real time. Over there at ABC, Joe Biden predictably coddled by the network's chief Democrat, little Georgie Stephanopoulos."
-    publishedDateTime: 2020-10-24T12:02:00Z
-    webUrl: "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party"
-    ampWebUrl: "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp"
+  - title: "Ben Shapiro: I Did Not Vote For Donald Trump In 2016, I Am Voting For Donald Trump In 2020"
+    excerpt: "Wire\" founder Ben Shapiro explains why he is planning to vote for Donald Trump in 2020 despite not voting for him in 2016. \"I was wrong,\" he said. \"But most importantly, Democrats have lost their fucking minds."
+    publishedDateTime: 2020-10-20T11:50:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/20/ben_shapiro_i_did_not_vote_for_donald_trump_in_2016_i_am_voting_for_donald_trump_in_2020.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 55
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/51022276-6559-4a62-b0df-600aea903753/5c186c01-c853-4d7e-a585-af3ca2bf75af/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/46/462538.jpg"
+        width: 800
+        height: 599
         isCached: true
 
 secured: "9L0gqxChYrzNmpSd8UtSvjkofULblqccevb2DYlyV/FYOhX3ApMsTCwooCIZHTaurKui7mCnUTAYsFAh5fT6S4LaqRONI5PDvMy6Za0wpq+8UJc7/l3NOX8M/mSKZphuActYjkg9Zcf/UIN5U6bku5YyqeEXPmgMufBe2nxaAH6kvQ1uF5Dj2wYCTJvsL+eCjvUzZ5//7cc9iZFhIFXo/PffEnIJYHDSk5AIpvT1bFOeUMYWLpF+a4ImY6drbjiQRqtCiplRi96NspssazUvDnY/xnzAD5p9+/BRbwasveHoXqx1Fycq1lkA34zhFV8BOd0ayA2a78WqsoB1FbTszoy0o32O1kUph01r8rYOVsA=;W8bnYIy3aKLKDKpstGu16g=="

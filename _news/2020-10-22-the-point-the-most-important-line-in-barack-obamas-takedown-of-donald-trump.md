@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: This Republican senator is taking being pro-Trump to a whole other level"
+    excerpt: "Georgia Republican Sen. Kelly Loeffler was apparently on another planet or something during the 2016 presidential race.\n    \n"
+    publishedDateTime: 2020-10-29T14:27:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dnE3hm97Sm4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/kelly-loeffler-donald-trump-georgia-senate-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/kelly-loeffler-donald-trump-georgia-senate-race/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016183832-kelly-loeffler-1015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "Vp8eZvUwNibYKdSDLMAksLDmmisB7WJwWqHJ5cHO4ihYqci2VhowqycjQJ2/aUsPmt87B6b5PduVlf4pdOr+0v9BlccvjVRE6mlsX3giIsyGLiqGzv+BZHhEnaJpb6t5X0ZnVleiR9qbg6nhZAYWZXaWyMvh/JyeVXdDuhnYe7gJbW5VAA+rej3+Ob+3YnZThqRadnVOKQZpMICIzP3LGPmlnuFU4NiUzCxFSuJpjaO7oAAWlKOssgsP1sq7NFTkdL4B1j3xlg2L91QRF2NDFggHGpt8AlplbO+Q/xkANhtP6w/0JBVsJ7P+ka1HlAn5JKI3vYmbzVFo6EJOz1+7j6TSoSnKCnQenGsy7XFZ8FA=;qX3kbLMk7J6Pz7hkuQoG/A=="
 ---

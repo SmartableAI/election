@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 3474
+heat: 3494
 published: true
 
 provider:
@@ -2285,6 +2285,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "'Take Biden and Trump Down!' in Moscow, Neither U.S. Candidate Appeals"
+    excerpt: "Take Biden and Trump Down!' in Moscow, Neither U.S. Candidate Appeals MOSCOW (Reuters) - Vladimir Zhirinovsky, a staunch ally of President Vladimir Putin, threw a champagne party in Russia's parliament in 2016 to toast Donald Trump's presidential election victory."
+    publishedDateTime: 2020-10-29T15:35:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-29/take-biden-and-trump-down-in-moscow-neither-us-candidate-appeals"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-29/take-biden-and-trump-down-in-moscow-neither-us-candidate-appeals?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-29/take-biden-and-trump-down-in-moscow-neither-us-candidate-appeals?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Trump Campaigning Non-stop As Biden Holds Firm In Delaware"
     excerpt: "Democrat Joe Biden huddled in his home state Wednesday six days before a monumental US election, fine-tuning his pandemic response plan while President Donald Trump crisscrosses America at a frenetic pace,"
     publishedDateTime: 2020-10-28T17:42:00Z

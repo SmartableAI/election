@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-campaigns-
 cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.amp.html"
 type: article
 quality: 75
-heat: 75
+heat: 95
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "WATCH: Vice President Mike Pence campaigns in the Upstate"
+    excerpt: "Vice President Mike Pence was campaigning in the Upstate on Tuesday afternoon. Pence held a rally at Donaldson Jet Center in Greenville. Officials said a little more than 2,000 people attended the event held in a hangar."
+    publishedDateTime: 2020-10-28T19:54:00Z
+    webUrl: "https://www.wistv.com/2020/10/27/live-pm-vice-president-mike-pence-holds-campaign-rally-upstate/"
+    type: article
+    provider:
+      name: WIS TV
+      domain: wistv.com
+    quality: 55
+    images:
+      - url: "https://www.wistv.com/resizer/nhz_ERntBjIWp5Tw3f3MtEDqSRA=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/2BZ6FRGNN5DKRIITPK63APIRAM.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "cM7b02iJhmsrjcfG3oZynlq/KF7SlBHtqCumB5QNT3ixWfcLA3sCrhXXkO+slCQz5j5KY25TBQ0ZueUvWlrZA8lyo2feGLHqSHGdE2W1Wv+pbFQ7o0FrltRBc48uE+YWR4czF72HhCYBcBVCr4Cd96Z7hlygd62REIeq1Atwpp0pnOVReWjcGHB/X+u9l7wAxFcrfWfY6FU7UPVhTZyBcwTwkZyB6OEMX4wqAhSb/+4v7jDPKBWjvBxyDVrnNuAyi1CUd2HMsF37mNV11bx9eSF707ujpkmWF4EC4CjrjNsNJZVkG8M9nloBJpXEhc/ALQhZ2fTyOMYtKKAjwZ5gVUd3/j3scy+V+AJuUCKGGXEgRve4yZ4hkPZBavdJE/Fiu9eunmksicM7+7U7jEz9qxRkIGipuDC+LqnNfEUNUsL6Xpq5Llqpbw9wJF1LElKvs1qhUaDXsjybsFDG091vhyzA+7mKbIqAxqsX6DHSZylEoMWxWm676SV9boOC8B5Ga6YfXbY1WTXj7VcCOjbOXw==;0u/uizl21ZEfX7SricSYeQ=="
 ---

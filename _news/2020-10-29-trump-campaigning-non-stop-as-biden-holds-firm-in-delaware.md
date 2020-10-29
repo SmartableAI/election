@@ -2299,6 +2299,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "'Take Biden and Trump Down!' in Moscow, Neither U.S. Candidate Appeals"
+    excerpt: "Take Biden and Trump Down!' in Moscow, Neither U.S. Candidate Appeals MOSCOW (Reuters) - Vladimir Zhirinovsky, a staunch ally of President Vladimir Putin, threw a champagne party in Russia's parliament in 2016 to toast Donald Trump's presidential election victory."
+    publishedDateTime: 2020-10-29T15:35:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-29/take-biden-and-trump-down-in-moscow-neither-us-candidate-appeals"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-29/take-biden-and-trump-down-in-moscow-neither-us-candidate-appeals?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-29/take-biden-and-trump-down-in-moscow-neither-us-candidate-appeals?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Joe Biden courts swing voters in Pennsylvania with a plea to ‘choose hope over fear’"
     excerpt: "Biden entered the final 10 days before Election Day with a hopeful message not unlike the one that lifted Barack Obama to the White House."
     publishedDateTime: 2020-10-24T21:14:00Z

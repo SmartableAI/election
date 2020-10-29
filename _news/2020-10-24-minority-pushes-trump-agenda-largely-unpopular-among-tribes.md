@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-l
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -162,6 +162,17 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Trump Administration Sets Record Low Limit for New U.S. Refugees"
+    excerpt: "The Trump administration has slashed the number of refugees it will allow to resettle in the United States in the coming year, capping the number at 15,000, a record low in the history of the country's modern refugee program."
+    publishedDateTime: 2020-10-28T12:40:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "5Bgxyx1P96AbExNOq8w8EpaMe48Fd1kwGzZIxtrNxVPOH9dwJbjV04qRJeiD74KRbre9YE0jWxq2ym7HsK1mhXYqZSAmHZ164kU5fNHd6otB1bAqgi6rHrsGtPqnpzHnQe+xnIJGt/e/GpRE4ZFIutLnGHqdEirE5BF70Lk2kr1hHoRCWQCQc1wzFZnZYGXA3Iu/crVZVfmJyjvLC+/vP6cbFGvjcRFWZkwdzZw1nehDIeeHagsI4hpLKoYBBYsJi+7LN4xQevnTjw4k/kLvGh72LE9mWECHWMCs0QR/T5v6vAIVpfwDpDKJ8hjXWcLLwrET48lSPDP9Zjy/q6i+35GMzXaE4Dj0H/vT4y/mJ/g=;BpA9a1AXK4o3I4MAJlh3XQ=="
 ---

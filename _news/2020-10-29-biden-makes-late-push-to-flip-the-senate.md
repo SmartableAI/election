@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden if elected will form task force to reunite 545 separated immigrant children with family, campaign says"
+    excerpt: "Joe Biden is pledging that if he's elected president, he will sign an executive order to form a task force that will focus on reuniting the 545 immigrant children who've been separated from their families.\n    \n"
+    publishedDateTime: 2020-10-29T14:03:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wsiKa5UPt6A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/biden-immigrant-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/biden-immigrant-children/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028173658-01-biden-delaware-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "A Biden Landslide? Some Democrats Can’t Help Whispering"
     excerpt: "Democrats are still haunted by the ghosts of 2016. But some are allowing themselves to contemplate a Biden victory big enough to reorder the nation’s politics."
     publishedDateTime: 2020-10-21T09:59:00Z

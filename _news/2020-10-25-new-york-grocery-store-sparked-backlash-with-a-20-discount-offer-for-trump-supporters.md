@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/new-york-grocery-store-discount-adve
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp"
 type: article
 quality: 117
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: Business Insider
@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "‘We need you’: GOP hunts for new voters in Trump territory"
-    excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
-    publishedDateTime: 2020-10-28T04:47:00Z
-    webUrl: "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+  - title: "Incoming Sarasota School Board member getting backlash for calling Trump supporters ‘Nazis’"
+    excerpt: "The newest member of the Sarasota County School Board is facing backlash for calling Trump supporters Nazis in a 2017 Facebook post."
+    publishedDateTime: 2020-10-20T20:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/education/2020/10/19/sarasota-school-board-member-called-trump-supporters-nazis-2017/3710042001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3710042001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3710042001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/NSHT/c84afe4c-edcb-4ae9-946f-328495ddf94e-EdwardsTom_01.jpg?auto=webp&crop=4149,2334,x0,y399&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
-    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
-    publishedDateTime: 2020-10-21T05:26:00Z
-    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+  - title: "Tucker Carlson Interviews Bin Laden Niece Who Said She’s Gotten More Backlash for Trump Support Than for Her Last Name"
+    excerpt: "Amid the thousands and thousands of news cycles in the past few months, you may have missed that back in September, Noor bin Ladin — niece of Osama bin Laden — endorsed President Donald Trump for reelection."
+    publishedDateTime: 2020-10-17T18:05:00Z
+    webUrl: "https://www.mediaite.com/tv/tucker-carlson-interviews-bin-laden-niece-who-said-shes-gotten-more-backlash-for-trump-support-than-for-her-last-name/"
+    ampWebUrl: "https://www.mediaite.com/tv/tucker-carlson-interviews-bin-laden-niece-who-said-shes-gotten-more-backlash-for-trump-support-than-for-her-last-name/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/tucker-carlson-interviews-bin-laden-niece-who-said-shes-gotten-more-backlash-for-trump-support-than-for-her-last-name/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
+      name: Mediaite
+      domain: mediaite.com
+    quality: 51
     images:
-      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
-        width: 911
-        height: 455
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Tucker-Carlson-Noor-bin-Ladin-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "6U+iWUnWgS92tZ2DK1APBMIlLzjG/tgmd0rwLE7tJSamcgpvuYzcL0NV1sOMPfVaiiwlP4tOAep+yR5/0zsI/cezDFjtvKDcRewUhI8gki2bBOgepDwQ0D6d2qVv4WzXq7486Pzt4PKyGfgiOMiu0aQN3yerXI6jdyTA5of4+gfFlSYrQKqZ0nIc7lLKAh9ipUDijSlduZ3p2JnzeFg79kqy8tL+NZMpDPtsdxFhY1UJeCM1DQhifoEbSmxcTnc2vyMgtK7GF99nENVWN563HRBu/xcuYU7y/aFqwAvR/+LItg3erxgeQ0JILjAwsI6YWYiYc8sbPlVzgMMuH0tBUfxFgLjyNDXqyp8Rl0mD6lA=;UCAFNpZjaHLuje+ZwKRPTQ=="

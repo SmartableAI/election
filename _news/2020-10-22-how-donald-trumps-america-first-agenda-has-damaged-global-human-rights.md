@@ -158,6 +158,17 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Trump Administration Sets Record Low Limit for New U.S. Refugees"
+    excerpt: "The Trump administration has slashed the number of refugees it will allow to resettle in the United States in the coming year, capping the number at 15,000, a record low in the history of the country's modern refugee program."
+    publishedDateTime: 2020-10-28T12:40:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "jcU1BjcmiKujGPVSGgmUblA0MD1KeGt7GutDXOGGIdn/qfcI2CCsw3jn2ys8leV+MEus9CKxFap8SXtDYGr3w/D1b016lPiHljxVIlD/ekCWWCaR5FvvPRgWqCuJPSrQ/VS23PgPevPFdFPBJLEo9Sk7WYLWC+c0EEVVVUUrVfcaWHBblTtLIAAxjEmcyTNyHKRX1TOiIc94z9o8aLXIPKNSSHK7KijbszqapOrOJUZ5yafqTve4W19YTgG9ygpA/o8XkXv4UcEUN2x7yvIczDf4xjfEMcxVZ9yeqUV/qhT91kwJ33KcE72fozHOZoW2KxxQ9gWMf+2MAJNqDj/eauNsYr50CqgTVAseEodPW/E=;AwoCG03YDCheBfbj64vnVw=="
 ---
