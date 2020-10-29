@@ -2,19 +2,19 @@
 category: news
 title: "Kamala Harris campaigns in Phoenix and Tucson on Wednesday as Election Day nears"
 excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
-publishedDateTime: 2020-10-28T16:23:00Z
-originalUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
-webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
-ampWebUrl: "https://amp.cincinnati.com/amp/3750272001"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3750272001"
+publishedDateTime: 2020-10-28T13:08:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3750272001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3750272001"
 type: article
 quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -946,6 +946,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "wXdrVqzjSqh/kHRIspJC8HScrikqg2sgIw33Gt/qwmT4tvLzEO1/+0ihnqoI8Jn/pCxIKq3nqa53ILZ2letEjjZAFvIp0ecqSq0fQ1NWhkXXkase1IX7qqbeRutRu/G0rf7DZ3u6YyfXdfn0XWmluNCOYNoHLIO9uBOINMJE1QTpG9x03xzbIxRqq0qQqB0a9qUDu8zfTYOu9JcgROEOPMaFKLXswy1Td6S8p4atOhQGT/QQ3zh0SxVYQX2mYEWm1Wu4BWaShkLtuaTWkW/Fe/0v5ekOLn3C6+fRnZAQNw1fraME9go9hKfkaJCj2SzuoTLQWa5z0/UG9C1jaLsuc5Bd2vP3W1zCe2a1dO4hAZnhOJJWN/fw/RvlZks4RldNJNVLBx7MeaFTm6Z2h/mCp7ZD5zrrVQn3xzAtvK2UYwOwtH+XGQWcPEqzE7C8osiISM+XvX9DfP40q2wB16fJHbbVIdo+JsY+kZ1iR4cddTFdXrRsZGDj5qiqpYM5eNdwm+bHGefmhJeoQgPQOaQHSA==;UxdYw5rf1W3fZU8RbtEs3A=="
+secured: "OZIR2/BoE2DFZyuDWwyTUYBdnSop44wddZDKr3qi53VDzcMqULEggGVJ2o5iQXnOugbgFhZdEVYtEsnel6S6bc6HKNP/48KQqmbyArAZRz49VgOrldKGURO2Vqbg/XnawnSh8FY1s86uLvFcr3NvyESal55s+mFo6q94k9o2bQvoUKeGniUDDHokcCCrdWinm/7lCcc+VQ0To7VDMzgpvf2PKCbfN7cSbg8CfEdTp6H/1MCsDmQlkFNq1688NVMYni3mVgymdWvo0bPmqmeSs4xuf6Gt7X/Gu/QI2Nec1RclCnSde8Gh8e9JP/vVHcZ66DoVhey/v3yThbjSj/vUfjInWOrx4j11CepPs33rOQQ=;ruhLG0/wLgP9+iuQYoPT5Q=="
 ---
 

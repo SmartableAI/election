@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cincinnati.com/amp/3708424001"
 cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3708424001"
 type: article
 quality: 90
-heat: 430
+heat: 610
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/09/PPYR/0ea78851-6e13-4da1-8218-e394036a551b-PABEA-090920-PenceVisit07.jpg?auto=webp&crop=2399,1350,x0,y167&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "One-on-one with Vice President Mike Pence 13 days before the election"
+    excerpt: "Local and national elections & political news, delivered to your inbox With just 13 days left until Election Day, Vice President Mike Pence stopped in the Buckeye State to rally Trump's base, making the case for four more years.Like Gov. Mike DeWine ..."
+    publishedDateTime: 2020-10-22T03:23:00Z
+    webUrl: "https://www.wlwt.com/article/one-on-one-with-vice-president-mike-pence-13-days-before-the-election/34444030"
+    ampWebUrl: "https://www.wlwt.com/amp/article/one-on-one-with-vice-president-mike-pence-13-days-before-the-election/34444030"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/one-on-one-with-vice-president-mike-pence-13-days-before-the-election/34444030"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 90
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pence-1-jpg-1603335232.jpg?crop=1.00xw:0.915xh;0,0.00794xh&resize=1200:*"
+        width: 556
+        height: 314
         isCached: true
   - title: "Presidential election: Mike Pence to hold Cincinnati rally"
     excerpt: "Vice President Mike Pence is set to make a campaign stop in Cincinnati on Wednesday for an event at Lunken Airport."
@@ -91,6 +107,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Mike Pence to hold rally in Portsmouth"
+    excerpt: "PORTSMOUTH – Less than two weeks before the election, Vice President Mike Pence will visit the city on Wednesday for an afternoon rally at Port City Air at Portsmouth International Airport at Pease. President Donald Trump’s campaign confirmed the visit ..."
+    publishedDateTime: 2020-10-21T11:16:00Z
+    webUrl: "https://www.seacoastonline.com/story/news/politics/elections/2020/10/19/vice-president-mike-pence-to-hold-rally-in-portsmouth/42856821/"
+    ampWebUrl: "https://amp.seacoastonline.com/amp/42856821"
+    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/42856821"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/af38759e5d697536d44706d4f3407cd2b6519afc/c=0-284-2000-1409/local/-/media/2020/10/19/Portsmouth/ghows-FD-201019666-9c12fa71.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "LIVE: Vice President Mike Pence delivers remarks in Cincinnati"
     excerpt: "Vice President Mike Pence is making a campaign stop in Cincinnati on Wednesday.Pence is hosting a Make America Great Again event at Lunken Airport.Doors opened at 4 p.m. and Pence"
     publishedDateTime: 2020-10-21T21:58:00Z
@@ -123,6 +155,70 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence To Make Campaign Stop In Pittsburgh"
+    excerpt: "Vice President Mike Pence speaks to supporters during a rally at Weldall Manufacturing on October 13, 2020 in Waukesha, Wisconsin. ( Scott Olson/Getty Images) PITTSBURGH, PA — Vice President ..."
+    publishedDateTime: 2020-10-22T11:53:00Z
+    webUrl: "https://patch.com/pennsylvania/pittsburgh/vice-president-mike-pence-make-campaign-stop-pittsburgh"
+    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29034204/vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29034204/vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/getty/22920172/20201022/075313/styles/patch_image/public/gettyimages-1280045144___22074708591.jpg?width=984"
+        width: 911
+        height: 683
+        isCached: true
+  - title: "Vice President Mike Pence to visit northwest Ohio on Friday"
+    excerpt: "Vice President Mike Pence will be making a stop in northwest Ohio Friday, Oct. 23. According to the President's website, State Representative Haraz Ghanbari and State Senator Theresa Gavarone will join the Vice President for a Make America Great Again Victory Rally in Swanton."
+    publishedDateTime: 2020-10-22T02:24:00Z
+    webUrl: "https://www.wzzm13.com/article/news/politics/campaign-2020/vice-president-mike-pence-to-visit-northwest-ohio-on-friday/512-b05ab072-4803-49d2-94ef-87b528286fe4"
+    ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/campaign-2020/vice-president-mike-pence-to-visit-northwest-ohio-on-friday/512-b05ab072-4803-49d2-94ef-87b528286fe4"
+    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/campaign-2020/vice-president-mike-pence-to-visit-northwest-ohio-on-friday/512-b05ab072-4803-49d2-94ef-87b528286fe4"
+    type: article
+    provider:
+      name: WZZM
+      domain: wzzm13.com
+    quality: 75
+    images:
+      - url: "https://media.wzzm13.com/assets/WTOL/images/c07e0669-34dd-4a27-9728-6b8e285f7bee/c07e0669-34dd-4a27-9728-6b8e285f7bee_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "5 takeaways from Vice President Mike Pence's Fort Wayne visit"
+    excerpt: "On the night of the second presidential debate, Vice President Mike Pence stumped for President Donald Trump in Fort Wayne."
+    publishedDateTime: 2020-10-23T12:21:00Z
+    webUrl: "https://www.jconline.com/story/news/politics/2020/10/22/mike-pence-fort-wayne-visit-5-takeaways-his-campaign-speech/3731210001/"
+    ampWebUrl: "https://amp.jconline.com/amp/3731210001"
+    cdnAmpWebUrl: "https://amp-jconline-com.cdn.ampproject.org/c/s/amp.jconline.com/amp/3731210001"
+    type: article
+    provider:
+      name: Journal & Courier
+      domain: jconline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PIND/98202212-847e-4cfe-8846-6a63bfc8ce9b-102220-Mike_Pence_in_Fort_Wayne_Ind-cb-89.JPG?auto=webp&crop=3809,2143,x0,y30&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence cites importance of NH voters"
+    excerpt: "Pence ticket in the presidential election are arriving at Portsmouth International Airport at Pease Wednesday for a rally featuring Vice President Mike Pence."
+    publishedDateTime: 2020-10-23T11:18:00Z
+    webUrl: "https://www.seacoastonline.com/story/news/politics/elections/2020/10/21/supporters-gather-vice-president-mike-pence-portsmouth/6004836002/"
+    ampWebUrl: "https://amp.seacoastonline.com/amp/6004836002"
+    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/6004836002"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/NPOH/f0752e45-b799-47c5-87f5-2e0923d784af-NHPOR-102220-Pease_Pence1.jpg?auto=webp&crop=2820,1587,x0,y94&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence makes campaign stop in Metro Detroit"
     excerpt: "Vice President Mike Pence made a campaign stop in Metro Detroit on Thursday. Pence held a rally at the Oakland County International Airport. Pence hailed the appointment, and what he believes will be the swearing in,"
     publishedDateTime: 2020-10-22T22:33:00Z
@@ -138,6 +234,22 @@ related:
       - url: "https://www.clickondetroit.com/resizer/npY4eCLoZPl0ZNqZScty_Y3m7xY=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/10-22-2020/t_e146ea240b75447f91e717762a8c5a61_name_image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vice President Mike Pence to hold campaign rally in Kinston"
+    excerpt: "Vice President Mike Pence will make a stop in Kinston this weekend for a campaign rally. The rally will be held at the Kinston Jet Center, 2860 Jetport Road on Sunday, October"
+    publishedDateTime: 2020-10-23T16:44:00Z
+    webUrl: "https://www.wnct.com/your-local-election-headquarters/vice-president-mike-pence-to-hold-campaign-rally-in-kinston/"
+    ampWebUrl: "https://www.wnct.com/your-local-election-headquarters/vice-president-mike-pence-to-hold-campaign-rally-in-kinston/amp/"
+    cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/your-local-election-headquarters/vice-president-mike-pence-to-hold-campaign-rally-in-kinston/amp/"
+    type: article
+    provider:
+      name: WNCT
+      domain: wnct.com
+    quality: 75
+    images:
+      - url: "https://www.wnct.com/wp-content/uploads/sites/99/2020/05/pence.jpg?w=1280"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Mike Pence rally in Lakeland: What to know about the vice president's visit"
     excerpt: "Vice President Mike Pence will hold a \"Make America Great Again Victory Rally\" Saturday afternoon at Lakeland Linder International Airport. This will be the first official rally in Polk by either presidential campaign in the 2020 election. Pence made an ..."
@@ -203,6 +315,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Thousands of supporters turn out for Vice President Pence’s Capital City Airport campaign event"
+    excerpt: "NEW CUMBERLAND, Pa. (WHTM) – Thousands of supporters of Vice President Mike Pence lined up outside of Capitol City Airport this afternoon in New Cumberland. Prior to Pence’s scheduled appearance, supporters were waiting eagerly to get into the event at ..."
+    publishedDateTime: 2020-10-19T23:48:00Z
+    webUrl: "https://www.abc27.com/news/us-world/politics/election/thousands-of-supporters-turn-out-for-vice-president-pence-at-capital-city-airport/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/politics/election/thousands-of-supporters-turn-out-for-vice-president-pence-at-capital-city-airport/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/politics/election/thousands-of-supporters-turn-out-for-vice-president-pence-at-capital-city-airport/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 63
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/10/vlcsnap-2020-10-19-19h37m12s508.png?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Mike Pence set to visit North Carolina Friday for campaign event"
     excerpt: "Vice President Mike Pence is set to visit North Carolina on Friday for another campaign event, WTVD reported. The event will be held at The Farm at 95 in Selma at 1:30 p.m., but doors will open at 11:30 a."
     publishedDateTime: 2020-10-16T15:08:00Z
@@ -230,6 +358,20 @@ related:
       - url: "https://www.wsoctv.com/resizer/zV_4BOflb47XWP1H_6EqrAt_fCg=/1200x628/d1hfln2sfez66z.cloudfront.net/10-17-2020/t_40c20304e2c34bc0901d5473eb4c8f09_name_HD1__VP_Pence_in_NC__transfer.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Vice President Mike Pence Is Coming to Cincinnati This Week"
+    excerpt: "Vice President Mike Pence is heading to Cincinnati on Wednesday, Oct. 21 for a \"Make America Great Again!\" rally and event (exclamation point via the Trump campaign description, not us). The event will be held at Cincinnati Municipal Airport/Lunken Field ..."
+    publishedDateTime: 2020-10-19T22:31:00Z
+    webUrl: "https://www.citybeat.com/news/blog/21145506/vice-president-mike-pence-is-coming-to-cincinnati-this-week"
+    type: article
+    provider:
+      name: CityBeat
+      domain: citybeat.com
+    quality: 55
+    images:
+      - url: "https://cdn.citybeat.com/files/base/scomm/cb/image/2020/10/16x9/960w/864px_Mike_Pence_official_Vice_Presidential_portrait.5f8e12a4955ae.jpg"
+        width: 960
+        height: 540
         isCached: true
   - title: "VP Mike Pence speaks from Lunken Airport in Cincinnati"
     excerpt: "VP Mike Pence speaks from Lunken Airport in Cincinnati"

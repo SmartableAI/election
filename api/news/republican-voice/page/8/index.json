@@ -2,6 +2,118 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-30-trump-says-he-doesnt-know-who-proud-boys-are-says-let-law-enforcement-do-their-work.md",
+      "title": "Trump says he doesn't know who Proud Boys are, says 'let law enforcement do their work'",
+      "excerpt": "President Trump on Wednesday tried to clear up confusion after telling the right-wing men’s group the Proud Boys to “stand back and stand by,” saying he didn’t know who the group was but they should let law enforcement do their job. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20274113905862.jpg",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp",
+      "publishedDateTime": "2020-09-30T12:55:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-biden-says-at-debate-he-doesnt-support-green-new-deal-but-his-campaign-website-calls-it-crucial-framework.md",
+      "title": "Biden says at debate he doesn't support Green New Deal, but his campaign website calls it 'crucial framework'",
+      "excerpt": "Joe Biden said Tuesday night at the first presidential debate that he does not support the Green New Deal, but his campaign website calls it a “crucial framework” for meeting climate change challenges.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7770338-6f00-45d5-b73c-f483671ead37/96618aa6-16e0-4aa8-b103-de0e0b8c3bce/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp",
+      "publishedDateTime": "2020-09-30T10:46:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-trump-affair.md",
       "title": "Former Playboy Playmate Karen McDougal says she’s ‘been forgiven by Jesus’ for alleged Trump affair",
       "excerpt": "During the 2016 election, National Enquirer parent company American Media Inc. paid McDougal $150,000 for the rights to her story, which it never published. The company eventually acknowledged the purchase was a “catch-and-kill” maneuver to boost Trump's presidential prospects.",
@@ -1533,7 +1645,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3545,
+      "heat": 3565,
       "tags": null,
       "images": [
         {
@@ -1550,119 +1662,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp",
       "publishedDateTime": "2020-09-26T21:53:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-former-pence-aide-says-staffers-discussed-trumps-potential-refusal-to-leave-the-white-house.md",
-      "title": "Former Pence aide says staffers discussed Trumps potential refusal to leave the White House",
-      "excerpt": "A former White House aide said Friday that staffers discussed the possibility that President Trump would refuse to peacefully leave his post and transfer power should he lose the Nov. 3 election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 670,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4038064b-35fc-4824-99d4-216a9efd5066/d40d945d-725c-4ef8-93c4-939239bdd047/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp",
-      "publishedDateTime": "2020-09-26T18:36:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-biden-says-senate-should-not-act-on-amy-coney-barrett-supreme-court-nomination-until-after-election.md",
-      "title": "Biden says Senate should not act on Amy Coney Barrett Supreme Court nomination until after election",
-      "excerpt": "Democratic presidential nominee Joe Biden on Saturday said the Senate should not act on Judge Amy Coney Barrett’s nomination to the Supreme Court until after “the American people select their next president and the next Congress.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SbgJDFfZ6I/biden-senate-amy-coney-barrett-supreme-court-nomination-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SbgJDFfZ6I/biden-senate-amy-coney-barrett-supreme-court-nomination-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 756,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp",
-      "publishedDateTime": "2020-09-26T15:34:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

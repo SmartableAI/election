@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-29-federal-judge-rejects-justice-departments-effort-to-defend-trump-in-e-jean-carroll-rape-defamation-suit.md",
-      "title": "Federal judge rejects Justice Department's effort to defend Trump in E. Jean Carroll rape defamation suit",
-      "excerpt": "Trump's statements about the decades-old \"allegations have no relationship to the official business of the United States,\" the judge wrote.",
+      "path": "_news/2020-10-29-gop-sen-kelly-loeffler-not-familiar-with-trumps-infamous-2005-access-hollywood-tape.md",
+      "title": "GOP Sen. Kelly Loeffler: 'Not familiar' with Trump's infamous 2005 'Access Hollywood' tape",
+      "excerpt": "Trump was recorded in 2005 talking crudely about pursuing a married woman and bragged about being able to grope women because of his fame.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10",
-      "originalUrl": "https://www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10",
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/28/kelly-loeffler-not-familiar-trump-access-hollywood-tape/6064927002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/28/kelly-loeffler-not-familiar-trump-access-hollywood-tape/6064927002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg",
+          "url": "https://www.gannett-cdn.com/presto/2020/10/29/USAT/0742fee9-1fb3-4266-9e5d-37aff6a44d19-GTY_1282733032.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200",
           "width": 1200,
-          "height": 600,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10?amp",
-      "publishedDateTime": "2020-10-28T18:09:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6064927002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6064927002",
+      "publishedDateTime": "2020-10-28T20:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -106,58 +106,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-ex-homeland-security-official-outs-himself-as-anonymous-anti-trump-author.md",
-      "title": "Ex-Homeland Security Official Outs Himself As 'Anonymous' Anti-Trump Author",
-      "excerpt": "Miles Taylor defended his decision to criticize the president anonymously, saying it forced him to address the merits of the claims, \"rather than creating distractions through petty insults.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/10/28/928816691/ex-homeland-security-official-outs-himself-as-anonymous-anti-trump-author",
-      "originalUrl": "https://www.npr.org/2020/10/28/928816691/ex-homeland-security-official-outs-himself-as-anonymous-anti-trump-author",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/10/28/ap_20302745238654_wide-0cee878279e71bf1f888e43b84ba132a4485fece.jpg?s=1400",
-          "width": 1201,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-29-trump-pulls-statistically-even-with-biden-in-florida-arizona-is-a-dead-heat-reutersipsos.md",
       "title": "Trump pulls statistically even with Biden in Florida; Arizona is a dead heat: Reuters/Ipsos",
       "excerpt": "President Donald Trump has pulled into a virtual tie with Democratic challenger Joe Biden in Florida, just a week after the former vice president held a narrow lead there, a Reuters/Ipsos opinion poll showed on Wednesday.",
@@ -166,7 +114,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27D30N",
       "featuredContent": null,
       "highlight": null,
-      "heat": 310,
+      "heat": 370,
       "tags": null,
       "images": [
         {
@@ -379,7 +327,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -475,6 +423,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-trump-tells-voters-to-change-their-votesbut-only-a-few-states-allow-that.md",
+      "title": "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That",
+      "excerpt": "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/",
+      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9890ed25a04196a125a749%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3202%26cropY1%3D0%26cropY2%3D1802",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/",
+      "publishedDateTime": "2020-10-28T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-im-a-republican-former-elections-official-i-choose-democracy-over-trump-opinion.md",
       "title": "I'm a Republican Former Elections Official. I Choose Democracy Over Trump | Opinion",
       "excerpt": "It wasn't until I became the executive director of New York City's Board of Elections that I had an up-close view of how complex and difficult it is to manage an election in the largest city in the country.",
@@ -483,7 +483,7 @@
       "originalUrl": "https://www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 414,
       "tags": null,
       "images": [
         {
@@ -527,6 +527,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-heres-a-timeline-of-president-donald-trumps-and-dr-anthony-faucis-relationship.md",
+      "title": "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship",
+      "excerpt": "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/28/president-donald-trump-anthony-fauci-timeline-relationship-coronavirus-pandemic/3718797001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/28/president-donald-trump-anthony-fauci-timeline-relationship-coronavirus-pandemic/3718797001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/07/31/USAT/5f2d0ac9-24b5-43ca-bb6c-a6da956b363b-AFP_AFP_1VA3UJ.jpg?auto=webp&crop=4011,2257,x0,y355&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3718797001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718797001",
+      "publishedDateTime": "2020-10-28T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-we-need-you-gop-hunts-for-new-voters-in-trump-territory.md",
       "title": "‘We need you’: GOP hunts for new voters in Trump territory",
       "excerpt": "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time",
@@ -535,7 +587,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -618,49 +670,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-livestream-trump-holds-tuesday-rally-in-michigan.md",
-      "title": "Livestream: Trump Holds Tuesday Rally In Michigan",
-      "excerpt": "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan",
-      "originalUrl": "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/getty/566479/20201027/013957/styles/patch_image/public/gettyimages-1229304833___27133938792.jpg?width=984",
-          "width": 896,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump",
-      "publishedDateTime": "2020-10-27T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -940,6 +949,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-27-judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit.md",
+      "title": "Judge Rejects Justice Department’s Bid To Shield Trump From Carroll Lawsuit",
+      "excerpt": "The DOJ said Trump denied the rape allegations as an official part of his job, a U.S. District Judge disagreed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/",
+      "originalUrl": "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9846fbc3e178a4ae7bff0e%2F0x0.jpg",
+          "width": 1200,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/",
+      "publishedDateTime": "2020-10-27T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company.md",
       "title": "No Dividends, No Problem: Trump Megadonor Sheldon Adelson Has Given At Least $180 Million This Year, Despite Troubles At His Company",
       "excerpt": "Regardless of what happens with his casino empire, Sheldon Adelson has more than enough cash to remain one of the biggest political donors in the country.",
@@ -1095,7 +1156,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3314,
+      "heat": 3334,
       "tags": null,
       "images": [
         {
@@ -1191,6 +1252,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-27-trump-remakes-supreme-court-as-senate-confirms-amy-coney-barrett.md",
+      "title": "Trump remakes Supreme Court as Senate confirms Amy Coney Barrett",
+      "excerpt": "The Republican-led U.S. Senate handed President Donald Trump a major pre-election political victory on Monday by confirming his Supreme Court nominee Amy Coney Barrett as he delivered a dramatic conservative overhaul of the nation's top judicial body.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/idUSKBN27C00H",
+      "originalUrl": "https://www.reuters.com/article/idUSKBN27C00H",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538910364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q009",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27C00H",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C00H",
+      "publishedDateTime": "2020-10-26T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-trump-attacked-biden-for-warning-against-4-more-years-of-george-but-the-democrat-has-long-called-himself-a-gaffe-machine.md",
       "title": "Trump attacked Biden for warning against '4 more years of George,' but the Democrat has long called himself a 'gaffe machine'",
       "excerpt": "Joe Biden called President Donald Trump \"George\" during a campaign event. Biden has been open about his stutter, calling himself a \"gaffe machine.\"",
@@ -1241,6 +1354,58 @@
         "Election",
         "Donald Trump",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-trump-has-sold-118-million-worth-of-property-since-taking-office.md",
+      "title": "Trump Has Sold $118 Million Worth Of Property Since Taking Office",
+      "excerpt": "While other Trump Organization ventures have grabbed more headlines, the president’s company has quietly struck more than 100 small deals—that all add up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chasewithorn/2020/10/26/trump-has-sold-118-million-worth-of-property-since-taking-office/",
+      "originalUrl": "https://www.forbes.com/sites/chasewithorn/2020/10/26/trump-has-sold-118-million-worth-of-property-since-taking-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f939566a39fd9a825850db6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1361,7 +1526,7 @@
       "originalUrl": "https://www.usatoday.com/story/money/columnist/2020/10/23/president-donald-trump-keeps-bringing-up-what-he-calls-750-filing-fee-his-federal-income-tax-returns/6010994002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1402,168 +1567,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-large-audience-few-masks-at-trumps-new-hampshire-rally.md",
-      "title": "Large audience, few masks at Trump's New Hampshire rally",
-      "excerpt": "Since losing the state’s race for the governorship by only 50,000 votes, Stacey Abrams and her voter rights organization, Fair Fight, have helped register more than 800,000 new voters in the state. From becoming the first Afro-Latina or LGBTQ congresswoman to the first Native American veteran in Congress,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244646",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244646",
-      "publishedDateTime": "2020-10-25T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-jr-floats-2024-run-for-president-this-will-make-the-lib-heads-explode.md",
-      "title": "Trump Jr. floats 2024 run for president: ‘This will make the lib heads explode’",
-      "excerpt": "Donald Trump Jr. posted a photo to Instagram Saturday standing in front of a “Don Jr 2024” sign, teasing that prospect. “Hahahahaha. Oh boy. This was a sign I saw up",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/",
-      "originalUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/don-jr-46.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/amp/",
-      "publishedDateTime": "2020-10-24T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.md",
-      "title": "Trump town hall 'nodding woman' explains why she left Democratic Party",
-      "excerpt": "It was a tale of two town halls that exposed the corrupt, the dishonest, abusively biased media mob in real time. Over there at ABC, Joe Biden predictably coddled by the network's chief Democrat, little Georgie Stephanopoulos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party",
-      "originalUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/51022276-6559-4a62-b0df-600aea903753/5c186c01-c853-4d7e-a585-af3ca2bf75af/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp",
-      "publishedDateTime": "2020-10-24T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

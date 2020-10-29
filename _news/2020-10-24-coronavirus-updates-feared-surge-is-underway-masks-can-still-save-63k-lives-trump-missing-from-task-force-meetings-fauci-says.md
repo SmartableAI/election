@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Betting markets give Trump slightly improved chances after debate"
+    excerpt: "U.S. President Donald Trump's probability of getting re-elected gained slightly on online betting markets following Thursday's final presidential debate."
+    publishedDateTime: 2020-10-23T09:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-gambling-idUSKBN27812E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27812E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27812E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538576756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0MP"
+        width: 873
+        height: 545
+        isCached: true
   - title: "Pollster Frank Luntz: If Trump defies polls again in 2020, 'my profession is done'"
     excerpt: "Pollster Frank Luntz told Fox News on Thursday night that poll predictions are wrong about the 2020 election between President Trump and former Vice President Joe Biden, his \"profession is done\" in terms of faith and confidence from the public."
     publishedDateTime: 2020-10-23T13:03:00Z
@@ -95,6 +111,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "John Daly after being President Donald Trump's guest at debate: 'He's like me and Jesus'"
+    excerpt: "Golfer John Daly was at the second and final presidential debate on Thursday and caught up with USA TODAY Sports during the after party."
+    publishedDateTime: 2020-10-23T13:34:00Z
+    webUrl: "https://www.usatoday.com/story/sports/2020/10/23/john-daly-presidential-debate-donald-trump-like-me-and-jesus/3739947001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3739947001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3739947001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/9a2c80c6-bfe7-4509-861b-b4d57d8da789-AP_Election_2020_Debate.jpg?auto=webp&crop=4405,2478,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Trump claimed during the debate the GOP will take back the House. That is unlikely."
+    excerpt: "\"I think we're going to win the House,\" Trump said during the debate. That is contrary to what most election experts think."
+    publishedDateTime: 2020-10-23T03:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/president-trump-claimed-gop-take-back-house-unlikely/3738018001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3738018001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738018001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/61a04f09-915d-4eaa-9561-f18c06b3efdd-XXX__AN55555.JPG?auto=webp&crop=5003,2814,x1,y112&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases"
     excerpt: "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news."
     publishedDateTime: 2020-10-18T19:43:00Z
@@ -108,6 +156,22 @@ related:
     quality: 106
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Voting 2020 live updates: Trump urges Biden voters to 'spoil' ballot and vote for him; charges of voter suppression scheme in Ohio, Michigan"
+    excerpt: "Trump urges Biden voters to 'spoil' ballot and vote for him; mail your ballot today to make sure it's counted. Latest news."
+    publishedDateTime: 2020-10-28T22:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/voting-2020-news-updates-florida-early-voting-wisconsin-ballots/6040707002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6040707002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6040707002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NSHT/d424f4e1-5562-4636-acad-5cec060ace46-FLSAR-102520-S_COLZAC_001.jpg?auto=webp&crop=3067,1726,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -159,6 +223,33 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Top Donald Trump Quotes During The Final Presidential Debate 2020"
+    excerpt: "The second and final presidential debate saw Joe Biden and Donald Trump in a series of sharp exchanges over topics such as COVID-19, national security, and racism in America."
+    publishedDateTime: 2020-10-23T04:49:00Z
+    webUrl: "https://www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793"
+    ampWebUrl: "https://www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/democratic-presidential-candidate-joe-biden-has-dismissed-donald.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "The Latest: Aide: Trump Tests Negative for Virus Pre-Debate"
+    excerpt: "The White House chief of staff says President Donald Trump tested negative for the coronavirus before Thursday night’s final presidential debate."
+    publishedDateTime: 2020-10-22T22:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "RcELVbWbWHmJlWP85PGIdlIijrsRFI+bu8DXVp1iyKSHnmUDmcKK9bkunDc4JGpqz/FPqfjbazrsQhVzyk1J3b0lZ7Zi7isI+yNm3pDQdxmJUFoKS1VkFtuGsH1UboK3vFuc4H/UzGRtVGshDM+BLmMt5inWACvDNlWklxp0uqPtn+ON2zteZra6P702huu5pfqKibCIFGT6iRi5mw9C16cPK+toXlJWf5tL+/s+4G041bP/azVnpm6EF4IkssElNeT6NxM6nDdQYeiqM4MPo8xCA8I7PB9yS2O/ukiAdM4QHJqUilI9nHSS7cpbwuYYSguuQbdwTglYqcA/IsEtMFdjctPExSuRrThoosfkB+E=;8x4TMWx94Q8/hU+jPe//Yg=="
 ---

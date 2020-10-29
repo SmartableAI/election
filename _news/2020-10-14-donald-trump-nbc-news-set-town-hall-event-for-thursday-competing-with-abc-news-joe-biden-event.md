@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vice President Mike Pence to visit Oakland County on Thursday"
+    excerpt: "Vice President Mike Pence will be back in Michigan on Thursday as a string of high-profile visits to the state continues ahead of the Nov. 3 election."
+    publishedDateTime: 2020-10-21T05:46:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/20/vice-president-mike-pence-vsit-oakland-county-thursday/3708766001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/3708766001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3708766001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/PDTN/ed9d6f3f-e47c-4dec-ad0d-c99eac40fd8c-2020-1014-dm-pence-grandrapids0723.jpg?auto=webp&crop=1854,1043,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence To Visit Oakland County Thursday"
     excerpt: "Vice President Mike Pence will be visiting Oakland County on Thursday for a Make America Great Again! just weeks ahead of the Nov. 3 election. Pence will speak at a rally located at Barnstormers, 1675 Airport Rd."
     publishedDateTime: 2020-10-20T22:13:00Z
@@ -100,6 +116,22 @@ related:
       name: Time
       domain: time.com
     quality: 75
+  - title: "Opinion: Questions Joe Biden should answer about Hunter's emails"
+    excerpt: "If all of this is really so wild and crazy conspiracy theory, then Biden would be champing at the bit to dispel it, Harsanyi writes"
+    publishedDateTime: 2020-10-29T03:01:00Z
+    webUrl: "https://www.detroitnews.com/story/opinion/2020/10/28/opinion-questions-joe-biden-should-answer-hunters-emails/3754663001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/3754663001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3754663001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/PDTN/58bac02b-d97a-483e-9ba1-d3709f2874b1-POTD-002.jpg?auto=webp&crop=4905,2760,x0,y490&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Alicia Andrews: Joe Biden is the better presidential candidate to manage foreign affairs and the military"
     excerpt: "The United States needs a leader who understands that when it comes to foreign policy, we need allies, we need thorough plans and to listen to our military leaders, Andrews"
     publishedDateTime: 2020-10-18T05:00:00Z

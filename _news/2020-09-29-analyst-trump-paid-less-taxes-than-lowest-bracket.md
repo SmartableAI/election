@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Timeline of Trump's activities in week coronavirus hit home"
-    excerpt: "With just a month to go until the election, President Donald Trump had a busy schedule during the week the coronavirus hit home with him"
-    publishedDateTime: 2020-10-02T08:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_853c33da0fb54d1f84d43da23887a16e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Eric Trump slated to talk with NY investigators via video"
     excerpt: "President Donald Trump’s son Eric is scheduled to speak via video on Monday with New York state investigators probing his family’s business practices"
     publishedDateTime: 2020-10-04T01:25:00Z

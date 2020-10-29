@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-75
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930"
 type: article
 quality: 125
-heat: 365
+heat: 345
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7105d855aff0c713144243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D55%26cropY2%3D3430"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Timeline of Trump's activities in week coronavirus hit home"
-    excerpt: "With just a month to go until the election, President Donald Trump had a busy schedule during the week the coronavirus hit home with him"
-    publishedDateTime: 2020-10-02T08:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_853c33da0fb54d1f84d43da23887a16e_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Eric Trump slated to talk with NY investigators via video"
     excerpt: "President Donald Trump’s son Eric is scheduled to speak via video on Monday with New York state investigators probing his family’s business practices"

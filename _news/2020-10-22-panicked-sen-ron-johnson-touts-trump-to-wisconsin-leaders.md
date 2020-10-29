@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/panicked-sen-ron-johns
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump grants clemency to five backed by ally Alice Johnson"
+    excerpt: "President Donald Trump on Wednesday granted clemency to five people convicted of committing drug and financial crimes, all of them cases that were pushed by prison reform advocate and Trump ally Alice Johnson."
+    publishedDateTime: 2020-10-22T01:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_daedaf4ef0704080945b2d81dc4a9a01_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pence uses outdated numbers to tout Wisconsin job gains and unemployment numbers"
     excerpt: "In a statement, Pence’s office boasted of a series of job-related gains in Wisconsin, saying they covered the time to the present. But the numbers -- from March -- are outdated and ignore the picture since the coronavirus pandemic took hold."
     publishedDateTime: 2020-10-20T19:13:00Z

@@ -2,6 +2,172 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-05-meadows-still-optimistic-trump-will-leave-hospital-later-on-monday.md",
+      "title": "Meadows: ‘Still optimistic’ Trump will leave hospital later on Monday",
+      "excerpt": "Trump's chief of staff said the president will meet with his doctors and nurses on Monday morning to assess his progress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
+      "originalUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/95/64/e2030d6244139256e6df0f3d8ac3/ap20278592774995.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
+      "publishedDateTime": "2020-10-05T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-trumps-latest-political-theatrics-described-as-insanity.md",
+      "title": "Trump's latest political theatrics described as 'insanity'",
+      "excerpt": "Even in the midst of a national crisis, the nation's reality-show president was preoccupied with putting on a little show for the cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2020_40/3417409/201004-trump-drive-walter-reed-rd-541p_236d25083945c388acde5b25f325446f.nbcnews-fp-1200-630.JPG",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-alec-baldwin-defends-portraying-donald-trump-on-snl-while-president-is-hospitalized.md",
+      "title": "Alec Baldwin defends portraying Donald Trump on 'SNL' while president is hospitalized",
+      "excerpt": "Alec Baldwin says he wouldn't have reprised his role as President Donald Trump on \"SNL\" while Trump was hospitalized if he was \"truly, gravely ill.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3621055001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3621055001",
+      "publishedDateTime": "2020-10-05T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-texas-man-accused-of-punch-amid-trump-argument-turns-self-in.md",
       "title": "Texas man accused of punch amid Trump argument turns self in",
       "excerpt": "Authorities say a Texas man who was seen on video punching another man as they argued over President Donald Trump has turned himself in after police obtained a warrant for assault",
@@ -327,7 +493,7 @@
       "originalUrl": "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -370,7 +536,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 559,
+      "heat": 579,
       "tags": null,
       "images": [
         {
@@ -896,7 +1062,7 @@
       "originalUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1605,
+      "heat": 1585,
       "tags": null,
       "images": [
         {
@@ -1404,162 +1570,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-a-step-by-step-look-at-trumps-falsehoods-on-mail-in-voting-analysis.md",
-      "title": "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis",
-      "excerpt": "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
-      "originalUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
-      "publishedDateTime": "2020-10-01T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-getting-warmer-trump-concedes-human-role-in-climate-change.md",
-      "title": "Getting warmer: Trump concedes human role in climate change",
-      "excerpt": "At the first presidential debate, President Donald Trump publicly acknowledged some human blame for climate change",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_0062919532a148d4a6fd087944aa558e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
-      "publishedDateTime": "2020-10-01T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-trump-denies-knowing-who-proud-boys-are-again-declines-to-condemn-white-supremacy-by-name.md",
-      "title": "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name",
-      "excerpt": "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "originalUrl": "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trumpdeparture-01-gty-iwb-200930_1601496890434_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "publishedDateTime": "2020-09-30T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

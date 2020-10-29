@@ -378,6 +378,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Conservative group’s claim that Joe Biden backs sex changes for kids is False"
+    excerpt: "Biden has stated opposition to discrimination against transgender people, he has not said he supports sex changes for children. In a tweet promoting its new attack ad, a conservative super PAC claims: \"Joe Biden says he supports sex changes for kids."
+    publishedDateTime: 2020-10-29T03:27:00Z
+    webUrl: "https://www.politifact.com/factchecks/2020/oct/27/american-principles-project/conservative-groups-claim-joe-biden-backs-sex-chan/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 52
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "Former President Barack Obama Fires Up Crowd At South Philadelphia Rally For Joe Biden"
     excerpt: "Striking a personal tone, the former president implored voters to support the Biden-Harris ticket, calling this the most important election in our lifetime."
     publishedDateTime: 2020-10-22T08:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6010994002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6010994002"
 type: article
 quality: 117
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://i.insider.com/5f8c7e90c21cfb0019468a88?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "John Fogerty Joins Long List of Artists Demanding Trump Stop Using Their Songs"
-    excerpt: "John Fogerty, the singer and principal songwriter from Woodstock-era swamp rock group Creedence Clearwater Revival, has joined the growing list of musicians demanding that President Donald Trump stop blasting their tunes at his pep rallies."
-    publishedDateTime: 2020-10-18T16:24:00Z
-    webUrl: "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs"
-    ampWebUrl: "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 71
-    images:
-      - url: "https://media.vanityfair.com/photos/5f8c5eaa936b35581b460cbb/master/pass/john-fogerty.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "QkUzjbKllhUEE4LWlhLy5ocFXKK2KhdumTE2uujFm3Zwf3x29Ty9dm6VScIhHKJxpRXng+40Ce1WsZ58htjTmmf3wQqpWuKpukJRRZUu1b148/5DHDd4PQVKXBAYT3J302WD1e47MNMICulkw3GeQAe+KdBQxBG41QNwCBb0+peS2bk2c21t1vw6y+dzm2ySkyRVpd4uow+K0YRv8zeY76YKl70ytmHJhfnzmBRZxeOlnt3S6vLUhnwnzQDVMVTXl8Npa0rQj72ZuknepfaUy0E4X9RB8sHbHl88KmE4lrfx0SBvd8YWkX/Limj2CBzdAQeBHm4t+DtE9LEUTXzYCGwQ1v/KLJQeO0dsLWI2kVFWF7+kSTtCYQmiefQE2fKnyDlTKxghMSF2OhDLGTHMOQonjuBaFd+NxzioyGHip/xzNXlW5ofoUem6TAiN1aY8P42drSgc5+2NuVQtG2E3ZkAoy0h1k6ieCorUqcoEIAZYGQYKC3vjc+U8DCFHiTKoXFQf/1SgdDBecpBC7AZCUQ==;yi3A2JwAOF2YkXP9EycL+g=="

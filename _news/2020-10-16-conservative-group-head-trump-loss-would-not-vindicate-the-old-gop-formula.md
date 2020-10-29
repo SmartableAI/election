@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/hilltv/rising/521228-american-compass-director-a
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula?amp"
 type: article
 quality: 122
-heat: 162
+heat: 142
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out."
-    excerpt: "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump."
-    publishedDateTime: 2020-10-22T17:39:00Z
-    webUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5f90995c2121130018740043?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
     excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
     publishedDateTime: 2020-10-15T18:30:00Z

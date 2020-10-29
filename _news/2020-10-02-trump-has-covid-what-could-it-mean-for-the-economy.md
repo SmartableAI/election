@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/"
 type: article
 quality: 125
-heat: 1605
+heat: 1585
 published: true
 
 provider:
@@ -600,22 +600,6 @@ related:
     quality: 105
     images:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/5f79befce4b04d445762f7a0-1601814268494?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump could face a relapse, experts warn, as president downplays coronavirus threat despite massive death toll"
-    excerpt: "President Donald Trump rolled out of Walter Reed hospital confidently urging the nation not to fear the coronavirus despite experts' warning that the U.S. death toll, at more than 210,000, could almost double by year's end."
-    publishedDateTime: 2020-10-06T23:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/fauci-warns-trump-relapse-president-downplays-coronavirus-death-toll/3634631001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3634631001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634631001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/9b1ca01d-1e46-4a77-b125-e2569de56541-GettyImages-1228897458.jpg?auto=webp&crop=4637,2608,x0,y366&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

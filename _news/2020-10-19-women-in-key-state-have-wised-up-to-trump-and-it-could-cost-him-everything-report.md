@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Jennifer Lawrence Says President Donald Trump Completely Changed Her 'Political Views'"
+    excerpt: "Oscar-winning actress Jennifer Lawrence recently revealed that the incumbent president of the United States, Donald Trump, made her rethink her political views. While making an appearance in the “ Absolutely Not ” podcast,"
+    publishedDateTime: 2020-10-22T05:44:00Z
+    webUrl: "https://www.ibtimes.com/jennifer-lawrence-says-president-donald-trump-completely-changed-her-political-views-3066615"
+    ampWebUrl: "https://www.ibtimes.com/jennifer-lawrence-says-president-donald-trump-completely-changed-her-political-views-3066615?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/jennifer-lawrence-says-president-donald-trump-completely-changed-her-political-views-3066615?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/jennifer-lawrence.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "HjTEadImFn+ACrMa+DSboL7Sn8TPa9VbJMsLLKp4hJCToor60h/dPQscC8CKDWUCl55Y2Nbt1vzAMm+v+wPqORN1YgWI52N5gaVkMrDDF2VFZtFtl9M8+M0+spU03aHITQnfbDbmVAOqOjhzDpFfyiUj6TtLdAzjsHu+xRQe5b1IiK5UDNLRaSiuRiSTE89SM09ynctmhkjMVFrvB6Si+SI6p6tO5O8QgsTJ40HxDF+E3oeHdTrge83NjhTJ6iAuHhbRU2WGsHiQJsd+ZLT3hRBFYi80u+UsZtFqWWGGC53KT5x7FQOHSLcUrUppVZ8JsEZOSDsTecdtNBidCaSD2ykwOPpWFFL9HF9YdRvSkcM=;S2QAN01qQwAdEtZzwlYHVg=="
 ---

@@ -111,6 +111,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Trump casts a 'very secure vote' for himself in-person in Florida"
+    excerpt: "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida."
+    publishedDateTime: 2020-10-26T01:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f9447ca4743a3001216b782?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?"
     excerpt: "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?"
     publishedDateTime: 2020-10-21T17:09:00Z
@@ -142,6 +158,36 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/48167d52-5c94-4dc5-89fe-2334b1ce123a-AP20293845861071.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
+    excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
+    publishedDateTime: 2020-10-24T09:12:00Z
+    webUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden Votes Early In Wilmington, Del."
+    excerpt: "The Democratic presidential nominee joined the nearly 75 million Americans in casting his ballot early. President Trump voted over the weekend in Florida."
+    publishedDateTime: 2020-10-28T18:34:00Z
+    webUrl: "https://www.npr.org/2020/10/28/928744128/joe-biden-votes-early-in-wilmington"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/28/gettyimages-1229327896_wide-91117878a4c35a6a09b1d3314b8359f1a606b2af.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Without Florida, There’s Almost No Path for Donald Trump to Stay in the White House"
     excerpt: "There’s almost no plausible path to a second term for President Donald Trump without winning his adoptive home state. This week in the D.C. Brief, we’re going to take the temperature in ..."

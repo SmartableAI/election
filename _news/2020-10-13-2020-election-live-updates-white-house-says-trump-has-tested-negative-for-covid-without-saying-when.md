@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -398,6 +398,20 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Kilmeade-Farah-2-787x430.jpg"
         width: 787
         height: 430
+        isCached: true
+  - title: "Why Beijing May Want To Keep Trump In The White House"
+    excerpt: "Donald Trump has frustrated and enraged China during a tumultuous first term, but Beijing may welcome his re-election as it scans the horizon for the decline of its superpower rival. Relations are as icy as at any time since formal ties were established four decades ago,"
+    publishedDateTime: 2020-10-20T07:16:00Z
+    webUrl: "https://www.ibtimes.com/why-beijing-may-want-keep-trump-white-house-3065107"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/a-significant-worry-for-beijing-is-that-biden.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
     excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."

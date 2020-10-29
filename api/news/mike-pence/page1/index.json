@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-29-mike-pence-show-them-michigan-is-trump-country.md",
+      "title": "Mike Pence: ‘Show them Michigan is Trump country’",
+      "excerpt": "Vice President Mike Pence asked Michigan voters to prove the state is “'Trump country” during a campaign appearance just six days from the election. Pence held a campaign rally at Bishop International Airport in Flint Wednesday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html",
+      "originalUrl": "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U55OY3N3QRD2TGTDUAHHXF5NDQ.JPG",
+          "width": 1300,
+          "height": 867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html?outputType=amp",
+      "publishedDateTime": "2020-10-28T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-winnable-but-not-yet-won-why-joe-biden-and-mike-pence-are-both-headed-to-iowa-this-week.md",
       "title": "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week",
       "excerpt": "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -213,58 +256,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-vice-president-mike-pence-to-miss-trump-supreme-court-vote.md",
-      "title": "Vice-President Mike Pence to miss Trump Supreme Court vote",
-      "excerpt": "President Mike Pence is expected to miss a vote confirming Donald Trump's Supreme Court nominee, his aides have said. Mr Pence will reportedly stay in Minnesota where he is campaigning. Democrats are trying desperately to delay the vote as the Republican-controlled Senate nears confirmation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/election-us-2020-54693599",
-      "originalUrl": "https://www.bbc.com/news/election-us-2020-54693599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2420,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/100E7/production/_115076756_acbindex.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/election-us-2020-54693599",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54693599",
-      "publishedDateTime": "2020-10-26T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-pence-skips-public-health-recommended-self-quarantine-but-does-change-plans-after-staff-outbreak.md",
       "title": "Pence skips public health recommended self-quarantine but does change plans after staff outbreak",
       "excerpt": "Vice President Mike Pence, despite flouting public health guidelines by still campaigning after being exposed to people testing positive with coronavirus, is taking some precautions on the road.\n    \n",
@@ -444,7 +435,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -527,101 +518,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-pence-hits-campaign-trail-amid-wh-virus-outbreak.md",
-      "title": "Pence hits campaign trail amid WH virus outbreak",
-      "excerpt": "Publish Audio Pence hits campaign trail amid WH virus outbreak. Posted [AUDIO ONLY] Vice President Mike Pence campaigned on Sunday despite a COVID-19 outbreak among his a",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idRCV008WDL",
-      "originalUrl": "https://www.reuters.com/video/watch/idRCV008WDL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20201026&i=RCV008WDL&r=RCV008WDL&t=2",
-          "width": 4262,
-          "height": 3240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-amy-coney-barrett-mike-pence-tropical-storm-zeta-5-things-to-know-monday.md",
-      "title": "Amy Coney Barrett, Mike Pence, Tropical Storm Zeta: 5 things to know Monday",
-      "excerpt": "Amy Coney Barrett is poised to become the ninth Supreme Court justice, Tropical Storm Zeta expected to develop into a hurricane and more things to start your Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
-      "originalUrl": "https://www.freep.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/6031654002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6031654002",
-      "publishedDateTime": "2020-10-26T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -808,58 +704,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-mike-pence-will-not-quarantine-after-four-aides-test-positive-for-coronavirus.md",
-      "title": "Mike Pence will not quarantine after four aides test positive for coronavirus",
-      "excerpt": "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
-      "originalUrl": "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769",
-          "width": 2965,
-          "height": 1977,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html",
-      "publishedDateTime": "2020-10-25T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-health-experts-question-pence-campaigning-as-essential-work.md",
       "title": "Health experts question Pence campaigning as essential work",
       "excerpt": "Health policy specialists are questioning Vice President Mike Pence’s claim that federal rules on essential workers allow him to continue to campaign and not quarantine himself after exposure to multi",
@@ -868,7 +712,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -912,21 +756,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-25-pence-to-keep-up-travel-despite-contact-with-infected-aide.md",
-      "title": "Pence to keep up travel despite contact with infected aide",
-      "excerpt": "The White House says Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus",
+      "path": "_news/2020-10-25-donald-trump-and-mike-pence-both-campaign-sunday-despite-coronavirus-cases-among-vice-presidents-staff.md",
+      "title": "Donald Trump and Mike Pence both campaign Sunday, despite coronavirus cases among vice president's staff",
+      "excerpt": "Pence aides have tested positive for the virus, but he is not subject to quarantine because he is an \"essential\" government official, aides said.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 1113,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -934,16 +778,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp",
-      "publishedDateTime": "2020-10-25T09:28:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6031990002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002",
+      "publishedDateTime": "2020-10-25T08:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -960,6 +804,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Mike Pence"
       ]
     },
@@ -1235,21 +1080,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-24-democrats-plan-political-counterattack-on-day-of-mike-pence-visit-in-tallahassee.md",
-      "title": "Democrats plan political counterattack on day of Mike Pence visit in Tallahassee",
-      "excerpt": "Local Democrats and Democratic organizations are planning for political counterattacks as Republican Vice President Mike Pence plans to visit Tallahassee International Airport Saturday evening. The Florida Coordinated Campaign,",
+      "path": "_news/2020-10-24-vp-mike-pence-stops-in-swanton.md",
+      "title": "VP Mike Pence stops in Swanton",
+      "excerpt": "From hitting the links to hitting the trails -- it may not look like much from the highway, but a big project is underway on the former site of the Spuyten Duyval and Cottonwood Creek golf courses.",
       "sourceUrl": null,
-      "webUrl": "https://www.tallahassee.com/story/news/2020/10/24/mike-pence-tallahassee-visit-democrats/3741607001/",
-      "originalUrl": "https://www.tallahassee.com/story/news/2020/10/24/mike-pence-tallahassee-visit-democrats/3741607001/",
+      "webUrl": "https://www.13abc.com/video/2020/10/23/vp-mike-pence-stops-swanton/",
+      "originalUrl": "https://www.13abc.com/video/2020/10/23/vp-mike-pence-stops-swanton/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/23/PIND/0a675e5b-2fa8-4105-8a74-18979f3f614a-GH_10222020_035.jpg?auto=webp&crop=4630,2605,x0,y235&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/EmNxNTzTFXBObjoLmE5GcoFrZMM=/980x0/smart/do0bihdskp9dy.cloudfront.net/10-23-2020/t_5969b745094d4ac3a7e29582486f620c_name_file_1280x720_2000_v3_1_.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1257,13 +1102,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.tallahassee.com/amp/3741607001",
-      "cdnAmpWebUrl": "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3741607001",
-      "publishedDateTime": "2020-10-23T17:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T16:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tallahassee Democrat",
-        "domain": "tallahassee.com",
+        "name": "13abc.com",
+        "domain": "13abc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1286,7 +1131,7 @@
       "originalUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 90,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1420,7 +1265,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 291,
       "tags": null,
       "images": [
         {
@@ -1472,7 +1317,7 @@
       "originalUrl": "https://www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1536,6 +1381,149 @@
       "provider": {
         "name": "Boston Herald",
         "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-live-at-130-vp-mike-pence-visits-portsmouth-for-rally.md",
+      "title": "Live at 1:30: VP Mike Pence visits Portsmouth for rally",
+      "excerpt": "Vice President Mike Pence will be in the Granite State on Wednesday for a campaign event. He is scheduled to speak to supporters at a rally in Portsmouth at 1:30 p.m. The event will be streamed live above this article on WMUR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmur.com/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499",
+      "originalUrl": "https://www.wmur.com/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/4dfa3c67-5b19-4231-9760-11d8900b7c67/4dfa3c67-5b19-4231-9760-11d8900b7c67_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wmur.com/amp/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499",
+      "publishedDateTime": "2020-10-21T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR9",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-trump-abruptly-ends-60-minutes-interview-before-taping-joint-appearance-with-pence.md",
+      "title": "Trump abruptly ends '60 Minutes' interview before taping joint appearance with Pence",
+      "excerpt": "President Donald Trump abruptly ended a solo interview with CBS News' \"60 Minutes\" Tuesday and did not return for an appearance he was supposed to tape with Vice President Mike Pence, according to multiple sources familiar with what happened.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYSwD5qaplc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYSwD5qaplc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 533,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201019175506-donald-trump-october-18-2020-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html",
+      "publishedDateTime": "2020-10-20T14:23:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-pence-touts-gop-candidates-support-for-fishermen-in-maine.md",
+      "title": "Pence touts GOP candidates, support for fishermen in Maine",
+      "excerpt": "Vice President Mike Pence used a Monday appearance in Maine to tout Republican politicians in the state and boast about the federal government's support for lobster fishermen. Pence held a rally in Hermon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.expressnews.com/news/article/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
+      "originalUrl": "https://www.expressnews.com/news/article/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/63/11/20132449/3/375x250.jpg",
+          "width": 375,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expressnews.com/news/amp/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
+      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
+      "publishedDateTime": "2020-10-20T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Antonio Express-News",
+        "domain": "expressnews.com",
         "images": null,
         "publishers": null,
         "authors": null

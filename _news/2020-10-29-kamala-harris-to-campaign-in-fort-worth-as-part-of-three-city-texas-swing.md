@@ -279,14 +279,14 @@ related:
         isCached: true
   - title: "Kamala Harris campaigns in Phoenix and Tucson on Wednesday as Election Day nears"
     excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
-    publishedDateTime: 2020-10-28T16:23:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/3750272001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3750272001"
+    publishedDateTime: 2020-10-28T13:08:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3750272001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3750272001"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 85
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"
@@ -946,6 +946,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "eWsmuEsh9nZDp+Ss4/ijYrMNb/+GqV7hUaNDO7OVWOjwjxGtMI3A4LaXQ5VcJD2bGm3bmi/46Lf1fo3EAw1TjgZmtCp73BHXLmLYZj7eOrVOkvqee4yTZL/baCRDayH3LhpFjrOhnh2K/kvNwOdtk6T+Txt81p/YHS31yImDr737T0Fx/qy6lTNF2/A3e11E+ejPl3dp8dp7443KTivXeIUFOOdPQN8tiVasMlLD662OaAUSlhtXOSi81sJ+JzBt7BxReEYBcpNnmapUAtF4/FfMEriEQjY7kcMq/NfRV09FcdZb6n/4t8+zuqfRWRvwsIUjzwJkq9JeFByFH0IPUVeGgelovQCnOO2zVyJ7olg=;4m6bdggBp0TPJp7yLSZJ6g=="
+secured: "Gxy0aUYX5gUPJ/LN7TD/zBjNwyA34ufLxMG8SR+f7Wd3zDEdPYPcsoJHyedmY4FzkDXIAJ5aSXUIsI1XgazxtrOaoT3Lot2INmxB0dvSRCpmqw+ezMvWv9dPIgT+eKWBxgut0pPv5P4+86lP+uIa63LRAotVw7vsXfYCIUu/ccg3hN2fJLF7J61QV4AbysBCiyhDI5kTOZ6/3ynP6dUiiYCRNrmY/CbKgQ6uxv1deEd30cW4stTaeJV9vXKuvJEaAaUxKzOxNkFrQKWX0uZ8Q5NSpqnPskC13jdiNyyYgxV5i0RPvck0wGfCFhzHqFjAOSTKffkRB/ltwr2othJZqrZhoiRF0xpQSmmqhzknERz27ognHWHJi+RdPoI9cX2zLm7aaelJdkDo/+mzRLKUDgMydv9xOLorQQIcCfOY84f0xOJXIl+et+kOwYw1ZYuw2MG7MxH5tPIP0hZmu46fiKpQPWg1SWc6LSlA7kv+S0nJyurlY2IUmNSAGGWrGTncNg5DXMCWcmZxMlQaCdaPfQ==;8FM/DjWc8zDcdPkOUbixrQ=="
 ---
 

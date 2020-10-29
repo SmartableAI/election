@@ -2,6 +2,175 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-25-trump-shirks-covid-19-guidelines-while-greeting-a-nearly-maskless-crowd.md",
+      "title": "Trump shirks Covid-19 guidelines while greeting a nearly maskless crowd",
+      "excerpt": "During a campaign stop in Maine, President Donald Trump, without a mask, greeted a largely maskless crowd and signed autographs while in close proximity. CNN medical analyst Dr. Jonathan Reiner says the President's messaging undermines the effort of health professionals advising their patients.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7YgfpVAODTk/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7YgfpVAODTk/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201025173013-trump-campaign-maine-crowd-no-mask-reiner-nr-vpx-00001905-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
+      "publishedDateTime": "2020-10-25T15:02:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-large-audience-few-masks-at-trumps-new-hampshire-rally.md",
+      "title": "Large audience, few masks at Trump's New Hampshire rally",
+      "excerpt": "Since losing the state’s race for the governorship by only 50,000 votes, Stacey Abrams and her voter rights organization, Fair Fight, have helped register more than 800,000 new voters in the state. From becoming the first Afro-Latina or LGBTQ congresswoman to the first Native American veteran in Congress,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244646",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244646",
+      "publishedDateTime": "2020-10-25T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-anti-protesters-attack-jews-for-trump-vehicle-convoy-in-new-york-city.md",
+      "title": "Anti-protesters attack 'Jews for Trump' vehicle convoy in New York City",
+      "excerpt": "A “Jews For Trump” vehicle convoy was repeatedly attacked and heckled as it made its way through New York City Sunday morning to show its support of the president, video shows.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PND8gQGleCM/anti-protesters-attack-jews-trump-vehicle-convoy-new-york",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PND8gQGleCM/anti-protesters-attack-jews-trump-vehicle-convoy-new-york",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a64957c-f086-429b-be60-90d1939c0490/0f5ce448-efab-4db0-be44-9bc4a9b4079a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/anti-protesters-attack-jews-trump-vehicle-convoy-new-york.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-protesters-attack-jews-trump-vehicle-convoy-new-york.amp",
+      "publishedDateTime": "2020-10-25T12:44:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-trump-insists-us-rounding-the-turn-on-coronavirus-pandemic-at-new-hampshire-rally.md",
       "title": "Trump insists US 'rounding the turn' on coronavirus pandemic at New Hampshire rally",
       "excerpt": "President Trump attacked Democratic nominee Joe Biden as the \"shutdown candidate\" and claimed Biden would reverse the U.S.'s \"economic comeback\" at a rally in Manchester, N.H., on Sunday.",
@@ -122,7 +291,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -139,58 +308,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html?outputType=amp",
       "publishedDateTime": "2020-10-25T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-pence-to-keep-up-travel-despite-contact-with-infected-aide.md",
-      "title": "Pence to keep up travel despite contact with infected aide",
-      "excerpt": "The White House says Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp",
-      "publishedDateTime": "2020-10-25T09:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -271,6 +388,59 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-donald-trump-and-mike-pence-both-campaign-sunday-despite-coronavirus-cases-among-vice-presidents-staff.md",
+      "title": "Donald Trump and Mike Pence both campaign Sunday, despite coronavirus cases among vice president's staff",
+      "excerpt": "Pence aides have tested positive for the virus, but he is not subject to quarantine because he is an \"essential\" government official, aides said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6031990002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002",
+      "publishedDateTime": "2020-10-25T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
       ]
     },
     {
@@ -1098,6 +1268,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-24-minority-pushes-trump-agenda-largely-unpopular-among-tribes.md",
+      "title": "Minority pushes Trump agenda largely unpopular among tribes",
+      "excerpt": "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump’s agenda in areas long considered Democratic territory",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-hear-trump-speak-after-voting-in-person-in-florida.md",
       "title": "Hear Trump speak after voting in person in Florida",
       "excerpt": "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n",
@@ -1151,228 +1373,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.md",
-      "title": "Trump town hall 'nodding woman' explains why she left Democratic Party",
-      "excerpt": "It was a tale of two town halls that exposed the corrupt, the dishonest, abusively biased media mob in real time. Over there at ABC, Joe Biden predictably coddled by the network's chief Democrat, little Georgie Stephanopoulos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party",
-      "originalUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/51022276-6559-4a62-b0df-600aea903753/5c186c01-c853-4d7e-a585-af3ca2bf75af/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp",
-      "publishedDateTime": "2020-10-24T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-did-trump-really-use-a-twitter-password-as-weak-as-maga2020.md",
-      "title": "Did Trump Really Use A Twitter Password As Weak As ‘maga2020!’?",
-      "excerpt": "Dutch hackers claim to have broken into Donald Trump’s Twitter account using an easily guessable password, but security experts are not convinced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91a64e5946a0e9165fe5c7%2F0x0.jpg",
-          "width": 1199,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/amp/",
-      "publishedDateTime": "2020-10-23T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.md",
-      "title": "Trump 'coyote' remark confuses Twitter, including Georgia state Democrat",
-      "excerpt": "When President Trump suggested at the Thursday presidential debate that the more than 500 migrant children who the government hasn’t been able to reunite with their parents were brought to the border by coyotes, many on social media were left confused.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KJFaQyPGq4U/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KJFaQyPGq4U/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/kendrick.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.amp",
-      "publishedDateTime": "2020-10-23T21:15:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-pence-calls-on-biden-to-come-forward-and-come-clean-with-answers-on-son-hunters-scandal.md",
-      "title": "Pence calls on Biden to 'come forward and come clean' with answers on son Hunter's scandal",
-      "excerpt": "Vice President Mike Pence called on his predecessor, Joe Biden, to be frank and honest with the American people Friday about whether he was involved in or benefited from his son Hunter's overseas business interests.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpM7Ih8I3tQ/mike-pence-joe-biden-hunter-biden-come-clean",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpM7Ih8I3tQ/mike-pence-joe-biden-hunter-biden-come-clean",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 550,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6db76cb0-7ce3-424b-b060-f98a7d5f92dd/6c22e892-08d6-4f6f-9ea3-d934edbc5ea3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-come-clean.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-come-clean.amp",
-      "publishedDateTime": "2020-10-23T19:19:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

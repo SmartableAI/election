@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/judge-rejects-dojs-effort-to-defend-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10?amp"
 type: article
 quality: 108
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,23 +31,39 @@ images:
     isCached: true
 
 related:
-  - title: "Colbert Slams Trump for “Insane” Attempt to Defend Child Separation"
-    excerpt: "The final debate was relatively muted compared—but Stephen Colbert, Jimmy Fallon, and Jimmy Kimmel still found plenty of Trump lines to tear apart."
-    publishedDateTime: 2020-10-23T12:50:00Z
-    webUrl: "https://www.vanityfair.com/hollywood/2020/10/colbert-fallon-kimmel-trump-final-debate"
-    ampWebUrl: "https://www.vanityfair.com/hollywood/2020/10/colbert-fallon-kimmel-trump-final-debate/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2020/10/colbert-fallon-kimmel-trump-final-debate/amp"
+  - title: "Judge Rejects Justice Department’s Bid To Shield Trump From Carroll Lawsuit"
+    excerpt: "The DOJ said Trump denied the rape allegations as an official part of his job, a U.S. District Judge disagreed."
+    publishedDateTime: 2020-10-27T16:39:00Z
+    webUrl: "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/"
+    ampWebUrl: "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 75
+      name: Forbes
+      domain: forbes.com
+    quality: 123
     images:
-      - url: "https://media.vanityfair.com/photos/5f92cb45faf1b82d3425a802/master/pass/Screenshot%202020-10-23%20at%208.17.54%20AM.png"
-        width: 1919
-        height: 927
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9846fbc3e178a4ae7bff0e%2F0x0.jpg"
+        width: 1200
+        height: 651
+        isCached: true
+  - title: "'They are so well taken care of': Trump defends separating migrant children from parents"
+    excerpt: "Former Vice President Joe Biden promised citizenship for the nation's undocumented immigrants while President Donald Trump defended his own record."
+    publishedDateTime: 2020-10-23T04:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/22/biden-slams-trump-promises-citizenship-undocumented-immigrants/3738323001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3738323001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738323001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "t3n8pgj7J9AaK8yU5VgChIGKD6LVopkLEPAa+mIQG0SfJp/KEavHKoAdx9VYvLGMacehirNWmBhQ57LvmZkJkU2kNwitIX24g9YbFC5mcn9bmVsXS2MU2GYuupU4Y5GoeYv90HvsYxBRx/dC1NnigjhI3BA2a7i6CFmYuabX1TcWsLPvFUs/sLtCEI2oqogNiuSKzx0oCnsmE6OTs9rEPLUW3V+K8/mIN6CrC6q8yTtP1mD0EsNeUU+Z9mAkbq2RQsOr6V03nZc59LtUpcyq0YqFEl36Yau56iPnqsEmSG5hsbsIC4YsA3Y1gbwYVx0cjt1iTMKlCECUrlMY/WajL+n/lcOJTqsNgW57rLanNXA=;9EIAdpbwF+Bl1Qnjzv1aHg=="
+secured: "XUC4y3y4DXNN10NkwfVYrbvenfGbIG3r49cXkqW0scMuTHLF82QY5TvsqMRQsukoHGO/SkSYlrX6+Bl20gM0KXrMRFbjYX7to2wzH42p7LQ/eLQAqgEEwzR+wxDepymU1mcMr6lP1kxA5zNDXr+EJu127jsjER7hEfMRTdjw2Srh9azoKHWQab+cCPo7+6iobUBc6WyYXen7id9s9P+6TWkIrYJXTHtV4YETGExqjrU42BneKcXBsSVvIVDRR5WtHpINvqF//w/CPYrMHeEGOp1+y8lkNH535famh47g7t4qHoUnE42z6Y6OlEGt1zLavveoI39xbefn0szwNhHZWSicqMIhNsJXGYQ6wizja4AX64uILNlK/7jhBmXDq5arHF0QPojNZ02AvnY+xiJ/AsEFf1XyFoDho4kTKFh34bsrNboQlfUPoczqrx43Bhg8wJbHYMq97F428zVbrUXsXQNMG3yKuIZ6bHB5/czHXrel34mAkCYZRNjZLNWI13QuAVwqhh7EK/z2YWsl/iwwpw==;vUWLn5LqEan9bc8FRuSnfQ=="
 ---
 

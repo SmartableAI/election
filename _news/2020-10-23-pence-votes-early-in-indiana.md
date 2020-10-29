@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Pence in Indy to vote"
+    excerpt: "Some 13News viewers asked about Pence's eligibility to vote in Indiana, given his residency in Washington. Since Pence is temporarily living in government-provided housing, his re"
+    publishedDateTime: 2020-10-23T11:47:00Z
+    webUrl: "https://www.wthr.com/article/news/politics/vice-president-pence-in-indianapolis-to-vote/531-3cc8203c-525c-4660-b0a9-b9e6e0f0d95f"
+    ampWebUrl: "https://www.wthr.com/amp/article/news/politics/vice-president-pence-in-indianapolis-to-vote/531-3cc8203c-525c-4660-b0a9-b9e6e0f0d95f"
+    cdnAmpWebUrl: "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/vice-president-pence-in-indianapolis-to-vote/531-3cc8203c-525c-4660-b0a9-b9e6e0f0d95f"
+    type: article
+    provider:
+      name: WTHR
+      domain: wthr.com
+    quality: 75
+    images:
+      - url: "https://media.tegna-media.com/assets/WTHR/images/d32e7964-2e7a-4fae-b5e8-5289cc0b8420/d32e7964-2e7a-4fae-b5e8-5289cc0b8420_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Pence to campaign in Fort Wayne on Thursday and vote in Indianapolis on Friday"
     excerpt: "Vice President Mike Pence has rescheduled his trip to vote in Indianapolis to Friday. He also will campaign in Fort Wayne on Thursday."
     publishedDateTime: 2020-10-19T17:01:00Z
@@ -78,6 +94,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice PResident Pence, Second Lady Vote Early in Home State of Indiana"
+    excerpt: "INDIANAPOLIS — Vice President Mike Pence and Second Lady Karen Pence have voted early in their home state of Indiana. Just eleven days before the election, Pence and his wife cast their absentee ballots Friday morning in a drop-off box at the Marion ..."
+    publishedDateTime: 2020-10-23T13:49:00Z
+    webUrl: "https://www.wibc.com/news/local-indiana/vice-president-pence-second-lady-vote-early-in-home-state-of-indiana/"
+    type: article
+    provider:
+      name: WIBC
+      domain: wibc.com
+    quality: 55
+    images:
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2020/02/20231947/mike_pence_-_getty_-_paul_morigi.jpg"
+        width: 3000
+        height: 2187
         isCached: true
   - title: "Gunfire, racist threats reported against Indiana candidate challenging Pence’s brother"
     excerpt: "AP An Indiana congressional candidate had just parked her car in downtown Muncie, where she was set to meet with other Democrats for a virtual call on Oct. 15. Then, there was what sounded like gunfire,"

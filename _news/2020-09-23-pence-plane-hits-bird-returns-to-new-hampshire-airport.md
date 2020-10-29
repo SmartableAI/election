@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/"
 type: article
 quality: 125
-heat: 745
+heat: 765
 published: true
 
 provider:
@@ -463,6 +463,15 @@ related:
     excerpt: "President Mike Pence campaigns in Gilford, New Hampshire. Vice President Mike Pence campaigns in Gilford, New Hampshire. Javascript must be enabled in order to access C-SPAN videos. Vice President Pence delivered remarks at a campaign event in Janesville,"
     publishedDateTime: 2020-09-22T21:50:00Z
     webUrl: "https://www.c-span.org/event/?476048/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Pence Remarks at Campaign Rally in New Hampshire"
+    excerpt: "President Pence delivers remarks at a campaign rally in Portsmouth, New Hampshire. Vice President Pence delivers remarks at a campaign rally in Portsmouth, New Hampshire. Vice President Pence spoke at a Trump campaign rally in Selma,"
+    publishedDateTime: 2020-10-21T17:38:00Z
+    webUrl: "https://www.c-span.org/video/?477199-1/vice-president-pence-remarks-campaign-rally-hampshire"
     type: article
     provider:
       name: C-SPAN

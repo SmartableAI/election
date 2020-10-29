@@ -43,6 +43,22 @@ related:
         width: 908
         height: 545
         isCached: true
+  - title: "Supreme Court to review Trump's 'Remain in Mexico' policy"
+    excerpt: "The Supreme Court is agreeing to review a Trump administration policy that makes asylum-seekers wait in Mexico for U.S. court hearings"
+    publishedDateTime: 2020-10-19T13:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_baedd00b2d3c4ea3a5162698b8a957e7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump administration rejects California's request for wildfire disaster assistance"
     excerpt: "The federal government has denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
     publishedDateTime: 2020-10-16T10:11:00Z

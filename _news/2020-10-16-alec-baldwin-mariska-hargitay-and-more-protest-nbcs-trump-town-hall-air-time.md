@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The final debate could be Trump's last chance to turn the race around: He's already attacking the moderator"
+    excerpt: "Trump praised Welker in the past, complementing her in January for landing a gig on NBC's \"Today\" show. \"They made a very wise decision,\" Trump said."
+    publishedDateTime: 2020-10-20T00:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/18/trump-attack-third-debate-moderator-kristen-welker-unfair/3704010001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3704010001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3704010001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/a2b11f88-7c73-4171-9166-a5534fdcbde3-XXX_Welker_Kristen_2_dcb.JPG?auto=webp&crop=2999,1687,x1,y128&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Rick Wilson: ‘Trump reeked of desperation’ in NBC town hall — and proved his campaign is ‘broken’"
     excerpt: "President Donald Trump’s one-man town hall showed he’s “broke, broken and unmoored” as his re-election campaign hits rock bottom, according to former Republican strategist Rick Wilson. The president backed out of a town hall debate with Joe Biden because the event was supposed to be virtual because of his COVID-19 infection,"
     publishedDateTime: 2020-10-16T15:37:00Z

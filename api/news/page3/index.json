@@ -2,6 +2,219 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-28-does-russia-china-north-korea-want-trump-to-win-the-election-what-trump-said-about-putin-xi-kim-jong-un.md",
+      "title": "Does Russia, China, North Korea Want Trump To Win The Election? What Trump Said About Putin, Xi, Kim Jong Un",
+      "excerpt": "President Donald Trump said North Korean leader Kim Jong Un, Russian President Vladimir Putin and Chinese leader Xi Jinping would prefer him to be reelected over Joe Biden, calling them \"sharp as a tack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052",
+      "originalUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/us-president-donald-trump-holds-his-first-summit.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052?amp=1",
+      "publishedDateTime": "2020-10-27T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-trump-says-kamala-harris-wont-be-first-woman-president-rallygoers-demand-ivanka.md",
+      "title": "Trump Says Kamala Harris 'Won't Be First Woman President,' Rallygoers Demand Ivanka",
+      "excerpt": "Trump said Kamala Harris will \"take over\" for Biden three weeks into his term if he wins before declaring, \"she will not be the first woman president\" Tuesday at a Lansing, Michigan campaign event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
+      "originalUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1659983/ivanka-trump-president-first-woman.jpg",
+          "width": 2500,
+          "height": 1515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1",
+      "publishedDateTime": "2020-10-27T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-trump-promised-massive-middle-class-tax-cuts-in-2016-he-delivered-cuts-not-as-much-on-the-middle-class-part.md",
+      "title": "Trump promised massive middle-class tax cuts in 2016. He delivered cuts, not as much on the middle class part",
+      "excerpt": "The GOP tax bill in 2017 gave households an average $1,600 cut but the richest Americans, especially those making over $300,000, got the most relief.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-mostly-delivered-2016-campaign-pledge-cut-taxes/3685282001/",
+      "originalUrl": "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-mostly-delivered-2016-campaign-pledge-cut-taxes/3685282001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/58bcbd7626012765178f61ecb84b86080363f1ac/c=0-77-2631-1564/local/-/media/2016/09/15/USATODAY/USATODAY/636095412520377554-AP-Campaign-2016-Trump.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3685282001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3685282001",
+      "publishedDateTime": "2020-10-27T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-fact-check-trump-falsely-claims-pennsylvanians-cant-go-to-church.md",
+      "title": "Fact check: Trump falsely claims Pennsylvanians 'can't go to church' ",
+      "excerpt": "President Donald Trump keeps falsely declaring that various states run by Democratic governors are \"closed\" or \"shut down.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v5hL85ho8kY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v5hL85ho8kY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201027135646-01-trump-rally-1026-pennsylvania-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/27/politics/trump-false-claim-pennsylvania-cant-go-to-church-fact-check/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-false-claim-pennsylvania-cant-go-to-church-fact-check/index.html",
+      "publishedDateTime": "2020-10-27T13:11:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-biden-makes-plea-to-unite-and-heal-the-country-during-stop-in-georgia.md",
       "title": "Biden makes plea to ‘unite and heal’ the country during stop in Georgia",
       "excerpt": "Joe Biden, playing offense in a long time red state turned crucial battleground this year, made a closing campaign pitch on Tuesday for national unity to rise above what he called the division President Trump’s sown during his four years in the White House.",
@@ -320,6 +533,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit.md",
+      "title": "Judge Rejects Justice Department’s Bid To Shield Trump From Carroll Lawsuit",
+      "excerpt": "The DOJ said Trump denied the rape allegations as an official part of his job, a U.S. District Judge disagreed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/",
+      "originalUrl": "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9846fbc3e178a4ae7bff0e%2F0x0.jpg",
+          "width": 1200,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/",
+      "publishedDateTime": "2020-10-27T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -700,7 +965,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3314,
+      "heat": 3334,
       "tags": null,
       "images": [
         {
@@ -744,58 +1009,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-vice-president-mike-pence-to-miss-trump-supreme-court-vote.md",
-      "title": "Vice-President Mike Pence to miss Trump Supreme Court vote",
-      "excerpt": "President Mike Pence is expected to miss a vote confirming Donald Trump's Supreme Court nominee, his aides have said. Mr Pence will reportedly stay in Minnesota where he is campaigning. Democrats are trying desperately to delay the vote as the Republican-controlled Senate nears confirmation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/election-us-2020-54693599",
-      "originalUrl": "https://www.bbc.com/news/election-us-2020-54693599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2420,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/100E7/production/_115076756_acbindex.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/election-us-2020-54693599",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54693599",
-      "publishedDateTime": "2020-10-26T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-27-twitter-sticks-misleading-label-on-donald-trumps-tweet-about-problems-with-mail-in-ballots.md",
       "title": "Twitter sticks 'misleading' label on Donald Trump's tweet about problems with mail-in ballots",
       "excerpt": "President Donald Trump's tweet about \"big\" problems with mail-in ballots was labeled by Twitter as part of its pledge to stop election disinformation.",
@@ -828,6 +1041,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-trump-remakes-supreme-court-as-senate-confirms-amy-coney-barrett.md",
+      "title": "Trump remakes Supreme Court as Senate confirms Amy Coney Barrett",
+      "excerpt": "The Republican-led U.S. Senate handed President Donald Trump a major pre-election political victory on Monday by confirming his Supreme Court nominee Amy Coney Barrett as he delivered a dramatic conservative overhaul of the nation's top judicial body.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/idUSKBN27C00H",
+      "originalUrl": "https://www.reuters.com/article/idUSKBN27C00H",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538910364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q009",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27C00H",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C00H",
+      "publishedDateTime": "2020-10-26T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -912,7 +1177,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1065,288 +1330,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-ivanka-trump-jared-kushner-threaten-to-sue-over-billboard.md",
-      "title": "Ivanka Trump, Jared Kushner threaten to sue over billboard",
-      "excerpt": "Ivanka Trump and Jared Kushner are threatening to sue The Lincoln Project over billboards the organization erected in New York City's Times Square. CNN's Brianna Keilar and Alexandra Field report.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZKXlUB9Psks/ivanka-trump-jared-kushner-the-lincoln-project-lawsuit-threat-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZKXlUB9Psks/ivanka-trump-jared-kushner-the-lincoln-project-lawsuit-threat-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190307124143-polemica-sobre-credenciales-de-seguridad-vida-privada-trump-ivanka-pkg-ione-molinares-00003520-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2020/10/26/ivanka-trump-jared-kushner-the-lincoln-project-lawsuit-threat-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/10/26/ivanka-trump-jared-kushner-the-lincoln-project-lawsuit-threat-vpx.cnn",
-      "publishedDateTime": "2020-10-26T14:42:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-kayleigh-mcenany-once-praised-biden-as-a-man-of-the-people-who-resonates-with-middle-class-over-tycoon-trump.md",
-      "title": "Kayleigh McEnany once praised Biden as a 'man of the people' who resonates with \"middle class\" over 'tycoon' Trump",
-      "excerpt": "Prior to becoming a prominent backer of Donald Trump, Kayleigh McEnany praised then-Vice President Joe Biden as \"funny and likable\" and a \"man of the people\" who resonates with \"middle class voters.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mOrqP6T-t5Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mOrqP6T-t5Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826211729-kayleigh-mcenany-rnc-august-26-2020-02-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/26/politics/kayleigh-mcenany-biden-2015/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/kayleigh-mcenany-biden-2015/index.html",
-      "publishedDateTime": "2020-10-26T14:33:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-pence-skips-public-health-recommended-self-quarantine-but-does-change-plans-after-staff-outbreak.md",
-      "title": "Pence skips public health recommended self-quarantine but does change plans after staff outbreak",
-      "excerpt": "Vice President Mike Pence, despite flouting public health guidelines by still campaigning after being exposed to people testing positive with coronavirus, is taking some precautions on the road.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G-ClNsokWxo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G-ClNsokWxo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201025103438-03-mike-pence-october-campaigning-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/26/politics/mike-pence-coronavirus-precautions/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/mike-pence-coronavirus-precautions/index.html",
-      "publishedDateTime": "2020-10-26T12:24:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.md",
-      "title": "Pence campaigns with 'medically informed' approach to events after staffers test positive for COVID-19",
-      "excerpt": "Vice President Pence has returned to the campaign trail after key staffers tested positive for the novel coronavirus, however his team is taking a “thoughtful” and “medically-informed” approach to his travel this week in the final stretch until Election Day.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MgfSKow3O8Y/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MgfSKow3O8Y/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.amp",
-      "publishedDateTime": "2020-10-26T11:50:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-trump-mocks-biden-to-pennsylvania-crowd-over-oil-comment-he-blew-it.md",
-      "title": "Trump mocks Biden to Pennsylvania crowd over oil comment: 'He blew it'",
-      "excerpt": "President Trump warned Pennsylvania residents that a Joe Biden administration would sink their state's economy, while mocking his Democratic rival for what he called a \"shocking admission\" about his energy policy.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 450,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5237d17-29f2-4497-97f7-90df3b44d487/d8f57439-b93c-40ab-a426-5b9656ebedfa/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp",
-      "publishedDateTime": "2020-10-26T11:49:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

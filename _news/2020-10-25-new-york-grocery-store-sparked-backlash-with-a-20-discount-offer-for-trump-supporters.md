@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
+    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
+    publishedDateTime: 2020-10-21T05:26:00Z
+    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
+        width: 911
+        height: 455
+        isCached: true
 
 secured: "6U+iWUnWgS92tZ2DK1APBMIlLzjG/tgmd0rwLE7tJSamcgpvuYzcL0NV1sOMPfVaiiwlP4tOAep+yR5/0zsI/cezDFjtvKDcRewUhI8gki2bBOgepDwQ0D6d2qVv4WzXq7486Pzt4PKyGfgiOMiu0aQN3yerXI6jdyTA5of4+gfFlSYrQKqZ0nIc7lLKAh9ipUDijSlduZ3p2JnzeFg79kqy8tL+NZMpDPtsdxFhY1UJeCM1DQhifoEbSmxcTnc2vyMgtK7GF99nENVWN563HRBu/xcuYU7y/aFqwAvR/+LItg3erxgeQ0JILjAwsI6YWYiYc8sbPlVzgMMuH0tBUfxFgLjyNDXqyp8Rl0mD6lA=;UCAFNpZjaHLuje+ZwKRPTQ=="
 ---

@@ -368,6 +368,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden and Trump to tangle in Tampa on Thursday"
+    excerpt: "Democratic presidential nominee Joe Biden and President Trump hold dueling rallies Thursday in Tampa, Florida, the western anchor of the critical I-4 swing region in the extremely crucial general election battleground state."
+    publishedDateTime: 2020-10-29T02:55:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M7EswfUnCWw/biden-and-trump-to-tangle-in-tampa-on-thursday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-and-trump-to-tangle-in-tampa-on-thursday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-and-trump-to-tangle-in-tampa-on-thursday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287786848996.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pennsylvania energy workers feature heavily in Trump, Biden bid for votes"
     excerpt: "The two 2020 contenders have clashed over Biden’s stance on hydraulic fracturing."
     publishedDateTime: 2020-10-28T01:37:48Z
@@ -861,6 +877,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20302555381336.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump gives Arizona's McSally 'one minute' onstage during rally as she lags in polls"
+    excerpt: "President Trump allowed Sen. Martha McSally some stage time during his rally in Goodyear, Ariz., on Wednesday, but didn't appear to extend to her the typical enthusiasm he generally reserves for Republican leaders when visiting campaign stops."
+    publishedDateTime: 2020-10-29T02:57:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h6ry8vzegdQ/trump-gives-arizonas-mcsally-one-minute-onstage-during-rally-as-she-lags-in-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-gives-arizonas-mcsally-one-minute-onstage-during-rally-as-she-lags-in-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-gives-arizonas-mcsally-one-minute-onstage-during-rally-as-she-lags-in-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d7611b8-b05d-4b7a-a00e-f7cb4930aa9f/478f6e07-bb4e-4a14-aa61-4b509329c255/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump rally near early voting site in Tampa could cause delays at polls, officials warn"
     excerpt: "Voters may have increased wait times and traffic delays when headed to the polls Thursday, as President Trump is scheduled to hold a campaign rally within the vicinity of an early voting site in Hillsborough County, Fla."

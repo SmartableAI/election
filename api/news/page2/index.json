@@ -2,6 +2,119 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-28-bill-mcgurn-slams-outrageous-behavior-from-media-suppressing-hunter-biden-allegations.md",
+      "title": "Bill McGurn slams 'outrageous behavior' from media suppressing Hunter Biden allegations",
+      "excerpt": "After Hunter Biden’s former business associate Tony Bobulinsky gave an interview on Fox News’ “Tucker Carlson Tonight” Tuesday, Wall Street Journal columnist Bill McGurn reacted to the interview pointing out that the story has been covered up by the media and social media companies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zilQIo16iUo/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zilQIo16iUo/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp",
+      "publishedDateTime": "2020-10-28T10:38:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals.md",
+      "title": "2020 Hindsight on Impeachment Trial and Unravelling Biden Family Business Deals",
+      "excerpt": "Failing to get ahead of what has become the drip, drip of new details on Hunter Biden’s business dealings – and the potential ties to his father – could prove",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952",
+      "originalUrl": "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true",
+      "publishedDateTime": "2020-10-28T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-politico-playbook-pm-the-right-previews-its-attacks-on-a-president-biden.md",
       "title": "POLITICO Playbook PM: The right previews its attacks on a President Biden",
       "excerpt": "THE RIGHT HAS AMPLIFIED the story, but the mainstream press has shot down BOBULINSKI’S claims at every turn. For example, the news pages of The Wall Street Journal reported they couldn’t establish that BIDEN was involved or received money as part of the defunct arrangement.",
@@ -123,7 +236,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -485,7 +598,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1725,
+      "heat": 1765,
       "tags": null,
       "images": [
         {
@@ -585,6 +698,110 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran.md",
+      "title": "Analysis: Biden would face uncertain path to detente with wary Iran",
+      "excerpt": "Joe Biden plans to scrap what he calls the \"dangerous failure\" of President Donald Trump's maximum pressure policy on Iran should he win the U.S. election, but after years of confrontation his diplomacy-first approach to a historic Middle East foe could prove an",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-iran-analysis-int-idUSKBN27D1E2",
+      "originalUrl": "https://www.reuters.com/article/usa-election-iran-analysis-int-idUSKBN27D1E2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539111804&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R0RX",
+          "width": 789,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27D1E2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D1E2",
+      "publishedDateTime": "2020-10-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-trump-tells-voters-to-change-their-votesbut-only-a-few-states-allow-that.md",
+      "title": "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That",
+      "excerpt": "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/",
+      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9890ed25a04196a125a749%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3202%26cropY1%3D0%26cropY2%3D1802",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/",
+      "publishedDateTime": "2020-10-28T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-im-a-republican-former-elections-official-i-choose-democracy-over-trump-opinion.md",
       "title": "I'm a Republican Former Elections Official. I Choose Democracy Over Trump | Opinion",
       "excerpt": "It wasn't until I became the executive director of New York City's Board of Elections that I had an up-close view of how complex and difficult it is to manage an election in the largest city in the country.",
@@ -593,7 +810,7 @@
       "originalUrl": "https://www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 414,
       "tags": null,
       "images": [
         {
@@ -637,6 +854,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-heres-a-timeline-of-president-donald-trumps-and-dr-anthony-faucis-relationship.md",
+      "title": "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship",
+      "excerpt": "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/28/president-donald-trump-anthony-fauci-timeline-relationship-coronavirus-pandemic/3718797001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/28/president-donald-trump-anthony-fauci-timeline-relationship-coronavirus-pandemic/3718797001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/07/31/USAT/5f2d0ac9-24b5-43ca-bb6c-a6da956b363b-AFP_AFP_1VA3UJ.jpg?auto=webp&crop=4011,2257,x0,y355&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3718797001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718797001",
+      "publishedDateTime": "2020-10-28T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-winnable-but-not-yet-won-why-joe-biden-and-mike-pence-are-both-headed-to-iowa-this-week.md",
       "title": "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week",
       "excerpt": "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won.",
@@ -645,7 +914,7 @@
       "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -689,7 +958,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1017,7 +1286,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1034,262 +1303,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/27/politics/trump-gretchen-whitmer-kidnapping-michigan/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-gretchen-whitmer-kidnapping-michigan/index.html",
       "publishedDateTime": "2020-10-27T15:55:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-livestream-trump-holds-tuesday-rally-in-michigan.md",
-      "title": "Livestream: Trump Holds Tuesday Rally In Michigan",
-      "excerpt": "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan",
-      "originalUrl": "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/getty/566479/20201027/013957/styles/patch_image/public/gettyimages-1229304833___27133938792.jpg?width=984",
-          "width": 896,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump",
-      "publishedDateTime": "2020-10-27T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-does-russia-china-north-korea-want-trump-to-win-the-election-what-trump-said-about-putin-xi-kim-jong-un.md",
-      "title": "Does Russia, China, North Korea Want Trump To Win The Election? What Trump Said About Putin, Xi, Kim Jong Un",
-      "excerpt": "President Donald Trump said North Korean leader Kim Jong Un, Russian President Vladimir Putin and Chinese leader Xi Jinping would prefer him to be reelected over Joe Biden, calling them \"sharp as a tack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052",
-      "originalUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/us-president-donald-trump-holds-his-first-summit.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052?amp=1",
-      "publishedDateTime": "2020-10-27T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-says-kamala-harris-wont-be-first-woman-president-rallygoers-demand-ivanka.md",
-      "title": "Trump Says Kamala Harris 'Won't Be First Woman President,' Rallygoers Demand Ivanka",
-      "excerpt": "Trump said Kamala Harris will \"take over\" for Biden three weeks into his term if he wins before declaring, \"she will not be the first woman president\" Tuesday at a Lansing, Michigan campaign event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
-      "originalUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 304,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1659983/ivanka-trump-president-first-woman.jpg",
-          "width": 2500,
-          "height": 1515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1",
-      "publishedDateTime": "2020-10-27T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-promised-massive-middle-class-tax-cuts-in-2016-he-delivered-cuts-not-as-much-on-the-middle-class-part.md",
-      "title": "Trump promised massive middle-class tax cuts in 2016. He delivered cuts, not as much on the middle class part",
-      "excerpt": "The GOP tax bill in 2017 gave households an average $1,600 cut but the richest Americans, especially those making over $300,000, got the most relief.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-mostly-delivered-2016-campaign-pledge-cut-taxes/3685282001/",
-      "originalUrl": "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-mostly-delivered-2016-campaign-pledge-cut-taxes/3685282001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/58bcbd7626012765178f61ecb84b86080363f1ac/c=0-77-2631-1564/local/-/media/2016/09/15/USATODAY/USATODAY/636095412520377554-AP-Campaign-2016-Trump.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3685282001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3685282001",
-      "publishedDateTime": "2020-10-27T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-fact-check-trump-falsely-claims-pennsylvanians-cant-go-to-church.md",
-      "title": "Fact check: Trump falsely claims Pennsylvanians 'can't go to church' ",
-      "excerpt": "President Donald Trump keeps falsely declaring that various states run by Democratic governors are \"closed\" or \"shut down.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v5hL85ho8kY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v5hL85ho8kY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201027135646-01-trump-rally-1026-pennsylvania-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/27/politics/trump-false-claim-pennsylvania-cant-go-to-church-fact-check/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-false-claim-pennsylvania-cant-go-to-church-fact-check/index.html",
-      "publishedDateTime": "2020-10-27T13:11:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

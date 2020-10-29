@@ -29,37 +29,142 @@ images:
     isCached: true
 
 related:
-  - title: "Senate panel sets October 22 vote on Trump court pick despite Democrats' protests"
-    excerpt: "The Republican-led U.S. Senate Judiciary Committee on Thursday scheduled an Oct. 22 vote to advance conservative appellate judge Amy Coney Barrett's nomination to the Supreme Court to the full Senate,"
-    publishedDateTime: 2020-10-15T21:14:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2701AT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2701AT"
+  - title: "Trump remakes Supreme Court as Senate confirms Amy Coney Barrett"
+    excerpt: "The Republican-led U.S. Senate handed President Donald Trump a major pre-election political victory on Monday by confirming his Supreme Court nominee Amy Coney Barrett as he delivered a dramatic conservative overhaul of the nation's top judicial body."
+    publishedDateTime: 2020-10-27T00:30:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN27C00H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C00H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C00H"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537566094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0SM"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538910364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q009"
         width: 817
         height: 545
         isCached: true
-  - title: "Nancy Pelosi defends shunning Donald Trump for a year after she walked out on their meeting last October"
-    excerpt: "The Speaker and President Trump have not spoken since October 16, 2019 after the two traded insults and the Pelosi walked out."
-    publishedDateTime: 2020-10-17T12:46:00Z
-    webUrl: "https://www.businessinsider.com/nancy-pelosi-defends-not-speaking-to-donald-trump-for-entire-year"
-    ampWebUrl: "https://www.businessinsider.com/nancy-pelosi-defends-not-speaking-to-donald-trump-for-entire-year?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-defends-not-speaking-to-donald-trump-for-entire-year?amp"
+  - title: "Trump plans second White House event for Barrett as Senate takes up nomination"
+    excerpt: "The White House on Monday planned a celebration to celebrate the Republican Senate's expected confirmation of President Donald Trump's conservative nominee Amy Coney Barrett to the Supreme Court, one a month after a similar event was linked to a COVID-19 outbreak that"
+    publishedDateTime: 2020-10-26T15:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett/update-1-trump-plans-second-white-house-event-for-barrett-as-senate-takes-up-nomination-idUSL1N2HH17E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B143"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B143"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538830036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P0RV"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
+    excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
+    publishedDateTime: 2020-09-19T01:12:00Z
+    webUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 108
+    quality: 120
     images:
-      - url: "https://i.insider.com/5f8ac006d260780019342001?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden Says Amy Coney Barrett's Confirmation to Supreme Court Threatens Affordable Health Care"
+    excerpt: "Democratic presidential candidate Joe Biden has criticized Amy Coney Barrett's \"rushed and unprecedented\" Supreme Court confirmation while raising concerns over what it could mean for the future of the Affordable Care Act. President Donald Trump has ..."
+    publishedDateTime: 2020-10-27T09:20:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1658668/biden.jpg"
+        width: 2295
+        height: 1530
+        isCached: true
+  - title: "Fact check: Senate Republicans moving to confirm Trump's Supreme Court nominee but blocked Obama's"
+    excerpt: "A claim addressing the double standard for consideration of the two presidents' Supreme Court nominees was correct on substance, off on timing."
+    publishedDateTime: 2020-10-20T23:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-gop-senators-blocked-nomination-merrick-garland-2016/5916555002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5916555002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5916555002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/17/USAT/304f1850-0bf1-4dd3-8a14-837260789dff-AP_17128533809612.jpg?auto=webp&crop=1701,957,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "U.S. Supreme Court rejects Trump bid to block North Carolina absentee ballot extension"
+    excerpt: "The U.S. Supreme Court on Wednesday rejected a request by President Donald Trump's campaign to block North Carolina's extension of the deadline for receiving mail-in ballots as the justices acted in another voting case ahead of Nov."
+    publishedDateTime: 2020-10-28T23:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-court-northcarolina-idUSKBN27D3DR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D3DR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D3DR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+  - title: "Trump will host another White House gathering for Amy Coney Barrett even though the 1st one became a COVID-19 superspreader event"
+    excerpt: "White House chief of staff Mark Meadows said the event will be held outdoors and that the White House would urge people to maintain social distance."
+    publishedDateTime: 2020-10-26T16:39:00Z
+    webUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f96d54b4743a3001216b920?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump mulling Appeals Court judges Barbara Lagoa, Amy Coney Barrett for Supreme Court - source"
+    excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy opened up by the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
+    publishedDateTime: 2020-09-19T16:48:00Z
+    webUrl: "https://www.reuters.com/article/usa-courts-ginsburg-candidates/trump-mulling-appeals-court-judges-barbara-lagoa-amy-coney-barrett-for-supreme-court-source-idUSKCN26A0S8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 93
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20200919&t=2&i=1534134972&r=LYNXNPEG8I0NV&w=800"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Amy Coney Barrett, Mike Pence, Tropical Storm Zeta: 5 things to know Monday"
+    excerpt: "Amy Coney Barrett is poised to become the ninth Supreme Court justice, Tropical Storm Zeta expected to develop into a hurricane and more things to start your Monday."
+    publishedDateTime: 2020-10-26T09:02:00Z
+    webUrl: "https://www.tennessean.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6031654002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6031654002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "+n4YFYa4XR13T82tjwy3KwVH5Lx3hJVCMOq/SqmAZSnZRkBs7MDyCV31/u9JLm7K2QHw582dSGjt9HcGaey5rjT7t/p43RugZ3oXNBzrSoLOLqJNsdnF3FbhUw8uy7L0m8LEBnGurOf9n+E+pC6pXdoumvAPEiY/KOzO2hU24w3ykij0CzyEbSkuzo9ApQnUT7f8UyXA5GUxBoG1L3w29BN6713f1/JKqzMF7HAHJchZs411ZX279ruvK35z9VO7CK5Dv+MxMirDUxqeYvKxwFcBbI61vjfFPNsW4GVyFkJbV9piiFMC/wSsLxaHHKZ3gZPYg4fszPYbyZwVVOw9+ES3vEXU8D2qas0i4bH7OzU=;a40ub6x6XS7Vy6AA0e3KPg=="

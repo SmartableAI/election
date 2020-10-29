@@ -2,6 +2,219 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-22-election-2020-updates-i-think-the-mute-is-very-unfair-trump-on-debate-mics.md",
+      "title": "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics",
+      "excerpt": "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328",
+      "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 416,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-1-rt-er-201021_1603316702002_hpMain_16x9_1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328",
+      "publishedDateTime": "2020-10-22T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe.md",
+      "title": "GOP voters know ‘this election is between a good man and a bad man’ — and they’ve backing Trump anyway: Morning Joe",
+      "excerpt": "Even his supporters agree that President Donald Trump is a bad man, according to MSNBC’s Joe Scarborough, and believe Joe Biden is basically a good man. So why are they voting for Trump, anyway, the “Morning Joe” host asked historian Jon Meacham.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/",
+      "originalUrl": "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-04-at-7.15.10-AM.png",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/amp/",
+      "publishedDateTime": "2020-10-22T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-donald-trump-says-he-may-change-personality-if-he-wins-being-politically-correct-takes-time.md",
+      "title": "Donald Trump Says He May Change Personality If He Wins: 'Being Politically Correct Takes Time'",
+      "excerpt": "The president said he could change his behavior in a second term, suggesting time constraints in his first had shaped his actions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236",
+      "originalUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1656907/trump.jpg",
+          "width": 2500,
+          "height": 1639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-personality-politically-correct-1541236?amp=1",
+      "publishedDateTime": "2020-10-22T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-jennifer-lawrence-says-trump-altered-her-political-views-theres-been-a-line-drawn-in-the-sand.md",
+      "title": "Jennifer Lawrence says Trump altered her political views: ‘There’s been a line drawn in the sand’",
+      "excerpt": "Jennifer Lawrence said despite the fact she grew up in a Republican household, because of Trump, she has become more open-minded about politics \"based on the things I learned.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
+      "originalUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jennifer-Lawrence-reupload_AP.png?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
+      "publishedDateTime": "2020-10-21T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-obama-endorses-espy-in-mississippi-trump-backs-hyde-smith.md",
       "title": "Obama endorses Espy in Mississippi; Trump backs Hyde-Smith",
       "excerpt": "Mike Espy has a great chance to win this election for the Senate and keep Mississippi moving forward,\" Obama said in a radio ad and the text of a fundraising appeal. Espy was U.S. agriculture secretary under President Bill Clinton,",
@@ -53,7 +266,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -77,6 +290,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-some-latinos-are-voting-for-donald-trump-despite-his-anti-immigrant-attacks-this-is-why.md",
+      "title": "Some Latinos are voting for Donald Trump, despite his anti-immigrant attacks. This is why.",
+      "excerpt": "They're in the minority, but these Hispanic voters say they like Trump's business skills and share his worries about criminal immigrants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/21/2020-election-why-these-latinos-new-jersey-voting-trump/6003106002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/21/2020-election-why-these-latinos-new-jersey-voting-trump/6003106002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/13/PNJM/249152a4-c715-4a97-bafe-5728d4b8b63b-101320-Union_City-MarteTrump-008.JPG?auto=webp&crop=3027,1703,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6003106002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6003106002",
+      "publishedDateTime": "2020-10-21T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -196,7 +461,7 @@
       "originalUrl": "https://www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -329,6 +594,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-photo-altered-to-ice-cube-50-center-in-trump-2020-hats.md",
+      "title": "Photo altered to Ice Cube, 50 Center in 'Trump 2020' hats",
+      "excerpt": "An altered photo of rappers Ice Cube and 50 Cent in hats that appear to show support for President Donald Trump circulated widely on social media Tuesday, fueled in part by a tweet by Eric Trump",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756",
+      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_81e131d935a94eb8b2511404169cbee9_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756",
+      "publishedDateTime": "2020-10-20T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -492,58 +809,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-20-fact-check-donald-trump-and-mar-a-lagos-fight-with-palm-beach-over-a-flagpole.md",
-      "title": "Fact check: Donald Trump and Mar-a-Lago's fight with Palm Beach over a flagpole",
-      "excerpt": "Donald Trump and Palm Beach sparred over the size of a flag at his estate. A post about that fight is a mixture of true and false.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-donald-trump-and-mar-lagos-fight-over-flagpole/5921390002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-donald-trump-and-mar-lagos-fight-over-flagpole/5921390002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/06/NPPP/1185959b-15ea-409c-bdb8-596e01e6c47c-100506_met_trump1of2.jpg.JPG?auto=webp&crop=2399,1350,x0,y71&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5921390002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921390002",
-      "publishedDateTime": "2020-10-20T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-20-exxon-mobil-said-a-hypothetical-call-where-trump-got-its-ceo-to-donate-25-million-to-his-campaign-never-happened.md",
       "title": "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened",
       "excerpt": "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign.",
@@ -552,7 +817,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -628,58 +893,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-pushes-rosy-virus-message-i-look-fine.md",
-      "title": "Trump pushes rosy virus message: 'I look fine'",
-      "excerpt": "President Donald Trump was again downplaying the severity of the coronavirus on Monday during a rally in Arizona. \"The pandemic is rounding the turn. Vaccines are coming. And I look fine, don't I?\" Trump said,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/20/trump-pushes-rosy-virus-message-i-look-fine/5987060002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/20/trump-pushes-rosy-virus-message-i-look-fine/5987060002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/3caf549b-a00f-4373-959e-1e28aadff5f6_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1175,110 +1388,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-coronavirus-updates-donald-trump-nancy-pelosi-mitch-mcconnell-face-stimulus-deal-deadline-sturgis-rally-linked-to-cases-219k-us-deaths.md",
-      "title": "Coronavirus updates: Donald Trump, Nancy Pelosi, Mitch McConnell face stimulus deal deadline; Sturgis rally linked to cases; 219K US deaths",
-      "excerpt": "Monday talks could determine the fate of a stimulus package President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3695793001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001",
-      "publishedDateTime": "2020-10-18T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trump-attends-church-service-in-las-vegas.md",
-      "title": "Trump attends church service in Las Vegas",
-      "excerpt": "U.S. President Donald Trump made a rare visit to church Sunday as he and Democratic rival Joe Biden campaigned across the country from one another. (Oct. 18)",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/210c8f2c-cf3c-46f1-803f-5fbfcb0902fc_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-18T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-18-donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things.md",
       "title": "Donald Trump Jr. says dad’s ‘next move’ is to ‘break up’ FBI: ‘He has to get rid of these things’",
       "excerpt": "Donald Trump Jr. on Sunday called on his father to “break up” the FBI if he wins a second term. During an interview on Fox News, host Maria Bartiromo asked the president’s son what his father would do if the FBI does not do his bidding by smearing the son of Democratic nominee Joe Biden",
@@ -1339,7 +1448,7 @@
       "originalUrl": "https://www.aljazeera.com/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1413,110 +1522,6 @@
         "name": "Heavy.com",
         "domain": "heavy.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-trump-slams-republican-critic-who-warned-of-november-bloodbath.md",
-      "title": "Trump slams Republican critic who warned of November 'bloodbath'",
-      "excerpt": "U.S. President Donald Trump on Saturday attacked a longtime congressional critic who warned this week that his handling of the coronavirus pandemic and authoritarian leaders could cause a \"Republican bloodbath in the Senate\" in the Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537867561&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G0JA",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2720PJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2720PJ",
-      "publishedDateTime": "2020-10-17T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-us-spies-say-the-hunter-biden-email-controversy-shows-how-exploitable-and-grotesquely-vulnerable-trump-and-giuliani-are-to-russian-intelligence.md",
-      "title": "US spies say the Hunter Biden email controversy shows how 'exploitable' and 'grotesquely vulnerable' Trump and Giuliani are to Russian intelligence",
-      "excerpt": "\"They want to protect their boy in the White House because Trump's policies have been strategically fantastic for Russia,\" said a former CIA spy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10",
-      "originalUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f89defd9e9fe40019009d36?width=1200&format=jpeg",
-          "width": 1190,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10?amp",
-      "publishedDateTime": "2020-10-17T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

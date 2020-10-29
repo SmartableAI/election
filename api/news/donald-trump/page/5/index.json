@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-14-what-demi-lovato-says-about-donald-trump-in-new-protest-song-commander-in-chief.md",
+      "title": "What Demi Lovato Says About Donald Trump in New Protest Song 'Commander in Chief'",
+      "excerpt": "\"Commander in Chief\" is the former Disney star's protest anthem against the Republican candidate ahead of election day on November 3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019",
+      "originalUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1651670/demi-lovato.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019?amp=1",
+      "publishedDateTime": "2020-10-14T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-suburban-women-will-you-please-like-me-trump-attempts-to-appeal-to-voter-group-he-has-struggled-to-reach.md",
+      "title": "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach",
+      "excerpt": "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8644e9fd1f49001964d784?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp",
+      "publishedDateTime": "2020-10-13T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-trump-to-coronavirus-victims-i-feel-your-pain-because-ive-felt-your-pain.md",
       "title": "Trump to coronavirus victims: 'I feel your pain because I've felt your pain'",
       "excerpt": "The president told a crowd in Johnstown, Pennsylvania, that he \"felt like Superman\" after getting an experimental drug treatment for Covid-19 and that he's now \"immune.\"",
@@ -219,7 +323,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 645,
+      "heat": 665,
       "tags": null,
       "images": [
         {
@@ -323,7 +427,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1258,6 +1362,40 @@
       ]
     },
     {
+      "path": "_news/2020-10-11-nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back.md",
+      "title": "Nancy Pelosi calls Donald Trump plan ‘one step forward, two steps back’",
+      "excerpt": "Pelosi and Treasury Secretary Steven Mnuchin head into weekend negotiations with the top-line number for relief fast approaching the $2 trillion level that many Senate Republicans say they cannot accept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK.html",
+      "originalUrl": "https://www.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html",
+      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html",
+      "publishedDateTime": "2020-10-10T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-i-shouldnt-be-here-wisconsin-bar-owner-in-icu-with-covid-19-blames-trump-for-out-of-control-pandemic.md",
       "title": "'I shouldn't be here': Wisconsin bar owner in ICU with COVID-19 blames Trump for out-of-control pandemic",
       "excerpt": "The owner of a beloved Oshkosh bar is in the ICU with COVID-19 and blames the president for an out-of-control pandemic that has infected his family.",
@@ -1416,158 +1554,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-schiff-if-trump-wanted-more-infections-would-he-be-doing-anything-different.md",
-      "title": "Schiff: If Trump wanted more infections 'would he be doing anything different'?",
-      "excerpt": "Rep. Adam Schiff (D-Calif.) on Thursday tore into President Trump’s handling of the coronavirus, warning that a rally he plans to hold at the White House Saturday runs the risk of spreading the illness.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different",
-      "originalUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/schiffadam_092320gn2_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp",
-      "publishedDateTime": "2020-10-09T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet.md",
-      "title": "Trump Says Scans Found 'Congestion' In His Lungs, Doesn’t Know If He’s Virus-Free Yet",
-      "excerpt": "Trump's physician Dr. Sean Conley, who has given conflicting reports on Trump's health, previously said that scans resulted in \"expected findings.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/",
-      "originalUrl": "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f810fff2be6434eedee24f9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4808%26cropY1%3D211%26cropY2%3D2916",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/amp/",
-      "publishedDateTime": "2020-10-09T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-cenk-uygur-awesome-to-listen-donald-trump-and-rush-limbaugh-cry-about-fox-news.md",
-      "title": "Cenk Uygur: \"Awesome\" To Listen Donald Trump And Rush Limbaugh Cry About FOX News",
-      "excerpt": "\"The Young Turks\" host Cenk Uygur spoke Friday about the schadenfreude of listening to Donald Trump complain about FOX News during an interview with Rush Limbaugh. \"He complains about everything, he will not stop crying,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/10/09/cenk_uygur_awesome_to_listen_donald_trump_and_rush_limbaugh_cry_about_fox_news.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/09/cenk_uygur_awesome_to_listen_donald_trump_and_rush_limbaugh_cry_about_fox_news.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/51/513828.jpg",
-          "width": 1202,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

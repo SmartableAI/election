@@ -47,6 +47,54 @@ related:
         width: 780
         height: 390
         isCached: true
+  - title: "Trump celebrates at White House as Supreme Court nominee confirmed"
+    excerpt: "President Donald Trump reveled in one of his signature achievements on Monday at a White House ceremony to celebrate U.S. Senate confirmation of his third Supreme Court nominee, Amy Coney Barrett, eight days before the election."
+    publishedDateTime: 2020-10-27T04:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett-idINKBN27A0CX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A0CX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A0CX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538916881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q02G"
+        width: 777
+        height: 545
+        isCached: true
+  - title: "Can you change your vote? Trump thinks people should"
+    excerpt: "President Donald Trump, arguing he's gained since the last debate, on Tuesday encouraged voters who have already voted absentee to look into changing their votes."
+    publishedDateTime: 2020-10-28T13:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/change-vote-trump-thinks-people/story?id=73854468"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/change-vote-trump-thinks-people/story?id=73854468"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/change-vote-trump-thinks-people/story?id=73854468"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-lititz-rally-01-rt-jef-201026_1603738033058_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Votes In Person And Slams Mail-In Voting As Campaign Urges Voters To Vote By Mail"
+    excerpt: "Despite his denunciations of mail-in voting, Trump has said the practice is ‘safe in secure’ in Florida, where he voted, because of its Republican governor."
+    publishedDateTime: 2020-10-24T16:26:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 117
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f94542b84e077087f844587%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2854%26cropY1%3D89%26cropY2%3D1694"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Report: Trump Campaign Has Videotaped Philadelphia Voters In Potentially Illegal Voter Intimidation"
     excerpt: "Members of President Donald Trump’s re-election campaign have been filming Philadelphia voters as they put their ballots in drop boxes, which poll watchers are not permitted to do in Pennsylvania and could be an act of illegal voter intimidation,"
     publishedDateTime: 2020-10-22T22:53:00Z

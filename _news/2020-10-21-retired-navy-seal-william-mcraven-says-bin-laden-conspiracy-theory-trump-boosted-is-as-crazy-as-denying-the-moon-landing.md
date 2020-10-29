@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/mcraven-says-bin-laden-conspiracy-th
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10?amp"
 type: article
 quality: 99
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Conservative news sites are misleading millions of readers about voter fraud, pushing debunked conspiracy theories amplified by President Trump"
+    excerpt: "Right-leaning news sites with millions of readers have published dozens of false or misleading headlines and articles that back unsubstantiated claims by President Donald Trump on voter fraud."
+    publishedDateTime: 2020-10-25T18:18:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 89
+    images:
+      - url: "https://www.chicagotribune.com/resizer/i9c1o9nbm-hxcciyCgULDOsWMnM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ONYTZMGAMNHETHSZOHDVVCXTKU.aspx"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "yteNL0w/83ntImbU1LoDeDabZfnST/BAkQyKpS5V4kMxQwh3t3wI0p5N3CCDHbHYLiL3fAzoLKuFbyfRz9FOrepSpK3UJaHcYTOzskrC1CkO8aBv21tzJ+3M5NpO8LQnNnVj2zh5AgXYTnLKHrP8EiNCFdz0tcFSBFZsZApRX1qgt+S3VFWjmZcZVd9R0vSrGyHktkj1Blcjq87A4lP85KPJ1XC77KmijL+3u/Fax1KFrN8eFYXKrOhZCgS2pvj5m0+TPzsr5A67p0uTney74qqumqI+2/9JIBMZe1tNn6WezHQnY7n0TWz4yg8bjRs+Vkdb4ynTDFhCfbDr4ocHDx8peDs8Faer4xzwNBD2jtk=;ZzsTt+uulaePZb+cuSQmcg=="
 ---

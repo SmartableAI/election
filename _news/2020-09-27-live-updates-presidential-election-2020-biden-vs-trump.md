@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 3545
+heat: 3565
 published: true
 
 provider:
@@ -460,6 +460,22 @@ related:
     quality: 190
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/886c1845-34a6-41a3-9949-1596ed3bf60d/721bd5a4-a237-48a1-b871-52d837afb882/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Election 2020 polling average shows Biden leading Trump nationally with just days left"
+    excerpt: "Democratic nominee Joe Biden continues to lead President Trump in national polling, although the race has tightened to a seven-point lead for Biden, down from 10 points earlier in October, according to Real Clear Politics' polling average."
+    publishedDateTime: 2020-10-29T02:45:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-QdoLBWjPec/live-updates-election-2020-polling-average-shows-biden-leading-trump-nationally-with-just-days-left"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-2020-polling-average-shows-biden-leading-trump-nationally-with-just-days-left.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-2020-polling-average-shows-biden-leading-trump-nationally-with-just-days-left.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd1ffb14-03bc-4b4e-afa9-9bca433aa45f/67e01748-312f-4677-a1b0-7a58c6081241/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

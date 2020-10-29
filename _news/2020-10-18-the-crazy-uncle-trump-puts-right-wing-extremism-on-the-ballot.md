@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Donald Trump keeps begging women to like him. They keep saying no."
+    excerpt: "I paid $14.95 to hear a cadre of women who love President Trump explain why women should love President Trump. This 96-minute education came in the form of “The Trump I Know,” a new documentary available for download,"
+    publishedDateTime: 2020-10-21T03:24:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-women-vote-polls-2020/2020/10/20/277cf21a-08af-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-women-vote-polls-2020/2020/10/20/277cf21a-08af-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-women-vote-polls-2020/2020/10/20/277cf21a-08af-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MK6GEMQPFUI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "Trump speaks as he arrives for Carson City rally"
     excerpt: "President Donald Trump speaks to reporters as he heads for his campaign rally in in Carson City, Nevada on Sunday. Once considered a battleground state, Nevada hasn’t swung for a Republican presidential contender since 2004."
     publishedDateTime: 2020-10-19T01:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-ne
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/5f948c93f21803001222bcc5?width=1200&format=jpeg"
         width: 814
         height: 407
+        isCached: true
+  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
+    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
+    publishedDateTime: 2020-10-21T05:26:00Z
+    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
+        width: 911
+        height: 455
         isCached: true
 
 secured: "NowKVb1ArYVfzqnlRa2ZJguvx07xxXBd9QD0Hts6g4/mS42hUCMuF0BItgVzEpZtlvw9d6Enf/B1PZramRC950NIcizxgaPW+NqS3836r22E1EDtYKR8XjdtXCu3jcUw6DdRXMOVX0HaqWRQ++xzNnRiZTLtWR+Q6+2S3q1ps9oxiiHdob5cSGxo+aMGvanirL64DpRJuhcMTQ7KUg0d5O7pKH7WtXXAXEeE+HhzCua1StRzPetPM0qpZZWeFUwmQKcwM3z6TmvvWY/H4Br0uucIVK4bHa/k4C6sUANsWOiBfHtA11mHvDPU+pQLiPf3fcCWqEj5NklNInZPcJXAfn7oF6DZIIuqZm2R2avYeCU=;nVZOGfQ+Xfn1tXKccyHY3Q=="

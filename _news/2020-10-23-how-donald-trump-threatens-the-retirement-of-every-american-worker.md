@@ -41,6 +41,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Obama reminds voters of a Trump-less America"
+    excerpt: "In a reminder of better times, former president Barack Obama traveled to Philadelphia on Wednesday and delivered a stemwinder for the Democratic ticket. His topic was deadly serious — the need to rescue America — but he was joyous,"
+    publishedDateTime: 2020-10-22T13:47:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVFJJHQT6AI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 962
+        isCached: true
   - title: "\"Anonymous\" is former DHS official who has openly opposed Trump"
     excerpt: "The identity of a senior official in the Trump administration who wrote a New York Times op-ed about working against President Trump's \"worst inclinations\" has remained anonymous until now. The person who wrote the op-ed is Miles Taylor,"
     publishedDateTime: 2020-10-28T20:16:00Z
@@ -57,6 +73,106 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Republicans can grow the party's base after Donald Trump is gone"
+    excerpt: "Republican operatives at the Lincoln Project spin wicked videos designed to get under President Donald Trump’s skin. Veterans from the Bush Administration sign up with 43 Alumni for Biden. Retired security officers leap on the blue bandwagon."
+    publishedDateTime: 2020-10-28T22:05:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/27/how-republicans-can-save-party-and-grow-their-base-after-trump-column/6038458002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6038458002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038458002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Democrats demand docs tied to Trump order stripping civil service protections"
+    excerpt: "Democrats on the House Oversight Committee asked the White House on Wednesday to turn over a trove of documents related to a recent order that strips some civil servants of worker protections."
+    publishedDateTime: 2020-10-28T21:16:00Z
+    webUrl: "https://thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service"
+    ampWebUrl: "https://thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_10262020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Slovenian premier endorses Trump's reelection, joins others"
+    excerpt: "Slovenian Prime Minister Janez Jansa endorsed U.S. President Donald Trump’s reelection on Friday, saying Joe Biden would be a weak leader."
+    publishedDateTime: 2020-10-25T17:57:00Z
+    webUrl: "https://www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Trump issues order for some career federal employees to lose their civil service protections"
+    excerpt: "Career federal employees whose work involves making policy would no longer be hired under competitive procedures."
+    publishedDateTime: 2020-10-22T21:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SYLKOEQUQQI6XPAQICZFHAXRXY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Foreign students show less zeal for US since Trump took over"
+    excerpt: "On a recruiting trip to India’s tech hub of Bangalore, Alan Cramb, the president of a reputable Chicago university, answered questions not just about dorms or tuition but also American work visas."
+    publishedDateTime: 2020-10-25T22:47:00Z
+    webUrl: "https://www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Comedian Sarah Cooper Doesn’t Need Donald Trump Anymore"
+    excerpt: "Cooper, who has a new Netflix special out, built her name lip-syncing the President. But she has plenty of other plans for the future"
+    publishedDateTime: 2020-10-27T18:34:00Z
+    webUrl: "https://time.com/5899863/sarah-cooper-netflix-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/sarah-cooper-interview.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Trump administration proposes reversal of homeless policy"
+    excerpt: "A new federal plan to end homelessness released last week by the Trump administration calls for a reversal of Obama-era “housing first” policies. The plan, released Oct. 19, is the first from the United States Interagency Council on Homelessness since President Donald Trump fired its executive director last year and replaced him with Robert G."
+    publishedDateTime: 2020-10-27T19:00:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-administration-proposes-reversal-of-15678824.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-administration-proposes-reversal-of-15678824.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-administration-proposes-reversal-of-15678824.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Calls for armed guards, 'Army for Trump' volunteers alarm Minnesota election officials"
     excerpt: "Amid preparations complicated by the pandemic, state and federal officials are monitoring new reports of private security contractors advertising jobs that would — illegally — dispatch armed guards at Minnesota polling places."
     publishedDateTime: 2020-10-21T18:25:00Z
@@ -71,6 +187,28 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Foreign Students Show Less Zeal for US Since Trump Took Over"
+    excerpt: "America has been considered the premier destination for international students, with the promise of an education at top-notch universities leading to job opportunities."
+    publishedDateTime: 2020-10-25T15:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "RI's House Speaker in Tight Race in Pro-Trump District"
+    excerpt: "Rhode Island's Democratic House speaker is in a tight race as he campaigns to hang on to his legislative seat in a district that went for Donald Trump in 2016."
+    publishedDateTime: 2020-10-25T12:53:00Z
+    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district"
+    ampWebUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Trump Administration Sets Record Low Limit for New U.S. Refugees"
     excerpt: "The Trump administration has slashed the number of refugees it will allow to resettle in the United States in the coming year, capping the number at 15,000, a record low in the history of the country's modern refugee program."
     publishedDateTime: 2020-10-28T12:40:00Z

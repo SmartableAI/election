@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sacha Baron Cohen reveals how he snuck into a Mike Pence speech dressed as Trump"
+    excerpt: "Sacha Baron Cohen has detailed how he managed to sneak into a speech by Mike Pence dressed as Donald Trump for his 'Borat' sequel"
+    publishedDateTime: 2020-10-19T11:27:00Z
+    webUrl: "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022"
+    ampWebUrl: "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 85
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/10/borat-mike-pence.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Sacha Baron Cohen reveals how he was able to sneak into Mike Pence speech to film Borat 2"
     excerpt: "Sacha Baron Cohen has revealed how he managed to sneak into a Mike Pence speech during a rally earlier this year while filming a scene for the upcoming Borat sequel. The actor, believe it or not, managed to disguise himself as none other than President Donald Trump in order to gain access into the speech,"
     publishedDateTime: 2020-10-18T18:46:00Z

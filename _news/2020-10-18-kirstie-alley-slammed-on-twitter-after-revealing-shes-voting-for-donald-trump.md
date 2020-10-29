@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 951
         isCached: true
+  - title: "Trump Sons Hint At 2024 Runs As President’s Polling Looks Dire"
+    excerpt: "A number of prominent Republicans, including Trump allies, have made trips to early primary states amid the ongoing 2020 election."
+    publishedDateTime: 2020-10-24T14:52:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-sons-hint-at-future-runs-as-presidents-polling-looks-dire/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-sons-hint-at-future-runs-as-presidents-polling-looks-dire/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/24/trump-sons-hint-at-future-runs-as-presidents-polling-looks-dire/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f943e3b7a08c6884f937002%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3617%26cropY1%3D340%26cropY2%3D2633"
+        width: 1200
+        height: 761
+        isCached: true
   - title: "Presidential debate: Trump history shows Kristen Welker has her work cut out for her"
     excerpt: "Trump clearly does not think well of nor respect Black women. Moderator Kristen Welker of NBC News must be tough and in command from start to finish."
     publishedDateTime: 2020-10-22T09:13:00Z
@@ -95,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘I voted for a guy named Trump,’ the president says after voting in person in West Palm Beach"
+    excerpt: "President Donald Trump cast his in-person vote in West Palm Beach on Saturday morning, and said \"I voted for a guy named Trump.\" He took the opportunity to remind people how secure in-person voting is over mail ballots."
+    publishedDateTime: 2020-10-24T22:29:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/KgzswDY0nyTc_DHTjjDMvp_i5VY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IAWGT7FNMS4XFPH4KLRRHBJQGQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "FBI director Chris Wray and top US intelligence officials release video countering Trump's conspiracies about election integrity"
     excerpt: "The video will likely enrage the president and his allies as they claim the election is \"rigged\" and that mail-in voting leads to a fraudulent result."
     publishedDateTime: 2020-10-07T17:02:00Z
@@ -110,6 +142,20 @@ related:
       - url: "https://i.insider.com/5a7492c8ec1ade4d2d707e98?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How Donald Trump's Presidency Has Changed The Media"
+    excerpt: "Navarro asks CNN's chief media correspondent Brian Stelter how Donald Trump's presidency has affected the media and what another four years could bring."
+    publishedDateTime: 2020-10-25T11:51:00Z
+    webUrl: "https://www.npr.org/2020/10/25/927564446/how-donald-trumps-presidency-has-changed-the-media"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "'F*** Donald Trump': 50 Cent Says He 'Never Liked' Trump After Chelsea Handler Publicly Scolds Him for Endorsing President"
     excerpt: "\"For all I know he had me set up and had my friend Angel Fernandez killed but that's history,\" 50 Cent said on Saturday night."

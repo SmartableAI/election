@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "John Fogerty Joins Long List of Artists Demanding Trump Stop Using Their Songs"
-    excerpt: "John Fogerty, the singer and principal songwriter from Woodstock-era swamp rock group Creedence Clearwater Revival, has joined the growing list of musicians demanding that President Donald Trump stop blasting their tunes at his pep rallies."
-    publishedDateTime: 2020-10-18T16:24:00Z
-    webUrl: "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs"
-    ampWebUrl: "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 71
-    images:
-      - url: "https://media.vanityfair.com/photos/5f8c5eaa936b35581b460cbb/master/pass/john-fogerty.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "cpJePVIBJpZZxD/p9X4c0m9pOIv3TCQMaIJKcJ9rTitlKVXEFR9/IXI2SIdb9IQztEZfiab7PLcs0PICgtQmamKsCV5Eqa2KnTmGyR/ZATz4XADpjze8gcTIUU0nJUyNhCtAAe+YPeRZEUG5trgIHWW1z1fU8V8QKX8UGoursBZMYscnUFqCBiWLBRKoIkFGKGKHiWEJxEvoU34Dlr+1DTCoFNZt8cABr1Zd3yrXsRmCVg3KixQqvKOYUa7TodcQNd0SK0vjh1rnz2JSEeY2Ia34ZcwZk+OeVmVIPQrVadY7+c3wcUBWofF8T+EJIW5x5gdPqmfqjSoizj7viIBK41nI6UznUX4R86OaSUvrAXs=;gc1eoXfeA0Wb83HTahr+1Q=="
 ---

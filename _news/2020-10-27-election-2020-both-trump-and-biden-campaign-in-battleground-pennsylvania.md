@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 3314
+heat: 3334
 published: true
 
 provider:
@@ -542,6 +542,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f999eac5cdf7e589bd58a32%2F0x0.jpg"
         width: 1200
         height: 804
+        isCached: true
+  - title: "Election 2020 live updates: Trump campaign website hacked"
+    excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
+    publishedDateTime: 2020-10-29T03:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6007506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007506002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
     excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."

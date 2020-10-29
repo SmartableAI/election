@@ -47,6 +47,70 @@ related:
         width: 1440
         height: 935
         isCached: true
+  - title: "Boat parades, road rallies buoy Trump and his supporters"
+    excerpt: "Soon he was leading nearly 300 combines and tractors pulling hay wagons and manure spreaders through the western Ohio village of Fort Recovery, one of many parades nationwide organized by a swell of grassroots supporters for President Donald Trump."
+    publishedDateTime: 2020-10-24T15:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/boat-parades-road-rallies-buoy-trump-and-his-supporters/2020/10/24/1c60470c-160a-11eb-a258-614acf2b906d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/boat-parades-road-rallies-buoy-trump-and-his-supporters/2020/10/24/1c60470c-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/boat-parades-road-rallies-buoy-trump-and-his-supporters/2020/10/24/1c60470c-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Did Donald Trump deliver to voters with that last debate performance?"
+    excerpt: "In the second and final presidential debate, Americans witnessed a much less raucous, more coherent, and more policy-oriented and traditional discussion than the first debate That"
+    publishedDateTime: 2020-10-25T15:00:00Z
+    webUrl: "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance"
+    ampWebUrl: "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald3_10222020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "What to make of the 'kinder, gentler' Donald Trump"
+    excerpt: "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st"
+    publishedDateTime: 2020-10-25T17:00:00Z
+    webUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump"
+    ampWebUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trump_smile_042020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Feds investigating scam emails threatening voters if they don't vote for Trump"
+    excerpt: "These emails are meant to intimidate and undermine American voters’ confidence in our elections,” said Christopher Krebs, DHS cybersecurity director."
+    publishedDateTime: 2020-10-21T18:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/21/election-2020-feds-investigating-voter-email-threats-purportedly-from-proud-boys/3713840001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3713840001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3713840001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/11/06/USAT/7c0ccccb-0363-499d-b1b3-c8b2156822f0-14_XXX__JG_Georgia_Vote_11_6_2018_jmg_39800.JPG?auto=webp&crop=4175,2348,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump books are all the 'Rage': 10 books that offer a peek inside the White House"
     excerpt: "Here are 10 of the most insightful titles about President Donald Trump and his White House, and what we learned from reading them."
     publishedDateTime: 2020-10-25T14:07:00Z
@@ -94,6 +158,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/c5f96609-ba4c-4d45-8d44-5cd061817507-AP_Election_2020_Pence_wave.jpg?auto=webp&crop=5482,3084,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Column: Tragic presidency of Donald J. Trump may be nearing an end. What will be the final scene?"
+    excerpt: "Analyzing the trajectory of a presidency is not unlike inhabiting a writer’s room at Netflix or HBO. Or reading one's Shakespeare."
+    publishedDateTime: 2020-10-22T11:04:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/theater/chris-jones/ct-ent-trump-president-final-scene-1025-20201022-6lk5dyxwtba7xi762dsdaf2bhq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/theater/chris-jones/ct-ent-trump-president-final-scene-1025-20201022-6lk5dyxwtba7xi762dsdaf2bhq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/theater/chris-jones/ct-ent-trump-president-final-scene-1025-20201022-6lk5dyxwtba7xi762dsdaf2bhq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/6mufeD3ERAog4qHbq1587isNLCE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PFKIHMHUNNG6LP554DIAN6VLX4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump keeps confusing the name of new hard-to-kill missiles the US military is working on with a toothbrush"
+    excerpt: "Not only does Trump keep getting the name wrong, but he has also provided conflicting information on what the weapon actually does."
+    publishedDateTime: 2020-10-20T23:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5b74902142e1cc5b777140d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Twitter slapped yet another Trump tweet about mail-in voting with a 'misleading' label, and stopped other users from retweeting it"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 President Donald Trump has been fact-checked by Twitter. Again. Trump tweeted about mail-in voting on Monday, claiming there were ..."
@@ -173,17 +269,20 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump Plans Battleground Blitz Despite Growing Virus Worries"
-    excerpt: "President Donald Trump plans to intensify an already breakneck travel schedule in the final full week of the presidential campaign despite growing worries about the coronavirus nationwide."
-    publishedDateTime: 2020-10-26T13:51:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
+  - title: "How the conservative movement and the rise of the hard right created Donald Trump"
+    excerpt: "Author Edmund Fawcett on how the \"hard right\" — and the conflict within conservatism — led to the Trump calamity"
+    publishedDateTime: 2020-10-25T02:24:00Z
+    webUrl: "https://www.salon.com/2020/10/24/how-the-conservative-movement-and-the-rise-of-the-hard-right-created-you-know-who/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: Salon
+      domain: salon.com
+    quality: 50
+    images:
+      - url: "https://media.salon.com/2020/10/trump-reagan-thatcher-1023201.jpg"
+        width: 1692
+        height: 1142
+        isCached: true
 
 secured: "PJ18qOG/4nspSAv779u2bj9no1FK3QL/FpKL+Ared0HNFPP00h+503pdzakSE9QhNj3511fsJN5iy6iFLWi27bw5suTqhCEdwtTRaOl6M27U+GQlTD/YIh9EPH+D2cnzEoIXRZ7lL4s5JTZI7dYJugse9ol4a+F23DPRfzvcb9eUtUBFGpVJdT/GF4V/b3ra5/ATUGOyRzsdPfCPldxNSZLxuHXcC1yH7LDTWfnTJgcb+VWbKyWXESnQ99FTCS0BScfOEhFjk4YDMT19nQE0ES09nMqmTQOUdSAcP8SFcRlPH89ctnFKWXnJ+d9zxT7BSC5yxWG7d4Qmmg1WyEV4f2DMauEY/2yG9idy8F+2QJasrHFs+m41AEoxV6vkja74LthZQAxtNo68HlqplvkSjGvtKDqwu9q7hZ6eFtP77ZlZAOW+L9rHjFBX+M85FRbqx5rYbHJLKRpB0DftfeIGbPGEiX5nU62+xJwnbsC4nu7x4l0uXrClpA+lB9IhWONw9CnVy1z8OQqrRwWS4LFoPA==;xdKrJLWiaCDvjs2Xr1LC5A=="
 ---

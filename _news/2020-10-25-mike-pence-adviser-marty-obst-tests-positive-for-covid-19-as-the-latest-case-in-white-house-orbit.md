@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Timeline of the week leading up to COVID-19 outbreak in Mike Pence orbit"
+    excerpt: "Vice President Mike Pence is committed to spending the final seven days of the 2020 election on the campaign trail, despite the fact that an outbreak of the coronavirus has struck his inner circle ..."
+    publishedDateTime: 2020-10-28T05:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/timeline-week-leading-covid-19-outbreak-mike-pence/story?id=73843588"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/timeline-week-leading-covid-19-outbreak-mike-pence/story?id=73843588"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/timeline-week-leading-covid-19-outbreak-mike-pence/story?id=73843588"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Pence-ap-er-201026_1603755216184_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mike Pence's chief of staff Marc Short, 4 others test positive for COVID-19"
     excerpt: "ABC News has confirmed at least five individuals in the vice president's orbit have tested positive for the coronavirus as of Saturday night. Marc Short is among them."
     publishedDateTime: 2020-10-26T09:30:00Z
@@ -60,6 +76,22 @@ related:
     quality: 123
     images:
       - url: "https://s.abcnews.com/images/Politics/pence-campaign-01-ap-jef-201025_1603635158083_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Mike Pence's chief of staff Marc Short, other top aide test positive for COVID-19"
+    excerpt: "Two of Vice President Mike Pence's top deputies have tested positive for the coronavirus: chief of staff Marc Short and political aide Marty Obst. \"Today, Marc Short, Chief of Staff to the Vice President,"
+    publishedDateTime: 2020-10-25T12:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mike-pence_hpMain_20201024-213634_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -78,6 +110,36 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/25/bdaeb978-9219-49f6-9ea9-e24ff5096a1f/thumbnail/1200x630/afe499c7b4ca27a38a56c1948ca16e05/gettyimages-1206471082.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Vice President Mike Pence's top aides test positive for COVID-19, but he continues to work"
+    excerpt: "Mike Pence plans to preside over the Senate floor during a vote on Amy Coney Barrett's confirmation despite several of his top aides contracting COVID-19."
+    publishedDateTime: 2020-10-26T17:18:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/26/mike-pences-top-aides-test-positive-covid-19-vp-not-quarantining/6042345002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Democrats ask Vice President Mike Pence to skip Amy Coney Barrett vote over COVID risk"
+    excerpt: "A deeply torn Senate is set to confirm Amy Coney Barrett to the Supreme Court, but Democratic leaders are asking Vice President Mike Pence to stay away from presiding over Monday’s session due to potential health risks after his aides tested positive for COVID-19."
+    publishedDateTime: 2020-10-26T12:16:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/democrats-ask-vice-president-mike-pence-to-skip-amy-coney-barrett-vote-over-covid-risk.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/democrats-ask-vice-president-mike-pence-to-skip-amy-coney-barrett-vote-over-covid-risk.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/democrats-ask-vice-president-mike-pence-to-skip-amy-coney-barrett-vote-over-covid-risk.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 67
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZHVGK7ZIFBGQBINZMERJYCYJMY.jpg"
+        width: 4000
+        height: 2938
         isCached: true
   - title: "As Mike Pence speaks in Tallahassee, reports reveal 2 top aides tested positive for COVID-19"
     excerpt: "WASHINGTON – Vice President Mike Pence was in the middle of his second campaign rally in Florida at Tallahassee International Airport Saturday when Bloomberg reported that one of his closest advisers had tested positive for the novel coronavirus earlier ..."

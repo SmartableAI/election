@@ -27,189 +27,745 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence to hold rally Monday in York County"
-    excerpt: "Vice President Mike Pence will be in Fairview Township on Monday, holding a rally at the Capital City Airport in Fairview Township, according to President Donald Trump's website. The \"Make America Great Again!"
-    publishedDateTime: 2020-10-18T19:31:00Z
-    webUrl: "https://www.ydr.com/story/news/crime/2020/10/18/vice-president-mike-pence-hold-rally-monday-york-county/3703933001/"
-    ampWebUrl: "https://amp.ydr.com/amp/3703933001"
-    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3703933001"
+  - title: "Donald Trump and Mike Pence both campaign Sunday, despite coronavirus cases among vice president's staff"
+    excerpt: "Pence aides have tested positive for the virus, but he is not subject to quarantine because he is an \"essential\" government official, aides said."
+    publishedDateTime: 2020-10-25T15:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6031990002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002"
     type: article
     provider:
-      name: YDR
-      domain: ydr.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPYR/c302c7aa-57ec-4889-8356-201f2b62b871-PMK_8808.JPG?auto=webp&crop=4927,2772,x0,y495&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "See what Mike Pence's rally in York County looks like"
-    excerpt: "Vice President Mike Pence visited York County on the final day Pa. residents are eligible to vote in the 2020 Election."
-    publishedDateTime: 2020-10-19T20:28:00Z
-    webUrl: "https://www.ydr.com/story/news/2020/10/19/mike-pence-rally-pa-election-2020-york-county/5982553002/"
-    ampWebUrl: "https://amp.ydr.com/amp/5982553002"
-    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/5982553002"
+  - title: "Timeline of Trump's activities in week coronavirus hit home"
+    excerpt: "With just a month to go until the election, President Donald Trump had a busy schedule during the week the coronavirus hit home with him"
+    publishedDateTime: 2020-10-02T08:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
     type: article
     provider:
-      name: YDR
-      domain: ydr.com
-    quality: 75
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/06/07/PPYR/da6f4f53-0dec-4b1e-94a0-66b032fdc6f5-YDR-CC-6619-MikePence11.JPG?auto=webp&crop=3025,1693,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 672
+      - url: "https://s.abcnews.com/images/US/WireAP_853c33da0fb54d1f84d43da23887a16e_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Vice President Mike Pence scheduled to visit Tallahassee on Saturday"
-    excerpt: "Pence 2020 campaign stop in Tallahassee this Saturday.  Katie Miller, Pence's communications director, on Monday tweeted Pence's schedule for the week, showing stops in Tallahassee and Jacksonville but offering no details."
-    publishedDateTime: 2020-10-20T00:27:00Z
-    webUrl: "https://www.tallahassee.com/story/news/2020/10/19/report-vice-president-mike-pence-visit-tallahassee-saturday/3709719001/"
-    ampWebUrl: "https://amp.tallahassee.com/amp/3709719001"
-    cdnAmpWebUrl: "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3709719001"
+  - title: "Vice President Mike Pence, second lady test negative for coronavirus"
+    excerpt: "Spokesman Devin O’Malley says Vice President Pence “remains in good health and wishes the Trumps well in their recovery.”"
+    publishedDateTime: 2020-10-02T12:59:00Z
+    webUrl: "https://www.pbs.org/newshour/nation/vice-president-mike-pence-second-lady-test-negative-for-coronavirus"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/vice-president-mike-pence-second-lady-test-negative-for-coronavirus"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/vice-president-mike-pence-second-lady-test-negative-for-coronavirus"
     type: article
     provider:
-      name: Tallahassee Democrat
-      domain: tallahassee.com
-    quality: 75
+      name: PBS
+      domain: pbs.org
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/9e77f718-2a68-4075-94d5-e7360a7f5a9b-VicePresidentPence_Peoria_Oct8_4.JPG?auto=webp&crop=2999,1687,x0,y100&format=pjpg&width=1200"
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/pence-1024x785.jpg"
+        width: 1024
+        height: 785
+        isCached: true
+  - title: "What to know about Trump's coronavirus treatment regimen"
+    excerpt: "These are Business Insider's biggest healthcare stories for October 5."
+    publishedDateTime: 2020-10-05T13:22:00Z
+    webUrl: "https://www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-5-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-5-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-5-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f77adce2400440019129cce?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pence to keep up travel despite contact with infected aide"
+    excerpt: "The White House says Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus"
+    publishedDateTime: 2020-10-25T16:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump Prepares For Rally At U.S. Coronavirus Epicenter"
+    excerpt: "President Donald Trump is set to hold his Saturday night, primetime rally just over a week before Election Day in Wisconsin—a state at the heart of the midwestern epicenter of the coronavirus outbreak,"
+    publishedDateTime: 2020-10-25T11:14:00Z
+    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/24/trump-prepares-for-rally-at-us-coronavirus-epicenter/amp/"
+    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/24/trump-prepares-for-rally-at-us-coronavirus-epicenter/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/24/trump-prepares-for-rally-at-us-coronavirus-epicenter/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f948c9ea9e51e9c01aa12d2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D382%26cropY2%3D2914"
         width: 1200
         height: 675
         isCached: true
-  - title: "Mike Pence holding campaign rally in Oakland County"
-    excerpt: "Vice President Mike Pence will host a campaign rally in Waterford Township on Thursday with a focus on fracking, trade, the economy, and contrasting Joe Biden's record on China vs."
-    publishedDateTime: 2020-10-21T12:20:00Z
-    webUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.html"
-    ampWebUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.amp.html"
-    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.amp.html"
+  - title: "210,000 deaths later, Trump reverts to comparing the coronavirus to the flu"
+    excerpt: "They thought about it when the toll of covid-19, the disease caused by the coronavirus, passed 27,000 deaths on Apri"
+    publishedDateTime: 2020-10-06T19:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/06/210000-deaths-later-trump-reverts-comparing-coronavirus-flu/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/06/210000-deaths-later-trump-reverts-comparing-coronavirus-flu/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/06/210000-deaths-later-trump-reverts-comparing-coronavirus-flu/?outputType=amp"
     type: article
     provider:
-      name: The Oakland Press
-      domain: theoaklandpress.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/5/69/569d3f64-120f-11eb-b03b-cf485488bd15/5f8d95192e5c9.image.jpg"
-        width: 698
-        height: 392
-        isCached: true
-  - title: "Mike Pence to host campaign rally in Michigan today"
-    excerpt: "PM, You can watch it here live on wlns.com WATERFORD TOWNSHIP, Mich. (WLNS)– Proving the road to the White House runs through Michigan, for the second"
-    publishedDateTime: 2020-10-22T13:01:00Z
-    webUrl: "https://www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/"
-    ampWebUrl: "https://www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/amp/"
-    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/amp/"
-    type: article
-    provider:
-      name: WLNS.com
-      domain: wlns.com
-    quality: 75
-    images:
-      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/thumbnail_Image-2-1.jpg?w=1280"
-        width: 1280
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHXBOQQHSUI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
         height: 960
         isCached: true
-  - title: "Vice President Mike Pence will hold rally Saturday in Lakeland"
-    excerpt: "The rally will be the first official campaign event in Polk County for either of the major parties during the 2020 election."
-    publishedDateTime: 2020-10-22T19:43:00Z
-    webUrl: "https://www.theledger.com/story/news/politics/2020/10/22/vice-president-mike-pence-hold-rally-saturday-lakeland-linder-international-airport/3726543001/"
-    ampWebUrl: "https://amp.theledger.com/amp/3726543001"
-    cdnAmpWebUrl: "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/3726543001"
+  - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
+    excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
+    publishedDateTime: 2020-10-25T19:24:00Z
+    webUrl: "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
     type: article
     provider:
-      name: The Ledger
-      domain: theledger.com
-    quality: 75
+      name: CNBC
+      domain: cnbc.com
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NLED/a08dfe20-2642-4ea0-bbb3-324a0a1f78a2-AP20289725478868.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+      - url: "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769"
+        width: 2965
+        height: 1977
+        isCached: true
+  - title: "Joe Biden lays out a detailed plan to fight coronavirus as new infections soar"
+    excerpt: "Biden's plan would effectively nationalize mask wearing, Covid-19 testing, PPE procurement, reopening guidelines and vaccine distribution."
+    publishedDateTime: 2020-10-23T21:54:00Z
+    webUrl: "https://www.cnbc.com/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 121
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106759351-16034839162020-10-23t193614z_543779170_rc2joj9bymez_rtrmadp_0_usa-election-biden.jpeg?v=1603483967"
+        width: 3500
+        height: 2314
+        isCached: true
+  - title: "World leaders react after President Trump, first lady test positive for coronavirus"
+    excerpt: "World leaders expressed their hope for a swift recovery for President Donald Trump after he announced that he and the first lady tested positive for COVID-19 overnight."
+    publishedDateTime: 2020-10-03T20:23:00Z
+    webUrl: "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    ampWebUrl: "https://abcnews.go.com/amp/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/International/Boris_Johnson_201_hpMain_20201002-062128_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Amid record U.S. cases and new White House outbreak, Trump claims pandemic progress"
+    excerpt: "With U.S. coronavirus cases at record levels, President Donald Trump on Sunday repeated his refrain that the nation is \"rounding the turn\" in the pandemic, while Vice President Mike Pence pressed ahead with campaigning despite positive COVID-19 tests among multiple aides."
+    publishedDateTime: 2020-10-25T20:04:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election/amid-record-u-s-cases-and-new-white-house-outbreak-trump-claims-pandemic-progress-idUKKBN27A04S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27A04S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27A04S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538782576&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O0OK"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Hope Hicks, one of President Trump's closest advisers, tests positive for coronavirus"
+    excerpt: "Hope Hicks, one of President Donald Trump's closest advisers, has tested positive for the coronavirus, ABC News has confirmed. Hicks, who serves as counselor to the president and is among a tight group of advisers to the president,"
+    publishedDateTime: 2020-10-02T00:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/hope-hicks-president-trumps-closest-advisers-tests-positive/story?id=73377363"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/hope-hicks-president-trumps-closest-advisers-tests-positive/story?id=73377363"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/hope-hicks-president-trumps-closest-advisers-tests-positive/story?id=73377363"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/hope-hicks-ap-ps-190619_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Vice President Mike Pence to stay on campaign trail despite outbreak of COVID-19 among his senior aides"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
+    publishedDateTime: 2020-10-26T20:33:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/u0DCzdkXJN-RGYRvSSr43-jHmvc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BSXXSPCSCJF4FHNE6RFJZESBP4.aspx"
         width: 1200
         height: 675
         isCached: true
-  - title: "VP Mike Pence to hold 'MAGA' rally Saturday in Lakeland"
-    excerpt: "Vice President Mike Pence will hold a \"Make America Great Again\" rally Saturday in Lakeland. The event will be held at 3:30 p.m. at Lakeland Linder International Airport. It will be followed by a second Florida rally at 6:30 p."
-    publishedDateTime: 2020-10-22T17:26:00Z
-    webUrl: "https://www.wtsp.com/article/news/politics/national-politics/mike-pence-maga-rally/67-e83ba1bf-932d-498c-a06e-b822de09e611"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/national-politics/mike-pence-maga-rally/67-e83ba1bf-932d-498c-a06e-b822de09e611"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/national-politics/mike-pence-maga-rally/67-e83ba1bf-932d-498c-a06e-b822de09e611"
+  - title: "Trump could face a relapse, experts warn, as president downplays coronavirus threat despite massive death toll"
+    excerpt: "President Donald Trump rolled out of Walter Reed hospital confidently urging the nation not to fear the coronavirus despite experts' warning that the U.S. death toll, at more than 210,000, could almost double by year's end."
+    publishedDateTime: 2020-10-06T23:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/fauci-warns-trump-relapse-president-downplays-coronavirus-death-toll/3634631001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3634631001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634631001"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/9b1ca01d-1e46-4a77-b125-e2569de56541-GettyImages-1228897458.jpg?auto=webp&crop=4637,2608,x0,y366&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump campaign tapes voters at drop boxes, threatens lawsuit"
+    excerpt: "The Trump campaign has been videotaping people as they deposit ballots in drop boxes in Philadelphia in what it says is an attempt to catch violations, surveillance that the battleground state’s Democratic attorney general suggested could amount to illegal intimidation."
+    publishedDateTime: 2020-10-24T08:27:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-tapes-voters-at-drop-boxes-threatens-lawsuit-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-tapes-voters-at-drop-boxes-threatens-lawsuit-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-tapes-voters-at-drop-boxes-threatens-lawsuit-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Pence hits campaign trail amid WH virus outbreak"
+    excerpt: "Publish Audio Pence hits campaign trail amid WH virus outbreak. Posted [AUDIO ONLY] Vice President Mike Pence campaigned on Sunday despite a COVID-19 outbreak among his a"
+    publishedDateTime: 2020-10-26T11:09:00Z
+    webUrl: "https://www.reuters.com/video/watch/idRCV008WDL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201026&i=RCV008WDL&r=RCV008WDL&t=2"
+        width: 4262
+        height: 3240
+        isCached: true
+  - title: "President Trump, first lady test positive for coronavirus days after first debate"
+    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for COVID-19 and \"will begin our quarantine and recovery process immediately.\""
+    publishedDateTime: 2020-10-02T11:08:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/02/president-donald-trump-first-lady-test-positive-coronavirus/5892626002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f9c98f2a-76c0-49ad-9597-929b4bf1dc43-VPC_TRUMP_COVID_POSITIVE_DESK_THUMB.00_00_00_00.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump could face a relapse, experts warn, as president opts to downplay nation's coronavirus threat despite massive death toll"
+    excerpt: "President Donald Trump rolled out of Walter Reed hospital confidently urging the nation not to fear the coronavirus despite experts warning the U.S. death toll, at more than 210,000, could almost double by year's end."
+    publishedDateTime: 2020-10-06T19:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/fauci-warns-trump-relapse-president-downplays-coronavirus-death-toll/3634631001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3634631001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634631001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/9b1ca01d-1e46-4a77-b125-e2569de56541-GettyImages-1228897458.jpg?auto=webp&crop=4637,2608,x0,y366&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Multiple people in Vice President Mike Pence's orbit test positive for the coronavirus"
+    excerpt: "Vice President Mike Pence will not quarantine after multiple people in his orbit test positive for the coronavirus. Pence's press secretary says the vice president is essential personnel and will maintain his schedule."
+    publishedDateTime: 2020-10-26T12:35:00Z
+    webUrl: "https://www.cbsnews.com/video/multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/ea344a62-27f3-43f3-bc18-064eec3db129/thumbnail/1200x630/2b643b630ac6e7dca1e24427c4417fa2/cbsn-fusion-multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus-thumbnail-574507-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "United States cannot replace President Trump as defendant in columnist’s lawsuit related to rape allegation, federal judge rules"
+    excerpt: "A federal judge on Tuesday denied President Donald Trump’s request that the United States replace him as the defendant in a defamation lawsuit alleging he raped a woman."
+    publishedDateTime: 2020-10-28T02:43:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 96
+    images:
+      - url: "https://www.chicagotribune.com/resizer/9T6xM9WwzncJC1U9YusfCXeCFF0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSWZ6OW4UASM2Y33DIGJOP55QE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vice President Mike Pence to stay on campaign trail despite exposure to chief of staff Marc Short, who tested positive for COVID-19"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
+    publishedDateTime: 2020-10-25T12:19:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 95
+    images:
+      - url: "https://www.chicagotribune.com/resizer/u0DCzdkXJN-RGYRvSSr43-jHmvc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BSXXSPCSCJF4FHNE6RFJZESBP4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Coronavirus updates: Donald Trump, Nancy Pelosi, Mitch McConnell face stimulus deal deadline; Sturgis rally linked to cases; 219K US deaths"
+    excerpt: "Monday talks could determine the fate of a stimulus package President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest news."
+    publishedDateTime: 2020-10-18T23:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pence brings Trump’s closing message to Florida’s capital city"
+    excerpt: "Pence also continued the Trump administration’s focus on a positive spin about how they have handled the virus. The vice president promised a COVID-19 vaccine by the end of the year and vowed to reopen the economy and schools."
+    publishedDateTime: 2020-10-25T01:47:00Z
+    webUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/"
+    ampWebUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 90
+    images:
+      - url: "https://www.tampabay.com/resizer/BYIRCtzhvxKarsiUDB61KZGh2YA=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/47HOJ2DIOZCQHJESLMYKRGX44M.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Vice-President Mike Pence to miss Trump Supreme Court vote"
+    excerpt: "President Mike Pence is expected to miss a vote confirming Donald Trump's Supreme Court nominee, his aides have said. Mr Pence will reportedly stay in Minnesota where he is campaigning. Democrats are trying desperately to delay the vote as the Republican-controlled Senate nears confirmation."
+    publishedDateTime: 2020-10-26T23:15:00Z
+    webUrl: "https://www.bbc.co.uk/news/election-us-2020-54693599"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/election-us-2020-54693599"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/election-us-2020-54693599"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 90
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/100E7/production/_115076756_acbindex.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally"
+    excerpt: "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ..."
+    publishedDateTime: 2020-10-21T19:58:00Z
+    webUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/"
+    ampWebUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 87
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems01.jpg?w=1024&h=755"
+        width: 1024
+        height: 755
+        isCached: true
+  - title: "Forbes Estimates China Paid Trump At Least $5.4 Million Since He Took Office, Via Mysterious Trump Tower Lease"
+    excerpt: "Donald Trump maintained a stake in Trump Tower when he became president, and with it, a financial connection to the Chinese government."
+    publishedDateTime: 2020-10-24T01:19:00Z
+    webUrl: "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f92da59cdd9baa8c7aac7f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Pence speaks about another round of Stimulus Checks"
+    excerpt: "Vice President Pence was in the “Keystone State” to plead his case for four more years of President Trump. While visiting he was asked about the concerns of the COVID-19 stimulus and"
+    publishedDateTime: 2020-10-18T16:13:00Z
+    webUrl: "https://www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/"
+    ampWebUrl: "https://www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/amp/"
+    cdnAmpWebUrl: "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/amp/"
+    type: article
+    provider:
+      name: Wane
+      domain: wane.com
     quality: 75
     images:
-      - url: "https://media.wtsp.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://www.wane.com/wp-content/uploads/sites/21/2020/10/GettyImages-1218977241-1.jpg?w=1280"
+        width: 724
+        height: 483
         isCached: true
-  - title: "In Berks County, Vice President Mike Pence makes his case for four more years"
-    excerpt: "He touted President Donald Trump and the administration's accomplishments: \"That's what leadership looks like.\""
-    publishedDateTime: 2020-10-17T20:30:00Z
-    webUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.html"
-    ampWebUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
-    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
+  - title: "Trump goes after Fauci, tries to buck up his campaign team"
+    excerpt: "President Donald Trump sought Monday to buck up his campaign staff two weeks from Election Day, dismissing the cautionary coronavirus advice of his scientific experts as well as polling showing him trailing Democratic rival Joe Biden across key battleground states."
+    publishedDateTime: 2020-10-19T19:17:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
     type: article
     provider:
-      name: Daily Local News
-      domain: dailylocal.com
-    quality: 72
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/3/ee/3eeb823e-71d6-507c-ad7b-048ace5ca669/5f8bb6dee2c0a.image.jpg?resize=1024%2C735"
-        width: 1024
-        height: 735
+      - url: "https://s.hdnux.com/photos/01/14/61/52/20126397/73/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
-  - title: "VP Mike Pence headlining Hermon rally on Monday in 1st Maine visit"
-    excerpt: "The rally at the Dysarts Service station set for 11:30 a.m. is among at least two stops Pence will make on Monday."
-    publishedDateTime: 2020-10-17T07:33:00Z
-    webUrl: "https://bangordailynews.com/2020/10/16/politics/pence-coming-to-maine-on-monday/"
+  - title: "Vice President Mike Pence to rally in Kinston, NC on Sunday"
+    excerpt: "Pence's schedule has him in Minnesota the next day. Doors open at 4 p.m. and close at 5:30 p.m. Campaign officials said both rallies will feature remarks from Vice President Mike Pence and Republican candidates. The news release said President Trump and ..."
+    publishedDateTime: 2020-10-23T17:23:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
     type: article
     provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 75
     images:
-      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Election-2020-Pence-2.jpg?fit=1024%2C683&#038;ssl=1"
+      - url: "https://media.wfmynews2.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Vice President Mike Pence will host rally in Kinston on Sunday"
+    excerpt: "KINSTON, N.C. (WTVD) -- With a little more than a week before the election, Vice President Mike Pence will visit the Tar Heel state for a planned rally one day after President Donald Trump."
+    publishedDateTime: 2020-10-23T17:14:00Z
+    webUrl: "https://abc11.com/politics/vice-president-pence-will-host-rally-in-kinston-on-sunday/7275528/"
+    ampWebUrl: "https://abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 75
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mike Pence to keep up travel despite contact with infected aide"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said Saturday."
+    publishedDateTime: 2020-10-25T03:52:00Z
+    webUrl: "https://www.denverpost.com/2020/10/24/mike-pence-chief-of-staff-tests-coronavirus/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/24/mike-pence-chief-of-staff-tests-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/24/mike-pence-chief-of-staff-tests-coronavirus/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/AP20299110164423.jpg?w=1024&h=683"
         width: 1024
         height: 683
         isCached: true
-  - title: "Vice President Mike Pence to hold campaign rally in South Carolina on Tuesday"
-    excerpt: "Campaign officials say all attendees “will be given a temperature check, masks which they are instructed to wear, and access to hand sanitizer.”"
-    publishedDateTime: 2020-10-25T07:23:00Z
-    webUrl: "https://www.live5news.com/2020/10/24/vice-president-mike-pence-hold-campaign-rally-south-carolina-tuesday/"
+  - title: "Vice President Mike Pence’s top aide tests positive for coronavirus"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said Saturday. Pence himself tested negative,"
+    publishedDateTime: 2020-10-25T04:03:00Z
+    webUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
     type: article
     provider:
-      name: Live 5 News
-      domain: live5news.com
-    quality: 52
+      name: MassLive
+      domain: masslive.com
+    quality: 75
     images:
-      - url: "https://www.live5news.com/resizer/xYNk5LfUmwdqaDzypZKMR-Faiwg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/ZIPDC6UTKZD2BLSWDSTI7LDJTE.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KTIDZGVA4VEXFPEH37ETNHERVA.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
+  - title: "Vice President Mike Pence schedules campaign rally in Flint Wednesday"
+    excerpt: "Vice President Mike Pence is coming back to Michigan Wednesday with only six days left until the Nov. 3 presidential election. The Trump campaign announced Pence will hold a campaign rally at Bishop International Airport in Flint on Oct."
+    publishedDateTime: 2020-10-26T17:26:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2AUJ4FPUWVA7PJPYE6YQN23GGQ.JPG"
+        width: 1300
+        height: 867
+        isCached: true
+  - title: "Mike Pence's chief of staff, top adviser both test positive for coronavirus"
+    excerpt: "Sources tell ABC News, Marc Short, Chief of Staff to the Vice President Mike Pence has tested positive for COVID-19. And top adviser Marty Obst has also tested positive for coronavirus earlier ..."
+    publishedDateTime: 2020-10-25T03:43:00Z
+    webUrl: "https://abc7.com/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    ampWebUrl: "https://abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 73
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7316573_102420-ap-mike-pence-img.jpg"
+        width: 3422
+        height: 2281
+        isCached: true
+  - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
+    excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"
+    publishedDateTime: 2020-10-22T21:15:00Z
+    webUrl: "https://www.nhpr.org/post/vp-mike-pence-campaigns-trump-portsmouth"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 70
+    images:
+      - url: "https://www.nhpr.org/sites/nhpr/files/styles/medium/public/202010/PencePorts_102120_JRogers_0.jpg"
+        width: 625
+        height: 469
+        isCached: true
+  - title: "VP Mike Pence headed back to Minnesota as Trump campaign revives TV ads"
+    excerpt: "Vice President Mike Pence will return to Minnesota on Monday as President Donald Trump’s campaign bolsters its advertising on state airwaves after pulling back in recent weeks. Pence is scheduled to hold a rally at the regional airport in Hibbing ..."
+    publishedDateTime: 2020-10-23T17:53:00Z
+    webUrl: "https://www.startribune.com/vp-mike-pence-headed-back-to-minnesota-as-trump-campaign-revives-tv-ads/572845222/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/ows_9babe6fb-0a7f-420a-9f48-8d32d2cfad36.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mike Pence Defies Quarantine As White House Deems His Campaign Presence ‘Essential’"
+    excerpt: "After exposure to multiple COVID-positive aides, Pence’s essential work this week includes traveling to rallies on Sunday, Monday, and Tuesday."
+    publishedDateTime: 2020-10-26T04:54:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/10/pence-ignores-quarantine-because-he-is-an-essential-worker.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/10/pence-ignores-quarantine-because-he-is-an-essential-worker.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/pence-ignores-quarantine-because-he-is-an-essential-worker.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 69
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/2aa/6aa/ee78b883fc654b489633a7ddeee4b7b4c3-GettyImages-1229222282.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VP Mike Pence to continue campaigning after chief of staff tests positive for coronavirus"
+    excerpt: "Pence spokesman Devin O’Malley said Pence and his wife, Karen Pence, both tested negative for the virus on Saturday."
+    publishedDateTime: 2020-10-25T03:34:00Z
+    webUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/"
+    ampWebUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 66
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
+        width: 1024
+        height: 579
+        isCached: true
+  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
+    excerpt: "Mike Pence's chief of staff, his senior political adviser and at least one other staffer have tested positive for the coronavirus, reports said."
+    publishedDateTime: 2020-10-25T03:20:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6028911002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6028911002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence rallies base during MAGA rally in Fort Wayne"
-    excerpt: "The Hoosier state is a stronghold for Republicans, which experts say, raises the question of why the vice president is campaigning here in the critical two weeks prior to the election. Political science associate professor Doctor Laura Wilson told us this is about supporting other Republicans on the ballot and getting as many Hoosiers to the polls as possible."
-    publishedDateTime: 2020-10-23T22:43:00Z
-    webUrl: "https://fox59.com/video/vice-president-mike-pence-rallies-bese-during-maga-rally-in-fort-wayne/5962269/"
+  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
+    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
+    publishedDateTime: 2020-10-25T18:11:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6028911002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6028911002"
     type: article
     provider:
-      name: FOX59 News
-      domain: fox59.com
+      name: Tennessean
+      domain: tennessean.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Legendary Florida State coach Bobby Bowden says he beat coronavirus to vote for Donald Trump"
+    excerpt: "The Florida State coaching legend added another win to his career total, it just didn’t come on a football field. Bowden, 91, beat coronavirus. His motivation? He says it was so he could participate in the presidential election in November."
+    publishedDateTime: 2020-10-22T14:44:00Z
+    webUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html"
+    ampWebUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 64
+    images:
+      - url: "https://www.nydailynews.com/resizer/n86PgTsxzNsdGCH3r9bUqsW9kQo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7VS5ZK3VDHRSTYX6YFC7QYAD7A.aspx"
+        width: 1200
+        height: 816
+        isCached: true
+  - title: "Trump Spox Hogan Gidley Says He Doesn’t Want to ‘Quibble Over Semantics’ on WH Claim Trump Ended Coronavirus"
+    excerpt: "Hogan Gidley, press secretary for President Donald Trump's campaign, was grilled about the claim that one of Trump's accomplishments has been \"ending the Covid-19 pandemic,\" and responded by referring to the false claim as a matter of \"semantics."
+    publishedDateTime: 2020-10-28T22:34:00Z
+    webUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/"
+    ampWebUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 56
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Alisyn-Camerota-Hogan-Gidley-10-28.jpg"
+        width: 1200
+        height: 624
+        isCached: true
+  - title: "The Coronavirus Cases In Trump's Inner Circle"
+    excerpt: "The coronavirus has not only reached the White House, infecting President Donald Trump, but it has also spread among members of his family, inner circle and his Republican allies. The following is a list of some of the people surrounding the American president who have tested positive for Covid-19: Trump,"
+    publishedDateTime: 2020-10-06T01:25:00Z
+    webUrl: "https://www.ibtimes.com/coronavirus-cases-trumps-inner-circle-3057171"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/this-combination-of-file-pictures-shows-l-r.jpg"
+        width: 768
+        height: 768
+        isCached: true
+  - title: "Trump Ready for 1st Rally Since Contracting Coronavirus"
+    excerpt: "President Donald Trump is returning to the campaign trail as he tries to stage a late comeback just a week after his release from the hospital over a serious case of COVID-19."
+    publishedDateTime: 2020-10-12T21:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Vice President Mike Pence To Campaign In Oakland County Thursday"
+    excerpt: "(CBS DETROIT) – Vice President Mike Pence is returning to Michigan Thursday for a campaign rally. The visit comes less than two weeks before Election Day and before the second presidential ..."
+    publishedDateTime: 2020-10-22T16:12:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/amp/"
+    type: article
+    provider:
+      name: CBS Detroit
+      domain: cbslocal.com
+    quality: 55
+  - title: "Several People in Vice President Mike Pence’s World Now Have Covid-19"
+    excerpt: "At least five people in Vice President Mike Pence’s inner circle have tested positive for the coronavirus, according to a report from CNN. That tally includes some of his closest advisors, including his chief of staff Marc Short and an advisor named Marty Orbst."
+    publishedDateTime: 2020-10-25T15:25:00Z
+    webUrl: "https://www.motherjones.com/coronavirus-updates/2020/10/several-people-in-vice-president-mike-pences-world-now-have-covid-19/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 55
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/pencenormalize-10820.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Plans Battleground Blitz Despite Growing Virus Worries"
+    excerpt: "President Donald Trump plans to intensify an already breakneck travel schedule in the final full week of the presidential campaign despite growing worries about the coronavirus nationwide."
+    publishedDateTime: 2020-10-26T13:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Vice President Mike Pence heads to Iron Range despite outbreak among his staff"
+    excerpt: "A brisk wind blew across the runway hours ahead of Vice President Mike Pence’s campaign visit to the Range Regional Airport here Monday. About 250 chairs were spaced out as attendees slowly filed in after many waited in their cars,"
+    publishedDateTime: 2020-10-26T20:44:00Z
+    webUrl: "https://www.startribune.com/vice-president-mike-pence-heads-to-iron-range-despite-outbreak-among-his-staff/572872951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 51
+    images:
+      - url: "https://stmedia.stimg.co/1603746270_08+1011869285+23PENCE102720.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Pence Campaigns in Maine"
+    excerpt: "President Pence delivers remarks at a campaign rally in Hermon, Maine. Vice President Pence delivers remarks at a campaign rally in Hermon, Maine. President Trump delivered remarks at a campaign rally in Macon,"
+    publishedDateTime: 2020-10-19T13:34:00Z
+    webUrl: "https://www.c-span.org/video/?477109-1/vice-president-pence-campaigns-maine"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
     quality: 35
-  - title: "VP Mike Pence to rally Friday at Allegheny County Airport in West Mifflin"
-    excerpt: "Vice President Mike Pence is stumping again in Western Pennsylvania, with a political rally planned for Friday afternoon at the Allegheny County Airport. Pence is set to deliver remarks at a “Make America Great Again Victory” rally to be held at Lynx FBO hangar at the airport in West Mifflin,"
-    publishedDateTime: 2020-10-22T22:16:00Z
-    webUrl: "https://triblive.com/news/politics-election/vp-mike-pence-to-hold-rally-friday-at-allegheny-county-airport-in-west-mifflin/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 34
-  - title: "VP Mike Pence to hold rally Friday at Allegheny County Airport in West Mifflin"
-    excerpt: "Vice President Mike Pence is stumping again in Western Pennsylvania at a political rally planned for Friday afternoon, campaign officials said. Pence is set to deliver remarks at a “Make America Great Again Victory” rally to be held at Lynx FBO hangar at Allegheny County Airport in West Mifflin,"
-    publishedDateTime: 2020-10-22T22:16:00Z
-    webUrl: "https://triblive.com/news/politics-election/vp-mike-pence-to-hold-rally-friday-at-allegheny-county-airport-in-west-mifflin/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 31
 
 secured: "t6FeDOjiTjEYupS0xut3OthSfUFU/Fng6h5Fghw5MswiUKE3r1ubAqcXwprEvIb7Nv0JQmYMv1sB0TOM+YTru1t90nACflMYS2ll/piOsl3yQbx11ATOj6bONuexwCevPFI2aNjg75tI32XHzvlqg19OXvELdIT/673YZ3EmnIrMHqk1SoYQ6hgougUFKauaKuvylfrcfEZym7/XAE4N4trGWNTxoBd/JaiA9WvK/7GB9lpPX+cexxPZ9rfh/pUSwYYCWal7JbSxzYhr+wF2uZdwdG25T0mS98po13JFIpEr7kbC9VZ2gO52Tu0LeH2iCBZBXHhXXVWbxh2UxADuA7OC3J8VRhDK16IU93tu/hE=;6Ps9k+sb/9qhe7t6BoNcBA=="
 ---

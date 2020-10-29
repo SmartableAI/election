@@ -27,111 +27,78 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Pence to visit Portsmouth this week"
-    excerpt: "Vice President Mike Pence is scheduled to return to New Hampshire for a campaign event. Sources said Pence will be in Portsmouth for the event, but exact details of the visit have not been released. President Donald Trump’s son Eric Trump is scheduled be in Manchester on Monday for an event at the DoubleTree Hotel."
-    publishedDateTime: 2020-10-19T03:08:00Z
-    webUrl: "https://www.wmur.com/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
-    ampWebUrl: "https://www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
+  - title: "Pence touts GOP candidates, support for fishermen in Maine"
+    excerpt: "Vice President Mike Pence used a Monday appearance in Maine to tout Republican politicians in the state and boast about the federal government's support for lobster fishermen. Pence held a rally in Hermon,"
+    publishedDateTime: 2020-10-20T10:55:00Z
+    webUrl: "https://www.expressnews.com/news/article/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php"
+    ampWebUrl: "https://www.expressnews.com/news/amp/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
+      name: San Antonio Express-News
+      domain: expressnews.com
     quality: 75
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-in-laconia-922-1600804976.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
+      - url: "https://s.hdnux.com/photos/01/14/63/11/20132449/3/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
-  - title: "Vice President Mike Pence scheduled to visit Jacksonville on Saturday"
-    excerpt: "Jacksonville FL — Vice President Mike Pence is scheduled to make a campaign stop in Jacksonville on Saturday. Pence’s communications director Katie Miller tweeted that Pence would also be visiting Tallahassee on Saturday as well. Details about Pence ..."
-    publishedDateTime: 2020-10-19T22:58:00Z
-    webUrl: "https://www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/"
-    ampWebUrl: "https://www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/?outputType=amp"
+  - title: "Mike Pence holds rally in eastern Maine"
+    excerpt: "Vice President Mike Pence spoke to supporters during a campaign rally at Dysart's in Hermon, Maine, on Oct. 19."
+    publishedDateTime: 2020-10-19T23:51:00Z
+    webUrl: "https://bangordailynews.com/2020/10/19/bdn-videos/mike-pence-holds-rally-in-eastern-maine/"
     type: article
     provider:
-      name: WOKV
-      domain: wokv.com
-    quality: 75
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/23PKWX22FQ5XKKKYT7SOUCDWB4.jpg"
-        width: 3686
-        height: 2658
+      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Pence-B-LCO-1.jpg?fit=1024%2C625&#038;ssl=1"
+        width: 1024
+        height: 625
         isCached: true
-  - title: "Live at 1:30: VP Mike Pence visits Portsmouth for rally"
-    excerpt: "Vice President Mike Pence will be in the Granite State on Wednesday for a campaign event. He is scheduled to speak to supporters at a rally in Portsmouth at 1:30 p.m. The event will be streamed live above this article on WMUR."
-    publishedDateTime: 2020-10-21T14:28:00Z
-    webUrl: "https://www.wmur.com/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499"
-    ampWebUrl: "https://www.wmur.com/amp/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499"
+  - title: "Photo Gallery: Maine Republicans greet Mike Pence in Hermon"
+    excerpt: "Speaking to a crowd of several hundred people gathered Monday in a Hermon truck yard, Vice President Mike Pence urged voters to \"go get it done\" with just 15 days remaining before Election Day."
+    publishedDateTime: 2020-10-20T11:17:00Z
+    webUrl: "https://www.sunjournal.com/2020/10/20/photo-gallery-maine-republicans-greet-mike-pence-in-hermon/"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
-    quality: 75
+      name: Sun Journal
+      domain: sunjournal.com
+    quality: 55
     images:
-      - url: "https://kubrick.htvapps.com/vidthumb/4dfa3c67-5b19-4231-9760-11d8900b7c67/4dfa3c67-5b19-4231-9760-11d8900b7c67_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/10/20347226_18pence-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "'It's on, North Carolina': Vice President Pence greets supporters in Selma"
-    excerpt: "Vice President Mike Pence traveled to Selma on Friday for a \"Make America Great Again\" event at The Farm at 95. Supporters were lined up well before the 2:30 p.m. event. \"I'm here for one reason and one reason only,"
-    publishedDateTime: 2020-10-16T21:38:00Z
-    webUrl: "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/"
-    ampWebUrl: "https://abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/"
+  - title: "Watch: VP Mike Pence’s rally in Maine"
+    excerpt: "Vice President Mike Pence will headline a rally in Hermon on Monday morning as President Donald Trump looks to be locked in a tight race with Democratic nominee Joe Biden in Maine’s 2nd Congressional District."
+    publishedDateTime: 2020-10-19T18:05:00Z
+    webUrl: "https://bangordailynews.com/2020/10/19/politics/watch-live-vp-mike-pences-rally-in-maine/"
     type: article
     provider:
-      name: WTVD
-      domain: abc11.com
-    quality: 73
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/7084491_101620-wtvd-Gloria-5pm-Pence-in-Selma-vid.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Election-2020-Pence-3.jpg?fit=1024%2C718&#038;ssl=1"
+        width: 1024
+        height: 718
         isCached: true
-  - title: "Details of Vice President Mike Pence visit to Tallahassee still up in the air"
-    excerpt: "Mike Pence will fly to Tallahassee Saturday after promoting early voting in Pennsylvania. But no one yet can say exactly where and when he'll be in town."
-    publishedDateTime: 2020-10-22T16:12:00Z
-    webUrl: "https://www.tallahassee.com/story/news/politics/2020/10/22/mike-pence-tallahassee-vice-president-donald-trump-florida/3727672001/"
-    ampWebUrl: "https://amp.tallahassee.com/amp/3727672001"
-    cdnAmpWebUrl: "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3727672001"
+  - title: "Janet Mills criticizes Mike Pence for Hermon campaign rally"
+    excerpt: "Credit: Linda Coan O'Kresik / BDN Gov. Janet Mills on Tuesday admonished Vice President Mike Pence a day after he headlined an outdoor campaign rally in Hermon where a large crowd violated state ..."
+    publishedDateTime: 2020-10-20T22:35:00Z
+    webUrl: "https://bangordailynews.com/2020/10/20/politics/janet-mills-criticizes-mike-pence-for-hermon-campaign-rally/"
     type: article
     provider:
-      name: Tallahassee Democrat
-      domain: tallahassee.com
-    quality: 72
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NLED/a08dfe20-2642-4ea0-bbb3-324a0a1f78a2-AP20289725478868.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Pence-P-LCO.jpg?fit=2500%2C1425&#038;ssl=1"
+        width: 2500
+        height: 1425
         isCached: true
-  - title: "Vice President Mike Pence, second lady Karen Pence to make separate stops in North Carolina next week"
-    excerpt: "In the homestretch leading up to Election Day, the Trump/Pence campaign announced both Vice President Mike Pence and second lady Karen Pence will make stops in battleground North Carolina next week."
-    publishedDateTime: 2020-10-25T01:35:00Z
-    webUrl: "https://abc11.com/politics/mike-karen-pence-to-make-separate-stops-in-north-carolina-next-week/7314278/"
-    ampWebUrl: "https://abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
-    type: article
-    provider:
-      name: WTVD
-      domain: abc11.com
-    quality: 60
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Vice President Pence Delivers Remarks in Selma, North Carolina"
-    excerpt: "Vice President Pence delivers remarks at a campaign rally in Selma, North Carolina. President Trump delivered remarks at a campaign rally in Greenville, NC, less than three weeks before Election Day and on the first"
-    publishedDateTime: 2020-10-16T13:32:00Z
-    webUrl: "https://www.c-span.org/video/?477055-1/vice-president-pence-delivers-remarks-selma-north-carolina"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "QmQtSbzmkmenuTylWylc6rutIFhDB+tNzUsKvI6t1ebkPkN91kU5W+lpat0Qe4fJeobIjBO4G2seAM3wx59W4JQ5rUdSs7P6NR+T7eTB2cDR3/QamBNQLRFzRuZALNx2U7amiWjvEaT41j6C7hIRY64/JSPLzl3iNw8kax5aQ7e9+AQnVmkAKHldK3N/Kv3L6zsN5gNXgHq2V5VHViKmh8YWTDv/ODCkS/O5Wb2zQamdj0Dh9J5iTUYWCgrbJ72Oc9CowgsBa+SbrEeDjr9LPU1cFVLco/jj6p+gXHfyGfXF9skGFDBgx2b/UPUDVK0/EikqOzbL2VFW4JCsLK6LLJ4WFL/tm7iBrxbD2ov2EZ8=;ERcO3yccxtIJfctNFh1v1Q=="
 ---

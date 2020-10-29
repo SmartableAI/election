@@ -73,37 +73,21 @@ related:
         width: 1024
         height: 749
         isCached: true
-  - title: "Vice President Pence speaks about another round of Stimulus Checks"
-    excerpt: "Vice President Pence was in the “Keystone State” to plead his case for four more years of President Trump. While visiting he was asked about the concerns of the COVID-19 stimulus and"
-    publishedDateTime: 2020-10-18T16:13:00Z
-    webUrl: "https://www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/"
-    ampWebUrl: "https://www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/amp/"
-    cdnAmpWebUrl: "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/amp/"
+  - title: "Here's what Vice President Mike Pence might talk about during Fort Wayne campaign stop"
+    excerpt: "Vice President Mike Pence will stump for President Donald Trump in Indiana Thursday at the Fort Wayne Aero Center."
+    publishedDateTime: 2020-10-22T10:05:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/22/vice-president-mike-pence-campaign-fort-wayne-indiana-thursday/6006586002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6006586002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6006586002"
     type: article
     provider:
-      name: Wane
-      domain: wane.com
-    quality: 75
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 67
     images:
-      - url: "https://www.wane.com/wp-content/uploads/sites/21/2020/10/GettyImages-1218977241-1.jpg?w=1280"
-        width: 724
-        height: 483
-        isCached: true
-  - title: "Vice President Mike Pence will host rally in Kinston on Sunday"
-    excerpt: "KINSTON, N.C. (WTVD) -- With a little more than a week before the election, Vice President Mike Pence will visit the Tar Heel state for a planned rally one day after President Donald Trump."
-    publishedDateTime: 2020-10-23T17:14:00Z
-    webUrl: "https://abc11.com/politics/vice-president-pence-will-host-rally-in-kinston-on-sunday/7275528/"
-    ampWebUrl: "https://abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/"
-    type: article
-    provider:
-      name: WTVD
-      domain: abc11.com
-    quality: 75
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice President Pence speaks at Reading Regional Airport"
     excerpt: "BERN TWP., Pa. -- Hundreds of supporters of President Trump gathered at Reading Regional Airport Saturday to hear from Vice President Mike Pence. It's the first time a sitting Vice President has come to Berks County since 2002 when Dick Cheney visited ..."
@@ -118,6 +102,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/97/197d2af2-3955-57f9-a37e-d506b801d511/5f8b945d9b476.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Vice President Mike Pence speaks at Fort Wayne rally"
+    excerpt: "Vice President Mike Pence held a \"Make America Great Again!\" rally at 4:30 p.m. Thursday at the Fort Wayne Aero Center. Pence was originally supposed to visit Indiana for some events and to vote on Oct."
+    publishedDateTime: 2020-10-23T04:19:00Z
+    webUrl: "https://www.idsnews.com/article/2020/10/vice-president-mike-pence-speaks-at-fort-wayne-rally"
+    type: article
+    provider:
+      name: Indiana Daily Student
+      domain: idsnews.com
+    quality: 55
+    images:
+      - url: "https://snworksceo.imgix.net/ids/7f9101a9-b3e1-4dad-88e4-27a90a110a1b.sized-1000x1000.png?w=800&h=600"
+        width: 774
+        height: 600
         isCached: true
 
 secured: "H1PS+vHPRtImqzOuorW69i4HM46H+p9aw38AHqE+8E2UN20l7TQDDugsLyudj36ags8W5a6lWPd4WLdrYO98yhoJpZJKbzcCdcumIhyVy8eao8B7xRk+LbeC2V076VXoAddSGWKQKL+C0nCZqWC/2j82snl3MCdkOce1RgM3l6cklUYAMR8b5zqbwQOYo9YAXNj6z6ebK7SMVnaLg3zxnHNX/9Ix4tDHuWITSNDsLMkfOg1/jp2EUeQf/y1jeLM++VyQWa+x4TIUrLoJFwQFG93x54nUQPfRoBvi6UYJ2PUtL1wOqIoROY9RwvpRCxuUNc3B3/MTWpboS2vefGObn9Li1x4HKpa4W1Xlx6IaeTU=;bzo1huxCwshr0q9ELOy3TA=="

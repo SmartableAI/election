@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azfamily.com/news/politics/election_headquarters/vice-pr
 cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.amp.html"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/19/PMJS/f9f3e6eb-2751-4e0a-90ba-fde31c22a82c-MJS_Pence_nws_sears_10.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Mike Pence coming to West Mifflin for rally Friday"
+    excerpt: "Vice President Mike Pence will be in West Mifflin on Friday for a Make America Great Again Victory Rally. Pence will be joined by Rep. Mike Kelly and Luke Negron at the event, which will be held at Lynx FBO Pittsburgh on Lebanon Road."
+    publishedDateTime: 2020-10-22T11:11:00Z
+    webUrl: "https://www.wpxi.com/news/top-stories/vice-president-mike-pence-coming-west-mifflin-rally-friday/MMWS27SUUNCJ7L2GVEX4WNK6KU/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 55
+    images:
+      - url: "https://www.wpxi.com/resizer/k80XdFUY9-oMERdPVWgTMszBQPM=/1200x628/d1hfln2sfez66z.cloudfront.net/08-27-2020/t_1b5fc946b12544e2ada6fbef1564f361_name_Mike_Pence_What_you_need_to_know_5f47b61b836f805692005f63_1_Aug_27_2020_13_44_39_poster.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "GXSK3A7j6EbEhhmgp7dab7i8lnoVL/AXx6qXV/xnaNEKhDrou+teKfEzMxDcQcVe9Yc6jNOAz6xyqLpKQ6tsKP8AUB4JTQVIGAdS6onwkZFCQbzk4U9LxXU3EozILpOo/3AjfWYfmUfeTUzdRFn2vY5/hpk8aA+BoaP7xxYZ8NEUoPtN5hj/JnXmNStTTNV4x7ASOllMVr6GD0XdsjW1PxUaNoMMKf9WhlfUSknmWfxEYyglfRM6X1gmuJ8fvMc9HoHE2VXSsfjch+ZFiFvta/fspi9KEdyc9oMyjg21HLoelkv88cf21Nj72B2Qlpa+pqdYUOVokNToOLGDResBfuHfMgjtSAaUqifgPq83FHQ=;niug02VwbcZQNgl0U55FUA=="

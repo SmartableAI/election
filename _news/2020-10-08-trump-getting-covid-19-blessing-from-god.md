@@ -617,22 +617,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump could face a relapse, experts warn, as president downplays coronavirus threat despite massive death toll"
-    excerpt: "President Donald Trump rolled out of Walter Reed hospital confidently urging the nation not to fear the coronavirus despite experts' warning that the U.S. death toll, at more than 210,000, could almost double by year's end."
-    publishedDateTime: 2020-10-06T23:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/fauci-warns-trump-relapse-president-downplays-coronavirus-death-toll/3634631001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3634631001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634631001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/9b1ca01d-1e46-4a77-b125-e2569de56541-GettyImages-1228897458.jpg?auto=webp&crop=4637,2608,x0,y366&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump told Sean Hannity he was still waiting on his COVID-19 test, when in fact he already had a positive result"
     excerpt: "President Donald Trump told Hannity he was waiting on the results of a test. Reports later suggested he by then knew an initial test was positive."
     publishedDateTime: 2020-10-05T12:04:00Z

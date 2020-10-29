@@ -43,22 +43,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Mike Pence Defies Quarantine As White House Deems His Campaign Presence ‘Essential’"
-    excerpt: "After exposure to multiple COVID-positive aides, Pence’s essential work this week includes traveling to rallies on Sunday, Monday, and Tuesday."
-    publishedDateTime: 2020-10-26T04:54:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/10/pence-ignores-quarantine-because-he-is-an-essential-worker.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/10/pence-ignores-quarantine-because-he-is-an-essential-worker.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/pence-ignores-quarantine-because-he-is-an-essential-worker.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 69
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/2aa/6aa/ee78b883fc654b489633a7ddeee4b7b4c3-GettyImages-1229222282.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "2/CjwmrMktXTdNADsj2PIMPOFHv6FIZHbtbp0Xm75VkCm/G7dvvF3u0bfPxPMMlyawTguSDHcdHNKQucR83mBc7CaP4b43NmjUk/TTByOE60bJl4rqzCpEeQtrRD5FpVnHNtZBWwNT67eC0NKKx5yQAHV+wh/+ObtD3uvqs2M0t8dfbKtI+olBFyVfqucvStPnWJ2cAB++GIbLY8O7eCvip23aT6r/qjxjHBibtNRfLI0hezKZBfQoiq6GJtayWkplGLrQB1h4UTbwv8sZf+1U8JjtSaNQ7ztW2stwkNPgxFOiWaYyywO0CBs8N787HyYp4Zp6RfQGKJlNRdCjiB0+Ki+wbnMNnvt5L60L3MWOp9EBtWwzhTzzQHtch80tfvR5OKVaHrUxFAzsLKNfHc3NlTEGRQ7PIsTqS+m5gTLzy3N56LryldEuKJPeKcf+jOVm3womo46LQje1vt/gchOd5br5gqrIPdUhNcmYKDJfimKu0c6IOOFfAKypSyDO0gCoaJQ7y05PdUMOL64axfXQ==;7PywBp2dmZUr4Rk3o9jPFw=="
 ---

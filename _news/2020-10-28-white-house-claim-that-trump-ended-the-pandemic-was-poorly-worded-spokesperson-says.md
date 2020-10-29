@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-cla
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/amp/"
 type: article
 quality: 117
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Spox Hogan Gidley Says He Doesn’t Want to ‘Quibble Over Semantics’ on WH Claim Trump Ended Coronavirus"
-    excerpt: "Hogan Gidley, press secretary for President Donald Trump's campaign, was grilled about the claim that one of Trump's accomplishments has been \"ending the Covid-19 pandemic,\" and responded by referring to the false claim as a matter of \"semantics."
-    publishedDateTime: 2020-10-28T22:34:00Z
-    webUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/"
-    ampWebUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 56
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Alisyn-Camerota-Hogan-Gidley-10-28.jpg"
-        width: 1200
-        height: 624
-        isCached: true
   - title: "Mission Accomplished? White House Science Office Credits Trump for ‘Ending the Covid-19 Pandemic’ as a First-Term Accomplishment"
     excerpt: "White House Science Office credits Trump with 'ending the Covid-19 pandemic' as a first-term accomplishment, as the country faces a record spike in high cases."
     publishedDateTime: 2020-10-28T02:55:00Z

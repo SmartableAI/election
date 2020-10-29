@@ -559,6 +559,22 @@ related:
         width: 1200
         height: 804
         isCached: true
+  - title: "Election 2020 live updates: Trump campaign website hacked"
+    excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
+    publishedDateTime: 2020-10-29T03:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6007506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007506002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden to push into Georgia as Trump embarks on three-state campaign spree"
     excerpt: "With just a week to go until the Nov. 3 election, President Donald Trump and Democrat Joe Biden will criss-cross the country on Tuesday in an intense day of campaigning that will also see former President Barack Obama back on the stump."
     publishedDateTime: 2020-10-27T04:21:00Z

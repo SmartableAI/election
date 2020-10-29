@@ -127,22 +127,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "World leaders react after President Trump, first lady test positive for coronavirus"
-    excerpt: "World leaders expressed their hope for a swift recovery for President Donald Trump after he announced that he and the first lady tested positive for COVID-19 overnight."
-    publishedDateTime: 2020-10-03T20:23:00Z
-    webUrl: "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
-    ampWebUrl: "https://abcnews.go.com/amp/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/International/Boris_Johnson_201_hpMain_20201002-062128_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Despite Trump's claims, officials in vote-by-mail states insist process can be secure"
     excerpt: "As the president continues to attack vote-by-mail as ripe for fraud, ABC News Live got an inside look at the process in Colorado, which has done mail-in voting for years."
     publishedDateTime: 2020-10-09T10:35:00Z
@@ -189,33 +173,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Trump could face a relapse, experts warn, as president opts to downplay nation's coronavirus threat despite massive death toll"
-    excerpt: "President Donald Trump rolled out of Walter Reed hospital confidently urging the nation not to fear the coronavirus despite experts warning the U.S. death toll, at more than 210,000, could almost double by year's end."
-    publishedDateTime: 2020-10-06T19:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/fauci-warns-trump-relapse-president-downplays-coronavirus-death-toll/3634631001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3634631001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634631001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/9b1ca01d-1e46-4a77-b125-e2569de56541-GettyImages-1228897458.jpg?auto=webp&crop=4637,2608,x0,y366&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Ready for 1st Rally Since Contracting Coronavirus"
-    excerpt: "President Donald Trump is returning to the campaign trail as he tries to stage a late comeback just a week after his release from the hospital over a serious case of COVID-19."
-    publishedDateTime: 2020-10-12T21:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "JTrK0z63dpSwFkTvK7+IUsIH9xLhaj9gSFxHqmMY0uY2psWSVDxkLRd7NcRo0BlgTHyM5puL36r0MxWhITg7MemzSi5OMiTrHPbycPWe4p2ZEBzGntmvXeLwnimr2T1StjbqmXwIyXVI3cBAHHQDcVT4UPwHVlndo1W7wcDZgZ26iliJFUSrc6K8DitVclW+n96gkvA/z4nq6YPdpz7qp2gN1uyBq3NcnS84A47x0jWnjCicS9GRBASSYjU8M+Vwuf8IG0dluE/Ltlr9+OFLLuq+dwVYhBlSe1RkFEyS4O/ow2wJALchCvRn9StHZn04W8f6NM7xmR9KoUecsXVz1aWDh7z63v76r24SejtJBpI=;ZsY1SSQualRGhdcBiji85w=="
 ---

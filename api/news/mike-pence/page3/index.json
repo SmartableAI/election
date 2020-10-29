@@ -2,63 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-10-pence-says-dogma-lives-loudly-in-him-condemns-dem-attacks-on-barretts-faith.md",
-      "title": "Pence says 'dogma' lives loudly in him, condemns Dem attacks on Barrett's faith",
-      "excerpt": "Vice President Mike Pence focused heavily on religious freedom during a Saturday rally in The Villages, the nation’s largest retirement community, located in one of the most traditionally conservative sectors of the country.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m5DIeuPdxDU/pence-dogma-supreme-court-the-villages",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m5DIeuPdxDU/pence-dogma-supreme-court-the-villages",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282814405498.jpg",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-10T16:22:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-state-dept-slams-china-for-censoring-pence-debate-answer-critical-of-chinese-communist-party.md",
       "title": "State Dept. slams China for censoring Pence debate answer critical of Chinese Communist Party",
       "excerpt": "China censors \"any sort of criticism\" of the Chinese Community Party fearing it is bad news if their citizens see \"what actually happens,\" State Department spokesperson Morgan Ortagus told \"Fox & Friends\" Saturday.",
@@ -1643,6 +1586,63 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-pence-to-vote-in-indiana-this-week-as-states-early-voting-begins.md",
+      "title": "Pence to vote in Indiana this week as state's early voting begins",
+      "excerpt": "Vice President Mike Pence and second lady Karen Pence are expected to fly to Indiana Friday, to vote in person from the second family’s home state, as early voting kicked off Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEC6hPcDV3Q/pence-vote-indiana-early-voting-begins",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEC6hPcDV3Q/pence-vote-indiana-early-voting-begins",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26f5f008-69d5-41ad-8f48-c32183c19256/0e9e91f4-e14d-47a0-a9b5-a59f5ba01f77/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-vote-indiana-early-voting-begins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-vote-indiana-early-voting-begins.amp",
+      "publishedDateTime": "2020-10-06T13:12:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
       ]
     }
   ],

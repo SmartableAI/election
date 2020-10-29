@@ -279,14 +279,14 @@ related:
         isCached: true
   - title: "Kamala Harris campaigns in Phoenix and Tucson on Wednesday as Election Day nears"
     excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
-    publishedDateTime: 2020-10-28T16:23:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/3750272001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3750272001"
+    publishedDateTime: 2020-10-28T13:08:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3750272001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3750272001"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 85
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"

@@ -2,21 +2,25 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-10-24-among-us-suffers-attack-by-apparent-pro-trump-hackerthree-days-after-aocs-hit-twitch-rally.md",
-      "title": "‘Among Us’ Suffers Attack By Apparent Pro-Trump Hacker—Three Days After AOC’s Hit Twitch Rally",
-      "excerpt": "Trump hacker going by the identity of Eris Loris, seemingly drawing this nom de guerre from a Greek goddess of discord and strife. InnerSloth, the company behind Among Us, confirmed that hack on Thursday in a tweet and sent another another message over Twitter earlier Friday evening.",
+      "path": "_news/2020-10-24-trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.md",
+      "title": "Trump town hall 'nodding woman' explains why she left Democratic Party",
+      "excerpt": "It was a tale of two town halls that exposed the corrupt, the dishonest, abusively biased media mob in real time. Over there at ABC, Joe Biden predictably coddled by the network's chief Democrat, little Georgie Stephanopoulos.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/",
-      "originalUrl": "https://www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/",
+      "webUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party",
+      "originalUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f93823a593755d42787fa5f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/51022276-6559-4a62-b0df-600aea903753/5c186c01-c853-4d7e-a585-af3ca2bf75af/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +28,62 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/amp/",
-      "publishedDateTime": "2020-10-23T18:40:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp",
+      "publishedDateTime": "2020-10-24T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-did-trump-really-use-a-twitter-password-as-weak-as-maga2020.md",
+      "title": "Did Trump Really Use A Twitter Password As Weak As ‘maga2020!’?",
+      "excerpt": "Dutch hackers claim to have broken into Donald Trump’s Twitter account using an easily guessable password, but security experts are not convinced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91a64e5946a0e9165fe5c7%2F0x0.jpg",
+          "width": 1199,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/amp/",
+      "publishedDateTime": "2020-10-23T21:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -54,21 +111,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-24-forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease.md",
-      "title": "Forbes Estimates China Paid Trump At Least $5.4 Million Since He Took Office, Via Mysterious Trump Tower Lease",
-      "excerpt": "Donald Trump maintained a stake in Trump Tower when he became president, and with it, a financial connection to the Chinese government.",
+      "path": "_news/2020-10-24-trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.md",
+      "title": "Trump 'coyote' remark confuses Twitter, including Georgia state Democrat",
+      "excerpt": "When President Trump suggested at the Thursday presidential debate that the more than 500 migrant children who the government hasn’t been able to reunite with their parents were brought to the border by coyotes, many on social media were left confused.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/",
-      "originalUrl": "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KJFaQyPGq4U/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KJFaQyPGq4U/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f92da59cdd9baa8c7aac7f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
-          "width": 1200,
-          "height": 675,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/kendrick.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,9 +137,118 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T18:19:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.amp",
+      "publishedDateTime": "2020-10-23T21:15:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-pence-calls-on-biden-to-come-forward-and-come-clean-with-answers-on-son-hunters-scandal.md",
+      "title": "Pence calls on Biden to 'come forward and come clean' with answers on son Hunter's scandal",
+      "excerpt": "Vice President Mike Pence called on his predecessor, Joe Biden, to be frank and honest with the American people Friday about whether he was involved in or benefited from his son Hunter's overseas business interests.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpM7Ih8I3tQ/mike-pence-joe-biden-hunter-biden-come-clean",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpM7Ih8I3tQ/mike-pence-joe-biden-hunter-biden-come-clean",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 550,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6db76cb0-7ce3-424b-b060-f98a7d5f92dd/6c22e892-08d6-4f6f-9ea3-d934edbc5ea3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-come-clean.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-come-clean.amp",
+      "publishedDateTime": "2020-10-23T19:19:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-among-us-suffers-attack-by-apparent-pro-trump-hackerthree-days-after-aocs-hit-twitch-rally.md",
+      "title": "‘Among Us’ Suffers Attack By Apparent Pro-Trump Hacker—Three Days After AOC’s Hit Twitch Rally",
+      "excerpt": "Trump hacker going by the identity of Eris Loris, seemingly drawing this nom de guerre from a Greek goddess of discord and strife. InnerSloth, the company behind Among Us, confirmed that hack on Thursday in a tweet and sent another another message over Twitter earlier Friday evening.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/",
+      "originalUrl": "https://www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f93823a593755d42787fa5f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/amp/",
+      "publishedDateTime": "2020-10-23T18:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -220,21 +390,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-24-democrats-plan-political-counterattack-on-day-of-mike-pence-visit-in-tallahassee.md",
-      "title": "Democrats plan political counterattack on day of Mike Pence visit in Tallahassee",
-      "excerpt": "Local Democrats and Democratic organizations are planning for political counterattacks as Republican Vice President Mike Pence plans to visit Tallahassee International Airport Saturday evening. The Florida Coordinated Campaign,",
+      "path": "_news/2020-10-24-vp-mike-pence-stops-in-swanton.md",
+      "title": "VP Mike Pence stops in Swanton",
+      "excerpt": "From hitting the links to hitting the trails -- it may not look like much from the highway, but a big project is underway on the former site of the Spuyten Duyval and Cottonwood Creek golf courses.",
       "sourceUrl": null,
-      "webUrl": "https://www.tallahassee.com/story/news/2020/10/24/mike-pence-tallahassee-visit-democrats/3741607001/",
-      "originalUrl": "https://www.tallahassee.com/story/news/2020/10/24/mike-pence-tallahassee-visit-democrats/3741607001/",
+      "webUrl": "https://www.13abc.com/video/2020/10/23/vp-mike-pence-stops-swanton/",
+      "originalUrl": "https://www.13abc.com/video/2020/10/23/vp-mike-pence-stops-swanton/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/23/PIND/0a675e5b-2fa8-4105-8a74-18979f3f614a-GH_10222020_035.jpg?auto=webp&crop=4630,2605,x0,y235&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/EmNxNTzTFXBObjoLmE5GcoFrZMM=/980x0/smart/do0bihdskp9dy.cloudfront.net/10-23-2020/t_5969b745094d4ac3a7e29582486f620c_name_file_1280x720_2000_v3_1_.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -242,13 +412,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.tallahassee.com/amp/3741607001",
-      "cdnAmpWebUrl": "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3741607001",
-      "publishedDateTime": "2020-10-23T17:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T16:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tallahassee Democrat",
-        "domain": "tallahassee.com",
+        "name": "13abc.com",
+        "domain": "13abc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -327,7 +497,7 @@
       "originalUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -431,7 +601,7 @@
       "originalUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 90,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -509,29 +679,38 @@
       ]
     },
     {
-      "path": "_news/2020-10-24-the-latest-trump-says-final-debate-went-really-well.md",
-      "title": "The Latest: Trump Says Final Debate Went 'Really Well'",
-      "excerpt": "President Donald Trump is reviewing his debate against Democrat Joe Biden, saying he thought it went “really well” and was an “exciting night.”.",
+      "path": "_news/2020-10-24-fact-check-trump-told-moderator-to-go-ahead-not-that-separated-families-are-good.md",
+      "title": "Fact check: Trump told moderator to 'go ahead,' not that separated families are 'good'",
+      "excerpt": "Amid immigration debate, one word from President Donald Trump stood out to users on social media: \"Good.\" The only issue? He didn't say it.",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking",
-      "originalUrl": "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking",
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-donald-trump-said-go-ahead-not-good-key-debate-spot/3741126001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-donald-trump-said-go-ahead-not-good-key-debate-spot/3741126001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 117,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp",
-      "publishedDateTime": "2020-10-23T12:33:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3741126001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3741126001",
+      "publishedDateTime": "2020-10-23T12:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -548,8 +727,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Kamala Harris"
+        "Donald Trump"
       ]
     },
     {
@@ -585,6 +763,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states.md",
+      "title": "Trump Says He’d ‘Consider’ $15 Per Hour Federal Minimum Wage, But Prefers To Leave It To States",
+      "excerpt": "President Donald Trump said during Thursday night’s presidential debate that he would “consider” raising the federal minimum wage to $15 per hour if he’s re-elected—a level that Democrat Joe Biden has committed to—but said he’d also strongly prefer to let states decide for themselves,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/",
+      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f932b4a1478f012ca60ed19%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/amp/",
+      "publishedDateTime": "2020-10-23T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -783,7 +1013,7 @@
       "originalUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -887,7 +1117,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1052,7 +1282,7 @@
       "originalUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1093,219 +1323,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-north-carolina-man-with-van-full-of-guns-asked-should-i-kill-joe-biden-online-authorities-say.md",
-      "title": "North Carolina man with van full of guns asked 'Should I kill Joe Biden?' online, authorities say",
-      "excerpt": "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3740228001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740228001",
-      "publishedDateTime": "2020-10-23T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-president-trump-weighing-firing-of-fbi-director-christopher-wray-after-election.md",
-      "title": "President Trump weighing firing of FBI Director Christopher Wray after election",
-      "excerpt": "President Trump regards FBI Director Christopher Wray as having gone out of his way to separate himself from the president on multiple occasions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/22/president-trump-weighing-firing-fbi-director-wray-after-election/3731576001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/22/president-trump-weighing-firing-fbi-director-wray-after-election/3731576001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 276,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/10/USAT/35138d1c-09b6-47ee-9233-e39128c5332c-XXX__JG24825.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3731576001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3731576001",
-      "publishedDateTime": "2020-10-23T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-donald-trumps-abraham-lincoln-comparison-at-debate-sparks-wave-of-memes.md",
-      "title": "Donald Trump's Abraham Lincoln Comparison at Debate Sparks Wave of Memes",
-      "excerpt": "Joe Biden mocked the comparison and called Trump \"one of the most racist presidents we've had in modern history,\" in the final presidential debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593",
-      "originalUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1657664/donald-trump.jpg",
-          "width": 2500,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1",
-      "publishedDateTime": "2020-10-23T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects.md",
-      "title": "‘I’m going to do what’s right’: Bramnick criticism of Trump could hurt his statewide prospects",
-      "excerpt": "He is one of three major Republicans either running or known to be openly flirting with seeking the party’s nomination to challenge Democratic Gov. Phil Murphy next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/new-jersey/story/2020/10/22/im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects-1329556",
-      "originalUrl": "https://www.politico.com/states/new-jersey/story/2020/10/22/im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects-1329556",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/fb/f6/788d630745c693ac95fb3e095bba/201022-bramnick-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -39,22 +39,6 @@ related:
         width: 797
         height: 551
         isCached: true
-  - title: "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out."
-    excerpt: "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump."
-    publishedDateTime: 2020-10-22T17:39:00Z
-    webUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5f90995c2121130018740043?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "KK0lyOhzNsz56Tw55MsKYtROwzvEVatWT65Lji+Qxbec/5agC4ygoo0+Km8DecUxCwxPXRDFmo/Lye6OBnkUxn/KcmFMi1KYo76GiWsTILuOrs1d1IZUmd/hsrKvzR0CZvk6RacKogF8h3qKdUgxdcpKwfZOYLpRDGJokKVUGJnVQRLujT6GPD84cdp6A+Sf6PJgUI5lFaJIcd6t3MZgmnwpmucFVEagdGMc/CiYbzHoFrcUP3yRBV8W9RW3tZjO0nEiwFjH+GdfU4djvitTctINj9eMxTuALEfKW/dCY7HwxITfesdNlIWvjVxRkuUX0g0q2MoD+yja8lZufemcnwPgcrIPBjKQdVbNuwwZe9E=;oZNs5WltE9tegoRTsM+cjA=="
 ---

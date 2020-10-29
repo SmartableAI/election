@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-21-joe-biden-is-making-a-late-push-for-cuban-american-voters-in-florida-will-it-matter.md",
+      "title": "Joe Biden is making a late push for Cuban American voters in Florida. Will it matter?",
+      "excerpt": "The Biden campaign made what one pollster called \"night and day difference\" in its outreach to Hispanic voters in Florida, which lifted its support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/",
+      "originalUrl": "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/c5107522-4dbb-4bb7-bc07-5a9025a578a7-AFP_AFP_8T24WG.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5884192002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884192002",
+      "publishedDateTime": "2020-10-20T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-former-republican-national-committee-chairman-michael-steele-endorses-joe-biden.md",
       "title": "Former Republican National Committee Chairman Michael Steele endorses Joe Biden",
       "excerpt": "I'm a lifelong Republican – and I'm still a Republican. But this ballot is how we restore the soul of our nation,\" said Michael Steele, who called Joe Biden \"a good man.\"",
@@ -1499,59 +1551,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to-debate.md",
-      "title": "Pence targets Biden over ISIS hostages, brings family of executed aid worker to debate",
-      "excerpt": "Vice President Pence invoked slain ISIS hostage Kayla Mueller on Wednesday as he sought to tout what he described as President Trump’s foreign policy accomplishments in his debate against Sen. Kamala Harris (D-Calif.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to",
-      "originalUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1382,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike3_10072020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp",
-      "publishedDateTime": "2020-10-07T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Mike Pence"
       ]
     }
   ],

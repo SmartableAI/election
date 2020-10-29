@@ -476,6 +476,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Election 2020 polling average shows Biden leading Trump nationally with just days left"
+    excerpt: "Democratic nominee Joe Biden continues to lead President Trump in national polling, although the race has tightened to a seven-point lead for Biden, down from 10 points earlier in October, according to Real Clear Politics' polling average."
+    publishedDateTime: 2020-10-29T02:45:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-QdoLBWjPec/live-updates-election-2020-polling-average-shows-biden-leading-trump-nationally-with-just-days-left"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-2020-polling-average-shows-biden-leading-trump-nationally-with-just-days-left.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-2020-polling-average-shows-biden-leading-trump-nationally-with-just-days-left.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd1ffb14-03bc-4b4e-afa9-9bca433aa45f/67e01748-312f-4677-a1b0-7a58c6081241/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z

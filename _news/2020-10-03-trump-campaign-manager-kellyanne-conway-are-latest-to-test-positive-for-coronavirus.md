@@ -61,22 +61,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Vice President Mike Pence, second lady test negative for coronavirus"
-    excerpt: "Spokesman Devin O’Malley says Vice President Pence “remains in good health and wishes the Trumps well in their recovery.”"
-    publishedDateTime: 2020-10-02T12:59:00Z
-    webUrl: "https://www.pbs.org/newshour/nation/vice-president-mike-pence-second-lady-test-negative-for-coronavirus"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/vice-president-mike-pence-second-lady-test-negative-for-coronavirus"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/vice-president-mike-pence-second-lady-test-negative-for-coronavirus"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/pence-1024x785.jpg"
-        width: 1024
-        height: 785
-        isCached: true
   - title: "Coronavirus diagnosis of Donald Trump raises number of 'what ifs'"
     excerpt: "We are experiencing a potential crisis in the coming election for which our Constitution provides no clear resolution. A multitude of “what ifs” could occur between now and Inauguration Day, Jan."
     publishedDateTime: 2020-10-02T19:00:00Z
@@ -157,22 +141,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "What to know about Trump's coronavirus treatment regimen"
-    excerpt: "These are Business Insider's biggest healthcare stories for October 5."
-    publishedDateTime: 2020-10-05T13:22:00Z
-    webUrl: "https://www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-5-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-5-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-5-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f77adce2400440019129cce?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Analysts' view: Trump goes into quarantine, awaits coronavirus test results"
     excerpt: "U.S. stock futures dipped on Friday after President Donald Trump said he and his wife will quarantine after a close aide, Hope Hicks, tested positive for the coronavirus. Trump said they are awaiting test results."
     publishedDateTime: 2020-10-02T05:16:00Z
@@ -188,22 +156,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535805144&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910CI"
         width: 817
         height: 545
-        isCached: true
-  - title: "210,000 deaths later, Trump reverts to comparing the coronavirus to the flu"
-    excerpt: "They thought about it when the toll of covid-19, the disease caused by the coronavirus, passed 27,000 deaths on Apri"
-    publishedDateTime: 2020-10-06T19:03:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/06/210000-deaths-later-trump-reverts-comparing-coronavirus-flu/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/06/210000-deaths-later-trump-reverts-comparing-coronavirus-flu/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/06/210000-deaths-later-trump-reverts-comparing-coronavirus-flu/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHXBOQQHSUI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Trump begins quarantine as close aide Hope Hicks tests positive for coronavirus"
     excerpt: "Hope Hicks, a close adviser to President Trump who traveled with him several times this week aboard Air Force One, has tested positive for the coronavirus, a senior administration official confirmed Thursday."
@@ -268,22 +220,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/a4f56ede-1a22-4f11-ac75-97eff15f499f-AP_UN_General_Assembly.jpg?auto=webp&crop=2879,1620,x0,y86&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Hope Hicks, one of President Trump's closest advisers, tests positive for coronavirus"
-    excerpt: "Hope Hicks, one of President Donald Trump's closest advisers, has tested positive for the coronavirus, ABC News has confirmed. Hicks, who serves as counselor to the president and is among a tight group of advisers to the president,"
-    publishedDateTime: 2020-10-02T00:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/hope-hicks-president-trumps-closest-advisers-tests-positive/story?id=73377363"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/hope-hicks-president-trumps-closest-advisers-tests-positive/story?id=73377363"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/hope-hicks-president-trumps-closest-advisers-tests-positive/story?id=73377363"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/Politics/hope-hicks-ap-ps-190619_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump starts \"quarantine process\" after aide Hope Hicks tests positive for coronavirus"
     excerpt: "U.S. President Donald Trump said on Thursday he was beginning a quarantine process after Hope Hicks, a top adviser and trusted aide, tested positive for the coronavirus."
@@ -378,20 +314,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/6000d549-6f0f-4dd7-b2d2-820321df3c1e-AFP_AFP_8QZ69N.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "President Trump, first lady test positive for coronavirus days after first debate"
-    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for COVID-19 and \"will begin our quarantine and recovery process immediately.\""
-    publishedDateTime: 2020-10-02T11:08:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/02/president-donald-trump-first-lady-test-positive-coronavirus/5892626002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 100
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f9c98f2a-76c0-49ad-9597-929b4bf1dc43-VPC_TRUMP_COVID_POSITIVE_DESK_THUMB.00_00_00_00.Still001.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Your questions about Trump and COVID-19, answered: Who gave Trump coronavirus? What is the Regeneron antibody 'cocktail'?"
     excerpt: "Our readers from across the US are asking important questions about President Trump's positive COVID-19 test. We answer your questions."
@@ -529,20 +451,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/04/26/donald-trump-kanye-west.jpg"
         width: 1024
         height: 759
-        isCached: true
-  - title: "The Coronavirus Cases In Trump's Inner Circle"
-    excerpt: "The coronavirus has not only reached the White House, infecting President Donald Trump, but it has also spread among members of his family, inner circle and his Republican allies. The following is a list of some of the people surrounding the American president who have tested positive for Covid-19: Trump,"
-    publishedDateTime: 2020-10-06T01:25:00Z
-    webUrl: "https://www.ibtimes.com/coronavirus-cases-trumps-inner-circle-3057171"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/this-combination-of-file-pictures-shows-l-r.jpg"
-        width: 768
-        height: 768
         isCached: true
   - title: "Mike Pence, Karen Pence test negative as White House coronavirus cases climb"
     excerpt: "Vice President Mike Pence and second lady Karen Pence both tested negative Monday as a number of new cases were confirmed in the nation's capital."

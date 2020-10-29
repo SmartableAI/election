@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Spox Hogan Gidley Says He Doesn’t Want to ‘Quibble Over Semantics’ on WH Claim Trump Ended Coronavirus"
-    excerpt: "Hogan Gidley, press secretary for President Donald Trump's campaign, was grilled about the claim that one of Trump's accomplishments has been \"ending the Covid-19 pandemic,\" and responded by referring to the false claim as a matter of \"semantics."
-    publishedDateTime: 2020-10-28T22:34:00Z
-    webUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/"
-    ampWebUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 56
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Alisyn-Camerota-Hogan-Gidley-10-28.jpg"
-        width: 1200
-        height: 624
-        isCached: true
 
 secured: "zCFWyBgvjYmPBc6dE8k0IRDJURK5j5ZRUZCEDr5U7g14Sf2SaIMAYimQwt7VXlScQ1J9NgHyPC0z2yPDPPl70YD6NzLYWOEhLc4YGLf8sQPr4QW4baJB7gn7FMcKl19nLe5FZr5G4gX3jaL2TJCAntg0mCqVKkBiHjfYe7Nf5MOhVPjucmL7O8R5ymhKSZ+wVQpRlWHNKGhKqou5awgyASb6eiaa3HSiQTOhvrtpUKfpbZyqhUAvB8ed67/b1XoQ1GiE8kXDPC5kABa4+NK1WHWCP6UPXr2yBSorpBBqtf4NtSp0NQObaCdGYekHwjyvviSayhue5t8M5HxUOsksxI+SUS69n3s/uHzQpTHPztU=;YYHwOWMXGU17EmocHgOGnQ=="
 ---

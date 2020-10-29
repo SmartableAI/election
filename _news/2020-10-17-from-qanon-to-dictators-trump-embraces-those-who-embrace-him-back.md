@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-conspiracy-th
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Melania Trump's Fashion Choices Don't Mean Anything, Source Says"
+    excerpt: "Melania Trump's dresses don't mean anything including her pink dress that many thought was a nod to gay pride."
+    publishedDateTime: 2020-10-23T05:25:00Z
+    webUrl: "https://www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703"
+    ampWebUrl: "https://www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Paranoid Trump compiling enemies list of conservatives who are turning on him: report"
     excerpt: "According to a report from the Daily Beast, Donald Trump is building up an enemies list of GOP lawmakers and other conservatives who have been critical of him as his re-election campaign staggers to the finish line,"

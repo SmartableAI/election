@@ -282,6 +282,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran.md",
+      "title": "Analysis: Biden would face uncertain path to detente with wary Iran",
+      "excerpt": "Joe Biden plans to scrap what he calls the \"dangerous failure\" of President Donald Trump's maximum pressure policy on Iran should he win the U.S. election, but after years of confrontation his diplomacy-first approach to a historic Middle East foe could prove an",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-iran-analysis-int-idUSKBN27D1E2",
+      "originalUrl": "https://www.reuters.com/article/usa-election-iran-analysis-int-idUSKBN27D1E2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539111804&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R0RX",
+          "width": 789,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27D1E2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D1E2",
+      "publishedDateTime": "2020-10-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-winnable-but-not-yet-won-why-joe-biden-and-mike-pence-are-both-headed-to-iowa-this-week.md",
       "title": "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week",
       "excerpt": "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won.",
@@ -290,7 +342,7 @@
       "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -386,7 +438,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1293,7 +1345,7 @@
       "originalUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1397,7 +1449,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/barack-obama-hold-person-event-biden-73729555",
       "featuredContent": null,
       "highlight": null,
-      "heat": 665,
+      "heat": 685,
       "tags": null,
       "images": [
         {
@@ -1518,58 +1570,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/3711004001",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3711004001",
       "publishedDateTime": "2020-10-20T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-joe-biden-is-making-a-late-push-for-cuban-american-voters-in-florida-will-it-matter.md",
-      "title": "Joe Biden is making a late push for Cuban American voters in Florida. Will it matter?",
-      "excerpt": "The Biden campaign made what one pollster called \"night and day difference\" in its outreach to Hispanic voters in Florida, which lifted its support.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/",
-      "originalUrl": "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/c5107522-4dbb-4bb7-bc07-5a9025a578a7-AFP_AFP_8T24WG.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5884192002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884192002",
-      "publishedDateTime": "2020-10-20T18:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",

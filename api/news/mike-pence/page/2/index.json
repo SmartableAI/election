@@ -2,149 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-20-trump-abruptly-ends-60-minutes-interview-before-taping-joint-appearance-with-pence.md",
-      "title": "Trump abruptly ends '60 Minutes' interview before taping joint appearance with Pence",
-      "excerpt": "President Donald Trump abruptly ended a solo interview with CBS News' \"60 Minutes\" Tuesday and did not return for an appearance he was supposed to tape with Vice President Mike Pence, according to multiple sources familiar with what happened.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYSwD5qaplc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYSwD5qaplc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 533,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201019175506-donald-trump-october-18-2020-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html",
-      "publishedDateTime": "2020-10-20T14:23:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-vp-mike-pence-set-to-visit-jacksonville-florida-on-saturday.md",
-      "title": "VP Mike Pence set to visit Jacksonville, Florida, on Saturday",
-      "excerpt": "Vice President Mike Pence will be coming to Jacksonville and Tallahassee this Saturday, according to a tweet from his communications director.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jacksonville.com/story/news/politics/elections/presidential/2020/10/20/vp-mike-pence-set-visit-jacksonville-florida-saturday/5996634002/",
-      "originalUrl": "https://www.jacksonville.com/story/news/politics/elections/presidential/2020/10/20/vp-mike-pence-set-visit-jacksonville-florida-saturday/5996634002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/3658fd42755583d64b04f69690f6d4a6f28401aa/c=0-270-5184-3186/local/-/media/2020/09/09/JacksonvilleFL/ghows_gallery-LK-622009997-f7614850.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.jacksonville.com/amp/5996634002",
-      "cdnAmpWebUrl": "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/5996634002",
-      "publishedDateTime": "2020-10-20T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Florida Times-Union",
-        "domain": "jacksonville.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-pence-touts-gop-candidates-support-for-fishermen-in-maine.md",
-      "title": "Pence touts GOP candidates, support for fishermen in Maine",
-      "excerpt": "Vice President Mike Pence used a Monday appearance in Maine to tout Republican politicians in the state and boast about the federal government's support for lobster fishermen. Pence held a rally in Hermon,",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/news/article/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
-      "originalUrl": "https://www.expressnews.com/news/article/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/14/63/11/20132449/3/375x250.jpg",
-          "width": 375,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expressnews.com/news/amp/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
-      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
-      "publishedDateTime": "2020-10-20T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-why-vice-president-pence-was-in-northern-maine-on-monday.md",
       "title": "Why Vice President Pence was in northern Maine on Monday",
       "excerpt": "When you think of the battlegrounds that could decide whether President Trump or Democratic nominee Joe Biden wins next month’s general election, Maine often doesn’t come to mind.",
@@ -198,6 +55,49 @@
       "topics": [
         "Election",
         "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-see-what-mike-pences-rally-in-york-county-looks-like.md",
+      "title": "See what Mike Pence's rally in York County looks like",
+      "excerpt": "Vice President Mike Pence visited York County on the final day Pa. residents are eligible to vote in the 2020 Election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ydr.com/story/news/2020/10/19/mike-pence-rally-pa-election-2020-york-county/5982553002/",
+      "originalUrl": "https://www.ydr.com/story/news/2020/10/19/mike-pence-rally-pa-election-2020-york-county/5982553002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/06/07/PPYR/da6f4f53-0dec-4b1e-94a0-66b032fdc6f5-YDR-CC-6619-MikePence11.JPG?auto=webp&crop=3025,1693,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ydr.com/amp/5982553002",
+      "cdnAmpWebUrl": "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/5982553002",
+      "publishedDateTime": "2020-10-19T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YDR",
+        "domain": "ydr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     },
@@ -302,6 +202,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-19-revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor.md",
+      "title": "REVEALED: Birx confronted Pence with demand he fire Trump’s ‘dishonest’ herd immunity doctor",
+      "excerpt": "Delving into the battle inside the White House task force overseeing the government’s response to the coronavirus pandemic, the Washington Post is reporting that Dr. Deborah Birx has grown fed up with Dr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/",
+      "originalUrl": "https://www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/mike-pencescreen-grab-via-youtube.jpeg",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/amp/",
+      "publishedDateTime": "2020-10-19T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-pence-to-mount-aggressive-campaign-push-in-final-two-weeks.md",
       "title": "Pence to mount 'aggressive' campaign push in final two weeks",
       "excerpt": "Vice President Mike Pence will travel at least five days a week and ramp up to at least two campaign rallies each day as part of a “very aggressive schedule” in the final days before the election, Pen",
@@ -310,7 +262,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -354,6 +306,92 @@
       ]
     },
     {
+      "path": "_news/2020-10-19-vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday.md",
+      "title": "Vice President Mike Pence set to campaign in Tallahassee on Saturday",
+      "excerpt": "Vice President Mike Pence is planning a visit to Tallahassee on Saturday, October 24, according to ABC News. Details have not been released about where or when the rally will be held. ABC 27 is reaching out to his staff to confirm that information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday",
+      "originalUrl": "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cefd137/2147483647/strip/true/crop/640x360+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.wtxl.com%2Fwtxl.com%2Fcontent%2Ftncms%2Fassets%2Fv3%2Feditorial%2F9%2Fdf%2F9df0773c-f77e-11e6-b55d-b36633fdcd92%2F58ab06e07883c.image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday?_amp=true",
+      "cdnAmpWebUrl": "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday?_amp=true",
+      "publishedDateTime": "2020-10-19T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTXL ABC 27",
+        "domain": "wtxl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump.md",
+      "title": "Sacha Baron Cohen reveals how he snuck into a Mike Pence speech dressed as Trump",
+      "excerpt": "Sacha Baron Cohen has detailed how he managed to sneak into a speech by Mike Pence dressed as Donald Trump for his 'Borat' sequel",
+      "sourceUrl": null,
+      "webUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022",
+      "originalUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2020/10/borat-mike-pence.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp",
+      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp",
+      "publishedDateTime": "2020-10-19T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-presidential-election-mike-pence-to-make-cincinnati-campaign-visit.md",
       "title": "Presidential election: Mike Pence to make Cincinnati campaign visit",
       "excerpt": "Vice President Mike Pence is set to make a campaign stop in Cincinnati on Wednesday for an event at Lunken airport.",
@@ -362,7 +400,7 @@
       "originalUrl": "https://www.cincinnati.com/story/news/2020/10/19/mike-pence-cincinnati-vice-president-campaign-lunken-airport/3708424001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 430,
+      "heat": 610,
       "tags": null,
       "images": [
         {
@@ -383,49 +421,6 @@
       "provider": {
         "name": "Cincinnati Enquirer",
         "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-vice-president-pence-to-visit-portsmouth-this-week.md",
-      "title": "Vice President Pence to visit Portsmouth this week",
-      "excerpt": "Vice President Mike Pence is scheduled to return to New Hampshire for a campaign event. Sources said Pence will be in Portsmouth for the event, but exact details of the visit have not been released. President Donald Trump’s son Eric Trump is scheduled be in Manchester on Monday for an event at the DoubleTree Hotel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wmur.com/article/vice-president-pence-to-visit-portsmouth-this-week/34407701",
-      "originalUrl": "https://www.wmur.com/article/vice-president-pence-to-visit-portsmouth-this-week/34407701",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-in-laconia-922-1600804976.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701",
-      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701",
-      "publishedDateTime": "2020-10-18T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WMUR9",
-        "domain": "wmur.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -469,92 +464,6 @@
       "provider": {
         "name": "Beliefnet",
         "domain": "beliefnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-vice-president-mike-pence-to-hold-rally-monday-in-york-county.md",
-      "title": "Vice President Mike Pence to hold rally Monday in York County",
-      "excerpt": "Vice President Mike Pence will be in Fairview Township on Monday, holding a rally at the Capital City Airport in Fairview Township, according to President Donald Trump's website. The \"Make America Great Again!",
-      "sourceUrl": null,
-      "webUrl": "https://www.ydr.com/story/news/crime/2020/10/18/vice-president-mike-pence-hold-rally-monday-york-county/3703933001/",
-      "originalUrl": "https://www.ydr.com/story/news/crime/2020/10/18/vice-president-mike-pence-hold-rally-monday-york-county/3703933001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/30/PPYR/c302c7aa-57ec-4889-8356-201f2b62b871-PMK_8808.JPG?auto=webp&crop=4927,2772,x0,y495&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ydr.com/amp/3703933001",
-      "cdnAmpWebUrl": "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3703933001",
-      "publishedDateTime": "2020-10-18T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YDR",
-        "domain": "ydr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sacha-baron-cohen-reveals-how-he-was-able-to-sneak-into-mike-pence-speech-to-film-borat-2.md",
-      "title": "Sacha Baron Cohen reveals how he was able to sneak into Mike Pence speech to film Borat 2",
-      "excerpt": "Sacha Baron Cohen has revealed how he managed to sneak into a Mike Pence speech during a rally earlier this year while filming a scene for the upcoming Borat sequel. The actor, believe it or not, managed to disguise himself as none other than President Donald Trump in order to gain access into the speech,",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/",
-      "originalUrl": "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/10/PRI_169142927.jpg?quality=90&strip=all&zoom=1&resize=600%2C315&ssl=1",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/amp/",
-      "publishedDateTime": "2020-10-18T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -614,6 +523,49 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-its-on-north-carolina-vice-president-pence-greets-supporters-in-selma.md",
+      "title": "'It's on, North Carolina': Vice President Pence greets supporters in Selma",
+      "excerpt": "Vice President Mike Pence traveled to Selma on Friday for a \"Make America Great Again\" event at The Farm at 95. Supporters were lined up well before the 2:30 p.m. event. \"I'm here for one reason and one reason only,",
+      "sourceUrl": null,
+      "webUrl": "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/",
+      "originalUrl": "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/7084491_101620-wtvd-Gloria-5pm-Pence-in-Selma-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/",
+      "cdnAmpWebUrl": "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/",
+      "publishedDateTime": "2020-10-16T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVD",
+        "domain": "abc11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -806,7 +758,7 @@
       "originalUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 469,
+      "heat": 509,
       "tags": null,
       "images": [
         {
@@ -1415,6 +1367,63 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-pence-says-dogma-lives-loudly-in-him-condemns-dem-attacks-on-barretts-faith.md",
+      "title": "Pence says 'dogma' lives loudly in him, condemns Dem attacks on Barrett's faith",
+      "excerpt": "Vice President Mike Pence focused heavily on religious freedom during a Saturday rally in The Villages, the nation’s largest retirement community, located in one of the most traditionally conservative sectors of the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m5DIeuPdxDU/pence-dogma-supreme-court-the-villages",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m5DIeuPdxDU/pence-dogma-supreme-court-the-villages",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282814405498.jpg",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T16:22:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
       ]
     }
   ],

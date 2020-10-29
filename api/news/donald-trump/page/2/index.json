@@ -2,6 +2,273 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-26-large-audience-few-masks-at-trumps-new-hampshire-rally.md",
+      "title": "Large audience, few masks at Trump's New Hampshire rally",
+      "excerpt": "Since losing the state’s race for the governorship by only 50,000 votes, Stacey Abrams and her voter rights organization, Fair Fight, have helped register more than 800,000 new voters in the state. From becoming the first Afro-Latina or LGBTQ congresswoman to the first Native American veteran in Congress,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244646",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244646",
+      "publishedDateTime": "2020-10-25T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-donald-trump-and-mike-pence-both-campaign-sunday-despite-coronavirus-cases-among-vice-presidents-staff.md",
+      "title": "Donald Trump and Mike Pence both campaign Sunday, despite coronavirus cases among vice president's staff",
+      "excerpt": "Pence aides have tested positive for the virus, but he is not subject to quarantine because he is an \"essential\" government official, aides said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6031990002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002",
+      "publishedDateTime": "2020-10-25T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-trump-jr-floats-2024-run-for-president-this-will-make-the-lib-heads-explode.md",
+      "title": "Trump Jr. floats 2024 run for president: ‘This will make the lib heads explode’",
+      "excerpt": "Donald Trump Jr. posted a photo to Instagram Saturday standing in front of a “Don Jr 2024” sign, teasing that prospect. “Hahahahaha. Oh boy. This was a sign I saw up",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/",
+      "originalUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/don-jr-46.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/amp/",
+      "publishedDateTime": "2020-10-24T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-minority-pushes-trump-agenda-largely-unpopular-among-tribes.md",
+      "title": "Minority pushes Trump agenda largely unpopular among tribes",
+      "excerpt": "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump’s agenda in areas long considered Democratic territory",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.md",
+      "title": "Trump town hall 'nodding woman' explains why she left Democratic Party",
+      "excerpt": "It was a tale of two town halls that exposed the corrupt, the dishonest, abusively biased media mob in real time. Over there at ABC, Joe Biden predictably coddled by the network's chief Democrat, little Georgie Stephanopoulos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party",
+      "originalUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/51022276-6559-4a62-b0df-600aea903753/5c186c01-c853-4d7e-a585-af3ca2bf75af/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-town-hall-nodding-woman-explains-why-she-left-democratic-party.amp",
+      "publishedDateTime": "2020-10-24T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-did-trump-really-use-a-twitter-password-as-weak-as-maga2020.md",
       "title": "Did Trump Really Use A Twitter Password As Weak As ‘maga2020!’?",
       "excerpt": "Dutch hackers claim to have broken into Donald Trump’s Twitter account using an easily guessable password, but security experts are not convinced.",
@@ -10,7 +277,7 @@
       "originalUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -79,58 +346,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/amp/",
       "publishedDateTime": "2020-10-23T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease.md",
-      "title": "Forbes Estimates China Paid Trump At Least $5.4 Million Since He Took Office, Via Mysterious Trump Tower Lease",
-      "excerpt": "Donald Trump maintained a stake in Trump Tower when he became president, and with it, a financial connection to the Chinese government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/",
-      "originalUrl": "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f92da59cdd9baa8c7aac7f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T18:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -280,7 +495,7 @@
       "originalUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -376,29 +591,38 @@
       ]
     },
     {
-      "path": "_news/2020-10-24-the-latest-trump-says-final-debate-went-really-well.md",
-      "title": "The Latest: Trump Says Final Debate Went 'Really Well'",
-      "excerpt": "President Donald Trump is reviewing his debate against Democrat Joe Biden, saying he thought it went “really well” and was an “exciting night.”.",
+      "path": "_news/2020-10-24-fact-check-trump-told-moderator-to-go-ahead-not-that-separated-families-are-good.md",
+      "title": "Fact check: Trump told moderator to 'go ahead,' not that separated families are 'good'",
+      "excerpt": "Amid immigration debate, one word from President Donald Trump stood out to users on social media: \"Good.\" The only issue? He didn't say it.",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking",
-      "originalUrl": "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking",
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-donald-trump-said-go-ahead-not-good-key-debate-spot/3741126001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-donald-trump-said-go-ahead-not-good-key-debate-spot/3741126001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 117,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp",
-      "publishedDateTime": "2020-10-23T12:33:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3741126001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3741126001",
+      "publishedDateTime": "2020-10-23T12:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -415,8 +639,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Kamala Harris"
+        "Donald Trump"
       ]
     },
     {
@@ -452,6 +675,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states.md",
+      "title": "Trump Says He’d ‘Consider’ $15 Per Hour Federal Minimum Wage, But Prefers To Leave It To States",
+      "excerpt": "President Donald Trump said during Thursday night’s presidential debate that he would “consider” raising the federal minimum wage to $15 per hour if he’s re-elected—a level that Democrat Joe Biden has committed to—but said he’d also strongly prefer to let states decide for themselves,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/",
+      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f932b4a1478f012ca60ed19%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/amp/",
+      "publishedDateTime": "2020-10-23T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -537,7 +812,7 @@
       "originalUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -641,7 +916,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -693,7 +968,7 @@
       "originalUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -745,7 +1020,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/22/president-trump-weighing-firing-fbi-director-wray-after-election/3731576001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 276,
+      "heat": 336,
       "tags": null,
       "images": [
         {
@@ -906,7 +1181,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/23/trump-is-definitely-not-typical-politician-america-could-use-one-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -930,58 +1205,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-they-are-so-well-taken-care-of-trump-defends-separating-migrant-children-from-parents.md",
-      "title": "'They are so well taken care of': Trump defends separating migrant children from parents",
-      "excerpt": "Former Vice President Joe Biden promised citizenship for the nation's undocumented immigrants while President Donald Trump defended his own record.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/22/biden-slams-trump-promises-citizenship-undocumented-immigrants/3738323001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/22/biden-slams-trump-promises-citizenship-undocumented-immigrants/3738323001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3738323001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738323001",
-      "publishedDateTime": "2020-10-22T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1166,7 +1389,7 @@
       "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1353,219 +1576,6 @@
       "ampWebUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment.amp",
       "publishedDateTime": "2020-10-22T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-election-2020-updates-i-think-the-mute-is-very-unfair-trump-on-debate-mics.md",
-      "title": "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics",
-      "excerpt": "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328",
-      "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 296,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-1-rt-er-201021_1603316702002_hpMain_16x9_1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328",
-      "publishedDateTime": "2020-10-22T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe.md",
-      "title": "GOP voters know ‘this election is between a good man and a bad man’ — and they’ve backing Trump anyway: Morning Joe",
-      "excerpt": "Even his supporters agree that President Donald Trump is a bad man, according to MSNBC’s Joe Scarborough, and believe Joe Biden is basically a good man. So why are they voting for Trump, anyway, the “Morning Joe” host asked historian Jon Meacham.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/",
-      "originalUrl": "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-04-at-7.15.10-AM.png",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/amp/",
-      "publishedDateTime": "2020-10-22T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-donald-trump-says-he-may-change-personality-if-he-wins-being-politically-correct-takes-time.md",
-      "title": "Donald Trump Says He May Change Personality If He Wins: 'Being Politically Correct Takes Time'",
-      "excerpt": "The president said he could change his behavior in a second term, suggesting time constraints in his first had shaped his actions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236",
-      "originalUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1656907/trump.jpg",
-          "width": 2500,
-          "height": 1639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-personality-politically-correct-1541236?amp=1",
-      "publishedDateTime": "2020-10-22T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-jennifer-lawrence-says-trump-altered-her-political-views-theres-been-a-line-drawn-in-the-sand.md",
-      "title": "Jennifer Lawrence says Trump altered her political views: ‘There’s been a line drawn in the sand’",
-      "excerpt": "Jennifer Lawrence said despite the fact she grew up in a Republican household, because of Trump, she has become more open-minded about politics \"based on the things I learned.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
-      "originalUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jennifer-Lawrence-reupload_AP.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
-      "publishedDateTime": "2020-10-21T17:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
