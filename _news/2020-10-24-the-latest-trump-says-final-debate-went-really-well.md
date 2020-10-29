@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
 type: article
 quality: 65
-heat: 85
+heat: 105
 published: true
 
 provider:
@@ -40,6 +40,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "The Latest: Mrs. Trump Warms up Tampa Crowd at Trump Rally"
+    excerpt: "First lady Melania Trump is making her first joint campaign appearance of the year with her husband. Mrs. Trump warmed up the large crowd outside Raymond James Stadium in Tampa for President Donald Trump."
+    publishedDateTime: 2020-10-29T19:04:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "f57eDw179FOZ2El4Uw2cF6IqQJvMuU63PFMJzRUcmRhYiXdFNIQ6Zagzyuu8Nx0dCgZDpMmGgYTUkZGoZFDn52zGpZqFvWqdcC0pDM+5WtnnI3u0Muu+h2WsT/+c/OQMLVXPZ8X+joWrQv6mRAi/iM9qRrkujYJnWBaSsKdtKdHoxdegyQzk+N4VZcfnfS8PgIOwytufnJUVjeWrLHpjbjlbBE4ToVFQOcN2l7/WWQQK4CmQl+ROoQH+UX0KFf5KU+MWq9oPQchKIPYdQ2HpK528Ps7A83hr//2phBBmgxfrjex+cV3nKUJegS4tRVrZ5WqrKZiV5c0IE6AOhp8L1PwdG7Sj8z1dnzL9pqtlFYypg0+WukrvYP0Ky9qOk3jiUdmICNO3Bbz/keiys4pybRcs96G1VzpwRWxFxz9h39pyU+EsnJDLQ+uKk3VX3x7UrPUMzZgrYVunXsmF+PfCjs0UHAwg9h/1aum8vKUW7ZuCpkMTMkclepERN09woh/M59pYBOiIsEcajclRCRkLZQ==;VdgBojoTuo+ZVB9ZCLChEA=="
 ---

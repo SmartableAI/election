@@ -607,6 +607,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Prominent pastor gets backlash for explaining why he isn't voting for Trump or Biden"
+    excerpt: "Saying he won't vote for Trump or Biden on Nov. 3, well-known pastor and Christian author John Piper got a range of responses from other faith leaders."
+    publishedDateTime: 2020-10-29T19:05:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y-X_wZc6lVI/trump-biden-christian-pastor-vote-op-ed-john-piper"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-christian-pastor-vote-op-ed-john-piper.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-christian-pastor-vote-op-ed-john-piper.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump heads to Florida as Biden stumps in Delaware following final presidential debate"
     excerpt: "With the November election just 11 days away and the final presidential debate over, President Trump and Democratic challenger Joe Biden have entered the final stretch of the 2020 campaign."
     publishedDateTime: 2020-10-23T11:39:49Z

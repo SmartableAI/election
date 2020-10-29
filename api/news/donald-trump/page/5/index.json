@@ -2,6 +2,115 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-16-how-to-watch-live-stream-donald-trumps-nbc-town-hall-in-place-of-debate.md",
+      "title": "How to Watch, Live Stream Donald Trump's NBC Town Hall in Place of Debate",
+      "excerpt": "The event will be moderated by Today co-host Savannah Guthrie, who will direct a conversation between Trump and Florida voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408",
+      "originalUrl": "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 344,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1652864/donald-trump-10-14.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1",
+      "publishedDateTime": "2020-10-15T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-will-trump-win-again-watch-floridas-sumter-county-for-first-election-night-clue.md",
+      "title": "Will Trump win again? Watch Florida's Sumter County for first election night clue.",
+      "excerpt": "Will Trump win again? Watch Florida's Sumter County for first election night clue. Last week, Democrats took delight in the spectacle of a 500-golf cart flotilla of Joe Biden supporters parading through Florida's largest retirement community en route to turn in their vote-by-mail ballots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/will-trump-win-again-watch-florida-s-sumter-county-first-n1243497",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/will-trump-win-again-watch-florida-s-sumter-county-first-n1243497",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_42/3420360/201015-the-villlages-al-0741_d3ce3f854b407fc2901767388f852caa.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243497",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243497",
+      "publishedDateTime": "2020-10-15T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-trump-tweet-gave-taliban-upper-hand-in-negotiations-afghan-peace-official-tells-financial-times.md",
       "title": "Trump tweet gave Taliban upper hand in negotiations: Afghan peace official tells Financial Times",
       "excerpt": "A tweet by President Donald Trump calling for U.S. troops to be home by Christmas has given the insurgent Taliban the upper hand in negotiations, the top Afghanistan peace official told the Financial Times newspaper.",
@@ -1441,115 +1550,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-victor-davis-hanson-trump-must-make-election-about-class-not-race.md",
-      "title": "Victor Davis Hanson: Trump must make election about class, not race",
-      "excerpt": "We already knew that identity politics is an effective, maybe the most effective way to get Democrats to the polls in an election year. That's why they do it. What we learned last night is that identity politics has a bigger purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race",
-      "originalUrl": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab281d45-8c11-4bd0-8b40-7067347c261a/d9a98de5-8731-421a-851e-211aab65eee2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp",
-      "publishedDateTime": "2020-10-10T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-tells-rush-limbaugh-he-might-not-have-recovered-from-covid-19-without-regeneron-antibody-cocktail.md",
-      "title": "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail",
-      "excerpt": "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f80a012ea74820019ca6469?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp",
-      "publishedDateTime": "2020-10-10T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

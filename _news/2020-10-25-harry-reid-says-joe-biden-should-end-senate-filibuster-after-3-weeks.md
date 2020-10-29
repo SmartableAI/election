@@ -43,6 +43,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Glenn Greenwald, Legendary Progressive Journalist, Resigns Over Censorship of Biden Criticism"
+    excerpt: "\"The same trends of repression, censorship and ideological homogeneity plaguing the national press generally have engulfed the media outlet I co-founded, culminating in censorship of my own articles,\" he wrote."
+    publishedDateTime: 2020-10-29T18:16:00Z
+    webUrl: "https://www.newsweek.com/glenn-greenwald-legendary-progressive-journalist-resigns-over-censorship-biden-criticism-1543317"
+    ampWebUrl: "https://www.newsweek.com/glenn-greenwald-legendary-progressive-journalist-resigns-over-censorship-biden-criticism-1543317?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/glenn-greenwald-legendary-progressive-journalist-resigns-over-censorship-biden-criticism-1543317?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1661493/glenn-greenwald.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "5FCOJNWuk8EeUpv77L4+AR4wOptlyHCIXS9cEvHIg1MPGK6Yr4bLqb4WJDIYUeVQOI6LiiLaOKXjcrnVCtT2nEXxrys9pBLfXw54eMNlXdMoDuZVSagZK0zI143CH/nB60gM4g3t7I5b8YBniXBF1zbmN4hiWV+3UbUpyFG9BuY6R40KqpU4UZ3DYAw+NbJxCJoSersw0wDURwEl2ODTEp65DiqdF4vUEXEb9DESMIuJQr/bjf19d7MXeX6t6n0HVG8zKMWIQHQ02PRGbA0U5TGt3uuU3QsO2vhiKVWCf0ec236uA1gHkonZDb9fqI+chpSVrf8LR0YJWU4PJ3znfyLH54VVq+GYMlGUNW+d6sMEQJy/kHj7QPI6bCiRyy6E4dqQM4wbzgqCWfnoNIZJ61KTwsU1Vbd5QcsKoL4xwhfeDlxBKn3I5MG+65rxQsSsEgvsbpLKlaqvDOGVsBwZyRAEruX4Qino8U5x4lk9B6tNQ3gC7Tpu543ahU11I0Eae/ImWbUP+SIPeXLMG5kTfA==;SRLxOKfQkLY6KWldo5Ji5g=="
 ---

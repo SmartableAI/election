@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-election-barret
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "WSJ's Henninger: Biden’s candidacy ‘largely symbolic,’ Sanders and progressives control Democrats"
+    excerpt: "Joe Biden is \"basically Bernie Sanders in sheep's clothing,\" Wall Street Journal editorial page deputy editor Daniel Henninger argued Thursday."
+    publishedDateTime: 2020-10-29T18:17:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tfFAr8zp47U/biden-election-joe-socialism-bernie-sanders-platform-wsj-daniel-henninger"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-election-joe-socialism-bernie-sanders-platform-wsj-daniel-henninger.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-election-joe-socialism-bernie-sanders-platform-wsj-daniel-henninger.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "If Biden wins and Dems control Congress, SCOTUS will be expanded: Graham"
     excerpt: "Joe Biden and the Democratic Party want to expand the Supreme Court to at least 13 seats to make it liberal if Republicans succeed in confirming Amy Coney Barrett, Sen. Lindsey Graham, R-S.C., told \"Fox & Friends\" on Thursday."
     publishedDateTime: 2020-10-23T02:24:00Z

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-29-pence-stumps-for-vulnerable-gop-senators-resisting-democrat-takeover.md",
+      "title": "Pence stumps for vulnerable GOP senators resisting Democrat takeover",
+      "excerpt": "Vice President Mike Pence is campaigning with four GOP senators this week in an effort to boost their precarious standing in races that will help determine which party controls the upper chamber of Congress.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ikrZ2JjQoR0/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ikrZ2JjQoR0/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/257344f4-Pence.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate.amp",
+      "publishedDateTime": "2020-10-29T11:38:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-mike-pence-holds-rally-at-des-moines-airport-as-election-day-approaches.md",
       "title": "Mike Pence holds rally at Des Moines airport, as Election Day approaches",
       "excerpt": "Five days before Election Day and with early voting in Iowa well underway, Vice President Mike Pence will hold a rally Thursday at the Des Moines International Airport. Doors open for the \"Make America Great Again\" rally at 11:30 a.m. The event is ...",
@@ -936,7 +993,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1133,
+      "heat": 1153,
       "tags": null,
       "images": [
         {
@@ -1467,49 +1524,6 @@
       "provider": {
         "name": "The Oakland Press",
         "domain": "theoaklandpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-gallery-pence-visits-the-granite-state.md",
-      "title": "Gallery: Pence visits the Granite State",
-      "excerpt": "Visit the post for more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/",
-      "originalUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems15-1.jpg?w=1024&h=627",
-          "width": 1024,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
-      "publishedDateTime": "2020-10-21T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -36,6 +36,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 65
+  - title: "The Latest: Mrs. Trump Warms up Tampa Crowd at Trump Rally"
+    excerpt: "First lady Melania Trump is making her first joint campaign appearance of the year with her husband. Mrs. Trump warmed up the large crowd outside Raymond James Stadium in Tampa for President Donald Trump."
+    publishedDateTime: 2020-10-29T19:04:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "BMtvq9cu9lRBviXdWZAKyUZ36t5wW4cyWDmVhdl1PafJFQnGqcREgxozq+vBW/LOQplE5kPJxV6kV3+T0w/4S3hhVu9sMmItTRbKINJmGwvPad4tSs/IgPod5mEzFsoMnuP+zRfKpWKro02zdUP7ERFjHIz5LFeFoMwwakdKRPjHUmJtRL3CMv7oyLO9eWIsTfV0+VBcLNU9ApywTQFQ0G6kuQal68Q4q7n9l5aQZn4ZiQA0vCeaHvcZdYt+NUyfv07v8zs//V0PPDKAKA5uhKbR7/hukboVsAnPUcIGOYzzJQP22QDLqVZFLev4uJJt9QXgqpq3daXtBC/JN74SlZaa1E/89EbG+GacydGHBvE=;CWA2AtZ0uYdAw+PwKb6jRQ=="
 ---

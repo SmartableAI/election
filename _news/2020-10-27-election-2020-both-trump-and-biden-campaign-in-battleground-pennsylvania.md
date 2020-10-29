@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 3514
+heat: 3534
 published: true
 
 provider:
@@ -1551,6 +1551,17 @@ related:
     webUrl: "https://www.businessinsider.com/trump-biden-to-appeal-to-last-minute-voters-in-florida-2020-10"
     ampWebUrl: "https://www.businessinsider.com/trump-biden-to-appeal-to-last-minute-voters-in-florida-2020-10?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-to-appeal-to-last-minute-voters-in-florida-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "The Latest: Biden in Florida, which went for Trump in 2016"
+    excerpt: "WASHINGTON (AP) — The Latest on the (all times local):"
+    publishedDateTime: 2020-10-29T19:05:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-in-florida-which-went-for-trump-in-2016-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-in-florida-which-went-for-trump-in-2016-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-in-florida-which-went-for-trump-in-2016-2020-10?amp"
     type: article
     provider:
       name: Business Insider

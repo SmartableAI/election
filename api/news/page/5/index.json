@@ -2,6 +2,281 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-26-pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.md",
+      "title": "Pence campaigns with 'medically informed' approach to events after staffers test positive for COVID-19",
+      "excerpt": "Vice President Pence has returned to the campaign trail after key staffers tested positive for the novel coronavirus, however his team is taking a “thoughtful” and “medically-informed” approach to his travel this week in the final stretch until Election Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MgfSKow3O8Y/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MgfSKow3O8Y/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.amp",
+      "publishedDateTime": "2020-10-26T11:50:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-trump-mocks-biden-to-pennsylvania-crowd-over-oil-comment-he-blew-it.md",
+      "title": "Trump mocks Biden to Pennsylvania crowd over oil comment: 'He blew it'",
+      "excerpt": "President Trump warned Pennsylvania residents that a Joe Biden administration would sink their state's economy, while mocking his Democratic rival for what he called a \"shocking admission\" about his energy policy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 470,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5237d17-29f2-4497-97f7-90df3b44d487/d8f57439-b93c-40ab-a426-5b9656ebedfa/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp",
+      "publishedDateTime": "2020-10-26T11:49:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-kamala-harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.md",
+      "title": "Kamala Harris thinks she can laugh her way through serious questions: Pavlich",
+      "excerpt": "Editor Katie Pavlich called Democratic vice-presidential nominee Sen. Kamala Harris “the most far-left Democrat in Washington, D.C.,\" and said Joe Biden picked her to \"make sure that the left wing of the party felt comfortable\" that they would have a voice in his administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pb5kaipyfMc/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pb5kaipyfMc/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 242,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp",
+      "publishedDateTime": "2020-10-26T11:32:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-fact-check-voa-video-is-not-a-biden-ad-to-address-the-muslim-community.md",
+      "title": "Fact check: VOA video is not a Biden ad to address the Muslim community",
+      "excerpt": "Users on social media are sharing a video with Urdu subtitles showing democratic presidential candidate Joe Biden. Some posts refer to the clip as “Biden’s Muslim Commercial” claiming it was produced by the Biden campaign and that it is “being promoted in areas of",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-biden-not-muslim-ad-idUSKBN27B22U",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-biden-not-muslim-ad-idUSKBN27B22U",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538869649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1D7",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27B22U",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B22U",
+      "publishedDateTime": "2020-10-26T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-trump-attacked-biden-for-warning-against-4-more-years-of-george-but-the-democrat-has-long-called-himself-a-gaffe-machine.md",
+      "title": "Trump attacked Biden for warning against '4 more years of George,' but the Democrat has long called himself a 'gaffe machine'",
+      "excerpt": "Joe Biden called President Donald Trump \"George\" during a campaign event. Biden has been open about his stutter, calling himself a \"gaffe machine.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
+      "originalUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f96ad79f21803001222bdca?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
+      "publishedDateTime": "2020-10-26T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-jared-kushner-peace-deals-are-much-harder-than-president-trump-is-making-them-look.md",
       "title": "Jared Kushner: Peace deals 'are much harder than President Trump is making them look'",
       "excerpt": "Peace deals “are much harder than President Trump is making them look,” White House adviser Jared Kushner, who has been involved in brokering the Middle East peace deals, told “Fox & Friends” on Monday.",
@@ -876,7 +1151,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1082,269 +1357,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-anti-protesters-attack-jews-for-trump-vehicle-convoy-in-new-york-city.md",
-      "title": "Anti-protesters attack 'Jews for Trump' vehicle convoy in New York City",
-      "excerpt": "A “Jews For Trump” vehicle convoy was repeatedly attacked and heckled as it made its way through New York City Sunday morning to show its support of the president, video shows.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PND8gQGleCM/anti-protesters-attack-jews-trump-vehicle-convoy-new-york",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PND8gQGleCM/anti-protesters-attack-jews-trump-vehicle-convoy-new-york",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a64957c-f086-429b-be60-90d1939c0490/0f5ce448-efab-4db0-be44-9bc4a9b4079a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/anti-protesters-attack-jews-trump-vehicle-convoy-new-york.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-protesters-attack-jews-trump-vehicle-convoy-new-york.amp",
-      "publishedDateTime": "2020-10-25T12:44:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-trump-insists-us-rounding-the-turn-on-coronavirus-pandemic-at-new-hampshire-rally.md",
-      "title": "Trump insists US 'rounding the turn' on coronavirus pandemic at New Hampshire rally",
-      "excerpt": "President Trump attacked Democratic nominee Joe Biden as the \"shutdown candidate\" and claimed Biden would reverse the U.S.'s \"economic comeback\" at a rally in Manchester, N.H., on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bZs1iDy7lKo/trump-rally-nh-biden-shutdown-candidate-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bZs1iDy7lKo/trump-rally-nh-biden-shutdown-candidate-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20299623021498.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-rally-nh-biden-shutdown-candidate-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-nh-biden-shutdown-candidate-coronavirus.amp",
-      "publishedDateTime": "2020-10-25T12:10:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-ice-cube-im-not-playing-politics-by-working-with-trump-campaign-on-platinum-plan-for-black-americans.md",
-      "title": "Ice Cube: 'I'm not playing politics' by working with Trump campaign on 'Platinum Plan' for Black Americans",
-      "excerpt": "Rapper Ice Cube continued to defend himself against social media attacks for working with President Trump on his \"Platinum Plan\" for Black Americans, telling “Fox News Sunday” that he is “not playing politics with this.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NwDXyao1Jko/ice-cube-interview-trump-campaign-platinum-plan-black-americans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NwDXyao1Jko/ice-cube-interview-trump-campaign-platinum-plan-black-americans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ice-cube-interview-trump-campaign-platinum-plan-black-americans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-cube-interview-trump-campaign-platinum-plan-black-americans.amp",
-      "publishedDateTime": "2020-10-25T11:37:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-health-experts-question-pence-campaigning-as-essential-work.md",
-      "title": "Health experts question Pence campaigning as essential work",
-      "excerpt": "Health policy specialists are questioning Vice President Mike Pence’s claim that federal rules on essential workers allow him to continue to campaign and not quarantine himself after exposure to multi",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html?outputType=amp",
-      "publishedDateTime": "2020-10-25T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county.md",
-      "title": "Kamala Harris’ husband Doug Emhoff campaigns in Aroostook County",
-      "excerpt": "Emhoff toured the Lundeen Potato Facility in Mars Hill and spoke at a get-out-the-vote rally at Farm Park in Fort Fairfield to help the Biden-Harris ticket win Maine’s toss-up 2nd Congressional District.",
-      "sourceUrl": null,
-      "webUrl": "https://bangordailynews.com/2020/10/25/politics/kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county/",
-      "originalUrl": "https://bangordailynews.com/2020/10/25/politics/kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Douglas-Emhoff-8-Cropped.jpg?fit=2500%2C1563&#038;ssl=1",
-          "width": 2500,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-25T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangor Daily News",
-        "domain": "bangordailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

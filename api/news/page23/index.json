@@ -2,6 +2,266 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-10-06-a-perverse-potuss-projection-every-time-trump-accuses-he-reveals-his-own-guilt.md",
+      "title": "A perverse POTUS’s projection: Every time Trump accuses, he reveals his own guilt",
+      "excerpt": "A rule of thumb, and twitter thumbs, we’ve learned the hard way these past few years: If Donald Trump is accusing someone of a wrongdoing, he’s probably guilty of it himself. Psychologists call this projection,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html",
+      "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/zp62sjxdixnH68j05vd2qKUulcc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6HXZ2SXOYNAXDADS7SUMUPV6WI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-06T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-an-embarrassment-trump-tweet-angers-pandemic-survivors.md",
+      "title": "'An embarrassment': Trump tweet angers pandemic survivors",
+      "excerpt": "Some survivors of COVID-19 and people who have lost loved ones to the pandemic are angry over President Donald Trump's advice not to fear the disease",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_0c3ded261d674c6b8dfbbb215da83719_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
+      "publishedDateTime": "2020-10-05T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it.md",
+      "title": "Michelle Obama Makes Final Pitch: 'Vote For Joe Biden Like Your Lives Depend On It'",
+      "excerpt": "President Trump \"continues to gaslight the American people by acting like this pandemic is not a real threat,\" Michelle Obama says in video remarks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it",
+      "originalUrl": "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/10/06/michelle-obama-closing-argument_wide-53ba9b0b61da569863ffca9af3caba3915ebbbfe.png?s=1400",
+          "width": 1400,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-dont-underestimate-mike-pence.md",
+      "title": "Don’t Underestimate Mike Pence",
+      "excerpt": "A soothing dose of Hoosier calm might be just what the Trump campaign needed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848",
+      "originalUrl": "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-240708/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/dont-underestimate-mike-pence-11601938848",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/dont-underestimate-mike-pence-11601938848",
+      "publishedDateTime": "2020-10-05T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-biden-suggests-people-were-able-to-quarantine-because-some-black-woman-was-able-to-stack-the-grocery-shelf-in-viral-clip.md",
+      "title": "Biden suggests people were able to quarantine because 'some Black woman was able to stack the grocery shelf' in viral clip",
+      "excerpt": "Joe Biden has landed in hot water over a viral clip of him suggesting why people were able to quarantine during the coronavirus pandemic. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dopeqZvkfK4/biden-suggests-people-were-able-to-quarantine-because-some-black-woman-was-able-to-stack-the-grocery-shelf-in-viral-clip",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dopeqZvkfK4/biden-suggests-people-were-able-to-quarantine-because-some-black-woman-was-able-to-stack-the-grocery-shelf-in-viral-clip",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06b14781-f33c-443a-a085-173614e85293/ed765b78-069f-429b-8d8b-85fbc0065ecc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-suggests-people-were-able-to-quarantine-because-some-black-woman-was-able-to-stack-the-grocery-shelf-in-viral-clip.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-suggests-people-were-able-to-quarantine-because-some-black-woman-was-able-to-stack-the-grocery-shelf-in-viral-clip.amp",
+      "publishedDateTime": "2020-10-05T18:12:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-biden-describes-the-first-debate-as-a-clownish-undertaking.md",
       "title": "Biden describes the first debate as a 'clownish undertaking'",
       "excerpt": "Joe Biden was asked about his first debate with President Trump, and if he could stand up to his opponent in the future. He said the debate frustrated him but should have described it as a \"clownish undertaking\" instead of calling the president a clown.",
@@ -1067,275 +1327,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-trump-told-woodward-in-march-he-didnt-have-a-lot-of-time-to-meet-with-fauci-in-newly-released-audio.md",
-      "title": "Trump told Woodward in March he didn't have 'a lot of time' to meet with Fauci in newly released audio",
-      "excerpt": "President Donald Trump in March said he didn't have \"a lot of time\" to meet with Dr. Anthony Fauci as the coronavirus pandemic surged across the US, according to newly released audio from an interview with journalist Bob Woodward.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/twjwNE554QM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/twjwNE554QM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201001100032-01-trump-0930-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/politics/trump-coronavirus-woodward/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-coronavirus-woodward/index.html",
-      "publishedDateTime": "2020-10-05T04:26:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-top-israeli-rabbis-and-us-envoy-pray-for-trump-recovery.md",
-      "title": "Top Israeli rabbis, and U.S. envoy, pray for Trump recovery",
-      "excerpt": "Israel's rabbis prayed for U.S. President Donald Trump to recover from COVID-19 on Monday, invoking his name in a Jewish holiday ceremony at Jerusalem's Western Wall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-jewish-bless/top-israeli-rabbis-and-u-s-envoy-pray-for-trump-recovery-idUSKBN26Q1IE",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-jewish-bless/top-israeli-rabbis-and-u-s-envoy-pray-for-trump-recovery-idUSKBN26Q1IE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536199207&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG940W5",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26Q1IE",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q1IE",
-      "publishedDateTime": "2020-10-05T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-australia-shares-jump-2-on-jobs-stimulus-trumps-health-progress.md",
-      "title": "Australia shares jump 2% on jobs stimulus, Trump's health progress",
-      "excerpt": "Australian shares rose more than 2% on Monday after the government announced plans to earmark additional wage subsidies to help spur employment, and as investors continued to hope for a swifter recovery of U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/australia-stocks-midday-idINL4N2GW009",
-      "originalUrl": "https://www.reuters.com/article/australia-stocks-midday-idINL4N2GW009",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536144713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG930VV",
-          "width": 807,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINL4N2GW009",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL4N2GW009",
-      "publishedDateTime": "2020-10-04T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-russians-have-committed-to-not-interfering-in-elections-trump-aide-insists.md",
-      "title": "Russians ‘Have Committed’ to Not Interfering in Elections, Trump Aide Insists",
-      "excerpt": "Robert C. O’Brien, the national security adviser, said he warned his Russian counterpart there would be “no tolerance” for interference, but didn’t mention evidence of Moscow’s influence operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/04/us/04dc-russia-foto/04dc-russia-foto-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html",
-      "publishedDateTime": "2020-10-04T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden.md",
-      "title": "Will new Florida voters tip the election in favor of Joe Biden?",
-      "excerpt": "Are we there yet? After the first debate, and the news about Donald Trump, many Americans are wondering when the election will end.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden",
-      "originalUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 520,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_030820getty_2.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp",
-      "publishedDateTime": "2020-10-04T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

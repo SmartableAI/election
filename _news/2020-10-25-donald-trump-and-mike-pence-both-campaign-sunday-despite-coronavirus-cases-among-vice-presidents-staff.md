@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6031990002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002"
 type: article
 quality: 133
-heat: 1133
+heat: 1153
 published: true
 
 provider:
@@ -400,6 +400,22 @@ related:
     quality: 85
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f92da59cdd9baa8c7aac7f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In Flint, Mike Pence downplays systemic racism and urges support for Donald Trump"
+    excerpt: "President Donald Trump supports law enforcement, does not believe in institutional racism and is the only right choice for the voters of Michigan, Vice President Mike Pence said during a speech in Flint on Wednesday evening. The speech came six days ..."
+    publishedDateTime: 2020-10-29T01:04:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/28/mike-pence-flint-systemic-racism-trump/6062946002/"
+    ampWebUrl: "https://amp.freep.com/amp/6062946002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6062946002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 85
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/8e0b3abe-1494-47ca-8690-84a0c02238fb-AP20296625847430.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

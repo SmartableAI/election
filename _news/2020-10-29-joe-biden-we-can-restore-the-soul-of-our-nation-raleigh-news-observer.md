@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.newsobserver.com/opinion/article246778127.html"
 cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article246778127.html"
 type: article
 quality: 73
-heat: 113
-published: true
+heat: -1
+published: false
 
 provider:
   name: Raleigh News & Observer
@@ -27,38 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden: Vacancy about health law, not court expansion | Raleigh News & Observer"
-    excerpt: "Democratic presidential candidate Joe Biden says the GOP’s push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law."
-    publishedDateTime: 2020-09-27T23:20:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article246048190.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/business/article246048190.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article246048190.html"
+  - title: "America is changing. Joe Biden can help us through the transformation."
+    excerpt: "Joe Biden is more than just the stop-the-madness alternative to an unhinged incumbent. He has the potential to be a transformational president who guides the nation through an inevitable period of wrenching change."
+    publishedDateTime: 2020-10-29T19:57:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 69
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557046001/7d5e9510-8587-4c57-9893-705790042a29/main/1280x720/22s304ms/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7WR5GVAZ5YI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Kamala Harris’ cultural background will make her a player on the global stage | Raleigh News & Observer"
-    excerpt: "In fact, Harris could be key to building new strategic global relationships and alliances. (Disclosure: My wife and I are Harris’ longtime friends.) While Biden shores up NATO, reaffirms multilateral agreements and Zoom calls his close foreign-leader friends,"
-    publishedDateTime: 2020-10-23T09:00:00Z
-    webUrl: "https://www.newsobserver.com/opinion/article246646338.html"
-    ampWebUrl: "https://amp.newsobserver.com/opinion/article246646338.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article246646338.html"
+  - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
+    excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."
+    publishedDateTime: 2020-10-28T04:13:00Z
+    webUrl: "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/20abb006-d41d-4dd8-84f0-3820e7564a85/d0da5d09-ca64-49b5-95fa-1b1ce1a870c4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/5f98a2b769331a0011bc59db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "Kremlin Says Joe Biden Is Wrong That Russia Is Number One Threat"
+    excerpt: "Putin, who has praised Trump in the past for saying he wanted better ties with Moscow, has said Russia will work with any U.S. leader, while noting what he called Joe Biden's \"sha"
+    publishedDateTime: 2020-10-26T10:52:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-26/kremlin-says-joe-biden-is-wrong-that-russia-is-number-one-threat"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-26/kremlin-says-joe-biden-is-wrong-that-russia-is-number-one-threat?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-26/kremlin-says-joe-biden-is-wrong-that-russia-is-number-one-threat?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "kyRJO0+bFlmA29w1hjoIc2yzT5duU9w/F35KAjTfnG9i0UjVYiTx1IWUQl/DaGU5bxXGQAF7A3GauO6TqIHjZt9CfTOZK7zlLijF0hw6KYyFwA2OUD/CKU47dJvpbwZhYQ6acCSsMJUPQTsS92ZcUDoDBHA/m6LDGiRH8qeghg5kAAj/GoCA1Hv9d3elPu9ELDJ4hwDoOQaZJ7X2Z68i+KRvSc3WKFdQJHzQGRcyCQHP6+T65MijzqXZ9e2EIqAe59jhe4VNAKPmmH/tKpMSKh7xSBueKx+hbOAaNJWpqtKWovEClExZnPa0gT1shJjZuU5LGLR6FaoMWwjgxYm0HbtMAYrGobAzBBJG9vehftQ=;XV2c9SPn5KOoZEilS0DGUw=="
 ---

@@ -1562,6 +1562,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "The Latest: Biden in Florida, which went for Trump in 2016"
+    excerpt: "WASHINGTON (AP) — The Latest on the (all times local):"
+    publishedDateTime: 2020-10-29T19:05:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-in-florida-which-went-for-trump-in-2016-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-in-florida-which-went-for-trump-in-2016-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-in-florida-which-went-for-trump-in-2016-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z

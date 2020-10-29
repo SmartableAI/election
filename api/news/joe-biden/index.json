@@ -2,6 +2,167 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-30-america-is-changing-joe-biden-can-help-us-through-the-transformation.md",
+      "title": "America is changing. Joe Biden can help us through the transformation.",
+      "excerpt": "Joe Biden is more than just the stop-the-madness alternative to an unhinged incumbent. He has the potential to be a transformational president who guides the nation through an inevitable period of wrenching change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html",
+      "originalUrl": "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7WR5GVAZ5YI6XC62QFGKK3QTRM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-29T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-biden-cunningham-hold-narrow-leads-in-north-carolina-poll.md",
+      "title": "Biden, Cunningham hold narrow leads in North Carolina: poll",
+      "excerpt": "Democratic presidential nominee Joe Biden has a narrow lead over President Trump in North Carolina, while Democrat Cal Cunningham holds a similarly slim lead in the Tarheel State’s marquee Senate race in a new survey released Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll",
+      "originalUrl": "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_102720getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp",
+      "publishedDateTime": "2020-10-29T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-biden-and-cunningham-hold-slim-leads-in-north-carolina-poll-finds.md",
+      "title": "Biden and Cunningham Hold Slim Leads in North Carolina, Poll Finds",
+      "excerpt": "Joe Biden and Cal Cunningham both led their Republican rivals by three points, a Times/Siena College survey found. Perhaps most notably, 64 percent of respondents said they had already voted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/28/us/-promo-1603923638541/-promo-1603923638541-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.amp.html",
+      "publishedDateTime": "2020-10-29T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-biden-vows-to-pass-lgbtq-rights-legislation-in-first-100-days.md",
       "title": "Biden vows to pass LGBTQ rights legislation in first 100 days",
       "excerpt": "Democratic presidential candidate Joe Biden has promised to make the Equality Act a \"top legislative priority\" should he win Tuesday’s election.",
@@ -56,49 +217,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-joe-biden-we-can-restore-the-soul-of-our-nation-raleigh-news-observer.md",
-      "title": "Joe Biden: We can restore the soul of our nation | Raleigh News & Observer",
-      "excerpt": "The Editorial Board invited both presidential candidates to make their case to voters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsobserver.com/opinion/article246778127.html",
-      "originalUrl": "https://www.newsobserver.com/opinion/article246778127.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/53fd7af8-cdff-4f51-9f62-2cf621c1da9f/913d99e9-deef-42dd-bbd0-15b9cd8cce1f/1280x720/match/image.jpg",
-          "width": 1279,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.newsobserver.com/opinion/article246778127.html",
-      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article246778127.html",
-      "publishedDateTime": "2020-10-29T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raleigh News & Observer",
-        "domain": "newsobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -311,6 +429,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-29-justice-clarence-thomas-wife-boosts-unsupported-claims-against-joe-biden.md",
+      "title": "Justice Clarence Thomas’ wife boosts unsupported claims against Joe Biden",
+      "excerpt": "Other spouses of justices have their own professional lives, but Ginni Thomas is the only one whose work sometimes butts up against her husband’s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/28/supreme-court-justices-wife-boosts-unsupported-claims-joe-biden/6055985002/",
+      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/28/supreme-court-justices-wife-boosts-unsupported-claims-joe-biden/6055985002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/28/USAT/e05da220-1768-4557-8852-3141907929e8-AP_Supreme_Court_Thomas_Wife.jpg?auto=webp&crop=4372,2460,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/6055985002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6055985002",
+      "publishedDateTime": "2020-10-28T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals.md",
       "title": "2020 Hindsight on Impeachment Trial and Unravelling Biden Family Business Deals",
       "excerpt": "Failing to get ahead of what has become the drip, drip of new details on Hunter Biden’s business dealings – and the potential ties to his father – could prove",
@@ -460,58 +621,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-the-wife-of-supreme-court-justice-clarence-thomas-is-using-her-facebook-page-to-spread-misinformation-about-joe-biden.md",
-      "title": "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden",
-      "excerpt": "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10",
-      "originalUrl": "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f98a2b769331a0011bc59db?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp",
-      "publishedDateTime": "2020-10-27T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     },
@@ -848,7 +957,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1112,58 +1221,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-north-carolina-man-with-van-full-of-guns-asked-should-i-kill-joe-biden-online-authorities-say.md",
-      "title": "North Carolina man with van full of guns asked 'Should I kill Joe Biden?' online, authorities say",
-      "excerpt": "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3740228001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740228001",
-      "publishedDateTime": "2020-10-23T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1507,58 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-barack-obama-to-hold-his-first-in-person-event-for-joe-biden.md",
-      "title": "Barack Obama to hold his first in-person event for Joe Biden",
-      "excerpt": "Former President Barack Obama is returning to Philadelphia for his first in-person 2020 campaign event for Joe Biden",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/barack-obama-hold-person-event-biden-73729555",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/barack-obama-hold-person-event-biden-73729555",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 685,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_780daad769b74145af658daf2b35df6e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-person-event-biden-73729555",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-person-event-biden-73729555",
-      "publishedDateTime": "2020-10-21T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

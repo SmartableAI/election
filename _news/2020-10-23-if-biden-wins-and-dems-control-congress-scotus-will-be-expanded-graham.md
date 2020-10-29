@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "WSJ's Henninger: Biden’s candidacy ‘largely symbolic,’ Sanders and progressives control Democrats"
+    excerpt: "Joe Biden is \"basically Bernie Sanders in sheep's clothing,\" Wall Street Journal editorial page deputy editor Daniel Henninger argued Thursday."
+    publishedDateTime: 2020-10-29T18:17:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tfFAr8zp47U/biden-election-joe-socialism-bernie-sanders-platform-wsj-daniel-henninger"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-election-joe-socialism-bernie-sanders-platform-wsj-daniel-henninger.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-election-joe-socialism-bernie-sanders-platform-wsj-daniel-henninger.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "HEFzP8YtSy6ERjZL0MGCRRIJvRSKI5obtReSk58DD9PyPrqU7QYQ4FToGIzVEvnJuMkRDu2Ep5Xp5cwIayTUJ3PWzSAK7OMuWNmu6W7lC98pjt5Wyv6GYdMJ51yP54o0xuuOyU2Gc+aO+szX3LJg/MufLV2QkwcMN9DZNI/OorpBZgDr/nlDy3Qapv4QNQ2p0px3u50I2yMVS4wxiWzEAbO1Wrt69jDC4W2NO9kZh2tJHf4ruIH07lNVcRgGApokYygu165UMmaL3pSSo+JP6kTgbF57RsBwMew19Hksb8UrypNiBfWFWRhxRfc9YacShC0QoFt81pKo89jU3yB4VHBoOyWywMJ5VePra1BE5BdKbxzlwBYojfh/Cqz67KTLxU9lnimLJX27VxSGdnXVnxmWosOsLub7CkaPJr46NNDYc0c6JJfhV++c1sdKfYLtHacw3F3oWj98N9M3g7QSRiHkk5BqqzLvhp95XXy6KwzQ/wbLbxSsHmw8olE8AC/Iuk8h1BJipPErn0Ur2n6N2w==;zNmBfJBK3geINNGF4KZv3w=="
 ---

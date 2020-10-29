@@ -414,6 +414,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In Flint, Mike Pence downplays systemic racism and urges support for Donald Trump"
+    excerpt: "President Donald Trump supports law enforcement, does not believe in institutional racism and is the only right choice for the voters of Michigan, Vice President Mike Pence said during a speech in Flint on Wednesday evening. The speech came six days ..."
+    publishedDateTime: 2020-10-29T01:04:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/28/mike-pence-flint-systemic-racism-trump/6062946002/"
+    ampWebUrl: "https://amp.freep.com/amp/6062946002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6062946002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 85
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/8e0b3abe-1494-47ca-8690-84a0c02238fb-AP20296625847430.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump goes after Fauci, tries to buck up his campaign team"
     excerpt: "President Donald Trump sought Monday to buck up his campaign staff two weeks from Election Day, dismissing the cautionary coronavirus advice of his scientific experts as well as polling showing him trailing Democratic rival Joe Biden across key battleground states."
     publishedDateTime: 2020-10-19T19:17:00Z

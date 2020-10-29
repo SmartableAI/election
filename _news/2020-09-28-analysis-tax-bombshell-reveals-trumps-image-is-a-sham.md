@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Homeland Security officials echo Trump's campaign border wall rhetoric days before election"
+    excerpt: "Acting Homeland Security Secretary Chad Wolf, flanked by several senior department officials, hyped the administration's efforts to construct hundreds of miles of wall along the US-Mexico border while lavishing praise on President Donald Trump less than a week before Election Day.\n    \n"
+    publishedDateTime: 2020-10-29T19:48:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JgsKrcenqWQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/homeland-security-border-wall-wolf-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/homeland-security-border-wall-wolf-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029141817-chad-wolf-1029-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: How Trump's losing among seniors at a historic rate"
     excerpt: "Former Vice President Joe Biden has jumped out to an 11-point lead over President Donald Trump in CNN's poll of polls. While Biden is doing better with pretty much all groups compared with 2016 Democratic nominee Hillary Clinton, one group jumps out: seniors.\n    \n"
     publishedDateTime: 2020-10-06T19:44:58Z
@@ -494,6 +510,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/25/us/politics/25dc-virus-pence-1/merlin_179009127_6fdf2356-e0d4-4265-a4a0-c44cd0c2f1c1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump has signaled he won't accept an election loss. Many of his voters agree."
+    excerpt: "Brandishing faulty or unsubstantiated claims of fraudulent ballots, the president has planted seeds of doubt about the race's outcome if Biden wins. They appear to have taken root."
+    publishedDateTime: 2020-10-29T19:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-has-signaled-he-won-t-accept-election-loss-many-n1245304"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245304"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245304"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 146
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_44/3424035/201029-donald-trump-arizona-jm-1343_6c7ea402f9b30965473a80ad118a26f8.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "If Trump loses the election, QAnon will also lose support — and eventually disintegrate"
     excerpt: "When cult adherents get confused, then ashamed, then realize they’ve been scammed, they get angry and exit. People are not permanently programmed."

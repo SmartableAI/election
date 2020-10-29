@@ -151,6 +151,20 @@ related:
         width: 2400
         height: 1482
         isCached: true
+  - title: "Key events in North Korea-U.S. ties during the Trump presidency"
+    excerpt: "North Korea's Kim Jong Un awaits the winner of next week's U.S. presidential election armed with greater leverage in their high-stakes nuclear diplomacy thanks to a more powerful and versatile arsenal"
+    publishedDateTime: 2020-10-29T18:51:00Z
+    webUrl: "https://www.reuters.com/news/picture/key-events-in-north-korea-us-ties-during-idUSRTX85VOS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539310419&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-29T181801Z_37240_MRPRC11C2363840_RTRMADP_0_NORTHKOREA-USA"
+        width: 810
+        height: 539
+        isCached: true
   - title: "New Florida Resident Trump Casts Presidential Ballot for Himself"
     excerpt: "U.S. President Donald Trump voted in his new home state of Florida on Saturday, casting his ballot for his re-election at a public library across the street from one of his golf clubs. Trump, wearing a mask to prevent the spread of coronavirus,"
     publishedDateTime: 2020-10-24T16:02:00Z

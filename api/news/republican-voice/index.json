@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-29-pence-stumps-for-vulnerable-gop-senators-resisting-democrat-takeover.md",
+      "title": "Pence stumps for vulnerable GOP senators resisting Democrat takeover",
+      "excerpt": "Vice President Mike Pence is campaigning with four GOP senators this week in an effort to boost their precarious standing in races that will help determine which party controls the upper chamber of Congress.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ikrZ2JjQoR0/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ikrZ2JjQoR0/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/257344f4-Pence.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate.amp",
+      "publishedDateTime": "2020-10-29T11:38:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-pelosi-i-feel-very-confident-that-joe-biden-will-be-elected-president-on-tuesday.md",
       "title": "Pelosi: 'I feel very confident that Joe Biden will be elected president on Tuesday'",
       "excerpt": "House Speaker Nancy Pelosi projected Thursday that Joe Biden would win the White House and said Democrats are ready to work with him on a transition agenda to tackle the coronavirus pandemic, address the economic fallout and pass an infrastructure agenda. ",
@@ -14,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1474,7 +1531,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1845,
+      "heat": 1865,
       "tags": null,
       "images": [
         {
@@ -1603,62 +1660,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp",
       "publishedDateTime": "2020-10-27T13:10:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome.md",
-      "title": "Trump already chose Barrett successor on appeals court, confirmation possible regardless of election outcome",
-      "excerpt": "With Justice Amy Coney Barrett now on the Supreme Court, a new vacancy has opened on the 7th U.S. Circuit Court of Appeals where she previously sat, and President Trump has already named the person he plans to have replace her on that bench. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8UekYnKR5J4/trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8UekYnKR5J4/trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome.amp",
-      "publishedDateTime": "2020-10-27T10:26:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

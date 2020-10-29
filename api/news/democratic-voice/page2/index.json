@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-24-hear-trump-speak-after-voting-in-person-in-florida.md",
+      "title": "Hear Trump speak after voting in person in Florida",
+      "excerpt": "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn",
+      "publishedDateTime": "2020-10-24T08:11:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-in-the-home-stretch-signs-trumps-hard-sell-seniors-pitch-may-be-falling-short.md",
       "title": "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short",
       "excerpt": "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\"",
@@ -1604,62 +1660,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/trump-fugitive-shooting/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-fugitive-shooting/index.html",
       "publishedDateTime": "2020-10-15T20:26:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-savannah-guthrie-grills-trump-at-nbcs-town-hall.md",
-      "title": "Savannah Guthrie grills Trump at NBC's town hall",
-      "excerpt": "Savannah Guthrie used her skills as a former litigator to interrogate President Trump during NBC's town hall.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8av37VQVra0/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8av37VQVra0/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015222513-06-deuling-town-halls-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
-      "publishedDateTime": "2020-10-15T20:07:39-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

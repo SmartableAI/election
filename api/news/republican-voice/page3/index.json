@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-24-gregg-jarrett-hunter-biden-laptop-scandal-even-if-joe-biden-wins-theres-no-way-out-now.md",
+      "title": "Gregg Jarrett: Hunter Biden laptop scandal — Even if Joe Biden wins, there's no way out now",
+      "excerpt": "In the Hunter Biden laptop scandal, the unresolved and trenchant questions are: how much did Joe Biden know and to what extent was he involved",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
+      "originalUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-joy-behar-says-trump-should-be-charged-with-crimes-against-humanity-over-immigration-policy.md",
       "title": "Joy Behar says Trump should be charged with ‘crimes against humanity’ over immigration policy",
       "excerpt": "The View” co-host Joy Behar said on Friday that President Trump and members of his administration should be charged with “crimes against humanity” because of its immigration policy and vowed to not “be a part of a country” that separates children from their parents.",
@@ -575,7 +632,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1587,62 +1644,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-debate-moderator-kristen-welker.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-debate-moderator-kristen-welker.amp",
       "publishedDateTime": "2020-10-20T06:12:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-urges-barr-to-act-fast-appoint-somebody-to-probe-hunter-biden-business-dealings.md",
-      "title": "Trump urges Barr to 'act fast,' 'appoint somebody' to probe Hunter Biden business dealings",
-      "excerpt": "President Trump on Tuesday said Attorney General William Barr needs to “act” and “appoint somebody” after nearly a dozen House Republicans urged him to tap a special counsel to investigate alleged revelations coming from a laptop purported to have belonged to Joe Biden’s son Hunter.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLQAi5Mrcl4/trump-william-barr-act-hunter-biden-business-dealings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLQAi5Mrcl4/trump-william-barr-act-hunter-biden-business-dealings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp",
-      "publishedDateTime": "2020-10-20T05:44:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

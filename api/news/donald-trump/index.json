@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-30-golf-legend-jack-nicklaus-endorses-trump-for-reelection-calls-him-more-diverse-than-any-president-hes-seen.md",
+      "title": "Golf legend Jack Nicklaus endorses Trump for reelection, calls him \"more diverse\" than any president he's seen",
+      "excerpt": "Golf legend Jack Nicklaus said Wednesday that he voted for President Donald Trump, heaping praise on the commander chief while urging Americans to cast their ballots for the president. The18-time major champion posted his endorsement on Twitter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/jack-nicklaus-endorses-president-trump-for-re-election/",
+      "originalUrl": "https://www.cbsnews.com/news/jack-nicklaus-endorses-president-trump-for-re-election/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/29/d729524b-cd24-44f4-9dd1-182757438ac8/thumbnail/1200x630/ccabf10bc005548b9ebac519a087d98b/gettyimages-1128321909.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/",
+      "publishedDateTime": "2020-10-29T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-trump-warns-bad-things-will-happen-to-treasonous-ex-official-miles-taylor.md",
+      "title": "Trump Warns ‘Bad Things’ Will Happen To ‘Treasonous’ Ex-Official Miles Taylor",
+      "excerpt": "After calling for Taylor to be prosecuted for an anonymous 2018 op-ed, Trump extended his call to the New York Times for publishing it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/29/trump-warns-bad-things-will-happen-to-treasonous-ex-official-miles-taylor/",
+      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/29/trump-warns-bad-things-will-happen-to-treasonous-ex-official-miles-taylor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9b1494c59d60756a9e4345%2F0x0.jpg%3FcropX1%3D389%26cropX2%3D4500%26cropY1%3D620%26cropY2%3D2932",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/29/trump-warns-bad-things-will-happen-to-treasonous-ex-official-miles-taylor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/29/trump-warns-bad-things-will-happen-to-treasonous-ex-official-miles-taylor/amp/",
+      "publishedDateTime": "2020-10-29T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-livestream-donald-trump-rally-set-for-fayetteville-thursday.md",
       "title": "Livestream: Donald Trump Rally Set For Fayetteville Thursday",
       "excerpt": "Trump's rally will be held at the Fayetteville Regional Airport, located at 400 Airport Road in Fayetteville. The event is set to begin at 6:30 p.m. Trump's travel to the state highlights just how important his campaign views the Tar Heel state,",
@@ -1369,7 +1473,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-insurrection-explainer/explainer-can-trump-call-in-troops-to-quell-election-day-unrest-idUSKBN27C1DC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 320,
+      "heat": 340,
       "tags": null,
       "images": [
         {
@@ -1436,110 +1540,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-election-2020-both-trump-and-biden-campaign-in-battleground-pennsylvania.md",
-      "title": "Election 2020: Both Trump and Biden campaign in battleground Pennsylvania",
-      "excerpt": "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 3514,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/biden-event-02-gty-jef-201026_1603744290053_hpMain_16x9_1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "publishedDateTime": "2020-10-26T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-twitter-sticks-misleading-label-on-donald-trumps-tweet-about-problems-with-mail-in-ballots.md",
-      "title": "Twitter sticks 'misleading' label on Donald Trump's tweet about problems with mail-in ballots",
-      "excerpt": "President Donald Trump's tweet about \"big\" problems with mail-in ballots was labeled by Twitter as part of its pledge to stop election disinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2020/10/26/donald-trump-twitter-mail-ballots-election-tweet-misleading/6049734002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2020/10/26/donald-trump-twitter-mail-ballots-election-tweet-misleading/6049734002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6049734002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6049734002",
-      "publishedDateTime": "2020-10-26T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

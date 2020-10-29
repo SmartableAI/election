@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-30-biden-and-cunningham-hold-slim-leads-in-north-carolina-poll-finds.md",
+      "title": "Biden and Cunningham Hold Slim Leads in North Carolina, Poll Finds",
+      "excerpt": "Joe Biden and Cal Cunningham both led their Republican rivals by three points, a Times/Siena College survey found. Perhaps most notably, 64 percent of respondents said they had already voted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/28/us/-promo-1603923638541/-promo-1603923638541-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.amp.html",
+      "publishedDateTime": "2020-10-29T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-top-democrat-says-trump-administration-moving-ahead-with-sale-of-f-35-jets-to-the-uae.md",
       "title": "Top Democrat says Trump administration moving ahead with sale of F-35 jets to the UAE",
       "excerpt": "The chairman of the House Foreign Affairs Committee said Thursday that the Trump administration has informally notified Congress of its intent to move forward with a major arms sale to the United Arab Emirates involving advanced F-35 jets.\n    \n",
@@ -408,7 +465,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1250,
+      "heat": 1290,
       "tags": null,
       "images": [
         {
@@ -1610,62 +1667,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/24/politics/trump-republicans-senate/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/trump-republicans-senate/index.html",
       "publishedDateTime": "2020-10-24T15:59:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-hear-trump-speak-after-voting-in-person-in-florida.md",
-      "title": "Hear Trump speak after voting in person in Florida",
-      "excerpt": "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn",
-      "publishedDateTime": "2020-10-24T08:11:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

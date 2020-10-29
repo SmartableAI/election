@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-11-joe-biden-to-campaign-in-cincinnati-and-toledo-on-monday.md",
+      "title": "Joe Biden to campaign in Cincinnati and Toledo on Monday",
+      "excerpt": "Joe Biden returns to Ohio on Monday, with stops in Cincinnati and Toledo, as Vice President Mike Pence campaigns in Columbus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/politics/elections/2020/10/11/joe-biden-campaign-cincinnati-and-toledo-monday/5960275002/",
+      "originalUrl": "https://www.cincinnati.com/story/news/politics/elections/2020/10/11/joe-biden-campaign-cincinnati-and-toledo-monday/5960275002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cincinnati.com/amp/5960275002",
+      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5960275002",
+      "publishedDateTime": "2020-10-11T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-twitter-reacts-to-jim-carreys-joe-biden-impersonation-on-snl.md",
+      "title": "Twitter Reacts To Jim Carrey's Joe Biden Impersonation On 'SNL'",
+      "excerpt": "Jim Carrey's portrayal of Joe Biden on \"Saturday Night Live\" left some viewers disappointed. Some called for Jason Sudeikis or Woody Harrelson to play the former vice-president once more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
+      "originalUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/09/19/jim-carrey.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1",
+      "publishedDateTime": "2020-10-11T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-joe-bidens-2020-appeal-to-the-white-working-class-can-work-just-ask-my-dad.md",
       "title": "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad.",
       "excerpt": "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me.",
@@ -1488,110 +1583,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-joe-biden-tweets-joke-mocking-earpiece-and-drug-allegations-with-photo-of-headphones-and-ice-cream.md",
-      "title": "Joe Biden tweets joke mocking 'earpiece' and 'drug' allegations with photo of headphones and ice cream",
-      "excerpt": "\"I’ve got my earpiece and performance enhancers ready,\" Biden wrote on Twitter with a photo of tangled earbuds and a pint of ice cream.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/09/29/presidential-debate-biden-posts-headphones-mocking-earpiece-theory/3581631001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/09/29/presidential-debate-biden-posts-headphones-mocking-earpiece-theory/3581631001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3581631001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3581631001",
-      "publishedDateTime": "2020-09-29T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in-cross-country-trip.md",
-      "title": "ABC's Martha Raddatz says she didn't see a lot of 'enthusiasm for Joe Biden' in cross-country trip",
-      "excerpt": "ABC's chief global affairs correspondent Martha Raddatz reports “there wasn't a whole lot of enthusiasm for Joe Biden\" during her recent 6,000-mile road trip across America, and that the economy is voters’ main focus.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in",
-      "originalUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in?amp",
-      "publishedDateTime": "2020-09-29T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

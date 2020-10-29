@@ -2,6 +2,115 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-11-victor-davis-hanson-trump-must-make-election-about-class-not-race.md",
+      "title": "Victor Davis Hanson: Trump must make election about class, not race",
+      "excerpt": "We already knew that identity politics is an effective, maybe the most effective way to get Democrats to the polls in an election year. That's why they do it. What we learned last night is that identity politics has a bigger purpose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race",
+      "originalUrl": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab281d45-8c11-4bd0-8b40-7067347c261a/d9a98de5-8731-421a-851e-211aab65eee2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp",
+      "publishedDateTime": "2020-10-10T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-trump-tells-rush-limbaugh-he-might-not-have-recovered-from-covid-19-without-regeneron-antibody-cocktail.md",
+      "title": "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail",
+      "excerpt": "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f80a012ea74820019ca6469?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp",
+      "publishedDateTime": "2020-10-10T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back.md",
       "title": "Nancy Pelosi calls Donald Trump plan ‘one step forward, two steps back’",
       "excerpt": "Pelosi and Treasury Secretary Steven Mnuchin head into weekend negotiations with the top-line number for relief fast approaching the $2 trillion level that many Senate Republicans say they cannot accept.",
@@ -1437,110 +1546,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trumps-niece-mary-says-the-covid-19-situation-in-the-us-is-horrible-because-the-president-sees-illness-as-a-display-of-unforgivable-weakness.md",
-      "title": "Trump's niece, Mary, says the COVID-19 situation in the US is 'horrible' because the president sees illness as 'a display of unforgivable weakness'",
-      "excerpt": "Mary Trump, an outspoken critic of Donald Trump, her uncle, spoke with NPR's \"All Things Considered\" after the president's COVID-19 diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mary-trump-president-sees-illness-unforgivable-weakness-2020-10",
-      "originalUrl": "https://www.businessinsider.com/mary-trump-president-sees-illness-unforgivable-weakness-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7adb552400440019129e20?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mary-trump-president-sees-illness-unforgivable-weakness-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-president-sees-illness-unforgivable-weakness-2020-10?amp",
-      "publishedDateTime": "2020-10-05T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-progressive-groups-launch-we-paid-more-campaign-in-response-to-trump-taxes-report.md",
-      "title": "Progressive groups launch 'We Paid More' campaign in response to Trump taxes report",
-      "excerpt": "A coalition of progressive groups on Monday launched an initiative to make the case that the tax code is too favorable to the wealthy, after The New York Times reported last week that President Trump",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on",
-      "originalUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_092920getty_memo.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp",
-      "publishedDateTime": "2020-10-05T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

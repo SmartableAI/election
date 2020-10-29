@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/522706-white-house-lawyer-help
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp"
 type: article
 quality: 115
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Glenn Greenwald, Legendary Progressive Journalist, Resigns Over Censorship of Biden Criticism"
+    excerpt: "\"The same trends of repression, censorship and ideological homogeneity plaguing the national press generally have engulfed the media outlet I co-founded, culminating in censorship of my own articles,\" he wrote."
+    publishedDateTime: 2020-10-29T18:16:00Z
+    webUrl: "https://www.newsweek.com/glenn-greenwald-legendary-progressive-journalist-resigns-over-censorship-biden-criticism-1543317"
+    ampWebUrl: "https://www.newsweek.com/glenn-greenwald-legendary-progressive-journalist-resigns-over-censorship-biden-criticism-1543317?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/glenn-greenwald-legendary-progressive-journalist-resigns-over-censorship-biden-criticism-1543317?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1661493/glenn-greenwald.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Harry Reid says Joe Biden should end Senate filibuster after 3 weeks"
     excerpt: "Former Senate leader Harry Reid says if Democrats win the presidency and the Senate, Joe Biden should take “no more than three weeks” to test bipartisanship before ending the filibuster so"
     publishedDateTime: 2020-10-25T02:20:00Z

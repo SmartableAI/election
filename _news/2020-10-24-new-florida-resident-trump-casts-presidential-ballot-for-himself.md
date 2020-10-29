@@ -162,6 +162,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Key events in North Korea-U.S. ties during the Trump presidency"
+    excerpt: "North Korea's Kim Jong Un awaits the winner of next week's U.S. presidential election armed with greater leverage in their high-stakes nuclear diplomacy thanks to a more powerful and versatile arsenal"
+    publishedDateTime: 2020-10-29T18:51:00Z
+    webUrl: "https://www.reuters.com/news/picture/key-events-in-north-korea-us-ties-during-idUSRTX85VOS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539310419&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-29T181801Z_37240_MRPRC11C2363840_RTRMADP_0_NORTHKOREA-USA"
+        width: 810
+        height: 539
+        isCached: true
 
 secured: "cj+IuoEl3I2pct2V3wr3aiXnxLVU1iKHVATCKJOgBPli2TohDCGujS9BcGlQRp7w3cMsvhA3IU3es3kA3e2GE1reMUb0gyn3rkWu0gtrCDjt268n6mWogr+JwY8dp88zsAHunqAPqfk92ZEkLpfDQ7OqBSWggvSDyX0KriLO+EZk0BHa3Qa/BRH5ozN+M8avtaHhz5lmDHTS1fToXztsIk1Z0X9o3duO3fsPZ2XOrJDKEKJy0d0hD86B3SRzYQ27PbRUoYTz+DY2HQ8XfNdkwbRX2yMG3EkA8DzAKdlOpcqlAWiVRH1zhiYXnFJO7Bi5Suae0SWT+zcFVlDcMkHOaGTYXsGF7Qrh0Fe4TVYy9WDy9/NGri+AMumpQh2P9jpQd3UDSwc1c3fbq9PRCt4BKZ1euDqtQ+0HsgGwczos6JFSNylmmbumZYgVSsuz8BsTIy+IUIABEAPuMxiwpRVnOcUoueTb5RwnCnPX2+K+brZD3nw+XpJUN21GJmCXzEblQFVO+19DOhKJrYKPt0E3+w==;lTYWHwPhf6DLFI7YMODhFw=="
 ---
