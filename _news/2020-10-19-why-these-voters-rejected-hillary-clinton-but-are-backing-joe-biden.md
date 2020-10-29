@@ -239,6 +239,22 @@ related:
         width: 700
         height: 465
         isCached: true
+  - title: "Hillary Clinton endorses Joe Biden's plans for U.S. court commission"
+    excerpt: "Democratic presidential nominee Joseph R. Biden has found at least one supporter for his idea to create a blue-ribbon panel to study the U.S. court system: Hillary Clinton."
+    publishedDateTime: 2020-10-29T00:20:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/28/hillary-clinton-endorses-joe-bidens-plans-us-court/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/28/hillary-clinton-endorses-joe-bidens-plans-us-court/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/28/hillary-clinton-endorses-joe-bidens-plans-us-court/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/19/Election_2020_DNC_69834.jpg-51cce_c99-0-2811-1582_s1200x700.jpg?6ee2f71840e6d2ce1a6b90520d3850ff9bad6041"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Fmr. President Barack Obama to campaign for Joe Biden in Philadelphia on Wednesday"
     excerpt: "Former President Barack Obama will campaign for Joe Biden in Philadelphia this upcoming week. The Biden campaign announced Friday that Obama will travel to Philly on Oct. 21 to campaign on behalf of the former vice president and Senator Kamala Harris."
     publishedDateTime: 2020-10-17T17:44:00Z

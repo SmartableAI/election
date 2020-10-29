@@ -672,6 +672,20 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Take This Trump Election Day Quiz Before It’s Too Late"
+    excerpt: "Happy Almost Election Day! I know it’s been a tough road, people, but you’ve been doing a great job. And since your vote is basically all about how you regard the last four years of Trumpdom, here’s a quick quiz."
+    publishedDateTime: 2020-10-29T00:05:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/10/28/opinion/election-quiz.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/28/opinion/28Collins-01/28Collins-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Tried to Blur Responsibility for His Family Separation Policy in Final Debate"
     excerpt: "President Trump repeatedly hurled the phrase “They built the cages” at his debate opponent Thursday, but separating children from parents was a policy all his own."
     publishedDateTime: 2020-10-23T23:27:00Z

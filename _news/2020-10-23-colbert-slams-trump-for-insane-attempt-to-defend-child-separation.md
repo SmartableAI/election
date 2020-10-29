@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Colbert’s message to debate viewers who wanted even less Trump: ‘The ultimate mute button is in your hands’"
-    excerpt: "The \"Late Show with Stephen Colbert\" host said the highlight of the night was that he would “never have to watch Donald Trump debate ever again.”"
-    publishedDateTime: 2020-10-23T11:31:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/?outputType=amp"
+  - title: "Federal judge rejects Justice Department's effort to defend Trump in E. Jean Carroll rape defamation suit"
+    excerpt: "Trump's statements about the decades-old \"allegations have no relationship to the official business of the United States,\" the judge wrote."
+    publishedDateTime: 2020-10-29T01:09:00Z
+    webUrl: "https://www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 107
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-23-2020/t_4513567856534e928d248f5715c1d6bf_name_thumb.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Stephen Colbert and Jimmy Kimmel Wonder if it’s Even Possible to Mute ‘POTUS Interruptus’: Trump Will Pull Another Mic ‘Out of His Hair’"
-    excerpt: "Late-night hosts Stephen Colbert and Jimmy Kimmel questioned if it is even possible to silence President Donald Trump after the Commission on Presidential Debates announced that they will be taking measures to ensure there are fewer interruptions during the second debate."
-    publishedDateTime: 2020-10-21T13:37:00Z
-    webUrl: "https://www.mediaite.com/tv/stephen-colbert-and-jimmy-kimmel-wonder-if-its-even-possible-to-mute-potus-interruptus-trump-will-pull-another-mic-out-of-his-hair/"
-    ampWebUrl: "https://www.mediaite.com/tv/stephen-colbert-and-jimmy-kimmel-wonder-if-its-even-possible-to-mute-potus-interruptus-trump-will-pull-another-mic-out-of-his-hair/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/stephen-colbert-and-jimmy-kimmel-wonder-if-its-even-possible-to-mute-potus-interruptus-trump-will-pull-another-mic-out-of-his-hair/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 42
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-21-at-9.19.57-AM-1200x652.jpg"
+      - url: "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg"
         width: 1200
-        height: 652
+        height: 600
         isCached: true
 
 secured: "hyVMgWJE5Thzj1ZlZTEzIyfgsuS+cbuTHseYNloBHpxi7Oq7pQHHNxY2M9EtIleyU8P7HldiZKvPMfyu3jtFM3cggEt6ycTxJnNJIPVEWk3oGrEEyNKWYLaiZBxqHP+U3NBBTk+u1AmuA2wAZ/aJr5YeLa2ZcyS8xvIE/OlH0ZNwxVnUUUoqA0r5XFgw25eQQTGfp+s+7135/hAH3Ui6R5vVkCiaHRXv2ijtUAD5P08K7HsH+GairpbfCQnbgaco2VgkJXTQtcHEJCv+oJsT7wCOZfJRSsD5zl85NoHGcsAwB/oAS6OvN3ucukcaYMGXUSnFQNIN2uz0GX/yIjePmRa3YV0Hbkwo5E4Mf28PslA=;scQctGRJqCcGDn+sicxi1A=="

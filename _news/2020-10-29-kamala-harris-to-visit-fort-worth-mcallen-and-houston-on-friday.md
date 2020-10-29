@@ -529,6 +529,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris to campaign in Fort Worth as part of three-city Texas swing"
+    excerpt: "Democratic Party vice presidential nominee Kamala Harris is scheduled to campaign in Fort Worth on Friday as part of a three-city Texas swing. According"
+    publishedDateTime: 2020-10-28T22:01:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/10/28/kamala-harris-to-campaign-in-fort-worth-as-part-of-three-city-texas-swing/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/10/28/kamala-harris-to-campaign-in-fort-worth-as-part-of-three-city-texas-swing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/10/28/kamala-harris-to-campaign-in-fort-worth-as-part-of-three-city-texas-swing/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 74
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/xd79RlsSvskawWI4hjkGSuFusBw=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/5N4E3TLMFHCYXDHDEDC3EJSBOM.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chronicled: Who is Kamala Harris? New podcast by The Chronicle coming soon"
     excerpt: "Is Kamala Harris a cop or progressive? A Berkeley radical or Beltway insider? This six-part podcast series from the San Francisco Chronicle delves into the making of a candidate. Listen to the trailer and subscribe on Apple,"
     publishedDateTime: 2020-10-21T23:11:00Z

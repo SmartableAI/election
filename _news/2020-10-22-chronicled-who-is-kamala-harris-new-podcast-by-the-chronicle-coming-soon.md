@@ -531,6 +531,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris to campaign in Fort Worth as part of three-city Texas swing"
+    excerpt: "Democratic Party vice presidential nominee Kamala Harris is scheduled to campaign in Fort Worth on Friday as part of a three-city Texas swing. According"
+    publishedDateTime: 2020-10-28T22:01:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/10/28/kamala-harris-to-campaign-in-fort-worth-as-part-of-three-city-texas-swing/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/10/28/kamala-harris-to-campaign-in-fort-worth-as-part-of-three-city-texas-swing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/10/28/kamala-harris-to-campaign-in-fort-worth-as-part-of-three-city-texas-swing/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 74
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/xd79RlsSvskawWI4hjkGSuFusBw=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/5N4E3TLMFHCYXDHDEDC3EJSBOM.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris' Dancing In Rain Video Goes Viral; Netizens Applaud Her Moves"
     excerpt: "Social media users were in awe of the Democratic vice-presidential nominee Kamala Harris after a video of her dancing in the rain went viral on the internet."
     publishedDateTime: 2020-10-23T03:43:00Z

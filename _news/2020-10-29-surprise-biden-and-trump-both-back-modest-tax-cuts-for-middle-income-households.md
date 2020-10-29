@@ -735,6 +735,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Election 2020 live updates: Biden leads Trump in Wisconsin, Georgia; Americans are stressed about the election"
+    excerpt: "At just six days until Election Day, the presidential campaigns focus on Arizona, which appears to be still up for grabs."
+    publishedDateTime: 2020-10-29T01:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/28/election-2020-live-updates-trump-harris-visit-arizona/6007554002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6007554002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007554002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 135
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/28/USAT/827fb768-71d0-43a9-a1aa-59aec2509e0f-GTY_1229317406.jpg?auto=webp&crop=5173,2910,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump releases 'Promise to Indian Country' tribal policy on the heels of Biden plan"
     excerpt: "The Trump administration released its tribal policy proposals via conference call two weeks before the election."
     publishedDateTime: 2020-10-21T17:09:00Z
@@ -2121,6 +2137,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "AP Explains: Trump pushes questions about Joe Biden’s son"
+    excerpt: "President Donald Trump’s campaign is pushing a familiar line of attack against Democrat Joe Biden in the final days of the presidential campaign: unverified allegations about Biden’s son and his foreign business ties."
+    publishedDateTime: 2020-10-29T00:30:00Z
+    webUrl: "https://www.kansascity.com/news/business/national-international/article246789652.html"
+    ampWebUrl: "https://amp.kansascity.com/news/business/national-international/article246789652.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article246789652.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 70
   - title: "Joe Biden votes early in the US election"
     excerpt: "The Democratic presidential candidate was also asked about his healthcare plan, if elected."
     publishedDateTime: 2020-10-28T21:34:00Z
@@ -2366,6 +2393,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "nfnPgDGDIdc1BBGAyFCg0Wqb9Q0hK0Ah+jVE17RHJDSGLnPZDaz00SgnIbmoDG0+ZyBXVbkBeZ1neW+xA0W5SQnYZ0xQnGa2itfw457JFRcItu4oIcDUuFqox81nhsOvllCO8+3KP0CFS4dxAbY+HSTjNm1+2VW3ra3l6UNCCTs2HzN94irJM6W+gYN29gO7EgtDJiGYSnrG9k53/i1h1YF3mvJBVCRRF4w6cPhmFHpaNlM0IFfy3iBYW+shu1PzRmzz4B9zIac9fTkYDpMG2OjkABZuxSBMH8xPC05ClBsJqyn5WlRPI3nkvcQj+e3lTFh60pMvSY6W2d3o/enngTVG5QgIxEvMVYAOPZHr4BY=;SR9qrqcq9K3GMwdk1jqpNw=="
+secured: "CCaHlJCq91YUIBxfwFsUtGKawQZ2wueOBvDfwZlUcDDHJmELtG0sukySBIOVcu+UJ4xlYcXZPUXuGHa5Xvf01X7NhkvzF2eVRvD0wn6gPLyAke3dI2/Dr7IWOA0YXqyc4AHYIevv7KVu/pHiRRB804QyAy4eGE8+6dGZ70H2/73ooWhwWiMql4LlKvd+bsZ5MY+f0M6aQOMIgivcQ7y6Cmt/EK7aIIozkBWKvJa4LcLsONQzI7IMUBc3pxmBrlE647pYZ5J5CTVGefFSs0p56GkwGMHuEMPDG663TKtoJqixlYg5S9c0J6iz6tax5twdjxT9hD6TixPQ9SEe2Y3DlcMNEJsc654plDJyXPOF2fC40OcKW36/kTThhpvFWngNXPbB6P6pLhSmaz16/T6X6+AmidT+XHrcbkf34TMUYoLfp9KF2dHDBj8t7jxSBxl90WBJS75EQ6eLcCB2bWI+9wfsucl3Gf3OnDHh35hY7+eG+VkbWqSCHvDmUwJ3YBCGTJ0D0Qs9aFfs1LEPwlRzTA==;rbtESaTcxFPwOeLyN4i0KQ=="
 ---
 

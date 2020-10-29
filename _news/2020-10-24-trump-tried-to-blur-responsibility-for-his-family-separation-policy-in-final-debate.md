@@ -688,6 +688,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Take This Trump Election Day Quiz Before It’s Too Late"
+    excerpt: "Happy Almost Election Day! I know it’s been a tough road, people, but you’ve been doing a great job. And since your vote is basically all about how you regard the last four years of Trumpdom, here’s a quick quiz."
+    publishedDateTime: 2020-10-29T00:05:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/10/28/opinion/election-quiz.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/28/opinion/28Collins-01/28Collins-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump travel anticipates a race potentially decided by a single Electoral College vote"
     excerpt: "The president heads to Maine and Nebraska this week, with the Trump team citing several possible scenarios where the election could come down to one or two Electoral College votes."
     publishedDateTime: 2020-10-25T19:46:00Z

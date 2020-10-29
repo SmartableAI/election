@@ -271,6 +271,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "As COVID-19 roars back in U.S., Trump stages rallies in Arizona"
+    excerpt: "With less than a week before Election Day, President Donald Trump held an in-person campaign rally in Arizona on Wednesday despite a U.S. surge in COVID-19 cases and criticism he is prioritizing his re-election above the health of his supporters."
+    publishedDateTime: 2020-10-28T23:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/as-covid-19-roars-back-in-us-trump-rallies-in-battleground-arizona-idUSKBN27D0FE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D0FI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D0FI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539151186&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R1IF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
     excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
     publishedDateTime: 2020-10-20T17:37:00Z

@@ -4259,6 +4259,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Bernie Sanders vouching for Joe Biden, Kamala Harris"
+    excerpt: "Sen. Bernard Sanders is hosting a “Fighting for a Living Wage” virtual rally featuring Democratic vice presidential candidate Kamala D. Harris Thursday to rally grassroots activists behind her presidential running mate Joseph R."
+    publishedDateTime: 2020-10-29T00:17:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/28/bernie-sanders-vouching-joe-biden-kamala-harris/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/28/bernie-sanders-vouching-joe-biden-kamala-harris/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/28/bernie-sanders-vouching-joe-biden-kamala-harris/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 100
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/05/sanders_biden_2020_69677_c0-250-3000-2000_s1200x700.jpg?32e2de9f86b5ae87166d47ed43a552a754684876"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Mike Pence, Kamala Harris to square off in only vice presidential debate"
     excerpt: "Sen. Kamala Harris and Vice President Mike Pence are preparing for their only debate Wednesday night, which will be staged with expanded COVID-19 safety precautions days after President Donald Trump tested positive."
     publishedDateTime: 2020-10-07T13:32:00Z

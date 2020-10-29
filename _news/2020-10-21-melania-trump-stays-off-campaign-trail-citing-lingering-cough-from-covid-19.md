@@ -287,6 +287,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "As COVID-19 roars back in U.S., Trump stages rallies in Arizona"
+    excerpt: "With less than a week before Election Day, President Donald Trump held an in-person campaign rally in Arizona on Wednesday despite a U.S. surge in COVID-19 cases and criticism he is prioritizing his re-election above the health of his supporters."
+    publishedDateTime: 2020-10-28T23:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/as-covid-19-roars-back-in-us-trump-rallies-in-battleground-arizona-idUSKBN27D0FE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D0FI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D0FI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539151186&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R1IF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "As Trump casts doubt on election, new agency contradicts him"
     excerpt: "President Donald Trump was predicting on Twitter that this election would be “the most corrupt” in American history. A day later, the head of an obscure government agency he created offered a much different message."
     publishedDateTime: 2020-10-26T02:29:00Z

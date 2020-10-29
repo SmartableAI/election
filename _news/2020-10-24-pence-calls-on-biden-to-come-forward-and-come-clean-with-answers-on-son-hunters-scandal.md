@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-come-clean.amp"
 type: article
 quality: 190
-heat: 530
+heat: 550
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/Warren-Sanders-SC-AP-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Jim Biden refuses to answer questions about family’s business dealings"
+    excerpt: "EXCLUSIVE: Jim Biden, the brother of Democratic presidential nominee Joe Biden, refused to answer questions Wednesday when approached by Fox News outside a house in Maryland about claims the former vice president had knowledge about the family’s overseas business ventures."
+    publishedDateTime: 2020-10-29T00:41:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j3ZZYAhqPPU/jim-biden-refuses-to-answer-questions-family-business-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/jim-biden-refuses-to-answer-questions-family-business-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-biden-refuses-to-answer-questions-family-business-dealings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/15774946_869011851568_820056121039046290_o-e1585243988433.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Graham considers subpoenas for Twitter, Facebook execs over Hunter Biden emails"
     excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., is considering subpoenaing social media executives over their platforms' role in suppressing news about the explosive, alleged emails involving the former Vice President Joe Biden's son Hunter."

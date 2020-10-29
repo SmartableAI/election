@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamal
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view?_amp=true"
 type: article
 quality: 149
-heat: 1449
+heat: 1469
 published: true
 
 provider:
@@ -519,6 +519,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris to campaign in Fort Worth as part of three-city Texas swing"
+    excerpt: "Democratic Party vice presidential nominee Kamala Harris is scheduled to campaign in Fort Worth on Friday as part of a three-city Texas swing. According"
+    publishedDateTime: 2020-10-28T22:01:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/10/28/kamala-harris-to-campaign-in-fort-worth-as-part-of-three-city-texas-swing/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/10/28/kamala-harris-to-campaign-in-fort-worth-as-part-of-three-city-texas-swing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/10/28/kamala-harris-to-campaign-in-fort-worth-as-part-of-three-city-texas-swing/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 74
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/xd79RlsSvskawWI4hjkGSuFusBw=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/5N4E3TLMFHCYXDHDEDC3EJSBOM.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Chronicled: Who is Kamala Harris? New podcast by The Chronicle coming soon"
     excerpt: "Is Kamala Harris a cop or progressive? A Berkeley radical or Beltway insider? This six-part podcast series from the San Francisco Chronicle delves into the making of a candidate. Listen to the trailer and subscribe on Apple,"

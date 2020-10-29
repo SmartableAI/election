@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/10/28/opinion/trump-boaty-mcboatface.am
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/28/opinion/trump-boaty-mcboatface.amp.html"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,40 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Trump pitches economic plan for Hispanic Americans -- 6 days before the election"
+    excerpt: "President Donald Trump announced a two-page second-term vision for the Hispanic American community -- the \"American Dream Plan\" -- to rallygoers in Arizona on Wednesday, six days before Election Day.\n    \n"
+    publishedDateTime: 2020-10-29T00:37:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ia8fFmnVjdg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-american-dream-plan-hispanics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-american-dream-plan-hispanics/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028191318-trump-phoenix-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "HIPAA and what it means for Trump, his doctor and the American public"
+    excerpt: "Lots of questions have surrounded President Donald Trump's health after he announced last week that he had tested positive for coronavirus.\n    \n"
+    publishedDateTime: 2020-10-07T11:25:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151932-02-sean-conley-walter-reed-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "ydWORL1ayXUA1RXBiB4LsOybm6b47HYpg8Mw71h3STXZI7R+VWzsVqQgrFIGV2Bc+K5Ej2S0azPBXBUAEgQ+RNITL/CgsO+Pi0SAF9YlK7UtjWPx6J/CSP+dmX6qXw84uUR1PC/VIjozpwpz+ydN9v/t0tfivHERHYjX4gVudzK5QcMZFEqt9K6c3CP5y3ipF5YgK3iHJRBmLwCdmJdx9+3LXswEZUofRlwnIAGgsVd3/9bfDmok3avnfUOhibbcI6l+3WPTJgnC68BZwVVl/YINkKcU7TzMPpFyGqgUVsz4weYMouioJwQJbtGyBuexwIwjXAdh6f7iN6XLat3I+bGOHhpHka0xqACdPRno3y0=;oUx3mh3Z806XXBCYapgjog=="
 ---

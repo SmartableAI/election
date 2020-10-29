@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Jim Biden refuses to answer questions about family’s business dealings"
+    excerpt: "EXCLUSIVE: Jim Biden, the brother of Democratic presidential nominee Joe Biden, refused to answer questions Wednesday when approached by Fox News outside a house in Maryland about claims the former vice president had knowledge about the family’s overseas business ventures."
+    publishedDateTime: 2020-10-29T00:41:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j3ZZYAhqPPU/jim-biden-refuses-to-answer-questions-family-business-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/jim-biden-refuses-to-answer-questions-family-business-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-biden-refuses-to-answer-questions-family-business-dealings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/15774946_869011851568_820056121039046290_o-e1585243988433.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
     excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
     publishedDateTime: 2020-10-21T19:11:21Z

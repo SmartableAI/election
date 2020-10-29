@@ -112,22 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Cash-strapped Trump campaign shifts resources in Florida as Democrats dominate the airwaves"
-    excerpt: "President Donald Trump, who has trailed his Democratic rival Joe Biden in fundraising, has pulled back some of his television advertising in the crucial state of Florida in the final sprint to Election Day, instead tapping his party's funds to help spread his message across the state.\n    \n"
-    publishedDateTime: 2020-10-28T01:36:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/shyb57XdGwQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-campaign-florida/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-campaign-florida/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027120930-donald-trump-1019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Senior administration officials on the road to sell Trump's 'law-and-order' campaign message"
     excerpt: "In the run up to the presidential election, Attorney General William Barr and acting Homeland Security Secretary Chad Wolf have been traveling around the country to underscore the administration's accomplishments, particularly as they relate to President Donald Trump's core \"law-and-order\" message.\n"
     publishedDateTime: 2020-10-22T21:59:47Z
@@ -141,22 +125,6 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200901151932-105-trump-kenosha-0901-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Melania Trump focuses on Covid and slams Democrats for politicizing pandemic in campaign speech"
-    excerpt: "First lady Melania Trump focused on the Covid-19 pandemic in her first solo campaign event of 2020 and blasted Democrats for allegedly politicizing the pandemic.\n    \n"
-    publishedDateTime: 2020-10-27T21:47:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o1JcWMunGH0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/melania-trump-election-2020-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/melania-trump-election-2020-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002001026-melania-trump-file-september-14-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
