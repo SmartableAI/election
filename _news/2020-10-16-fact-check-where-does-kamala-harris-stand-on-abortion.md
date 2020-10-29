@@ -6779,6 +6779,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "The Biden polling paradox"
+    excerpt: "Current U.S. presidential election polls, if they are to be believed, bode very well for former Vice President Joe Biden. An Opinium/Guardian US poll released this week shows Biden leading ..."
+    publishedDateTime: 2020-10-14T18:35:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/14/joe-bidens-polling-paradox/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/14/joe-bidens-polling-paradox/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/14/joe-bidens-polling-paradox/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/30/Election_2020_Biden_56551.jpg-e418b_c0-224-5376-3360_s1200x700.jpg?6b743e7bd977de467b6e94e225fd7c1ef8717bf0"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris' Cleveland Visit Canceled; 2 Staffers Test Positive"
     excerpt: "The vice presidential nominee will not be in Cleveland on Friday after two people associated with the campaign contracted the coronavirus."
     publishedDateTime: 2020-10-16T02:27:00Z

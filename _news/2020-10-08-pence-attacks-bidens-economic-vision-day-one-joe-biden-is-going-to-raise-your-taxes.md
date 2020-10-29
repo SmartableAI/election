@@ -839,6 +839,22 @@ related:
         width: 956
         height: 1144
         isCached: true
+  - title: "Biden: Cincinnati is the 'starting gate.' Biden tells Cincinnati voters how important they are this year."
+    excerpt: "The path to the White House could begin in Cincinnati, former Vice President Joe Biden said Monday during a campaign stop at Union Terminal. Biden called Cincinnati the \"starting gate\" to ..."
+    publishedDateTime: 2020-10-13T05:23:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2020/10/12/election-2020-biden-visit-shows-ohio-play-democrats/5965538002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5965538002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5965538002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 58
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/PCIN/715e3a08-6a38-4823-b71b-2b21dfc42b18-AP20286802247782.jpg?auto=webp&crop=1023,575,x1,y21&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "In year of surprises, a win by Joe Biden should not be one"
     excerpt: "If President Donald Trump loses, it's not because of his COVID-19 diagnosis or should not be a surprise, elections analyst Nathan L. Gonzales writes."
     publishedDateTime: 2020-10-07T13:54:00Z

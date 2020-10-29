@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-voter-fraud-organization-vide
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voter-fraud-organization-video-gaffe.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Media embrace Biden after dismissing him as a likely loser"
+    excerpt: "Most pundits had consigned him to history’s dustbin as the primaries got under way, laying out all the reasons why he wouldn’t--and shouldn’t--win the Democratic nomination."
+    publishedDateTime: 2020-10-29T07:47:00Z
+    webUrl: "https://www.foxnews.com/media/media-embrace-biden-after-dismissing-him-as-a-likely-loser"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20301701741020-e1603892188715.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "8+5B94cqrTTQO1GbkauLh8tTqOSKTQDXQqR+sbXzjaj0r8rdZB3tDNx7L/c7wtLMc9qDjFyctyD59h4QdpprC0HPpPPgHNzKuZlkH+iohNXEyalgUWr43o/bDOPieYT2BIviSMcecm9CxIhv5NvHrmM0J4llr8WrTlTiS3393wdnRfTw0ohYGFOd/QBonv1x/vKZ+/t42sVddZMT+YAOkrp1+q9rW2uG2472ctNVeHRew7hArwKmKuuxjkfN3ygc2EnLYUWAGEoiI+cnoAWcey/3RWmF91I69hxpUWV93VR0dS2Zlc1ijsXZTFOE21PLJAR2DN8bF+PpffAght0OvTMaeFgc6eGhgiqYwqcp/bM=;FmpqX/iXf5jpBTavBAy3xw=="
 ---
