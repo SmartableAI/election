@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US election: Joe Biden and wife Jill vote early in Delaware"
+    excerpt: "Democratic presidential candidate Joe Biden and his wife Jill have voted early in Delaware. He also answered questions from reporters about his healthcare plan if elected, saying he believed he would get help from the Republicans with lowering the cost of medication."
+    publishedDateTime: 2020-10-28T18:24:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54724435"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 70
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08wqcmv.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
     excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"
     publishedDateTime: 2020-09-19T10:09:00Z

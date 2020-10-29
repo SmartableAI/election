@@ -1,0 +1,102 @@
+---
+category: news
+title: "Hundreds of Trump supporters stuck on freezing cold Omaha airfield after rally, 7 taken to hospitals"
+excerpt: "Hundreds of President Donald Trump's supporters were left in the freezing cold for hours after a rally at an airfield in Omaha, Nebraska, on Tuesday night, with some walking around 3 miles to waiting buses and others being taken away in ambulances."
+publishedDateTime: 2020-10-28T21:20:00Z
+originalUrl: "https://www.nbcnews.com/politics/2020-election/hundreds-trump-supporters-stuck-freezing-cold-omaha-airfield-after-rally-n1245065"
+webUrl: "https://www.nbcnews.com/politics/2020-election/hundreds-trump-supporters-stuck-freezing-cold-omaha-airfield-after-rally-n1245065"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245065"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245065"
+type: article
+quality: 120
+heat: -1
+published: false
+
+provider:
+  name: NBC News
+  domain: nbcnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+  - Democratic Voice
+
+images:
+  - url: "https://media2.s-nbcnews.com/i/newscms/2020_44/3423587/201028-trump-rally-omaha-al-0753_434680b2dcf217da03d11a54f44c659d.jpg"
+    width: 2500
+    height: 1668
+    isCached: true
+
+related:
+  - title: "An 'angry' Trump enters final debate as advisers hope for some chill"
+    excerpt: "After his abrasive debate performance in September, President Donald Trump walked off stage believing he had won. It was only in the ensuing hours, as he watched clips of his constant interruptions and irate demeanor play on television, that he recognized how poorly his conduct came across.\n    \n"
+    publishedDateTime: 2020-10-22T00:00:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KP2UhXlOuEk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021160110-01-donald-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Author of 2018 'Anonymous' op-ed critical of Trump revealed"
+    excerpt: "The anonymous senior Trump administration official who wrote a 2018 New York Times op-ed and a subsequent book critical of President Donald Trump is Miles Taylor, he revealed in a statement to CNN on Thursday.\n    \n"
+    publishedDateTime: 2020-10-28T19:53:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ritTzykXEVI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/anonymous-new-york-times-oped-writer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/anonymous-new-york-times-oped-writer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191108093353-a-warning-anonymous-book-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump dials back his anger, but his debate performance doesn't change the facts"
+    excerpt: "Everybody showed up for a brawl Thursday night and a debate broke out.\n    \n"
+    publishedDateTime: 2020-10-23T10:42:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XXNm3OM9V2k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022224516-25-debate-nashville-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Facebook-Twitter-Trump Wars Are Actually About Something Else"
+    excerpt: "Much of the outrage around the Trump era and social media platforms — like, most recently, the decision by Facebook and Twitter to reduce the reach of a highly questionabl Post story about Hunter Biden — is actually about government power and accountability."
+    publishedDateTime: 2020-10-18T19:06:00Z
+    webUrl: "https://www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/18/opinion/18warzel/18warzel-facebookJumbo-v3.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "SmQLj4KI0Hux+iiUq3P+9/ZC689E7ga7PSUv1nlIxsPDZvAcG8//IuJ5HuSxOkNZtajh5C4a3A0Y+hUoHog/oCfFb+mK1Vf2kD/t/Liq2RAGvKwPnsK/JnkcWq/QFQbpfolomeL/vWJdpG116xGuNhQX/aLQOXA9/kADOPcn6sXVEddqfJqKsZNia1MYpSkiStIFCW2Glk+1zHBN4HC/wPWxq+8uVEzByb2PMZq1PeXJx//QK7EcghDbQDMuzZeHKv/HhM6hxyQTRJwd4khZ2PeYMp3nCGHipWTadu/AcI2sdpps+b/mUrIJxidiWzp+Z0GucMPdLfqh7qNhiiZo0VT/uHNe699tTGDpfeAMcPE=;0CbQgrYalsOggyxnG80CNA=="
+---
+

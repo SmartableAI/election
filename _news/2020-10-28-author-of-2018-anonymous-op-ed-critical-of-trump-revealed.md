@@ -79,6 +79,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Hundreds of Trump supporters stuck on freezing cold Omaha airfield after rally, 7 taken to hospitals"
+    excerpt: "Hundreds of President Donald Trump's supporters were left in the freezing cold for hours after a rally at an airfield in Omaha, Nebraska, on Tuesday night, with some walking around 3 miles to waiting buses and others being taken away in ambulances."
+    publishedDateTime: 2020-10-28T21:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/hundreds-trump-supporters-stuck-freezing-cold-omaha-airfield-after-rally-n1245065"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245065"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245065"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_44/3423587/201028-trump-rally-omaha-al-0753_434680b2dcf217da03d11a54f44c659d.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
 
 secured: "VcLJXvCHbHM1DuBihopHeyDJpiVfGAbW0+p/bjrJtHPlMMIyuJbAP60OHBg+tsPvbLgBsgSeusNRoghNWaJ1XlWJXwGs4j8cN+t+17QZbr0jaD1yOUeSNz/Kog+COmwCLxWE0Gas69uiZYcL+s8cpUI590v3hoJ8coXSMHvxrD/1OH7x56BbnAz7ByVGJDjs45DW6DI8dEey/P+vXUaFwcFYKYItEAauT/K73IlZPW7eCpEQ5czhSlr7Aya2dV5goFW2oHf+1lvkFVG0vq7OLThKtLRLcMSknpx3wGIlCk/JIKRsRspKRMfuCis2pI8ocTPjQymyF9GoazD0m/Lpj39fhKgpoG4ol2vrrxdphfw=;YPSCioexoLrPiFP2I0SSuw=="
 ---

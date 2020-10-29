@@ -125,15 +125,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Without Florida, There’s Almost No Path for Donald Trump to Stay in the White House"
-    excerpt: "There’s almost no plausible path to a second term for President Donald Trump without winning his adoptive home state. This week in the D.C. Brief, we’re going to take the temperature in ..."
-    publishedDateTime: 2020-10-26T19:33:00Z
-    webUrl: "https://time.com/5903917/trump-florida/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 79
   - title: "Man arrested at Trump rally with South Dakota's Noem"
     excerpt: "Police in Maine on Wednesday arrested a man who displayed two weapons at a campaign rally for President Donald Trump where South Dakota Gov. Kristi Noem was appearing. Noem spokeswoman Maggie Seidel said Noem's security detail engaged a man who had two weapons."
     publishedDateTime: 2020-10-28T17:57:00Z

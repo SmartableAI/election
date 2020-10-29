@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Man accused of stealing bulldozer to tear down Biden signs in Florida"
-    excerpt: "A man is facing charges of grand theft and trespassing after police say he stole a bulldozer from a construction site and drove around Haines City, Fla., destroying signs supporting former Vice President Joe Biden's (D) campaign."
-    publishedDateTime: 2020-10-26T16:50:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/522761-man-accused-of-stealing-bulldozer-to-tear-down-biden-signs-in-florida"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/522761-man-accused-of-stealing-bulldozer-to-tear-down-biden-signs-in-florida?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/522761-man-accused-of-stealing-bulldozer-to-tear-down-biden-signs-in-florida?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/biden_supporters_100120bc2_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Fact check: VOA video is not a Biden ad to address the Muslim community"
     excerpt: "Users on social media are sharing a video with Urdu subtitles showing democratic presidential candidate Joe Biden. Some posts refer to the clip as “Biden’s Muslim Commercial” claiming it was produced by the Biden campaign and that it is “being promoted in areas of"
     publishedDateTime: 2020-10-26T17:26:00Z
@@ -75,53 +59,69 @@ related:
         width: 821
         height: 545
         isCached: true
-  - title: "Florida man says he was fired for revealing company warned of layoffs if Biden wins"
-    excerpt: "A worker in central Florida was allegedly fired for revealing a letter from his boss to company employees warning of layoffs if Democratic presidential candidate Joe Biden wins the election."
-    publishedDateTime: 2020-10-23T23:27:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/522541-florida-man-says-he-was-fired-for-revealing-company-warned-of-layoffs-if"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/522541-florida-man-says-he-was-fired-for-revealing-company-warned-of-layoffs-if?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/522541-florida-man-says-he-was-fired-for-revealing-company-warned-of-layoffs-if?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 119
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenyardsign_092220getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden is making a late push for Cuban American voters in Florida. Will it matter?"
-    excerpt: "The Biden campaign made what one pollster called \"night and day difference\" in its outreach to Hispanic voters in Florida, which lifted its support."
-    publishedDateTime: 2020-10-21T01:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5884192002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884192002"
+  - title: "Fact check: Post claiming Joe Biden wants to put farms in 'land banks' is missing context"
+    excerpt: "At a September town hall, Biden said he wants to put farms into \"land banks.\" Some have taken this to mean he wants a government takeover of farmland."
+    publishedDateTime: 2020-10-23T23:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-claim-lacks-important-details-biden-and-land-banks/6011931002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6011931002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6011931002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 118
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/c5107522-4dbb-4bb7-bc07-5a9025a578a7-AFP_AFP_8T24WG.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PWIL/ad743977-7d3a-417e-994d-eeee1172d267-AP20262045476717.jpg?auto=webp&crop=5580,3139,x0,y283&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "White House lawyer helped shop controversial Hunter Biden story to Wall Street Journal: NYT"
-    excerpt: "A controversial story alleging wrongdoing by former Vice President Joe Biden's family in foreign business dealings was pitched by Trump allies to the Wall Street Journal before it appeared in the New York Post,"
-    publishedDateTime: 2020-10-26T01:01:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp"
+  - title: "Fact check: Biden did tell a Detroit worker 'I'm not working for you' during gun rights argument"
+    excerpt: "A viral post on social media claims Joe Biden told a factory worker he doesn't work for him. Biden did say that, but the claim is missing context."
+    publishedDateTime: 2020-10-27T20:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/27/fact-check-yes-biden-told-detroit-worker-im-not-working-you/6044443002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6044443002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6044443002"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 115
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
     images:
-      - url: "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.gannett-cdn.com/presto/2020/03/18/USAT/38928b0a-784e-42c7-a026-84ee2c8cd485-Biden_1.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Hillary Clinton, not Joe Biden, used the phrase 'super predators'"
+    excerpt: "Joe Biden referred to Black people as 'super predators' during the passage of the 1994 crime bill. The Violent Crime Control and Law Enforcement Act of 1994, also known"
+    publishedDateTime: 2020-10-24T22:34:00Z
+    webUrl: "https://www.freep.com/story/news/factcheck/2020/10/24/fact-check-hillary-clinton-called-some-criminals-super-predators/6021383002/"
+    ampWebUrl: "https://amp.freep.com/amp/6021383002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6021383002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/d14072ff1d27975f8f68732fbeac8d61be3a1b0b/c=0-851-2298-2149/local/-/media/2015/02/24/USATODAY/USATODAY/635603856883000837-AFP-526532422.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Brad Pitt Calls Joe Biden A President For 'All Americans' In New Campaign Ad"
+    excerpt: "Actor Brad Pitt narrated the new campaign ad for Joe Biden's presidential campaign, praising him as a \"president for all Americans\" and someone who understands \"their hopes, their dreams, their pain.\""
+    publishedDateTime: 2020-10-26T03:22:00Z
+    webUrl: "https://www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609"
+    ampWebUrl: "https://www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/25/brad-pitt.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "B3W96fEze2WDh28h1UOILMMhw4rwd55TRe5SLY9qq1pgEelVgNTtU8Vs78Ej7SWCbJno6ppvqUMG5nt9aMBfEfYtukcmVAk50PY6bX8VNwpwmR+MoVtZtIOEmaWggL1Ax6kkj0ELaE3qdqxTuOI8+aX5oDvDSA1fnSqKlo1L451em2+UDfWi5lVvf3E/LK8nb+0TlJUFxEuM9tkSVml05jgmbXiGyfHU8zK3Me0Anso+/WY7QKXF444Sah5uN5wyCjtn5trFRvDDduSByB8O8CGj+X8HqxtJsfNzL8EuLBRfvhMBbxpKkquGd4/Fy71aK8pM/Um/BXFXktUogQ9tfVMnfMy7t+agcDUw/B6fP1s=;IiwT0/RsSd+sXgWlhZR7sw=="

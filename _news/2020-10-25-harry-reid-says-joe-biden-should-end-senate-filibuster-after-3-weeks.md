@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Warren Buffett and Joe Biden are bullish on America, agree the super rich should pay higher taxes, and want quarterly earnings guidance to end"
-    excerpt: "\"Warren Buffett said it best when he stated that he should not pay a lower tax rate than his secretary,\" Biden's campaign website reads."
-    publishedDateTime: 2020-10-19T13:24:00Z
-    webUrl: "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp"
+  - title: "White House lawyer helped shop controversial Hunter Biden story to Wall Street Journal: NYT"
+    excerpt: "A controversial story alleging wrongdoing by former Vice President Joe Biden's family in foreign business dealings was pitched by Trump allies to the Wall Street Journal before it appeared in the New York Post,"
+    publishedDateTime: 2020-10-26T01:01:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: The Hill
+      domain: thehill.com
+    quality: 115
     images:
-      - url: "https://i.insider.com/5f8d83df9e9fe4001900a01e?format=jpeg"
-        width: 1419
-        height: 709
-        isCached: true
-  - title: "Joe Biden in Michigan: 'It's time to unite America' and increase affordable health care"
-    excerpt: "The promises to expand health care access come less than three weeks before Election Day, as both candidates vie for Michigan's votes."
-    publishedDateTime: 2020-10-17T10:55:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/16/joe-biden-southfield-health-care-election-2020/3676794001/"
-    ampWebUrl: "https://amp.freep.com/amp/3676794001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3676794001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/PDTF/6a691198-8926-4281-83f8-670682a8fc9b-biden_101620_kd125.jpg?auto=webp&crop=2399,1349,x0,y115&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "5FCOJNWuk8EeUpv77L4+AR4wOptlyHCIXS9cEvHIg1MPGK6Yr4bLqb4WJDIYUeVQOI6LiiLaOKXjcrnVCtT2nEXxrys9pBLfXw54eMNlXdMoDuZVSagZK0zI143CH/nB60gM4g3t7I5b8YBniXBF1zbmN4hiWV+3UbUpyFG9BuY6R40KqpU4UZ3DYAw+NbJxCJoSersw0wDURwEl2ODTEp65DiqdF4vUEXEb9DESMIuJQr/bjf19d7MXeX6t6n0HVG8zKMWIQHQ02PRGbA0U5TGt3uuU3QsO2vhiKVWCf0ec236uA1gHkonZDb9fqI+chpSVrf8LR0YJWU4PJ3znfyLH54VVq+GYMlGUNW+d6sMEQJy/kHj7QPI6bCiRyy6E4dqQM4wbzgqCWfnoNIZJ61KTwsU1Vbd5QcsKoL4xwhfeDlxBKn3I5MG+65rxQsSsEgvsbpLKlaqvDOGVsBwZyRAEruX4Qino8U5x4lk9B6tNQ3gC7Tpu543ahU11I0Eae/ImWbUP+SIPeXLMG5kTfA==;SRLxOKfQkLY6KWldo5Ji5g=="

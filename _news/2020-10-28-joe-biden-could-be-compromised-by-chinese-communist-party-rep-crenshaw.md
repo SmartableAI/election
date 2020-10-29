@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
     excerpt: "Former Hunter Biden business partner Tony Bobulinski told Tucker Carlson he is \"1000%\" certain that \"Big Guy\" stands for Joe Biden in leaked documents. TONY BOBULINSKI, FMR. HUNTER BIDEN BUSINESS PARTNER: I want to simplify this for the American people as much as I can."
     publishedDateTime: 2020-10-28T14:20:00Z
     webUrl: "https://www.realclearpolitics.com/video/2020/10/27/tony_bobulinski_how_joe_biden_would_personally_benefit_from_a_stake_in_a_chinese_business_deal.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 50
+    images:
+      - url: "https://assets.realclear.com/images/52/525422.jpg"
+        width: 996
+        height: 746
+        isCached: true
+  - title: "Bobulinski: How \"Big Guy\" Joe Biden Would Personally Benefit From A Stake In A Chinese Business Deal"
+    excerpt: "Former Hunter Biden business partner Tony Bobulinski told Tucker Carlson he is \"1000%\" certain that \"Big Guy\" stands for Joe Biden in leaked documents. TONY BOBULINSKI, FMR. HUNTER BIDEN BUSINESS PARTNER: I want to simplify this for the American people as much as I can."
+    publishedDateTime: 2020-10-28T17:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/27/tony_bobulinski_how_joe_biden_would_personally_benefit_from_a_stake_in_a_chinese_business_deal.html#!"
     type: article
     provider:
       name: RealClearPolitics

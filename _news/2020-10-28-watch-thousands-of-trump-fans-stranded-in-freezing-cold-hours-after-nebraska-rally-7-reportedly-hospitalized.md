@@ -43,22 +43,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?"
-    excerpt: "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?"
-    publishedDateTime: 2020-10-21T17:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5996029002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996029002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "wioa/7oTMDJ/bLitiZtzJKLSiDYECBM0WAUy48T4CglsUxXHDjtlyBpeVi8s7VeXMpVuqdLBK0S2SlBc4fEmoxcdyqJ1bnk5rydcFJuHTQoslJgXX90HM8NRinrQXppGePKHE93yghWwS/rDhU1bYzCEgsOFYiGW9mEzeEdKehoLVOhChLH575YALfdtwgHqg+6IIa/tUC3vZ+zOOfQdJTsvtQqwoeztx0EBRw51K4IJoG0FwUWg1vM5Af+IbD41jLbEJlSpF8lI6NOuSTfXUVvnK+NIceQGQo99w2BInQTd88L/NfTzycmYrAD/0CoNRLOmYpnv+sM5FnsLJSuk+TwxknesnagpYJu0tFvv1f8=;X6dOd3rEXlcDPqRDcW9BUQ=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Newt Gingrich denies Georgia is in play for Biden, insists 'the polls are wrong'"
+    excerpt: "Former House Speaker Newt Gingrich predicted Wednesday that President Trump will win Gingrich's onetime home state of Georgia next week, telling \"Bill Hemmer Reports\" that polls showing a close race in the state \"are just wrong.\""
+    publishedDateTime: 2020-10-28T20:58:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hV-EIteut6c/newt-gingrich-predicts-trump-win-georgia-polls-wrong"
+    ampWebUrl: "https://www.foxnews.com/politics/newt-gingrich-predicts-trump-win-georgia-polls-wrong.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newt-gingrich-predicts-trump-win-georgia-polls-wrong.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ac0f027-5ece-4e37-a12f-c1b52f97739b/3af2dd87-ebf5-482a-b085-7f3e7026e859/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ingraham: Democrats hiding 'true agenda' from middle, working class by trotting out Biden cliches"
     excerpt: "President Trump, not Joe Biden, is the candidate who truly fights for the working class, Laura Ingraham argued Wednesday on \"The Ingraham Angle.\""
     publishedDateTime: 2020-10-22T05:03:05Z

@@ -171,6 +171,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "WATCH LIVE: Sen. Kamala Harris attends meeting with Black leaders in Phoenix"
+    excerpt: "Vice Presidential nominee Kamala Harris is expected to hold multiple events in Phoenix, Arizona starting with a meeting with Black leaders in the state, followed up by a drive-in rally."
+    publishedDateTime: 2020-10-28T20:07:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-sen-kamala-harris-attends-meeting-with-black-leaders-in-phoenix"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-sen-kamala-harris-attends-meeting-with-black-leaders-in-phoenix"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-sen-kamala-harris-attends-meeting-with-black-leaders-in-phoenix"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 122
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-28T014859Z_473603595_RC2DRJ9IJCP1_RTRMADP_3_USA-ELECTION-HARRIS-1024x681.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Kamala Harris to Campaign in Texas, First Dem VP Candidate to Do So in 30-Plus Years"
     excerpt: "\"Texas is not a battleground state. It's that simple,\" former Texas Gov. Rick Perry said of Trump not campaigning in Texas prior to the election. Polls show the race as very tight."
     publishedDateTime: 2020-10-25T22:52:00Z
@@ -778,6 +794,15 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 47
+  - title: "Sens. Kamala Harris (D-CA) & Bernie Sanders (I-VT) Speak At Virtual Rally for Joe Biden"
+    excerpt: "Kamala Harris (D-CA) speaks a virutal rally in support of her running mate Joe Biden’s presidential campaign, hosted by Sen. Bernie Sanders (I-VT). Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
+    publishedDateTime: 2020-10-28T20:23:00Z
+    webUrl: "https://www.c-span.org/video/?477508-1/sens-kamala-harris-d-ca-bernie-sanders-i-vt-speak-virtual-rally-joe-biden"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 42
   - title: "Kamala Harris campaigns at Truist baseball field | Charlotte Observer"
     excerpt: "Vice Presidential candidate Senator Kamala Harris delivers remarks at a campaign event at Truist baseball field."
     publishedDateTime: 2020-10-21T23:29:00Z
@@ -905,6 +930,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "qzys5M4gE3SVbRrik215RurAZz1Sql22f5IzhWV0F0MltGebtAbBYVHwTIGGJnTdecYNjiNNXNZFehfqadWrcfDcUdh6/aFPkjGa4SKNduNHFexGgx7V4fprO5t5PSTHJUfUxRk5nfv32uiNL/DjlHV7KvqwY6lOFiyRNSElCBYR/uFvT3lbE8PHhp5BP8kwCxYGOcItCt/i6jkAlDeofzgN3idm6Q+J+HYYhVytJB3DTYq90H3FBGtmpo6uZ1cPvBr6XFVMDefhEz6WaZYKu2seD6la3vffzC1IPjf3JptwFX5yhcA15Q0QdsYxSahxJsj2hsdKwnj2Q/rAaz633R3yK4P59zGtes4pT3ESs7M=;xGeWgHE9ty6Eg3s2pODbyg=="
+secured: "wXdrVqzjSqh/kHRIspJC8HScrikqg2sgIw33Gt/qwmT4tvLzEO1/+0ihnqoI8Jn/pCxIKq3nqa53ILZ2letEjjZAFvIp0ecqSq0fQ1NWhkXXkase1IX7qqbeRutRu/G0rf7DZ3u6YyfXdfn0XWmluNCOYNoHLIO9uBOINMJE1QTpG9x03xzbIxRqq0qQqB0a9qUDu8zfTYOu9JcgROEOPMaFKLXswy1Td6S8p4atOhQGT/QQ3zh0SxVYQX2mYEWm1Wu4BWaShkLtuaTWkW/Fe/0v5ekOLn3C6+fRnZAQNw1fraME9go9hKfkaJCj2SzuoTLQWa5z0/UG9C1jaLsuc5Bd2vP3W1zCe2a1dO4hAZnhOJJWN/fw/RvlZks4RldNJNVLBx7MeaFTm6Z2h/mCp7ZD5zrrVQn3xzAtvK2UYwOwtH+XGQWcPEqzE7C8osiISM+XvX9DfP40q2wB16fJHbbVIdo+JsY+kZ1iR4cddTFdXrRsZGDj5qiqpYM5eNdwm+bHGefmhJeoQgPQOaQHSA==;UxdYw5rf1W3fZU8RbtEs3A=="
 ---
 

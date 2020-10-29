@@ -316,6 +316,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "How Republicans can grow the party's base after Donald Trump is gone"
+    excerpt: "Republican operatives at the Lincoln Project spin wicked videos designed to get under President Donald Trump’s skin. Veterans from the Bush Administration sign up with 43 Alumni for Biden. Retired security officers leap on the blue bandwagon."
+    publishedDateTime: 2020-10-28T22:05:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/27/how-republicans-can-save-party-and-grow-their-base-after-trump-column/6038458002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6038458002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038458002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That"
     excerpt: "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate."
     publishedDateTime: 2020-10-28T10:30:00Z
@@ -363,6 +379,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9846fbc3e178a4ae7bff0e%2F0x0.jpg"
         width: 1200
         height: 651
+        isCached: true
+  - title: "Democrats demand docs tied to Trump order stripping civil service protections"
+    excerpt: "Democrats on the House Oversight Committee asked the White House on Wednesday to turn over a trove of documents related to a recent order that strips some civil servants of worker protections."
+    publishedDateTime: 2020-10-28T21:16:00Z
+    webUrl: "https://thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service"
+    ampWebUrl: "https://thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_10262020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Feds investigating scam emails threatening voters if they don't vote for Trump"
     excerpt: "These emails are meant to intimidate and undermine American voters’ confidence in our elections,” said Christopher Krebs, DHS cybersecurity director."
@@ -768,6 +800,36 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Strong support for Trump in rural North Carolina"
+    excerpt: "Driving through West Jefferson, North Carolina one can see far more support for President Donald Trump than Joe Biden. In 2016, 70% of Ashe County residents voted for Trump. (Oct. 28)"
+    publishedDateTime: 2020-10-28T21:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/28/strong-support-trump-rural-north-carolina/6062195002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/525b0a94-06be-4f52-a31c-4991d8226ed8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Voting 2020 live updates: Trump urges Biden voters to 'spoil' ballot and vote for him; charges of voter suppression scheme in Ohio, Michigan"
+    excerpt: "Trump urges Biden voters to 'spoil' ballot and vote for him; mail your ballot today to make sure it's counted. Latest news."
+    publishedDateTime: 2020-10-28T22:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/voting-2020-news-updates-florida-early-voting-wisconsin-ballots/6040707002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6040707002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6040707002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NSHT/d424f4e1-5562-4636-acad-5cec060ace46-FLSAR-102520-S_COLZAC_001.jpg?auto=webp&crop=3067,1726,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence touts Trump's Supreme Court pick at Wisconsin rally"
     excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
     publishedDateTime: 2020-10-13T19:22:00Z
@@ -814,6 +876,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. Supreme Court rejects Trump bid to block North Carolina absentee ballot extension"
+    excerpt: "The U.S. Supreme Court on Wednesday rejected a request by President Donald Trump's campaign to block North Carolina's extension of the deadline for receiving mail-in ballots as the justices acted in another voting case ahead of Nov."
+    publishedDateTime: 2020-10-28T23:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-court-northcarolina-idUSKBN27D3DR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D3DR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D3DR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
   - title: "United States cannot replace President Trump as defendant in columnist’s lawsuit related to rape allegation, federal judge rules"
     excerpt: "A federal judge on Tuesday denied President Donald Trump’s request that the United States replace him as the defendant in a defamation lawsuit alleging he raped a woman."
     publishedDateTime: 2020-10-28T02:43:00Z
@@ -875,6 +948,22 @@ related:
       - url: "https://www.tampabay.com/resizer/BYIRCtzhvxKarsiUDB61KZGh2YA=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/47HOJ2DIOZCQHJESLMYKRGX44M.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Mike Pence: ‘Show them Michigan is Trump country’"
+    excerpt: "Vice President Mike Pence asked Michigan voters to prove the state is “'Trump country” during a campaign appearance just six days from the election. Pence held a campaign rally at Bishop International Airport in Flint Wednesday,"
+    publishedDateTime: 2020-10-28T23:49:00Z
+    webUrl: "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html"
+    ampWebUrl: "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U55OY3N3QRD2TGTDUAHHXF5NDQ.JPG"
+        width: 1300
+        height: 867
         isCached: true
   - title: "Conservative news sites are misleading millions of readers about voter fraud, pushing debunked conspiracy theories amplified by President Trump"
     excerpt: "Right-leaning news sites with millions of readers have published dozens of false or misleading headlines and articles that back unsubstantiated claims by President Donald Trump on voter fraud."
@@ -1563,9 +1652,9 @@ related:
       domain: usnews.com
     quality: 55
   - title: "Vice President Mike Pence appeals to Iron Rangers with focus on jobs, economy"
-    excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally. HIBBING, Minn. – A brisk wind blew across the runway and light snow greeted Vice President Mike Pence as he made his closing arguments to Iron ..."
-    publishedDateTime: 2020-10-26T21:20:00Z
-    webUrl: "https://www.startribune.com/pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
+    excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally."
+    publishedDateTime: 2020-10-26T20:20:00Z
+    webUrl: "https://www.startribune.com/vice-president-mike-pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
     type: article
     provider:
       name: StarTribune

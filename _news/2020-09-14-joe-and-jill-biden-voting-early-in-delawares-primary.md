@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary?amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/03/PMJS/4866f8a5-1baa-406b-857b-1f965abbb965-AP_Election_2020_Biden_1.jpg?auto=webp&crop=5816,3272,x0,y295&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "US election: Joe Biden and wife Jill vote early in Delaware"
+    excerpt: "Democratic presidential candidate Joe Biden and his wife Jill have voted early in Delaware. He also answered questions from reporters about his healthcare plan if elected, saying he believed he would get help from the Republicans with lowering the cost of medication."
+    publishedDateTime: 2020-10-28T18:24:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54724435"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 70
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08wqcmv.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
     excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"

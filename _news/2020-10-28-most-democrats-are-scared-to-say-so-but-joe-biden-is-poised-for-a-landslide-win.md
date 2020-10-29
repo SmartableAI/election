@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/most-democrats-are-scared-to-say-so-
 webUrl: "https://www.thedailybeast.com/most-democrats-are-scared-to-say-so-but-joe-biden-is-poised-for-a-landslide-win"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,29 @@ topics:
   - Democratic Voice
 
 related:
+  - title: "POLITICO Playbook PM: The right previews its attacks on a President Biden"
+    excerpt: "THE RIGHT HAS AMPLIFIED the story, but the mainstream press has shot down BOBULINSKI’S claims at every turn. For example, the news pages of The Wall Street Journal reported they couldn’t establish that BIDEN was involved or received money as part of the defunct arrangement."
+    publishedDateTime: 2020-10-28T17:02:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/28/the-right-previews-its-attacks-on-a-president-biden-490735"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/f7/f6/65fb39804164964ac0bf55341584/gettyimages-1139127483.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden Can’t Repeat Gore’s Mistake and Let the Supreme Court Overrule Democracy"
+    excerpt: "Unlike in 2000, there is little doubt about what the Supreme Court will do if it gets a hold of another contested election this year, ."
+    publishedDateTime: 2020-10-28T12:55:00Z
+    webUrl: "https://www.thedailybeast.com/biden-cant-repeat-gores-mistake-and-let-the-supreme-court-overrule-democracy"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 41
   - title: "My Uncle Was Imprisoned Because of Joe Biden’s Tough-on-Crime Votes. Here's What I Think of His Apology."
     excerpt: "I’ve done that, accepting invisible apologies for a long time, from ex-boyfriends, from old friends who I felt wronged me—and from the politicians responsible for the infamous 1994 crime bill and the crime laws that preceded it."
     publishedDateTime: 2020-10-26T02:40:00Z

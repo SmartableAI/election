@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "These white women voted for Trump in 2016. They’re having second thoughts."
+    excerpt: "The trend as we’ve gotten closer to the election has been just how many people aren’t voting for Trump again.”"
+    publishedDateTime: 2020-10-28T22:32:00Z
+    webUrl: "https://www.politico.com/news/2020/10/28/white-women-trump-second-thoughts-433118"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/28/white-women-trump-second-thoughts-433118"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/28/white-women-trump-second-thoughts-433118"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/ab/d1/643fba9447c8b66a865b46a2c673/gettyimages-1222154946-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Bloomberg knocks Trump back on his heels in Florida"
     excerpt: "The former New York City mayor’s spending is forcing the president to dig deep in the key swing state and enabling the Biden campaign to spend ad dollars elsewhere."
     publishedDateTime: 2020-10-20T23:12:00Z

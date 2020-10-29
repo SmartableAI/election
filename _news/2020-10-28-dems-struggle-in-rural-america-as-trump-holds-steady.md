@@ -302,6 +302,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "US fighter jet intercepts aircraft near Trump rally, deploying signal flares"
+    excerpt: "An aircraft entered restricted air space over President Donald Trump's rally in Bullhead City, Arizona on Wednesday, leading to a fighter jet being scrambled to intercept it.\n    \n"
+    publishedDateTime: 2020-10-28T22:24:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XAYx3afv504/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/trump-rally-fighter-jet-arizona/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/trump-rally-fighter-jet-arizona/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028171447-02-jet-flying-arizona-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Hundreds stranded in the cold waiting for buses in chaotic post-Trump rally scene"
     excerpt: "When President Donald Trump left Omaha on Tuesday, thousands watched and cheered in the frigid air as Air Force One took off into the night sky. But for these loyal supporters, their experience at the Trump rally was far from over.\n    \n"
     publishedDateTime: 2020-10-28T15:01:55Z

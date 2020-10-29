@@ -171,6 +171,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden makes remarks after health briefing..."
+    excerpt: "Watch \"Presidential candidate Joe Biden makes remarks after public health briefing\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-28T16:54:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201028164124-presidential-candidate-joe-biden-makes-remarks-after-public-health-briefing/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/28/story_07450270_1603903804.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How Joe Biden Is Positioning Himself as a Modern FDR"
     excerpt: "If this sounds to you like Joe Biden, you’d be right. If this sounds like Franklin Delano Roosevelt, you’d also be right. With just a week before the election, Biden traveled to Warm Springs, Ga., Tuesday to deliver a speech on national healing and economic redemption—and to wrap himself in FDR’s mantle."
     publishedDateTime: 2020-10-28T17:31:00Z
@@ -244,22 +258,6 @@ related:
     quality: 69
     images:
       - url: "https://cdn.abcotvs.com/dip/images/7107373_101720-wpvi-vote-2020-7am-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Why Florida’s Treasure Coast could back Joe Biden but elect a Republican to Congress"
-    excerpt: "While Florida’s Treasure Coast backed Donald Trump in 2016, four years later Joe Biden has a chance to flip it. But the partisan dynamics at the top of the ticket in what was once Florida’s most competitive congressional district aren’t likely to topple incumbent Republican Rep."
-    publishedDateTime: 2020-10-23T19:27:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246650928.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246650928.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246650928.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c7732d23-e2ae-4dbb-b1fc-f59e3e74be61/f2e1bfc2-be57-4900-b234-0d0dbced69fd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -388,6 +386,15 @@ related:
     excerpt: "Former President Obama delivers remarks at a drive-in campaign rally in North Miami, FL, in support of Democrat Joe Biden ’s 2020 presidential campaign. Former President Obama campaigned in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden."
     publishedDateTime: 2020-10-24T17:56:00Z
     webUrl: "https://www.c-span.org/video/?477346-1/president-obama-campaigns-joe-biden-miami"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Scranton Virtual Block Party for Joe Biden"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks to a virtual rally in support of his campaign held by supporters in his hometown of Scranton, Pennsylvania."
+    publishedDateTime: 2020-10-28T23:16:00Z
+    webUrl: "https://www.c-span.org/video/?477510-1/scranton-virtual-block-party-joe-biden"
     type: article
     provider:
       name: C-SPAN

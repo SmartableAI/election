@@ -41,6 +41,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "\"Anonymous\" is former DHS official who has openly opposed Trump"
+    excerpt: "The identity of a senior official in the Trump administration who wrote a New York Times op-ed about working against President Trump's \"worst inclinations\" has remained anonymous until now. The person who wrote the op-ed is Miles Taylor,"
+    publishedDateTime: 2020-10-28T20:16:00Z
+    webUrl: "https://www.cbsnews.com/news/anonymous-trump-critic-revealed/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/anonymous-trump-critic-revealed/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/anonymous-trump-critic-revealed/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/10/22/812459fd-84cf-4dbf-a7de-e8a43424a224/thumbnail/1200x630/12f84b52ee8edd82c120ff8a4d47dbdc/gettyimages-672492960-copy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Calls for armed guards, 'Army for Trump' volunteers alarm Minnesota election officials"
     excerpt: "Amid preparations complicated by the pandemic, state and federal officials are monitoring new reports of private security contractors advertising jobs that would — illegally — dispatch armed guards at Minnesota polling places."
     publishedDateTime: 2020-10-21T18:25:00Z

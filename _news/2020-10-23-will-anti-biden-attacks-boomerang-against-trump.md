@@ -762,6 +762,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "F-16s intercept plane flying too close to Trump rally in Arizona"
+    excerpt: "The U.S. Air Force intercepted an unknown aircraft flying too close to President Trump's campaign rally in Arizona Tuesday. "
+    publishedDateTime: 2020-10-28T22:52:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tKTthDAbtik/f-16s-intercept-plane-flying-too-close-to-trump-rally-in-arizona"
+    ampWebUrl: "https://www.foxnews.com/politics/f-16s-intercept-plane-flying-too-close-to-trump-rally-in-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/f-16s-intercept-plane-flying-too-close-to-trump-rally-in-arizona.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cb39650-9836-4a92-bd37-131f281931a1/b6d1095f-0a69-4927-bcd9-d064fdae3b93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Trump pitches Nevada voters from Arizona after rally-related fines"
     excerpt: "President Trump will make his final pitch to voters Wednesday in the swing state of Nevada from battleground Arizona after exorbitant coronavirus-related fees were doled out following a September rally that attracted thousands. "
     publishedDateTime: 2020-10-28T15:43:55Z
@@ -821,6 +837,54 @@ related:
     quality: 170
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20297054891763-e1603463644972.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden slams White House statement taking credit for ‘ending’ coronavirus pandemic"
+    excerpt: "Democratic presidential nominee Joe Biden’s taking aim at a White House release that includes \"ending the COVID-19 pandemic\" as part of a new list of President Trump's accomplishments."
+    publishedDateTime: 2020-10-28T20:36:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9pBOgjBF9y4/biden-white-house-statement-ending-coronavirus-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-statement-ending-coronavirus-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-statement-ending-coronavirus-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20302555381336.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump rally near early voting site in Tampa could cause delays at polls, officials warn"
+    excerpt: "Voters may have increased wait times and traffic delays when headed to the polls Thursday, as President Trump is scheduled to hold a campaign rally within the vicinity of an early voting site in Hillsborough County, Fla."
+    publishedDateTime: 2020-10-28T20:32:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JdvcA7ZsBQ/trump-rally-near-early-voting-site-in-tampa-could-cause-delays-at-polls-officials-warn"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rally-near-early-voting-site-in-tampa-could-cause-delays-at-polls-officials-warn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-near-early-voting-site-in-tampa-could-cause-delays-at-polls-officials-warn.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19d8c899-c6f5-41b9-9d36-0ae911189500/6139a1db-2f01-4c1a-9325-b4d504a0cb23/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump in Arizona: 'We don't have freedom of the press. We have suppression of the press'"
+    excerpt: "President Trump told supporters in Arizona that the U.S. does not have freedom of the press after the New York Post’s Hunter Biden stories were censored on social media. "
+    publishedDateTime: 2020-10-28T20:44:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/or_u6nZFfZE/trump-no-freedom-press-suppression-press"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-no-freedom-press-suppression-press.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-no-freedom-press-suppression-press.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a990f151-f69e-45e0-b041-46b709e86db7/0ebbd0e4-f814-4e51-9b22-dc84899a6da0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Judge rejects Trump campaign request for access to Philadelphia voter offices"
-    excerpt: "A Philadelphia judge has rejected a lawsuit filed by President Donald Trump's campaign seeking poll watcher access to satellite voter offices in the city. The campaign last week said its poll watchers were denied entry to areas where voters were casting ballots,"
-    publishedDateTime: 2020-10-09T20:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/judge-rejects-trump-campaign-lawsuit-over-philadelphia-voter-office-access/5942236002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5942236002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942236002"
+  - title: "Biden addresses violence in Philadelphia: 'No excuse' for looting"
+    excerpt: "Democratic presidential nominee Joe Biden on Wednesday addressed the recent violence in Philadelphia over the police killing of Walter Wallace Jr., telling reporters that the death is not an excuse for looting or criminal activity."
+    publishedDateTime: 2020-10-28T18:45:00Z
+    webUrl: "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting"
+    ampWebUrl: "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/NBCC/0e511ae2-ec6b-4120-95a7-6ce0441de12d-biden_and_trump.jpg?auto=webp&crop=659,371,x0,y36&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10282020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "Fx3dG/ZD32Nt3u6lMOa/UIaSMkYHZbqjU7QhuRhqwkAXuqyk/okSalGTTG3PQzCcatpg+HfZEQSe86hyNOeQjG9E70y/rAjrDpZAu37DtLARyAx+YkK6hgoUS24QE1KJA71AOQUVW2l7OD5y8KA2VgwcZSeIw4uRLH2Sn8qo+PSdL6GefUExaAsRle/y/colXb5SFBC+AykeTF//zhxyqI7EMCGtYaxMxmGBnSzsm9gJeDuZn69uBkY+p6IZy7DE0LycJnNrN0psw/LnlZeFwz0ItRTkGKfV9feV7gz2t7seDHD5noMVjWdPT7LV6MAhEQniCKQ91tEx2qPnB2ue1lzxA++pyVP/n6mpDX/D4R4=;eyLXo0znywu5Q4aawO5O5g=="

@@ -123,15 +123,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Without Florida, There’s Almost No Path for Donald Trump to Stay in the White House"
-    excerpt: "There’s almost no plausible path to a second term for President Donald Trump without winning his adoptive home state. This week in the D.C. Brief, we’re going to take the temperature in ..."
-    publishedDateTime: 2020-10-26T19:33:00Z
-    webUrl: "https://time.com/5903917/trump-florida/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 79
   - title: "Living and learning: Donald Trump has never met a mistake he didn’t repeat"
     excerpt: "At his Thursday night town hall, Joe Biden admitted that some of the 1994 crime bill he coauthored was a mistake, reminding us of our own mea culpa on stop-and-frisk four years ago."
     publishedDateTime: 2020-10-18T08:05:00Z

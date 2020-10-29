@@ -31,21 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden: Cameron Peak, CalWood fires are 'deadly signs' of climate change"
-    excerpt: "Joe Biden's statement on Northern Colorado's Cameron Peak fire was the first time a major party presidential candidate has name-checked the fire."
-    publishedDateTime: 2020-10-21T02:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/19/joe-biden-cameron-peak-fire-deadly-sign-climate-change/3711004001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3711004001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3711004001"
+  - title: "Fact check: VOA video is not a Biden ad to address the Muslim community"
+    excerpt: "Users on social media are sharing a video with Urdu subtitles showing democratic presidential candidate Joe Biden. Some posts refer to the clip as “Biden’s Muslim Commercial” claiming it was produced by the Biden campaign and that it is “being promoted in areas of"
+    publishedDateTime: 2020-10-26T17:26:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-not-muslim-ad-idUSKBN27B22U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B22U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B22U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538869649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1D7"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Kremlin accuses Joe Biden of spreading hatred of Russia with threat talk"
+    excerpt: "The Kremlin said on Monday that U.S. Democratic presidential challenger Joe Biden's assessment of Russia as the biggest threat to U.S. national security was wrong and encouraged hatred of Russia."
+    publishedDateTime: 2020-10-26T21:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-kremlin-idUSKBN27B13B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B13B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B13B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538868854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P0RG"
+        width: 821
+        height: 545
+        isCached: true
+  - title: "Fact check: Post claiming Joe Biden wants to put farms in 'land banks' is missing context"
+    excerpt: "At a September town hall, Biden said he wants to put farms into \"land banks.\" Some have taken this to mean he wants a government takeover of farmland."
+    publishedDateTime: 2020-10-23T23:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-claim-lacks-important-details-biden-and-land-banks/6011931002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6011931002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6011931002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 123
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/NLED/ac97ee10-b8a3-4a7c-b59f-791edcb6daa7-AP20292646434924.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PWIL/ad743977-7d3a-417e-994d-eeee1172d267-AP20262045476717.jpg?auto=webp&crop=5580,3139,x0,y283&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Fact check: Biden did tell a Detroit worker 'I'm not working for you' during gun rights argument"
+    excerpt: "A viral post on social media claims Joe Biden told a factory worker he doesn't work for him. Biden did say that, but the claim is missing context."
+    publishedDateTime: 2020-10-27T20:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/27/fact-check-yes-biden-told-detroit-worker-im-not-working-you/6044443002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6044443002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6044443002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/18/USAT/38928b0a-784e-42c7-a026-84ee2c8cd485-Biden_1.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "What problems did Joe Biden solve during his decades in government?"
+    excerpt: "The “60 Minutes” interviews of the presidential and vice-presidential candidates last Sunday were more revealing for questions not asked and for sidestepping than for what inquiring minds really want to know prior to Election Day."
+    publishedDateTime: 2020-10-28T19:27:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/28/what-problems-did-joe-biden-solve-during-his-decad/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/28/what-problems-did-joe-biden-solve-during-his-decad/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/28/what-problems-did-joe-biden-solve-during-his-decad/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/25/Election_2020_Biden_60_Minutes_58876.jpg-b5e30_c64-0-3535-2025_s1200x700.jpg?141c61a9d33cb3b21d542d653d6a235c32584f6c"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Fact check: Hillary Clinton, not Joe Biden, used the phrase 'super predators'"
+    excerpt: "Joe Biden referred to Black people as 'super predators' during the passage of the 1994 crime bill. The Violent Crime Control and Law Enforcement Act of 1994, also known"
+    publishedDateTime: 2020-10-24T22:34:00Z
+    webUrl: "https://www.freep.com/story/news/factcheck/2020/10/24/fact-check-hillary-clinton-called-some-criminals-super-predators/6021383002/"
+    ampWebUrl: "https://amp.freep.com/amp/6021383002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6021383002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/d14072ff1d27975f8f68732fbeac8d61be3a1b0b/c=0-851-2298-2149/local/-/media/2015/02/24/USATODAY/USATODAY/635603856883000837-AFP-526532422.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
 
 secured: "wNCKIJ86Vk/M2+1LInKykfoRBDcZyFVvy6z6/FUmWYSD4EMKSp7ytWB5m3ZNfGPUZ2cI1lm1xoV1VD1mmEgmF+0FAoTSxDD+MFGO2wt+IijXQmLJmS++fFcAuMaHv1WF7OVJOjJv0u9jc8FI1Gpg0g8Bjf3tGFz9ByGc0hzlR3VVVm2P0EkpGi1Vw4v7qz76eSrrZyCExa9+5LLx+O3hB1FNcn6PK+vbkgldBLgMzKP26FmY7G5e86AL8DFXtG4dWSGMxUxz941Ec+sR0tAHPTV9N6X21m35TVl2cuHy9TNhaHSTuCNGRviy3scAajtCuEz/F8WEE0tepo7xROJey0HxD/lhhzsCk//KMmjGB0mYTjAetH6p08AguqPh010wtGWboGvgvjzvgABkrDfWyGRydslE9MARejx7G5wngehPQmlqDx5t90MBRGyPCI22glGzI7wvZNEf2OZCnBvgGJKEqzOyVkqtT0w2klMy/iTvOWHWRQgXtG+lso+3k/ZGLDxfsNb5a90Q+zkACfVSBg==;z0sAe+0sCgfUnOJzFfYe0g=="

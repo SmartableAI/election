@@ -697,6 +697,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "American AF Apparel Banned By Facebook For Pro-Trump, Anti-Biden Merchandise"
+    excerpt: "Facebook shut down and banned a Facebook merchandising page this weekThe wildly popular Facebook page of the veteran-owned apparel company American AF has been permanently banned by the platform over its political satire merchandise."
+    publishedDateTime: 2020-10-28T22:17:00Z
+    webUrl: "https://www.forbes.com/sites/johnscottlewinski/2020/10/28/american-af-apparel-banned-by-facebook-for-pro-trump-anti-biden-merchandise/"
+    ampWebUrl: "https://www.forbes.com/sites/johnscottlewinski/2020/10/28/american-af-apparel-banned-by-facebook-for-pro-trump-anti-biden-merchandise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnscottlewinski/2020/10/28/american-af-apparel-banned-by-facebook-for-pro-trump-anti-biden-merchandise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 137
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99dc200f79606cb9793dcf%2F0x0.jpg"
+        width: 1200
+        height: 727
+        isCached: true
   - title: "Snap polls give Joe Biden edge over Trump in final TV debate – US politics live"
     excerpt: "Biden accused Trump of pouring fuel ‘on every single racist fire’ as pair clashed over coronavirus, Obamacare and fossil fuels"
     publishedDateTime: 2020-10-23T13:22:00Z
@@ -712,6 +728,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e168c91b2013bd6b210aea3b6d06321cebd33388/0_56_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b9e0f3db31c62f7d03657b8f843bed68"
         width: 600
         height: 360
+        isCached: true
+  - title: "Surprise: Biden and Trump Both Back Modest Tax Cuts For Middle-Income Households"
+    excerpt: "Joe Biden and Donald Trump would both cut taxes for middle-income households, but in different ways and at different times"
+    publishedDateTime: 2020-10-28T23:24:00Z
+    webUrl: "https://www.forbes.com/sites/howardgleckman/2020/10/28/surprise-biden-and-trump-both-back-modest-tax-cuts-for-middle-income-households/"
+    ampWebUrl: "https://www.forbes.com/sites/howardgleckman/2020/10/28/surprise-biden-and-trump-both-back-modest-tax-cuts-for-middle-income-households/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/howardgleckman/2020/10/28/surprise-biden-and-trump-both-back-modest-tax-cuts-for-middle-income-households/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 135
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9976e9e4bc3cdb67d9ae02%2F0x0.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Trump releases 'Promise to Indian Country' tribal policy on the heels of Biden plan"
     excerpt: "The Trump administration released its tribal policy proposals via conference call two weeks before the election."
@@ -904,6 +936,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZATPJKAT6UI6XISYMFFM6K4QNU.jpg&w=1440"
         width: 1440
         height: 929
+        isCached: true
+  - title: "Trump Trails Biden in North Carolina, a State Republicans Haven't Won a Presidential Election Without Since 1956: Poll"
+    excerpt: "Former President Dwight Eisenhower was the last Republican to win a presidential election without winning North Carolina, defeating Democratic nominee Adlai Stevenson in 1956."
+    publishedDateTime: 2020-10-28T23:19:00Z
+    webUrl: "https://www.newsweek.com/trump-trails-biden-north-carolina-state-republicans-havent-won-presidential-election-without-1543072"
+    ampWebUrl: "https://www.newsweek.com/trump-trails-biden-north-carolina-state-republicans-havent-won-presidential-election-without-1543072?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-trails-biden-north-carolina-state-republicans-havent-won-presidential-election-without-1543072?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
+    images:
+      - url: "https://d.newsweek.com/en/full/1661123/joe-biden.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "2020 Presidential Debate: Predictions & Odds For Joe Biden & Donald Trump’s Final showdown"
     excerpt: "Predictions, betting odds and picks for tonight's final Presidential Debate between Donald Trump and Joe Biden. From Antifa to White Supremacy, which topics will be discussed? And yes, you can even bet on the fly making his return."
@@ -2072,6 +2120,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Joe Biden votes early in the US election"
+    excerpt: "The Democratic presidential candidate was also asked about his healthcare plan, if elected."
+    publishedDateTime: 2020-10-28T21:34:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54724437"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 70
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Trump Campaigning Non-stop As Biden Holds Firm In Delaware"
     excerpt: "Democrat Joe Biden huddled in his home state Wednesday six days before a monumental US election, fine-tuning his pandemic response plan while President Donald Trump crisscrosses America at a frenetic pace,"
     publishedDateTime: 2020-10-28T17:42:00Z

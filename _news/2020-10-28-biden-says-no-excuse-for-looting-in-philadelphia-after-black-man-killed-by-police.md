@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-lo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says 'no excuse' for looting in Philadelphia after Black man killed by police"
+    excerpt: "Democratic presidential nominee Joe Biden says there’s “no excuse whatsoever” for the ongoing looting and violence in Philadelphia."
+    publishedDateTime: 2020-10-28T18:57:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20302623949679.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Watch Live: Joe Biden Speaks On Supreme Court Vacancy In Philadelphia"
     excerpt: "Former Vice President Joe Biden is scheduled to deliver remarks on the vacancy left by the death of Supreme Court Justice Ruth Bader Ginsburg from Philadelphia on Sunday afternoon."
     publishedDateTime: 2020-09-20T19:00:00Z

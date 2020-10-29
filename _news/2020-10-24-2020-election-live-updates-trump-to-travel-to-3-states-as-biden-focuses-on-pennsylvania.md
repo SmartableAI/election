@@ -320,6 +320,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden draws contrast with Trump on coronavirus as pandemic worsens in campaign's final days "
+    excerpt: "Democratic presidential nominee Joe Biden sought Wednesday to make the differences in how he and President Donald Trump have approached the coronavirus pandemic a part of his closing message, sitting for a briefing with health experts and addressing the crisis as Trump campaigned out West as if it was"
+    publishedDateTime: 2020-10-28T20:00:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/goK5CJhDHPQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/biden-trump-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/biden-trump-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028151007-02-joe-biden-briefing-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Personal assistant to Trump tests positive for coronavirus"
     excerpt: "One of the White House aides who works closest to President Donald Trump has tested positive for coronavirus, a White House official confirmed to CNN.\n    \n"
     publishedDateTime: 2020-10-04T04:19:35Z
@@ -656,6 +672,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "CNN Poll: Biden continues to hold nationwide advantage in final days of 2020 race"
+    excerpt: "With the race for the presidency approaching its end amid a raging pandemic, Democratic nominee Joe Biden maintains a substantial lead over President Donald Trump nationwide, according to a new CNN Poll conducted by SSRS.\n    \n"
+    publishedDateTime: 2020-10-28T20:45:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oMeBWW1TuUI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/cnn-poll-national-october/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/cnn-poll-national-october/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200724045318-02-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump coronavirus adviser Scott Atlas undermines importance of masks as cases spike"
     excerpt: "White House coronavirus task force member Dr. Scott Atlas sought to undermine the importance of face masks on Saturday as coronavirus cases spike across the US.\n    \n"
     publishedDateTime: 2020-10-18T13:05:29Z
@@ -781,6 +813,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015161616-barack-obama-0921-2018-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: No, the media didn't suddenly change its reporting on coronavirus immunity after Trump got infected"
+    excerpt: "President Donald Trump has been telling a conspiratorial story about the media and the coronavirus.\n    \n"
+    publishedDateTime: 2020-10-28T20:45:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oSq2DmSv1Gw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/fact-check-trump-covid-immunity-media/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/fact-check-trump-covid-immunity-media/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027152336-trump-lansing-mi-1027-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -927,6 +975,38 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423600/201028-joe-biden-al-0818_c361e1f5a92731c3953fa35bee82b5e9.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Obama mocks Trump, Biden calls for unity"
+    excerpt: "With one week remaining until Election Day, Tuesday begins the final countdown of the campaign for President Donald Trump and Joe Biden. Trump is holding afternoon events in the key battleground states of Michigan and Wisconsin,"
+    publishedDateTime: 2020-10-28T16:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-27-trump-biden-election-n1244852"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244852"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244852"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "FBI agents urge Biden and Trump not to fire Christopher Wray"
+    excerpt: "Democrats, as well as many Republicans, on Capitol Hill have largely endorsed Wray as a straight-shooting, apolitical and effective leader of the FBI."
+    publishedDateTime: 2020-10-28T20:50:00Z
+    webUrl: "https://www.politico.com/news/2020/10/28/fbi-urge-biden-trump-not-fire-christopher-wray-433325"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/28/fbi-urge-biden-trump-not-fire-christopher-wray-433325"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/28/fbi-urge-biden-trump-not-fire-christopher-wray-433325"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/da/0c/28bd820a4e40a63f5f8c06ff5a3f/20201028-christopher-wray-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden calls out Trump for suggesting 'injecting bleach' to treat coronavirus"
     excerpt: "While speaking about vaccine production, Joe Biden called out President Donald Trump for suggesting that \"injecting bleach\" could help treat the coronavirus, while the president claimed it was said \"sarcastically."

@@ -278,6 +278,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "The Joe Biden and Hunter Biden Non-Scandal"
+    excerpt: "The story of Hunter Biden’s involvement with the Ukrainian gas company Burisma isn’t a scandal about his father, as the Trump campaign claims, but part of a personal tragedy for the vice president’s son,"
+    publishedDateTime: 2020-10-28T12:22:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/28/the_joe_biden_and_hunter_biden_non-scandal_527760.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/48/489479_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "yT8d27AlLQN+f0Jn6o13Tz4JK7zNlhI1gGkEDOzbWE6hom5BaTDMAIXVz6KTzQlmnoXso6j90Ql322EQPQvXzJufC9JRN7lDGK/fTlV/E/7n34Tp1GoBarbV0tEQ/JyoO9Hx52DVft0XnXxOGeBCX85G5FNnEBeeCDwETPUtqqsvHvMfPWcqpcEyOqsqzi2cXj1AP7eH5Gn8CnRHDduu338e2wdUS8YzPjkUhmRiQyxvOF4TEB8AcPluPpagCKDgf0vwfmiRiboRLOE/DJZpg+YqjcgXnhU6y19r0wAQ0LX4u/t0G56/hKsliJmKFkvG+8BPSf1vIRtm839N38imkWHgNAbTwEg5TUjFav/FoAg=;Z14Dc2d9jyAxzmq8cgrFeA=="
 ---

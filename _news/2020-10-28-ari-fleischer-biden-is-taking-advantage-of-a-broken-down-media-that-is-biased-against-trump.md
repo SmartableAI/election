@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ari-fleischer-biden-taking-advantag
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp"
 type: article
 quality: 176
-heat: 216
+heat: 236
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49cd9545-8d20-42fb-a18a-f2dee89ff05f/aa598eef-8742-4fa8-b656-699b26d681b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Newt Gingrich denies Georgia is in play for Biden, insists 'the polls are wrong'"
+    excerpt: "Former House Speaker Newt Gingrich predicted Wednesday that President Trump will win Gingrich's onetime home state of Georgia next week, telling \"Bill Hemmer Reports\" that polls showing a close race in the state \"are just wrong.\""
+    publishedDateTime: 2020-10-28T20:58:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hV-EIteut6c/newt-gingrich-predicts-trump-win-georgia-polls-wrong"
+    ampWebUrl: "https://www.foxnews.com/politics/newt-gingrich-predicts-trump-win-georgia-polls-wrong.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newt-gingrich-predicts-trump-win-georgia-polls-wrong.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ac0f027-5ece-4e37-a12f-c1b52f97739b/3af2dd87-ebf5-482a-b085-7f3e7026e859/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

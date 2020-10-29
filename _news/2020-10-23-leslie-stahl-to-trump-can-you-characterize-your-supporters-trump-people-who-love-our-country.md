@@ -7,7 +7,7 @@ originalUrl: "https://www.realclearpolitics.com/video/2020/10/22/leslie_stahl_to
 webUrl: "https://www.realclearpolitics.com/video/2020/10/22/leslie_stahl_to_trump_can_you_characterize_your_supporters_trump_people_who_love_our_country.html"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,40 @@ images:
     width: 1036
     height: 776
     isCached: true
+
+related:
+  - title: "Trump campaign takes over YouTube masthead for debate day with help of UFC supporters"
+    excerpt: "EXCLUSIVE: President Trump's campaign Thursday will take over YouTube's masthead for 24 hours, controlling the prime internet real estate on the day of final debate between Trump and Democratic nominee Joe Biden, Fox News has learned."
+    publishedDateTime: 2020-10-22T02:20:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z0bruodusTk/trump-campaign-takes-over-youtube-masthead-for-debate-day"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pollster who predicted 2016 result says Trump on track to win again with help of 'hidden' support"
+    excerpt: "With two weeks left until Election Day, 35 million Americans having already voted, and most polls showing Joe Biden leading President Trump, Trafalgar Group chief pollster Robert Cahaly told “Hannity” Tuesday the incumbent is likely to be reelected."
+    publishedDateTime: 2020-10-21T03:53:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9GoVbc_gSPQ/robert-cahaly-trafalgar-group-2020-election-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/robert-cahaly-trafalgar-group-2020-election-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/robert-cahaly-trafalgar-group-2020-election-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b3568cb-18e7-4d67-a16b-76fb5ff90b60/5a562e06-b9f3-41fc-b1b1-7004ce012eae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "BCStG/OU308CKDf/fkr4iLPigWU9ukzntT0DbD5so4xxH4yIFldeAAawU5klatNMwKJFU9GRxUgm//RBREWYE8dbsU9Lp8106Z+4Kxc/ZrCgyv57ZB1Sx5loDS1vfGKiSd4MoawGgvXqxxy+KsFKbRrKZXzNaQQtxj7b45LXS/eq/cvlNjnC/hinMU5vxBSqGV8bgIIbOaxqZ6bNk2IPm6l05qMomIu1gPAoqM82NUHVvmB2uBP1q/dtOTk9ANRHu1KEp/76qw6cxU+ZzUPCMCm1I6F0JMICohqOlLvHVxFL6SP7E97M2UPf52+63JFNlOZ2gTOhmR6jUz2l2BHylvmRsc4rHU3StM3obE+1uOo=;QX3FdG4Gltd1MI2iQ5iTpw=="
 ---

@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's Middle East peace deals 'rejected conventional wisdom': State Dept."
-    excerpt: "President Trump's Middle East peace deals, including the latest Friday between Israel and Sudan, are \"unprecedented\" for the region, State Department spokeswoman Morgan Ortagus said."
-    publishedDateTime: 2020-10-24T18:50:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZmxoZXQDLPk/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus"
-    ampWebUrl: "https://www.foxnews.com/politics/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus.amp"
+  - title: "Man arrested at Trump rally in Maine carrying knife and wooden baton"
+    excerpt: "A man wielding a knife and wooden baton was arrested at a campaign rally for President Trump in Maine Wednesday where Gov. Kristi Noem appeared. "
+    publishedDateTime: 2020-10-28T23:43:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHoVrBFohvY/man-arrested-trump-rally-maine"
+    ampWebUrl: "https://www.foxnews.com/politics/man-arrested-trump-rally-maine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/man-arrested-trump-rally-maine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20291003271342.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump campaign website briefly defaced by hackers making outlandish claims"
+    excerpt: "President Trump’s campaign website was briefly hacked Tuesday, according to reports."
+    publishedDateTime: 2020-10-28T07:08:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/koSNkPEs6Ec/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/beba87ae-315f-4d4f-af9c-349ea7c729e2/cfc957e4-d7a5-46c7-86eb-cab2922961e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump announces peace deal between Sudan and Israel, says more nations will normalize relations"
-    excerpt: "President Donald Trump announced Friday that Sudan will start to normalize ties with Israel, making it the third Arab state to do so as part of U.S.-brokered deals in the run-up to Election Day. "
-    publishedDateTime: 2020-10-23T16:02:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIfgukHML8w/trump-sudan-to-join-uae-bahrain-in-recognizing-israel"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-sudan-to-join-uae-bahrain-in-recognizing-israel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-sudan-to-join-uae-bahrain-in-recognizing-israel.amp"
+  - title: "Trump claims Obama 'campaigning for us' after former president's scathing rebuke"
+    excerpt: "President Trump claimed that former President Obama was campaigning for him “every time he speaks,” after Trump’s predecessor slammed him at a rally for Joe Biden Wednesday night. "
+    publishedDateTime: 2020-10-22T21:00:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xDnpvv7VpU/trump-obama-campaigning-for-us"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-obama-campaigning-for-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-obama-campaigning-for-us.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/trumpdated.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Obama-Trump-AP.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "GnIl8tuSkGKm+56XEOkuYQzfSXS4Dy3wHkd1CN+HXsg7FoMDcG3dPjj8RmiDRtQDSB1t03uqFflzdabWzBS1PXL64meW+otsq9j9DP5x04R0yMiKjAURUb+w1wUMwwrrKVR09N2lMS+waZGlC4s420P0D6SkeJF44eQwha5hDiPsaK8j0hpLm4nrUsL17pjta3MJge1yatSWo0zyUFL6zVqkn0RQIwu2RlNrJ/ZZnU3IeXzl4PzJNMABvCPtoCqV9/HGSHmeJaBfirHFOHEqqJKsRVsRE4i0z7Z6WOmcJtc/1K4D3nvlWZza5r/wW3vE4eJEKXWdQTWgyxZw9C9YUKloX3YyhKyOwkfchojvig4=;jFAXcxK7f5BgP7qsJrxnsA=="
