@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Bay Area political events: Kamala Harris’ chief of staff, Rep. Mark DeSaulnier"
-    excerpt: "A conversation with Karine Jean-Pierre, chief of staff to Democratic vice presidential candidate Sen. Kamala Harris, and a town hall meeting with Democratic Rep. Mark DeSaulnier of Concord and Rep. Jamie Raskin,"
-    publishedDateTime: 2020-10-28T15:29:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Bay-Area-political-events-Women-in-politics-15675578.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Bay-Area-political-events-Women-in-politics-15675578.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Bay-Area-political-events-Women-in-politics-15675578.php"
+  - title: "Joe Biden: We can restore the soul of our nation | Raleigh News & Observer"
+    excerpt: "The Editorial Board invited both presidential candidates to make their case to voters."
+    publishedDateTime: 2020-10-29T08:00:00Z
+    webUrl: "https://www.newsobserver.com/opinion/article246778127.html"
+    ampWebUrl: "https://amp.newsobserver.com/opinion/article246778127.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article246778127.html"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 71
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 73
     images:
-      - url: "https://s.hdnux.com/photos/01/14/73/16/20165545/5/rawImage.jpg"
-        width: 2048
-        height: 1294
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/53fd7af8-cdff-4f51-9f62-2cf621c1da9f/913d99e9-deef-42dd-bbd0-15b9cd8cce1f/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
+        isCached: true
+  - title: "Joe Biden: Vacancy about health law, not court expansion | Raleigh News & Observer"
+    excerpt: "Democratic presidential candidate Joe Biden says the GOP’s push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law."
+    publishedDateTime: 2020-09-27T23:20:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article246048190.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article246048190.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article246048190.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557046001/7d5e9510-8587-4c57-9893-705790042a29/main/1280x720/22s304ms/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "yzdLupIoKOBkdALtNgwnhMmDzObXAwuf02Nhp6YxlUkAJaK5JNLcvPV/1te3rokVplXY7muiFxygn//nvHltOm3FvFpBPrelG+JxRDa46FbBEBu2BpNGvz1KTPnSoHhkJvUefALcU0CpyYlmejrLPXHuYcIr+kuAd4o6RLxaiVaPX7YoQkCAypOxfC4/A6eCqFLublNXZSd1vovBnzG/CLWfYizDwZjS0xtKRapVUOVgEadGGrJSCs9f2PGHWY6C8Gdmoq7qn79R6CBjYaQCuDtByc4oCjiaKRfd0xjIKxIMp85B+uD7GmO4NCpDuoe/i1ZKryIRzg7R53DS0tgcaTAmkN9w0+wyXFVgd59S0JyC7TqUT9Yb1rnfe1Sdu8XJhqVhdFTWs4s5kMELm54gXDw9dG9FM6Hyb/vTssZIIPm0lOY58+yiLoGdHErsl1xKXgm1J2MJG0w906MUjUwe5CnQ5S+VKn/s/tDLUcaAhZ7UPMcQDqySKh0pK3B/eDwYKESjlGiV1FY72hmUbVn8aQ==;aLLQ6QI2PwvtfyThD5biuA=="

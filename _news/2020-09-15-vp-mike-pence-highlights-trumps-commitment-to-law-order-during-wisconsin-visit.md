@@ -3794,6 +3794,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden's biggest problem is that there is no vaccine for Trumpism"
+    excerpt: "Biden's presidency won't suddenly cure COVID because Trump has helped to create a whole culture of resistance to COVID-19 regulations."
+    publishedDateTime: 2020-10-29T04:16:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/2020/10/29/biden-and-covid-his-presidency-and-plan-wont-fix-everything-column/3748453001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3748453001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3748453001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/27/USAT/6ffb66f7-98c0-4e1f-b593-dbeb1e8aa6b8-AP_Virus_Outbreak-Antivax_Rebranding.jpg?auto=webp&crop=1999,1124,x0,y161&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"
     publishedDateTime: 2020-09-24T21:01:00Z
@@ -4798,6 +4814,17 @@ related:
     webUrl: "https://www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters"
     ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Trump Paints Apocalyptic Portrait of Life in US Under Biden"
+    excerpt: "President Donald Trump is painting an apocalyptic portrait of American life if Democrat Joe Biden gets elected."
+    publishedDateTime: 2020-10-29T04:42:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/trump-paints-apocalyptic-portrait-of-life-in-us-under-biden"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/trump-paints-apocalyptic-portrait-of-life-in-us-under-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-29/trump-paints-apocalyptic-portrait-of-life-in-us-under-biden?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

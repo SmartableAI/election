@@ -979,6 +979,22 @@ related:
         width: 1440
         height: 929
         isCached: true
+  - title: "Trump Muses About Ultimate Fighting Championship Scenario Against Biden Amid Lag in Polls"
+    excerpt: "\"One gentle little touch to the face and he's down,\" President Donald Trump said of his hypothetical \"dream fight\" with Democratic presidential nominee Joe Biden during a campaign rally on Wednesday."
+    publishedDateTime: 2020-10-29T04:48:00Z
+    webUrl: "https://www.newsweek.com/trump-muses-about-ultimate-fighting-championship-scenario-against-biden-amid-lag-polls-1543097"
+    ampWebUrl: "https://www.newsweek.com/trump-muses-about-ultimate-fighting-championship-scenario-against-biden-amid-lag-polls-1543097?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-muses-about-ultimate-fighting-championship-scenario-against-biden-amid-lag-polls-1543097?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
+    images:
+      - url: "https://d.newsweek.com/en/full/1661162/donald-trump-wwe.jpg"
+        width: 3000
+        height: 2539
+        isCached: true
   - title: "Trump Trails Biden in North Carolina, a State Republicans Haven't Won a Presidential Election Without Since 1956: Poll"
     excerpt: "Former President Dwight Eisenhower was the last Republican to win a presidential election without winning North Carolina, defeating Democratic nominee Adlai Stevenson in 1956."
     publishedDateTime: 2020-10-28T23:19:00Z
@@ -1469,6 +1485,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump, Biden to appeal to last-minute voters in Florida"
+    excerpt: "President Donald Trump and Democratic rival Joe Biden are set to chase votes in Florida, a state all but essential to the Republican's pathway to another term as both nominees turn their focus to encouraging voters to turn out on Election Day."
+    publishedDateTime: 2020-10-29T05:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-biden-to-appeal-to-last-minute-voters-in-florida-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-biden-to-appeal-to-last-minute-voters-in-florida-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-to-appeal-to-last-minute-voters-in-florida-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z

@@ -688,6 +688,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump Killed the Pax Americana"
+    excerpt: "The Pax Americana arguably dated from the enactment of the Marshall Plan in 1948; that is, from the moment when a conquering nation chose to help its defeated foes rebuild rather than demanding that they pay tribute."
+    publishedDateTime: 2020-10-29T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/01/opinion/sunday/01-icon-krugman/01-icon-krugman-facebookJumbo-v9.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Take This Trump Election Day Quiz Before It’s Too Late"
     excerpt: "Happy Almost Election Day! I know it’s been a tough road, people, but you’ve been doing a great job. And since your vote is basically all about how you regard the last four years of Trumpdom, here’s a quick quiz."
     publishedDateTime: 2020-10-29T00:05:00Z

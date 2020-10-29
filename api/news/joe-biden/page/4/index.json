@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-30-joe-and-jill-biden-reported-earning-165-million-from-book-deals-and-speaking-engagements-since-leaving-the-white-house.md",
+      "title": "Joe and Jill Biden reported earning $16.5 million from book deals and speaking engagements since leaving the White House",
+      "excerpt": "The Bidens released their 2019 tax returns ahead of Biden's first presidential debate against Trump on Tuesday, September 29.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7",
+      "originalUrl": "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5d24f6bba17d6c08a7639382?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7?amp",
+      "publishedDateTime": "2020-09-29T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-joe-biden-must-not-commit-major-gaffe-to-secure-successful-performance-says-debate-expert.md",
       "title": "Joe Biden must not 'commit major gaffe' to secure successful performance, says debate expert",
       "excerpt": "Aaron Kall, director of debate at the University of Michigan, addresses the baseline expectations for both candidates ahead of the first U.S. presidential debate on Tuesday.",
@@ -1515,58 +1567,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-former-top-us-catholic-official-there-are-morally-grave-reasons-to-vote-for-biden.md",
-      "title": "Former top U.S. Catholic official: There are ‘morally grave’ reasons to vote for Biden",
-      "excerpt": "John Carr, longtime Catholic adviser who opposed abortion, say he will vote for Joe Biden despite the Democrat’s support for existing abortion laws.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SBWXQTXZAUI6VITVDIWC2NXB6E.jpg&w=1440",
-          "width": 1440,
-          "height": 980,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-17T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

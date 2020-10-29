@@ -199,6 +199,40 @@
       ]
     },
     {
+      "path": "_news/2020-10-27-mike-pence-making-2-more-campaign-stops-in-north-carolina-charlotte-observer.md",
+      "title": "Mike Pence making 2 more campaign stops in North Carolina | Charlotte Observer",
+      "excerpt": "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump’s reelection bid.",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/news/article246741486.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/article246741486.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/article246741486.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article246741486.html",
+      "publishedDateTime": "2020-10-27T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-stephen-colbert-mike-pence-is-americas-spare-tire.md",
       "title": "Stephen Colbert: Mike Pence Is ‘America’s Spare Tire’",
       "excerpt": "After the White House called the vice president an essential worker, Colbert said: “At best, he is vice essential. You want him in the trunk, but you hope to never have to use him.”",
@@ -1491,49 +1525,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-pence-touts-gop-candidates-support-for-fishermen-in-maine.md",
-      "title": "Pence touts GOP candidates, support for fishermen in Maine",
-      "excerpt": "Vice President Mike Pence used a Monday appearance in Maine to tout Republican politicians in the state and boast about the federal government's support for lobster fishermen. Pence held a rally in Hermon,",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/news/article/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
-      "originalUrl": "https://www.expressnews.com/news/article/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/14/63/11/20132449/3/375x250.jpg",
-          "width": 375,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expressnews.com/news/amp/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
-      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php",
-      "publishedDateTime": "2020-10-20T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

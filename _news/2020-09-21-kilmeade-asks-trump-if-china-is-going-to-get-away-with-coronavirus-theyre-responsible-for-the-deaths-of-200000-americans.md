@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 1319
         isCached: true
+  - title: "Americans say they are better off under Trump, but is America? Trump by the numbers"
+    excerpt: "Gallup reports that 56% said they're better off than in 2016, but 56% also said President Donald Trump does not deserve to be reelected."
+    publishedDateTime: 2020-10-29T09:21:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/29/americans-say-better-off-but-not-america-trump-numbers-column/6046218002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6046218002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6046218002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/1790a9c3-a79f-4718-bee3-8c5d1e212277-AP_Election_2020_Trump_1.jpg?auto=webp&crop=2725,1533,x0,y138&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump went golfing 25 times as a virus swept across the US and killed over 200,000 Americans"
     excerpt: "As the virus swept across the US, Trump downplayed the threat, deflected blame to others, and routinely visited his properties to play golf."
     publishedDateTime: 2020-09-23T02:06:00Z

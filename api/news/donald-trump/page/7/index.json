@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-05-secret-service-volunteered-for-trump-drive-lewandowski-claims.md",
+      "title": "Secret Service ‘Volunteered’ For Trump Drive, Lewandowski Claims",
+      "excerpt": "An attending physician said the agents likely didn’t know the “real risks” of being inside the vehicle with Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/",
+      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b280907e0d0d800a27488%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1487%26cropY1%3D67%26cropY2%3D904",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/amp/",
+      "publishedDateTime": "2020-10-05T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-trump-pledges-to-pass-the-biggest-tax-cut-ever-in-early-morning-campaign-tweetstorm-from-walter-reed.md",
       "title": "Trump pledges to pass 'THE BIGGEST TAX CUT EVER' in early morning campaign tweetstorm from Walter Reed",
       "excerpt": "Trump previously vowed a middle-class tax cut during the November 2018 midterms, but it never happened. His second-term tax platform remains vague.",
@@ -1518,58 +1570,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says.md",
-      "title": "Trump 'Will Not Accept Any Result That Is Not A Victory,' 'Atlantic' Writer Says",
-      "excerpt": "Atlantic writer Barton Gellman says the 2020 election could trigger a constitutional crisis: \"This is not going to be a normal election. ... Preserving its legitimacy is going to take extra effort.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
-      "originalUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/10/01/gettyimages-1273384685_wide-e24471991c8648589f4ed71dda06062f7b5c082f.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

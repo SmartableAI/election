@@ -2,6 +2,170 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-14-us-election-2020-do-celebrity-endorsements-help-joe-biden.md",
+      "title": "US election 2020: Do celebrity endorsements help Joe Biden?",
+      "excerpt": "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/election-us-2020-54527265",
+      "originalUrl": "https://www.bbc.com/news/election-us-2020-54527265",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 580,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14CBB/production/_114897158_taylor.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/election-us-2020-54527265",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265",
+      "publishedDateTime": "2020-10-13T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-new-jersey-mayors-facebook-post-blasting-trump-and-his-supporters-prompts-outcry.md",
+      "title": "New Jersey mayor's Facebook post blasting Trump and his supporters prompts outcry",
+      "excerpt": "A New Jersey mayor has come under fire for a private Facebook post that condemned President Donald Trump and likened his supporters to “religious zealots” who want to “enact the Christian version of Sharia law.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAYvkukryMs/mayor-facebook-blasted-trump-zealots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAYvkukryMs/mayor-facebook-blasted-trump-zealots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287769111764.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mayor-facebook-blasted-trump-zealots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayor-facebook-blasted-trump-zealots.amp",
+      "publishedDateTime": "2020-10-13T17:40:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-russia-dismisses-trump-administration-efforts-to-secure-nuclear-arms-deal-before-election.md",
+      "title": "Russia dismisses Trump administration efforts to secure nuclear arms deal before election",
+      "excerpt": "The Kremlin on Tuesday rejected assertions by the Trump administration that the US and Russia had come to a \"gentlemen's agreement\" on extending a key arms control agreement and dismissed the idea that a deal would be reached before the US presidential election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DtzMt22YlD8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DtzMt22YlD8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 781,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200608165352-usa-russia-flags-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/13/politics/new-start-us-russia-comments/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/new-start-us-russia-comments/index.html",
+      "publishedDateTime": "2020-10-13T16:14:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-ex-white-house-doctor-questions-bidens-mental-capacity-to-be-president.md",
       "title": "Ex-White House doctor questions Biden's 'mental capacity' to be president",
       "excerpt": "“I’m concerned, like so many other people in this country are right now, that he is not up for the job,\" Jackson said.",
@@ -1130,148 +1294,6 @@
       "provider": {
         "name": "Columbus Dispatch",
         "domain": "dispatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-the-pennsylvania-women-trump-has-lost.md",
-      "title": "The Pennsylvania women Trump has lost   ",
-      "excerpt": "They are all nervous.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TGlJbOjzvxo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TGlJbOjzvxo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 635,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201012131858-pa-voters-4-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html",
-      "publishedDateTime": "2020-10-12T16:53:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-kamala-harris-husband-emhoff-everythings-on-the-line-right-now.md",
-      "title": "Kamala Harris' husband Emhoff: 'Everything's on the line right now'",
-      "excerpt": "Doug Emhoff called President Trump a failing and racist president who didn't deal with COVID-19 due to an \"inept lack of caring and lack of action\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/news/politics/2020/10/12/kamala-harris-husband-doug-emhoff-everythings-line-right-now/5972356002/",
-      "originalUrl": "https://www.detroitnews.com/story/news/politics/2020/10/12/kamala-harris-husband-doug-emhoff-everythings-line-right-now/5972356002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/PDTN/e3a5441f-a0f4-48dc-8f30-1050d07840fa-DSC_2108.JPG?auto=webp&crop=2087,1174,x0,y106&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/5972356002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5972356002",
-      "publishedDateTime": "2020-10-12T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.md",
-      "title": "VP Mike Pence, in Ohio, criticizes removal of statues in Columbus, elsewhere",
-      "excerpt": "Vice President Mike Pence, campaigning in Ohio on Monday, suggested that America is on the edge of a cultural precipice, denouncing the removal of statues of controversial explorer Christopher Columbus in his namesake city and around the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pennlive.com/politics/2020/10/vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.html",
-      "originalUrl": "https://www.pennlive.com/politics/2020/10/vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/S4BXECN44NDVXCLNI2LJLQNEQM.jpg",
-          "width": 1024,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pennlive.com/politics/2020/10/vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/politics/2020/10/vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.html?outputType=amp",
-      "publishedDateTime": "2020-10-12T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Penn Live",
-        "domain": "pennlive.com",
         "images": null,
         "publishers": null,
         "authors": null

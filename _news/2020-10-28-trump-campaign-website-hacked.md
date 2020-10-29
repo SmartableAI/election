@@ -688,6 +688,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump Killed the Pax Americana"
+    excerpt: "The Pax Americana arguably dated from the enactment of the Marshall Plan in 1948; that is, from the moment when a conquering nation chose to help its defeated foes rebuild rather than demanding that they pay tribute."
+    publishedDateTime: 2020-10-29T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/01/opinion/sunday/01-icon-krugman/01-icon-krugman-facebookJumbo-v9.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Take This Trump Election Day Quiz Before It’s Too Late"
     excerpt: "Happy Almost Election Day! I know it’s been a tough road, people, but you’ve been doing a great job. And since your vote is basically all about how you regard the last four years of Trumpdom, here’s a quick quiz."
     publishedDateTime: 2020-10-29T00:05:00Z
@@ -800,6 +816,6 @@ related:
       domain: thedailybeast.com
     quality: 40
 
-secured: "pUp7MsThv/M5GjgyHbT9ArEJQWLZCYQ7A1Wzs8nYT2kb8H7u9RTqW8W7ze3/WHwF8Ann0/zY+3pvL3pEH8lhRpxuPPfoCN2GFqp/JK3dbCR2ZyA53qHLFH2UBswd2Pi/RDajg3TnwlglMCDDePzuc51nls2c3w7F0vHp9ua2NTkQ8ci852GsJWmrMVJiUkXKniiIkZ0TAl/2ab3cuEovflO64h21c4yU5usfL+VdOviz4AO1ZsyJHE/5jSP9H3tiKLpZ+Q8LTMrOs2zY385cEJDH0+sN+21zEm6eRea7z/gYe7O39pKMVJLnfRXK6doKcJM+ykRcyGzJmYXLbZBg+KmRhsw/AqWhogS3eVmG8Dg=;zQvsQJ4M4WSbJgu+hd0gfw=="
+secured: "nm+AbjczSGA6F24oRVryfjV9Hv4x8T6D9VKTpBFkLxwlijjoGEUnc9dzGmf1SDTsgXNGRlS8PoqGKunSiL4RLKZ/mfyOQMnvloVYDNSu0o4f/HQVqlhcOCBVAmM3kKzNae2r/zDgLfN/7oRtGt6qpfUgmgYCwkiVqITkt7psHirxaguHxw7eUQTIq9JK+nS4RG1CIungP2H2l084zh/+PFzvlnizkhGKXml3NURZ6wUOkSw8D1fDBhNRk45hmtnloGpJ7VkNtlqEEKBSvYkB5JzaoLqMFH8pzqQ31U6QK6plTEPw7+mDLuTaGt+5tLINhJTYquOwNEJSLVI3UMBemhTgE8YO1XVoUNTrNSahXpQ0oKmeC4SrqPLT2XLTrTv9CfACcty1YGWfnH+J1gMtTPIXqGYWMRsiHbUgiLtnBIr9uC/3eFQ7PQ4BqqWHVx/tnf0XXzE9P8cAUomkBbBVurYM9W2Q2VPZoamor4fAgrh/G00Oqbh+Phiv3sP063Op0P1a/OrX6OO90FMpxVBUbg==;qoF4ZMKUdTc8Ut1gtEg19w=="
 ---
 

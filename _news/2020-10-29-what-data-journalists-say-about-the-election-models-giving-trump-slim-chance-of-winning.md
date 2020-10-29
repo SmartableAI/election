@@ -688,6 +688,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump Killed the Pax Americana"
+    excerpt: "The Pax Americana arguably dated from the enactment of the Marshall Plan in 1948; that is, from the moment when a conquering nation chose to help its defeated foes rebuild rather than demanding that they pay tribute."
+    publishedDateTime: 2020-10-29T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/01/opinion/sunday/01-icon-krugman/01-icon-krugman-facebookJumbo-v9.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Take This Trump Election Day Quiz Before It’s Too Late"
     excerpt: "Happy Almost Election Day! I know it’s been a tough road, people, but you’ve been doing a great job. And since your vote is basically all about how you regard the last four years of Trumpdom, here’s a quick quiz."
     publishedDateTime: 2020-10-29T00:05:00Z
@@ -800,6 +816,6 @@ related:
       domain: thedailybeast.com
     quality: 40
 
-secured: "V7azAuLE0Wgp2nTPE7JMXfO9cfYFZheQYI50mPRlrmFEAAzY6RRAUrNv79wSzBhoxCCGLBvBFqdqmuD7a4+Ggd8jQCbCZ21rbSu3fIRsOtxP0BPILl3mUY9c8LT8P3zWKyKdI0ZZ5Ejo7HoAC0U53JLuu3dVlOiU+vC5xkt8YJHw0m4d4cJ4C7f01IcaPxmzh/vzzrkytDX/aNdSvIEEbLGdKgCg7er5fu5vhw6A7zBwUeuGJmKw86tAbAe7Vyf4Bw/mbA2YbD/vejw7U4v7qpPGTqZ8AZPUFs8knIjsqoRYhLqvOqWv8HSLS7ahEWg9k0Dzo5bAH+XPSsvLDowWflk6OwCjQdA8MGJb0RZgmao=;6eGsz8udwOdGU5li4USZKw=="
+secured: "MqCW9WjZ+h2n+QNyn/NnK/DGSaAICt0sefJs0nDAt0r4yrz1D9NqlTHk4UDW8HDpTsT1eXX1FhDOvSOcnCEp3uUGPDxn0Y1dxtjWmT1LcHxmjvVuBL2A4mop9Z1A3CYbun68Mt78B0Cq8djQLEF3V1E2w29PcNAFZRUv+iMKGnlDCy51UnSNgUMTIMaF+cJIGWMYNIHQDQc26OHskCs52KF2cBASHXVHvXYjFBfocT60Vt8QeEZj9GIJ0QC98JJvmq3nKAOCgC0lAn0KDx4The5fmlK3/oeoVK3AtcQii3wUnwYwYr6eRms/+JLCZYinjHCv3LXcaimKaLUhlMJpDam72eQF3/RyhdQuQyXNNUE544O1vB0BhD+xJT639004hiJFaqWztx9J/HgkVdr5N4XqYOR1aYWvARBoPmya6Taz+lIcKN7tFsZEwx2MkezzoM6bfLSQwabQ330dXT/ht0stp2OsR+lJ5LHXL+Xr3QWPJ02IF8Igd+cPWuf/SEulO4SnyvqKIrA7F1AMevTqzg==;u0UMVmxF9RfUMnxF3ss0qQ=="
 ---
 
