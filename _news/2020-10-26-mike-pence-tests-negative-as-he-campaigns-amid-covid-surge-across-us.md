@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-neg
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Pence rallies in Reno as COVID cases rise"
+    excerpt: "Vice President Mike Pence’s campaign rally in a hangar at Reno-Tahoe Airport on Thursday comes as Washoe County confronts record-setting numbers on new daily cases, hospitalizations and"
+    publishedDateTime: 2020-10-30T01:02:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/pence-rallies-in-reno-as-covid-cases-rise-2165964/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/pence-rallies-in-reno-as-covid-cases-rise-2165964/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/pence-rallies-in-reno-as-covid-cases-rise-2165964/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2020/10/14400447_web1_14347420-57fba42ee5394484ad074d9b2e2ca5dd.jpg?w=1141"
+        width: 1141
+        height: 800
         isCached: true
   - title: "Democrats ask Vice President Mike Pence to skip Amy Coney Barrett vote over COVID risk"
     excerpt: "A deeply torn Senate is set to confirm Amy Coney Barrett to the Supreme Court, but Democratic leaders are asking Vice President Mike Pence to stay away from presiding over Monday’s session due to potential health risks after his aides tested positive for COVID-19."

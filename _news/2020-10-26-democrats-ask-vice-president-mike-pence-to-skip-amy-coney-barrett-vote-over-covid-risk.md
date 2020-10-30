@@ -137,6 +137,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Pence rallies in Reno as COVID cases rise"
+    excerpt: "Vice President Mike Pence’s campaign rally in a hangar at Reno-Tahoe Airport on Thursday comes as Washoe County confronts record-setting numbers on new daily cases, hospitalizations and"
+    publishedDateTime: 2020-10-30T01:02:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/pence-rallies-in-reno-as-covid-cases-rise-2165964/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/pence-rallies-in-reno-as-covid-cases-rise-2165964/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/pence-rallies-in-reno-as-covid-cases-rise-2165964/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2020/10/14400447_web1_14347420-57fba42ee5394484ad074d9b2e2ca5dd.jpg?w=1141"
+        width: 1141
+        height: 800
+        isCached: true
   - title: "As Mike Pence speaks in Tallahassee, reports reveal 2 top aides tested positive for COVID-19"
     excerpt: "WASHINGTON – Vice President Mike Pence was in the middle of his second campaign rally in Florida at Tallahassee International Airport Saturday when Bloomberg reported that one of his closest advisers had tested positive for the novel coronavirus earlier ..."
     publishedDateTime: 2020-10-26T13:37:00Z

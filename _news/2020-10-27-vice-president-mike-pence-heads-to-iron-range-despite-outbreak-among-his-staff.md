@@ -835,6 +835,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Democrats, Trump Eye Coronavirus Stimulus Deal in Lame Duck Session"
+    excerpt: "The House speaker said she’s confident in a Biden victory and plans to deliver him a ‘clean slate’ if he wins and assumes office in January."
+    publishedDateTime: 2020-10-29T22:52:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Vice President Pence Campaigns in Maine"
     excerpt: "President Pence delivers remarks at a campaign rally in Hermon, Maine. Vice President Pence delivers remarks at a campaign rally in Hermon, Maine. President Trump delivered remarks at a campaign rally in Macon,"
     publishedDateTime: 2020-10-19T13:34:00Z

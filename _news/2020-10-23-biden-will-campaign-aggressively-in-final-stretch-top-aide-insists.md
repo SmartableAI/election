@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-will-campaign-aggressively-in
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Progressives eye top economic posts in potential Biden cabinet"
+    excerpt: "The former vice president is believed to be considering a diverse group of individuals for different posts."
+    publishedDateTime: 2020-10-30T01:40:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R2oOYtX7l48/biden-cabinet-picks-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2bf9be-186f-4158-b058-11bf6fe4b802/71d1c024-26eb-4378-a235-3f19a38abe51/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "McEnany: Joe Biden’s comments on oil, fracking will be ‘death knell’ of his campaign"
     excerpt: "Democratic presidential hopeful Joe Biden \"lost\" Pennsylvania in the election after his comments on banning the oil and fracking industry, White House press secretary Kayleigh McEnany said on Tuesday."

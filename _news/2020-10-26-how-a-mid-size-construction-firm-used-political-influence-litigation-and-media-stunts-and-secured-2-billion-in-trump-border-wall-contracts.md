@@ -248,6 +248,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
+    excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
+    publishedDateTime: 2020-10-29T21:58:00Z
+    webUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 90
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Hackers Stole $2.3M From Wisconsin GOP, How Does It Affect Trump's Reelection Bid?"
     excerpt: "The Wisconsin Republican Party has announced that hackers have stolen $2.3 million from funds meant for Donald Trump’s reelection campaign. The hackers compromised Republican ve"
     publishedDateTime: 2020-10-29T17:55:00Z
@@ -295,6 +311,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/28/PWAU/639b99c2-6b8d-4fe7-8529-232863157d65-SPJ_Mike_Pence_Mosinee_rally_102820_354_ttm.jpg?auto=webp&crop=2260,1272,x0,y141&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
+    excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
+    publishedDateTime: 2020-10-29T20:07:00Z
+    webUrl: "https://www.salon.com/2020/10/29/susan-collins-still-wont-say-if-shes-voting-for-donald-trump-with-less-than-a-week-until-election/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 56
+    images:
+      - url: "https://media.salon.com/2020/06/trump-collins-0605201.jpg"
+        width: 846
+        height: 571
         isCached: true
   - title: "Trump Aims to Boost Rural Turnout in Critical Wisconsin"
     excerpt: "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters."

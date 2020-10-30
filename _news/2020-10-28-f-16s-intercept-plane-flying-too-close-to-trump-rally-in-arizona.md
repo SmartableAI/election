@@ -735,6 +735,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "O'Brien: Trump put an end to Obama-Biden 'leading from behind foreign policy' toward China"
+    excerpt: "President Trump successfully ended Barack Obama and Joe Biden's foreign policy of \"leading from behind,\" especially when it comes to American interests in Asia, National Security Adviser Robert O'Brien told \"The Story\" Thursday."
+    publishedDateTime: 2020-10-30T00:41:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6ZWHUveyPlo/robert-obrien-trump-foreign-policy-obama-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/robert-obrien-trump-foreign-policy-obama-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/robert-obrien-trump-foreign-policy-obama-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/956cf05d-04c5-44aa-abed-861710b0f27e/a1204833-3346-41ee-9808-cc489b033ba3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says 'good chance' coronavirus vaccine ready in weeks, as Biden predicts 'dark winter'"
     excerpt: "President Donald Trump and Democratic candidate Joe Biden met for their second and final presidential debate before the Nov. 3 election, immediately jumping into the impact of the coronavirus."
     publishedDateTime: 2020-10-23T01:50:47Z
@@ -1366,6 +1382,22 @@ related:
       - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Donald Trump: Why He Deserves 4 More Years"
+    excerpt: "Lost on the President Donald Trump-hating pundits who weighed in on the second and final debate with former Vice President Joe Biden was Trump's energy and focus. The man just recovered"
+    publishedDateTime: 2020-10-29T09:58:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/29/donald_trump_why_he_deserves_4_more_years_144553.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/29/donald_trump_why_he_deserves_4_more_years_144553.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/29/donald_trump_why_he_deserves_4_more_years_144553.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/525522_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Will Anti-Biden Attacks Boomerang Against Trump?"
     excerpt: "RealClearPolitics"

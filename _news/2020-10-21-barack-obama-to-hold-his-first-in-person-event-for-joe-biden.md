@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-pers
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-person-event-biden-73729555"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -200,6 +200,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/7da6feff-35ad-459e-a4f3-719d800900f6/thumbnail/1200x630/0ee680c81d086467d3596858c2b98876/cbsn-fusion-democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall-thumbnail-567096-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris: 'Joe Biden is going to live a long life'"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris says voters can rest assured that Joseph R. Biden, 77, will live a “long life” because he’s strong in both “spirit” and “body.”"
+    publishedDateTime: 2020-10-27T18:36:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/27/kamala-harris-joe-biden-going-live-long-life/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/27/kamala-harris-joe-biden-going-live-long-life/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/27/kamala-harris-joe-biden-going-live-long-life/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/25/Election_2020_Harris_32883.jpg-60d17_c0-385-4894-3239_s1200x700.jpg?e7e83ea9e2a996e8becbfd22c351e3ba25934f4f"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Barack Obama holds first in-person rally for Joe Biden Wednesday"
     excerpt: "Obama will be speaking to a crowd at a drive-in rally in Philadelphia, where supporters will listen to him over the radio inside their cars."

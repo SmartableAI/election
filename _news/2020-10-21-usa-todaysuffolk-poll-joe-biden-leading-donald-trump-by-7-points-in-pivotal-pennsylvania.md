@@ -2365,6 +2365,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "President Trump, Joe Biden appeal to last-minute voters in Florida"
+    excerpt: "President Trump and Democratic rival Joe Biden are set to chase votes in Florida, a state all but essential to the Republican’s pathway to another term as both nominees turn their focus to encouraging voters to turn out on Election Day."
+    publishedDateTime: 2020-10-29T22:51:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/29/nation/president-trump-joe-biden-appeal-last-minute-voters-florida/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/29/nation/president-trump-joe-biden-appeal-last-minute-voters-florida/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/29/nation/president-trump-joe-biden-appeal-last-minute-voters-florida/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 70
   - title: "Joe Biden courts swing voters in Pennsylvania with a plea to ‘choose hope over fear’"
     excerpt: "Biden entered the final 10 days before Election Day with a hopeful message not unlike the one that lifted Barack Obama to the White House."
     publishedDateTime: 2020-10-24T21:14:00Z

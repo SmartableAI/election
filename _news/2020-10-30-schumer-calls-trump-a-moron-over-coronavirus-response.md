@@ -825,6 +825,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Democrats, Trump Eye Coronavirus Stimulus Deal in Lame Duck Session"
+    excerpt: "The House speaker said she’s confident in a Biden victory and plans to deliver him a ‘clean slate’ if he wins and assumes office in January."
+    publishedDateTime: 2020-10-29T22:52:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Vice President Mike Pence heads to Iron Range despite outbreak among his staff"
     excerpt: "A brisk wind blew across the runway hours ahead of Vice President Mike Pence’s campaign visit to the Range Regional Airport here Monday. About 250 chairs were spaced out as attendees slowly filed in after many waited in their cars,"
     publishedDateTime: 2020-10-26T20:44:00Z
@@ -849,6 +860,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "P+lxQha/Jq1VURw99M21LL9Leu1I+/lFFoDI+LfuynW2zslyeJCwz/iVNzbYzMuHVlQ+QI18x8QGzTNQ7NsTjWkFUwY+6WOL6T255xSaE+CYtYj/dTUQbBdcYfyB4ilGaGcwgcitR74lgHXr3rR7lmV4a1H+E7rE2M/R6MliK2TYnPW9NcY3SDD3aQulpRHjBZ2D9FPDE3X2cojtpPtDnMZjv7UKS8rvpwRpOD1pWloB4a80o287XhiWWPBZz0RPFNQsARNwmF1Ueqt+lNTY4f5qVHjmb4S8nEJQXNJCmG+G0hz6SbOSxHR7yaCECDogq9gM7/o0ZKEBOK+nIvnxdgs/vlgw1YvYbxz5Ls1NlVM=;82LKbKmK9rbPl0VGqwb7iA=="
+secured: "y9i6X4MuyQKnEZ1ZCxvEzctOL7odQ30r9VLGVP5sFyUqeM9Mjj2TbsKwTBq2LFsje0EFvJoeypNq04psGTqQgtuzPbeam57MdloT9lf304mFkDg75bUuLZwCHusJoVJFeZHmIIWwUL6Q3p/wn5Ng6Ic6EUc20ZBd2W7zUv7XWJhklIKBQMuDgPGcpiolYOagew7YjUu+sOfZzDjAUU95Nc6FMiMf2S1BFD8QVfh8Lm1kFmNusx8AYsXSeG+ixr0zZM2OmtrvuKopOaOsFay8vzxGZe97mQyEXz6LspoaP6+Eq7OABKElpDp3VObbIRzJ/yjGzBzHQ2GUZBFTQYwUDHnY442NuonmRVR4PxYSRLyXwrPuikyB9PP6fX7zU7FIduQc5qqEcFT6zJPX1ROKdZXyua5UROfjZ699PkaCgnEoWxFxIyWPCGwG9iHxCuzWQ0lzqEEMykMYxpTLqZP/VhXGC14Tqe6MDRNnZBO2itzrRgvOEzWulnvd125cWT5OhssPbLu2H2Yt4q4NhWY+Gg==;xg5R+zcJrHMWVZPDKy6hfQ=="
 ---
 

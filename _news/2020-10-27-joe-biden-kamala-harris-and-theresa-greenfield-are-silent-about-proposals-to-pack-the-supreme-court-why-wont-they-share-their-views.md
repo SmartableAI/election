@@ -762,6 +762,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Will Kamala Harris increase turnout among Black voters? Some Democrats see encouraging signs"
+    excerpt: "Democratic vice presidential candidate Kamala Harris hosted a drive-in rally at Morehouse College, an historic Black school. On Saturday, she visited Cleveland, where she gave a rousing shout-out to Rep."
+    publishedDateTime: 2020-10-27T07:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246720836.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246720836.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246720836.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 64
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998038001/ca6b41a0-315b-4c3c-b1c2-4ec838cca298/34e4ceb3-65b1-45c1-b9b9-b3f637e1757f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Alumni pressure Davidson to respond to NC congressman’s Twitter swipe at Kamala Harris | Charlotte Observer"
     excerpt: "Some alumni want Davidson College to directly rebuke U.S. Rep. Greg Murphy, after his comment on U.S. Sen. Kamala Harris’ race and qualifications to be vice president. During the vice presidential debate Oct."
     publishedDateTime: 2020-10-26T16:41:00Z

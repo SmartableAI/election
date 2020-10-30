@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
 type: article
 quality: 140
-heat: 1000
+heat: 1020
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539151186&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R1IF"
         width: 817
         height: 545
+        isCached: true
+  - title: "Pelosi, Trump administration trade blame over virus aid"
+    excerpt: "The major players in Washington’s COVID relief blame game are trading accusations as they mark time before an election that promises to change the landscape for talks that have dragged on for months"
+    publishedDateTime: 2020-10-30T01:18:00Z
+    webUrl: "https://www.washingtonpost.com/business/pelosi-trump-administration-trade-blame-over-virus-aid/2020/10/29/69d64aba-1a45-11eb-8bda-814ca56e138b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/pelosi-trump-administration-trade-blame-over-virus-aid/2020/10/29/69d64aba-1a45-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/pelosi-trump-administration-trade-blame-over-virus-aid/2020/10/29/69d64aba-1a45-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
     excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."

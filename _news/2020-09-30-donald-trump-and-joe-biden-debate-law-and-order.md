@@ -335,6 +335,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump falsely claims Biden has refused to condemn Philadelphia violence"
+    excerpt: "President Donald Trump continues to make false accusations about opponent Joe Biden's position on criminal justice issues.\n    \n"
+    publishedDateTime: 2020-10-30T00:49:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dS8YLKub8mc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/fact-check-biden-condemn-philadelphia-violence-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/fact-check-biden-condemn-philadelphia-violence-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029164424-01-trump-florida-1029-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden makes play for red states in final days of campaign as Trump narrows his focus"
     excerpt: "Democratic presidential nominee Joe Biden's campaign is making a late push into deeper-red states in the final week before the 2020 election, chasing a number of possible paths to 270 electoral votes while President Donald Trump focuses on defending a narrower set of states that he won four years ago"
     publishedDateTime: 2020-10-27T15:23:49Z
@@ -1119,6 +1135,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump and Biden Converge in Florida, an Elusive Prize Still Up for Grabs"
+    excerpt: "The presidential rivals both appeared in Tampa, confronting their vulnerabilities and courting a range of voters, a clear sign that both see their political fortunes tied to the state."
+    publishedDateTime: 2020-10-30T00:56:00Z
+    webUrl: "https://www.nytimes.com/2020/10/29/us/florida-trump-biden-tampa.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/29/us/florida-trump-biden-tampa.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/us/florida-trump-biden-tampa.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 149
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/29/us/politics/29florida-00/29florida-00-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden calls out Trump for suggesting 'injecting bleach' to treat coronavirus"
     excerpt: "While speaking about vaccine production, Joe Biden called out President Donald Trump for suggesting that \"injecting bleach\" could help treat the coronavirus, while the president claimed it was said \"sarcastically."
     publishedDateTime: 2020-09-30T01:54:00Z
@@ -1418,6 +1450,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/10/29/us/politics/29PA-women1/00PA-women1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Lies, Damned Lies and Trump Rallies"
+    excerpt: "Donald Trump lies a lot. In fact, he lies so often that several media organizations try to keep a running tally, and even try to draw political inferences from fluctuations in the number of lies he tells in a given month (although the trend has been relentlessly upward )."
+    publishedDateTime: 2020-10-29T23:05:00Z
+    webUrl: "https://www.nytimes.com/2020/10/29/opinion/trump-lies.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/29/opinion/trump-lies.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/opinion/trump-lies.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/29/opinion/29krugmanWeb/merlin_178961298_03664e7e-c5f0-4046-871a-dafa7ee4360a-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -1804,6 +1852,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 58
+  - title: "Biden and Trump Both Visited Tampa. They May As Well Have Been in Different Worlds."
+    excerpt: "With days to go, Joe Biden focused on the reality of the COVID-19 pandemic. President Trump chose to paint a picture of an entirely different world that does not currently exist."
+    publishedDateTime: 2020-10-30T01:00:00Z
+    webUrl: "https://www.thedailybeast.com/biden-and-trump-both-visited-tampa-they-may-as-well-have-been-in-different-worlds"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 54
   - title: "Trump Final Campaign Push Is to Kill His Own Supporters"
     excerpt: "Donald Trump doesn’t care who gets sick or dies from COVID-19—even if it’s his own supporters. That’s the harsh reality of where we find ourselves as a nation as Trump holds superspreader campaign rallies and continues to intentionally—and I believe criminally—mislead Americans about this deadly virus because he believes this helps him politically."
     publishedDateTime: 2020-10-27T09:04:00Z
