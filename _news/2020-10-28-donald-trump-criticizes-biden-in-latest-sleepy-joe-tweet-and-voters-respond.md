@@ -641,11 +641,11 @@ related:
         height: 779
         isCached: true
   - title: "Trump vs Biden: What's at stake in key emerging markets?"
-    excerpt: "Emerging markets have historically fared better with a Democrat as U.S. president and after this year's underperformance under Republican Donald Trump, much of the sector might welcome the prospect of a Joe Biden victory in Tuesday's election."
-    publishedDateTime: 2020-10-30T06:39:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-emerging-graphic-idINKBN27F0N0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27F0N0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27F0N0"
+    excerpt: "LONDON (Reuters) - Emerging markets have historically fared better with a Democrat as U.S. president and after this year’s underperformance under Republican Donald Trump, much of the sector might welcome the prospect of a Joe Biden victory in Tuesday’s ..."
+    publishedDateTime: 2020-10-30T06:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-emerging-graphic-idUSKBN27F0N0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F0N0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F0N0"
     type: article
     provider:
       name: Reuters

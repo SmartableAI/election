@@ -328,6 +328,22 @@ related:
         width: 469
         height: 351
         isCached: true
+  - title: "Donald Trump just revealed *a lot* more than he meant to about his tax returns"
+    excerpt: "(CNN)President Donald Trump is the only modern American president to never release any of his tax returns -- either while running for office or during his time in office. He's offered a series of ..."
+    publishedDateTime: 2020-10-16T17:47:00Z
+    webUrl: "https://edition.cnn.com/2020/10/16/politics/trump-tax-returns-nbc-town-hall-savannah-guthrie/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/trump-tax-returns-nbc-town-hall-savannah-guthrie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-tax-returns-nbc-town-hall-savannah-guthrie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 131
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015223113-14-deuling-town-halls-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Barr's defense of Trump in E. Jean Carroll's suit could give presidents carte blanche"
     excerpt: "If President Donald Trump and the Justice Department have their way, presidents will be legally permitted to defame anyone during their four (or eight) years in office. On Wednesday, a federal judge in Manhattan will hear arguments on the Justice Department's motion to substitute the United States for Trump as the defendant in a defamation suit."
     publishedDateTime: 2020-10-21T09:20:00Z

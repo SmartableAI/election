@@ -2,6 +2,63 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-10-05-russians-have-committed-to-not-interfering-in-elections-trump-aide-insists.md",
+      "title": "Russians ‘Have Committed’ to Not Interfering in Elections, Trump Aide Insists",
+      "excerpt": "Robert C. O’Brien, the national security adviser, said he warned his Russian counterpart there would be “no tolerance” for interference, but didn’t mention evidence of Moscow’s influence operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/04dc-russia-foto/04dc-russia-foto-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html",
+      "publishedDateTime": "2020-10-04T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden.md",
       "title": "Will new Florida voters tip the election in favor of Joe Biden?",
       "excerpt": "Are we there yet? After the first debate, and the news about Donald Trump, many Americans are wondering when the election will end.",
@@ -1291,58 +1348,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-barack-obama-wishes-speedy-recovery-to-president-trump-melania-no-matter-our-party.md",
-      "title": "Barack Obama wishes 'speedy recovery' to President Trump, Melania 'no matter our party'",
-      "excerpt": "Former President Barack Obama is calling for unity and compassion following President Donald Trump's COVID-19 diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/03/president-trump-covid-19-barack-obama-speedy-recovery/3606381001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/03/president-trump-covid-19-barack-obama-speedy-recovery/3606381001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/06/01/USAT/195abe67-14bf-4792-8ec0-a292567ea8d6-AFP_AFP_1RL4N1.JPG?auto=webp&crop=4499,2531,x1,y6&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3606381001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3606381001",
-      "publishedDateTime": "2020-10-02T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

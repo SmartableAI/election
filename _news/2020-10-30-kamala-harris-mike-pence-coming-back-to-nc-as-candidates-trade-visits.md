@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris visit Friday marks latest sign of Biden’s commitment to Texas"
+    excerpt: "Democratic vice presidential candidate Kamala Harris will visit Houston and two other Texas cities to round out the final day of early voting on Friday. The Houston leg of Harris’ trip will be her last of the day,"
+    publishedDateTime: 2020-10-30T19:29:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-visit-Friday-marks-latest-sign-of-15689120.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/election2020/amp/Kamala-Harris-visit-Friday-marks-latest-sign-of-15689120.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/election2020/amp/Kamala-Harris-visit-Friday-marks-latest-sign-of-15689120.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 138
+    images:
+      - url: "https://s.hdnux.com/photos/01/01/71/44/17275191/34/rawImage.jpg"
+        width: 2048
+        height: 1607
+        isCached: true
   - title: "How Kamala Harris highlights what women in politics face"
     excerpt: "With Senator Kamala Harris as a historic vice-presidential running mate, it's impossible to avoid the topic of gender this election cycle - but are the rules of the race really different for women? Here's how her nomination highlights the issues women in politics have faced for decades - and how things are changing - with analysis from Debbie Walsh,"
     publishedDateTime: 2020-10-21T13:26:00Z
@@ -217,6 +233,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/cc0ed281-5adb-4618-9ee5-604969d0c8ad/thumbnail/1200x630/fa39c5b4e5cc5d77afb0abb53f77ec75/1026-en-norah-575001-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Election Countdown: Kamala Harris stumping Saturday. What about Trump?"
+    excerpt: "With four days to go until Nov. 3, polls seem to say one thing but do voter turnout numbers point to a different result?"
+    publishedDateTime: 2020-10-30T15:43:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/30/election-countdown-kamala-harris-stumping-saturday-what-trump/6082893002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/6082893002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/6082893002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/NPPP/0716bd2e-ed3b-4861-b40e-ae39e3712e3f-PBC_Early_Voting_Color_04.jpg?auto=webp&crop=4165,2343,x0,y239&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Harris target of more misinformation than Pence, data shows"
     excerpt: "The report identified more than 1 million mentions since June on Twitter of Kamala Harris with hashtags or terms associated with misinformation about her."

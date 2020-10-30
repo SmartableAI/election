@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-16-trump-says-susan-collins-not-worth-the-work-after-opponent-raises-394-million.md",
+      "title": "Trump Says Susan Collins ‘Not Worth The Work’ After Opponent Raises $39.4 Million",
+      "excerpt": "President Donald Trump dismissed Sen. Susan Collins (R-Maine) as “not worth the work” Friday as the senator is expected to vote against Judge Amy Coney Barrett’s confirmation to the U.S. Supreme Court,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/",
+      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89ae1e69ee9a3e704d0471%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D197%26cropY2%3D1884",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/amp/",
+      "publishedDateTime": "2020-10-16T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-rudy-giulianis-daughter-says-to-vote-for-biden-and-harris-to-end-trumps-reign-of-terror.md",
       "title": "Rudy Giuliani's daughter says to vote for Biden and Harris to end Trump's 'reign of terror'",
       "excerpt": "Caroline Giuliani, the daughter of President Donald Trump's personal attorney and former New York City mayor Rudy Giuliani, is urging Americans to \"end this nightmare\" by voting for Democratic nominee Joe Biden and his running mate Kamala Harris.\n    \n",
@@ -1270,62 +1322,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-trump-rages-at-allies-as-potential-october-surprises-fizzle.md",
-      "title": "Trump rages at allies as potential October surprises fizzle",
-      "excerpt": "Halfway through October, President Donald Trump's surprises are sputtering.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nc64tNmRuP4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nc64tNmRuP4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201014145405-donald-trump-september-debate-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/trump-election-2020-october-surprises/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-election-2020-october-surprises/index.html",
-      "publishedDateTime": "2020-10-15T12:55:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

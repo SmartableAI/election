@@ -2,6 +2,62 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-15-trump-rages-at-allies-as-potential-october-surprises-fizzle.md",
+      "title": "Trump rages at allies as potential October surprises fizzle",
+      "excerpt": "Halfway through October, President Donald Trump's surprises are sputtering.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nc64tNmRuP4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nc64tNmRuP4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201014145405-donald-trump-september-debate-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/trump-election-2020-october-surprises/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-election-2020-october-surprises/index.html",
+      "publishedDateTime": "2020-10-15T12:55:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-amy-coney-barrett-dodges-kamala-harriss-question-about-climate-change.md",
       "title": "Amy Coney Barrett dodges Kamala Harris's question about climate change",
       "excerpt": "I will not express a view on a matter of public policy, especially one that is politically controversial,” Barrett said.",
@@ -1262,49 +1318,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-perry-hooper-mike-pence-won-the-vp-debate-hands-down.md",
-      "title": "Perry Hooper: Mike Pence won the VP debate hands down",
-      "excerpt": "Most importantly the debate confirmed that the vice president “has what it takes” to become Commander in Chief of our military.",
-      "sourceUrl": null,
-      "webUrl": "https://www.montgomeryadvertiser.com/story/opinion/2020/10/14/perry-hooper-mike-pence-won-vp-debate-hands-down/3653376001/",
-      "originalUrl": "https://www.montgomeryadvertiser.com/story/opinion/2020/10/14/perry-hooper-mike-pence-won-vp-debate-hands-down/3653376001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/09/06/PMOY/e8a13a38-c3ca-4b38-9d73-2d3ecaa95a03-PerryHooper.jpg?auto=webp&crop=2999,1676,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.montgomeryadvertiser.com/amp/3653376001",
-      "cdnAmpWebUrl": "https://amp-montgomeryadvertiser-com.cdn.ampproject.org/c/s/amp.montgomeryadvertiser.com/amp/3653376001",
-      "publishedDateTime": "2020-10-14T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Montgomery Advertiser",
-        "domain": "montgomeryadvertiser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

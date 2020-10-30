@@ -769,6 +769,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Eric Trump: Father's closing message very different than Joe Biden's 'dark winter' warning"
+    excerpt: "Peace and prosperity is the message of President Trump’s campaign, said the commander-in-chief’s son Eric Trump on Friday."
+    publishedDateTime: 2020-10-30T19:27:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ZRS8s3QB3g/eric-trump-trump-message-biden-dark-winter"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-trump-message-biden-dark-winter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-trump-message-biden-dark-winter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "O'Brien: Trump put an end to Obama-Biden 'leading from behind foreign policy' toward China"
     excerpt: "President Trump successfully ended Barack Obama and Joe Biden's foreign policy of \"leading from behind,\" especially when it comes to American interests in Asia, National Security Adviser Robert O'Brien told \"The Story\" Thursday."
     publishedDateTime: 2020-10-30T00:41:57Z
@@ -816,6 +832,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump vows ‘comeback’ in campaign’s closing message, claims Biden will ‘lock down your state’"
+    excerpt: "President Trump told supporters in Michigan that Joe Biden would “eradicate the economy” while he would “eradicate the virus.”"
+    publishedDateTime: 2020-10-30T18:11:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nA2iVFgBPDc/trump-vows-comeback-in-campaigns-closing-message"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-vows-comeback-in-campaigns-closing-message.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vows-comeback-in-campaigns-closing-message.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f757eb62-d171-4f5f-b3e7-3de6019db11e/585b8239-c3fe-4417-aae0-c7c9009fc365/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Election 2020 polls show Biden with slim lead in Florida, wider lead nationally, with 5 days to go"
     excerpt: "President Trump is polling close behind Democratic nominee Joe Biden in Florida, according to one poll, as national polls continue to show Biden leading."

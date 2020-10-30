@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-17-trump-joked-that-hell-find-a-way-to-fire-florida-gov-ron-desantis-if-he-loses-the-state-in-november.md",
+      "title": "Trump joked that he'll 'find a way' to fire Florida Gov. Ron DeSantis if he loses the state in November",
+      "excerpt": "The president sees Florida as a must-win state in his electoral coalition if he is to be reelected to a second term.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8afa23c21cfb00194689f7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp",
+      "publishedDateTime": "2020-10-17T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-trump-continued-to-put-us-in-danger-by-referencing-us-says-rachel-vindman-wife-of-key-impeachment-witness.md",
       "title": "Trump 'continued to put us in danger' by referencing us, says Rachel Vindman, wife of key impeachment witness",
       "excerpt": "Rachel Vindman -- the wife of former Lt. Col. Alexander Vindman, a key witness in President Donald Trump's impeachment inquiry -- slammed the President on Friday for going after her husband and family.\n    \n",
@@ -1212,58 +1264,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-says-susan-collins-not-worth-the-work-after-opponent-raises-394-million.md",
-      "title": "Trump Says Susan Collins ‘Not Worth The Work’ After Opponent Raises $39.4 Million",
-      "excerpt": "President Donald Trump dismissed Sen. Susan Collins (R-Maine) as “not worth the work” Friday as the senator is expected to vote against Judge Amy Coney Barrett’s confirmation to the U.S. Supreme Court,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/",
-      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89ae1e69ee9a3e704d0471%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D197%26cropY2%3D1884",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/amp/",
-      "publishedDateTime": "2020-10-16T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

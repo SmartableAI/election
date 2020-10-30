@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-26-kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county.md",
+      "title": "Kamala Harris’ husband Doug Emhoff campaigns in Aroostook County",
+      "excerpt": "Emhoff toured the Lundeen Potato Facility in Mars Hill and spoke at a get-out-the-vote rally at Farm Park in Fort Fairfield to help the Biden-Harris ticket win Maine’s toss-up 2nd Congressional District.",
+      "sourceUrl": null,
+      "webUrl": "https://bangordailynews.com/2020/10/25/politics/kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county/",
+      "originalUrl": "https://bangordailynews.com/2020/10/25/politics/kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Douglas-Emhoff-8-Cropped.jpg?fit=2500%2C1563&#038;ssl=1",
+          "width": 2500,
+          "height": 1563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangor Daily News",
+        "domain": "bangordailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.md",
       "title": "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson",
       "excerpt": "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company.",
@@ -123,7 +166,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -626,7 +669,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1309,63 +1352,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-in-the-home-stretch-signs-trumps-hard-sell-seniors-pitch-may-be-falling-short.md",
-      "title": "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short",
-      "excerpt": "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_43/3421859/201021-donald-trump-ew-145p_33980ba252755dffd3445498e1c818e0.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244167",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244167",
-      "publishedDateTime": "2020-10-23T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

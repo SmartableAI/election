@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Trump vs Biden: What's at stake in key emerging markets?"
-excerpt: "Emerging markets have historically fared better with a Democrat as U.S. president and after this year's underperformance under Republican Donald Trump, much of the sector might welcome the prospect of a Joe Biden victory in Tuesday's election."
-publishedDateTime: 2020-10-30T06:39:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-emerging-graphic-idINKBN27F0N0"
-webUrl: "https://www.reuters.com/article/us-usa-election-emerging-graphic-idINKBN27F0N0"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27F0N0"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27F0N0"
+excerpt: "LONDON (Reuters) - Emerging markets have historically fared better with a Democrat as U.S. president and after this year’s underperformance under Republican Donald Trump, much of the sector might welcome the prospect of a Joe Biden victory in Tuesday’s ..."
+publishedDateTime: 2020-10-30T06:58:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-emerging-graphic-idUSKBN27F0N0"
+webUrl: "https://www.reuters.com/article/us-usa-election-emerging-graphic-idUSKBN27F0N0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F0N0"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F0N0"
 type: article
 quality: 140
 heat: -1
@@ -2733,6 +2733,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "idhWpmTfncd95wCjyZme9XlqnVfos0spYZqdaYF+CxlqY1H+Gf5A/Di/P8ps7DLyD3Oxy/fXpcDvNsCxEK8Ia34nBCc+hYRNHtwW4LO48NkyYdDDQkqe8o1CTEnA3lsaLu42xS3kxzvA7r4neQRvn8sBRHKKuYcryvJi/mUos1RvPGm5yFGikWkKOGV5NCZzwklwxBlx7k26rWsKBxmLbaePeoqfTgMA3Voo+TzSr0PTXDaQALUQGlaQj+KDK/PFZtmgk548qDDdZfhIRLKKSvdD8D1VgA1oQNJSgK5DxO20+12t7wqIa2yRMYFUH1cm7VxAsivTZNULD0+114tFBXXnj6vhZ301AhRQOcLEcms=;Xc9hSfFVxEZz5JI+yZLcUw=="
+secured: "lCeG/Kh0UcxI1zllG9zyc1fgQoo84EVlXwSVYUKrqDlT3HA42Z2hoN1iPQT1eo1TDJG8X/YFmBHbD8VpVFJcZIU9GsiXj9cYKVY/sUmfwMDLoDGlWcwXL1wJC0/SiEBUpimkgoDvfGKHpdlB/60eKHneec5IKsdoiVyRMDT5DWY+ZMyav3ifdsdymzTta0xSEV/bYUBeyn/lFsq1bVc0FP96XinjxptHuqOFL/VROLQTs8mNIXmuWo1N6ntuKwK/JsUHBTO4pN3znN7BUwtiix0XfV5d9TYcP4PjhtOqUVvgcjsoQiqG4FPt1rPblRkBaGd3iWZEb0TUtymLAbrapd6zZsHNck3SY8HxHs3335Q=;vvLYmCI+aB0qAmS6WX8/kQ=="
 ---
 

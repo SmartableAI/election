@@ -2,6 +2,63 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-24-in-the-home-stretch-signs-trumps-hard-sell-seniors-pitch-may-be-falling-short.md",
+      "title": "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short",
+      "excerpt": "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_43/3421859/201021-donald-trump-ew-145p_33980ba252755dffd3445498e1c818e0.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244167",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244167",
+      "publishedDateTime": "2020-10-23T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-democratic-rep-xochitl-torres-small-slams-biden-over-oil-remarks-at-debate-says-policy-is-out-of-touch.md",
       "title": "Democratic Rep. Xochitl Torres Small slams Biden over oil remarks at debate, says policy is 'out of touch'",
       "excerpt": "Biden said he would pursue policies that would “transition from the oil industry” if elected to office.",
@@ -1273,63 +1330,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-fact-check-where-does-kamala-harris-stand-on-health-care.md",
-      "title": "Fact check: Where does Kamala Harris stand on health care?",
-      "excerpt": "Trump claimed that Biden's running mate, Sen. Kamala Harris, D-Calif., supports \"socialized medicine.\" \"He wants sociali",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244434",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244434",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244210",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210",
-      "publishedDateTime": "2020-10-22T19:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
       ]
     }
   ],

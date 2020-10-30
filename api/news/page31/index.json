@@ -2,6 +2,58 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-09-28-trump-says-he-did-not-discuss-election-with-court-nominee-barrett.md",
+      "title": "Trump says he did not discuss election with court nominee Barrett",
+      "excerpt": "U.S. President Donald Trump said on Sunday he hopes his Supreme Court nominee Amy Coney Barrett is paying attention to the issue of mail-in ballot security but said he did not discuss the upcoming U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128",
+      "originalUrl": "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1440,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535128732&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0RE",
+          "width": 838,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26I128",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I128",
+      "publishedDateTime": "2020-09-27T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-trump-calls-new-york-times-report-that-he-avoid-paying-taxes-totally-made-up.md",
       "title": "Trump calls New York Times report that he avoid paying taxes 'totally made up'",
       "excerpt": "President Trump lambasted on Sunday a New York Times report that said he paid no federal income taxes in 10 of the past 15 years – calling the story “fake news” and arguing that he paid large sums of both federal and state taxes.",
@@ -1256,58 +1308,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-sheriff-from-kenosha-county-president-donald-trump-was-with-us-when-we-needed-him.md",
-      "title": "Sheriff from Kenosha County: President Donald Trump was with us when we needed him",
-      "excerpt": "Trump supported us law officers when it counted and we needed it most and I am proud to endorse him as a leader who will uphold law and order.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/8568704d-b649-4981-9423-06790f2eebf0-AFP_AFP_1WX1KK.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3509523001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3509523001",
-      "publishedDateTime": "2020-09-26T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

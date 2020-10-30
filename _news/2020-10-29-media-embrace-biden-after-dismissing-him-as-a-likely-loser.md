@@ -46,6 +46,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden says Catholic faith guides policies but gets hit on abortion, religious freedom"
+    excerpt: "Joe Biden is touting his Catholic faith as groups are hitting him on issues held near and dear to the faithful and opposed by the church, including religious freedom for nuns and abortion."
+    publishedDateTime: 2020-10-30T19:17:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sMIa_lBS0vI/biden-catholic-vote-2020-election-religious-liberty"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Joe Biden 'has been caught in repeated lies over Biden Inc.': Sen. Johnson"
     excerpt: "Coming up, White House Chief of Staff Mark Meadows on a blockbuster admission at the final presidential debate, Joe Biden on transitioning the oil and gas industry. JOE BIDEN (D), PRESIDENTIAL CANDIDATE:  By the way,"
     publishedDateTime: 2020-10-29T19:20:00Z

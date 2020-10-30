@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-07-judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-24m-residents-there.md",
+      "title": "Judge rules Texas' Harris County can't send mail-in ballot applications to all 2.4M residents there",
+      "excerpt": "The Texas Supreme Court ruled that Harris County cannot send ballot applications to all 2.4 million of its registered voters.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGtcnbP7gA/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGtcnbP7gA/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11c3a614-9e59-4101-a0ee-1ba70ee3980c/5ec3e47b-4951-42b4-8649-77df6ec63756/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there.amp",
+      "publishedDateTime": "2020-10-07T08:31:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-is-joy-reid-hoping-that-president-trump-dies-it-sure-seems-like-it-curtis-houck-wrote.md",
       "title": "'Is Joy Reid hoping that President Trump dies? It sure seems like it,' Curtis Houck wrote",
       "excerpt": "MSNBC host Joy Reid said President Trump looks like a “very sick elderly man” and was accused of hoping he dies from coronavirus.",
@@ -1607,62 +1664,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp",
       "publishedDateTime": "2020-10-02T13:04:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-trumps-campaign-may-be-more-focused-and-disciplined-without-in-person-events-karl-rove.md",
-      "title": "Trump’s campaign ‘may be more focused and disciplined’ without in-person events: Karl Rove",
-      "excerpt": "President Trump being forced to hold virtual campaign events after testing positive for coronavirus may cause him to be more \"focused and disciplined\" in his messaging, Fox News contributor Karl Rove suggested on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-virtual-campaign-karl-rove.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-virtual-campaign-karl-rove.amp",
-      "publishedDateTime": "2020-10-02T11:49:39-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

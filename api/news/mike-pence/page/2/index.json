@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-23-watch-vice-president-mike-pence-karen-pence-vote-early-in-indianapolis.md",
+      "title": "Watch: Vice President Mike Pence, Karen Pence vote early in Indianapolis",
+      "excerpt": "Vice President Mike Pence and Karen Pence voted early in the 2020 election in Indianapolis. Pence said it was a \"great honor\" after dropping his ballot in the box.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-vice-president-pence-karen-pence-vote-early-in-indianapolis-94470213870",
+      "originalUrl": "https://www.nbcnews.com/video/watch-vice-president-pence-karen-pence-vote-early-in-indianapolis-94470213870",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/f_mo_pence_earlyvoting_201023.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo94470213870",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94470213870",
+      "publishedDateTime": "2020-10-23T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-lesley-stahl-to-mike-pence-you-have-both-insulted-60-minutes.md",
       "title": "Lesley Stahl to Mike Pence: 'You have both insulted 60 Minutes'",
       "excerpt": "Reporter Lesley Stahl of “60 Minutes” told Vice President Mike Pence that he and President Trump “insulted” her program by not answering her questions to her satisfaction. “I feel that you both have insulted ‘60 Minutes’ by not answering any ...",
@@ -1348,49 +1405,6 @@
         "Election",
         "Mike Pence",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-mike-pence-rallies-gop-supporters-in-waukesha-takes-a-jab-at-milwaukee-mayor-tom-barrett.md",
-      "title": "Mike Pence rallies GOP supporters in Waukesha, takes a jab at Milwaukee Mayor Tom Barrett",
-      "excerpt": "WAUKESHA – Vice President Mike Pence resumed his Wisconsin roadshow Tuesday with some tough words on law and order and a jab at Milwaukee Mayor Tom Barrett during a campaign rally at Weldall ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jsonline.com/story/news/politics/elections/2020/10/13/mike-pences-campaign-rally-weldall-manufacturing-waukesha/5977194002/",
-      "originalUrl": "https://www.jsonline.com/story/news/politics/elections/2020/10/13/mike-pences-campaign-rally-weldall-manufacturing-waukesha/5977194002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/13/PMJS/d85e5f33-0f2a-4f65-8f24-6c6736f13e02-PENCE_0899.JPG?auto=webp&crop=3527,1984,x149,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.jsonline.com/amp/5977194002",
-      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5977194002",
-      "publishedDateTime": "2020-10-13T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "jsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

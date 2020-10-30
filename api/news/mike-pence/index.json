@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-30-pence-returns-to-arizona-for-final-push-to-flip-liberal-leaning-cities.md",
+      "title": "Pence returns to Arizona for final push to flip liberal-leaning cities ",
+      "excerpt": "In an effort to pick up voters from more progressive counties that voted against the president in 2016, Vice President Mike Pence is returning to the key battleground state of Arizona on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q4ysIw62a4s/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q4ysIw62a4s/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20304053680963.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities.amp",
+      "publishedDateTime": "2020-10-30T11:32:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams.md",
       "title": "Pence To Hold Rallies In Flagstaff, Tucson On Friday: Livestreams",
       "excerpt": "With four days to go until Election Day, Vice President Mike Pence returns to Arizona to rally support from voters.",
@@ -469,7 +526,7 @@
       "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1729,
+      "heat": 1769,
       "tags": null,
       "images": [
         {
@@ -1469,63 +1526,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-watch-vice-president-mike-pence-karen-pence-vote-early-in-indianapolis.md",
-      "title": "Watch: Vice President Mike Pence, Karen Pence vote early in Indianapolis",
-      "excerpt": "Vice President Mike Pence and Karen Pence voted early in the 2020 election in Indianapolis. Pence said it was a \"great honor\" after dropping his ballot in the box.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-vice-president-pence-karen-pence-vote-early-in-indianapolis-94470213870",
-      "originalUrl": "https://www.nbcnews.com/video/watch-vice-president-pence-karen-pence-vote-early-in-indianapolis-94470213870",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/f_mo_pence_earlyvoting_201023.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo94470213870",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94470213870",
-      "publishedDateTime": "2020-10-23T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

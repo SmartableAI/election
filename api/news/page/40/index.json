@@ -2,6 +2,58 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-09-15-joe-biden-assembles-legal-team-ahead-of-divisive-2020-election.md",
+      "title": "Joe Biden assembles legal team ahead of divisive 2020 election",
+      "excerpt": "Democrat Joe Biden is assembling a team of top lawyers in anticipation of court challenges to the election process that could ultimately determine who wins the race for the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html",
+      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 480,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/JISIO0SSLefeoVs2PcKH-Mnr-Mo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NMAZ3E63SPMCEMQQTZ5RQH7EKE.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-14T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-netflix-star-under-fbi-investigation-for-soliciting-sex-from-minors-previously-held-instagram-session-with-biden.md",
       "title": "Netflix star under FBI investigation for soliciting sex from minors previously held Instagram session with Biden",
       "excerpt": "A popular Netflix personality who is reportedly under FBI investigation for soliciting nude photos from minors helped boost Joe Biden's presidential campaign earlier this year. ",
@@ -1296,62 +1348,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc.md",
-      "title": "Trump slams Bill de Blasio for telling New Yorkers to enjoy ‘beautiful’ day in NYC",
-      "excerpt": "President Trump mocked New York City Mayor Bill de Blasio on Twitter Sunday for telling city residents to enjoy the day amid heightened crime.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VHEm0kz1zAg/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VHEm0kz1zAg/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc.amp",
-      "publishedDateTime": "2020-09-13T13:52:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

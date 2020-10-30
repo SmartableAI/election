@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-30-pence-returns-to-arizona-for-final-push-to-flip-liberal-leaning-cities.md",
+      "title": "Pence returns to Arizona for final push to flip liberal-leaning cities ",
+      "excerpt": "In an effort to pick up voters from more progressive counties that voted against the president in 2016, Vice President Mike Pence is returning to the key battleground state of Arizona on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q4ysIw62a4s/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q4ysIw62a4s/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20304053680963.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities.amp",
+      "publishedDateTime": "2020-10-30T11:32:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-nfl-legend-brett-favre-endorses-trump-for-president.md",
       "title": "NFL legend Brett Favre endorses Trump for president",
       "excerpt": "NFL great Brett Favre has endorsed President Donald Trump for reelection. He's one of the most prominent figures in sports to publicly pledge support for the President.\n    \n",
@@ -1261,58 +1318,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-golf-legend-jack-nicklaus-endorses-trump-for-reelection-calls-him-more-diverse-than-any-president-hes-seen.md",
-      "title": "Golf legend Jack Nicklaus endorses Trump for reelection, calls him \"more diverse\" than any president he's seen",
-      "excerpt": "Golf legend Jack Nicklaus said Wednesday that he voted for President Donald Trump, heaping praise on the commander chief while urging Americans to cast their ballots for the president. The18-time major champion posted his endorsement on Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/jack-nicklaus-endorses-president-trump-for-re-election/",
-      "originalUrl": "https://www.cbsnews.com/news/jack-nicklaus-endorses-president-trump-for-re-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/29/d729524b-cd24-44f4-9dd1-182757438ac8/thumbnail/1200x630/ccabf10bc005548b9ebac519a087d98b/gettyimages-1128321909.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/",
-      "publishedDateTime": "2020-10-29T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
