@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-ma
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924114945-01-trump-bemidji-mn-rally-0918-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Donald Trump Jr. put a perfect exclamation point on his father's bungling of Covid-19"
+    excerpt: "Appearing on Laura Ingraham's Fox News show Thursday night, Donald Trump Jr. was asked about Dr. Sanjay Gupta's recommendation that anyone who attends a campaign rally for the President self-quarantine for two weeks.\n    \n"
+    publishedDateTime: 2020-10-30T15:06:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5snpTHKONc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-jr-covid-19-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-jr-covid-19-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200824223931-109-rnc-monday-trump-jr-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

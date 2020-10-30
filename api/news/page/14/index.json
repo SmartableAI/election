@@ -2,6 +2,197 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-17-joe-biden-to-visit-durham-on-sunday-as-north-carolinas-early-voting-numbers-soar-charlotte-observer.md",
+      "title": "Joe Biden to visit Durham on Sunday as North Carolina’s early voting numbers soar | Charlotte Observer",
+      "excerpt": "More than one million North Carolina voters have already cast their ballots, and Democratic presidential nominee Joe Biden is hoping to increase those numbers. Biden will visit Durham on Sunday for a 1 p.",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/news/politics-government/article246508225.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/politics-government/article246508225.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/2530ebd3-c89b-4972-9eff-cfb6c796564b/main/1280x720/1m46s304ms/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/politics-government/article246508225.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article246508225.html",
+      "publishedDateTime": "2020-10-17T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-how-donald-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue.md",
+      "title": "How Donald Trump’s developer dad and a Brooklyn rabbi saved a synagogue",
+      "excerpt": "When congregants enter the Beach Haven Jewish Center in Gravesend, Brooklyn, they pass a small plaque hanging just outside the main sanctuary. “Fred Trump. Humanitarian,” declare the gold",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
+      "originalUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fred2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
+      "publishedDateTime": "2020-10-17T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-scotus-to-hear-trump-administrations-argument-to-exclude-illegal-immigrants-from-census.md",
+      "title": "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census",
+      "excerpt": "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
+      "originalUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Supreme_Court.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
+      "publishedDateTime": "2020-10-17T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-watchdog-claims-trump-campaign-illegally-coordinated-with-a-super-pac-in-2016-through-its-work-with-cambridge-analytica.md",
+      "title": "Watchdog claims Trump campaign illegally coordinated with a Super PAC in 2016 through its work with Cambridge Analytica",
+      "excerpt": "The Campaign Legal Center claimed newly published emails showed Cambridge Analytica's overlapping work for the campaign and PAC violated federal law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f58a80ce6ff30001d4e7a9a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp",
+      "publishedDateTime": "2020-10-17T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-laura-ingraham-president-joe-biden-would-be-surrounded-by-lapdogs-in-mainstream-media.md",
       "title": "Laura Ingraham: President Joe Biden would be 'surrounded by lapdogs' in mainstream media",
       "excerpt": "Events this week have made it more clear than ever that the mainstream media is Joe Biden's primary campaign communications team, Laura Ingraham claimed Friday.",
@@ -1078,210 +1269,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-column-big-tech-slaps-the-new-york-post-to-shield-joe-biden.md",
-      "title": "Column: Big Tech slaps The New York Post to shield Joe Biden",
-      "excerpt": "We were always told it would come from the right, but now we see that it comes from Big Tech, which has interfered with a news organization’s coverage of a Joe Biden campaign issue. Social media giants Twitter and Facebook on Wednesday limited the sharing on their platforms of a story from The New York Post about questionable business dealings of Joe Biden’s son Hunter in Ukraine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
-      "originalUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 745,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/P2hqGpWjNVftSNcBqXQMwth4Lbs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H2RW7ZNH7DBS77JXMSLEEFLGFI.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-16T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-sean-hannity-says-savannah-guthrie-was-joe-bidens-surrogate-in-trump-town-hall-ambush.md",
-      "title": "Sean Hannity says Savannah Guthrie was 'Joe Biden's Surrogate' in Trump Town Hall 'Ambush'",
-      "excerpt": "Fox News host Sean Hannity accused the chair of Donald Trump's televised town hall of acting as Joe Biden's \"surrogate,\" claiming the president had been \"ambushed\" when challenged over previous comments he made on the subject of white supremacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659",
-      "originalUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 410,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1653728/trump-guthrie-town-hall.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1",
-      "publishedDateTime": "2020-10-16T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-experts-neither-biden-nor-trump-are-artifically-amped.md",
-      "title": "Experts: Neither Biden Nor Trump Are \"Artifically Amped\"",
-      "excerpt": "They’ve got a couple of physicians on board who are deeply politicized and have bought into their line completely,” said Dr. Edward Shorter, a University of Toronto professor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailybeast.com/experts-neither-joe-biden-nor-donald-trump-are-artifically-amped",
-      "originalUrl": "https://www.thedailybeast.com/experts-neither-joe-biden-nor-donald-trump-are-artifically-amped",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Beast",
-        "domain": "thedailybeast.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thedailybeast.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-end-this-nightmare-rudy-giulianis-daughter-urges-americans-to-vote-for-joe-biden-in-vanity-fair-editorial.md",
-      "title": "'End this nightmare': Rudy Giuliani's daughter urges Americans to vote for Joe Biden in Vanity Fair editorial",
-      "excerpt": "Caroline Giuliani called her father the \"president's personal bulldog,\" and described Trump's time in the White House as a \"reign of terror.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
-      "originalUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f88b9f19e9fe40019009a62?width=1200&format=jpeg",
-          "width": 733,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
-      "publishedDateTime": "2020-10-16T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

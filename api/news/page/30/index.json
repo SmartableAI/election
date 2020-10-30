@@ -2,6 +2,218 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-09-29-fauci-trump-receiving-incorrect-information-on-coronavirus.md",
+      "title": "Fauci: Trump Receiving ‘Incorrect’ Information On Coronavirus",
+      "excerpt": "President Donald Trump might be receiving “either out of context or actually incorrect” information about coronavirus, Dr. Anthony Fauci told CNN on Monday after being asked about Dr. Scott Atlas, who was added to the White House Coronavirus Task Force last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/",
+      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 705,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f726dbc6600384172144241%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2820%26cropY1%3D143%26cropY2%3D1729",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/",
+      "publishedDateTime": "2020-09-28T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes.md",
+      "title": "Santorum: Not illegal for Trump 'to do everything he can not to pay taxes'",
+      "excerpt": "Former Sen. Rick Santorum (R-Pa.) said in a new interview that it's not illegal for Trump \"to do everything he can not to pay taxes\" while discussin",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes",
+      "originalUrl": "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/santorumrick_092517gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes?amp",
+      "publishedDateTime": "2020-09-28T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-qa-will-the-trump-administration-be-able-to-ban-tiktok.md",
+      "title": "Q&A: Will the Trump administration be able to ban TikTok?",
+      "excerpt": "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. app stores",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/qa-trump-administration-ban-tiktok-73300439",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/qa-trump-administration-ban-tiktok-73300439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_4e6ed43bd3c84a029309df15469bc11c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/qa-trump-administration-ban-tiktok-73300439",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/qa-trump-administration-ban-tiktok-73300439",
+      "publishedDateTime": "2020-09-28T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-trump-announces-plan-to-deploy-150-million-covid-rapid-tests-previously-touted.md",
+      "title": "Trump announces plan to deploy 150 million Covid rapid tests previously touted",
+      "excerpt": "President Donald Trump formally announced a plan on Monday to disperse the 150 million rapid coronavirus tests first promoted by the White House in August.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nZraVJpsqg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nZraVJpsqg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200928140806-donald-trump-september-27-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html",
+      "publishedDateTime": "2020-09-28T14:16:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-pence-tells-americans-to-anticipate-that-cases-will-rise-with-more-coronavirus-testing.md",
       "title": "Pence tells Americans to 'anticipate that cases will rise' with more coronavirus testing",
       "excerpt": "Vice President Mike Pence said that \"the American people should anticipate that cases will rise\" as efforts for increased coronavirus testing are implemented and states in the Midwest are experiencing a surge.",
@@ -1139,229 +1351,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court.md",
-      "title": "Watch live: Joe Biden delivers remarks in Delaware on Supreme Court",
-      "excerpt": "Watch live coverage of Joe Biden as he delivers remarks in Wilmington, Del., on the U.S. Supreme Court.Sept. 27, 2020 © 2020 NBC UNIVERSAL",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692",
-      "originalUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden1.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92653637692",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92653637692",
-      "publishedDateTime": "2020-09-27T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-pelosi-says-trump-is-in-a-hurry-to-confirm-barrett-so-she-can-partake-in-obamacare-case.md",
-      "title": "Pelosi says Trump is in a 'hurry' to confirm Barrett so she can partake in Obamacare case",
-      "excerpt": "House Speaker Nancy Pelosi said Sunday that President Donald Trump is in a \"hurry\" to confirm his Supreme Court nominee so that the conservative jurist can participate in a highly consequential Obamacare case the court is set to hear days after the election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W2kw0tA0yKM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W2kw0tA0yKM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200903151500-pelosi-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/27/politics/nancy-pelosi-amy-coney-barrett-obamacare-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/nancy-pelosi-amy-coney-barrett-obamacare-cnntv/index.html",
-      "publishedDateTime": "2020-09-27T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-donald-trump-facing-financial-ruin-sought-control-of-his-elderly-fathers-estate-the-family-fight-was-epic.md",
-      "title": "Donald Trump, facing financial ruin, sought control of his elderly father’s estate. The family fight was epic.",
-      "excerpt": "It was basically taking the whole estate and giving it to Donald,” Trump’s sister said in secretly recorded audio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/graphics/2020/politics/donald-trump-father-will/",
-      "originalUrl": "https://www.washingtonpost.com/graphics/2020/politics/donald-trump-father-will/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S43N3IHYOQI6VBPXLFARRCUYZU.jpg&w=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-his-first-public-political-backing.md",
-      "title": "Dwayne 'The Rock' Johnson endorses Joe Biden, Kamala Harris – his first public political backing",
-      "excerpt": "Dwayne “The Rock” Johnson endorsed former Vice President Joe Biden and Sen. Kamala Harris, marking the first time he’s ever publicly thrown his weight behind a political candidate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing",
-      "originalUrl": "https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/dwayne-the-rock-johnson-getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing.amp",
-      "publishedDateTime": "2020-09-27T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice",
-        "Joe Biden"
       ]
     }
   ],

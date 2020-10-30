@@ -590,6 +590,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump has run a historically bad reelection campaign"
+    excerpt: "For a president whose 'brand is winning,' Trump has stood up a campaign rife with avoidable errors, mismanagement and squandered opportunities, write Democratic consultants."
+    publishedDateTime: 2020-10-29T19:13:00Z
+    webUrl: "https://www.cnn.com/2020/10/29/opinions/trump-bad-reelection-campaign-wierson-honan/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/opinions/trump-bad-reelection-campaign-wierson-honan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/opinions/trump-bad-reelection-campaign-wierson-honan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029142500-trump-wisconsin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Infection of Pence Aides Raises New Questions About Trump’s Virus Response"
     excerpt: "From the beginning, the president has turned mask wearing and other preventive measures into a loyalty test. He and his aides have taken the same approach inside the White House."
     publishedDateTime: 2020-10-25T23:58:00Z

@@ -592,6 +592,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump has run a historically bad reelection campaign"
+    excerpt: "For a president whose 'brand is winning,' Trump has stood up a campaign rife with avoidable errors, mismanagement and squandered opportunities, write Democratic consultants."
+    publishedDateTime: 2020-10-29T19:13:00Z
+    webUrl: "https://www.cnn.com/2020/10/29/opinions/trump-bad-reelection-campaign-wierson-honan/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/opinions/trump-bad-reelection-campaign-wierson-honan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/opinions/trump-bad-reelection-campaign-wierson-honan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029142500-trump-wisconsin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump has signaled he won't accept an election loss. Many of his voters agree."
     excerpt: "Brandishing faulty or unsubstantiated claims of fraudulent ballots, the president has planted seeds of doubt about the race's outcome if Biden wins. They appear to have taken root."
     publishedDateTime: 2020-10-29T19:36:00Z

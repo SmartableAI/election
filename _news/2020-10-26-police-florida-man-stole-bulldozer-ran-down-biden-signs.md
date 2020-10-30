@@ -143,6 +143,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "WATCH: Joe Biden holds drive-in rally in Tampa, Florida"
+    excerpt: "Both nominees are now focusing on encouraging voters to turn out in person on Election Day, next Tuesday. More than 73 million Americans have already voted, either by absentee or by mail."
+    publishedDateTime: 2020-10-29T17:50:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-09T170355Z_1622682236_RC25FJ9G8NK1_RTRMADP_3_USA-ELECTION-BIDEN-1024x717.jpg"
+        width: 1024
+        height: 717
+        isCached: true
   - title: "Watch live: Biden holds campaign rally in Florida"
     excerpt: "Democratic presidential nominee Joe Biden will hold a drive-in campaign rally Thursday night in Tampa, Fla.The event is scheduled to begin at 6:30 p.m. EDT.Watch the live video above."
     publishedDateTime: 2020-10-29T22:00:00Z
@@ -278,6 +294,22 @@ related:
       name: Time
       domain: time.com
     quality: 79
+  - title: "MSNBC’s Morning Joe reveals how Florida could deliver ‘bad news’ for Trump early on Election Night"
+    excerpt: "MSNBC’s Joe Scarborough explained what to look for in Florida’s early election reporting that could spell “bad news” for President Donald Trump. Huge numbers of Florida voters have already cast their ballots with five days until the Nov."
+    publishedDateTime: 2020-10-30T12:51:00Z
+    webUrl: "https://www.rawstory.com/2020/10/msnbcs-morning-joe-reveals-how-florida-could-deliver-bad-news-for-trump-early-on-election-night/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/msnbcs-morning-joe-reveals-how-florida-could-deliver-bad-news-for-trump-early-on-election-night/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/msnbcs-morning-joe-reveals-how-florida-could-deliver-bad-news-for-trump-early-on-election-night/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 76
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-14-at-6.51.20-AM.png"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Why Florida’s Treasure Coast could back Joe Biden but elect a Republican to Congress"
     excerpt: "While Florida’s Treasure Coast backed Donald Trump in 2016, four years later Joe Biden has a chance to flip it. But the partisan dynamics at the top of the ticket in what was once Florida’s most competitive congressional district aren’t likely to topple incumbent Republican Rep."
     publishedDateTime: 2020-10-23T19:27:00Z

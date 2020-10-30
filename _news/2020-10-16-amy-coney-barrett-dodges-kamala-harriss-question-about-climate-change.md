@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/changing-america/sustainability/climate-change/5
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp"
 type: article
 quality: 125
-heat: 1005
+heat: 1025
 published: true
 
 provider:
@@ -484,6 +484,22 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2020/08/Kamala-Harris-1.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris' travel halted after 2 people in campaign's orbit test positive for COVID-19"
+    excerpt: "Local and national elections & political news, delivered to your inbox Democratic vice presidential nominee Kamala Harris has canceled events and travel through the weekend after two people close ..."
+    publishedDateTime: 2020-10-15T14:27:00Z
+    webUrl: "https://www.wlwt.com/article/kamala-harris-travel-halted-after-2-people-in-campaigns-orbit-test-positive-for-covid-19/34382685"
+    ampWebUrl: "https://www.wlwt.com/amp/article/kamala-harris-travel-halted-after-2-people-in-campaigns-orbit-test-positive-for-covid-19/34382685"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/kamala-harris-travel-halted-after-2-people-in-campaigns-orbit-test-positive-for-covid-19/34382685"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 65
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1228948359.jpg?crop=1.00xw:0.848xh;0,0&resize=1200:*"
+        width: 1024
+        height: 577
         isCached: true
   - title: "Kamala Harris' Charlotte event goes virtual after campaign staffers test positive for coronavirus"
     excerpt: "Kamala Harris' trip to North Carolina has been canceled after two campaign staffers tested positive for COVID-19, the Joe Biden-Kamala Harris campaign announced Thursday. Instead, Harris is planning to hold a virtual event in North Carolina on the first day of early vote Thursday."

@@ -2,6 +2,220 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-10-09-at-debate-mike-pence-didnt-say-what-he-has-before-he-supports-overturning-roe-v-wade.md",
+      "title": "At debate, Mike Pence didn’t say what he has before: He supports overturning Roe v. Wade",
+      "excerpt": "Vice President Mike Pence artfully sidestepped the chance to talk about banning abortion before a national audience at Wednesday’s debate.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
+      "originalUrl": "https://abcnews.go.com/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pence-vp-debate-04-rt-jef-201007_1602126711944_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
+      "publishedDateTime": "2020-10-08T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-kamala-harris-vs-mike-pence-takeaways-coronavirus-im-speaking-and-californias-cameo.md",
+      "title": "Kamala Harris vs. Mike Pence takeaways: Coronavirus, ‘I’m speaking’ and California’s cameo",
+      "excerpt": "Aside from the historic nature of Sen. Kamala Harris’ appearance the event in Salt Lake City was so civil that the social media star of the evening was a fly that landed on Vice President Mike Pence’s hair and lingered for more than two minutes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/45/53/20077260/5/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-karen-pences-office-defends-her-appearing-without-a-mask-at-debate.md",
+      "title": "Karen Pence's office defends her appearing without a mask at debate",
+      "excerpt": "Second lady Karen Pence’s office defended her appearance on the debate stage Wednesday night without wearing a mask.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/520249-karen-pences-office-defends-her-appearing-without-a-mask-at-debate",
+      "originalUrl": "https://thehill.com/homenews/campaign/520249-karen-pences-office-defends-her-appearing-without-a-mask-at-debate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencekaren_10082020_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520249-karen-pences-office-defends-her-appearing-without-a-mask-at-debate?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520249-karen-pences-office-defends-her-appearing-without-a-mask-at-debate?amp",
+      "publishedDateTime": "2020-10-08T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-mike-pence-is-the-normal-republican-conservatives-miss.md",
+      "title": "Mike Pence is the normal Republican conservatives miss",
+      "excerpt": "When President Donald Trump chose Vice President Mike Pence as his running mate, Pence’s job was simple: Be normal. And during his debate with Sen. Kamala Harris on Wednesday, Pence attempted to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/21507079/mike-pence-debate-conservatism-trump-trumpism",
+      "originalUrl": "https://www.vox.com/21507079/mike-pence-debate-conservatism-trump-trumpism",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/CLWX_2cJvw4rLs565vlquYzMYSk=/0x0:6048x4024/1400x1050/filters:focal(2983x1198:3949x2164):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67602122/GettyImages_1279085321.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/21507079/mike-pence-debate-conservatism-trump-trumpism",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/21507079/mike-pence-debate-conservatism-trump-trumpism",
+      "publishedDateTime": "2020-10-08T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-pence-does-his-best-but-harris-wont-let-him-explain-away-trumps-failures.md",
       "title": "Pence does his best but Harris won't let him explain away Trump's failures",
       "excerpt": "Vice President Mike Pence tried his best on Wednesday to recast the reality of Donald Trump's presidency, but Sen. Kamala Harris, the Democratic pick for his job, refused to let him spin away the nation's current dire plight during their single debate.\n    \n",
@@ -1154,229 +1368,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-donald-trump-would-repeal-and-replace-obamacare-with-nothingburger.md",
-      "title": "Donald Trump would repeal and replace Obamacare with nothingburger",
-      "excerpt": "Affordable Care Act set to reach the Supreme Court after election. COVID-19 layoffs only underscore what a lifeline the ACA is to millions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/07/biden-improve-obamacare-trump-repeal-replace-with-nothingburger-editorials-debates/3629112001/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/07/biden-improve-obamacare-trump-repeal-replace-with-nothingburger-editorials-debates/3629112001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/06/USAT/f1d418be-3261-4701-8f66-cba4f6986254-Obamacare.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3629112001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3629112001",
-      "publishedDateTime": "2020-10-07T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-ed-rollins-vp-debate-harris-pence-faceoff-in-utah-and-america-should-look-to-hear-this-one-word.md",
-      "title": "Ed Rollins: VP debate –Harris, Pence faceoff in Utah and America should look to hear this one word",
-      "excerpt": "It is not unrealistic to think that Pence or Harris could be America’s president in the not-too-distant future",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins",
-      "originalUrl": "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9237c49-0e3b-44b1-852b-13637dd6bd4a/fa189495-4350-42bd-a9f1-b6601bcdc060/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins.amp",
-      "publishedDateTime": "2020-10-07T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-sen-martha-mcsally-says-it-pisses-me-off-when-trump-bashes-john-mccain.md",
-      "title": "Sen. Martha McSally says it ‘pisses me off’ when  Trump bashes John McCain",
-      "excerpt": "President Trump has lobbed insults at former Sen. John McCain even after the Vietnam veteran died in 2018 following a long battle with an aggressive form of brain cancer. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DzB6x2swUmk/sen-martha-mcsally-says-it-pisses-me-off-when-trump-bashes-john-mccain",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DzB6x2swUmk/sen-martha-mcsally-says-it-pisses-me-off-when-trump-bashes-john-mccain",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-martha-mcsally-says-it-pisses-me-off-when-trump-bashes-john-mccain.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-martha-mcsally-says-it-pisses-me-off-when-trump-bashes-john-mccain.amp",
-      "publishedDateTime": "2020-10-07T10:00:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-the-relief-deal-blowup-what-are-pelosi-and-trump-thinking.md",
-      "title": "The Relief Deal Blowup: What are Pelosi and Trump Thinking?",
-      "excerpt": "It’s not just the president’s wild back-and-forth on Twitter. Both sides are looking irrational on a deal that the economy is going to need soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
-      "originalUrl": "https://www.politico.com/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d8/c9/e8e560a740a4b2b2ff92c74bec33/gettyimages-1277802613-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
-      "publishedDateTime": "2020-10-07T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

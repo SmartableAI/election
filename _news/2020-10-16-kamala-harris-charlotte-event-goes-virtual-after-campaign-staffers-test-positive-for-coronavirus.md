@@ -497,6 +497,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris' travel halted after 2 people in campaign's orbit test positive for COVID-19"
+    excerpt: "Local and national elections & political news, delivered to your inbox Democratic vice presidential nominee Kamala Harris has canceled events and travel through the weekend after two people close ..."
+    publishedDateTime: 2020-10-15T14:27:00Z
+    webUrl: "https://www.wlwt.com/article/kamala-harris-travel-halted-after-2-people-in-campaigns-orbit-test-positive-for-covid-19/34382685"
+    ampWebUrl: "https://www.wlwt.com/amp/article/kamala-harris-travel-halted-after-2-people-in-campaigns-orbit-test-positive-for-covid-19/34382685"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/kamala-harris-travel-halted-after-2-people-in-campaigns-orbit-test-positive-for-covid-19/34382685"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 65
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1228948359.jpg?crop=1.00xw:0.848xh;0,0&resize=1200:*"
+        width: 1024
+        height: 577
+        isCached: true
   - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket?"
     excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."
     publishedDateTime: 2020-10-15T20:25:00Z

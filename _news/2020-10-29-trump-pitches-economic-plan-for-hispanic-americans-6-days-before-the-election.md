@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-american-dr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-american-dream-plan-hispanics/index.html"
 type: article
 quality: 185
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151932-02-sean-conley-walter-reed-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Lil Wayne met with Trump and praised the President's plan for Black Americans"
+    excerpt: "Rapper Lil Wayne met with President Donald Trump to discuss the President's plan for Black Americans -- and apparently liked what he heard.\n    \n"
+    publishedDateTime: 2020-10-30T14:04:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lOt6ZitcBDY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/lil-wayne-trump-meeting-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/lil-wayne-trump-meeting-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030071301-restricted-donald-trump-lil-wayne-1029-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

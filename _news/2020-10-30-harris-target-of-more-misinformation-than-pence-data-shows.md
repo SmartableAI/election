@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Harris Target of More Misinformation Than Pence, Data Shows"
-excerpt: "Long before Democratic presidential nominee Joe Biden announced her as his running mate, Kamala Harris was the target of widespread online misinformation."
-publishedDateTime: 2020-10-29T23:06:00Z
-originalUrl: "https://www.snopes.com/ap/2020/10/29/harris-target-of-more-misinformation-than-pence-data-shows/"
-webUrl: "https://www.snopes.com/ap/2020/10/29/harris-target-of-more-misinformation-than-pence-data-shows/"
+title: "Harris target of more misinformation than Pence, data shows"
+excerpt: "The report identified more than 1 million mentions since June on Twitter of Kamala Harris with hashtags or terms associated with misinformation about her."
+publishedDateTime: 2020-10-30T14:52:00Z
+originalUrl: "https://www.fox43.com/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
+webUrl: "https://www.fox43.com/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
+ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
+cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
 type: article
-quality: 80
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: Snopes.com
-  domain: snopes.com
+  name: FOX43
+  domain: fox43.com
 
 topics:
   - Election
@@ -20,9 +22,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.snopes.com/tachyon/2020/10/Election_2020_Harris_59857-733x412.jpg"
-    width: 733
-    height: 412
+  - url: "https://media.tegna-media.com/assets/WLTX/images/e5a56073-3a52-4460-a3b0-0f7c7b093733/e5a56073-3a52-4460-a3b0-0f7c7b093733_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -1072,6 +1074,33 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Campaigns in Fort Worth, Texas"
+    excerpt: "T13:45:00-04:00 Kamala Harris (D-CA) delivers campaign remarks in Fort Worth, Texas. Senator Kamala Harris (D-CA) delivers campaign remarks in Fort Worth, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
+    publishedDateTime: 2020-10-30T13:11:00Z
+    webUrl: "https://www.c-span.org/video/?477547-1/senator-kamala-harris-campaigns-fort-worth-texas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in Houston, Texas"
+    excerpt: "Kamala Harris (D-CA) campaigns in Houston. President Trump won Texas by more than 9 points in 2016, but the latest RealClearPolitics polling average shows him with a smaller lead in the final week. 2020 vice preisdential candidate Sen."
+    publishedDateTime: 2020-10-30T13:15:00Z
+    webUrl: "https://www.c-span.org/video/?477548-1/senator-kamala-harris-campaigns-houston-texas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in McAllen, Texas"
+    excerpt: "Senator Kamala Harris (D-CA) delivers campaign remarks in McAllen, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Biden campaign event in… 2020 vice presidential candidate Senator Kamala Harris (D-CA) campaigned in Reno,"
+    publishedDateTime: 2020-10-30T14:13:00Z
+    webUrl: "https://www.c-span.org/video/?477546-1/senator-kamala-harris-campaigns-mcallen-texas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Senator Kamala Harris Remarks to Spelman College Students in Atlanta, Georgia"
     excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to students at Spelman College in Atlanta, Georgia. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
     publishedDateTime: 2020-10-23T19:04:00Z
@@ -1082,6 +1111,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "fsdo25DIqAnbrzjfQbLEYNsd5qYikse6upYYQocucP5dsJKrDC9lT+aUHUZNGtjRP5L+3i1yTkTYl6tu6GjsNpUBi9yiMQ0lUZALB7cFUwkujtgcE+iihmkPM6AhTyYoldi44hlwrMDWXTJod7C0YRVydEZ0fF0LuAmGDmtAiS9scm6yssX3eHRFY07g32JMfjEOxSTDBB63VTZFRzTJMbHHYRpUCCA+9gnZzjzz+hbh44huifPKUPXOOXMHbR+4gMQShFEQF/4St2FBWIoSMBqVmepdkSv6x7ii6DP6VLRgvBKQbShWV0dfqiYLJ/TheIkLVTD7XYbgbW1Y82CUwyoWgKlaZsnDmVqPBs+z3GM=;nCDMCXinq3bF8Jaxj0PVZQ=="
+secured: "Pt8NnjBOPnFD6T/25WbpFqouiHdIzvhkbIn72JuBabWlUcMxAg6ttiPqQKvVh1qORGklLOFLwCkzBc+/A/A899p1ZYo+wKPEgahwkOPNONNT8jBMYgDLJHsxqQX3bmTZ5gibZgbTvDk1zgRKSkBWqjoqcyRfaWFdE5XUpdfSCoEME+WblbDPSeyiqGzVkadxr/eW5gyga7/nLZS3obRGjU3HFRpT7N/bFSiygeZMjY9Qyp9x9/RjCzkVKlmpXp/34U/S00iX5N4QXeSDTFmoxEMr7c6f33fVxaPsdMMP8Hv2sV3sqIkR05LS8Ofsb1zXSL7sewppFT9CZLSX3wjcwHLWMjIlOPjGF21bKS06sx8=;prRR+n0pDdRZ/0eBVesWiw=="
 ---
 

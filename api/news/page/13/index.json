@@ -2,6 +2,213 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-19-top-trump-administration-official-met-with-assad-regime-over-imprisoned-americans.md",
+      "title": "Top Trump administration official met with Assad regime over imprisoned Americans",
+      "excerpt": "A top Trump administration official met with the Assad regime in Damascus this fall in an effort to secure the release of American prisoners believed to be held by the Syrian dictator, two administration officials confirmed to CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EZf3VcMsLas/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EZf3VcMsLas/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 250,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170406214544-syria-bashar-al-assad-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html",
+      "publishedDateTime": "2020-10-18T19:20:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-kirstie-alley-responds-to-nasty-people-criticizing-her-decision-to-vote-again-for-donald-trump.md",
+      "title": "Kirstie Alley responds to 'nasty people' criticizing her decision to vote again for Donald Trump",
+      "excerpt": "Actress Kirstie Alley is standing up for her decision to vote for President Donald Trump. The \"Cheers\" actress faced \"nasty\" backlash online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/18/kirstie-alley-donald-trump-support-nasty-critics-twitter/3706149001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/18/kirstie-alley-donald-trump-support-nasty-critics-twitter/3706149001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/18/USAT/f2a21d0b-8395-4ade-a00c-0d9b30914ae7-GTY_1017791726.JPG?auto=webp&crop=3853,2168,x0,y1000&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3706149001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3706149001",
+      "publishedDateTime": "2020-10-18T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-trump-gives-offering-while-attending-church-services-in-las-vegas.md",
+      "title": "Trump gives offering while attending Church services in Las Vegas",
+      "excerpt": "As the collection was being taken up, Trump reached into his back pocket a pulled out a number of $20 bills, which he later deposited into a bucket that was being passed around.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7X4zWZh-wu4/trump-gives-offering-while-attending-church-services-in-las-vegas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7X4zWZh-wu4/trump-gives-offering-while-attending-church-services-in-las-vegas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-gives-offering-while-attending-church-services-in-las-vegas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-gives-offering-while-attending-church-services-in-las-vegas.amp",
+      "publishedDateTime": "2020-10-18T17:06:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises.md",
+      "title": "Mike Pence: Americans Deserve 4 More Years of a President Who Keeps His Promises",
+      "excerpt": "Kamala Harris and Vice President Mike Pence, to speak directly to Utahns and the nation in this forum. To read exclusive commentary by Sen. Harris, click here. As I arrive in the great state of Utah to debate Joe Biden’s running mate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises",
+      "originalUrl": "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-media.beliefnet.com/sites/140/2019/04/Mike_Pence_28119020664-1.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises/amp",
+      "cdnAmpWebUrl": "https://www-beliefnet-com.cdn.ampproject.org/c/s/www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises/amp",
+      "publishedDateTime": "2020-10-18T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beliefnet",
+        "domain": "beliefnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-dnc-chair-perez-says-dems-take-nothing-for-granted-despite-bidens-lead-in-polls.md",
       "title": "DNC chair Perez says Dems 'take nothing for granted' despite Biden's lead in polls",
       "excerpt": "The Biden campaign and DNC are holding a position that no lead is stable or consistent, even if polling has shown otherwise.",
@@ -1107,197 +1314,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-joe-biden-to-visit-durham-on-sunday-as-north-carolinas-early-voting-numbers-soar-charlotte-observer.md",
-      "title": "Joe Biden to visit Durham on Sunday as North Carolina’s early voting numbers soar | Charlotte Observer",
-      "excerpt": "More than one million North Carolina voters have already cast their ballots, and Democratic presidential nominee Joe Biden is hoping to increase those numbers. Biden will visit Durham on Sunday for a 1 p.",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/news/politics-government/article246508225.html",
-      "originalUrl": "https://www.charlotteobserver.com/news/politics-government/article246508225.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/2530ebd3-c89b-4972-9eff-cfb6c796564b/main/1280x720/1m46s304ms/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/news/politics-government/article246508225.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article246508225.html",
-      "publishedDateTime": "2020-10-17T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-how-donald-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue.md",
-      "title": "How Donald Trump’s developer dad and a Brooklyn rabbi saved a synagogue",
-      "excerpt": "When congregants enter the Beach Haven Jewish Center in Gravesend, Brooklyn, they pass a small plaque hanging just outside the main sanctuary. “Fred Trump. Humanitarian,” declare the gold",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
-      "originalUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fred2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
-      "publishedDateTime": "2020-10-17T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-scotus-to-hear-trump-administrations-argument-to-exclude-illegal-immigrants-from-census.md",
-      "title": "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census",
-      "excerpt": "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
-      "originalUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Supreme_Court.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
-      "publishedDateTime": "2020-10-17T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-watchdog-claims-trump-campaign-illegally-coordinated-with-a-super-pac-in-2016-through-its-work-with-cambridge-analytica.md",
-      "title": "Watchdog claims Trump campaign illegally coordinated with a Super PAC in 2016 through its work with Cambridge Analytica",
-      "excerpt": "The Campaign Legal Center claimed newly published emails showed Cambridge Analytica's overlapping work for the campaign and PAC violated federal law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f58a80ce6ff30001d4e7a9a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp",
-      "publishedDateTime": "2020-10-17T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

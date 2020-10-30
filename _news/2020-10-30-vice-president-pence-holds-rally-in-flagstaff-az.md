@@ -85,6 +85,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
+    excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
+    publishedDateTime: 2020-10-30T13:55:00Z
+    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-arizona"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "5/2GntWctpIQopzwBmP3pR9r7/xyWS3+jLk2a8h7F18Tm1sa40lIrj41OcQG50GeVcjAd2lkkjqJaBVvlGKBeZzMSjhv6y9e4Ib9o7OJ6cTjYp0cd0a/ZjVpbVpvfhpHRExuyRd9Z2UV+ExKYOGqZgG2IrBYDL8tgPH5SJZpPY+1AIpXlhz6D/7YdTh4u0n7MKJ8XIJo9D+I3L5oKXhPt8YMrSzzcLjW72ppiVsotpGA3tw4EQ0Tv/DOhwaAtFpvoYnrTn+PFG9sxiF/sM6Qc8ZAG9FotvI4FKX8W1/uscbopOnIzZEawpRs5WloYiwvLEy/8sz2jEsS+5TZeChTh0Xi/PaT+hn6d+zn3sDR0cyJ4djuDGfaFIpvFqTBKZwWtrBaxS2a18ub8fjrhQDdBP40/deOW1334iCQ3Q5od6nJ6JZTSaA/bwuaKOCDLdvmChmZweAmjBa0INo0ztvZ5Y9rI/X8+X6EQ9VLZArwGOq+KID1BSwnIILAJGmSVpdq/CdeGNehc8jKZqkRGVWeHg==;fJwWZ+CFJVRkCcQoR8mUsg=="
 ---

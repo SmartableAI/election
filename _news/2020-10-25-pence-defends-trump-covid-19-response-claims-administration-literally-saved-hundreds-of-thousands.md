@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-dismisses-biden-attacks-over-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-dismisses-biden-attacks-over-covid-19-response.amp"
 type: article
 quality: 185
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ead988d3-9def-4271-a37a-79535f7a8bd7/3b50f3d2-ff89-47d2-82c2-b0ed3bfa2172/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump to follow Minnesota COVID rule limiting rally crowd to 250"
+    excerpt: "The Trump 2020 campaign has limited its Friday rally attendee count in Minnesota to 250 people at state orders amid a spike in COVID-19 cases."
+    publishedDateTime: 2020-10-30T13:44:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0bvLv1Slw8E/trump-minnesota-rally-250-walz-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-minnesota-rally-250-walz-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-minnesota-rally-250-walz-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275156282844-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "‘Thousands upon thousands’ of Trump supporters greet president in California: McEnany"
     excerpt: ""

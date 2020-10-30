@@ -209,6 +209,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Harris target of more misinformation than Pence, data shows"
+    excerpt: "The report identified more than 1 million mentions since June on Twitter of Kamala Harris with hashtags or terms associated with misinformation about her."
+    publishedDateTime: 2020-10-30T14:52:00Z
+    webUrl: "https://www.fox43.com/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
+    ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
+    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
+    type: article
+    provider:
+      name: FOX43
+      domain: fox43.com
+    quality: 100
+    images:
+      - url: "https://media.tegna-media.com/assets/WLTX/images/e5a56073-3a52-4460-a3b0-0f7c7b093733/e5a56073-3a52-4460-a3b0-0f7c7b093733_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Kamala Harris target of more misinformation than Mike Pence, data shows"
     excerpt: "From July to October, Harris and Republican Vice President Mike Pence have been mentioned almost 48 million times combined on Twitter, compared to only 12 million total mentions of Pence or Virginia Sen. Tim Kaine, who was the Democratic vice presidential ..."
     publishedDateTime: 2020-10-30T04:57:00Z
@@ -396,20 +412,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/be09d52d-94af-4df5-a2c3-f74c5433144e-USATSI_15031289.jpg?auto=webp&crop=1999,1124,x0,y33&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Harris Target of More Misinformation Than Pence, Data Shows"
-    excerpt: "Long before Democratic presidential nominee Joe Biden announced her as his running mate, Kamala Harris was the target of widespread online misinformation."
-    publishedDateTime: 2020-10-29T23:06:00Z
-    webUrl: "https://www.snopes.com/ap/2020/10/29/harris-target-of-more-misinformation-than-pence-data-shows/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 80
-    images:
-      - url: "https://www.snopes.com/tachyon/2020/10/Election_2020_Harris_59857-733x412.jpg"
-        width: 733
-        height: 412
         isCached: true
   - title: "VP Mike Pence in Fort Wayne, Sen. Kamala Harris in virtual event Thursday"
     excerpt: "Pence on Thursday night arrived at Indianapolis International Airport in preparation for voting Friday morning at the City-County Building in Indianapolis."
@@ -1065,6 +1067,33 @@ related:
     excerpt: "Senator Kamala Harris (D-CA) campaigned in Reno, Nevada, one week ahead of Election… 2020 vice presidential nominee Senator Kamala Harris (D-CA) campaigned at an early voting mobilization event in Atlanta."
     publishedDateTime: 2020-10-28T12:28:00Z
     webUrl: "https://www.c-span.org/video/?477473-1/senator-kamala-harris-campaigns-tucson-arizona"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in Fort Worth, Texas"
+    excerpt: "T13:45:00-04:00 Kamala Harris (D-CA) delivers campaign remarks in Fort Worth, Texas. Senator Kamala Harris (D-CA) delivers campaign remarks in Fort Worth, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
+    publishedDateTime: 2020-10-30T13:11:00Z
+    webUrl: "https://www.c-span.org/video/?477547-1/senator-kamala-harris-campaigns-fort-worth-texas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in Houston, Texas"
+    excerpt: "Kamala Harris (D-CA) campaigns in Houston. President Trump won Texas by more than 9 points in 2016, but the latest RealClearPolitics polling average shows him with a smaller lead in the final week. 2020 vice preisdential candidate Sen."
+    publishedDateTime: 2020-10-30T13:15:00Z
+    webUrl: "https://www.c-span.org/video/?477548-1/senator-kamala-harris-campaigns-houston-texas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in McAllen, Texas"
+    excerpt: "Senator Kamala Harris (D-CA) delivers campaign remarks in McAllen, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Biden campaign event in… 2020 vice presidential candidate Senator Kamala Harris (D-CA) campaigned in Reno,"
+    publishedDateTime: 2020-10-30T14:13:00Z
+    webUrl: "https://www.c-span.org/video/?477546-1/senator-kamala-harris-campaigns-mcallen-texas"
     type: article
     provider:
       name: C-SPAN

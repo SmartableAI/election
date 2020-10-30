@@ -2,6 +2,118 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-02-pelosi-trump-diagnosis-tragic-hopefully-leads-to-saner-approach-to-pandemic.md",
+      "title": "Pelosi: Trump diagnosis 'tragic,' hopefully leads to 'saner approach' to pandemic",
+      "excerpt": "Speaker Nancy Pelosi said that President Trump’s COVID-19 diagnosis is “tragic” and “very sad,” but predictable, given his frequent contact with crowds. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bRzKYb_-f_M/pelosi-trump-saner-approach-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bRzKYb_-f_M/pelosi-trump-saner-approach-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/2f2219a9-AP20268562631818.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-trump-saner-approach-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-saner-approach-coronavirus.amp",
+      "publishedDateTime": "2020-10-02T10:16:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-no-one-wore-a-mask-during-trump-debate-prep-chris-christie-says.md",
+      "title": "No one wore a mask during Trump debate prep, Chris Christie says",
+      "excerpt": "Former N.J. Gov. Chris Christie revealed that no one in the room was wearing a mask when a small group of people gathered in the White House's map room on Monday to help prep President Trump for the first debate. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp",
+      "publishedDateTime": "2020-10-02T07:46:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-boris-johnson-wishes-trump-speedy-recovery-from-covid-19.md",
       "title": "Boris Johnson wishes Trump 'speedy recovery' from COVID-19",
       "excerpt": "UK Prime Minister Boris Johnson wished President Trump a \"speedy recovery\" Friday, hours after he and First Lady Melania Trump tested positive for COVID-19. ",
@@ -1546,118 +1658,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/kevin-brady-trump-tax-release.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kevin-brady-trump-tax-release.amp",
       "publishedDateTime": "2020-09-29T08:04:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-trump-gets-third-2020-nobel-peace-prize-nomination.md",
-      "title": "Trump gets third 2020 Nobel Peace Prize nomination",
-      "excerpt": "President Trump received his third Nobel Peace Prize nomination in September, this time from a group of Australian law professors.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CF_jAUdr6lk/trump-third-nobel-nomination-doctrine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CF_jAUdr6lk/trump-third-nobel-nomination-doctrine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/trump-peace-signing-1-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-third-nobel-nomination-doctrine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-third-nobel-nomination-doctrine.amp",
-      "publishedDateTime": "2020-09-29T07:02:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation.md",
-      "title": "Trump admin teams with nonprofit to launch 'Safety Pledge' to combat online child exploitation",
-      "excerpt": "EXCLUSIVE: The Trump administration on Tuesday is launching a safety pledge with the National Center for Missing and Exploited Children in an effort to prevent attacks from online predators and sex traffickers, as the nonprofit has seen “a dramatic increase” in reports of child sex exploitation since",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM0UseJk4RI/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM0UseJk4RI/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation.amp",
-      "publishedDateTime": "2020-09-28T21:10:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

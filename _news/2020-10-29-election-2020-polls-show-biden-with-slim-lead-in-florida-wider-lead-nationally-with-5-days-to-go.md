@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Election 4 days away: Trump, Biden blitz battleground states in final campaign sprint"
+    excerpt: "With Election Day less than 100 hours away, President Trump and his Democratic rival Joe Biden are set to swing through crucial battleground states that may determine the outcome of the presidential race. "
+    publishedDateTime: 2020-10-30T12:07:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeGi9h9pLAc/election-4-days-away-trump-biden-blitz-battleground-states"
+    ampWebUrl: "https://www.foxnews.com/politics/election-4-days-away-trump-biden-blitz-battleground-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-4-days-away-trump-biden-blitz-battleground-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 198
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54a7a8a0-0ad7-46c7-8a0e-17beea7b7c80/79b4a56a-6289-4dd8-9ba1-cdba28079a92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump tells Arizona rally Biden’s lucky Barr hasn’t locked him up"
     excerpt: ""
     publishedDateTime: 2020-10-20T03:55:32Z
@@ -782,6 +798,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e7e263-c47a-4806-adeb-362bea3235a1/ad72107a-c53f-4f28-8d21-229f9c3fdd73/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Geraldo Rivera: Trump 'senses' that unexpected minority support could fuel victory over Biden"
+    excerpt: "President Trump could ride a wave of new and unique Republicans to get a victory in the 2020 presidential race, Fox News correspondent-at-large Geraldo Rivera said on Friday."
+    publishedDateTime: 2020-10-30T15:52:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FDMFWqDSMqs/geraldo-rivera-trump-senses-minority-vote-reelection-lil-wayne"
+    ampWebUrl: "https://www.foxnews.com/politics/geraldo-rivera-trump-senses-minority-vote-reelection-lil-wayne.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/geraldo-rivera-trump-senses-minority-vote-reelection-lil-wayne.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Debate pays off for Trump as campaign hauls in $26M"
     excerpt: "President Trump's re-election campaign is showcasing a fundraising record they set around Thursday’s second debate between the president and Democratic nominee Joe Biden."

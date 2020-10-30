@@ -6697,6 +6697,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris and her pro-abortion donor base"
+    excerpt: "Washington, D.C. Newsroom, Oct 6, 2020 / 07:30 am MT (CNA).- Senator Kamala Harris’ 2016 senate campaign was supported by several large donors who were executives at pro-abortion groups."
+    publishedDateTime: 2020-10-11T11:12:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/kamala-harris-and-her-pro-abortion-donor-base-68589"
+    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/kamala-harris-and-her-pro-abortion-donor-base-68589"
+    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/kamala-harris-and-her-pro-abortion-donor-base-68589"
+    type: article
+    provider:
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 75
+    images:
+      - url: "https://www.catholicnewsagency.com/images/Crucifix_altar_church_Mass_Credit_Calamity_Jane_Shutterstock_CNA.jpg?w=375&h=250"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Kamala Harris to attend SCOTUS confirmation hearings virtually"
     excerpt: "Kamala Harris (D-Calif.) will participate in Supreme Court nominee Amy Coney Barrett's confirmation hearing virtually, the vice presidential nominee's communications director Chris Harris tweeted Sunday."
     publishedDateTime: 2020-10-11T18:43:00Z

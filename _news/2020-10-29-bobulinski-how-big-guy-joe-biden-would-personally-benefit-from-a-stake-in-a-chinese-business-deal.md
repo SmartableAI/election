@@ -90,6 +90,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democratic congressman tells ex-Hunter Biden associate Bobulinski he’d defend him over ‘partisan hack’ claim"
+    excerpt: "Democratic Rep. Ro Khanna told Hunter Biden’s former business associate Tony Bobulinski in a new message that he would defend him against claims that he is a “partisan hack” in the wake of his claims about the Biden family's business ventures, according to an email obtained by Fox News."
+    publishedDateTime: 2020-10-30T15:07:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x1z6ZsEVZZM/dem-congressman-tells-ex-hunter-biden-associate-bobulinski-in-message-hed-defend-him-over-partisan-hack-cla"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-congressman-tells-ex-hunter-biden-associate-bobulinski-in-message-hed-defend-him-over-partisan-hack-cla.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-congressman-tells-ex-hunter-biden-associate-bobulinski-in-message-hed-defend-him-over-partisan-hack-cla.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "DOJ, citing Hunter Biden story, Justice Thomas, supports changes to Section 230 in letter to Congress"
     excerpt: "The Department of Justice (DOJ) on Tuesday sent a letter to congressional leaders advocating for changes to Section 230 of the Communications Decency Act, a law passed about 25 years ago that prevents tech companies from being sued for user content posted on their platforms. "
     publishedDateTime: 2020-10-28T16:09:07Z

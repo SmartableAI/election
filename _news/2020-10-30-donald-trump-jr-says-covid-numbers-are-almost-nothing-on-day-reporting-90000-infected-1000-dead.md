@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Donald Trump Jr. put a perfect exclamation point on his father's bungling of Covid-19"
+    excerpt: "Appearing on Laura Ingraham's Fox News show Thursday night, Donald Trump Jr. was asked about Dr. Sanjay Gupta's recommendation that anyone who attends a campaign rally for the President self-quarantine for two weeks.\n    \n"
+    publishedDateTime: 2020-10-30T15:06:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5snpTHKONc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-jr-covid-19-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-jr-covid-19-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200824223931-109-rnc-monday-trump-jr-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Saturday Night Live' sees Trump as a man without a Covid-19 plan"
     excerpt: "Live\" hammered President Donald Trump for his lack of a clear plan to combat the spread of Covid-19, opening with a spoof of the last presidential debate. It featured Alec Baldwin as Trump, Jim Carrey as Joe Biden and SNL alum Maya Rudolph as moderator Kristen Welker,"
     publishedDateTime: 2020-10-25T12:27:00Z
@@ -97,6 +113,6 @@ related:
         height: 1077
         isCached: true
 
-secured: "6peIYDAflcJiS+N3cOcw/GZUP2lRSj7by2F047UvATLh0LZ5bOd/Sj48NqloUbrGITHhllmiCRv18n04oOFCz6SHhq5LDe79I9kOG7rBJgi4g347jbmeP1+KvjMYBOYlHJJGAODiJKLws/2Kvv57Hj0yGbHfZdSKNh9om6VT9XjVRP8TZPAeFXsjTvf8OKepisVRIUEfmfZ1Rq/yy2tia9/q4zpjVuw8ozRngaKqMDoRuRyhWnyLtYeip5XqD+L0/+ZDRzdiVy1Qdw2LrZ75/5YKDfO9UYWw2e1CqLL56j/7qRBDXtYpi4ZzAQ1O+9vFLgpUG2KaWo1vuJbbxT9xkRo+4uipRMP+MZ7JS6vU8Lw=;o+fLqpv1q4ZhQjv6nTxmEw=="
+secured: "0yRYNG3BO5Gc8sEv+sJk6SWTxKu7cnFstbBkLrRRMZOUE6iQGGdMilMAkXqFJOvjP9GUPxjxPSuZQZ0ibJgJLyHR9LKENN69X+0ubS1b+XkImGo6dlIaGZVQx2sjyOVnrxBMHrGRbahZ4Z4ZPz/1YA06PlujUpit3gv8tvqQMZQfHO/DwXQDeo19GgCIXgq7YTltlxuaEr1V/BiaHcQwhV51oV6vd5WCN5Qujgbd8d6T/9VzeuH2mq84K0XSYI51rFFkax995Cjoybll5BkiQHNu0N6X6fKyCv3wMxG/KidshwGH9D07RrzYnPXrJCbDO/a4wHPt1HTpZIq0D5/1INopRx5ZSByLCmt5yfLJM9Rz/Edjj0+gyouBLutYa+FsxRoPPYUka7ToILRQ5Jt5bKSPTvXBB0AJrqozdAgXfS3cyfUyKI7I2rLFCZKdHkbVFnFPBhH2lvZ3+0Ok4WZKOZQeO/iiNF8So99h1aSJpnCau1fZPEJooM3e1vUXn6rXLSpz51y/kmVp7b4l+qyeiw==;DSLWIj+2RcjaWOrVXM4L/w=="
 ---
 

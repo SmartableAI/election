@@ -1626,6 +1626,31 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 120
+  - title: "As final weekend looms, Trump and Biden to barnstorm across Midwest"
+    excerpt: "Ahead of the final weekend before Election Day on Tuesday, President Donald Trump and Democratic challenger Joe Biden will barnstorm across battleground states in the Midwest, including Wisconsin, where the coronavirus pandemic has exploded anew."
+    publishedDateTime: 2020-10-30T06:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSL1N2HL02H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HL02H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HL02H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+  - title: "Biden hits Trump on COVID, climate change in Tampa"
+    excerpt: "Democratic presidential nominee Joe Biden hit President Donald Trump on his handling of the coronavirus pandemic, as well as climate change, in a speech that was cut short by a heavy rain in Tampa, Fla."
+    publishedDateTime: 2020-10-30T02:13:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/30/biden-hits-trump-covid-climate-change-tampa/6080441002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d959bee-45fd-4509-adf5-1ea8883d8273_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The Latest: Biden in Florida, which went for Trump in 2016"
     excerpt: "WASHINGTON (AP) — The Latest on the (all times local):"
     publishedDateTime: 2020-10-29T19:05:00Z
@@ -2141,6 +2166,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 85
+  - title: "Election 2020 Today: Biden in Iowa, Trump Packs in Thousands"
+    excerpt: "When Joe Biden was last in Iowa, his presidential campaign was on the verge of collapse and he was soundly trounced in the caucuses."
+    publishedDateTime: 2020-10-30T11:54:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-30/election-2020-today-biden-in-iowa-trump-packs-in-thousands"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-30/election-2020-today-biden-in-iowa-trump-packs-in-thousands?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-30/election-2020-today-biden-in-iowa-trump-packs-in-thousands?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 85
   - title: "Joe Biden TRIPLES His Wisconsin Lead Over Trump in ABC News/Washington Post Survey"
     excerpt: "Former Vice President Joe Biden has tripled his lead over President Donald Trump in Wisconsin since September, according to the latest ABC News/Washington Post poll."
     publishedDateTime: 2020-10-28T14:47:00Z
@@ -2220,6 +2256,22 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Joe Biden, Mike Pence to campaign in Iowa this week, underscoring competitive presidential race"
+    excerpt: "Republican Vice President Mike Pence and Democratic former Vice President Joe Biden will campaign in Iowa this week, underscoring how competitive the state has become in the closing days of the 2020 presidential race. Pence will hold a \"Make America ..."
+    publishedDateTime: 2020-10-29T04:28:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/10/27/why-joe-biden-and-mike-pence-traveling-iowa-campaigns-think-iowa-winnable-but-not-yet-won/6046269002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6046269002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6046269002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 78
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3417,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump - Biden Debate: Experts, Twitter Users React To Key Moments Of Final Presidential Showdown"
     excerpt: "President Donald Trump and Democratic nominee Joe Biden squared off Thursday in the final presidential debate. The much-anticipated event was held at Belmont University in Nashville, Tennessee, with the highly contentious election just 12 days away and with over 35 million having already voted."

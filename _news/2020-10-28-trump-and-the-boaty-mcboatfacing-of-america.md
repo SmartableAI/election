@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lil Wayne met with Trump and praised the President's plan for Black Americans"
+    excerpt: "Rapper Lil Wayne met with President Donald Trump to discuss the President's plan for Black Americans -- and apparently liked what he heard.\n    \n"
+    publishedDateTime: 2020-10-30T14:04:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lOt6ZitcBDY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/lil-wayne-trump-meeting-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/lil-wayne-trump-meeting-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030071301-restricted-donald-trump-lil-wayne-1029-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump is taking credit for the 'biggest and best' GDP  in American history. Here are the facts"
     excerpt: "The US government just published an eye-popping report: Gross domestic product, the broadest measure of the country's economic growth, grew at a stunning 33.1% annual rate in the third quarter.\n    \n"
     publishedDateTime: 2020-10-29T15:18:35Z
