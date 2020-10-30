@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump relying on government officials in final campaign stretch"
+    excerpt: "As President Donald Trump makes a hurried final push for reelection, he is relying not only on his campaign staff but on government officials to transmit his message to voters, a breach of longstanding norms that have mostly been erased over his four-year tenure.\n    \n"
+    publishedDateTime: 2020-10-29T23:44:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FRCfVv-OCkQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/donald-trump-government-officials-hatch-act/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/donald-trump-government-officials-hatch-act/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029112154-trump-michigan-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump reignites climate fight in visit to fire-ravaged West Coast"
     excerpt: "For weeks, President Donald Trump was largely silent on the wildfires that have charred more than 3.3 million acres in California, triggered Oregon officials to prepare for a potential \"mass fatality incident,\" and created apocalyptic orange skies and clouds raining ash that have drifted across cities"
     publishedDateTime: 2020-09-14T21:06:08Z

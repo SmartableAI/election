@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-campaigns-
 cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.amp.html"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence Campaigns in Mosinee"
-    excerpt: "Vice President Mike Pence made a campaign stop at the Central Airport in Mosinee on Wednesday. The stop is just one of several in Badger State for the Trump administration this week alone. About 150 people attended the rally."
-    publishedDateTime: 2020-10-29T01:09:00Z
-    webUrl: "https://waow.com/2020/10/28/vice-president-mike-pence-campaigns-in-mosinee/"
-    type: article
-    provider:
-      name: WAOW
-      domain: waow.com
-    quality: 55
-    images:
-      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/9/2020/10/pence.jpg"
-        width: 505
-        height: 317
-        isCached: true
   - title: "WATCH: Vice President Mike Pence campaigns in the Upstate"
     excerpt: "Vice President Mike Pence was campaigning in the Upstate on Tuesday afternoon. Pence held a rally at Donaldson Jet Center in Greenville. Officials said a little more than 2,000 people attended the event held in a hangar."
     publishedDateTime: 2020-10-28T19:54:00Z

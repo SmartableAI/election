@@ -1743,6 +1743,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump, Biden dueling town halls gave voters a different view of the candidates"
+    excerpt: "The dueling town halls featuring President Donald Trump and his Democratic rival Joe Biden could hardly have been more different. The 60-minute NBC forum in Miami with Trump was highly combative ..."
+    publishedDateTime: 2020-10-15T22:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/town-halls-trump-biden-separate-event-following-canceled-debate/3669213001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3669213001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3669213001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/777bacd6-231b-4a58-b342-92d7ae4e18a1-AFP_AFP_8T833W.jpg?auto=webp&crop=3199,1799,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Republican senator repeatedly mispronounces Kamala Harris' name at Trump rally"
     excerpt: "As Perdue ended his remarks at the event, he referred to Harris as \"KAH'-mah-lah? Kah-MAH'-lah? Kamala-mala-mala? I don't know. Whatever.\""
     publishedDateTime: 2020-10-17T20:50:00Z
@@ -3877,9 +3893,9 @@ related:
         height: 700
         isCached: true
   - title: "It's not easy being the first but for Kamala Harris it has become a habit"
-    excerpt: "Facebook Twitter Pinterest This January 1970 photo provided by the Kamala Harris campaign shows her, left, with her sister, Maya, and mother, Shyamala, outside their apartment in Berkeley ..."
-    publishedDateTime: 2020-10-14T08:52:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender"
+    excerpt: "This January 1970 photo provided by the Kamala Harris campaign shows her, left, with her sister, Maya, and mother, Shyamala, outside their apartment in Berkeley, California, after her parents ..."
+    publishedDateTime: 2020-10-14T06:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender?ref=hvper.com"
     type: article
     provider:
       name: The Guardian

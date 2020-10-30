@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.desmoinesregister.com/amp/6062552002"
 cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6062552002"
 type: article
 quality: 89
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Photos: Vice President Mike Pence Rally in Des Moines"
+    excerpt: "Vice President Mike Pence held a rally at the Des Moines International Airport to encourage voters to the polls with five days before the election. Vice President Pence talked about topics including religion,"
+    publishedDateTime: 2020-10-29T22:53:00Z
+    webUrl: "https://dailyiowan.com/2020/10/29/photos-vice-president-mike-pence-rally-in-des-moines/"
+    type: article
+    provider:
+      name: Univeristy of Iowa Daily Iowan
+      domain: dailyiowan.com
+    quality: 55
+    images:
+      - url: "https://dailyiowan.com/wp-content/uploads/2020/10/102920-Pence-KG018-900x600.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Mike Pence pledges manufacturing jobs and minority support during campaign rally in Flint"
     excerpt: "“This election is a choice between a Trump recovery and a Biden depression,\" Vice President Mike Pence said. Vice President Mike Pence was in Flint Wednesday night for a ‘Make America Great Again Victory Rally’ at Flint’s Bishop International Airpor"
     publishedDateTime: 2020-10-29T05:46:00Z
@@ -84,6 +98,6 @@ related:
         height: 547
         isCached: true
 
-secured: "TcDtx5q2q/Y6UnnY4LrBk0lcZqZ+kiUWWrZBEcEp0r3Uhb+VF65DF2lMCjrhhzSug6pLx8UxYehE909WC4Zxz6dk7/0DbtH1oBzSLq57UseGhIRKe3zWIJxP/G1XUQVS6WdWjOUihqvfaMC/n92JoZ6q3XKTZ0B+hALk/oU4JPYtKfrHVg62Swuv1qVWSHzD9aHRyXfP9uYBJHC3cs6LpEZQfp3cOZTyiHidu2plZU4Tocp06jJ+dhKPMV3CVenU7lGcpg36rSEvPUu9nWf5rlczFYxAGL+njZLdCelKDo7/+aQXZz2VigtTkk4Q1Kq+bvt0Zf8iSNrtHnYgz8308mWmUiDOX05hvcvxT01YQR8=;p14CMVbIIp0xsxKi5lw3SA=="
+secured: "wjTVzhzhbfoW195YjfCbbnJlr/fQqA1kpYRQlyduR94Zn1I7v2Pd/rVpe383Kn2EP+G26T0WnJF8sI5VAlwt5idHV0mhFBoALVhYKkpYn0L6ukg5bXqwhcg9cmncNHzPLwW+xTYddgC1i2zEO5JvCc9WiiwPoD2sQLVya+ZML0y5Zc/Y7KgV+vs2Ib8IkoP0KoucnN7baDPHQvuczagrGrNUXq0tjNlML8IuO0LKHfePvGNC8+2MtkSOrrzrpeLq+qMeQ7SBKq7zQ/ORgSojnBe1eYwPH7aHYWB0mMIm31KofOFvnLzKZSR/ADdgmgrx7rT6+4godcBm4iQQ3ZXTX5TJRP4+k4s4H1y4KW30uPvOdQKfoIKdLcFa9r3dQXcbmSwG7O9vV+mTit5RuNun4NTdTguompAgeJ71n7vV716dqTMyjl7MffMzrz+ylDTS83/Ps3M40A0rgfAEOpgO4KT54Hj0D7yd1ixrC1oTug/drA/9lmCYVGATAgZhfQC8XWYSJmfxT148VujDZM6e1A==;xkagBvQFbyNtKpDF+brwYA=="
 ---
 

@@ -115,6 +115,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Schumer calls Trump 'a moron' over coronavirus response"
+    excerpt: "Senate Minority Leader Charles Schumer (D-N.Y.) on Thursday said the federal government is failing to react appropriately to surging coronavirus cases around the country because President Trump is “a moron."
+    publishedDateTime: 2020-10-30T00:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show"
+    ampWebUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/schumercharles_102620gn5_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "210,000 deaths later, Trump reverts to comparing the coronavirus to the flu"
     excerpt: "They thought about it when the toll of covid-19, the disease caused by the coronavirus, passed 27,000 deaths on Apri"
     publishedDateTime: 2020-10-06T19:03:00Z
@@ -376,6 +392,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Vice President Mike Pence in Iowa to rally support for Trump, Ernst"
+    excerpt: "DES MOINES — Mike Pence and Joni Ernst stood on stage together and waved to the adoring crowd, two elected officials who find their respective re-election bids in real danger of losing in Iowa ..."
+    publishedDateTime: 2020-10-29T22:19:00Z
+    webUrl: "https://qctimes.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-in-iowa-to-rally-support-for-trump-ernst/article_cbccdf63-abd3-5f00-aa53-10f3c23a7d4d.html"
+    ampWebUrl: "https://qctimes.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-in-iowa-to-rally-support-for-trump-ernst/article_cbccdf63-abd3-5f00-aa53-10f3c23a7d4d.amp.html"
+    cdnAmpWebUrl: "https://qctimes-com.cdn.ampproject.org/c/s/qctimes.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-in-iowa-to-rally-support-for-trump-ernst/article_cbccdf63-abd3-5f00-aa53-10f3c23a7d4d.amp.html"
+    type: article
+    provider:
+      name: Quad-City Times
+      domain: qctimes.com
+    quality: 90
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/62/6627b57c-d6bc-53d5-bdbd-d41ae599d8ab/5f9b3d433bf67.image.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally"
     excerpt: "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ..."
     publishedDateTime: 2020-10-21T19:58:00Z
@@ -565,6 +597,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/28/us-president-donald-trump-campaigns-in-arizona-promising.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Vice President Mike Pence holds campaign rally in Des Moines"
+    excerpt: "DES MOINES, Iowa — With just five days until Election Day, Vice President Mike Pence was back in Iowa campaigning for President Donald Trump to win reelection. He urged the importance of voting 'red' on the entire ballot, not just for the presidency."
+    publishedDateTime: 2020-10-29T22:56:00Z
+    webUrl: "https://www.wqad.com/article/news/local/vice-president-mike-pence-des-moines-iowa-make-america-great-again-rally-october-29-2020/524-33fb5753-761e-48f3-91e5-e8196a27f120"
+    ampWebUrl: "https://www.wqad.com/amp/article/news/local/vice-president-mike-pence-des-moines-iowa-make-america-great-again-rally-october-29-2020/524-33fb5753-761e-48f3-91e5-e8196a27f120"
+    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/local/vice-president-mike-pence-des-moines-iowa-make-america-great-again-rally-october-29-2020/524-33fb5753-761e-48f3-91e5-e8196a27f120"
+    type: article
+    provider:
+      name: WQAD
+      domain: wqad.com
+    quality: 75
+    images:
+      - url: "https://media.tegna-media.com/assets/WOI/images/60a0ae56-3180-459a-b665-7bf4018c62c7/60a0ae56-3180-459a-b665-7bf4018c62c7_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Mike Pence's chief of staff, top adviser both test positive for coronavirus"
     excerpt: "Sources tell ABC News, Marc Short, Chief of Staff to the Vice President Mike Pence has tested positive for COVID-19. And top adviser Marty Obst has also tested positive for coronavirus earlier ..."
@@ -767,6 +815,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Vice President Mike Pence campaigns in Mosinee"
+    excerpt: "Vice President Mike Pence campaigned in Mosinee Wednesday at the Central Wisconsin Airport. His visit comes a day after President Trump held a rally in West Salem. The Vice President spoke to voters about health care, jobs, and the economy. He said that ..."
+    publishedDateTime: 2020-10-29T00:00:00Z
+    webUrl: "https://wkow.com/2020/10/28/vice-president-mike-pence-campaigns-in-mosinee/"
+    type: article
+    provider:
+      name: WKOW
+      domain: wkow.com
+    quality: 55
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/8/2020/10/pence-mosinee.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Vice President Mike Pence heads to Iron Range despite outbreak among his staff"
     excerpt: "A brisk wind blew across the runway hours ahead of Vice President Mike Pence’s campaign visit to the Range Regional Airport here Monday. About 250 chairs were spaced out as attendees slowly filed in after many waited in their cars,"
     publishedDateTime: 2020-10-26T20:44:00Z

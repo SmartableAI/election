@@ -320,6 +320,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump relying on government officials in final campaign stretch"
+    excerpt: "As President Donald Trump makes a hurried final push for reelection, he is relying not only on his campaign staff but on government officials to transmit his message to voters, a breach of longstanding norms that have mostly been erased over his four-year tenure.\n    \n"
+    publishedDateTime: 2020-10-29T23:44:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FRCfVv-OCkQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/donald-trump-government-officials-hatch-act/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/donald-trump-government-officials-hatch-act/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029112154-trump-michigan-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "With Senate at risk, Trump focuses on himself"
     excerpt: "After President Donald Trump took the controversial step of commuting the jail sentence of his longtime friend Roger Stone, Sen. Susan Collins was again stuck between the leader of her party and the Trump-aligned voters she needs to win a tough reelection.\n    \n"
     publishedDateTime: 2020-10-29T21:19:02Z

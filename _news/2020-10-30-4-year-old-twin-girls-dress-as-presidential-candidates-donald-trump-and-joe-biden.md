@@ -8,7 +8,7 @@ webUrl: "https://abcnews.go.com/GMA/Family/year-twin-girls-dress-presidential-ca
 ampWebUrl: "https://goodmorningamerica.com/amp/family/story/year-twin-girls-dress-presidential-candidates-donald-trump-73907949"
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/family/story/year-twin-girls-dress-presidential-candidates-donald-trump-73907949"
 type: article
-quality: 135
+quality: 145
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://s.abcnews.com/images/GMA/twins-halloween-trump-biden-ht-MAIN-np-201029_1603998896443_hpMain_16x9_992.jpg"
@@ -5226,6 +5227,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "JxIQWigJWp5bCMLb+EERX0im3Ng911GcKkVwoklxi15oNkvKiXNJiR+D+rFVQHgAgsnnhF+FII8ryjs0HK8+VyweaYqAMPzhJa9JRoXp1Hkkafh5/mecsczdZm3v/MT1KT5K4oV528BnlVB9bWvORSTAIGTW9No7Y9gaEBqTR6KNydE1LoqAof63rY6NtjyaWRVsUahS1lmsbMnWHnleOY7oU3iVQH15GYW6ZudSeE9RVpjSKYY4Rx/RnaVfWiqjPfcSqgEwHQQ/7hQa5CyxNraQ0a5hmOJ2xHfbP6qqBbRoELjtInx+zyjXcAFVUsopnHffVsTZHrcFFILVeoUupH94Lar9qaL8zq7jJ7A222M=;4Og02RnatbYmW9AuGLOoig=="
+secured: "Y7j6H5cFn/hU+rDamQCWoKRBLVmUt2ft9ZZGKCFFCzF/l7H5WWBJMSe99SWhNRVj/ZAuGZPYnth69S55bxj5LQTYeTZgmDIQnAKMhAHak+1biFsFw3T5+KyWOi20jqXnVgSZDp+M7w7sykKgKUJYrCeqP4ubrelk9qXmFG6i9pNbLwqgibf/ddN+AJddcAq1NT1+k8QZedEx0LTmK/0u3tiDiqMcc0kc4u0fsdXrA7/WsPoomZIV0phKcK/YNM6kqXz/SRBf0K8b8Bg1WTCzrrCnjDm0VVDz31BHW4quaLqbrEwjOeJzbVoL+JDhQjc2bMQebt2xwnb2XIDIn0kcEYfeJRsA4OwQfS1Fv86YL4yR5RZ1qArFJZU+qBbADf2QoCqUiaE913QVlrU5V8l/nL7wa3oEjIhKMUIoD/Q2HxZSGRd16DHGkBTEtXUhHPczWw21HuvhJmN6DcLPdIL3gGlRal0R02hajg8fH57WUlA1AU1pMcafA+MiiTvVxyGBfmXMQapqKeFeFlpTOKgIyQ==;NlYSRFBoYFH0YS7yHpYq0w=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "It's not easy being the first but for Kamala Harris it has become a habit"
-excerpt: "Facebook Twitter Pinterest This January 1970 photo provided by the Kamala Harris campaign shows her, left, with her sister, Maya, and mother, Shyamala, outside their apartment in Berkeley ..."
-publishedDateTime: 2020-10-14T08:52:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender"
-webUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender"
+excerpt: "This January 1970 photo provided by the Kamala Harris campaign shows her, left, with her sister, Maya, and mother, Shyamala, outside their apartment in Berkeley, California, after her parents ..."
+publishedDateTime: 2020-10-14T06:54:00Z
+originalUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender?ref=hvper.com"
+webUrl: "https://www.theguardian.com/us-news/2020/oct/14/kamala-harris-democrats-vice-president-race-gender?ref=hvper.com"
 type: article
 quality: 104
 heat: -1
@@ -1738,6 +1738,22 @@ related:
     quality: 136
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump, Biden dueling town halls gave voters a different view of the candidates"
+    excerpt: "The dueling town halls featuring President Donald Trump and his Democratic rival Joe Biden could hardly have been more different. The 60-minute NBC forum in Miami with Trump was highly combative ..."
+    publishedDateTime: 2020-10-15T22:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/town-halls-trump-biden-separate-event-following-canceled-debate/3669213001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3669213001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3669213001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/777bacd6-231b-4a58-b342-92d7ae4e18a1-AFP_AFP_8T833W.jpg?auto=webp&crop=3199,1799,x1,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -8057,6 +8073,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "AkinQ8WNqeWBepj3fuSRJEsiPsZBPqhUASoVt71aDRv/aDFqw8V/Ir6+hFZwgxN+7Lmk4DOQfQpKUUBARTVD/2ZD+uAjE3PFo4uhCHbP2CPiJ3CoozBDe0f7gQaQIBeTu5v1CCfkdfDs3Di6wRxNYZe3CSr5En25pwuio9AmDy/NFHvmZWcuHZ4MkL1qk1c2SEfx5Lu0ecfBUhvNyA7JeFgJzVDxYp7Avx2QX64btsvPwLIkC0qRqXYkigWiCXpmGGUg4n003acxs8jkKxu7qd6IzYrkriV4P0cox5JmhGcWmYHIva5aSGv+SUI9S52NZfDjCgcIaFFcZaF3UdtKZRzw5fYNxJDeCGWg/6Dl2dU=;c/9GTGqbK1yUP/8MXeFnog=="
+secured: "YVAE/A/jpK7FMNQ1i4B1ofCdSBSlbtY1exAEIiCv+WdaGE0N3FD8K5EwaLF2J3K1WMDJuPOmatdm2zYzyftsd+eI2oMlKTIPu5XgUKhTm9g2CGdp+nfOOfi9n76DLvYuoVgMtEGhw99bVrBIswjvyBRGaesFUSWfnQ1lTMlLMhBDioB7pIGrdR091mpcidJc2L+VcKZsBOjgkTwDVdfS/svXbfCZBA/eHxAyZOPw21DlwgAp48Bsrj0Z4pfocIcj1dX5mMWUApBL9QJ3Ug0t8hQsz9GVbSYLe+HkyxzCD6eN3rvBhaC+zSh2KxqixFvHYGxxTg/IGtkzi1ZKxKlipba4FZs8d3B2U7otolulYJg=;KT/c0opYxY2Iuxm2VWNJCQ=="
 ---
 

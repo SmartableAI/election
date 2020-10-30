@@ -111,8 +111,8 @@ related:
         isCached: true
   - title: "Banners and prayers for Kamala Harris in her ancestral Indian village"
     excerpt: "A big banner of U.S. vice presidential candidate Kamala Harris welcomes visitors to Thulasendrapuram, a lush, green south Indian village that is praying for her Democratic Party's victory in the Nov."
-    publishedDateTime: 2020-10-27T08:36:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-harris-india-idUSKBN27C0VJ"
+    publishedDateTime: 2020-10-27T12:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-harris-india/banners-and-prayers-for-kamala-harris-in-her-ancestral-indian-village-idUSKBN27C0V7"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0VJ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0VJ"
     type: article
@@ -219,21 +219,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Harris target of more misinformation than Pence, data shows"
-    excerpt: "Long before Democratic presidential nominee Joe Biden announced her as his running mate, Kamala Harris was the target of widespread online misinformation. Social media posts included racist claims that she was ineligible to serve in the White House or that she was lying about her Black and Indian heritage."
-    publishedDateTime: 2020-10-29T21:25:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Harris-target-of-more-misinformation-than-Pence-15686458.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/Harris-target-of-more-misinformation-than-Pence-15686458.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Harris-target-of-more-misinformation-than-Pence-15686458.php"
+  - title: "More misinformation directed at Harris than Pence"
+    excerpt: "Since being named to the presidential ticket, Harris has been at the center of online misinformation campaigns far more often — four times as much — than the white men who campaigned for the same"
+    publishedDateTime: 2020-10-29T23:24:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/29/more-misinformation-directed-at-harris-than-pence/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/29/more-misinformation-directed-at-harris-than-pence/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/29/more-misinformation-directed-at-harris-than-pence/amp/"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 100
     images:
-      - url: "https://s.hdnux.com/photos/01/14/77/36/20182943/3/375x250.jpg"
-        width: 375
-        height: 249
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-20-Debate_77097129.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "California’s Democratic base to Newsom: Pick a filibuster foe to replace Kamala Harris if she wins"
     excerpt: "California progressive and labor leaders have a demand of Gov. Gavin Newsom should Sen. Kamala Harris be elected vice president: Pick a replacement who will help get rid of the Senate filibuster to improve Democrats’ chances of passing bills."
@@ -360,6 +360,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/be09d52d-94af-4df5-a2c3-f74c5433144e-USATSI_15031289.jpg?auto=webp&crop=1999,1124,x0,y33&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Harris Target of More Misinformation Than Pence, Data Shows"
+    excerpt: "Long before Democratic presidential nominee Joe Biden announced her as his running mate, Kamala Harris was the target of widespread online misinformation."
+    publishedDateTime: 2020-10-29T23:06:00Z
+    webUrl: "https://www.snopes.com/ap/2020/10/29/harris-target-of-more-misinformation-than-pence-data-shows/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 80
+    images:
+      - url: "https://www.snopes.com/tachyon/2020/10/Election_2020_Harris_59857-733x412.jpg"
+        width: 733
+        height: 412
         isCached: true
   - title: "VP Mike Pence in Fort Wayne, Sen. Kamala Harris in virtual event Thursday"
     excerpt: "Pence on Thursday night arrived at Indianapolis International Airport in preparation for voting Friday morning at the City-County Building in Indianapolis."
@@ -677,6 +691,22 @@ related:
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"
         width: 1280
+        height: 720
+        isCached: true
+  - title: "Gavin Newsom jokes about picking Kamala Harris’ successor as he votes in Sacramento"
+    excerpt: "Gavin Newsom says Sacramento Kings player Harrison Barnes is just about the only person he’s talked with recently who hasn’t tried to influence his pick to replace Kamala Harris in the Senate if she’s elected vice president."
+    publishedDateTime: 2020-10-29T22:55:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/1c42e598-ce8a-45ee-a769-7b8867e423af/f1d679df-e2dd-4c8f-8221-afc8909d5148/1280x720/match/image.jpg"
+        width: 1276
         height: 720
         isCached: true
   - title: "‘These are not typical times’: In rare move, Seattle Storm endorses Joe Biden and Kamala Harris"

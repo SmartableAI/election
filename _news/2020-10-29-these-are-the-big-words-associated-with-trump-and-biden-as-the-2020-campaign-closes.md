@@ -351,6 +351,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump continues to use a misleading video to claim Biden is not fit for office "
+    excerpt: "President Donald Trump and his campaign have leaned in heavily on a video that misleadingly suggests Democratic nominee Joe Biden doesn't know who he is running against.\n    \n"
+    publishedDateTime: 2020-10-29T23:27:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8fLEn6JbRcA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/trump-biden-misleading-video-george-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/trump-biden-misleading-video-george-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029164424-01-trump-florida-1029-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden draws contrast with Trump on coronavirus as pandemic worsens in campaign's final days "
     excerpt: "Democratic presidential nominee Joe Biden sought Wednesday to make the differences in how he and President Donald Trump have approached the coronavirus pandemic a part of his closing message, sitting for a briefing with health experts and addressing the crisis as Trump campaigned out West as if it was"
     publishedDateTime: 2020-10-28T20:00:47Z
@@ -1384,6 +1400,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/10/28/opinion/28beinart-01/28beinart-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Donald Trump Made Them Furious, and Organized. Now Is the Big Test."
+    excerpt: "For a group of women in western Pennsylvania, 2016 was a shock and a reason to get politically involved for the first time. “Forget about taking no for an answer, they’re not even asking for permission."
+    publishedDateTime: 2020-10-29T20:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/28/us/politics/women-voters-biden-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/28/us/politics/women-voters-biden-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/28/us/politics/women-voters-biden-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/29/us/politics/29PA-women1/00PA-women1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

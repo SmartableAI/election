@@ -240,6 +240,38 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Justice Barrett May Inspire Pro-Life Votes for Trump"
+    excerpt: "Suburban women and religious voters like his judicial appointments, even if his character makes them leery of a second term."
+    publishedDateTime: 2020-10-29T23:00:00Z
+    webUrl: "https://www.wsj.com/articles/justice-barrett-may-inspire-pro-life-votes-for-trump-11604011835"
+    ampWebUrl: "https://www.wsj.com/amp/articles/justice-barrett-may-inspire-pro-life-votes-for-trump-11604011835"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/justice-barrett-may-inspire-pro-life-votes-for-trump-11604011835"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-251976/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "The Pollster Who Thinks Trump Will Win"
+    excerpt: "Robert Cahaly foresaw the outcome in 2016. Will ‘social acceptability bias’ deliver another surprise?"
+    publishedDateTime: 2020-10-29T23:27:00Z
+    webUrl: "https://www.wsj.com/articles/the-pollster-who-thinks-trump-will-win-11604011863?mod=opinion_lead_pos5"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-251925/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "In Trump Country, Supporters Are Steadfast, but His Personality, Pandemic Wear"
     excerpt: "Virginia’s Buchanan County went big for President Trump in 2016 and is expected to give him another win this year, but even his supporters feel some Trump fatigue after four years of controversy and a pandemic."
     publishedDateTime: 2020-10-27T12:18:00Z

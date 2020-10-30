@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-says-biden-harris-should-stop
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp"
 type: article
 quality: 223
-heat: 563
+heat: 583
 published: true
 
 provider:
@@ -128,6 +128,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/600f2c8e-4145-4869-b692-bda1beee0577/3edf21f2-94b7-4936-8ade-adcf5f57fd92/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden’s Covid Fairy Tale"
+    excerpt: "His plan seems to be to wait until a magical sprite waves her wand and makes the virus vanish in a poof."
+    publishedDateTime: 2020-10-29T23:20:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-covid-fairy-tale-11604011900"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-covid-fairy-tale-11604011900"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-covid-fairy-tale-11604011900"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-251272/social"
+        width: 1279
+        height: 640
         isCached: true
   - title: "Kamala Harris bursts out laughing when asked if she has socialist perspective"
     excerpt: "Calif., burst out laughing when asked during an interview Sunday if she would advocate for a “socialist or progressive perspective” if elected."

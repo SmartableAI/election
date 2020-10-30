@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Harris target of more misinformation than Pence, data shows"
-excerpt: "Long before Democratic presidential nominee Joe Biden announced her as his running mate, Kamala Harris was the target of widespread online misinformation. Social media posts included racist claims that she was ineligible to serve in the White House or that she was lying about her Black and Indian heritage."
-publishedDateTime: 2020-10-29T21:25:00Z
-originalUrl: "https://www.sfchronicle.com/news/article/Harris-target-of-more-misinformation-than-Pence-15686458.php"
-webUrl: "https://www.sfchronicle.com/news/article/Harris-target-of-more-misinformation-than-Pence-15686458.php"
-ampWebUrl: "https://www.sfchronicle.com/news/amp/Harris-target-of-more-misinformation-than-Pence-15686458.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Harris-target-of-more-misinformation-than-Pence-15686458.php"
+title: "Harris Target of More Misinformation Than Pence, Data Shows"
+excerpt: "Long before Democratic presidential nominee Joe Biden announced her as his running mate, Kamala Harris was the target of widespread online misinformation."
+publishedDateTime: 2020-10-29T23:06:00Z
+originalUrl: "https://www.snopes.com/ap/2020/10/29/harris-target-of-more-misinformation-than-pence-data-shows/"
+webUrl: "https://www.snopes.com/ap/2020/10/29/harris-target-of-more-misinformation-than-pence-data-shows/"
 type: article
-quality: 100
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Snopes.com
+  domain: snopes.com
 
 topics:
   - Election
@@ -22,9 +20,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/14/77/36/20182943/3/375x250.jpg"
-    width: 375
-    height: 249
+  - url: "https://www.snopes.com/tachyon/2020/10/Election_2020_Harris_59857-733x412.jpg"
+    width: 733
+    height: 412
     isCached: true
 
 related:
@@ -110,8 +108,8 @@ related:
         isCached: true
   - title: "Banners and prayers for Kamala Harris in her ancestral Indian village"
     excerpt: "A big banner of U.S. vice presidential candidate Kamala Harris welcomes visitors to Thulasendrapuram, a lush, green south Indian village that is praying for her Democratic Party's victory in the Nov."
-    publishedDateTime: 2020-10-27T08:36:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-harris-india-idUSKBN27C0VJ"
+    publishedDateTime: 2020-10-27T12:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-harris-india/banners-and-prayers-for-kamala-harris-in-her-ancestral-indian-village-idUSKBN27C0V7"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0VJ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0VJ"
     type: article
@@ -217,6 +215,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/cc0ed281-5adb-4618-9ee5-604969d0c8ad/thumbnail/1200x630/fa39c5b4e5cc5d77afb0abb53f77ec75/1026-en-norah-575001-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "More misinformation directed at Harris than Pence"
+    excerpt: "Since being named to the presidential ticket, Harris has been at the center of online misinformation campaigns far more often — four times as much — than the white men who campaigned for the same"
+    publishedDateTime: 2020-10-29T23:24:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/29/more-misinformation-directed-at-harris-than-pence/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/29/more-misinformation-directed-at-harris-than-pence/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/29/more-misinformation-directed-at-harris-than-pence/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 100
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-20-Debate_77097129.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Democrats of color rally around Kamala Harris amid racial microaggressions, political attacks"
     excerpt: "Kamala Harris' path on the campaign trail has been filled with discrimination, as she is the first Black and Indian Democratic vice presidential nominee, and a woman."
@@ -676,6 +690,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gavin Newsom jokes about picking Kamala Harris’ successor as he votes in Sacramento"
+    excerpt: "Gavin Newsom says Sacramento Kings player Harrison Barnes is just about the only person he’s talked with recently who hasn’t tried to influence his pick to replace Kamala Harris in the Senate if she’s elected vice president."
+    publishedDateTime: 2020-10-29T22:55:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/1c42e598-ce8a-45ee-a769-7b8867e423af/f1d679df-e2dd-4c8f-8221-afc8909d5148/1280x720/match/image.jpg"
+        width: 1276
+        height: 720
+        isCached: true
   - title: "‘These are not typical times’: In rare move, Seattle Storm endorses Joe Biden and Kamala Harris"
     excerpt: "In a move rarely seen by professional sports teams, the Seattle Storm voiced its support for the 2020 Democratic ticket of Joe Biden and Kamala Harris on Wednesday."
     publishedDateTime: 2020-10-21T23:29:00Z
@@ -979,6 +1009,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "CHh6nGZcP1MMyJSkzUuXhJ+TaNDcwemQjr3JwPS8OlEw7Yamx6C5NS41piM3B+TP2XqguG81eOVCjufcYCakevZ381/2hczN3YGvv0pUvcAGhGX1Oga6Qr/0XQ0ShXlfukurAif4ZTLYZhgY3lGJoXWGAGoH7Oht5i/fJp92ixl1G4TWO9RHF2iRLFylGlP9ovVSKfV5WNKioXbuX6SN90mD+Y0CyjdlnQtfCUhyjYgMyQkZkrkb3rupmnZTWxbBUPur+4n+FMJyQHyiLsUsWLy5G9Kpx/RU0KSHX7N1fIvBws8r/aoT6MvQ0SJVPzEmZ4DZrIbWesgD+VwUY9bsO0C/gNmP64GnvLipAN+IXhM=;d0lPkRkIb5SRloAWBm0Ujw=="
+secured: "fsdo25DIqAnbrzjfQbLEYNsd5qYikse6upYYQocucP5dsJKrDC9lT+aUHUZNGtjRP5L+3i1yTkTYl6tu6GjsNpUBi9yiMQ0lUZALB7cFUwkujtgcE+iihmkPM6AhTyYoldi44hlwrMDWXTJod7C0YRVydEZ0fF0LuAmGDmtAiS9scm6yssX3eHRFY07g32JMfjEOxSTDBB63VTZFRzTJMbHHYRpUCCA+9gnZzjzz+hbh44huifPKUPXOOXMHbR+4gMQShFEQF/4St2FBWIoSMBqVmepdkSv6x7ii6DP6VLRgvBKQbShWV0dfqiYLJ/TheIkLVTD7XYbgbW1Y82CUwyoWgKlaZsnDmVqPBs+z3GM=;nCDMCXinq3bF8Jaxj0PVZQ=="
 ---
 

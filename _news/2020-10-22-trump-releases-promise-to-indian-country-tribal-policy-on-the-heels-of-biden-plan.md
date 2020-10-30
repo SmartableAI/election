@@ -847,6 +847,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Trump Recruits Ex-Cops to Watch Polls In Minnesota Where Biden Leads By 8 Points"
+    excerpt: "\"We just want people who won't be afraid in rough neighborhoods or intimidating situations,\" the Trump campaign email said."
+    publishedDateTime: 2020-10-29T23:36:00Z
+    webUrl: "https://www.newsweek.com/trump-recruits-ex-cops-watch-polls-minnesota-where-biden-leads-8-points-1543358"
+    ampWebUrl: "https://www.newsweek.com/trump-recruits-ex-cops-watch-polls-minnesota-where-biden-leads-8-points-1543358?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-recruits-ex-cops-watch-polls-minnesota-where-biden-leads-8-points-1543358?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1661545/trump-campaign-retired-police-poll-watchers-minnesota.jpg"
+        width: 3680
+        height: 2474
+        isCached: true
   - title: "The Cybersecurity 202: Biden condemned election interference while Trump continued to mislead during final debate"
     excerpt: "Joe Biden drew a firm line on Russian election interference during the final presidential debate, while President Trump continued to misstate and mislead about that threat. Support our journalism. Subscribe today."
     publishedDateTime: 2020-10-23T11:44:00Z
@@ -2225,6 +2241,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OS3DKJ3AAJERDOVOB74RHT6NGI.JPG"
         width: 7216
         height: 4813
+        isCached: true
+  - title: "A fake ‘intelligence staffer’ crafted the groundwork for the Trump conspiracy theories about Hunter Biden"
+    excerpt: "It’s unclear why President Donald Trump and his allies have chosen to attack Vice President Joe Biden’s last living son as a key tenant to the 2020 reelection instead of focusing on his opponent himself."
+    publishedDateTime: 2020-10-29T23:17:00Z
+    webUrl: "https://www.rawstory.com/2020/10/a-fake-intelligence-firm-crafted-the-groundwork-for-the-trump-conspiracy-theories-about-hunter-biden/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/a-fake-intelligence-firm-crafted-the-groundwork-for-the-trump-conspiracy-theories-about-hunter-biden/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/a-fake-intelligence-firm-crafted-the-groundwork-for-the-trump-conspiracy-theories-about-hunter-biden/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 73
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/09/Hunter-Biden.jpg"
+        width: 599
+        height: 354
         isCached: true
   - title: "Trump Shifts Focus to Pennsylvania to Shore up Reelection"
     excerpt: "With less than 40 days to go until the election, Pennsylvania is poised to emerge as the most crucial battleground on the map, one President Donald Trump may not be able to be win another term without."

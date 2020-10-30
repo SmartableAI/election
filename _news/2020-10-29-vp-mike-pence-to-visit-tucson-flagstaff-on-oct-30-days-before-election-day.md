@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Photos: Vice President Mike Pence Rally in Des Moines"
+    excerpt: "Vice President Mike Pence held a rally at the Des Moines International Airport to encourage voters to the polls with five days before the election. Vice President Pence talked about topics including religion,"
+    publishedDateTime: 2020-10-29T22:53:00Z
+    webUrl: "https://dailyiowan.com/2020/10/29/photos-vice-president-mike-pence-rally-in-des-moines/"
+    type: article
+    provider:
+      name: Univeristy of Iowa Daily Iowan
+      domain: dailyiowan.com
+    quality: 55
+    images:
+      - url: "https://dailyiowan.com/wp-content/uploads/2020/10/102920-Pence-KG018-900x600.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Mike Pence pledges manufacturing jobs and minority support during campaign rally in Flint"
     excerpt: "“This election is a choice between a Trump recovery and a Biden depression,\" Vice President Mike Pence said. Vice President Mike Pence was in Flint Wednesday night for a ‘Make America Great Again Victory Rally’ at Flint’s Bishop International Airpor"
     publishedDateTime: 2020-10-29T05:46:00Z

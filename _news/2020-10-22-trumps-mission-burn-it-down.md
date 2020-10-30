@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
 type: article
 quality: 175
-heat: 535
+heat: 575
 published: true
 
 provider:
@@ -221,6 +221,38 @@ related:
     images:
       - url: "https://images.wsj.net/im-249650/social"
         width: 1280
+        height: 640
+        isCached: true
+  - title: "Justice Barrett May Inspire Pro-Life Votes for Trump"
+    excerpt: "Suburban women and religious voters like his judicial appointments, even if his character makes them leery of a second term."
+    publishedDateTime: 2020-10-29T23:00:00Z
+    webUrl: "https://www.wsj.com/articles/justice-barrett-may-inspire-pro-life-votes-for-trump-11604011835"
+    ampWebUrl: "https://www.wsj.com/amp/articles/justice-barrett-may-inspire-pro-life-votes-for-trump-11604011835"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/justice-barrett-may-inspire-pro-life-votes-for-trump-11604011835"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-251976/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "The Pollster Who Thinks Trump Will Win"
+    excerpt: "Robert Cahaly foresaw the outcome in 2016. Will ‘social acceptability bias’ deliver another surprise?"
+    publishedDateTime: 2020-10-29T23:27:00Z
+    webUrl: "https://www.wsj.com/articles/the-pollster-who-thinks-trump-will-win-11604011863?mod=opinion_lead_pos5"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-251925/social"
+        width: 1279
         height: 640
         isCached: true
   - title: "Many on Wall Street Who Predicted a Trump Win in 2016 Aren’t So Sure Now"

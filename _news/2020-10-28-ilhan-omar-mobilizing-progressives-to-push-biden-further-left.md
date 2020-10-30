@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden campaign dodges questions about Bobulinski meeting claims, dismisses ‘smear campaign’"
+    excerpt: "The Biden campaign on Thursday again refused to address new allegations about Democratic presidential nominee Joe Biden’s alleged role in his son’s business dealings, dismissing the claims as a “smear campaign.”"
+    publishedDateTime: 2020-10-29T22:07:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gvUZ0Z8dRBo/biden-questions-bobulinski-meeting"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-questions-bobulinski-meeting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-questions-bobulinski-meeting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c7dba56-45b1-4fee-9376-8cceaabcc38e/42bb6143-3aa8-475a-96b8-002346f36c9e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden rips Hunter Biden email leak as 'smear campaign,' says Russia trying to spread disinformation"
     excerpt: "Democratic presidential nominee Joe Biden slammed the recent reports of his son Hunter’s overseas business dealings, calling them a “smear campaign” and arguing that the information is part of a Russian disinformation campaign."
     publishedDateTime: 2020-10-26T02:26:00Z

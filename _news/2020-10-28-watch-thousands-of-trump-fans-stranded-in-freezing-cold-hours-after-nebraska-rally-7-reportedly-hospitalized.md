@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "WATCH LIVE: Trump Holds Rally in Tampa on Thursday"
+    excerpt: "President Donald Trump is scheduled to speak to supporters on Thursday afternoon in Tampa, Florida, before heading to an evening rally in Fayetteville, North Carolina."
+    publishedDateTime: 2020-10-29T22:12:00Z
+    webUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 75
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1272406110-1200x801.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "wioa/7oTMDJ/bLitiZtzJKLSiDYECBM0WAUy48T4CglsUxXHDjtlyBpeVi8s7VeXMpVuqdLBK0S2SlBc4fEmoxcdyqJ1bnk5rydcFJuHTQoslJgXX90HM8NRinrQXppGePKHE93yghWwS/rDhU1bYzCEgsOFYiGW9mEzeEdKehoLVOhChLH575YALfdtwgHqg+6IIa/tUC3vZ+zOOfQdJTsvtQqwoeztx0EBRw51K4IJoG0FwUWg1vM5Af+IbD41jLbEJlSpF8lI6NOuSTfXUVvnK+NIceQGQo99w2BInQTd88L/NfTzycmYrAD/0CoNRLOmYpnv+sM5FnsLJSuk+TwxknesnagpYJu0tFvv1f8=;X6dOd3rEXlcDPqRDcW9BUQ=="
 ---

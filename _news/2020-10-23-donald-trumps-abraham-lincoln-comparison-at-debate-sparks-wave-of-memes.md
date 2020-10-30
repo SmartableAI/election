@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-mem
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1"
 type: article
 quality: 124
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumprally8_06202020_gettyimages.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Rapper Lil Wayne’s Trump Endorsement Sparks Controversy on Twitter"
+    excerpt: "Getty Rapper Lil Wayne shares a photo with Trump and endorses his Platinum Plan on Twitter. Rapper Lil Wayne Just had a great meeting with @realdonaldtrump The 38-year-old “Lollipop” rapper endorsed the Platinum Plan,"
+    publishedDateTime: 2020-10-29T23:18:00Z
+    webUrl: "https://heavy.com/entertainment/lil-wayne-trump-endorsement-twitter/"
+    ampWebUrl: "https://heavy.com/entertainment/lil-wayne-trump-endorsement-twitter/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/lil-wayne-trump-endorsement-twitter/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-89.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
         isCached: true
 
 secured: "hFT3Hg/O9C/c0OyT9f05FaoqpIXxu9hedC1dvy7qrAOAIfXtnzhbXWMx1oEXdVtawTNOxnS6tZ7QNRhvI95eXnfS3FZ3WIjywxY/HB3UEUZxaBgOAWnRjpXuXRntafnsxM2JVHg08cnldG9EAVi/2Jb1NIfO0duIdY8xvkKG6pvrvQX4jmRYdegEevGu0l7jDXgBac4lABzC5JBbfXeFZmz2pYxEOHKhhkS3VybWUASzkAdWhHQNCSBVG40WwkTPKLML1eS4Fseyw5PrHE/5m6voJmcNpi+F1dtK8jprOrx0yDURfA8TO0PHlrFwLCUG5zYcbiqmEQhR4Jujw1KK2N70pOqmj9Z7K8DiLobPFIuN/6+wybBzasiAtbGr0basAiluD8dWswa8xjNyCpi6kTVledy605nOZjXg66JkpSu+ofPsKk37TpumQCbp++zUd5Hqv32jbTDc45Rlu0QliKC+wy+C3RyyOv0HE5lLomBIUj24Ltex/x31bnhVK+6qI2EmXXKQ6VeVy+YkRc5Xzw==;DoIa1lgpdFKug7YAQg+VXg=="

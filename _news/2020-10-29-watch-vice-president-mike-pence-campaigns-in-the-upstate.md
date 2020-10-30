@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Vice President Mike Pence Campaigns in Mosinee"
-    excerpt: "Vice President Mike Pence made a campaign stop at the Central Airport in Mosinee on Wednesday. The stop is just one of several in Badger State for the Trump administration this week alone. About 150 people attended the rally."
-    publishedDateTime: 2020-10-29T01:09:00Z
-    webUrl: "https://waow.com/2020/10/28/vice-president-mike-pence-campaigns-in-mosinee/"
-    type: article
-    provider:
-      name: WAOW
-      domain: waow.com
-    quality: 55
-    images:
-      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/9/2020/10/pence.jpg"
-        width: 505
-        height: 317
-        isCached: true
 
 secured: "iKVooU69fsxw3K1TygaE2OVnnSYELDBw7vF5lq1QlkfJzKJC9lTPV9wYvFq+fYe9zUk2V060p6i86RxMrTRL2lhpTMUnxrPik0OyK4o5/03z8sc6mLnEDg2Bg6dP3DD3pKp1yFePdJ0LtiFDtzI3OtTG/V06cjMjCnavKPPkkiZYfPiUp89SxqAIb+4TW0xteixlHE4g3LgshTSfLnNxqq1643Cc/3E7JiySNE8D9Y55Y/sIeNxZSTw5dI4QwTs5MEnmtfa8Eo/2g4QZ2ODjbej5PAbQKHktd3VCKWlEG0pbHM9sV0xPr8JS1rnRep2fSP6pJHJoMNTB0SroWXtVj1hLA1/u/ewoHDYAIFXJR1WGp7I6j/ZCaBTci9NttfXazM5uzFia0HVZ3ykxIx2K8tHpZE6d4X5YjxaReuxGGMoY/onFkwxKDQFIIjGoNysP/0icQiiLSm9l1BiEusHIPdosFkdYj1If4GCLdneLPGiNzkg+4VQ4OcGQJSOzzNb+FLgHhhCwRsyZWNf0HkGbbQ==;vsIPdO5h8Hy4TTYrlCb+uQ=="
 ---

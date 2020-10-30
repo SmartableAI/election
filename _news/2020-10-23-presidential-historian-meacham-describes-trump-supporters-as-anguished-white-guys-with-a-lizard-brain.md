@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1563
         isCached: true
+  - title: "Rapper Lil Wayne’s Trump Endorsement Sparks Controversy on Twitter"
+    excerpt: "Getty Rapper Lil Wayne shares a photo with Trump and endorses his Platinum Plan on Twitter. Rapper Lil Wayne Just had a great meeting with @realdonaldtrump The 38-year-old “Lollipop” rapper endorsed the Platinum Plan,"
+    publishedDateTime: 2020-10-29T23:18:00Z
+    webUrl: "https://heavy.com/entertainment/lil-wayne-trump-endorsement-twitter/"
+    ampWebUrl: "https://heavy.com/entertainment/lil-wayne-trump-endorsement-twitter/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/lil-wayne-trump-endorsement-twitter/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-89.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
 
 secured: "Op8uB5uSFS3U9u0QVGCJIW+VvzENUiS4Ll9gzPWKrFbBCytkbYrGVKeKwacBD8qNTJP7MVNzacx2IfiaLZHFLXAWlu9IRisArtBeUU2WlxNyhCTmd5wjvR0+Uf9+iSo03t4hMhURBDHJv7uNKKuUGMIk2prkBguYasNsspbABZHWNlu4F/B8DlbivnC7pnHgcoSYcMgBbwZqDLev63zwG7iCh7b1xxPrqyOci8otsw5kqdDBbmF+8LJh7odfODgvj43wPYoUFTJnkHA2KdQYLho8dTc0Kc5VO3A0b1vxK6kbWQ0yJahgVIQG4H8ymIporIfr9sAGYf0zcToBRrJTbNjdILKzpkg5s73oFp5ttRE=;r3+BTmoy8GrIa0w9thiRcQ=="
 ---
