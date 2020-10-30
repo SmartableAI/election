@@ -184,6 +184,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and Biden cross paths in final sprint as virus rages"
+    excerpt: "Former Vice President Joe Biden and President Donald Trump went head-to-head in the mighty swing state of Florida on Thursday, as the US crossed a daily record with more than 88,000 new coronavirus cases and the two candidates showed their sharply divergent approaches to the virus at dueling rallies.\n"
+    publishedDateTime: 2020-10-30T09:30:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jty433MrjkM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828000814-trump-biden-acceptance-speech-covid-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First Trump-Biden debate to focus on Supreme Court, coronavirus and race"
     excerpt: "The first presidential debate between President Donald Trump and Democratic nominee Joe Biden will focus on a number of topics, including the coronavirus pandemic, the Supreme Court and the racial reckoning in the country, the debate commission announced on Tuesday.\n    \n"
     publishedDateTime: 2020-09-22T18:10:03Z

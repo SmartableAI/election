@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-28-white-houses-stephen-miller-warns-of-nationwide-catch-and-release-if-biden-is-elected.md",
+      "title": "White House’s Stephen Miller warns of ‘nationwide catch and release’ if Biden is elected",
+      "excerpt": "White House adviser Stephen Miller on Wednesday warned of a policy of “nationwide catch and release” if Democratic nominee Joe Biden is elected to the White House -- painting a stark contrast with the Trump administration’s stance on immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b530d401-035d-4417-afe9-6328f16ac9d0/c7bd7582-9739-4393-9db4-069bf0b51ebb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
+      "publishedDateTime": "2020-10-28T14:46:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-philadelphia-da-threatens-trump-over-presidents-call-for-poll-watchers-ive-got-something-for-you.md",
       "title": "Philadelphia DA threatens Trump over president's call for poll watchers: 'I've got something for you'",
       "excerpt": "Philadelphia’s district attorney on Wednesday threatened President Donald Trump if he sent “uncertified” poll watchers to the city, telling him in a statement, “I’ve got something for you” if any attempts are made to interfere with Election Day activities.",
@@ -118,7 +174,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27D30N",
       "featuredContent": null,
       "highlight": null,
-      "heat": 450,
+      "heat": 470,
       "tags": null,
       "images": [
         {
@@ -1268,49 +1324,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-kamala-harris-to-visit-rio-grande-valley-fort-worth-and-houston-during-texas-campaign-swing-friday.md",
-      "title": "Kamala Harris to visit Rio Grande Valley, Fort Worth and Houston during Texas campaign swing Friday",
-      "excerpt": "The vice presidential nominee and U.S. senator from California will swing through the state on the final day of early voting before Tuesday's election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/",
-      "originalUrl": "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbnails.texastribune.org/ChodZXE0IOtqQbDjtrU8A5BKi_A=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/fb392dd9d7bc0901a2d7dbd9bddfd252/04_Kamala_Harris_TT.jpg",
-          "width": 1200,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/",
-      "cdnAmpWebUrl": "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/",
-      "publishedDateTime": "2020-10-28T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Texas Tribune",
-        "domain": "texastribune.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

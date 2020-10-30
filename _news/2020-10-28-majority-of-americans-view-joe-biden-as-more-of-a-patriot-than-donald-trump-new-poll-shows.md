@@ -1184,6 +1184,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why this conservative voted for Biden and you should too: Trump is a morally defective man"
+    excerpt: "I'm a conservative and former Republican who did not vote based on policy. Neither should you. The 2020 election is about the moral future of America."
+    publishedDateTime: 2020-10-30T07:47:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/30/reject-trump-vote-biden-preserve-american-moral-core-column/6069337002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6069337002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6069337002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/29/USAT/cf852adb-9671-4672-b976-c45916ba24a4-AP_Election_2020_Trump_Apocalypse.jpg?auto=webp&crop=5782,3253,x0,y293&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Touts His Coronavirus 'China Ban' To Bash Biden And Fauci. Here’s Why That’s A Problem."
     excerpt: "President Trump has claimed repeatedly that the disease expert was against his decision to implement travel restrictions on China back in January and that Biden called the restrictions “xenophobic.”"
     publishedDateTime: 2020-10-22T15:20:00Z

@@ -80,6 +80,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ice Cube On Turning Down Kamala Harris Group Zoom Call: \"I Want To Get Things Done\""
+    excerpt: "Ice Cube said in an interview on the FOX Soul program \"Cocktails with Queens\" that he passed on a request from Democratic nominee for vice president Sen. Kamala Harris to participate in a Zoom group call because it would be full of \"entertainers\" and \"wasn't going to be productive."
+    publishedDateTime: 2020-10-30T11:12:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/30/ice_cube_on_turning_down_kamala_harris_group_zoom_call_i_want_to_get_things_done.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/52/525640.jpg"
+        width: 1008
+        height: 756
+        isCached: true
 
 secured: "YmbQEB4jlWmD2A4LBC24ZgLzejdpl/S6UATKGeSiJzQFFcJS1GJvGUOwUvM4gk4oEJ5mS47mLMpHjHJsal6FGKp9+m02EM5JmlhSVJ4RYYYIxrT9HfArhPKcK8Z6ocZSkzul535jdxSmAYc6xNvpe+MGA4Aym6HW4Uz+S+IntpXkWJSAZp5hvo7m57nM8KPLkJdrc2gSpUHcChl+t9+v2jL30MJVVwxviCwekHp371RjQPjnXj3XRjCwDNP5Z7IHsUjJNQAwLQWcSkDiH1SES54bD/qkwN2L40N+kB9iL+fOU8dFHRuvlYWO2rN1VsFzPhbU5ohUpOf06npoW/0MuPhwDr7fLdNmJhvaVdV/hKc=;0KWR2Iw4JWUwFukLYW36aA=="
 ---

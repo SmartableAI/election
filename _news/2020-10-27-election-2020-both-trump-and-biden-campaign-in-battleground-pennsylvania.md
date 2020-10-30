@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 3674
+heat: 3694
 published: true
 
 provider:
@@ -1180,6 +1180,22 @@ related:
     quality: 130
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/1b3cd718-109c-463e-82a3-30dfafa71774-USP_News__President_Trump_Visits_Florida.jpg?auto=webp&crop=2216,1246,x66,y63&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why this conservative voted for Biden and you should too: Trump is a morally defective man"
+    excerpt: "I'm a conservative and former Republican who did not vote based on policy. Neither should you. The 2020 election is about the moral future of America."
+    publishedDateTime: 2020-10-30T07:47:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/30/reject-trump-vote-biden-preserve-american-moral-core-column/6069337002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6069337002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6069337002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/29/USAT/cf852adb-9671-4672-b976-c45916ba24a4-AP_Election_2020_Trump_Apocalypse.jpg?auto=webp&crop=5782,3253,x0,y293&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's Ukraine Defense Rests on a Bogus Premise"
+    excerpt: "The crux of Joe Biden’s Ukraine corruption scandal defense rests on his contention that he traveled to Ukraine during his tenure as Vice President to demand that they fire their"
+    publishedDateTime: 2020-10-30T04:01:00Z
+    webUrl: "https://townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046"
+    ampWebUrl: "https://townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Hunter Biden messages 'independently confirmed' to be authentic, GOP lawmaker says"
     excerpt: "A top House Republican said his staff independently authenticated materials from a laptop that purportedly belonged to Hunter Biden."
     publishedDateTime: 2020-10-25T19:41:00Z

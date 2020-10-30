@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and Biden cross paths in final sprint as virus rages"
+    excerpt: "Former Vice President Joe Biden and President Donald Trump went head-to-head in the mighty swing state of Florida on Thursday, as the US crossed a daily record with more than 88,000 new coronavirus cases and the two candidates showed their sharply divergent approaches to the virus at dueling rallies.\n"
+    publishedDateTime: 2020-10-30T09:30:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jty433MrjkM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828000814-trump-biden-acceptance-speech-covid-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact Check: Misleading new Trump ad claims Biden plans to 'end fracking'"
     excerpt: "Less than two weeks before Election Day, a new Trump campaign ad scheduled to air in Pennsylvania misleadingly portrays former Vice President Joe Biden's stance on fracking, a drilling method used to extract oil or natural gas.\n    \n"
     publishedDateTime: 2020-10-26T19:37:01Z

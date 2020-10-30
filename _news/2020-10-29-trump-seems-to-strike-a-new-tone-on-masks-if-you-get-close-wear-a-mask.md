@@ -79,6 +79,22 @@ related:
         width: 1920
         height: 1077
         isCached: true
+  - title: "Donald Trump Jr. says Covid numbers are 'almost nothing' on day reporting 90,000 infected, 1,000 dead"
+    excerpt: "Donald Trump Jr. falsely claimed Thursday that Covid-19 infection numbers have dwindled to \"almost nothing,\" despite there being around 1,000 deaths reported in the U.S. the same day. In an interview on Fox News' “The Ingraham Angle,"
+    publishedDateTime: 2020-10-30T11:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/donald-trump-jr-says-covid-numbers-are-almost-nothing-day-n1245449"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245449"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245449"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/nn_ggu_exclusive_inside_covid_icu_201029_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "OrdcaMMYv/GQPQXC4NzxRXZwMmc/ctOXxqgyJ6krZEZ+jsNxex0uy3Q8i4yVtf2anDE3NDPP9ArNSfNuiGR9VG5IXMqe46cNwYmb+J7xf/SZ84YwjxzMS4oaScxtfDIelYHPAPRrI+JHWBDX+z9S+0GXTV+ZdaK52LgrZIGFDDnTtNK3lqOilWf+68rwzXIczhXOnWI2r94TOtoarqSaY1xHqgsFmUxeaMsn+plwcv2sDC7nmnndrke0yi4aNhgLPYIU7+J/xfhN7CO2DmSVCH+Ts/D9tCHDSQIzPXW4RXtuAc5LMwtTyT2GBh1ltQemFPoUZ7rojrl2UrFrkTl2rDYv1ABuoYGTf8vSwqHQfTM=;nBt8A7jpyNs0fL1TZGvqWg=="
 ---

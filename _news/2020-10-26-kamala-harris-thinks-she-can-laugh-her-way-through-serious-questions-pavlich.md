@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp"
 type: article
 quality: 182
-heat: 242
+heat: 262
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Ice Cube On Turning Down Kamala Harris Group Zoom Call: \"I Want To Get Things Done\""
+    excerpt: "Ice Cube said in an interview on the FOX Soul program \"Cocktails with Queens\" that he passed on a request from Democratic nominee for vice president Sen. Kamala Harris to participate in a Zoom group call because it would be full of \"entertainers\" and \"wasn't going to be productive."
+    publishedDateTime: 2020-10-30T11:12:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/30/ice_cube_on_turning_down_kamala_harris_group_zoom_call_i_want_to_get_things_done.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/52/525640.jpg"
+        width: 1008
+        height: 756
         isCached: true
 
 secured: "tMQXmkuCwg0LWlyUypdmLz3/Bv04YZdtWWBx/x3XDwJLoLuzFtQN0g/8nvephHY2RwB4c5g9zQPQVjvJ/642d2K3UUSeemjSxVQnbR9JnjUv+mCh5Niu8ISmSCTGpFGIYWyxKeqaIXfagELIpCqlzt0f+BJlEyAWn/sqXBxfis2kzJ/4uxl4Md5YuNPmlIMZ5n/bUsiXROg9adFpDoRxnGyjUMgYgD5nOZnw4iOtlPivOxTjatLfwJMciyJjp1RG5R1XGKtBMeIXRBtB3+dk/FIQyPN8Q/r4RWbxCPbDmPHJ2T8U6tPTH5vftBGGIvdeUJ7yRNsXHtdPmQzfhT1YX07Zm0QSUw5gpGht+ry5WMs=;y0hQbvQ1SRQOtQpmU5ljoA=="

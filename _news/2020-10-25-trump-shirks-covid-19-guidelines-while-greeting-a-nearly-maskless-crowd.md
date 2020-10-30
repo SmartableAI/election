@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-ma
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3422815/201024-snl-er-1130p_8ac48ecc58e5def06a87409bf66b93ce.png"
         width: 1920
         height: 1077
+        isCached: true
+  - title: "Donald Trump Jr. says Covid numbers are 'almost nothing' on day reporting 90,000 infected, 1,000 dead"
+    excerpt: "Donald Trump Jr. falsely claimed Thursday that Covid-19 infection numbers have dwindled to \"almost nothing,\" despite there being around 1,000 deaths reported in the U.S. the same day. In an interview on Fox News' “The Ingraham Angle,"
+    publishedDateTime: 2020-10-30T11:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/donald-trump-jr-says-covid-numbers-are-almost-nothing-day-n1245449"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245449"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245449"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/nn_ggu_exclusive_inside_covid_icu_201029_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "zf+24RmP8XU+410JkMlkpQI1CNVzKROxHKD58MuUlWb2dnDXQqm1cW1+vLJL7uUF0bgJ8AW21eS0cdiOXPom5oMn+Af3fWdhy+fU1WmVus6h1kLpqkZpJGsEU8uHDRq6oy5lwiQ3dYe/b7lZFvuy8YMA8yDZIsc1Kqbwooq4h6cITWU6h36aT7Gih/ugeFvioZS2x+N9c7WcBwMIfKzsY0qIaf7gL2tD2gFKR9lOKiqFdQ/d7GfWVPuaBdstj39o6QyA+vooHNDK3Hejp4P2DMlgtB+u2w6CaWMwfLo0Ajf7a2EDXPi6VJBOVxMU8fYZEG1GhSBvqUE7lNlB8N976CzrIHLHnHbMZ/hEJksdstE=;Isbztzv53hqBO5oedby2cw=="

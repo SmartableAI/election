@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.freep.com/amp/6049405002"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6049405002"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://stmedia.stimg.co/1600457850_19098701+TRUMPBIDEN.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
+        isCached: true
+  - title: "VP Mike Pence to make 2 campaign stops in North Carolina on Halloween"
+    excerpt: "Vice President Mike Pence is set to return to North Carolina on Saturday for two campaign stops, just three days before Election Day, WTVD reported."
+    publishedDateTime: 2020-10-30T06:04:00Z
+    webUrl: "https://www.wsoctv.com/news/local/vp-mike-pence-make-2-campaign-stops-north-carolina-halloween/FGNHNKGYWNF6VFKP6HM42DXAHY/"
+    type: article
+    provider:
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
+    images:
+      - url: "https://www.wsoctv.com/resizer/pXusisgI-i7o4r9ZDOxKtDRJ0cQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/AV3ZLYO4QE6NNM2EBGO6L6GALM.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "4T2gAQBL5z/pR3IC7AN5h7ItG9LNXF4mf28HS0Jv8Fjf8JMVjvjvkfGcfBhvypVPtrpyHeShhl2j1wrxZ8HWVYvGDbcrMZInWjOjybYpsoq9xFxIJVdwdCnFPdlHGBCOG1NHjZmLcfwbOUpl7JRjFs6yUPRvxHvrGkeoApF5SNGVn9ZFrDFDJyIjLyFVtxPU6FichyWSimXF9GE8tm8RivSe7jP7bU0NgdkEYrPsDHOJfYGLX76y/AHPVONuQsVcXfRO8Xqw6gfy2/ClW0drpZ+Tx8jGvA4COIqgtWpMXOHLPsGRFlaFhVfvyQTEEo6u54ObAlG6ALbXTZ3otm8axTh75A57QruLUBStBtFrUQL3JN1iCaQU5HifaO/EOHk/eZjxcBtBkfrGOKABm63SmAn/3Mpq529CrA2Ygq0VtItajOkArP2DPJIZLALUy4iupSP4qGhu/YjyASIaAW/iNxDyNd103WRY1zgrvgb9dkrdOUX2w6K/kOgFtztvYDiniG6l9AWXp4ImMMKeASDTBA==;66vYIco6Cc1Hwpk4udlZog=="

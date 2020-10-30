@@ -74,6 +74,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's Ukraine Defense Rests on a Bogus Premise"
+    excerpt: "The crux of Joe Biden’s Ukraine corruption scandal defense rests on his contention that he traveled to Ukraine during his tenure as Vice President to demand that they fire their"
+    publishedDateTime: 2020-10-30T04:01:00Z
+    webUrl: "https://townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046"
+    ampWebUrl: "https://townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "Gsh3ul0LgehM3isdNZFZTGNARfzniITkbcokPcG/EdybBsghDIJu/CqWeNIGqJaGAhJrLje9ikg+8/++fgM/8IpmnEoESrIeoFQzoOWVvue4hKQ9GtqlDYwi288v4f0+oYIbgvYJZqMu6zPHhWsWtgXGxRGxaPrZIpqPQKoGmRivdLQcXrR7QW8bjCjVl9mr/Cekmy4W1EDXG9LClHQaaWTilhvDdzJcnFgTxYFXFHpo8qqqY7ehCR/yniEPF0MXOk9HPK9Q1+HkENk9cyQMRqXHx1LWYcvITl2SLSe/yzK93gRGxB6RJUCcJ0RbPXv15kMm4006ZqBZExzqBWVGolQK8Jna5OO+vrwX/6KQ2GH6hn05R0/6WCPZ0zlDH3FwOA3mZ1t102kfFINA9T7B6H3WKvt5zorWmrKxrpGwBwWgA1IiY7bj9EMEJqrIiYPOe8V+ubVtVDp3zS+7ugh7Dms0JvcRN41ZR3CyNp0u0XnVIfjBV1VSXdIcr6ArEjaPpvQDWqVjn/U7bTzRQ9erYQ==;kCxdpmbug9ERHlTB6seWQQ=="
 ---
