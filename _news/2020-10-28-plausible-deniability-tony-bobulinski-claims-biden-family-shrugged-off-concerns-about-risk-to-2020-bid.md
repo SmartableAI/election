@@ -93,6 +93,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Did Tony Bobulinski expose criminal wrongdoing by Joe Biden?"
+    excerpt: "Tonight, we're tracking multiple breaking stories including the interview you just saw with the Biden whistle-blower, Tony Bobulinski. We'll unpack his serious corruption allegations against the Bidens."
+    publishedDateTime: 2020-10-29T21:01:00Z
+    webUrl: "https://www.foxnews.com/transcript/did-tony-bobulinski-expose-criminal-wrongdoing-by-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/transcript/did-tony-bobulinski-expose-criminal-wrongdoing-by-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/did-tony-bobulinski-expose-criminal-wrongdoing-by-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9309ebcd-8a18-499c-9c6e-52d71184988a/206390f8-a7d5-4ed2-9b53-17fa7e151445/1280x720/match/image.jpg"
+        width: 1079
+        height: 720
+        isCached: true
 
 secured: "xGts46AnsBVD5lILDTQVQMCN3R1A1yAtaT0EuL780CtbedXNGzej6kmMzH9ZxJJqExoUi+5GbLzH7ZLFJB06KEIDzwfFFe2UvmZM+fp8vP+E9a9V0E7aSrZvd5PlAtuZ5b8HUBnWboiCR8a416ynTQQ4lux/wvzClEFeY06ccCpl+DSNDHyxT68ajqBZQhYVFgb3EUIfOAun/hgok1yh4BSd0cSrwRWhXaf/YmwgpAqPry+ju/6QfXP5yLlb/y+q+cCHbsZyux75EJiMLhz1K9NKItybqnlIcCFebMSl527YK/L2qvm6y7BKOnazWL6nlCrXUUM3Vhme1wZAyMVX6x4KPZ1qxzBaxcCwceaSxE0=;iyK3z0LOOAT8vwZIvBCOSQ=="
 ---

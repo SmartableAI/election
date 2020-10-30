@@ -509,6 +509,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: 2020 presidential race, Biden vs. Trump"
+    excerpt: "The presidential race is entering the final stretch between President Trump and Democratic nominee Joe Biden, with the election just four days away."
+    publishedDateTime: 2020-10-30T02:49:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-64HlWY9iTo/live-updates-2020-presidential-race-biden-vs-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-presidential-race-biden-vs-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-presidential-race-biden-vs-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/600baf7d-7dad-477b-8c3a-707f43983b61/d9849e90-f92f-4191-9b5f-0f4ccd71757b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -604,6 +620,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Live Updates: Trump and Biden scheduled for events in Minnesota on same day"
+    excerpt: "With four days left until Election Day on Nov. 3, Democratic presidential nominee Joe Biden and President Trump are scheduling to hold events in Minnesota on Friday."
+    publishedDateTime: 2020-10-30T02:51:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nC6vrHP_zLs/live-updates-trump-and-biden-scheduled-for-events-in-minnesota-on-same-day"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-and-biden-scheduled-for-events-in-minnesota-on-same-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-and-biden-scheduled-for-events-in-minnesota-on-same-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02084a04-4267-45b9-bff1-20a991370e73/b8ca5717-15bf-4c99-afed-d3aee0a3345b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Karl Rove breaks down Trump, Biden's pursuit of Midwest working-class voters"
     excerpt: "President Trump and Joe Biden spent Monday making campaign appearances in different Midwestern states to court the working-class vote, former George W. Bush adviser Karl Rove explained on \"Bill Hemmer Reports\" Tuesday."

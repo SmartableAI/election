@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/fbi-interview-request-hunter-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-interview-request-hunter-biden-ex-associate-tony-bobulinski-senate-committee.amp"
 type: article
 quality: 170
-heat: 250
+heat: 270
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be276ed1-e6a3-4a5a-933b-707157d6ae65/651c60c4-05f1-4959-8be6-3f5ba1ed74b6/1280x720/match/image.jpg"
         width: 1280
+        height: 720
+        isCached: true
+  - title: "Did Tony Bobulinski expose criminal wrongdoing by Joe Biden?"
+    excerpt: "Tonight, we're tracking multiple breaking stories including the interview you just saw with the Biden whistle-blower, Tony Bobulinski. We'll unpack his serious corruption allegations against the Bidens."
+    publishedDateTime: 2020-10-29T21:01:00Z
+    webUrl: "https://www.foxnews.com/transcript/did-tony-bobulinski-expose-criminal-wrongdoing-by-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/transcript/did-tony-bobulinski-expose-criminal-wrongdoing-by-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/did-tony-bobulinski-expose-criminal-wrongdoing-by-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9309ebcd-8a18-499c-9c6e-52d71184988a/206390f8-a7d5-4ed2-9b53-17fa7e151445/1280x720/match/image.jpg"
+        width: 1079
         height: 720
         isCached: true
 

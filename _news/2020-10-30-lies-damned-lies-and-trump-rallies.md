@@ -1468,6 +1468,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Here Are the Policy Advisers Who Have Joe Biden’s Ear"
+    excerpt: "Mr. Biden has sought advice across the Democratic Party’s ideological spectrum, but his core advisers on the coronavirus, economics, foreign policy and climate change are familiar figures."
+    publishedDateTime: 2020-10-30T01:59:00Z
+    webUrl: "https://www.nytimes.com/2020/10/29/us/politics/joe-biden-advisers.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/29/us/politics/joe-biden-advisers.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/us/politics/joe-biden-advisers.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/29/us/politics/29biden-advisers1/29biden-advisers1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "2020 Election Live Updates: Trump and Biden Hit Swing States, With 10 Days Until Election Day"
     excerpt: "RIGHT NOW ‘Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."
     publishedDateTime: 2020-10-24T22:32:00Z
@@ -1870,6 +1886,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "I1klq6T1296N/stlagQIjRva8vgCAwmsnSnYVelvROPIyzDu+pkCzNJejPzbGHpDh29LbDl22hG6d0MUm79qnquEaZxGHuFxh7AZT6mMGIRo3SBQ/nsLCCNQO0BtSwuYvGYxjPrZOoyoYokJXigqKMIcxv52KjvIHoErYcO2LqhQ+LsQWyA1zwjZmqLqOuZeNrbDSGd1T7W74cG8x+5L4ycCjfM9xLAtWk45XLroVUDOp0jxSJdz29l20tJEHaim2+4gDyPQu36GIiaQxFP7SOUN+M0gyFxLdxEZRA8vvvHmsVOcAGeinsF+MlCsrjvgvEB0S7mvUpAYBwvMeg+3l6fvpRcnFz81KOpbcWyFpHg=;+6sHXqcrkf43d5X4h4B1Mg=="
+secured: "yQ05W8oObW9XBzl2XmkjK0GNlKOSTYBIXzzNQvohEo2O9CqPAwdZ7XE7tFZh4SQUW+rNCwM1UR1fEpnE6A1b97GSmS9s0bYLZG6t1LlZQztcjATfhImt0Rr2axqNwURopGEcyEknjUJrVmpwTeskCXVkn6i7RN+w20Pu7TEu9U7OXMAD+BeCE7GmDymT4eAa8JmLNlEj3qFwUXMuvZHtoQdvkPTaQbcJmixcmTqjKpBuGp2kU5tuCX6/O3NM8VdhQGe32wSuxAyLA5v9833YSg++knjsEpV/6F7Nj82Sa2C/GVBX7KEdnYU4NUOmvtH59FOIzpe3rleXoVnoARxg/+VNu6wTyAjF1mna1YZGpI9x1ua45sfUm9+fM537bgPiIskGWd/8A0OKjaowjKsJdS4j/pIlW9YIfjBj1GJeTnTpUAM21gK8AAU6YZbRKFQeIMVGUrxsIS8NAlJ2oSSFSVeJ/ecxWpIvfNVWS/VMuxyCQWyn6psQWMh+V2apefCa1UgrB0IND4ufRmeuE3ePxQ==;wxxoaMm6QWxwkoKzFVN/MA=="
 ---
 

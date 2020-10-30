@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamal
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view?_amp=true"
 type: article
 quality: 149
-heat: 1569
+heat: 1609
 published: true
 
 provider:
@@ -221,6 +221,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-20-Debate_77097129.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Donald Trump 'failed us': Kamala Harris campaigns in Phoenix, Tucson as Election Day nears"
+    excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
+    publishedDateTime: 2020-10-28T13:08:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3750272001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3750272001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Democrats of color rally around Kamala Harris amid racial microaggressions, political attacks"
     excerpt: "Kamala Harris' path on the campaign trail has been filled with discrimination, as she is the first Black and Indian Democratic vice presidential nominee, and a woman."
@@ -517,6 +533,22 @@ related:
       - url: "https://cdnph.upi.com/ph/st/th/4321603644464/2020/upi/3ad59f43d1778808fde5591a836b2b2a/v1.5/Watch-Live-Kamala-Harris-to-campaign-in-Michigan-Sunday.jpg?lg=5"
         width: 800
         height: 534
+        isCached: true
+  - title: "Kamala Harris Campaigns In South Florida Saturday"
+    excerpt: "As Election Day approaches, the Democratic VP candidate will speak to voters in Palm Beach, Broward and Miami-Dade counties."
+    publishedDateTime: 2020-10-30T02:30:00Z
+    webUrl: "https://patch.com/florida/miami/kamala-harris-campaigns-south-florida-saturday"
+    ampWebUrl: "https://patch.com/florida/miami/amp/29050211/kamala-harris-campaigns-in-south-florida-saturday"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/florida/miami/amp/29050211/kamala-harris-campaigns-in-south-florida-saturday"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/getty/24559556/20201029/053053/styles/patch_image/public/gettyimages-1229244174___29172917408.jpg?width=984"
+        width: 984
+        height: 738
         isCached: true
   - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Charlotte Observer"
     excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."

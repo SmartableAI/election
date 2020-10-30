@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 2578
+heat: 2598
 published: true
 
 provider:
@@ -1449,6 +1449,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/10/29/us/politics/29PA-women1/00PA-women1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Here Are the Policy Advisers Who Have Joe Biden’s Ear"
+    excerpt: "Mr. Biden has sought advice across the Democratic Party’s ideological spectrum, but his core advisers on the coronavirus, economics, foreign policy and climate change are familiar figures."
+    publishedDateTime: 2020-10-30T01:59:00Z
+    webUrl: "https://www.nytimes.com/2020/10/29/us/politics/joe-biden-advisers.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/29/us/politics/joe-biden-advisers.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/us/politics/joe-biden-advisers.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/29/us/politics/29biden-advisers1/29biden-advisers1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

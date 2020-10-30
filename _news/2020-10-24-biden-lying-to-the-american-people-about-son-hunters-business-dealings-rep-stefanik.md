@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden faces backlash for saying 'America was an idea' that 'we've never lived up to'"
-    excerpt: "Joe Biden was facing intense backlash Wednesday night for referring to America as an \"idea\" that \"we've never lived up to.\""
-    publishedDateTime: 2020-10-22T06:52:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp"
+  - title: "Sean Hannity: Biden depicting ‘scary’ image of America despite surging economy"
+    excerpt: "Joe Biden is making America out to be a country besieged by doom and gloom with five days left until the election, but “Hannity” host Sean Hannity argued Thursday the nation is actually on an upswing."
+    publishedDateTime: 2020-10-30T04:04:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6f1nW8Ae14k/sean-hannity-biden-scary-image-america-economy-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/sean-hannity-biden-scary-image-america-economy-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sean-hannity-biden-scary-image-america-economy-surge.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f93da98f-cf85-410a-865f-986bff199415/14f02d01-20fb-42ab-be54-7fb6e3dfe8d7/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db7e772-dce2-4517-a262-a44c6851edc8/70157bed-10cb-4dd7-a8aa-65deb9ad5c57/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

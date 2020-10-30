@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-confident-biden-win-democrat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
 type: article
 quality: 169
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kudlow: Biden's economic plan would crush middle class, cost millions of jobs over next decade"
+    excerpt: "A Joe Biden presidency would cripple the U.S. economy and cause the loss of an estimated five million American jobs by 2030, White House economic adviser Larry Kudlow told \"The Ingraham Angle\" on Thursday."
+    publishedDateTime: 2020-10-30T03:33:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4OYjTm4RVYU/kudlow-biden-economic-plan-crush-us-economy"
+    ampWebUrl: "https://www.foxnews.com/politics/kudlow-biden-economic-plan-crush-us-economy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kudlow-biden-economic-plan-crush-us-economy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ee9de7a-ba64-41ba-b1e0-10d348d471e1/5a05a687-b6df-41f5-a8eb-879dc90d2370/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pelosi: 'I feel very confident that Joe Biden will be elected president on Tuesday'"
     excerpt: "House Speaker Nancy Pelosi projected Thursday that Joe Biden would win the White House and said Democrats are ready to work with him on a transition agenda to tackle the coronavirus pandemic, address the economic fallout and pass an infrastructure agenda."
     publishedDateTime: 2020-10-29T19:24:00Z

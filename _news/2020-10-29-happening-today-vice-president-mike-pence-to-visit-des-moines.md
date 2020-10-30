@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence highlights economic recovery report at Nevada rally"
+    excerpt: "(AP) — Vice President Mike Pence urged early in-person voting and highlighted reports of a partial economic recovery during a rally Thursday in Reno, hoping to drum up enthusiasm in Nevada in the final days before the election."
+    publishedDateTime: 2020-10-30T02:35:00Z
+    webUrl: "https://www.timesunion.com/news/article/Pence-returns-to-Nevada-for-rally-in-final-15685969.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Pence-returns-to-Nevada-for-rally-in-final-15685969.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pence-returns-to-Nevada-for-rally-in-final-15685969.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/77/65/20184389/5/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "VP Mike Pence to visit Tucson, Flagstaff on Oct. 30, days before Election Day"
     excerpt: "Vice President Mike Pence will be making back-to-back stops in Flagstaff and Tucson on Friday with Election Day just around the corner."
     publishedDateTime: 2020-10-29T12:56:00Z

@@ -478,6 +478,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Many counties that hosted Trump rallies had a significant increase in Covid-19 cases"
+    excerpt: "A CNN investigation of 17 Trump campaign rallies finds that  14 of the host counties -- 82% of them -- had an increased rate of new Covid-19 cases one month after the rally.\n    \n"
+    publishedDateTime: 2020-10-30T02:25:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PblhZr90iU8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/health/covid-trump-rallies-counties-cases/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/health/covid-trump-rallies-counties-cases/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924114945-01-trump-bemidji-mn-rally-0918-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's alternate reality of Covid-19 crumbles as the White House obfuscates"
     excerpt: "Some seven months into a pandemic that has killed more than 200,000 Americans, the nation is now facing a grave governing crisis with its commander in chief hospitalized -- his condition hinging on his progress over the coming days -- as the White House events of the past week serve as a textbook example"
     publishedDateTime: 2020-10-04T05:01:24Z

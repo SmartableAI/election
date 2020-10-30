@@ -218,6 +218,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump 'failed us': Kamala Harris campaigns in Phoenix, Tucson as Election Day nears"
+    excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
+    publishedDateTime: 2020-10-28T13:08:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3750272001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3750272001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Democrats of color rally around Kamala Harris amid racial microaggressions, political attacks"
     excerpt: "Kamala Harris' path on the campaign trail has been filled with discrimination, as she is the first Black and Indian Democratic vice presidential nominee, and a woman."
     publishedDateTime: 2020-10-22T19:17:00Z
@@ -513,6 +529,22 @@ related:
       - url: "https://cdnph.upi.com/ph/st/th/4321603644464/2020/upi/3ad59f43d1778808fde5591a836b2b2a/v1.5/Watch-Live-Kamala-Harris-to-campaign-in-Michigan-Sunday.jpg?lg=5"
         width: 800
         height: 534
+        isCached: true
+  - title: "Kamala Harris Campaigns In South Florida Saturday"
+    excerpt: "As Election Day approaches, the Democratic VP candidate will speak to voters in Palm Beach, Broward and Miami-Dade counties."
+    publishedDateTime: 2020-10-30T02:30:00Z
+    webUrl: "https://patch.com/florida/miami/kamala-harris-campaigns-south-florida-saturday"
+    ampWebUrl: "https://patch.com/florida/miami/amp/29050211/kamala-harris-campaigns-in-south-florida-saturday"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/florida/miami/amp/29050211/kamala-harris-campaigns-in-south-florida-saturday"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/getty/24559556/20201029/053053/styles/patch_image/public/gettyimages-1229244174___29172917408.jpg?width=984"
+        width: 984
+        height: 738
         isCached: true
   - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Charlotte Observer"
     excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."
@@ -1025,6 +1057,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "W+9EnbBvamWxk6Mcv9T+Y7R+E7CHfdoM9AUxNaEYRFlKq/9ERqbFxiEMMEYJhX16avaX9zU8ir+6SoXwOkkBRJRxNgtJ0TthWFB1G6iw6hHHBNIHCvELIQM6PRBq7Qa3SVYn/UxzCo7YClkz8kf4aEli0GwHHyhLSu6PrP+Sq6o/C+xEMTEm7VwXJ6rnAPSx6g/fZ75DcirA7mlWC7a9if2VGc7zZ9ZLr7QsnVKME/556PULnUazvhQfgTFBSZ4vbFe56cD95y/kxtx/aHotENzH3pJTF6TKMMOv/RkviIC6ayDyVi06cLrLNBKU/H4m2Ongfxg4wAb0V5KB8lRwGBfxUjVkE7i85hQjB8/7u3k=;6F/MNm4HzpCClN6aQvcJOw=="
+secured: "3Z6biRvo1ChXwXfhFBIaqssUPAb3COqyT74Yg7tCTxxM0tEPQ53Z4MeN4XPnwfiGSSOEqKf+bH3nxzQtjuQjAvsJAsJUjzJ//U2xLuIkFnkme+jwOz+2h5jraaHzXh9CcdS4m2xBLmcyi+jLHUH/IyyxA4kdrdrBgWnVgmea/YjhOZk0OIijn8uI02P+GlPa2dWVo+SGlUdFVmgZqRWm4jLAKHmHBKaXZPREx+fJDhAfAYBwa54VH2fbJam99bLWwMlo0tBFD4HyyOualdyB5QnSHMikGyLce+LQxQKl/cLbcPsaHIUDr97BGByvQsqlFht3/TjCiOVkPQ5VxKmgHd3KIkJVigV3/LGwGY/GIdhcI8qmSrvXq+42vKyQiC2AYtyugNR6xi6kbZhIz/wRljD8a/Dbpp2isTH6n7WHTsd/c98IPbiRcG1TezFGTo9WAIfyKk4APNMG2WFYNn13YE6BwK2zd5EL+QH5DXu0XdGNVovcwEFufNkkmklhD1PhCrRf+fn7ATvHPoj+OutkaQ==;r3MCaMNI0bFQjVNPJMaKUg=="
 ---
 

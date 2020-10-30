@@ -9,8 +9,8 @@ ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
 type: article
 quality: 65
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -26,6 +26,22 @@ topics:
   - Kamala Harris
 
 related:
+  - title: "The Latest: Trump meets troops involved in al-Baghdadi raid"
+    excerpt: "President Donald Trump quietly met with U.S. Special Forces troops involved in last year’s raid to kill Islamic State leader Abu Bakr al-Baghdadi"
+    publishedDateTime: 2020-10-30T01:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The Latest: Trump heaping attention on 1 Nebraska district"
     excerpt: "President Donald Trump talks with the traveling press as first lady Melania Trump waits near Air Force One at Andrews Air Force Base, Md., Tuesday, Oct. 27, 2020. They flew"
     publishedDateTime: 2020-10-28T01:26:00Z

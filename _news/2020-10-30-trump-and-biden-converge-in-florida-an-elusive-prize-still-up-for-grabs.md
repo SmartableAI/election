@@ -1452,6 +1452,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Here Are the Policy Advisers Who Have Joe Biden’s Ear"
+    excerpt: "Mr. Biden has sought advice across the Democratic Party’s ideological spectrum, but his core advisers on the coronavirus, economics, foreign policy and climate change are familiar figures."
+    publishedDateTime: 2020-10-30T01:59:00Z
+    webUrl: "https://www.nytimes.com/2020/10/29/us/politics/joe-biden-advisers.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/29/us/politics/joe-biden-advisers.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/us/politics/joe-biden-advisers.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/29/us/politics/29biden-advisers1/29biden-advisers1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Lies, Damned Lies and Trump Rallies"
     excerpt: "Donald Trump lies a lot. In fact, he lies so often that several media organizations try to keep a running tally, and even try to draw political inferences from fluctuations in the number of lies he tells in a given month (although the trend has been relentlessly upward )."
     publishedDateTime: 2020-10-29T23:05:00Z
@@ -1870,6 +1886,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "HF/xxcFZRblbhQjY1xXj1chI+RT2Y5DHC1u7/s/MpcNh5MfbypP3DAAgUqRAmW43q9bHvhsE8lLdf8DU6UyeV8qCK0qtKSiCFBUX+pGQ0mV47MZ4ux7h+TVTbholAbGvuMCuHgmNGcXUrfxQuyWHar9D5ueUG1NncjjCOUe0KOeBKi07xagEu1pxLCpZpVeXHoDo6s2/FaNyh9Iabvo2Dy2002L+o5ydCGxQ1Z80TUo/+EdgkCiRdNO/qBcVEsVu7GSqwB8nAi4oOuMuZ1CF0mdjVhUG0QXOBkIiSWQ9wkK+jkmirbpiaYi2Sw3Xkh6HT3ubUR1GZDrXK6z3ooq7aGyjW91pF2CP//RlObVqnYM=;DlqmK+88mZ46E4rRnoEiHA=="
+secured: "PMK3df02pQxOLWLqXRneCNWxudSnxnkSaQgmwWnnyX7nbtNzOqPMUoIHo0kCI9Irm8EV9Eskwb7gk6Wu60nMmmJ/DlpLBwgLDZVfACs8Mjm+89xlZROvdpnSdE6JMi/h2QReP/IvdPeIh9Y1b48GkdCLCxmIXsDcF1T0mcS+bTkUInoEwNRDnl1HF7xN/5m7ltZvi8EdwVLCGE29m1sfkL5ALtqL1DjZMOKN2DbgvfFno1b0au01ka0sN+7rLkpPObPA8Zg0lZwnbM3oxp0NQ/a9sY77HvXM7A854Pp1H0FAEPgfbcMhL9v8JmgLt40PjLbov8BZikpqm36LqxXfjw6dpoH4yZA9jYu3ydEckjCTwI4cZF3C2PCH+n69bLevmad7qavP6w/bv5PgDy6rT+jtoWreqchEAXgCunLb0vpBFBG8EllD8FapCxmQeg69GTMByJKVfOVayyV/Ntd6K3Z+Sez9HVeFuD83nG8kKEnqYoxATEJNcFP48doSB09nHfEjlS3qQ5o5jFSF7viI9g==;2ue9nKoTkZ1cbzZ/893vBA=="
 ---
 

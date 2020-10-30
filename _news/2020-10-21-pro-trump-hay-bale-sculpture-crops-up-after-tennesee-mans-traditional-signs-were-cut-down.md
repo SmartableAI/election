@@ -223,6 +223,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Charlie Kirk: Enthusiasm for President Trump at record highs"
+    excerpt: "President Trump expected to take the stage in the battleground state of Wisconsin tonight for his third and final rally of the day. The President also had rallies in Ohio and North Carolina, which brings me to this: Trump is closing hard."
+    publishedDateTime: 2020-10-29T19:10:00Z
+    webUrl: "https://www.foxnews.com/transcript/charlie-kirk-enthusiasm-for-president-trump-at-record-highs"
+    ampWebUrl: "https://www.foxnews.com/transcript/charlie-kirk-enthusiasm-for-president-trump-at-record-highs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/charlie-kirk-enthusiasm-for-president-trump-at-record-highs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/90750d5f-eb89-4a23-a199-ce1017a390d9/1edef06c-8465-4365-973c-2b89bcce42ef/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Justice Barrett May Inspire Pro-Life Votes for Trump"
     excerpt: "Suburban women and religious voters like his judicial appointments, even if his character makes them leery of a second term."
     publishedDateTime: 2020-10-29T23:00:00Z

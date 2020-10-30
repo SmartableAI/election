@@ -617,6 +617,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump fights headwinds as he and Biden battle over Florida"
+    excerpt: "If Florida goes blue, it’s over,” Biden told supporters Thursday. Trump on Thursday was celebrating a new federal estimate that the economy grew at a stunning 33.1% annual rate in the July-September quarter — by far the largest quarterly gain on record — making up ground from its epic plunge in the spring,"
+    publishedDateTime: 2020-10-30T02:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-fights-headwinds-as-he-and-biden-battle-over-florida/2020/10/29/3801026a-1a4e-11eb-8bda-814ca56e138b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-fights-headwinds-as-he-and-biden-battle-over-florida/2020/10/29/3801026a-1a4e-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-fights-headwinds-as-he-and-biden-battle-over-florida/2020/10/29/3801026a-1a4e-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
     excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
     publishedDateTime: 2020-10-22T06:50:00Z
@@ -1581,6 +1597,17 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 120
+  - title: "ANALYSIS-Trump woos LGBT+ Americans as polls hand gay vote to Biden"
+    excerpt: "Supporters say Donald Trump is the most gay-friendly president in history yet U.S. policy experts point to his record and polls show much stronger LGBT+ support for Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-29T18:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-lgbt-idUSL1N2HE0U3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HE0U3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HE0U3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 120
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
@@ -2590,6 +2617,15 @@ related:
     excerpt: "Former President Obama delivered remarks at a drive-in campaign rally in North Miami, Florida, in support of former Vice President Joe Biden's 2020 Democratic presidential campaign. The was the former president's second in-person campaign event promoting Mr."
     publishedDateTime: 2020-10-25T20:04:00Z
     webUrl: "https://www.c-span.org/video/?477346-1/president-obama-campaign-event-joe-biden-miami"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Campaigns in Minnesota"
+    excerpt: "Democratic presidential candidate Joe Biden campaigned at a drive-in rally in St. Paul, MN with less than a week to go until Election Day. Mr. Biden is looking to defend the Democrats' 2016 presidential win in the state."
+    publishedDateTime: 2020-10-30T05:00:00Z
+    webUrl: "https://www.c-span.org/video/?477539-1/joe-biden-campaigns-minnesota"
     type: article
     provider:
       name: C-SPAN

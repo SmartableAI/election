@@ -1453,6 +1453,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Here Are the Policy Advisers Who Have Joe Biden’s Ear"
+    excerpt: "Mr. Biden has sought advice across the Democratic Party’s ideological spectrum, but his core advisers on the coronavirus, economics, foreign policy and climate change are familiar figures."
+    publishedDateTime: 2020-10-30T01:59:00Z
+    webUrl: "https://www.nytimes.com/2020/10/29/us/politics/joe-biden-advisers.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/29/us/politics/joe-biden-advisers.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/us/politics/joe-biden-advisers.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/29/us/politics/29biden-advisers1/29biden-advisers1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Lies, Damned Lies and Trump Rallies"
     excerpt: "Donald Trump lies a lot. In fact, he lies so often that several media organizations try to keep a running tally, and even try to draw political inferences from fluctuations in the number of lies he tells in a given month (although the trend has been relentlessly upward )."
     publishedDateTime: 2020-10-29T23:05:00Z

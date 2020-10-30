@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
 type: article
 quality: 140
-heat: 1020
+heat: 1040
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539151186&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R1IF"
         width: 817
         height: 545
+        isCached: true
+  - title: "Here’s Why Massive Rallies May Do Trump More Harm Than Good"
+    excerpt: "Polls show the tightly-packed events are unpopular – and potentially damaging to Trump – as concerns abound over the spread of coronavirus."
+    publishedDateTime: 2020-10-29T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/29/heres-why-massive-rallies-may-do-trump-more-harm-than-good/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/29/heres-why-massive-rallies-may-do-trump-more-harm-than-good/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/29/heres-why-massive-rallies-may-do-trump-more-harm-than-good/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9b2c831150bf866feb830e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D0%26cropY2%3D2531"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Pelosi, Trump administration trade blame over virus aid"
     excerpt: "The major players in Washington’s COVID relief blame game are trading accusations as they mark time before an election that promises to change the landscape for talks that have dragged on for months"

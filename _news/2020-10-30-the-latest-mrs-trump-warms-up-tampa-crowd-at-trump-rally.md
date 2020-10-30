@@ -25,6 +25,22 @@ topics:
   - Donald Trump
 
 related:
+  - title: "The Latest: Trump meets troops involved in al-Baghdadi raid"
+    excerpt: "President Donald Trump quietly met with U.S. Special Forces troops involved in last year’s raid to kill Islamic State leader Abu Bakr al-Baghdadi"
+    publishedDateTime: 2020-10-30T01:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The Latest: Trump Says Final Debate Went 'Really Well'"
     excerpt: "President Donald Trump is reviewing his debate against Democrat Joe Biden, saying he thought it went “really well” and was an “exciting night.”."
     publishedDateTime: 2020-10-23T19:33:00Z

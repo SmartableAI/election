@@ -40,6 +40,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden campaign blames Facebook for $500,000 in lost fundraising "
+    excerpt: "Democratic nominee Joe Biden's campaign said Thursday it had lost out on more than $500,000 in potential campaign donations this week and blamed Facebook after issues with the social media's advertising systems had prevented the campaign from running some ads soliciting donations.\n    \n"
+    publishedDateTime: 2020-10-30T02:21:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QHVupwUnRuk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/tech/biden-facebook-fundraising/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/tech/biden-facebook-fundraising/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029220911-biden-zuckerberg-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden if elected will form task force to reunite 545 separated immigrant children with family, campaign says"
     excerpt: "Joe Biden is pledging that if he's elected president, he will sign an executive order to form a task force that will focus on reuniting the 545 immigrant children who've been separated from their families.\n    \n"
     publishedDateTime: 2020-10-29T14:03:05Z
