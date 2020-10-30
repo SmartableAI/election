@@ -351,6 +351,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's attacks on mail-in ballots could affect military votes"
+    excerpt: "CNN's John Avlon looks at the effect President Trump's proposed purge of mail-in ballots could have on military voters.\n    \n"
+    publishedDateTime: 2020-10-30T13:41:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/or9LNY0ztHU/military-mail-in-voting-avlon-reality-check-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/30/military-mail-in-voting-avlon-reality-check-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/30/military-mail-in-voting-avlon-reality-check-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030084827-john-avlon-reality-check-1030-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump is playing up China's threat to the 2020 election. But the evidence shows, Russia is the real danger"
     excerpt: "For months, the Trump administration has been warning of the dangers of political interference by China in the US election.\n    \n"
     publishedDateTime: 2020-10-24T01:17:35Z

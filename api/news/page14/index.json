@@ -2,6 +2,110 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-17-trump-continued-to-put-us-in-danger-by-referencing-us-says-rachel-vindman-wife-of-key-impeachment-witness.md",
+      "title": "Trump 'continued to put us in danger' by referencing us, says Rachel Vindman, wife of key impeachment witness",
+      "excerpt": "Rachel Vindman -- the wife of former Lt. Col. Alexander Vindman, a key witness in President Donald Trump's impeachment inquiry -- slammed the President on Friday for going after her husband and family.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t4jd2ZyXIlY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t4jd2ZyXIlY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201016140437-rachel-vindman-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/17/politics/rachel-vindman-wife-alexander-vindman-trump-danger/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/rachel-vindman-wife-alexander-vindman-trump-danger/index.html",
+      "publishedDateTime": "2020-10-17T07:30:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-jeannine-lee-lake-whos-running-against-rep-greg-pence-says-shes-receiving-racist-threats.md",
+      "title": "Jeannine Lee Lake, who’s running against Rep. Greg Pence, says she’s receiving racist threats",
+      "excerpt": "A black woman running for a congressional seat in Indiana against Vice President Mike Pence’s brother says she is being inundated with threats and racist messages after the local Delaware",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/pence-brothers-opponent-says-shes-receiving-racist-threats/",
+      "originalUrl": "https://nypost.com/2020/10/17/pence-brothers-opponent-says-shes-receiving-racist-threats/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201017-indiana-greg-pence-threats.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/pence-brothers-opponent-says-shes-receiving-racist-threats/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/pence-brothers-opponent-says-shes-receiving-racist-threats/amp/",
+      "publishedDateTime": "2020-10-17T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-joe-biden-to-visit-durham-on-sunday-as-north-carolinas-early-voting-numbers-soar-charlotte-observer.md",
       "title": "Joe Biden to visit Durham on Sunday as North Carolina’s early voting numbers soar | Charlotte Observer",
       "excerpt": "More than one million North Carolina voters have already cast their ballots, and Democratic presidential nominee Joe Biden is hoping to increase those numbers. Biden will visit Durham on Sunday for a 1 p.",
@@ -1143,115 +1247,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-rudy-giulianis-daughter-says-to-vote-for-biden-and-harris-to-end-trumps-reign-of-terror.md",
-      "title": "Rudy Giuliani's daughter says to vote for Biden and Harris to end Trump's 'reign of terror'",
-      "excerpt": "Caroline Giuliani, the daughter of President Donald Trump's personal attorney and former New York City mayor Rudy Giuliani, is urging Americans to \"end this nightmare\" by voting for Democratic nominee Joe Biden and his running mate Kamala Harris.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_UlRkADBOA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_UlRkADBOA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1825,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201016074545-01-caroline-giuliani-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html",
-      "publishedDateTime": "2020-10-16T06:40:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-warns-of-backlash-if-the-eu-levies-around-4-billion-in-tariffs-after-wto-ruling.md",
-      "title": "Trump warns of backlash if the EU levies around $4 billion in tariffs after WTO ruling",
-      "excerpt": "If they strike back, then we'll strike much harder than they'll strike. They don't want to do anything.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8916f1d260780019341bf5?format=jpeg",
-          "width": 2500,
-          "height": 1249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10?amp",
-      "publishedDateTime": "2020-10-16T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

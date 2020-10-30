@@ -261,6 +261,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "VP Pence, in Arizona, says enthusiasm for Trump greater now than in 2016"
+    excerpt: "PHOENIX — Vice President Mike Pence, campaigning Friday in Arizona ahead of Election Day, believes enthusiasm for President Donald Trump is greater now than it was in 2016. Pence told KTAR News ..."
+    publishedDateTime: 2020-10-30T17:45:00Z
+    webUrl: "https://ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/"
+    ampWebUrl: "https://ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/amp/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 89
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2020/10/ap_2838d59a37064c5aa5590d683595b799-1-1.jpg"
+        width: 620
+        height: 370
+        isCached: true
   - title: "Trump criticized for leaving hospital to greet supporters"
     excerpt: "US President Donald Trump sparked an angry backlash from the medical community Sunday with a protocol-breaking visit to his supporters outside the hospital where he is being treated for the highly-infectious,"
     publishedDateTime: 2020-10-05T11:28:00Z

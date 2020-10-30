@@ -234,6 +234,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Kamala Harris, Mike Pence coming back to NC as candidates trade visits"
+    excerpt: "The Democratic vice-presidential nominee announced plans to appear in Goldsboro and Fayetteville, a day after Vice President Mike Pence is scheduled to be in Wilmington and Greensboro, the Republican candidate’s second visit to the state in five days."
+    publishedDateTime: 2020-10-30T16:11:00Z
+    webUrl: "https://www.thestate.com/news/state/north-carolina/article246833557.html"
+    ampWebUrl: "https://amp.thestate.com/news/state/north-carolina/article246833557.html"
+    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/state/north-carolina/article246833557.html"
+    type: article
+    provider:
+      name: The State
+      domain: thestate.com
+    quality: 100
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/d085c4d8-a702-4a98-b438-17c39bc87d94/1a9f19a3-c8a5-4459-b22b-18ee19a9344e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "More misinformation directed at Harris than Pence"
     excerpt: "Since being named to the presidential ticket, Harris has been at the center of online misinformation campaigns far more often — four times as much — than the white men who campaigned for the same"
     publishedDateTime: 2020-10-29T23:24:00Z

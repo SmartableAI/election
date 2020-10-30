@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-30-criscrossing-texas-in-us-senate-race-hegar-joins-kamala-harris-cornyn-rolls-with-ted-cruz.md",
+      "title": "Criscrossing Texas: In U.S. Senate race, Hegar joins Kamala Harris, Cornyn rolls with Ted Cruz",
+      "excerpt": "U.S. Sen. John Cornyn and his challenger, former Air Force pilot MJ Hegar, are getting some big-name boosts in the final stretch of their Senate race",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/15/00/31/20186702/3/rawImage.jpg",
+          "width": 1935,
+          "height": 1290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
+      "publishedDateTime": "2020-10-30T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-bay-area-political-events-kamala-harris-chief-of-staff-rep-mark-desaulnier.md",
       "title": "Bay Area political events: Kamala Harris’ chief of staff, Rep. Mark DeSaulnier",
       "excerpt": "A conversation with Karine Jean-Pierre, chief of staff to Democratic vice presidential candidate Sen. Kamala Harris, and a town hall meeting with Democratic Rep. Mark DeSaulnier of Concord and Rep. Jamie Raskin,",
@@ -31,49 +83,6 @@
       "provider": {
         "name": "San Francisco Chronicle",
         "domain": "sfchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-kamala-harris-to-visit-rio-grande-valley-fort-worth-and-houston-during-texas-campaign-swing-friday.md",
-      "title": "Kamala Harris to visit Rio Grande Valley, Fort Worth and Houston during Texas campaign swing Friday",
-      "excerpt": "The vice presidential nominee and U.S. senator from California will swing through the state on the final day of early voting before Tuesday's election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/",
-      "originalUrl": "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbnails.texastribune.org/ChodZXE0IOtqQbDjtrU8A5BKi_A=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/fb392dd9d7bc0901a2d7dbd9bddfd252/04_Kamala_Harris_TT.jpg",
-          "width": 1200,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/",
-      "cdnAmpWebUrl": "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/",
-      "publishedDateTime": "2020-10-28T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Texas Tribune",
-        "domain": "texastribune.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -192,7 +201,7 @@
       "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1709,
+      "heat": 1729,
       "tags": null,
       "images": [
         {
@@ -358,7 +367,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 583,
+      "heat": 603,
       "tags": null,
       "images": [
         {

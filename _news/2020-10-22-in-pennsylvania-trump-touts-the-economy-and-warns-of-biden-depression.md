@@ -639,6 +639,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump vs Biden: What's at stake in key emerging markets?"
+    excerpt: "Emerging markets have historically fared better with a Democrat as U.S. president and after this year's underperformance under Republican Donald Trump, much of the sector might welcome the prospect of a Joe Biden victory in Tuesday's election."
+    publishedDateTime: 2020-10-30T06:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-emerging-graphic-idINKBN27F0N0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27F0N0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27F0N0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539373462&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T0EG"
+        width: 877
+        height: 545
+        isCached: true
   - title: "Biden to push into Georgia as Trump embarks on three-state campaign spree"
     excerpt: "With just a week to go until the Nov. 3 election, President Donald Trump and Democrat Joe Biden will criss-cross the country on Tuesday in an intense day of campaigning that will also see former President Barack Obama back on the stump."
     publishedDateTime: 2020-10-27T04:21:00Z

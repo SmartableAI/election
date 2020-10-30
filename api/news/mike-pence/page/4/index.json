@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-08-pence-plays-covid-defense-and-other-things-to-watch-at-the-vice-presidential-debate.md",
+      "title": "Pence plays Covid defense and other things to watch at the vice presidential debate",
+      "excerpt": "It’s the former radio host (turned governor) vs. the former prosecutor (turned senator) in Salt Lake City Wednesday for the first and only vice presidential debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/07/vp-debate-2020-what-to-watch-427305",
+      "originalUrl": "https://www.politico.com/news/2020/10/07/vp-debate-2020-what-to-watch-427305",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/6a/92/4dbc48bc421b81bf662001ed0fcb/201007-pence-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-ed-rollins-vp-debate-harris-pence-faceoff-in-utah-and-america-should-look-to-hear-this-one-word.md",
       "title": "Ed Rollins: VP debate –Harris, Pence faceoff in Utah and America should look to hear this one word",
       "excerpt": "It is not unrealistic to think that Pence or Harris could be America’s president in the not-too-distant future",
@@ -619,7 +676,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 599,
+      "heat": 619,
       "tags": null,
       "images": [
         {
@@ -1508,58 +1565,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-franklin-graham-pence-lead-prayer-march-thanking-god-for-trump-scotus-nominee.md",
-      "title": "Franklin Graham, Pence Lead Prayer March Thanking God for Trump, SCOTUS Nominee",
-      "excerpt": "Christian evangelist Franklin Graham and Vice President Mike Pence led prayers Saturday at the Lincoln Memorial in Washington, thanking God for President Donald Trump and his opportunity to nominate a third Supreme Court nominee. Graham joined former ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451",
-      "originalUrl": "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 376,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1642045/graham-michelle-bachmann-prayer-march.jpg",
-          "width": 1101,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1",
-      "publishedDateTime": "2020-09-26T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

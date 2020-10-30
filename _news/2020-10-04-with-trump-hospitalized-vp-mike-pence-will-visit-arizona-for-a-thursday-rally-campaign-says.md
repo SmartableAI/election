@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3608558001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608558001"
 type: article
 quality: 139
-heat: 599
+heat: 619
 published: true
 
 provider:
@@ -249,6 +249,22 @@ related:
       - url: "https://ktar.com/wp-content/uploads/2020/10/ap_7e3e06fc1c1a4e0891785a8538a2833c-15.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "VP Pence, in Arizona, says enthusiasm for Trump greater now than in 2016"
+    excerpt: "PHOENIX — Vice President Mike Pence, campaigning Friday in Arizona ahead of Election Day, believes enthusiasm for President Donald Trump is greater now than it was in 2016. Pence told KTAR News ..."
+    publishedDateTime: 2020-10-30T17:45:00Z
+    webUrl: "https://ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/"
+    ampWebUrl: "https://ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/amp/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 89
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2020/10/ap_2838d59a37064c5aa5590d683595b799-1-1.jpg"
+        width: 620
+        height: 370
         isCached: true
   - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
     excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."

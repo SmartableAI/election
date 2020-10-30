@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris to visit Rio Grande Valley, Fort Worth and Houston during Texas campaign swing Friday"
-    excerpt: "The vice presidential nominee and U.S. senator from California will swing through the state on the final day of early voting before Tuesday's election."
-    publishedDateTime: 2020-10-28T14:03:00Z
-    webUrl: "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/"
-    ampWebUrl: "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/"
+  - title: "Criscrossing Texas: In U.S. Senate race, Hegar joins Kamala Harris, Cornyn rolls with Ted Cruz"
+    excerpt: "U.S. Sen. John Cornyn and his challenger, former Air Force pilot MJ Hegar, are getting some big-name boosts in the final stretch of their Senate race"
+    publishedDateTime: 2020-10-30T16:10:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php"
     type: article
     provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 61
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 113
     images:
-      - url: "https://thumbnails.texastribune.org/ChodZXE0IOtqQbDjtrU8A5BKi_A=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/fb392dd9d7bc0901a2d7dbd9bddfd252/04_Kamala_Harris_TT.jpg"
-        width: 1200
-        height: 804
+      - url: "https://s.hdnux.com/photos/01/15/00/31/20186702/3/rawImage.jpg"
+        width: 1935
+        height: 1290
         isCached: true
 
 secured: "fE8rd/WiyHYiNfwXWHgf2juEug/VvUXvJZU7H6UdXpX8DWijsjZoGunFkrPz5Vs+0Bg7oE3EyxIicuT6n2bozBMLqbl7I+XMofnbV/ygxZLfaWphf99rTnzxL/7Ux3TTlmlTd/PntDGOgBS8u3UJnEd3Lswp0nHRcd16dieT6nB7wMrmioR9bgj+vRIdVhIxHGXPq4PtfIYHwlkG2XsG0X2lN1UcOcn6Jq7mQKQLl472rUnxYWtH9o4fR/FojDJSTgLQqwcAoF1IiFplJx04MxJaUspHOSMPEUkSS6zlgWMUnNQCMxWVENqas5gtja59+0GsNQtxqFzIQH1JaOA7KBfTYxYAciv3Nj5Gy2HnaIk=;invKPmC9Bhxfl7mGPj1JIw=="

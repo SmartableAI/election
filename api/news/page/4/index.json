@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-28-analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran.md",
+      "title": "Analysis: Biden would face uncertain path to detente with wary Iran",
+      "excerpt": "Joe Biden plans to scrap what he calls the \"dangerous failure\" of President Donald Trump's maximum pressure policy on Iran should he win the U.S. election, but after years of confrontation his diplomacy-first approach to a historic Middle East foe could prove an",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-iran-analysis-int/analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran-idUSKBN27D1E2",
+      "originalUrl": "https://www.reuters.com/article/usa-election-iran-analysis-int/analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran-idUSKBN27D1E2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539111804&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R0RX",
+          "width": 789,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27D1E2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D1E2",
+      "publishedDateTime": "2020-10-28T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville.md",
+      "title": "Hundreds attend rally to see Vice President Mike Pence in Greenville",
+      "excerpt": "The vice president had landed in Greenville, an Upstate South Carolina city that is, in most regards, strongly considered to be Trump country. “I don’t want to lose this country to Joe Biden,\" said Dean Cox,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wyff4.com/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226",
+      "originalUrl": "https://www.wyff4.com/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/img-5460-1603849421.jpg?crop=1.00xw:0.752xh;0,0.111xh&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226",
+      "cdnAmpWebUrl": "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226",
+      "publishedDateTime": "2020-10-28T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WYFF4",
+        "domain": "wyff4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says.md",
+      "title": "White House Claim That Trump Ended The Pandemic Was ‘Poorly Worded,’ Spokesperson Says",
+      "excerpt": "The White House said Wednesday that a news release that listed “ending the Covid-19 pandemic” as an accomplishment of the Trump administration was “poorly worded,” even as President Trump and members of his inner circle continue to talk about the pandemic as if it’s ending.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/",
+      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f999042865a9df7bf8af58e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D192%26cropY2%3D1880",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/amp/",
+      "publishedDateTime": "2020-10-28T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-bay-area-political-events-kamala-harris-chief-of-staff-rep-mark-desaulnier.md",
       "title": "Bay Area political events: Kamala Harris’ chief of staff, Rep. Mark DeSaulnier",
       "excerpt": "A conversation with Karine Jean-Pierre, chief of staff to Democratic vice presidential candidate Sen. Kamala Harris, and a town hall meeting with Democratic Rep. Mark DeSaulnier of Concord and Rep. Jamie Raskin,",
@@ -209,49 +356,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-28-kamala-harris-to-visit-rio-grande-valley-fort-worth-and-houston-during-texas-campaign-swing-friday.md",
-      "title": "Kamala Harris to visit Rio Grande Valley, Fort Worth and Houston during Texas campaign swing Friday",
-      "excerpt": "The vice presidential nominee and U.S. senator from California will swing through the state on the final day of early voting before Tuesday's election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/",
-      "originalUrl": "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbnails.texastribune.org/ChodZXE0IOtqQbDjtrU8A5BKi_A=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/fb392dd9d7bc0901a2d7dbd9bddfd252/04_Kamala_Harris_TT.jpg",
-          "width": 1200,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/",
-      "cdnAmpWebUrl": "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/",
-      "publishedDateTime": "2020-10-28T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Texas Tribune",
-        "domain": "texastribune.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-ricky-martin-says-its-super-sad-to-see-fellow-latinos-back-donald-trump.md",
       "title": "Ricky Martin says it's 'super sad' to see fellow Latinos back Donald Trump",
       "excerpt": "Ricky Martin discussed his support for Joe Biden and the “super sad” prospect of seeing fellow Latinos vote for Donald Trump.",
@@ -433,7 +537,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1410,
+      "heat": 1430,
       "tags": null,
       "images": [
         {
@@ -1206,119 +1310,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome.md",
-      "title": "Trump already chose Barrett successor on appeals court, confirmation possible regardless of election outcome",
-      "excerpt": "With Justice Amy Coney Barrett now on the Supreme Court, a new vacancy has opened on the 7th U.S. Circuit Court of Appeals where she previously sat, and President Trump has already named the person he plans to have replace her on that bench. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8UekYnKR5J4/trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8UekYnKR5J4/trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome.amp",
-      "publishedDateTime": "2020-10-27T10:26:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-pences-office-says-he-did-not-attend-swearing-in-due-to-cdc-guidelines.md",
-      "title": "Pence's office says he did not attend swearing-in due to CDC guidelines",
-      "excerpt": "Vice President Mike Pence did not attend Monday night's White House swearing-in ceremony for Supreme Court Justice Amy Coney Barrett because he was adhering to US Centers for Disease Control and Prevention guidelines to prevent the spread of the coronavirus, an administration official told CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EtkjdtOHEKI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EtkjdtOHEKI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200626153934-02-mike-pence-06-26-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/27/politics/mike-pence-amy-coney-barrett-ceremony/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/mike-pence-amy-coney-barrett-ceremony/index.html",
-      "publishedDateTime": "2020-10-27T09:56:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

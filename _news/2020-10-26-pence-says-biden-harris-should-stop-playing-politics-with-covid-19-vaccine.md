@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-says-biden-harris-should-stop
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp"
 type: article
 quality: 223
-heat: 583
+heat: 603
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/600f2c8e-4145-4869-b692-bda1beee0577/3edf21f2-94b7-4936-8ade-adcf5f57fd92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Harris campaigns in Texas on Friday with longtime ruby red state in play"
+    excerpt: "The Cook Report, a leading nonpartisan political handicapper, this week changed its rating of the state from Lean Republican to Toss Up. The most recent polls indicate Trump with a slight edge over Democratic presidential nominee Joe Biden that's within the margin of error."
+    publishedDateTime: 2020-10-30T16:42:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0PJc-5N79w4/harris-campaigns-texas-ruby-red-state-in-play"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-campaigns-texas-ruby-red-state-in-play.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-campaigns-texas-ruby-red-state-in-play.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49098d46-7495-42b6-b019-47f3b9b3d5b6/f1574a86-0e2b-446d-8e75-4c366c92cc4a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

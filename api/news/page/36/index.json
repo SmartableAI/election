@@ -2,6 +2,101 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-09-22-trump-told-a-crowd-of-nearly-all-white-supporters-that-they-have-good-genes.md",
+      "title": "Trump told a crowd of nearly all white supporters that they have 'good genes'",
+      "excerpt": "Trump has previously suggested that he has superior genes and expressed pride in his \"German blood.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f69141b323fc4001e0d79c7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
+      "publishedDateTime": "2020-09-22T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-maya-rudolph-wins-emmy-as-kamala-harris-jason-bateman-given-ron-cephas-jones-award.md",
+      "title": "Maya Rudolph wins Emmy as Kamala Harris; Jason Bateman given Ron Cephas Jones' award",
+      "excerpt": "Maya Rudolph won a Creative Arts Emmy for her \"SNL\" role as Kamala Harris, and a ceremony gaffe crowned Jason Bateman instead of Ron Cephas Jones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.desmoinesregister.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/",
+      "originalUrl": "https://www.desmoinesregister.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/11/USAT/380ab72e-f05f-4ca6-af75-415b9b632ae5-Harris_rudolph.jpg?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.desmoinesregister.com/amp/5844167002",
+      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5844167002",
+      "publishedDateTime": "2020-09-22T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Des Moines Register",
+        "domain": "desmoinesregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-gop-house-candidate-kim-klacik-claims-voters-with-trump-syndrome-wont-admit-support-for-her-out-loud.md",
       "title": "GOP House candidate Kim Klacik claims voters with ‘Trump syndrome’ won’t admit support for her ‘out loud’",
       "excerpt": "Maryland GOP congressional candidate Kim Klacik’s campaign has caught fire with the help of her viral ads, but many of her would-be constituents are reluctant to outwardly show their support, she told “Hannity” Monday night.",
@@ -1219,110 +1314,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-can-donald-trump-maintain-new-momentum-until-this-november.md",
-      "title": "Can Donald Trump maintain new momentum until this November?",
-      "excerpt": "With just weeks until the election, Donald Trump Donald John Trump US reimposes UN sanctions on Iran amid increasing tensions Jeff Flake: Republicans 'should hold the same positio",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
-      "originalUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_091820getty_0.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp",
-      "publishedDateTime": "2020-09-20T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-joe-biden-told-senate-republicans-to-follow-your-conscience-on-nominee-vote-to-fill-ruth-bader-ginsburgs-seat.md",
-      "title": "Joe Biden told Senate Republicans to 'follow your conscience' on nominee vote to fill Ruth Bader Ginsburg's seat",
-      "excerpt": "Democratic presidential nominee Joe Biden appealed to a \"handful\" of Republican senators that could block a Supreme Court nomination made by Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9",
-      "originalUrl": "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f67c7e357b7da001ee12aba?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp",
-      "publishedDateTime": "2020-09-20T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

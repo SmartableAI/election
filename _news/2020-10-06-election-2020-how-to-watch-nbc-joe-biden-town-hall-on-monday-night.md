@@ -1911,6 +1911,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris brings Biden campaign to Texas"
+    excerpt: "Democratic vice presidential nominee Kamala Harris kicks off a three-city campaign swing through Texas on Friday, signaling that for"
+    publishedDateTime: 2020-10-30T16:58:00Z
+    webUrl: "https://www.statesman.com/news/20201030/kamala-harris-brings-biden-campaign-to-texas"
+    ampWebUrl: "https://www.statesman.com/news/20201030/kamala-harris-brings-biden-campaign-to-texas?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201030/kamala-harris-brings-biden-campaign-to-texas?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 90
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201030&Category=NEWS&ArtNo=201039965&Ref=AR"
+        width: 3000
+        height: 2359
+        isCached: true
   - title: "Live: President Trump and Joe Biden square off in first presidential debate"
     excerpt: "The debate also will be aired on most major networks and cable news channels, including Fox News, CNN, ABC, CBS, NBC, MSNBC, PBS and C-SPAN. The debate is scheduled to start at 9 p.m. ET.  Presidential debate city: In the COVID era,"
     publishedDateTime: 2020-09-29T23:48:00Z
