@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Spurs Coach Gregg Popovich endorses Joe Biden for U.S. President"
+    excerpt: "San Antonio Spurs Coach Gregg Popovich says he's standing with Democratic presidential nominee Joe Biden. The Lincoln Project released a political ad Thursday featuring Popovich, an Air Force veteran,"
+    publishedDateTime: 2020-10-30T06:41:00Z
+    webUrl: "https://www.houstonchronicle.com/news/local/article/Spurs-Coach-Gregg-Popovich-endorses-Joe-Biden-for-15686947.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/77/62/20184206/3/rawImage.jpg"
+        width: 1722
+        height: 979
+        isCached: true
   - title: "What problems did Joe Biden solve during his decades in government?"
     excerpt: "The “60 Minutes” interviews of the presidential and vice-presidential candidates last Sunday were more revealing for questions not asked and for sidestepping than for what inquiring minds really want to know prior to Election Day."
     publishedDateTime: 2020-10-28T19:27:00Z

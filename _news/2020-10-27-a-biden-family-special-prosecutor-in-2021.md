@@ -92,6 +92,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "UPS found Tucker Carlson's documents relating to Biden that vanished in system"
+    excerpt: "After an 'urgent investigation,' UPS located a previously missing package sent to Tucker Carlson he said contained confidential documents about the Biden family."
+    publishedDateTime: 2020-10-29T16:54:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 61
   - title: "Tucker Carlson: We Don't Know Joe Biden's Version Of The Story Is Because No Journalist Has Asked"
     excerpt: "Tucker Carlson accuses the mainstream media of a Soviet-style suppression campaign of a legitimate news story about Hunter Biden days before an election. Carlson said no one believes the media anymore and that \"no one should\" because of this \"attack on our democracy."
     publishedDateTime: 2020-10-29T11:42:00Z

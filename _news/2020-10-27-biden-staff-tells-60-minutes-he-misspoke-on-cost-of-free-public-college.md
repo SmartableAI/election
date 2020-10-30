@@ -236,6 +236,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Expanded-Map Strategy Carries Risk in Pennsylvania"
+    excerpt: "Vice President Joe Biden this week told reporters he hopes to carry Pennsylvania by the “grace of God” and called it a “big deal to me personally as well as politically.” Each question Wallace asked of President Trump was framed upon faulty assertions of untruth and sometimes Wallace actually argued with Trump before Trump's allotted 2 minutes were used."
+    publishedDateTime: 2020-10-29T14:24:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/29/bidens_expanded-map_strategy_carries_risk_in_pennsylvania_527858.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525533_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Philadelphia-area Biden supporters confident they'll make the difference for him in Pennsylvania"
     excerpt: "The path to the White House for Joe Biden could run through the suburbs of Philadelphia. While there's little doubt that the former vice president will win the liberal suburbs of Bucks, Chester, Delaware,"
     publishedDateTime: 2020-10-21T19:07:00Z

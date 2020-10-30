@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B22U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B22U"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/03/18/USAT/38928b0a-784e-42c7-a026-84ee2c8cd485-Biden_1.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Spurs Coach Gregg Popovich endorses Joe Biden for U.S. President"
+    excerpt: "San Antonio Spurs Coach Gregg Popovich says he's standing with Democratic presidential nominee Joe Biden. The Lincoln Project released a political ad Thursday featuring Popovich, an Air Force veteran,"
+    publishedDateTime: 2020-10-30T06:41:00Z
+    webUrl: "https://www.houstonchronicle.com/news/local/article/Spurs-Coach-Gregg-Popovich-endorses-Joe-Biden-for-15686947.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/77/62/20184206/3/rawImage.jpg"
+        width: 1722
+        height: 979
         isCached: true
   - title: "What problems did Joe Biden solve during his decades in government?"
     excerpt: "The “60 Minutes” interviews of the presidential and vice-presidential candidates last Sunday were more revealing for questions not asked and for sidestepping than for what inquiring minds really want to know prior to Election Day."

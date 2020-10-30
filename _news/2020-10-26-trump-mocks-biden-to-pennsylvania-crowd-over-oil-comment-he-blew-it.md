@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
 type: article
 quality: 190
-heat: 470
+heat: 490
 published: true
 
 provider:
@@ -232,6 +232,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/52/524968_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden's Expanded-Map Strategy Carries Risk in Pennsylvania"
+    excerpt: "Vice President Joe Biden this week told reporters he hopes to carry Pennsylvania by the “grace of God” and called it a “big deal to me personally as well as politically.” Each question Wallace asked of President Trump was framed upon faulty assertions of untruth and sometimes Wallace actually argued with Trump before Trump's allotted 2 minutes were used."
+    publishedDateTime: 2020-10-29T14:24:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/29/bidens_expanded-map_strategy_carries_risk_in_pennsylvania_527858.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525533_5_.jpg"
         width: 750
         height: 500
         isCached: true

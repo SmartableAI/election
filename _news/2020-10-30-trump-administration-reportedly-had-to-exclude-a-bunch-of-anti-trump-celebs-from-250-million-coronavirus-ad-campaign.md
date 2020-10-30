@@ -704,6 +704,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "CNN covers how Scott Atlas, Trump's Fox News doctor, drove down Florida's COVID-19 testing"
+    excerpt: "When you do testing to that extent, you're going to find more people, you're going to find more cases. So I said to my people, slow the testing down, please. AVLON: Now Trump's aides said he was joking after that June rally in Tulsa,"
+    publishedDateTime: 2020-10-30T05:04:00Z
+    webUrl: "https://www.mediamatters.org/coronavirus-covid-19/cnn-covers-how-scott-atlas-trumps-fox-news-doctor-drove-down-floridas-covid-19"
+    type: article
+    provider:
+      name: Media Matters for America
+      domain: mediamatters.org
+    quality: 45
+    images:
+      - url: "https://cloudfront.mediamatters.org/static/D8Audio/2020/10/29/new_day_with_alisyn_camerota_and_john_berman_-_08_40_28_am_1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "OlAvGlVo3I5+dfPni20nbh0iJm1JCn+d7jaVV6YDyQw64T47KSlNmV1b97Gk3TCtqPa42OH0IHoFSIMUL2AfIIeQkyIIX1j2dYJoOdhkfQ3c+u7Q1NyjZ5UfZFcoXZBu2VVEDamYG/MjjR6x8eqk96ohYgUn8eIhcNc0YmgCQ6B9vHhDgm1qGfT9Hvu8hcH5uwZogZNfhFThUI4pfRX/zlXrTNYnrmg3wLE1gSWnJ7Q3iC0iDZQcm0cQgvdaa6IioVod9Eokesp7psVAWw/iVasZJSLh4MWLueaD38JutBqyeVL7Q0WAXGmWrOOnQndDi4KbRCtd/tRoDSyMXZXAujzbXh5/XZqEaB+nrm7EhSE=;LyUc2eT2GOIM8yK/RRZZqA=="
 ---

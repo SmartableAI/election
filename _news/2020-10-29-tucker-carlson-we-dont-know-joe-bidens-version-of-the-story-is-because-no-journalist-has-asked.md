@@ -106,6 +106,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "UPS found Tucker Carlson's documents relating to Biden that vanished in system"
+    excerpt: "After an 'urgent investigation,' UPS located a previously missing package sent to Tucker Carlson he said contained confidential documents about the Biden family."
+    publishedDateTime: 2020-10-29T16:54:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 61
 
 secured: "drU7fmswKPzhgiN0JFQ1i+Ek3yXU7ksXByQKPDokjrF6IiIciJu13WH0aqzrHG0b62l5Z6ISwNrY9aeeq8X945SepVVcfNFNam/wMc+ztoMSKu1AxvxNcb2ubFQ7Ey64q4S1oXbwheLWyZNK3QTcSVK85boGWK0ziabEA8EcR5uaOXFYaeeydNImN0WBR3aFOqN6t30YmXGcoTKEm6hPmcpIWiFbq5x+FerQKBkVQ4JKNmQuCdSBe/NDvA5qzM6VnjZnjuehYIq4mLqOrh8TCJAuyBnwu6CtQ1jlINZinAmpc8n2s241T6Cs1C55K4REOXeItl2Yz+J9j9GUj166Qg59vCsucXiuDMT1Q7lwjDHFiR78PP7tfOaHIvLwvu1Ebq/BhF24PuiAZleT/aIK5cGEpzd5vtvxvh5XwJqr5m3m5WLaBmAKUm6kseLgj7t1FV6E6KTpg7z8+xlaPc56PeSXvqoGGOOOF06TYlLQidix1Ya/dy4l5GoouyGjJQL7f5fFO3yB4Pi3EHT+4BcL/w==;1gEDrm8xrjyFckIIkrFs2w=="
 ---

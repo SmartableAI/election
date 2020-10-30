@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-fac
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news"
 type: article
 quality: 140
-heat: 580
+heat: 600
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_540b4669b7be4a3dad8ec3a52f66494b_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump administration lifts federal protections for gray wolf"
+    excerpt: "The Trump administration on Thursday said it would lift Endangered Species Act protections for the gray wolf, arguing the species had been brought back successfully from the brink of extinction."
+    publishedDateTime: 2020-10-30T01:03:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-wildlife-gray-wolf-idUKKBN27E3CH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27E3CH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27E3CH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539325375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S1WY"
+        width: 828
+        height: 545
         isCached: true
   - title: "President Trump abruptly ended his '60 Minutes' interview after 45 minutes"
     excerpt: "The news came shortly after President Donald Trump tweeted a video of '60 Minutes' host Lesley Stahl not wearing a mask inside the White House."

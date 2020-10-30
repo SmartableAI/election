@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-election-october-28.amp"
 type: article
 quality: 205
-heat: 1965
+heat: 1985
 published: true
 
 provider:
@@ -396,6 +396,22 @@ related:
     quality: 190
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20303720362961.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden and Trump hold dueling rallies in battleground Minnesota Friday"
+    excerpt: "Democratic presidential nominee Joe Biden and President Trump cross paths for a second straight day in a crucial battleground state. On Thursday they faced off in Florida. Friday – with just four days to go until the general election on Nov. 3, the showdown takes place in Minnesota."
+    publishedDateTime: 2020-10-30T09:03:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjdMfeaPR4w/biden-and-trump-hold-dueling-rallies-in-battleground-minnesota-friday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-and-trump-hold-dueling-rallies-in-battleground-minnesota-friday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-and-trump-hold-dueling-rallies-in-battleground-minnesota-friday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20263144897094-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

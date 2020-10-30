@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-tr
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/"
 type: article
 quality: 120
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Kristin Cavallari's Ex-Husband Jay Cutler Endorses Donald Trump For President Like Jack Nicklaus"
+    excerpt: "Kristin Cavallari's ex-husband, Jay Cutler, has seemingly endorsed Donald Trump after reposting Jack Nicklaus' message about the POTUS."
+    publishedDateTime: 2020-10-30T02:24:00Z
+    webUrl: "https://www.ibtimes.com/kristin-cavallaris-ex-husband-jay-cutler-endorses-donald-trump-president-jack-3072802"
+    ampWebUrl: "https://www.ibtimes.com/kristin-cavallaris-ex-husband-jay-cutler-endorses-donald-trump-president-jack-3072802?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kristin-cavallaris-ex-husband-jay-cutler-endorses-donald-trump-president-jack-3072802?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/29/jaycutler11.png"
+        width: 1152
+        height: 649
+        isCached: true
 
 secured: "EGcf+gF3IeU5zivT62ykBMtzW8JIMwLo+8GIeslPRW9rXdS1m2EVqmVzEnGxE9xCrsJLqpCB1p5R2YWRzrNHlb8O/3iGZ40sGbBoL7dIOYxaVgoFo7sYVr1RwzeOxegDFgIJO0i/zyN/E0yo4/7GNxSNj+YHeRHkfQqe2be8FCieM6gtEIvfABmef2G/hw0Z9xGe6i/VnJ8SFzIKuzXhQGF/G1Njl9t3mfT9766r5pv2wRnMb3z2zFkxWwFaAb+CZa7yUZ293t5E6T7CZ7o+BIOh2en75PdqvEztLMCd8n0EYMBCBj6qM/zcdgv78kQ6wdbdCONEBoxB7F6k14Dpuk+vYX4AujO4K/OAOm0RbvV8GJY3sEnE1gRymIdUUXhoIV0LY7uEbDclVaqdJMBb0mgCg31v1UUpF0RwRjtql9VRGGtZBAGvjGM5iuQ0lFTcWRAbMTO3LWeyDpHefObj1s8/XsuZyq1TsLlQ2pZE2HF4SBSMe/TzrN7KJNOo1/oo7ctJ3E9DlVaw9WJmymA3hQ==;XnUvXMymZ/5myBytgzT29w=="
 ---

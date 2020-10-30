@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump appointee resigns as a 'matter of conscience' over executive order aimed at civil service"
-    excerpt: "A Trump appointee tasked with advising the administration on federal civil servants' pay has resigned over his objections to a new executive order that appears to provide the President more leeway in the hiring and firing of federal employees deemed disloyal.\n    \n"
-    publishedDateTime: 2020-10-27T23:40:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yLXRc6XYMDI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-administration-executive-order-federal-salary-council/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-administration-executive-order-federal-salary-council/index.html"
+  - title: "Trump struggles to defend lie about Mexico 'paying for the wall'"
+    excerpt: "Trump claims to have yet another idea to get Mexico to pay for a border wall. In reality, it's a fresh con, intended to take the place of an old con."
+    publishedDateTime: 2020-10-22T13:38:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-struggles-defend-lie-about-mexico-paying-wall-ncna1244269"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244269"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244269"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026051259-01-donald-trump-new-hampshire-1025-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3392970/200626-trump-border-wall-jm-1339_c2377799002c4533c808cda3853168ae.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "+XUu3hdCtPyxaVEfBT+VHTO789rhRlUalcQmm5HWHbIKT/02TcKQRnDgoITJtv0sa+EhSMY3sa/ofm+oZ5DRHdsusyq7ljaO1B4x/92HlejdGFXW3kiXCHYz/rLfnmOLC3MhFsK1l2j0Pm00lChozkkmczwgL0pIdB5f+5QkESQhA8qb11dtXUBcx3jyFO1qevho6LP+9qNHkBbm8ErgTWIk4O7JLOtav0h1WFAur9sCmSuvfngFqOjs7R0vprXc1cPU1B1gV5t7emJf+SfV9M9BOyZcd33968Zod//4YLEcmeigKwTtq6ytrN3npVctWk2/PyCZjJ5oLmlumWQQ3tYKMA+igMI7JJdULp18B1c=;B+DnDsPbsgjLdp5JlCidwQ=="

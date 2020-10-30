@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump administration lifts federal protections for gray wolf"
+    excerpt: "The Trump administration on Thursday said it would lift Endangered Species Act protections for the gray wolf, arguing the species had been brought back successfully from the brink of extinction."
+    publishedDateTime: 2020-10-30T01:03:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-wildlife-gray-wolf-idUKKBN27E3CH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27E3CH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27E3CH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539325375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S1WY"
+        width: 828
+        height: 545
+        isCached: true
   - title: "Trump releases '60 Minutes' tape of contentious interview with Lesley Stahl"
     excerpt: "Trump complains about Stahl's questions on the condition of the economy and the resurgence of the COVID-19 pandemic."
     publishedDateTime: 2020-10-22T17:33:00Z

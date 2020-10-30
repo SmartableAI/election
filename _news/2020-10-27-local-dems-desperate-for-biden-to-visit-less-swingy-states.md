@@ -72,6 +72,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Could Joe Biden Actually Bring America Back Together?"
+    excerpt: "President has long valorized comity and respect in the political arena, but the country’s deepest cleavages are now imprinted on Americans’ party affiliations."
+    publishedDateTime: 2020-10-17T19:08:00Z
+    webUrl: "https://www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together"
+    ampWebUrl: "https://www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together/amp"
+    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together/amp"
+    type: article
+    provider:
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 135
+    images:
+      - url: "https://media.newyorker.com/photos/5f8a0f7b994428c9a71a8f3e/master/pass/Luo-Biden.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "A Biden Landslide? Some Democrats Can’t Help Whispering"
     excerpt: "Democrats are still haunted by the ghosts of 2016. But some are allowing themselves to contemplate a Biden victory big enough to reorder the nation’s politics."
     publishedDateTime: 2020-10-21T09:59:00Z

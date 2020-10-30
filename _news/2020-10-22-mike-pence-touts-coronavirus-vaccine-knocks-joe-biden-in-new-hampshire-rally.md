@@ -416,6 +416,22 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Vice President Mike Pence rallies Iowa support for Donald Trump, Joni Ernst"
+    excerpt: "Vice President Mike Pence and U.S. Sen. Joni Ernst stood on stage together Thursday, waving to supporters with the Iowa Senate and presidential races in a dead heat heading into Election Day. “Four years ago you believed we could be strong again,"
+    publishedDateTime: 2020-10-30T06:28:00Z
+    webUrl: "https://www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029"
+    ampWebUrl: "https://www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029?template=amphtml"
+    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029?template=amphtml"
+    type: article
+    provider:
+      name: The Gazette
+      domain: thegazette.com
+    quality: 88
+    images:
+      - url: "https://www.thegazette.com/storyimage/GA/20201029/ARTICLE/201029661/AR/0/AR-201029661.jpg&MaxH=300&MaxW=500"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Forbes Estimates China Paid Trump At Least $5.4 Million Since He Took Office, Via Mysterious Trump Tower Lease"
     excerpt: "Donald Trump maintained a stake in Trump Tower when he became president, and with it, a financial connection to the Chinese government."
     publishedDateTime: 2020-10-24T01:19:00Z

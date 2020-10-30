@@ -623,6 +623,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump and Biden hold dueling town halls"
+    excerpt: "President Trump and former Vice President Joe Biden participated in competing presidential town halls tonight where they discussed a range of topics, including the coronavirus pandemic ..."
+    publishedDateTime: 2020-10-16T00:30:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/us-election-town-halls-10-15-20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/us-election-town-halls-10-15-20/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/us-election-town-halls-10-15-20/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929221553-trump-biden-debate-split-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and Biden town halls: highlights and analysis"
     excerpt: "Trump and Biden's dueling town halls. Trump and Biden were in different cities for the dueling town halls Thursday that replaced their debate. But they may as wel"
     publishedDateTime: 2020-10-16T05:39:00Z

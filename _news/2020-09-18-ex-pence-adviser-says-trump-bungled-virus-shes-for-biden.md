@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 7035
+heat: 7075
 published: true
 
 provider:
@@ -1117,6 +1117,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538806439&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P0BK"
         width: 842
+        height: 545
+        isCached: true
+  - title: "Breakingviews - Trump vs. Biden is sideshow for Xi"
+    excerpt: "American elections are closely watched in China, but this time the outcome of the U.S. presidential election on Nov. 3 may matter less to Beijing. U.S. President Donald Trump’s tough act on China has wrought little real damage."
+    publishedDateTime: 2020-10-30T04:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-elections-china-breakingviews-idUSKBN27F0AQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F0AQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F0AQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539359747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T05Z"
+        width: 775
         height: 545
         isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
@@ -2691,6 +2707,20 @@ related:
     quality: 120
     images:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/10/27/story_07431373_1603821904.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden & Trump campaign in Florida"
+    excerpt: "Watch \"Joe Biden & Donald Trump campaign in Florida ahead of election day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-30T06:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201030065930-joe-biden-donald-trump-campaign-in-florida-ahead-of-election-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/30/story_07479641_1604041563.jpg"
         width: 1280
         height: 720
         isCached: true

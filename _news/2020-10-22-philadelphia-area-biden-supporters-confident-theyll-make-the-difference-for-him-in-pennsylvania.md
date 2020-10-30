@@ -246,6 +246,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Expanded-Map Strategy Carries Risk in Pennsylvania"
+    excerpt: "Vice President Joe Biden this week told reporters he hopes to carry Pennsylvania by the “grace of God” and called it a “big deal to me personally as well as politically.” Each question Wallace asked of President Trump was framed upon faulty assertions of untruth and sometimes Wallace actually argued with Trump before Trump's allotted 2 minutes were used."
+    publishedDateTime: 2020-10-29T14:24:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/29/bidens_expanded-map_strategy_carries_risk_in_pennsylvania_527858.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525533_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "J7nkgiaQVNxWDaeiZ93G+hs8ZZHtNo/IZRA4/pbdpeZKpFIfbMFlZ2oa9JhYhcQBFz6rzjcVnRyhKCnKPXpf1qOqg/4IkDF9jgmcVvTzoNxUOD5EZ+zPHIgobSagcl5SNB8FhWZC0giKYRDU5PB8cviUFe1S978GcjYALpPJyl8RpUz1vW2UPVpkcUjNhtAK8MA6hRVsta+KTZSH7GtjZhTGq3dcKp8ah7Xk/IZ+3qDPufh/e09Jkx1k4IR1vMJUopgmUKdXMny5guEYUJ4L+DfUltoTi90u3hUa8ZV2CXtAbrEo7Uw4/OYE8lG6/xdDxqF51ytTs4qhOHU20cS8o2lO9TZ79KREEeRK/IVAmgHmFkiiROpkQpeoTcsOAXN2NFxhylg6Qe8UgXwAFVX69SBlEFQzafLs1MpLePaB8SjkHRf7NcEmi4n+8B77G736bJWzDUVVhrjczX9s2pbqrP8Wrf8OyE/Ir+wJtTBeJ/NSh+ME6Yd/SCHabitlciozYpBp/oF/4Yu7WIvFfjIqkw==;o1ys27vi6YcHd9OdhfK8dg=="
 ---

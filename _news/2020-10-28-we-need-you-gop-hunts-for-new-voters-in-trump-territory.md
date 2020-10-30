@@ -337,6 +337,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Vice President Pence Holds Rally in Mosinee, Wisconsin"
+    excerpt: "Vice President Pence delivered campaign remarks at a “Make America Great Again” rally in Florida’s state capital of… Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice ..."
+    publishedDateTime: 2020-10-30T09:25:00Z
+    webUrl: "https://www.c-span.org/event/?477463/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "NowKVb1ArYVfzqnlRa2ZJguvx07xxXBd9QD0Hts6g4/mS42hUCMuF0BItgVzEpZtlvw9d6Enf/B1PZramRC950NIcizxgaPW+NqS3836r22E1EDtYKR8XjdtXCu3jcUw6DdRXMOVX0HaqWRQ++xzNnRiZTLtWR+Q6+2S3q1ps9oxiiHdob5cSGxo+aMGvanirL64DpRJuhcMTQ7KUg0d5O7pKH7WtXXAXEeE+HhzCua1StRzPetPM0qpZZWeFUwmQKcwM3z6TmvvWY/H4Br0uucIVK4bHa/k4C6sUANsWOiBfHtA11mHvDPU+pQLiPf3fcCWqEj5NklNInZPcJXAfn7oF6DZIIuqZm2R2avYeCU=;nVZOGfQ+Xfn1tXKccyHY3Q=="
 ---

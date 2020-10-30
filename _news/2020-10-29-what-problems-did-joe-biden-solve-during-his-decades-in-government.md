@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Spurs Coach Gregg Popovich endorses Joe Biden for U.S. President"
+    excerpt: "San Antonio Spurs Coach Gregg Popovich says he's standing with Democratic presidential nominee Joe Biden. The Lincoln Project released a political ad Thursday featuring Popovich, an Air Force veteran,"
+    publishedDateTime: 2020-10-30T06:41:00Z
+    webUrl: "https://www.houstonchronicle.com/news/local/article/Spurs-Coach-Gregg-Popovich-endorses-Joe-Biden-for-15686947.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/77/62/20184206/3/rawImage.jpg"
+        width: 1722
+        height: 979
+        isCached: true
   - title: "Fact check: Hillary Clinton, not Joe Biden, used the phrase 'super predators'"
     excerpt: "Joe Biden referred to Black people as 'super predators' during the passage of the 1994 crime bill. The Violent Crime Control and Law Enforcement Act of 1994, also known"
     publishedDateTime: 2020-10-24T22:34:00Z

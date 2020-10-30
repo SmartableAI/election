@@ -205,6 +205,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris target of more misinformation than Mike Pence, data shows"
+    excerpt: "From July to October, Harris and Republican Vice President Mike Pence have been mentioned almost 48 million times combined on Twitter, compared to only 12 million total mentions of Pence or Virginia Sen. Tim Kaine, who was the Democratic vice presidential ..."
+    publishedDateTime: 2020-10-30T04:57:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-target-of-more-misinformation-than-mike-pence-data-shows/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-target-of-more-misinformation-than-mike-pence-data-shows/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/kamala-harris-target-of-more-misinformation-than-mike-pence-data-shows/amp/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 100
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=15e44150-d440-549d-97b0-6e61bc69267e&type=primary&q=72&width=1200"
+        width: 1199
+        height: 799
+        isCached: true
   - title: "More misinformation directed at Harris than Pence"
     excerpt: "Since being named to the presidential ticket, Harris has been at the center of online misinformation campaigns far more often — four times as much — than the white men who campaigned for the same"
     publishedDateTime: 2020-10-29T23:24:00Z
@@ -1050,6 +1066,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Sen. Kamala Harris (D-CA) Campaigns in Houston"
+    excerpt: "T20:35:00-04:00  2020 vice preisdential candidate Sen. Kamala Harris (D-CA) campaigns in Houston. President Trump won T"
+    publishedDateTime: 2020-10-30T07:22:00Z
+    webUrl: "https://www.c-span.org/video/?477548-1/sen-kamala-harris-d-ca-campaigns-houston"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Senator Kamala Harris Remarks to Spelman College Students in Atlanta, Georgia"
     excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to students at Spelman College in Atlanta, Georgia. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
     publishedDateTime: 2020-10-23T19:04:00Z
@@ -1060,6 +1085,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "egZXPPRY04o5QKhCKqW+HhreFi2hiFspEpRkOXc1p/BTvQu2Pn/uNTHM7AYICHJN3TONzcfptl4thsO41+yBImeFImzvWRUgroZivL7k1Hiwixr6TvKcA9bhEdN/vMFN2iQpC06ARF9k7o2RLT880l4NSVPAk3hM9zIYIh713CZKbBn7wR8VvU73qtSwMS0e/D8/ln2ng1YDiGJZB4uUeNPlsyy8pLgAmJsaVFE26FXJJzb0RV+R6MMKzskWWpMd7RPIUIfhwNrJGoyLSEwvbZtmlunUcrV5daFPsIYd+1trvjv8KwndDaTp8Hh7xlBv5JnvfbXBgUrHMolDgOKTXzjpICnukZFAosIai4g5zEA=;u5e/orGCVIRYL/+Sk2tmNQ=="
+secured: "Y/dZ8CbCN4sIFfcbCq52wOLNL8ComXQI+vCHm6I6A8Q5VWLYSOH8f6uT24ZFT39sGGskx9TnJ7Mmhr4u7TMdY01M4Rno1o7HUgfhUo0g/IGOpVj7Fxhav0pjgFjs+4Ynf7VHc3dBKfHBYvKALv6rxzF06JA0qr+N0pfnJbnwC7oU96Q9amXYJDd6QdqHhprIcsU7axSZLIQhWVbSOVcxcdl9UDPkEUN6h9wJ1k5Psuie48I1c9XRqVPkCG/5CmuQEI8ZJfY1favoEa54KNZBk1AMxj+bMQrKSrCBDzmxs7koceKARa9FaLWVGc/ETYdXJlJG7BbOOujmxfXBA7Gxg1t6u6FU1PKXveslIS+1Sos=;Xm1RTiRw8iJsIQrgRnYv3Q=="
 ---
 

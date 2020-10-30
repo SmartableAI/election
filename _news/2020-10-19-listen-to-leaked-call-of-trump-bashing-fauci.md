@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump made another baseless political claim about Fauci"
+    excerpt: "President Donald Trump baselessly claimed on Thursday that Dr. Anthony Fauci, a key member of the White House's Coronavirus Task Force, was a Democrat when in fact he is not registered with any political party.\n    \n"
+    publishedDateTime: 2020-10-16T03:54:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vatjVt63ojM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/anthony-fauci-trump-democrat-political-party/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/anthony-fauci-trump-democrat-political-party/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump closes his campaign by insulting Dr. Fauci for telling the truth"
     excerpt: "President Donald Trump's election endgame argument, far from bristling with new solutions to a pandemic that has killed 220,000 Americans, on Monday devolved into a campaign of insults against Dr. Anthony Fauci -- for telling the truth about the disease.\n    \n"
     publishedDateTime: 2020-10-20T11:50:43Z

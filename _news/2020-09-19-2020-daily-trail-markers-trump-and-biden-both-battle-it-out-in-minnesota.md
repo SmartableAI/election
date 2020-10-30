@@ -1135,6 +1135,22 @@ related:
         width: 842
         height: 545
         isCached: true
+  - title: "Breakingviews - Trump vs. Biden is sideshow for Xi"
+    excerpt: "American elections are closely watched in China, but this time the outcome of the U.S. presidential election on Nov. 3 may matter less to Beijing. U.S. President Donald Trump’s tough act on China has wrought little real damage."
+    publishedDateTime: 2020-10-30T04:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-elections-china-breakingviews-idUSKBN27F0AQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F0AQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F0AQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539359747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T05Z"
+        width: 775
+        height: 545
+        isCached: true
   - title: "Election live updates: Trump and Biden heading to battleground states as Supreme Court drama plays out"
     excerpt: "President Trump is heading to Ohio while Joe Biden goes to Wisconsin, as debates over who will replace Ruth Bader Ginsburg on the Supreme Court, and how quickly, play out."
     publishedDateTime: 2020-09-21T11:29:00Z
@@ -2691,6 +2707,20 @@ related:
     quality: 120
     images:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/10/27/story_07431373_1603821904.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden & Trump campaign in Florida"
+    excerpt: "Watch \"Joe Biden & Donald Trump campaign in Florida ahead of election day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-30T06:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201030065930-joe-biden-donald-trump-campaign-in-florida-ahead-of-election-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/30/story_07479641_1604041563.jpg"
         width: 1280
         height: 720
         isCached: true

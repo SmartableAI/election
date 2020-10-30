@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamal
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view?_amp=true"
 type: article
 quality: 149
-heat: 1609
+heat: 1649
 published: true
 
 provider:
@@ -205,6 +205,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/cc0ed281-5adb-4618-9ee5-604969d0c8ad/thumbnail/1200x630/fa39c5b4e5cc5d77afb0abb53f77ec75/1026-en-norah-575001-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris target of more misinformation than Mike Pence, data shows"
+    excerpt: "From July to October, Harris and Republican Vice President Mike Pence have been mentioned almost 48 million times combined on Twitter, compared to only 12 million total mentions of Pence or Virginia Sen. Tim Kaine, who was the Democratic vice presidential ..."
+    publishedDateTime: 2020-10-30T04:57:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-target-of-more-misinformation-than-mike-pence-data-shows/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-target-of-more-misinformation-than-mike-pence-data-shows/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/kamala-harris-target-of-more-misinformation-than-mike-pence-data-shows/amp/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 100
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=15e44150-d440-549d-97b0-6e61bc69267e&type=primary&q=72&width=1200"
+        width: 1199
+        height: 799
         isCached: true
   - title: "More misinformation directed at Harris than Pence"
     excerpt: "Since being named to the presidential ticket, Harris has been at the center of online misinformation campaigns far more often — four times as much — than the white men who campaigned for the same"
@@ -1046,6 +1062,15 @@ related:
     excerpt: "Senator Kamala Harris (D-CA) campaigned in Reno, Nevada, one week ahead of Election… 2020 vice presidential nominee Senator Kamala Harris (D-CA) campaigned at an early voting mobilization event in Atlanta."
     publishedDateTime: 2020-10-28T12:28:00Z
     webUrl: "https://www.c-span.org/video/?477473-1/senator-kamala-harris-campaigns-tucson-arizona"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Sen. Kamala Harris (D-CA) Campaigns in Houston"
+    excerpt: "T20:35:00-04:00  2020 vice preisdential candidate Sen. Kamala Harris (D-CA) campaigns in Houston. President Trump won T"
+    publishedDateTime: 2020-10-30T07:22:00Z
+    webUrl: "https://www.c-span.org/video/?477548-1/sen-kamala-harris-d-ca-campaigns-houston"
     type: article
     provider:
       name: C-SPAN

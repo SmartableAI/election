@@ -416,6 +416,22 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Vice President Mike Pence rallies Iowa support for Donald Trump, Joni Ernst"
+    excerpt: "Vice President Mike Pence and U.S. Sen. Joni Ernst stood on stage together Thursday, waving to supporters with the Iowa Senate and presidential races in a dead heat heading into Election Day. “Four years ago you believed we could be strong again,"
+    publishedDateTime: 2020-10-30T06:28:00Z
+    webUrl: "https://www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029"
+    ampWebUrl: "https://www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029?template=amphtml"
+    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029?template=amphtml"
+    type: article
+    provider:
+      name: The Gazette
+      domain: thegazette.com
+    quality: 88
+    images:
+      - url: "https://www.thegazette.com/storyimage/GA/20201029/ARTICLE/201029661/AR/0/AR-201029661.jpg&MaxH=300&MaxW=500"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally"
     excerpt: "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ..."
     publishedDateTime: 2020-10-21T19:58:00Z
@@ -856,6 +872,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "tqxhLAFOCFs8Dwz8H/a3Rvtn4CEbEDTvnmz5je527CyTp0MwpTmlNORFCcWWkEKXyhiugUrY+S/LJnXVXS8stJvuThbHCVGe/eeSgWPOwA1nqXdkVHY5vGXCNdtdUDJZIKoQr6Ee3h8WVH837IyNjde/BiZj67RJDLyp8wvkDYvW45d+O7uH0pjzTtwJc4IRFOezkABZu5XkRep5YXnhGoQue0HxllvTn8fKfjYWfKyiKk3g4xvKrIQApr5LmWDfy5qEJxId2s/boyH1PR92ix3PZSDImeyTaskU6wAPJm1+bosY+n4k2/1+7K4VHFiITYO/4TLXiGekvdPfhlM+D7e71/YgcyzqvWdDV4f8WMU=;fVxOBprMdmJ6MWGL7KxxLg=="
+secured: "qLC4fbKj+IXTXYsLGE6Dp5k5M8KTRi43qE1W1b0Z2UlKraztmSSeIQedmhbsG2kzFomCkVQxbIENIflMghYEmu0qr45o2NSpXL+oRat8JcnEYzWkxTvLVege9s16KUMGy1vXP7aRma1KviqY+L5DlAuNtNyAs3MRHvPCyxKo2RqVuO0SBcMwtxHkR9szOjQnud8S1OCLll3/HiJbbd6ZgyEs0TO7n2SIaJSw3T3aUWMXBpAckYMiJ7ht6YW0Iq9bdvxYF91Ztq5RPAXKTKO5+Uq+gb2ouKjF5z/QSN3m9EYBzGRs6I2o6+wmxS5WiSdNJWAgTFAkSYVi1xc6c8LX2FiCRzdbK+rSpF+IsTYo8iA4RDr6tRZShYEEolsTq67V5PuFvUA2EemGUwldd+fonqdPjddtHpThegljt1/OEB17njgDnJENwBtzRuGG9RRZb2a7GOXD2Jtp/NUS0vD4IooDSw+8gG+gQuteBGFT/deo9AhUo96a7AkMNfY/qp6+/I742iDhJ8wHSjN5Zd+WAw==;bwLQufu1NODzdmDNM6ISLA=="
 ---
 

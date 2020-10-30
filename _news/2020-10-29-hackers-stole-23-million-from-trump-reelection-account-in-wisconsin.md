@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-2
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/"
 type: article
 quality: 140
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -337,6 +337,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Vice President Pence Holds Rally in Mosinee, Wisconsin"
+    excerpt: "Vice President Pence delivered campaign remarks at a “Make America Great Again” rally in Florida’s state capital of… Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice ..."
+    publishedDateTime: 2020-10-30T09:25:00Z
+    webUrl: "https://www.c-span.org/event/?477463/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "TmfzY0rFC7K1/r+oQDGtCR0M+tumj06uuDgBnvRIJPUCYChn9sJjxgys+1NjdZeExT7q2d3RKmjafhYPBK9a6dkXopZJbY1BeBU242dwMqzRZxv92bXxRZlgbb36wbBkK7RhsVSMJQOSit+wEZxD6leq5KJrxjUxQirSjCTg6piGmKjxDR7ONzJgh73r9g/fLKug0vi18CldADwjEh9l6K/QEyE5zFePLRlPIGEu0R/WpuS/4npLH/BN+pGNt4jL0rsnRwYttalVlaanc0mkiJkL15H5znU0pgawp6vgWF5fvjMS2LXeyKEPODP+ec7npk2hx4HM1PiL9myf29ALHA2udVy5RtdQsxpCfFnxMVfEb2/W0DlZRmhYc0rpeDwIeYBWKFPWopq9MtEI9nee4eLh0U+tjpA79EseZWo0ecJJu+1KMqDn4gDzsRZvYfZMMZz8oR0LGswNaAJ8uthVSyZRN78YRHLlbuQUrUDKk221yGiZ+6tKrpqHurcbKa8UDVWOTicETYV7bVBCywVByA==;DZ7GIX8SVrtB+6dnLNHa+w=="
 ---

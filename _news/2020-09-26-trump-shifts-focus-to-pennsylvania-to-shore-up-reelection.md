@@ -2049,6 +2049,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump vs. Biden Tampa Rally Attendance: See Crowd Size Photos"
+    excerpt: "Biden hosted a rally at the Florida State Fairgrounds. Unlike Trump’s rally, Biden’s was a drive-in rally that enforced social distancing. NBC News reported that Biden’s rally was attended by close to 300 cars."
+    publishedDateTime: 2020-10-30T04:44:00Z
+    webUrl: "https://heavy.com/news/trump-vs-biden-tampa-rally-crowd-photos/"
+    ampWebUrl: "https://heavy.com/news/trump-vs-biden-tampa-rally-crowd-photos/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/trump-vs-biden-tampa-rally-crowd-photos/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 90
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-96.jpg?quality=65&strip=all"
+        width: 780
+        height: 440
+        isCached: true
   - title: "Election 2020: Obama Denounces Trump For Not 'Helping Anybody But Himself'"
     excerpt: "Former President Barack Obama, in Philadelphia at his first drive-in rally of the 2020 presidential race, again broke with tradition among former presidents by publicly denouncing Donald Trump."
     publishedDateTime: 2020-10-22T02:44:00Z
