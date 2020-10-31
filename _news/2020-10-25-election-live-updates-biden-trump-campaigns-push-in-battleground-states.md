@@ -832,6 +832,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and Biden teams prep for once-outlandish election standoffs"
+    excerpt: "They're examining arcane laws that haven't come into effect in over a century, arguing the other side might challenge the results, sending states into crises."
+    publishedDateTime: 2020-10-30T14:44:00Z
+    webUrl: "https://www.politico.com/news/2020/10/30/trump-biden-election-scenarios-433663"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/30/trump-biden-election-scenarios-433663"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/30/trump-biden-election-scenarios-433663"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 165
+    images:
+      - url: "https://static.politico.com/df/28/38577bd64fddaaa209595c1f7da1/201029-house-reps-chamber-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Election 2020 live updates: Trump, Biden compete in Midwest battlegrounds"
+    excerpt: "President Donald Trump and Joe Biden are competing for voters in crucial Midwest swing states. Both candidates are heading to Wisconsin and Minnesota. Trump will also visit Michigan and Biden will make a stop in Iowa."
+    publishedDateTime: 2020-10-30T10:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-30-trump-biden-election-n1245315"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245315"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245315"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 164
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Trump continues to falsely claim that spike in coronavirus cases is due to heightened testing "
     excerpt: "President Donald Trump has claimed over and over in the past week -- at campaign rallies, on Twitter and in an interview with \"60 Minutes\" -- that the US is only seeing so many coronavirus cases because the country is doing so much testing.\n    \n"
     publishedDateTime: 2020-10-26T18:03:25Z

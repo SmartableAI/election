@@ -21,19 +21,35 @@ topics:
   - Mike Pence
 
 related:
-  - title: "Joe Biden to visit Durham on Sunday as North Carolina’s early voting numbers soar | Charlotte Observer"
-    excerpt: "More than one million North Carolina voters have already cast their ballots, and Democratic presidential nominee Joe Biden is hoping to increase those numbers. Biden will visit Durham on Sunday for a 1 p."
-    publishedDateTime: 2020-10-17T12:02:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article246508225.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article246508225.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article246508225.html"
+  - title: "Fact Check: Is Kamala Harris ‘more liberal than Bernie Sanders’? | Charlotte Observer"
+    excerpt: "President Donald Trump said during Thursday’s debate that Kamala Harris is “more liberal than Bernie Sanders” and is eager to see government-run health care."
+    publishedDateTime: 2020-10-23T02:19:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246645198.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246645198.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246645198.html"
     type: article
     provider:
       name: Charlotte Observer
       domain: charlotteobserver.com
-    quality: 59
+    quality: 68
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/2530ebd3-c89b-4972-9eff-cfb6c796564b/main/1280x720/1m46s304ms/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/b428e196-612e-452c-83b9-15d61114f11b/dcd15672-7f2e-445a-b020-202ff75ee139/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket? | Charlotte Observer"
+    excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."
+    publishedDateTime: 2020-10-15T21:02:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246481970.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246481970.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246481970.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 52
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/70f7fa99-4b85-46e4-837e-1a7993be9522/60c69175-10cb-490d-936b-43105ffe89f5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

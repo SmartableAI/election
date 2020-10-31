@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Melania Trump posts video that misleads on the President's LGBTQ policies"
+    excerpt: "Melania Trump tweeted a video of herself posted Thursday discussing for three minutes the efforts the Trump administration has made to support the rights of the gay community, blaming sentiments that President Donald Trump opposes gay rights on his \"many enemies in the political establishment.\"\n    \n"
+    publishedDateTime: 2020-10-30T21:05:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQ_C9U67JIs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/melania-trump-lgbtq-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/melania-trump-lgbtq-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028111126-01-melania-trump-campaign-rally-pa-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump renews focus on ex-friend with essay railing against 'pettiness'"
     excerpt: "First lady Melania Trump penned an essay on the White House website on Friday that railed against what she described as the \"pettiness\" of the media and ex-friend and former adviser Stephanie Winston Wolkoff.\n    \n"
     publishedDateTime: 2020-10-16T15:37:32Z

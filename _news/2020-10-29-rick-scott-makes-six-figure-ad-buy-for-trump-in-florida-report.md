@@ -77,6 +77,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Florida judge resigns from vote-counting board after at least a dozen Trump donations discovered"
+    excerpt: "A Florida judge who was leading the Duval County's vote-counting board was forced to resign Thursday after it was uncovered that he had donated hundreds of dollars to President Trump's campaign and the Republican National Committee, and also has Trump-Pence signs covering his front lawn. "
+    publishedDateTime: 2020-10-30T21:47:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fFOIADsNTGg/florida-judge-resigns-vote-counting-board-trump-donations"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Duval.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "EKQW9Di1/qAfG3Bm3b96peWlYJMn28tI6aOQ6syDwKa5vmL3lEFiOLzfaOL1G0hm8Xv2YRleTXn8pRxWmH+A3Q27mPiWS9b89xRwGkfDbkPKEzlXvLPKdFkZ1R0YXWOPEbj+GwnwQbyJxXiYLTWAe/0MvF2CivdzZ61cwqKhOXbKz9Q4pkcPSdNyKabTKjUnHc/VDXXAgAfx/YQP27tIoqNx8eY9xfB6F9gN0yZqrDPFEsgtWkbE/jO1rKSIpJRGwckU3hOr82AbCdB/gtog4i1pYbciL2MKZo/NIAZ07C7V7XfQ6EF0jgA6h3pO2JxAlL4JZAf7GLKbaUMVnrcF/qjLWErPF33v4r08TIyAWus=;d3V1t17nV61WGMd3WJR+Yw=="
 ---

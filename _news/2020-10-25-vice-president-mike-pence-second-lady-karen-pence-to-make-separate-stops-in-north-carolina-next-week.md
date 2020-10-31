@@ -38,6 +38,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 70
+  - title: "Second lady Karen Pence will be in Mount Joy on Wednesday"
+    excerpt: "Second lady Karen Pence is scheduled to visit Lancaster County on Wednesday, less than two weeks before the Nov. 3 election."
+    publishedDateTime: 2020-10-20T14:27:00Z
+    webUrl: "https://lancasteronline.com/news/politics/second-lady-karen-pence-will-be-in-mount-joy-on-wednesday/article_6c911526-12e0-11eb-b73c-c7f86ed6b0f9.html"
+    type: article
+    provider:
+      name: Lancaster Online
+      domain: lancasteronline.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/1/a1/1a16f6e8-bf8d-5241-80bc-27d0396b55de/5f7b89c2e6f05.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "HN6Ox5XZxKI75ziBBr9qYPuWl0u7wqVuk8KU/6HFT0PAboeGY2s00Yi9qdqU7iynoPhgSSVwEPHvxgT6tzHPEo0sesADBVKNnSvcDdMb5NETnW1PWaBSqo9ZvxKIXVj5xiIQoAYRxgjHb8M6QPX67piZpwtQVpzcaxdNPMDaTWkA43ZBT0D8uKe2LgXYEuCYs+Yb70jrTY9DuptKqsmp78/couHzS228UTYeYZBPYXI5LCU9x94YgeHfp2nOmIU7aA4rkE7QQyjfN0H9Q8Fc+YAYtmB3Z9k2/vEJU4DoELdDfPklnfvAjg/1hYLnkERepz6hPW3i+JCX9YccTMaZJbYd/4iIn56W8fEBXHL3WTY=;aVL09GKgNrGfJAA+WnIing=="
 ---

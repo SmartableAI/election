@@ -89,50 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "WATCH: Sen. Kamala Harris questions Supreme Court nominee Amy Coney Barrett on voter suppression"
-    excerpt: "The Supreme Court nominee has refused in two days of testimony in her confirmation hearing to opine on many topics, including whether a president can unilaterally delay the election."
-    publishedDateTime: 2020-10-15T00:28:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/sen-kamala-harris-questions-supreme-court-nominee-amy-coney-barrett-on-voter-suppression"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/sen-kamala-harris-questions-supreme-court-nominee-amy-coney-barrett-on-voter-suppression"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/sen-kamala-harris-questions-supreme-court-nominee-amy-coney-barrett-on-voter-suppression"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 112
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-12T172504Z_1286218462_RC25HJ95J0MV_RTRMADP_3_USA-COURT-BARRETT1-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Kamala Harris injects heat and light at Amy Coney Barrett hearing"
-    excerpt: "The campaigns are intensifying in the final three weeks of the election. In national politics, the focus was on the U.S. Senate hearings on the confirmation of Amy Coney Barrett to the U.S. Supreme Court."
-    publishedDateTime: 2020-10-15T16:05:00Z
-    webUrl: "https://www.houstonchronicle.com/opinion/article/Kamala-Harris-injects-heat-and-light-at-Amy-Coney-15648917.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/55/72/20111037/7/rawImage.jpg"
-        width: 2048
-        height: 1744
-        isCached: true
-  - title: "Senator Kamala Harris questions Amy Coney Barrett on climate change"
-    excerpt: "During Senate confirmation hearings on Wednesday, Senator Kamala Harris asked Supreme Court nominee Amy Coney Barrett about her views on climate change. Barrett called it \"very contentious matter of public debate."
-    publishedDateTime: 2020-10-16T17:11:00Z
-    webUrl: "https://www.cbsnews.com/video/senator-kamala-harris-questions-amy-coney-barrett-on-climate-change/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/f5232d35-12a8-4058-8f65-4a63922f4d16/thumbnail/1200x630/b0d15f3cd593a7247ff342ec1f1ffa68/cbsn-fusion-senator-kamala-harris-questions-amy-coney-barrett-on-climate-change-thumbnail-567264-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Joe Biden Would Be a Sea Change For the Oil Industry"
     excerpt: "A reversion to a less in-your-face style of U.S. leadership would lead to a steadier, albeit duller, oil market."
     publishedDateTime: 2020-10-18T06:10:00Z
@@ -146,22 +102,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XABZUARA4I6XNAERUPGOXWHAE.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Pressure on Kamala Harris, Dianne Feinstein at Amy Coney Barrett’s confirmation hearing"
-    excerpt: "When Judge Amy Coney Barrett is seated Monday for her Supreme Court confirmation hearing, California Sens. Dianne Feinstein and Kamala Harris will be in focus and facing different pressures in one of the biggest moments of each of their careers."
-    publishedDateTime: 2020-10-11T11:12:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 67
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/50/24/20088119/5/375x250.jpg"
-        width: 367
-        height: 250
         isCached: true
   - title: "Joe Biden: Senators should not consider Amy Coney Barrett's faith in confirmation process"
     excerpt: "Democratic presidential nominee Joseph R. Biden said Monday that Judge Amy Coney Barrett’s Catholic faith should not be a consideration in Judge Barrett’s confirmation hearings for the U.S. Supreme Court."
@@ -179,22 +119,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Claire McCaskill Says Kamala Harris Grilling Was First to ‘Hurt’ Amy Coney Barrett’s Credibility"
-    excerpt: "Claire McCaskill said that Senator and vice-presidential nominee Kamala Harris was the first questioner to hurt Judge Amy Coney Barrett's credibility at the ongoing Supreme Court confirmation hearings."
-    publishedDateTime: 2020-10-14T16:53:00Z
-    webUrl: "https://www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/"
-    ampWebUrl: "https://www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 62
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joy-Reid-Claire-McCaskill.jpg"
-        width: 1200
-        height: 624
-        isCached: true
   - title: "Jim Carrey’s Biden impression is a below-average Joe"
     excerpt: "It’s a misguided choice that makes me think more about Carrey and his style than about Biden while I’m watching."
     publishedDateTime: 2020-10-19T21:14:00Z
@@ -206,20 +130,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
-  - title: "Kamala Harris Grilling Amy Coney Barrett On The Affordable Care Act Is Everything"
-    excerpt: "Donald Trump's third Supreme Court nominee, Amy Coney Barrett, commences day three of her Senate confirmation hearings on Oct. 14, in the midst of one of the most contentious presidential elections of the decade."
-    publishedDateTime: 2020-10-14T20:00:00Z
-    webUrl: "https://www.elitedaily.com/p/kamala-harris-grilling-amy-coney-barrett-on-the-affordable-care-act-is-everything-38532442"
-    type: article
-    provider:
-      name: Elite Daily
-      domain: elitedaily.com
-    quality: 50
-    images:
-      - url: "https://imgix.bustle.com/uploads/getty/2020/10/13/8790f30f-3e1d-4148-a1b0-ccd0413eb6d7-getty-1229045538.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "If Amy Coney Barrett Has To Apologize for Saying Sexual 'Preference,' Does Joe Biden?"
     excerpt: "Sens. Mazie Hirono and Cory Booker both criticized the Supreme Court nominee for saying \"preference\" instead of \"orientation.\""
     publishedDateTime: 2020-10-14T02:45:00Z

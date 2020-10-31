@@ -294,6 +294,20 @@ related:
         width: 4262
         height: 3240
         isCached: true
+  - title: "Coronavirus Is A Key Campaign Issue: What's Joe Biden's Plan?"
+    excerpt: "With cases surging, the coronavirus pandemic is heating up as an election issue. Voters have seen President Trump's approach to the crisis play out in real-time, but how would Biden handle things?"
+    publishedDateTime: 2020-10-28T19:45:00Z
+    webUrl: "https://www.npr.org/sections/health-shots/2020/10/28/928392673/coronavirus-is-a-key-campaign-issue-whats-joe-biden-s-plan"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/27/biden_wide-d2ce06a26f17d40267637f287c6c07c5694d9841.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump could face a relapse, experts warn, as president opts to downplay nation's coronavirus threat despite massive death toll"
     excerpt: "President Donald Trump rolled out of Walter Reed hospital confidently urging the nation not to fear the coronavirus despite experts warning the U.S. death toll, at more than 210,000, could almost double by year's end."
     publishedDateTime: 2020-10-06T19:21:00Z

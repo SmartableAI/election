@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris' Charlotte event goes virtual after campaign staffers test positive for coronavirus"
+    excerpt: "Kamala Harris' trip to North Carolina has been canceled after two campaign staffers tested positive for COVID-19, the Joe Biden-Kamala Harris campaign announced Thursday. Instead, Harris is planning to hold a virtual event in North Carolina on the first day of early vote Thursday."
+    publishedDateTime: 2020-10-16T08:07:00Z
+    webUrl: "https://www.wcnc.com/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
+    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
+    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
+    type: article
+    provider:
+      name: WCNC
+      domain: wcnc.com
+    quality: 62
+    images:
+      - url: "https://media.wcnc.com/assets/WCNC/images/648fddce-80bd-4ba4-b4a3-0a14d91c24b8/648fddce-80bd-4ba4-b4a3-0a14d91c24b8_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Beyoncé, Kerry Washington, Kamala Harris and More Celebrate What Would've Been George Floyd's 47th Birthday"
     excerpt: "Today marks what would have been George Floyd's 47th birthday. In honor of the occasion, a score of celebs posted tributes to his life, his memory and his impact. Actors, public figures, politicians and activists all joined in on commemorating the day,"
     publishedDateTime: 2020-10-15T05:43:00Z
@@ -58,20 +74,6 @@ related:
       - url: "https://media.kvue.com/assets/ETONLINE/images/c6234b46-27b0-423f-a452-2daa2c3e2498/c6234b46-27b0-423f-a452-2daa2c3e2498_750x422.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Kamala Harris in Florida: where and when will she campaign?"
-    excerpt: "Joe Biden's running mate will resume her campaign in Florida as the Democrats look to overhaul the Republicans in the most vital of swing states."
-    publishedDateTime: 2020-10-18T20:53:00Z
-    webUrl: "https://en.as.com/en/2020/10/18/latest_news/1603050982_131904.html"
-    type: article
-    provider:
-      name: as.com
-      domain: as.com
-    quality: 55
-    images:
-      - url: "https://as01.epimg.net/en/imagenes/2020/10/18/latest_news/1603050982_131904_1603057692_noticia_normal.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "lWtGfj6wiJXcIKg6vAG8R7GbyLERBVeW/XzhJfZAI1eQzYtH245iBV4PqFLNRoDSec46ceneI34YYFFiBcra9B3j28bl9CXvAIZ1gtQtY8P138ETgoAVsyXkfjp/azBj92v85KIO0IdygO5Nz6XYghQWsRhcFa1urLMuU05iNSnMDEYg6kLc53XPqDs834cTBPnQ8ASmvpM21BYrpLOXNDSpTr+Y3rYu3DiDg7wAHhXyVelHCkiRqcFOhxvID2QsouG1/X6+t74aXNGOE20nw8g4IclpGYg74arawNgxHrh8xaeD4s8GZQcTXeOBZYYGlOOZdm+qmXTt1c07ztd3Lr+GunvYyE0MOjfMrelUWTtTegY4vsy+uK6hhh1DaFw7XDxzsofVuPFM0BfPL1cCzqbRR87r+9WnzVhRTccDQqI/xcXavwH0TKs9/kPv92Cwa01fDglVpcKJbSCVa80ZuzJhkWVVne3/7S7aqaoWjvu9DTFm6AtBjx3SKanNh9nMi92BuZKZnmEO+MpD38XKSw==;2/ZO6OmNUfAu7iCr1cGecw=="

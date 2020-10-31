@@ -1804,6 +1804,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "In Florida retirement community, Biden supporters try chipping away Trump's edge"
+    excerpt: "When President Donald Trump held a rally at The Villages retirement community in Florida last week, Stan and Carol Swies were among throngs of other Trump supporters who showed up hours early, excited to see him speak."
+    publishedDateTime: 2020-10-30T06:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/florida-retirement-community-biden-supporters-chipping-trumps-edge/story?id=73885095"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/Politics/senior-voter-carts-ap-ps-201023_1603486023880_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 557
+        isCached: true
   - title: "Trump's campaign is despondent as he keeps reusing strategies which worked against Hillary Clinton but aren't landing on Joe Biden, reports say"
     excerpt: "The New York Times and The Associated Press reported that Trump's team worry that he has failed to adapt his strategy to his opponent."
     publishedDateTime: 2020-10-19T10:40:00Z
@@ -2144,6 +2158,15 @@ related:
         width: 2440
         height: 1312
         isCached: true
+  - title: "How Joe Biden May Have Outmaneuvered Donald Trump On Energy, Climate, and the Economic Recovery"
+    excerpt: "As the politics of climate change rapidly shifted, Biden built a campaign centered on addressing it by creating new jobs"
+    publishedDateTime: 2020-10-30T19:48:00Z
+    webUrl: "https://time.com/5905000/biden-trump-energy-climate/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 88
   - title: "President Trump, Mike Pence planning final campaign surge in Arizona next week"
     excerpt: "In the final days before the November 3 election, President Trump’s campaign is planning a final surge in Arizona."
     publishedDateTime: 2020-10-24T06:09:00Z

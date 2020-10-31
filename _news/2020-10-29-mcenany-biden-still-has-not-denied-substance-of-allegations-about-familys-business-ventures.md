@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Twitter CEO Dorsey pressed by Cruz on restricting Hunter Biden stories: 'Who the hell elected you?'"
-    excerpt: "Sen. Ted Cruz, R-Texas, ripped into Twitter CEO Jack Dorsey, accusing him and his social media platform of improperly censoring reporting from the New York Post that reflected poorly on Joe Biden, despite not acting consistently regarding stories about President Trump."
-    publishedDateTime: 2020-10-28T16:27:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uY-TQeHpTN8/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a75ac2c0-3ff6-4df6-9779-60be2371201e/3bfc2233-b79f-4a7c-b21e-48a5e273e900/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "LidUTPCLhSqejACUnjoKaCuc1e3j5EwGyAX8ROWUQOFilbtIVH2ixMjU2gwC9chRlm0vDY7u5vmsX9rJWwaXmrTq9WhKjGFf7Dnr2cINOnyycc9ZQb0JERk7JELy4SOWOJxLa+S2IIE0tzxvB/f/tIGQoORi/JNWQkSZrbqS7HdEG4UyjM0r9Gel7+HMNrQd5SZjVzpLNuvY8Uvox8v8BcLucXM1pkV9s4wp4coLhWHBGlgV1rzgO4V+UBfHBFxC1NYKSLqN66+z00EEoyX8x3RLISfkR15xIV77+sjPD0SBdM/JlEzDnOWwOML40Nrq71ishLAQDVvoayLKqZV0Gjqh3EPmAKwz5U+trArYdn4=;kd2RJ7QEZt7gCgLcShw9fg=="
 ---

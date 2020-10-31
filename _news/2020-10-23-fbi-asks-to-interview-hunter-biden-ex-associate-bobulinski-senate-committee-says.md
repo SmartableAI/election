@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/fbi-interview-request-hunter-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-interview-request-hunter-biden-ex-associate-tony-bobulinski-senate-committee.amp"
 type: article
 quality: 170
-heat: 330
+heat: 310
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "DOJ, citing Hunter Biden story, Justice Thomas, supports changes to Section 230 in letter to Congress"
-    excerpt: "The Department of Justice (DOJ) on Tuesday sent a letter to congressional leaders advocating for changes to Section 230 of the Communications Decency Act, a law passed about 25 years ago that prevents tech companies from being sued for user content posted on their platforms. "
-    publishedDateTime: 2020-10-28T16:09:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAhQImxanro/doj-citing-hunter-biden-story-justice-thomas-supports-changes-to-section-230-in-letter-to-congress"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 140
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be276ed1-e6a3-4a5a-933b-707157d6ae65/651c60c4-05f1-4959-8be6-3f5ba1ed74b6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Did Tony Bobulinski expose criminal wrongdoing by Joe Biden?"
     excerpt: "Tonight, we're tracking multiple breaking stories including the interview you just saw with the Biden whistle-blower, Tony Bobulinski. We'll unpack his serious corruption allegations against the Bidens."

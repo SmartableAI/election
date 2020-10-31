@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-l
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_23d275ca72c845dbb990b4fab407e173_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "West Virginia voters laud Trump for trying to save coal"
+    excerpt: "Four years after Donald Trump donned a miner’s helmet at a West Virginia campaign rally and vowed to save a dying industry, coal has not come roaring back"
+    publishedDateTime: 2020-10-30T06:07:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/west-virginia-voters-laud-trump-save-coal-73919061"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/west-virginia-voters-laud-trump-save-coal-73919061"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/west-virginia-voters-laud-trump-save-coal-73919061"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Fact check: Donald Trump and Mar-a-Lago's fight with Palm Beach over a flagpole"
     excerpt: "Donald Trump and Palm Beach sparred over the size of a flag at his estate. A post about that fight is a mixture of true and false."

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "West Virginia voters laud Trump for trying to save coal"
+    excerpt: "Four years after Donald Trump donned a miner’s helmet at a West Virginia campaign rally and vowed to save a dying industry, coal has not come roaring back"
+    publishedDateTime: 2020-10-30T06:07:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/west-virginia-voters-laud-trump-save-coal-73919061"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/west-virginia-voters-laud-trump-save-coal-73919061"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/west-virginia-voters-laud-trump-save-coal-73919061"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Trump attends church service in Las Vegas"
     excerpt: "U.S. President Donald Trump made a rare visit to church Sunday as he and Democratic rival Joe Biden campaigned across the country from one another. (Oct. 18)"
     publishedDateTime: 2020-10-18T19:15:00Z

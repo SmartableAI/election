@@ -54,7 +54,7 @@ related:
   - title: "Joe Biden looks like a safe pair of hands for the US economy"
     excerpt: "Contrary to popular belief, Democratic presidents have been better for the economy than Republicans"
     publishedDateTime: 2020-10-28T07:00:00Z
-    webUrl: "https://www.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy?ref=hvper.com"
+    webUrl: "https://www.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy"
     ampWebUrl: "https://amp.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2020/oct/28/joe-biden-looks-like-a-safe-pair-of-hands-for-the-us-economy"
     type: article

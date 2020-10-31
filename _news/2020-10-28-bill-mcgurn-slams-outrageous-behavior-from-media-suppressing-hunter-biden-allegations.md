@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp"
 type: article
 quality: 167
-heat: 227
+heat: 207
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Twitter CEO Dorsey pressed by Cruz on restricting Hunter Biden stories: 'Who the hell elected you?'"
-    excerpt: "Sen. Ted Cruz, R-Texas, ripped into Twitter CEO Jack Dorsey, accusing him and his social media platform of improperly censoring reporting from the New York Post that reflected poorly on Joe Biden, despite not acting consistently regarding stories about President Trump."
-    publishedDateTime: 2020-10-28T16:27:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uY-TQeHpTN8/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a75ac2c0-3ff6-4df6-9779-60be2371201e/3bfc2233-b79f-4a7c-b21e-48a5e273e900/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "xX5hYeCx2nBFIKmfleTc9aj+Eg1d4BQ672KOQP8aPeOaoIwA+xMkzpaqXJ38Jbj8CX2hSfoqDi5LXBDJU/bFTfw+oUEbs77FBx2ZzbwJHH8l8Jv07cabNkb8xK7vxdqPirYxitz1dfzffGakGxLGjGiHP3DWv8/eCVqcyFtUNYMWsJkEGgxGFCTvDvyMOsKMhNHnSfvFIG80lJXdGLc6RUFAIAPNw8xrIf9zMNpreCtTupqmI/n91b1HfXnMg+HBIa1xVY07i9t8dViiWKFEkreQqmZ+sjqof8ZdMtgabguJJRA582avku2pcP7lBndzrVE1Y5hxAro1ygEAEERZZm9wkV5nwx5Z2X9Zu24nI4c=;YC5ymeAxFC85pjYm7/GyLA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6031990002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002"
 type: article
 quality: 133
-heat: 1253
+heat: 1273
 published: true
 
 provider:
@@ -280,6 +280,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201026&i=RCV008WDL&r=RCV008WDL&t=2"
         width: 4262
         height: 3240
+        isCached: true
+  - title: "Coronavirus Is A Key Campaign Issue: What's Joe Biden's Plan?"
+    excerpt: "With cases surging, the coronavirus pandemic is heating up as an election issue. Voters have seen President Trump's approach to the crisis play out in real-time, but how would Biden handle things?"
+    publishedDateTime: 2020-10-28T19:45:00Z
+    webUrl: "https://www.npr.org/sections/health-shots/2020/10/28/928392673/coronavirus-is-a-key-campaign-issue-whats-joe-biden-s-plan"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/27/biden_wide-d2ce06a26f17d40267637f287c6c07c5694d9841.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "President Trump, first lady test positive for coronavirus days after first debate"
     excerpt: "President Donald Trump and first lady Melania Trump have tested positive for COVID-19 and \"will begin our quarantine and recovery process immediately.\""

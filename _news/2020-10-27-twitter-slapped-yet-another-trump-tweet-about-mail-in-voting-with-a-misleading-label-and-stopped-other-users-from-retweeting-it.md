@@ -253,6 +253,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "With Lil Wayne, Ice Cube And 50 Cent, Trump Makes Final Push For Black Voters"
+    excerpt: "The Trump campaign has spent more than $20 million on a strategy to appeal to Black voters, Polls show Trump has improved narrowly with young Black voters, particularly men."
+    publishedDateTime: 2020-10-30T09:01:00Z
+    webUrl: "https://www.npr.org/2020/10/30/929177685/with-lil-wayne-ice-cube-and-50-cent-trump-makes-final-push-for-black-voters"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 102
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/29/gettyimages-1228710316-1-_wide-26cc6b1e416775704e54529a03f318199710494a.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Man arrested at Trump rally with South Dakota's Noem"
     excerpt: "Police in Maine on Wednesday arrested a man who displayed two weapons at a campaign rally for President Donald Trump where South Dakota Gov. Kristi Noem was appearing. Noem spokeswoman Maggie Seidel said Noem's security detail engaged a man who had two weapons."
     publishedDateTime: 2020-10-28T17:57:00Z

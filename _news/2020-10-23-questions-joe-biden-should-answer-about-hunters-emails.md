@@ -124,6 +124,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden makes first general election stop in Iowa, where COVID cases are rising"
+    excerpt: "It’s been nearly 9 months since Joe Biden’s set foot in Iowa."
+    publishedDateTime: 2020-10-30T21:35:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/77jFMSUo9fU/biden-makes-first-general-election-stop-in-iowa-where-covid-cases-are-rising"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-makes-first-general-election-stop-in-iowa-where-covid-cases-are-rising.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-makes-first-general-election-stop-in-iowa-where-covid-cases-are-rising.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Maryland man charged after note discovered threatening televised execution of 'Grandpa Biden,' Harris"
     excerpt: "A Maryland man is facing a federal charge for allegedly threatening the lives of Democratic presidential nominee Joe Biden and his running mate Sen. Kamala Harris, D-Calif., in a handwritten note left at the home of a Biden/Harris supporter."
     publishedDateTime: 2020-10-21T19:03:10Z
@@ -153,6 +169,22 @@ related:
     quality: 184
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49098d46-7495-42b6-b019-47f3b9b3d5b6/f1574a86-0e2b-446d-8e75-4c366c92cc4a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Significant share of Biden supporters are anti-Trump, not pro-Biden: Fox News poll"
+    excerpt: "There are concerns that a lack of enthusiasm about Biden could discourage some voters from turning out."
+    publishedDateTime: 2020-10-30T22:19:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zd_g1rcN_sM/biden-supporters-anti-trump-fox-news-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supporters-anti-trump-fox-news-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supporters-anti-trump-fox-news-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18e6a223-b6ec-4508-83e6-5cd9796db3a4/32a8dde4-2511-4c01-957d-cc517a5c2a04/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

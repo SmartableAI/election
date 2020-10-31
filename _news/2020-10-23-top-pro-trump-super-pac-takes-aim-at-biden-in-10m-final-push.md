@@ -445,6 +445,54 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden rips 'ugly' Trump supporters honking horns at Minnesota rally"
+    excerpt: "The former vice president appeared to grow irritated when the horn-honking interrupted his explanation for supporting a nationwide mask mandate."
+    publishedDateTime: 2020-10-30T22:58:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gAzcX-zlu_I/biden-ugly-folks-trump-supporters-honking-horns-minn-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ugly-folks-trump-supporters-honking-horns-minn-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ugly-folks-trump-supporters-honking-horns-minn-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d76bcc9c-6988-46fd-8da3-d067f177bcbe/12ec263b-26ce-4529-831a-5dea75d3c86b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fox News Poll: Biden's lead over Trump narrows slightly to 8 points"
+    excerpt: "Former Vice President Joe Biden’s lead over President Trump in the 2020 presidential race has narrowed a touch to 8 points from a 10-point advantage in early October, according to a Fox News national survey of likely voters.   "
+    publishedDateTime: 2020-10-30T22:00:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j33fL8Q8hG4/poll-biden-trump-lead-narrows-slightly"
+    ampWebUrl: "https://www.foxnews.com/politics/poll-biden-trump-lead-narrows-slightly.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/poll-biden-trump-lead-narrows-slightly.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump pitches ‘back to normal’ as Biden warns of tough days"
+    excerpt: "President Donald Trump dangled a promise to get a weary, fearful nation “back to normal” on Friday as he looked to campaign past the political damage of the devastating pandemic."
+    publishedDateTime: 2020-10-30T22:04:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KOgAQjs4XC4/trump-pitch-normal-biden-warns-tough-days"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pitch-normal-biden-warns-tough-days.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pitch-normal-biden-warns-tough-days.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20304657210535.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pennsylvania energy workers feature heavily in Trump, Biden bid for votes"
     excerpt: "The two 2020 contenders have clashed over Biden’s stance on hydraulic fracturing."
     publishedDateTime: 2020-10-28T01:37:48Z
@@ -1492,6 +1540,20 @@ related:
       - url: "https://assets.realclear.com/images/47/477943_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Trump Ad Mocks \"Sleepy Joe\": \"It's 10 PM! Does Joe Biden Know Where Joe Biden Is?\""
+    excerpt: "The Trump campaign mocked Joe Biden Tuesday with this new ad portraying him as an old fool. Related Topics: Joe Biden, Trump Campaign, Election 2020"
+    publishedDateTime: 2020-10-28T13:19:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/28/trump_ad_mocks_sleepy_joe_its_10_pm_does_joe_biden_know_where_joe_biden_is.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 74
+    images:
+      - url: "https://assets.realclear.com/images/52/525449.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "How Arizona Complicates Trump's Reelection Bid"
     excerpt: "RealClearPolitics"

@@ -431,6 +431,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump counting on final get-out-the-vote push to fuel narrow path to victory"
+    excerpt: "President Donald Trump and other Republicans are arguing in the final days of the campaign that their superior ground game will make a critical difference on Election Day and allow them to turn out their voters in enough states to reach the 270 electoral votes needed to win.\n    \n"
+    publishedDateTime: 2020-10-30T23:18:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sV4JXss6mfQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/trump-campaign-ground-game/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/trump-campaign-ground-game/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030171543-trump-wisconsin-1030-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's rallies make no political sense. Here's why he does them anyway."
     excerpt: "President Donald Trump's bout with coronavirus gave him the chance for a reset on the top 2020 election issue. Characteristically, he has spurned it.\n    \n"
     publishedDateTime: 2020-10-18T11:26:55Z

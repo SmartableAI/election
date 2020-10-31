@@ -1133,6 +1133,22 @@ related:
         width: 842
         height: 545
         isCached: true
+  - title: "Biden farms for crucial votes in Trump Country"
+    excerpt: "By planting a sign in early October supporting Joe Biden on a country road near her Minnesota dairy farm, Meg Stuedemann initially stood out from her neighbors."
+    publishedDateTime: 2020-10-30T11:30:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN27F1KA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F1KA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F1KA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539407337&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T0Z4"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Breakingviews - Trump vs. Biden is sideshow for Xi"
     excerpt: "American elections are closely watched in China, but this time the outcome of the U.S. presidential election on Nov. 3 may matter less to Beijing. U.S. President Donald Trump’s tough act on China has wrought little real damage."
     publishedDateTime: 2020-10-30T04:41:00Z
@@ -1544,6 +1560,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 135
+  - title: "Biden Win Would Be A Mixed Blessing For Aerospace, But A Trump Win Could Be Worse"
+    excerpt: "President Trump has been supportive of the aerospace industry, but some of his ideas about trade and security could be quite damaging."
+    publishedDateTime: 2020-10-30T13:38:00Z
+    webUrl: "https://www.forbes.com/sites/lorenthompson/2020/10/30/biden-win-would-be-a-mixed-blessing-for-aerospace-but-a-trump-win-could-be-worse/"
+    ampWebUrl: "https://www.forbes.com/sites/lorenthompson/2020/10/30/biden-win-would-be-a-mixed-blessing-for-aerospace-but-a-trump-win-could-be-worse/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2020/10/30/biden-win-would-be-a-mixed-blessing-for-aerospace-but-a-trump-win-could-be-worse/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 135
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c1674054575a97ac1bbb0%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump Cuts Joe Biden's Lead in Half After Ruth Bader Ginsburg's Death: Poll"
     excerpt: "President Donald Trump gained five points on Democratic presidential candidate Joe Biden in poll data released Thursday."
     publishedDateTime: 2020-09-24T21:26:00Z

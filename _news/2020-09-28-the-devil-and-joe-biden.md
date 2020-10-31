@@ -508,6 +508,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to reverse many of Trump’s immigration policies if elected"
+    excerpt: "Democratic nominee Joe Biden will reverse a number of President Trump’s policies on immigration if elected to the White House -- something that supporters believe will lead to a more humane approach, but that officials at the border and in the White House are warning will lead to chaos."
+    publishedDateTime: 2020-10-30T21:25:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DmHgm647Rfc/biden-trumps-immigration-policies-elected"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trumps-immigration-policies-elected.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trumps-immigration-policies-elected.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Live Updates: 2020 presidential race, Biden vs. Trump"
     excerpt: "The presidential race is entering the final stretch between President Trump and Democratic nominee Joe Biden, with the election just four days away."
     publishedDateTime: 2020-10-30T02:49:31Z
@@ -521,6 +537,22 @@ related:
     quality: 190
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/600baf7d-7dad-477b-8c3a-707f43983b61/d9849e90-f92f-4191-9b5f-0f4ccd71757b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump, Biden and a tale of two tax plans in 2020"
+    excerpt: "President Trump and former Vice President Joe Biden have very different strategies for taxing Americans. The president has promised more tax cuts and his Democratic challenger has promised to make corporations and the wealthy pay their \"fair share.\""
+    publishedDateTime: 2020-10-30T20:26:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePmRvn6GFKs/trump-biden-tale-two-tax-plans-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-tale-two-tax-plans-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-tale-two-tax-plans-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/296cacad-a487-477c-a401-47d8cc5602b4/d77cb2b1-80b2-4176-941a-009d9b70a403/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
