@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Scarborough Says Biden Struggling with Florida Hispanics: ‘Especially Latino Men’"
+    excerpt: "MSNBC host and former Congressman Joe Scarborough said Democratic presidential nominee Joe Biden needs to improve his share of the vote among Florida Hispanics in order to win the state."
+    publishedDateTime: 2020-10-29T15:07:00Z
+    webUrl: "https://www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/"
+    ampWebUrl: "https://www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 68
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/MJJ-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "IUe3z5eDP5wIF8WNZk87xTpOPiMF11X9Omq7ToBOTttbx1/izlNm+g+rxWUKdTNWlfPcc/r8S0nn3FctVfuxKkZk7vybAxWekI6iMkkWcQZs6PJGLrDw8ETh8xnGZI8MLGsEZsqAeUN019vSeMP17C74Eza17BHziTisALuWVOLz6VknqcJV7dGJmadyEZ6W5+bNDZVJRDPlNbruTWphmXLY7w7kPt4E/V1fNgDOAd+r2uR27PKqAzuMzwPh0xBZ7mWovRWol7xG1ue1sSAycg29E9AE4oOksLPSK6iqKzceB02F2in1irbquchqDYbFECPoirEdSEG8HitIGGwjgI95CI35h63vLR+QIizLDT/py+JUfXWpInyYWEToqtGnVlXN2/RTdJsclg5b+C4oyMUpxaSLUNScUYtoPqTHs3mZNXM46aP4zRuXOvtyNzi41lWpzs6+GNfxxadEUZtscnlLX/jc69w6M13u5kKmdqfPsEhOhRMHreP635pidcHaIqiFO92rQIFz462NmkO+KQ==;kHYaSB+c0vk/z731omOsQg=="
 ---

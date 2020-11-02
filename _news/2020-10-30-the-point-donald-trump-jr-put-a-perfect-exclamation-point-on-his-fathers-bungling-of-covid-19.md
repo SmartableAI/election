@@ -47,35 +47,35 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump seems to strike a new tone on masks: 'If you get close, wear a mask'"
-    excerpt: "President Donald Trump struck a slightly a new tone on mask-wearing at a rally on Thursday, telling a group of largely maskless, shoulder-to-shoulder supporters that he thinks wearing a mask is appropriate when social distancing isn't possible.\n    \n"
-    publishedDateTime: 2020-10-29T21:53:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/320rlFYwXBY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/trump-masks-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/trump-masks-election-2020/index.html"
+  - title: "Trump administration set to announce Medicare and Medicaid will cover Covid vaccine"
+    excerpt: "The Trump administration is set to announce as early as this week that Medicare and Medicaid will cover out-of-pocket costs for a potential coronavirus vaccine that is granted emergency use authorization, according to a person familiar with the matter.\n    \n"
+    publishedDateTime: 2020-10-27T13:56:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oKaKQ8ZAVtA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/coronavirus-vaccine-trump-admin-medicare-medicaid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/coronavirus-vaccine-trump-admin-medicare-medicaid/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029155018-01-trumps-tampa-1029-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928091433-01-trump-0923-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump uses Midwestern swing to launch false attacks on doctors while Covid cases rise"
-    excerpt: "With three days to go in a campaign that's been dominated by the pandemic, President Donald Trump made the baseless and politically perilous claim that American doctors are profiting from Covid-19 deaths during a visit to the critical electoral region of the Midwest, where former Vice President Biden"
-    publishedDateTime: 2020-10-31T11:59:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0PIrRDt7Cvc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
+  - title: "Many counties that hosted Trump rallies had a significant increase in Covid-19 cases"
+    excerpt: "A CNN investigation of 17 Trump campaign rallies finds that  14 of the host counties -- 82% of them -- had an increased rate of new Covid-19 cases one month after the rally.\n    \n"
+    publishedDateTime: 2020-10-30T02:25:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PblhZr90iU8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/health/covid-trump-rallies-counties-cases/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/health/covid-trump-rallies-counties-cases/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030194342-trump-kasparov-oped-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924114945-01-trump-bemidji-mn-rally-0918-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

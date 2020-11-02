@@ -123,6 +123,22 @@ related:
         width: 4992
         height: 4006
         isCached: true
+  - title: "Brett Favre says he will vote for Donald Trump, expected to appear with president at Green Bay rally"
+    excerpt: "Brett Favre became the latest ex-athlete to declare his support for President Donald Trump, tweeting that the Republican nominee will have his vote on Friday. The former NFL quart"
+    publishedDateTime: 2020-10-30T16:09:00Z
+    webUrl: "https://www.freep.com/story/sports/nfl/2020/10/30/brett-favre-donald-trump-2020-election/6084326002/"
+    ampWebUrl: "https://amp.freep.com/amp/6084326002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6084326002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/05/USAT/baf2b429-623c-4b49-bb82-7b10cc4c203f-XXX_0807_Clemson_practice__28.jpg?auto=webp&crop=2317,1303,x100,y86&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "kWcK0aAR2IydeYFqtRdfTILmEuhk/v41xSwgZZUt0Oxj6KXXhB8tJFKbACIj0dWdeopYKC7PjMPS9HpkwwfddgSt467gxb4BlX1Vb/2IO9Ow/i+z4VzhUkdvqIzSYNN7h+1tit7TapcrC+NkJqa4tSFAu/y+PQxJhOdgtP/ez/HuRWpR7qIyG+fmEql81eMVOx6a7uGE9MEG2QTEZlZetKfa8LPw6DN/yYhVkYJpKaeOS9OPQpkWs9FKceXOmu69PYqwKQyFCiA0I09Rao6cDHRZN+7sK/r9hd9w2+0ka0wsIhKaJWIiX820KgxL3oKlT72yeY8ITZ3zXAv5W0KXYfERJbZENLwrEf4HgSNEpBo=;86qUKzfn5O7oscLeZly9EA=="
 ---

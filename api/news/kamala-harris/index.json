@@ -2,63 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-01-lady-gaga-and-john-legend-to-join-joe-biden-and-kamala-harris-for-final-campaign-events.md",
-      "title": "Lady Gaga and John Legend to join Joe Biden and Kamala Harris for final campaign events",
-      "excerpt": "Superstars Lady Gaga and John Legend will join Joe Biden and Kamala Harris for their final respective events on the campaign trail on the eve of Election Day, the Biden campaign announced Sunday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/36z-f9SM6zk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/36z-f9SM6zk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 312,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160225091736-lady-gaga-joe-biden-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html",
-      "publishedDateTime": "2020-11-01T12:51:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-30-criscrossing-texas-in-us-senate-race-hegar-joins-kamala-harris-cornyn-rolls-with-ted-cruz.md",
       "title": "Criscrossing Texas: In U.S. Senate race, Hegar joins Kamala Harris, Cornyn rolls with Ted Cruz",
       "excerpt": "U.S. Sen. John Cornyn and his challenger, former Air Force pilot MJ Hegar, are getting some big-name boosts in the final stretch of their Senate race",
@@ -171,7 +114,7 @@
       "originalUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -436,6 +379,63 @@
       ]
     },
     {
+      "path": "_news/2020-10-26-how-kamala-harris-and-jill-biden-are-subverting-stepmom-stigma-in-america.md",
+      "title": "How Kamala Harris and Jill Biden are subverting stepmom stigma in America",
+      "excerpt": "Democratic vice presidential candidate Kamala Harris and Democratic presidential nominee Joe Biden's wife, Jill, are now two of the highest-profile examples of stepmotherhood in America. (Melania Trump is also a stepmom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_43/3422264/201022-kamala-harris-family-ac-719p_c7acd8698887b667884fa7eb98bdca9c.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1244373",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244373",
+      "publishedDateTime": "2020-10-25T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-fact-check-is-kamala-harris-more-liberal-than-bernie-sanders-charlotte-observer.md",
       "title": "Fact Check: Is Kamala Harris ‘more liberal than Bernie Sanders’? | Charlotte Observer",
       "excerpt": "President Donald Trump said during Thursday’s debate that Kamala Harris is “more liberal than Bernie Sanders” and is eager to see government-run health care.",
@@ -476,63 +476,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-fact-check-where-does-kamala-harris-stand-on-health-care.md",
-      "title": "Fact check: Where does Kamala Harris stand on health care?",
-      "excerpt": "Trump claimed that Biden's running mate, Sen. Kamala Harris, D-Calif., supports \"socialized medicine.\" \"He wants sociali",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244434",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244434",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244210",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210",
-      "publishedDateTime": "2020-10-22T19:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
       ]
     },
     {
@@ -795,7 +738,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 118,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1543,6 +1486,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-hillary-clinton-praises-kamala-harris-debate-performance-she-swatted-away-the-lies-with-ease.md",
+      "title": "Hillary Clinton praises Kamala Harris debate performance: 'She swatted away the lies with ease'",
+      "excerpt": "Hillary Clinton congratulated Democratic vice presidential nominee Kamala Harris (D-Calif.) on Thursday for what the former secretary of State called a “masterful debate performance” the night before.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she",
+      "originalUrl": "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/clintonhillary_08282019_2.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp",
+      "publishedDateTime": "2020-10-08T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

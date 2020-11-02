@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "HIPAA and what it means for Trump, his doctor and the American public"
+    excerpt: "Lots of questions have surrounded President Donald Trump's health after he announced last week that he had tested positive for coronavirus.\n    \n"
+    publishedDateTime: 2020-10-07T11:25:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151932-02-sean-conley-walter-reed-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "On economic aid, Trump seems to realize he 'messed up tactically'"
     excerpt: "It dawned on the oft-confused president that sabotaging himself in the final four weeks of re-election campaign wasn't such a good idea."
     publishedDateTime: 2020-10-09T13:33:00Z

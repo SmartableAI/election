@@ -1,0 +1,97 @@
+---
+category: news
+title: "Lil Wayne Shows His Support for Donald Trump After Having a 'Great Meeting' with the President"
+excerpt: "Lil Wayne is expressing support for Donald Trump. The rapper, 38, shared a photo with Trump, 74, on Twitter Thursday, saying that they had a \"great meeting.\" Lil Wayne (né Dwayne Michael Carter Jr.) also praised the president's Platinum Plan,"
+publishedDateTime: 2020-10-30T02:03:00Z
+originalUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/"
+webUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/"
+ampWebUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
+cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
+type: article
+quality: 63
+heat: -1
+published: false
+
+provider:
+  name: People
+  domain: people.com
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F29%2Flil-wayne.jpg"
+    width: 1500
+    height: 781
+    isCached: true
+
+related:
+  - title: "Trump keeps calling $750 tax payment a 'filing fee.' Experts say there's no such thing"
+    excerpt: "President Donald Trump keeps bringing up what he calls a $750 filing fee for his federal income tax returns. What's that all about?"
+    publishedDateTime: 2020-10-25T22:12:00Z
+    webUrl: "https://www.usatoday.com/story/money/columnist/2020/10/23/president-donald-trump-keeps-bringing-up-what-he-calls-750-filing-fee-his-federal-income-tax-returns/6010994002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6010994002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6010994002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Incoming Sarasota School Board member getting backlash for calling Trump supporters ‘Nazis’"
+    excerpt: "The newest member of the Sarasota County School Board is facing backlash for calling Trump supporters Nazis in a 2017 Facebook post."
+    publishedDateTime: 2020-10-20T20:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/education/2020/10/19/sarasota-school-board-member-called-trump-supporters-nazis-2017/3710042001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3710042001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3710042001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/NSHT/c84afe4c-edcb-4ae9-946f-328495ddf94e-EdwardsTom_01.jpg?auto=webp&crop=4149,2334,x0,y399&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "RNC chairwoman say Republicans who distance themselves from Trump are 'hurting themselves in the long run'"
+    excerpt: "Her comments came after Trump lashed out at Nebraska Sen. Ben Sasse for leaked audio from a constituent town hall where he criticized the president."
+    publishedDateTime: 2020-10-18T18:14:00Z
+    webUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5f8c7e90c21cfb0019468a88?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump keeps confusing the name of new hard-to-kill missiles the US military is working on with a toothbrush"
+    excerpt: "Not only does Trump keep getting the name wrong, but he has also provided conflicting information on what the weapon actually does."
+    publishedDateTime: 2020-10-20T23:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5b74902142e1cc5b777140d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "fbWl4XLaf9Ss5BgCC6d8YALiYoGnYlMA/trCMocmitHgPkF5hr2YccUWmu1qfk6NpYiAIgkwxRXEc739wkvQDgwyZJnus633sKCUbsdyTzgmYL2CSLT/4btSmazJxdfrkSIPW4er5hjrMPV/L73Jd18tZxaPR1atpWBQELZjai9hqF5sCjB9sVH4H6K+odMNadCalb8wCVqEyqGX6zKow1Wm341bhwMOLsTgIursbXfKsdcGTUBCFNqxCEtlifqv4f0Ryj8WSvJV//W4fnPz92pUsj8zrxmrTGtkYYyhVbLRyJC46RriJvKYvg/PxczKwVkCktaAo8fUsbUf8pxp+2Ul86C3axjSAaXY68VOe/M=;+Dk8xIx7q4QEUZghcTX6qA=="
+---
+

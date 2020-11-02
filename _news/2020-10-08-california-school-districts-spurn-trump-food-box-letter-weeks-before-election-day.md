@@ -414,22 +414,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden looks to seal election after Trump's week from hell"
-    excerpt: "Joe Biden is on the campaign trail. Donald Trump is in the hospital. In a role reversal, the president who mocked his rival for being weak and hiding “in his basement” is stuck in isolation under doctors’ supervision while Biden jets off to states like Michigan on Friday and Florida on Monday,"
-    publishedDateTime: 2020-10-03T23:40:00Z
-    webUrl: "https://www.politico.com/news/2020/10/03/biden-looks-to-seal-election-after-trumps-week-from-hell-425891"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/03/biden-looks-to-seal-election-after-trumps-week-from-hell-425891"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/03/biden-looks-to-seal-election-after-trumps-week-from-hell-425891"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 165
-    images:
-      - url: "https://static.politico.com/dc/98/bebcc9f041c9a5bf1eb65efee2ff/gettyimages-1278114433-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Trump's doctor walks backs comments on timing of President's Covid-19 diagnosis and treatment"
     excerpt: "Doctors treating President Donald Trump for Covid-19 created confusion on Saturday with remarks during a briefing that appeared to shift the timeline of Trump's positive coronavirus test and treatment. Trump's physician, Dr. Sean Conley, released a statement afterward to try to clarify the comments.\n"
     publishedDateTime: 2020-10-03T23:13:17Z
@@ -541,22 +525,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/08/us/politics/08interruptions1/08interruptions1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "A bullish Biden campaign invades Trump territory"
-    excerpt: "In a move that would have been far-fetched even a few months ago, Joe Biden is set to spend $6.2 million on ads in the state over the next month — attempting to put the state in play for the first time in decades."
-    publishedDateTime: 2020-10-07T08:34:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/joe-biden-trump-territory-426802"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/joe-biden-trump-territory-426802"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/joe-biden-trump-territory-426802"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/5e/f7/8fdf17e9485f806b65259c3c25a4/201006-biden-getty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "2020 Election Live Updates: With Clock Ticking Down, Trump Lashes Out"
     excerpt: "President Trump, down by double digits in national polls, is attacking his enemies and even his aides. His doctor said the president could return to public engagements tomorrow. Joe Biden heads to Nevada today."

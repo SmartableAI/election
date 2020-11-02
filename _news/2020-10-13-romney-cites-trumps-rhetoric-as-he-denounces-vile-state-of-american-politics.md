@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/mitt-romney-trump-pelosi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/mitt-romney-trump-pelosi-kamala-harris-attacks/index.html"
 type: article
 quality: 171
-heat: -1
-published: false
+heat: 291
+published: true
 
 provider:
   name: CNN
@@ -31,233 +31,102 @@ images:
     isCached: true
 
 related:
-  - title: "Trump mounts bizarre and misleading White House return despite warnings"
-    excerpt: "A strongly medicated President Donald Trump bolted from his VIP hospital bubble Monday, staging a bizarre White House comeback that included an irresponsible mask removal and a reckless pronouncement there is nothing to fear from Covid-19, which has already killed 210,000 Americans.\n    \n"
-    publishedDateTime: 2020-10-06T11:17:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/llKqpPMyq1I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "READ: White House physician says Trump is taking Remdesivir and 'doing very well'"
-    excerpt: "President Donald Trump is being treated at Walter Reed National Military Medical Center for Covid-19 and has begun receiving an anti-viral drug, his doctor announced Friday night.\n    \n"
-    publishedDateTime: 2020-10-03T04:43:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iwdEuHQHqeg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/white-house-physician-trump-covid/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/white-house-physician-trump-covid/index.html"
+  - title: "Top Trump administration official met with Assad regime over imprisoned Americans"
+    excerpt: "A top Trump administration official met with the Assad regime in Damascus this fall in an effort to secure the release of American prisoners believed to be held by the Syrian dictator, two administration officials confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-10-19T02:20:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EZf3VcMsLas/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002221504-trump-covdi19-camilo-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170406214544-syria-bashar-al-assad-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump furious at chief of staff for contradicting White House physician, sources say"
-    excerpt: "President Donald Trump is furious with chief of staff Mark Meadows after the top West Wing official contradicted the White House physician's assessment Saturday of the President's health, two sources with knowledge of the situation told CNN on Sunday.\n    \n"
-    publishedDateTime: 2020-10-04T17:49:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bOun6CZXDUs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/trump-mark-meadows-chief-of-staff/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/trump-mark-meadows-chief-of-staff/index.html"
+  - title: "Federal judge strikes down Trump rule that could have cut food stamps for nearly 700,000 unemployed Americans "
+    excerpt: "A federal judge Sunday struck down a Trump administration rule that could have stripped food stamps from nearly 700,000 people, saying the US Department of Agriculture has been \"icily silent\" about how many Americans would have been denied benefits had the changes been in effect during the pandemic.\n"
+    publishedDateTime: 2020-10-19T01:48:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o9aQ1SERkpU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/food-stamps-trump-administration-work-requirements/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/food-stamps-trump-administration-work-requirements/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002125747-03-mark-meadows-1002-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001121600-snap-food-stamps-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Vulnerable Senate Republicans tie themselves to Barrett with Trump's numbers eroding "
-    excerpt: "Endangered Senate Republicans have a new running mate in the battle to keep their narrow majority: Amy Coney Barrett.\n    \n"
-    publishedDateTime: 2020-10-14T02:59:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vnev-xi5RxM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/senate-republicans-barrett/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/senate-republicans-barrett/index.html"
+  - title: "Trump and Biden and America's two, polarized political realities live on prime time"
+    excerpt: "(CNN)More than 800 Americans died from Covid-19 Thursday, yet President Donald Trump still played the victim. On a night of simultaneous town halls on rival TV channels, Trump and Democratic ..."
+    publishedDateTime: 2020-10-16T06:21:00Z
+    webUrl: "https://www.cnn.com/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 144
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013092118-04-barrett-hearing-1013-graham-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015230410-biden-trump-town-halls-2-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Democratic leaders accuses Trump team of 'deliberately' withholding information about White House outbreak"
-    excerpt: "Senate Democratic leaders charged Tuesday that the White House has been \"opaque and secretive\" in providing information about the coronavirus outbreak that sickened President Donald Trump and several other people at the White House, demanding details about the timeline and contending that details are"
-    publishedDateTime: 2020-10-06T15:03:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o4Tl1RqqNO4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/schumer-letter-white-house-covid/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/schumer-letter-white-house-covid/index.html"
+  - title: "Whitmer says Trump 'inciting' domestic terrorism as Trump campaign adviser dismisses President's incendiary rhetoric as 'having fun' at rallies"
+    excerpt: "Michigan Gov. Gretchen Whitmer called out President Donald Trump on Sunday for incendiary comments he made about her during a weekend campaign rally, saying the President's heightened rhetoric just days after authorities foiled a plot by extremists to kidnap her is \"inciting this kind of domestic terrorism.\"\n"
+    publishedDateTime: 2020-10-18T15:02:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1LPyD80W_A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/gretchen-whitmer-lara-trump-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/gretchen-whitmer-lara-trump-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 157
+    quality: 139
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200421095136-chuck-schumer-0414-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201008124357-01-gretchen-whitmer-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "North Carolina Democrat's sex scandal renews GOP hopes of keeping majority despite Trump's drag on the ticket"
-    excerpt: "President Donald Trump's eroded political standing has hurt GOP senators in crucial races across the country, but Republicans now hope a sex scandal in North Carolina will help them fend off the Trump effect in a race that's central to holding the Senate majority.\n    \n"
-    publishedDateTime: 2020-10-09T19:52:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4g8mbzoPQ-E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/north-carolina-senate-race-cal-cunningham-thom-tillis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/north-carolina-senate-race-cal-cunningham-thom-tillis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 156
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009111757-02-cunningham-tillis-debate-1001-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'I am feeling well!': Trump gives update on Twitter"
-    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center on Friday, the same day he announced he and first lady Melania Trump had tested positive for Covid-19. The president was \"doing very well\" and did not require supplemental oxygen,"
-    publishedDateTime: 2020-10-04T03:17:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241990"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+  - title: "Trump is 'legitimizing' hate incidents against Asian Americans: U.N. experts"
+    excerpt: "The experts wrote that “U.S. authorities have utterly failed to take the steps required to detect, monitor, and prevent racist and xenophobic incidents” toward Asian Americans."
+    publishedDateTime: 2020-10-17T08:13:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/u-n-experts-trump-legitimizing-hate-incidents-against-asian-americans-n1243791"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243791"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243791"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 132
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3413558/200921-un-anniversary-mc-9473_e1dfda68f626dc90d8518a14ef374869.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump tells White House doctor: ‘I feel great!’"
-    excerpt: "The President this morning says ‘I feel great!’” Trump's physician, Sean Conley, wrote in a memo released by the White House press office."
-    publishedDateTime: 2020-10-07T18:12:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/trump-white-house-doctor-great-427258"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/trump-white-house-doctor-great-427258"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/trump-white-house-doctor-great-427258"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/54/ca/74c914574613b7438bafc99eab5b/20201007-djtwh-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump makes brief first public appearance since returning from hospital"
-    excerpt: "The president again downplayed the coronavirus, as he seeks to project a sense of normalcy in the final few weeks before the election."
-    publishedDateTime: 2020-10-10T19:12:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-makes-brief-first-public-appearance-returning-hospital-n1242829"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242829"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242829"
+  - title: "Romney decries state of America's 'vile, vituperative, hate-filled' politics, puts blame largely on Trump"
+    excerpt: "Romney said he's \"troubled\" by U.S. politics having \"moved away from spirited debate to a vile, vituperative, hate-filled morass\" unbecoming of America."
+    publishedDateTime: 2020-10-13T15:28:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/romney-decries-state-america-s-vile-vituperative-hate-filled-politics-n1243154"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243154"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243154"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 118
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3419061/201010-donald-trump-white-house-mn-1420_5c11ab86a068428a6f421852ceea4ed1.JPG"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2019_43/3066261/191023-mitt-romney-ew-354p_c77d2968ce9850c2647d31469de00994.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump and the GOP are using Kyle Rittenhouse in last-ditch 2020 voter strategy"
-    excerpt: "With weeks to go before a chaotic and close election, Republicans are cultivating a vigilante identity — someone who breaks the rules to make things right."
-    publishedDateTime: 2020-10-04T08:36:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-gop-are-using-kyle-rittenhouse-last-ditch-2020-voter-ncna1241940"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241940"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241940"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416625/201001-kyle-rittenhouse-jm-0936_ba06d965e936a9e276a03c1a82c2a974.jpg"
-        width: 2000
-        height: 1331
-        isCached: true
-  - title: "Coming full circle, Trump returns to false, misguided 'flu' rhetoric"
-    excerpt: "Nearly seven months after his misguided \"think about that!\" tweet, comparing COVID-19 to the flue, the Republican has apparently come full circle."
-    publishedDateTime: 2020-10-06T17:04:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/coming-full-circle-trump-returns-false-misguided-flu-rhetoric-ncna1242286"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2020_40/3417238/201003-donald-trump-cs-944a_65547e5ac6566da3ad7106431d825dca.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Newsom points to Trump to defend masking 'between bites' at restaurants"
-    excerpt: "Gavin Newsom pushed back hard Wednesday against Republicans and conservative media slamming his recent tweet calling for masks in between restaurant bites, flipping it back on President Donald Trump by saying critics should \"soberly take a look at what's going on in the White House'' and consider the severe impact of the Covid-19 pandemic on Americans and the economy."
-    publishedDateTime: 2020-10-08T01:15:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/10/07/newsom-pushes-back-on-gop-criticism-of-his-mask-tweet-1322262"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/dd/98/543c5dcf457192472a4ec33989f6/ap20184626091205-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump hits the final sprint with an economy facing withdrawal"
-    excerpt: "The president’s approval rating on the economy remained his bright spot. But he darkened that outlook by shutting the door on a comprehensive economic aid package just as millions of Americans start voting."
-    publishedDateTime: 2020-10-07T19:20:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/trump-economy-withdrawal-427360"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/a4/b3/07014c8046ed9a88a87f549fbaa1/ap20280831002575-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Everything We Know About When Trump Got Sick, His Treatment, And How He Is Now"
-    excerpt: "He is currently being treated at Walter Reed medical center. How exactly is he doing and how long has he been ill? That is more up in the air than I think most American citizens would prefer! Here’s everything we know—and everything we don’t—regarding the timeline of when he was diagnosed,"
-    publishedDateTime: 2020-10-03T20:23:00Z
-    webUrl: "https://slate.com/technology/2020/10/trump-covid-timeline-questions.html"
-    ampWebUrl: "https://slate.com/technology/2020/10/trump-covid-timeline-questions.amp"
-    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/10/trump-covid-timeline-questions.amp"
-    type: article
-    provider:
-      name: Slate
-      domain: slate.com
-    quality: 81
-    images:
-      - url: "https://compote.slate.com/images/59762ffc-7a8b-48da-be82-7f52858f9245.jpeg?width=780&height=520&rect=3864x2576&offset=136x0"
-        width: 780
-        height: 520
-        isCached: true
-  - title: "Remembering Wayne Barrett, the Journalist Who Saw Trump Coming Decades Ago"
-    excerpt: "He taught us to dig. That the facts were knowable, written down and filed somewhere. That facts steadfastly accumulated could reveal what was hidden and be agents of justice."
-    publishedDateTime: 2020-10-10T08:24:00Z
-    webUrl: "https://www.thedailybeast.com/remembering-wayne-barrett-the-journalist-who-saw-trump-coming-decades-ago"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 43
 
 secured: "4UU8busWMIvweLcesxGnsLIMrfxPfEQ28kVCs6tLO0gOy3x2iWJzvhymiEz9BTFOQT9Lw47g4B2qdAVKXno2mvjc8fh0D8RB5H7B6iOqwFjUyKV8EfY6ycZfyxa/SRlylmXxSW+wUbLiQeeyN7z9m6I6Iww+iF5xtt2YYt55NIPVHvLoy85eeAUX0qZIGndkLTOH6ID2vQfDajciXCx6ullHb17nINf/EtEKLDNRNSBJpXxKvXFAOJeXHti4/R8B9DKTB8/37T2qSksn3sFAoiuBlh5wDchqFRXNMYg/jJhp+9JMz8cSywDBGJNkDY6drceebZfXi1BdiX+WlfK4pGU7p09x0NHvJuZh/b8tgl8=;MvPredg//CO1G3PtHIu4YA=="
 ---

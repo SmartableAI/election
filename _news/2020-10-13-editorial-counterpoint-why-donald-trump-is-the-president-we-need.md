@@ -1417,6 +1417,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump Has At Least $1 Billion In Debt, More Than Twice The Amount He Suggested"
+    excerpt: "The president’s liabilities are spelled out in dozens of documents, published here. N o aspect of Donald Trump’s business has been the subject of more speculation than his debt load."
+    publishedDateTime: 2020-10-16T14:47:00Z
+    webUrl: "https://www.forbes.com/sites/danalexander/2020/10/16/donald-trump-has-at-least-1-billion-in-debt-more-than-twice-the-amount-he-suggested/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 98
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88e213610cee5aa458147f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Will Have $900 Million Of Loans Coming Due In His Second Term If He’s Reelected"
     excerpt: "The president would likely have to engage in a series of high-stakes transactions that could produce unfathomable conflicts of interest."
     publishedDateTime: 2020-10-19T20:32:00Z

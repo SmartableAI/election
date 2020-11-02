@@ -31,117 +31,131 @@ images:
     isCached: true
 
 related:
-  - title: "Trump shirks Covid-19 guidelines while greeting a nearly maskless crowd"
-    excerpt: "During a campaign stop in Maine, President Donald Trump, without a mask, greeted a largely maskless crowd and signed autographs while in close proximity. CNN medical analyst Dr. Jonathan Reiner says the President's messaging undermines the effort of health professionals advising their patients.\n    \n"
-    publishedDateTime: 2020-10-25T22:02:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7YgfpVAODTk/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn"
+  - title: "Trump makes return to much-changed Mar-a-Lago"
+    excerpt: "In Mar-a-Lago's disco-lit main ballroom, he watched as a large crowd serenaded his son's girlfriend while sparklers flared. On the stone dining patio, he hosted the Brazilian President for talks as diners sat at tables nearby, crammed together like normal. Eager to appear like everything was fine, he"
+    publishedDateTime: 2020-10-23T19:14:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JdXyqyBUghg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025173013-trump-campaign-maine-crowd-no-mask-reiner-nr-vpx-00001905-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200527133726-trump-bolsonaro-0307-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump uses Midwestern swing to launch false attacks on doctors while Covid cases rise"
-    excerpt: "With three days to go in a campaign that's been dominated by the pandemic, President Donald Trump made the baseless and politically perilous claim that American doctors are profiting from Covid-19 deaths during a visit to the critical electoral region of the Midwest, where former Vice President Biden"
-    publishedDateTime: 2020-10-31T11:59:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0PIrRDt7Cvc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
+  - title: "Trump administration removes gray wolf from endangered species list"
+    excerpt: "The Trump administration is dropping the gray wolf from the endangered species list under the assertion that the animal's population has sufficiently recovered, a move conservation groups decry as shortsighted and promise to challenge in court.\n    \n"
+    publishedDateTime: 2020-10-29T20:45:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lfIqmsf742c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/trump-administration-gray-wolf-endangered-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/trump-administration-gray-wolf-endangered-list/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030194342-trump-kasparov-oped-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180720124911-08-endangered-species-act-grey-wolf-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Minnesota reports three Covid-19 outbreaks related to Trump campaign events in September"
-    excerpt: "The Minnesota Department of Health is reporting three Covid-19 outbreaks related to Trump campaign events held in the state in September.\n    \n"
-    publishedDateTime: 2020-10-26T22:29:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HYxcc82-A9o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/covid-outbreaks-trump-campaign-events/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/covid-outbreaks-trump-campaign-events/index.html"
+  - title: "With Senate at risk, Trump focuses on himself"
+    excerpt: "After President Donald Trump took the controversial step of commuting the jail sentence of his longtime friend Roger Stone, Sen. Susan Collins was again stuck between the leader of her party and the Trump-aligned voters she needs to win a tough reelection.\n    \n"
+    publishedDateTime: 2020-10-29T21:19:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1jGI_2y8jkc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/donald-trump-senate-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/donald-trump-senate-election-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924114945-01-trump-bemidji-mn-rally-0918-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013163336-martha-mcsally-donald-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump criticizes lockdowns in Europe as Covid-19 cases surge on the continent and in US "
-    excerpt: "President Donald Trump on Sunday harshly criticized strict lockdowns coming to some European countries to combat the coronavirus pandemic, claiming the restrictions are ineffective as cases surge both there and in the US.\n    \n"
-    publishedDateTime: 2020-11-01T19:08:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PcU-0tR08yQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/trump-europe-lockdowns-criticism/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/trump-europe-lockdowns-criticism/index.html"
+  - title: "Trump administration pushes allies to pressure China over its nuclear program"
+    excerpt: "The Trump administration is working to pressure NATO allies to collectively crackdown on China's nuclear program as it looks to limit Beijing's growing influence in the global arms race.\n    \n"
+    publishedDateTime: 2020-10-29T20:52:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sk502hws9xY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/us-china-nuclear-pressure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/us-china-nuclear-pressure/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031142109-01-trump-1030-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200126113335-01-china-missiles-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Donald Trump Jr. put a perfect exclamation point on his father's bungling of Covid-19"
-    excerpt: "Appearing on Laura Ingraham's Fox News show Thursday night, Donald Trump Jr. was asked about Dr. Sanjay Gupta's recommendation that anyone who attends a campaign rally for the President self-quarantine for two weeks.\n    \n"
-    publishedDateTime: 2020-10-30T15:06:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5snpTHKONc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-jr-covid-19-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-jr-covid-19-2020-election/index.html"
+  - title: "Trump administration has filed 75 lawsuits to seize land for border wall during the pandemic"
+    excerpt: "Within the last six months, as the coronavirus pandemic gripped the US, the Trump administration filed 75 lawsuits to seize private land along the US-Mexico border for the border wall, according to data reviewed by CNN from the Texas Civil Rights Project.\n    \n"
+    publishedDateTime: 2020-10-29T09:27:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QYUlitKOsis/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/border-wall-texas-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/border-wall-texas-pandemic/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200824223931-109-rnc-monday-trump-jr-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200110150124-us-mexico-border-wall-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'Saturday Night Live' sees Trump as a man without a Covid-19 plan"
-    excerpt: "Live\" hammered President Donald Trump for his lack of a clear plan to combat the spread of Covid-19, opening with a spoof of the last presidential debate. It featured Alec Baldwin as Trump, Jim Carrey as Joe Biden and SNL alum Maya Rudolph as moderator Kristen Welker,"
-    publishedDateTime: 2020-10-25T12:27:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/saturday-night-live-sees-trump-man-without-covid-19-plan-n1244669"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244669"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244669"
+  - title: "Already in a health care ditch, Trump gets shovel, keeps digging"
+    excerpt: "Trump's health care comments to \"60 Minutes\" were a mess. His related rhetoric during the presidential debate wasn't any better."
+    publishedDateTime: 2020-10-23T16:56:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/already-health-care-ditch-trump-gets-shovel-keeps-digging-ncna1244551"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244551"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244551"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3422815/201024-snl-er-1130p_8ac48ecc58e5def06a87409bf66b93ce.png"
-        width: 1920
-        height: 1077
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_18/2800321/190327-obamacare-mc-mc-828_5bc91cbc317e1ed253c83b660125e6dc.JPG"
+        width: 2500
+        height: 1684
         isCached: true
-  - title: "Donald Trump Jr. says Covid numbers are 'almost nothing' on day reporting 90,000 infected, 1,000 dead"
-    excerpt: "Donald Trump Jr. falsely claimed Thursday that Covid-19 infection numbers have dwindled to \"almost nothing,\" despite there being around 1,000 deaths reported in the U.S. the same day. In an interview on Fox News' “The Ingraham Angle,"
-    publishedDateTime: 2020-10-30T11:46:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/donald-trump-jr-says-covid-numbers-are-almost-nothing-day-n1245449"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245449"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245449"
+  - title: "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short"
+    excerpt: "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\""
+    publishedDateTime: 2020-10-24T00:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244167"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244167"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 120
+    quality: 131
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/nn_ggu_exclusive_inside_covid_icu_201029_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421859/201021-donald-trump-ew-145p_33980ba252755dffd3445498e1c818e0.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "‘Doesn’t that make me a smart guy?’: Trump defends Chicago business deals after NYT report"
+    excerpt: "The president’s latest tweet closely resembles other arguments he has employed in response to news accounts of his financial records."
+    publishedDateTime: 2020-10-28T20:06:00Z
+    webUrl: "https://www.politico.com/news/2020/10/28/trump-chicago-business-deals-nyt-report-433198"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 105
+    images:
+      - url: "https://static.politico.com/96/b8/f71768494a18998a63f902da97c6/201028-trump-tower-chicago-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "OrdcaMMYv/GQPQXC4NzxRXZwMmc/ctOXxqgyJ6krZEZ+jsNxex0uy3Q8i4yVtf2anDE3NDPP9ArNSfNuiGR9VG5IXMqe46cNwYmb+J7xf/SZ84YwjxzMS4oaScxtfDIelYHPAPRrI+JHWBDX+z9S+0GXTV+ZdaK52LgrZIGFDDnTtNK3lqOilWf+68rwzXIczhXOnWI2r94TOtoarqSaY1xHqgsFmUxeaMsn+plwcv2sDC7nmnndrke0yi4aNhgLPYIU7+J/xfhN7CO2DmSVCH+Ts/D9tCHDSQIzPXW4RXtuAc5LMwtTyT2GBh1ltQemFPoUZ7rojrl2UrFrkTl2rDYv1ABuoYGTf8vSwqHQfTM=;nBt8A7jpyNs0fL1TZGvqWg=="

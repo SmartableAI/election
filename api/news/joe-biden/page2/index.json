@@ -475,54 +475,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-20-what-joe-biden-can-learn-from-jacinda-ardern.md",
-      "title": "What Joe Biden Can Learn from Jacinda Ardern",
-      "excerpt": "The reelection of New Zealand’s prime minister was “one for the history books.” Her formula for success was simple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/",
-      "originalUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenation.com/wp-content/uploads/2020/10/jacinda-ardern-labour-victory-gty-img.jpg",
-          "width": 1440,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/tnamp/",
-      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/biden-jacinda-ardern/tnamp/",
-      "publishedDateTime": "2020-10-19T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Nation",
-        "domain": "thenation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-warren-buffett-and-joe-biden-are-bullish-on-america-agree-the-super-rich-should-pay-higher-taxes-and-want-quarterly-earnings-guidance-to-end.md",
       "title": "Warren Buffett and Joe Biden are bullish on America, agree the super rich should pay higher taxes, and want quarterly earnings guidance to end",
       "excerpt": "\"Warren Buffett said it best when he stated that he should not pay a lower tax rate than his secretary,\" Biden's campaign website reads.",
@@ -1110,63 +1062,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-biden-raised-whopping-383m-in-september.md",
-      "title": "Biden raised whopping $383M in September",
-      "excerpt": "It's the latest massive fundraising haul for Biden, who brought in $365 million in August as online donors shower his campaign with cash.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/14/biden-fundraising-haul-429546",
-      "originalUrl": "https://www.politico.com/news/2020/10/14/biden-fundraising-haul-429546",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/56/13/9c8da794491ba762495085d758ab/1014biden2.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-14-turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.md",
       "title": "Turley: Court-packing would be a 'blunder of the first order' by Biden",
       "excerpt": "The Democrats, as usual, looking small and petty in comparison, but with just 22 days until you're the ultimate jury and the election takes place, let's turn back to the campaign trail where Joe Biden has finally mustered up the courage to leave his basement bunker for a few hours.",
@@ -1548,6 +1443,106 @@
       "ampWebUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
       "publishedDateTime": "2020-10-12T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week.md",
+      "title": "The Guilty History Behind Joe Biden and the Democrats Regarding Their SCOTUS Complaints This Week",
+      "excerpt": "As the confirmation hearing for Amy Coney Barrett’s appointment commences we are girding ourselves to be inundated with plenty of mewling and complaining from Democrats and the press. There will",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900",
+      "originalUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true",
+      "publishedDateTime": "2020-10-12T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places.md",
+      "title": "Biden: The 'only way' I'll lose is through 'chicanery' at polling places",
+      "excerpt": "Democratic presidential nominee Joe Biden said only “chicanery” in the form of voter intimidation could prevent him from winning the presidential election, later adding that he would clarify the results of the election.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places",
+      "originalUrl": "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places?amp",
+      "publishedDateTime": "2020-10-11T10:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",

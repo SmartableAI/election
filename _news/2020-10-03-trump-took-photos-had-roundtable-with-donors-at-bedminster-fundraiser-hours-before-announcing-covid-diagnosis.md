@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why Trump's efforts to divide the left will likely fall flat"
+    excerpt: "President Donald Trump seems to be trying to cause a rift between former Vice President Joe Biden and those on the left. For example, when Biden said he was not in favor of The Green New Deal at last week's debate, Trump responded, \"Oh you don't? Well, that's a big statement. You just lost the radical"
+    publishedDateTime: 2020-10-10T17:40:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWtuk3FmnoI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/trump-biden-left-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-biden-left-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929212319-16-debate-cleveland-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden is ahead. Democrats are still stressed"
     excerpt: "Joe Biden leads President Donald Trump nationally and is running ahead or even with him in most swing state polls. He is besting Trump on just about every question atop voters' minds, from the coronavirus and health care to \"law and order.\"\n    \n"
     publishedDateTime: 2020-10-11T21:16:20Z
@@ -271,6 +287,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's alternate reality of Covid-19 crumbles as the White House obfuscates"
+    excerpt: "Some seven months into a pandemic that has killed more than 200,000 Americans, the nation is now facing a grave governing crisis with its commander in chief hospitalized -- his condition hinging on his progress over the coming days -- as the White House events of the past week serve as a textbook example"
+    publishedDateTime: 2020-10-04T05:01:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OTTNqiRG08k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/donald-trump-coronavirus-alternate-reality/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/donald-trump-coronavirus-alternate-reality/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003213715-national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx-00000512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House residence staff 'nervous' after Trumps test positive for Covid-19, source says"
     excerpt: "Staff at the White House Executive Residence are feeling \"nervous\" over President Donald Trump and first lady Melania Trump testing positive for Covid-19, a source familiar with White House operations told CNN Friday.\n    \n"
     publishedDateTime: 2020-10-02T13:53:29Z
@@ -350,38 +382,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200710125719-mike-dewine-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "2020 Election Live Updates: Biden Agrees to Virtual Debate, Setting Up Standoff With Trump"
-    excerpt: "Vice President Biden looks forward to speaking directly to the American people,” his campaign said after the debate commission announced the next debate would be remote. But President Trump said, “I’m not going to waste my time on a virtual debate."
-    publishedDateTime: 2020-10-08T13:08:00Z
-    webUrl: "https://www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 155
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/08/multimedia/08elections-briefing-virtualdebate/08elections-briefing-virtualdebate-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden surges ahead of Trump after first debate"
-    excerpt: "Joe Biden leads Donald Trump among registered voters by 14 points, his biggest lead in our poll so far: Oct. 4, 2020"
-    publishedDateTime: 2020-10-04T13:22:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/biden-surges-ahead-of-trump-after-first-debate-93107269908"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93107269908"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93107269908"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/mtp_clip_a2_201004_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden signals next debate may not happen if Trump remains contagious"
     excerpt: "CDC guidelines say people should isolate for 10 days from the point of showing symptom — 20 days in severe cases."
@@ -778,20 +778,6 @@ related:
     quality: 130
     images:
       - url: "https://static.politico.com/38/ec/f9edce0343e8af6cddaa61be95f0/201006-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden leads Trump by 5 points in Iowa poll"
-    excerpt: "Theresa Greenfield, the Democratic challenger in the state’s Senate contest, leads incumbent Sen. Joni Ernst by the identical margin in the Quinnipiac survey."
-    publishedDateTime: 2020-10-07T20:16:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/biden-theresa-greenfield-iowa-poll-427373"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/b2/39/20bc8774471e8cbc76ab33dc4b89/200520-joe-biden-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

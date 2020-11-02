@@ -143,6 +143,22 @@ related:
         width: 2000
         height: 1348
         isCached: true
+  - title: "Donald Trump Jr. kicks off 2-day campaign swing through Arizona, rallies Tucson supporters"
+    excerpt: "Donald Trump Jr., the president's son, was back in Arizona on Wednesday to rev up support for Republicans up and down the ballot. \"This fight isn’t just for (President) Donald Trump. We need to ..."
+    publishedDateTime: 2020-10-15T03:23:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/14/donald-trump-jr-kicks-off-two-day-campaign-swing-through-arizona-port-of-tucson/3658923001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3658923001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3658923001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/PPHX/548cb2f9-08e2-47fb-b02a-cddaca570741-101520-metro-trumpjunior-p3.JPG?auto=webp&crop=3410,1919,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
     excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
     publishedDateTime: 2020-10-13T17:55:00Z

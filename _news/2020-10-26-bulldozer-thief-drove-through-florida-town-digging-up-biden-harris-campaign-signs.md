@@ -33,95 +33,54 @@ images:
     isCached: true
 
 related:
-  - title: "Lady Gaga and John Legend to join Joe Biden and Kamala Harris for final campaign events"
-    excerpt: "Superstars Lady Gaga and John Legend will join Joe Biden and Kamala Harris for their final respective events on the campaign trail on the eve of Election Day, the Biden campaign announced Sunday.\n    \n"
-    publishedDateTime: 2020-11-01T20:51:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/36z-f9SM6zk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
+  - title: "CNN Polls: Biden leads in Pennsylvania and tight race remains in Florida"
+    excerpt: "Former Vice President Joe Biden holds a lead in Pennsylvania and neither he nor President Donald Trump leads in the critical state of Florida, according to new CNN polls conducted by SSRS.\n    \n"
+    publishedDateTime: 2020-10-21T21:08:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JQxhnU3tUss/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 192
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160225091736-lady-gaga-joe-biden-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928173850-04-biden-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "FBI investigating alleged harassment of Biden campaign bus by Trump supporters "
-    excerpt: "The FBI is investigating the alleged harassment of a Joe Biden campaign bus last week by motorists displaying Trump 2020 flags, a law enforcement source familiar with the probe told CNN on Sunday.\n    \n"
-    publishedDateTime: 2020-11-01T20:49:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/74amVvb1Cs8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/fbi-investigating-biden-bus-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/fbi-investigating-biden-bus-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 186
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031214725-biden-bus-trump-caravan-texas-1031-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "20 former Republican US attorneys endorse Biden campaign"
-    excerpt: "Twenty US attorneys, who were appointed and served under Republican presidents as far back as Dwight Eisenhower, announced on Tuesday their endorsement of Democratic presidential nominee Joe Biden.\n    \n"
-    publishedDateTime: 2020-10-27T22:35:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M_UbOryJkAE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/republican-us-attorneys-endorse-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/republican-us-attorneys-endorse-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How Kamala Harris and Jill Biden are subverting stepmom stigma in America"
-    excerpt: "Democratic vice presidential candidate Kamala Harris and Democratic presidential nominee Joe Biden's wife, Jill, are now two of the highest-profile examples of stepmotherhood in America. (Melania Trump is also a stepmom."
-    publishedDateTime: 2020-10-25T22:38:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244373"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244373"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 149
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422264/201022-kamala-harris-family-ac-719p_c7acd8698887b667884fa7eb98bdca9c.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden campaign: Joe Biden 'not going to end fossil fuel industry'"
-    excerpt: "In an exclusive interview with Meet the Press, Kate Bedingfield, Biden Deputy Campaign Manager, says that former Vice President wants to end energy subsidies but doesn't want to see people lose their jobs."
-    publishedDateTime: 2020-10-25T14:02:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/biden-campaign-joe-biden-not-going-to-end-fossil-fuel-industry-94604869798"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94604869798"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94604869798"
+  - title: "Biden appeals to sought-after Pennsylvania voters with 10 days to go"
+    excerpt: "In an effort to win over the working-class voters in Pennsylvania who voted for Trump in 2016, Joe Biden assured the crowd on Saturday that he is going to protect Pennsylvania jobs, including fracking."
+    publishedDateTime: 2020-10-25T02:49:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/biden-appeals-to-sought-after-pennsylvania-voters-with-10-days-to-go-94586437621"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94586437621"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94586437621"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/mtp_clip_bedsenergy_201025_1920x1080.jpg"
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/biden10.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Most Democrats are Scared to Say So, but Joe Biden Is Poised for a Landslide Win"
-    excerpt: "Democrats were in denial about their Hillary Clinton’s weaknesses. Now, they’re afraid to acknowledge Biden’s strengths."
-    publishedDateTime: 2020-10-28T12:55:00Z
-    webUrl: "https://www.thedailybeast.com/most-democrats-are-scared-to-say-so-but-joe-biden-is-poised-for-a-landslide-win"
+  - title: "Biden shows continued strength in Pennsylvania and Wisconsin polls."
+    excerpt: "Polls released by Ipsos on Monday found Mr. Biden ahead among likely voters by six points in Pennsylvania and nine points in Wisconsin — both states where Mr. Biden has led consistently and where victory is crucial to his chances of taking the White House."
+    publishedDateTime: 2020-10-27T16:15:00Z
+    webUrl: "https://www.nytimes.com/2020/10/27/us/elections/biden-shows-continued-strength-in-pennsylvania-and-wisconsin-polls.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/27/us/elections/biden-shows-continued-strength-in-pennsylvania-and-wisconsin-polls.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/27/us/elections/biden-shows-continued-strength-in-pennsylvania-and-wisconsin-polls.amp.html"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 40
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/27/multimedia/27elections-briefing-polls/27elections-briefing-polls-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "PkswPwk4pNuntSNLmuZoeRolz8U9stQLjyYtzg4uyHj+iNmwWyG3pGFgssrBelHAqrib3AjSdYtlIVkOgvAGU6ZZ2OmWAJDSeuqxtZG58+CPgX8iF+X6PZuqsz4XHHPQ+rl9FTIqDma8P5A4iY4atqKtnPoPj4/H910bBT1vnETKis7ccWTVxpM9ifCcpAPl0viWSEU4DmM4top+jImYZ7owzkNuDY0dIYpQPe73kZUNrNc4IGzCcDiCr9gke3k4d+iJjl+LKuhvvQAeCqXh8KFIcIe6N4tWXuFa4DZUeM7jl+2SHadpI1mCdiwMamrJJZ86FmPdWlZrMUZeK4Uv73Xq+xTLcKnkbSiUND4uF/cNrYerlZvL768YR31d6S4860/rbCfQBCtPI+OTp/XJlzppJ5gObxi1Or8fnH/Q/y7+8/IazZlUYzHmLiKIPSliYXSFPVedjyilrXNNSpMgeghUtUUyyQNN0DPXoFEp2PxsfZ2YvlvoZrqwBCsNtlgede5ekMyvWjmpRrGTbGSqnQ==;MUrgPno4o65SNa3/XxpzOg=="
 ---

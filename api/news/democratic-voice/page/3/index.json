@@ -625,7 +625,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -894,6 +894,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-15-biden-announces-record-383-million-fundraising-haul-for-september.md",
+      "title": "Biden announces record $383 million fundraising haul for September",
+      "excerpt": "Democratic presidential nominee Joe Biden announced Wednesday evening that his campaign raised a record-breaking $383 million in September, its second straight historic monthly fundraising haul as the campaign nears Election Day.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
+      "publishedDateTime": "2020-10-14T19:30:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-allegation-on-biden-prompts-pushback-from-social-media-companies.md",
       "title": "Allegation on Biden Prompts Pushback From Social Media Companies",
       "excerpt": "Joe Biden’s campaign rejected assertions made in a published report that were based on unverified material from Trump allies. Facebook and Twitter found the story dubious enough to limit access to it on their platform.",
@@ -951,119 +1007,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-biden-raised-whopping-383m-in-september.md",
-      "title": "Biden raised whopping $383M in September",
-      "excerpt": "It's the latest massive fundraising haul for Biden, who brought in $365 million in August as online donors shower his campaign with cash.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/14/biden-fundraising-haul-429546",
-      "originalUrl": "https://www.politico.com/news/2020/10/14/biden-fundraising-haul-429546",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/56/13/9c8da794491ba762495085d758ab/1014biden2.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-the-original-hamilton-cast-will-reunite-to-host-a-virtual-fundraiser-for-joe-biden.md",
-      "title": "The original 'Hamilton' cast will reunite to host a virtual fundraiser for Joe Biden",
-      "excerpt": "The original cast of \"Hamilton\" is reuniting to put together a virtual fundraiser for Democratic nominee Joe Biden.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4cwPC46h-RI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4cwPC46h-RI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201014110142-01-hamilton-cast-2016-new-york-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/hamilton-joe-biden-fundraiser-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/hamilton-joe-biden-fundraiser-trnd/index.html",
-      "publishedDateTime": "2020-10-14T10:27:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-14-barrett-declines-to-answer-if-trump-can-pardon-himself.md",
       "title": "Barrett declines to answer if Trump can pardon himself",
       "excerpt": "Sen. Patrick Leahy (D-VT) questions Supreme Court nominee Amy Coney Barrett on whether the president of the United States has the power to pardon themselves of a crime. CNN's Manu Raju tells us more.\n    \n",
@@ -1076,7 +1019,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 735,
+      "heat": 755,
       "tags": null,
       "images": [
         {
@@ -1347,6 +1290,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-13-romney-cites-trumps-rhetoric-as-he-denounces-vile-state-of-american-politics.md",
+      "title": "Romney cites Trump's rhetoric as he denounces 'vile' state of American politics",
+      "excerpt": "Republican Sen. Mitt Romney of Utah on Tuesday issued a strong rebuke of the current tone of American politics saying they have become \"a vile, vituperative, hate-filled morass\" and roundly criticizing President Donald Trump for several of his recent comments which included insulting Democratic vice",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r7Rp43nO8Ik/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r7Rp43nO8Ik/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922102900-04-romney-0317-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/13/politics/mitt-romney-trump-pelosi-kamala-harris-attacks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/mitt-romney-trump-pelosi-kamala-harris-attacks/index.html",
+      "publishedDateTime": "2020-10-13T10:17:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-fauci-says-hes-not-going-to-walk-away-as-trump-revives-criticism.md",
       "title": "Fauci says he's 'not going to walk away' as Trump revives criticism",
       "excerpt": "President Donald Trump revived his public criticism of Dr. Anthony Fauci Tuesday morning, continuing his efforts to undermine the infectious disease expert even as the doctor said he's not going to bow to pressure.\n    \n",
@@ -1432,6 +1431,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html",
       "publishedDateTime": "2020-10-12T16:53:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-the-point-a-peek-inside-a-potential-biden-cabinet.md",
+      "title": "The Point: A peek inside a potential Biden Cabinet",
+      "excerpt": "Amid consistent polling showing Democratic nominee Joe Biden with a yawning lead, insiders are starting to game out the question that comes after a win: What would a Biden administration look like?\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eNyq3UdwMyc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eNyq3UdwMyc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190424174959-20190424-the-point-biden-cutout-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/politics/joe-biden-potential-cabinet-2020-elizabeth-warren-susan-rice/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/joe-biden-potential-cabinet-2020-elizabeth-warren-susan-rice/index.html",
+      "publishedDateTime": "2020-10-12T15:31:45-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1626,62 +1681,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-democrat-jaime-harrison-shatters-senate-fundraising-record-in-bid-to-oust-south-carolina-sen-lindsey-graham.md",
-      "title": "Democrat Jaime Harrison shatters Senate fundraising record in bid to oust South Carolina Sen. Lindsey Graham",
-      "excerpt": "Democratic Senate candidate Jaime Harrison, running to unseat Sen. Lindsey Graham in South Carolina, raised $57 million during the final full quarter of the campaign, shattering Senate fundraising records as his party seeks to wrest control of the chamber from Republicans.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MiwLVv6R4KI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MiwLVv6R4KI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200729231458-jaime-harrison-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/11/politics/jaime-harrison-fundraising-record-south-carolina-senate-race/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/jaime-harrison-fundraising-record-south-carolina-senate-race/index.html",
-      "publishedDateTime": "2020-10-11T14:26:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

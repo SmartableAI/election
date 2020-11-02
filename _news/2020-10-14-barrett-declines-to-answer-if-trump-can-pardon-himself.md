@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 735
+heat: 755
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017195213-03-donald-trump-1017-michigan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Vulnerable Senate Republicans tie themselves to Barrett with Trump's numbers eroding "
+    excerpt: "Endangered Senate Republicans have a new running mate in the battle to keep their narrow majority: Amy Coney Barrett.\n    \n"
+    publishedDateTime: 2020-10-14T02:59:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vnev-xi5RxM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/senate-republicans-barrett/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/senate-republicans-barrett/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013092118-04-barrett-hearing-1013-graham-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

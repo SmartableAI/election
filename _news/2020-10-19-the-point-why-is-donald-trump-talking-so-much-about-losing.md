@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: This is how Donald Trump gets to 270"
+    excerpt: "With just 2 days until the 2020 election, this is the last Sunday newsletter before the country votes. The 5 BIG storylines you need to know to understand the last week on the campaign trail are below. They're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
+    publishedDateTime: 2020-11-01T19:51:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mu9IWOs20X4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/us-election-2020-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/us-election-2020-week-ahead/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031142107-02-trump-1030-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump doesn't want to fire Anthony Fauci. He wants him to quit."
     excerpt: "For a guy best known in pop culture -- prior to 2016 -- for telling people \"You're fired,\" Donald Trump doesn't actually like to fire people.\n    \n"
     publishedDateTime: 2020-10-13T14:37:19Z

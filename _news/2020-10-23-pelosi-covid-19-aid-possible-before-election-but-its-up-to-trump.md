@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
 type: article
 quality: 140
-heat: 700
+heat: 720
 published: true
 
 provider:
@@ -327,6 +327,22 @@ related:
       - url: "https://api.time.com/wp-content/themes/time2014/img/time-logo-og.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Donald Trump plays down COVID-19 as he steps up pitch for second term"
+    excerpt: "CLICK HERE TO TURN ON NOTIFICATIONS. X Trending: WASHINGTON — Gone are the days when President Donald Trump held forth daily at the White House podium flanked by members of his coronavirus task ..."
+    publishedDateTime: 2020-10-18T09:47:00Z
+    webUrl: "https://www.denverpost.com/2020/10/17/trump-covid-19-campaign-trail/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/17/trump-covid-19-campaign-trail/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/17/trump-covid-19-campaign-trail/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Trump_07454.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Close political adviser to Mike Pence tests positive for COVID-19"
     excerpt: "According to Bloomberg News, one of Vice President Mike Pence’s top political advisers has tested positive for COVID-19. It is unclear if Marty Obst developed coronavirus symptoms when he tested positive."

@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-20-nc-governor-caught-on-hot-mic-telling-biden-theyll-drag-cal-cunningham-across-the-line-after-scandal.md",
+      "title": "NC governor caught on hot mic telling Biden they'll drag Cal Cunningham ‘across the line’ after scandal",
+      "excerpt": "\"I think Cal's going to get across the line, too,\" Gov. Roy Cooper appeared to say on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1tj-Snexq0/roy-cooper-joe-biden-hot-mic-cal-cunningham",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1tj-Snexq0/roy-cooper-joe-biden-hot-mic-cal-cunningham",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282026845724.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/roy-cooper-joe-biden-hot-mic-cal-cunningham.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-cooper-joe-biden-hot-mic-cal-cunningham.amp",
+      "publishedDateTime": "2020-10-20T06:46:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-trump-slams-debate-moderator-welker-as-terrible-totally-partisan.md",
       "title": "Trump slams debate moderator Welker as 'terrible,' 'totally partisan'",
       "excerpt": "President Trump said he is ready for Thursday's debate against Democratic presidential nominee Joe Biden, but claimed that it will not be fair because the moderator, NBC's Kristen Welker, will be biased against him.",
@@ -748,54 +804,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-what-joe-biden-can-learn-from-jacinda-ardern.md",
-      "title": "What Joe Biden Can Learn from Jacinda Ardern",
-      "excerpt": "The reelection of New Zealand’s prime minister was “one for the history books.” Her formula for success was simple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/",
-      "originalUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenation.com/wp-content/uploads/2020/10/jacinda-ardern-labour-victory-gty-img.jpg",
-          "width": 1440,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/tnamp/",
-      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/biden-jacinda-ardern/tnamp/",
-      "publishedDateTime": "2020-10-19T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Nation",
-        "domain": "thenation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {

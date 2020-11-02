@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenyardsign_092220getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Joe Scarborough Says Biden Struggling with Florida Hispanics: ‘Especially Latino Men’"
+    excerpt: "MSNBC host and former Congressman Joe Scarborough said Democratic presidential nominee Joe Biden needs to improve his share of the vote among Florida Hispanics in order to win the state."
+    publishedDateTime: 2020-10-29T15:07:00Z
+    webUrl: "https://www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/"
+    ampWebUrl: "https://www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 68
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/MJJ-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "XES13IjOv+3o0q732w4xLPvNeKiyOPHbxkonfg+rwmafTsagPaASw6U64kBQDdmHYjfA/HP1Y87Ei3iU9hM9KR0rYZYGtq7oVY8bjdcCTh11FXO6tnCUQP/v3mC5SFsLFCw2lJ+fQqJVdZo4nFar5PJskfipNTnmthInEWIvlIRd+BGHTCG704az+VgFOgp4zpCQfosXpAGqhdc4Q3lGFGcfo+LfHajfv+Qfp4rxWl7cb1IKkscNk/S5m14w49yzQPtpreyOUs2aOBEYpqFwUS3eqtN9aq7X3qL7f9dQ53dstx+YYQthFcc+TzbpTI4DFNtIaClSFHOFusXXth/rpdMcAtv2GNwRRxM4gFJXpoU7qMbgfLeT34Jww5tj91hlSiWl2412/C5QIm/SwI3RsgGTMlzEz0LAca71a3DpFJ8CS0bMnSrhTMQOHpwxxaVt6fGPXVQlX6qiAZyxM1qHX9wWuHCFzbw7s2NkWRL0asRajAAxwokAF4Shv5q0/GNIG6KvfGeBXr+Ifiqzt7DDzw==;le9nyUUZLd5Rm+daz6IZfw=="

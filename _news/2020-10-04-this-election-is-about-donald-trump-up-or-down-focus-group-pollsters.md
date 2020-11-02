@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93106245716"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93106245716"
 type: article
 quality: 149
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416883/201002-donald-trump-melania-trump-ew-202a_2aef1d6bb1b9e1b977edd6d985618f74.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Contact tracers scramble to find people infected by Trump and his entourage"
-    excerpt: "The possibility that the president and his entourage have become traveling superspreaders is a nightmare scenario for officials in the four states he visited in the last week."
-    publishedDateTime: 2020-10-02T23:10:00Z
-    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-contact-tracing-425622"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 133
-    images:
-      - url: "https://static.politico.com/14/83/e0cf91bd4b3887707e2a394d5fb1/201002-trump-pa-rally-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "'The president is likely toast': Trump's woes raise GOP fears of a blue wave"
     excerpt: "\"The president has had possibly the worst two-week stretch that a candidate could have going into the final month of an election,\" one Republican strategist said."

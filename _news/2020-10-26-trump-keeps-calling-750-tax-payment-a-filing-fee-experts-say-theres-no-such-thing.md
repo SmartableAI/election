@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6010994002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6010994002"
 type: article
 quality: 117
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.insider.com/5b74902142e1cc5b777140d9?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Lil Wayne Shows His Support for Donald Trump After Having a 'Great Meeting' with the President"
+    excerpt: "Lil Wayne is expressing support for Donald Trump. The rapper, 38, shared a photo with Trump, 74, on Twitter Thursday, saying that they had a \"great meeting.\" Lil Wayne (né Dwayne Michael Carter Jr.) also praised the president's Platinum Plan,"
+    publishedDateTime: 2020-10-30T02:03:00Z
+    webUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/"
+    ampWebUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 63
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F29%2Flil-wayne.jpg"
+        width: 1500
+        height: 781
         isCached: true
 
 secured: "QkUzjbKllhUEE4LWlhLy5ocFXKK2KhdumTE2uujFm3Zwf3x29Ty9dm6VScIhHKJxpRXng+40Ce1WsZ58htjTmmf3wQqpWuKpukJRRZUu1b148/5DHDd4PQVKXBAYT3J302WD1e47MNMICulkw3GeQAe+KdBQxBG41QNwCBb0+peS2bk2c21t1vw6y+dzm2ySkyRVpd4uow+K0YRv8zeY76YKl70ytmHJhfnzmBRZxeOlnt3S6vLUhnwnzQDVMVTXl8Npa0rQj72ZuknepfaUy0E4X9RB8sHbHl88KmE4lrfx0SBvd8YWkX/Limj2CBzdAQeBHm4t+DtE9LEUTXzYCGwQ1v/KLJQeO0dsLWI2kVFWF7+kSTtCYQmiefQE2fKnyDlTKxghMSF2OhDLGTHMOQonjuBaFd+NxzioyGHip/xzNXlW5ofoUem6TAiN1aY8P42drSgc5+2NuVQtG2E3ZkAoy0h1k6ieCorUqcoEIAZYGQYKC3vjc+U8DCFHiTKoXFQf/1SgdDBecpBC7AZCUQ==;yi3A2JwAOF2YkXP9EycL+g=="

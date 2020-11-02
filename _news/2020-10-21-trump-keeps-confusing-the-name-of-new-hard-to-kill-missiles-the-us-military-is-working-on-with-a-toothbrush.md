@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Lil Wayne Shows His Support for Donald Trump After Having a 'Great Meeting' with the President"
+    excerpt: "Lil Wayne is expressing support for Donald Trump. The rapper, 38, shared a photo with Trump, 74, on Twitter Thursday, saying that they had a \"great meeting.\" Lil Wayne (né Dwayne Michael Carter Jr.) also praised the president's Platinum Plan,"
+    publishedDateTime: 2020-10-30T02:03:00Z
+    webUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/"
+    ampWebUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 63
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F29%2Flil-wayne.jpg"
+        width: 1500
+        height: 781
+        isCached: true
 
 secured: "RHH+U0qMlT0AQc59809NVOC+RjvIg7WjtDcBzbx2AwZplq1jb+egUg2Ik+aTPUbKKrZKSJ+Fn6jZrfCxLaR+8LOtUQGg1tDcu1xTuZOWcY7u148czOSK0FJW0PwHKlIqfDF9Q+acY96UjUBPJRzr6L0Kpk02qlFgKI9Zmj+T7Q1WMD2GQUaRJcyO4v3p/ZalkSJE9KtA4wgbaaWSgFL1wuFycnXweLp3wYKdT6wTYO/ZMIKo0VYk5zYleN5uXHYwbuk9CFa2vmRsZr2WXmWa0AvB+nprHMC9w8SBTLZ1rMdoD90sq141ciPRbJfa4oP7hadvB6ofRiWN2+xThSR0/gQUpQw9cerCXb7Ts6XCx3s=;AqU9x+316hqMb6vToYqjWg=="
 ---

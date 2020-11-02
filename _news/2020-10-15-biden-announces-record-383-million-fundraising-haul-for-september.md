@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundrais
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 215
+published: true
 
 provider:
   name: CNN
@@ -31,83 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Joe Biden's polling better than any challenger since 1936"
-    excerpt: "Former Vice President Joe Biden is dominating President Donald Trump in the latest polls. No, the election is not over yet, and Trump still has a non-negligible chance of winning.\n    \n"
-    publishedDateTime: 2020-10-11T21:17:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d7b55ymY66I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: A peek inside a potential Biden Cabinet"
-    excerpt: "Amid consistent polling showing Democratic nominee Joe Biden with a yawning lead, insiders are starting to game out the question that comes after a win: What would a Biden administration look like?\n    \n"
-    publishedDateTime: 2020-10-12T22:31:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eNyq3UdwMyc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/joe-biden-potential-cabinet-2020-elizabeth-warren-susan-rice/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/joe-biden-potential-cabinet-2020-elizabeth-warren-susan-rice/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190424174959-20190424-the-point-biden-cutout-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: This is Vice President Mike Pence's answer on a peaceful transfer of power. Read it carefully."
-    excerpt: "The vice presidential debate Wednesday night will be remembered more for how the candidates evaded questions than how they answered them.\n    \n"
-    publishedDateTime: 2020-10-08T05:20:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html"
+  - title: "The original 'Hamilton' cast will reunite to host a virtual fundraiser for Joe Biden"
+    excerpt: "The original cast of \"Hamilton\" is reuniting to put together a virtual fundraiser for Democratic nominee Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-14T17:27:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4cwPC46h-RI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/hamilton-joe-biden-fundraiser-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/hamilton-joe-biden-fundraiser-trnd/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007213656-30-vp-debate-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014110142-01-hamilton-cast-2016-new-york-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence attacks Biden for failing to rescue Kayla Mueller, who was held hostage by ISIS."
-    excerpt: "Vice President Mike Pence brought the parents of Kayla Mueller, the human rights activist who was killed in 2015 by members of the Islamic State in Syria, to the debate hall and attacked Joseph R. Biden Jr."
-    publishedDateTime: 2020-10-08T03:10:00Z
-    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 152
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-10/07elections-briefing-07-22-10-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Senior adviser: Biden to be tested again Sunday"
-    excerpt: "Symone Sanders, a senior adviser to the Biden campaign, said Sunday the campaign is not concerned about continuing events following President Donald Trump's Covid-19 diagnosis, because it is adhering to health guidelines and testing the former vice president \"regularly."
-    publishedDateTime: 2020-10-04T16:46:00Z
-    webUrl: "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
+  - title: "Biden raised whopping $383M in September"
+    excerpt: "It's the latest massive fundraising haul for Biden, who brought in $365 million in August as online donors shower his campaign with cash."
+    publishedDateTime: 2020-10-15T01:59:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/biden-fundraising-haul-429546"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 135
+    quality: 115
     images:
-      - url: "https://static.politico.com/74/6d/5471731740c89a4a860f39cfaf1c/apsanders.jpg"
+      - url: "https://static.politico.com/56/13/9c8da794491ba762495085d758ab/1014biden2.jpg"
         width: 1160
         height: 773
         isCached: true

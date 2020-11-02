@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-p
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1"
 type: article
 quality: 144
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603347710_7b987da563e06aa13399873c4d3427f3.jpg/9e63961120160ca0c8457438ae717356/1603347710_25e8d958f46e8b87c3a5d322492457c0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Brett Favre says he will vote for Donald Trump, expected to appear with president at Green Bay rally"
+    excerpt: "Brett Favre became the latest ex-athlete to declare his support for President Donald Trump, tweeting that the Republican nominee will have his vote on Friday. The former NFL quart"
+    publishedDateTime: 2020-10-30T16:09:00Z
+    webUrl: "https://www.freep.com/story/sports/nfl/2020/10/30/brett-favre-donald-trump-2020-election/6084326002/"
+    ampWebUrl: "https://amp.freep.com/amp/6084326002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6084326002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/05/USAT/baf2b429-623c-4b49-bb82-7b10cc4c203f-XXX_0807_Clemson_practice__28.jpg?auto=webp&crop=2317,1303,x100,y86&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Wq2vNnHuk9fRTfg1QiJgNTF571UuLSIjNHs3BEqsLxlRO9MUVSfOb313fE7IU4wWwHMihmVkP5CVMdUHHUQ3GBmsXeCpJFOoFeC0jrVYVQYo0kguzQDIqVhlGpVfXbjmxoRE1k6vJSRcVjP0Ijxw2El4BKtOLYVxUR4U+XGF63vfSSaBgtB6W5ouvA2lAxwMh4a1fZHHLuF0+sC1QZFqd+E5Cp+qf7vboQEc4zx8Nu824kuC/CrqbEfKNxN3Y+d5cBuZ0HXWZlxj9FUB38sLj3cxsHr7rbAW+NmUMbp2PIHcAjX2CVUq+Ycg4SWBJcsyX1r3JZCJefvTEgKUcHe//uPG7u/7lQZZR63PPSQktW/ix9Z0xTJUAq8RoQou2IVfdpvdSKIyXYmlc2m8jZxWqFLXqW2XE1GutveNMpfOsrltxtDV+34lKIStUnq0Z6CABS72gLWMxsRiXn4DJxAG8SW7yyKPJ7dWvNWWqjzK/b/F2NtxCR8Dj9LQ5M6J49Ae9OMcMLHcAejwNw1SYDZZAQ==;vzhx9ENEvWMRSau/vCNAmA=="

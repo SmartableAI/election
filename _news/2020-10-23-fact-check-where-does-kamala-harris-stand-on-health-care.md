@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244210"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210"
 type: article
 quality: 135
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,19 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris Tells Voters to ‘Honor the Ancestors’"
-    excerpt: "Senator Kamala Harris participated in a virtual campaign rally in Milwaukee, urging early voters “to honor the ancestors” by casting their ballots in the presidential election."
-    publishedDateTime: 2020-10-20T22:31:00Z
-    webUrl: "https://www.nytimes.com/video/us/elections/100000007405828/kamala-harris-wisconsin-early-voting.html?playlistId=video/latest-video"
+  - title: "How Kamala Harris and Jill Biden are subverting stepmom stigma in America"
+    excerpt: "Democratic vice presidential candidate Kamala Harris and Democratic presidential nominee Joe Biden's wife, Jill, are now two of the highest-profile examples of stepmotherhood in America. (Melania Trump is also a stepmom."
+    publishedDateTime: 2020-10-25T22:38:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244373"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
     images:
-      - url: "https://static01.nyt.com/images/2020/10/20/multimedia/20elections-briefing-sched/20elections-briefing-sched-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422264/201022-kamala-harris-family-ac-719p_c7acd8698887b667884fa7eb98bdca9c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Kamala Harris makes her final case to 'the ATL'"
     excerpt: "With just days to go until the election, Harris invokes Atlanta’s civil rights legacy in a pitch to Black voters."

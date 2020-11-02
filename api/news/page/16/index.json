@@ -10,7 +10,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -278,7 +278,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -972,6 +972,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-15-biden-announces-record-383-million-fundraising-haul-for-september.md",
+      "title": "Biden announces record $383 million fundraising haul for September",
+      "excerpt": "Democratic presidential nominee Joe Biden announced Wednesday evening that his campaign raised a record-breaking $383 million in September, its second straight historic monthly fundraising haul as the campaign nears Election Day.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
+      "publishedDateTime": "2020-10-14T19:30:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-allegation-on-biden-prompts-pushback-from-social-media-companies.md",
       "title": "Allegation on Biden Prompts Pushback From Social Media Companies",
       "excerpt": "Joe Biden’s campaign rejected assertions made in a published report that were based on unverified material from Trump allies. Facebook and Twitter found the story dubious enough to limit access to it on their platform.",
@@ -1029,63 +1085,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-biden-raised-whopping-383m-in-september.md",
-      "title": "Biden raised whopping $383M in September",
-      "excerpt": "It's the latest massive fundraising haul for Biden, who brought in $365 million in August as online donors shower his campaign with cash.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/14/biden-fundraising-haul-429546",
-      "originalUrl": "https://www.politico.com/news/2020/10/14/biden-fundraising-haul-429546",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/56/13/9c8da794491ba762495085d758ab/1014biden2.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-15-trump-tries-to-shore-up-support-from-big-business-iowans.md",
       "title": "Trump tries to shore up support from big business, Iowans",
       "excerpt": "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa",
@@ -1094,7 +1093,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {

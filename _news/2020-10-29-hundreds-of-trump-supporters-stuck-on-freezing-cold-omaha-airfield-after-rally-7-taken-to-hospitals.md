@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "US fighter jet intercepts aircraft near Trump rally, deploying signal flares"
+    excerpt: "An aircraft entered restricted air space over President Donald Trump's rally in Bullhead City, Arizona on Wednesday, leading to a fighter jet being scrambled to intercept it.\n    \n"
+    publishedDateTime: 2020-10-28T22:24:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XAYx3afv504/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/trump-rally-fighter-jet-arizona/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/trump-rally-fighter-jet-arizona/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028171447-02-jet-flying-arizona-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump dials back his anger, but his debate performance doesn't change the facts"
     excerpt: "Everybody showed up for a brawl Thursday night and a debate broke out.\n    \n"
     publishedDateTime: 2020-10-23T10:42:24Z
@@ -95,6 +111,36 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/18/opinion/18warzel/18warzel-facebookJumbo-v3.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump Tried to Blur Responsibility for His Family Separation Policy in Final Debate"
+    excerpt: "President Trump repeatedly hurled the phrase “They built the cages” at his debate opponent Thursday, but separating children from parents was a policy all his own."
+    publishedDateTime: 2020-10-23T23:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-child-separation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-child-separation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/us/politics/trump-child-separation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/23/us/politics/23dc-immig-1/merlin_170399304_c643ceba-6ed3-4880-a096-cc0d4642bcf6-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Trump tells journalist he's 'a criminal' for ignoring story Trump likes"
+    excerpt: "Trump believes journalists are \"criminals\" unless they report discredited allegations that may be part of a hostile foreign influence operation."
+    publishedDateTime: 2020-10-24T19:47:00Z
+    webUrl: "https://www.nbcnews.com/rachel-maddow-show/trump-tells-journalist-he-s-criminal-ignoring-story-trump-likes-n1244011"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_43/3421171/201019-donald-trump-mc-1316_52f5de8f365585da12f9105402dbdecd.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "REbznt9fQ5QtBLifK2PN0f8ifo7SRUZmeb3rFcKxNJB7fWtQQ0QF2BW0NvsphNmdwODB1KZW0HoIgr7imYJXm7NHd9EydZ5YRB4RwW5w4hSQKr+xBsSf174i4UFo4uZFYj4Om4cnQQHj/5LrgH3Ef9mfcKxPEao0yogGG3tw5iLanWv/1oMpniRwtxmXLaNaZ1Ux9QJocf5lPH5U4vu+R87rUAMnDYcSFUq20Q4Ly6Ur4GKjrT0YzpQs42v04PYmpYp89GJZGyXQl5tg93qVj5ZGEjsk5iPH7VRgpUUU449gIx5Z1CR0VemD11bpGnZPsjUlLKbFnKzxu+NpUInsGfaK8VoMdZZCwSDp5L8BUUQkBeI9ok29QnlglICGr84Cal9z+TaNQPv+bFOHgrXnVb/XyGJJgBsA7qSLOpIxJ12bLE+6CgexhPHL45h7rUEvKztT3pOiGXO4e5n9vby331iWMM6lLz49Ulym6s3m3sRHbUZbwHpi5bpdtoZ8GbEQPBP6n3ys723wgM3N70dgPw==;N6QPGUSOuH61v/VKViM0LA=="

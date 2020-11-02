@@ -64,22 +64,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Contact tracers scramble to find people infected by Trump and his entourage"
-    excerpt: "The possibility that the president and his entourage have become traveling superspreaders is a nightmare scenario for officials in the four states he visited in the last week."
-    publishedDateTime: 2020-10-02T23:10:00Z
-    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-contact-tracing-425622"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 133
-    images:
-      - url: "https://static.politico.com/14/83/e0cf91bd4b3887707e2a394d5fb1/201002-trump-pa-rally-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "PCeR+4cWC+jy35dSWi6pvu5igiYO26xoQ5+skNnmp8arXSy5P1gLxJKc9WoXAW0AEEaubV6M3ZpmlEK4sd6eWUwBBLmHw9vnwW1J6jZqEfEYOZNipRm5A7BvFQreB4BfQgQptbJuyc4jEVUVuh3QdNLTnE6v8kZfaqjNhyc1mpiAuiZyybXyf3CsQB0o0vVO3lul1VrV5YOZBEHqdLebkwOYjP/cifH3K1v7mXVMbARokzsUBDsWuQHstlxYwiN2Ud33phNAdjlnUTvBVt9s/PevjY3/gjXKP+klrCl9MpmBJXkgJtkVrsvZDNTmBbGcbKudU/njlL8v7gvnxXHqAwa45KqsbgVWh572aILhUgEI57atUHAdF/YrFFOvTtW4eclEmjyB0k9ocSy2MnQIBgvb6s7dqs/qYjtvZotqgvI4o/Jaz9D/zq0oupK/Geh/9hnJ2HjW+X53frxa0wcEddPRpKE1V6cuwZRcBRq+tB+ZuUWa0H5GBGcBF+0GAjB8eDiV7UwlB4vfEh5x+EYAfA==;5A4gAuR7t91MRQdKmobkcw=="
 ---

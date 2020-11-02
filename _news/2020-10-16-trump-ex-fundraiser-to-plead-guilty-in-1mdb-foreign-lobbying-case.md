@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27033J"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-9.png"
         width: 800
         height: 430
+        isCached: true
+  - title: "In Mesa, Donald Trump Jr. talks up dad's record at 'Latter-day Saints for Trump' event"
+    excerpt: "In the second day of a campaign swing through Arizona, Donald Trump Jr., the president's oldest son, talked up his father's record to voters at a \"Latter-day Saints for Trump\" event in Mesa."
+    publishedDateTime: 2020-10-16T17:52:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/15/donald-trump-jr-rallies-voters-latter-day-saints-trump-event-mesa-arizona/3669336001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3669336001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3669336001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/PPHX/97d25905-0025-4752-a201-bff208fbe3b8-trumpjunior-p2.JPG?auto=webp&crop=3499,1969,x0,y79&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "piOznET2d6BVyb5X2JCszE+M3Mf9JwZloEp4apRLeYsuo6U18JZc6z91ObgemOhng3Ht43LM6ubGwd4/EWkZyUmDIG8byiqAOto4TgGx/WCxf1JQvgYZbX03MiTzSTtMDvHL2vm67DGkfDxYbtJZ5Jv/+inZN8FmhJ+LrCcudpv/jlzrF1TnCh4MVGEqCc8Apu/AtgVQ1SZBXUHw0KnrU1wYhpPeqQmCqMV9dLz69/hAGrYZjXGAdwXHcYMN3VVhaaaK97PkZ5nEAw0yS/rUUrrTy6fZyMsJyH6l6MvGzwTsknwaystTVEmp6Zl1zjBvQaQQVYVg7Bazh4+3xUBhg6T57rtu2q8uVkbXUK8n6Ic=;+2KBQAw3SFlF8hGiBObkxA=="

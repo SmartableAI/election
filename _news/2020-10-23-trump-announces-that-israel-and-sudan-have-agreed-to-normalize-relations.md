@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration has filed 75 lawsuits to seize land for border wall during the pandemic"
-    excerpt: "Within the last six months, as the coronavirus pandemic gripped the US, the Trump administration filed 75 lawsuits to seize private land along the US-Mexico border for the border wall, according to data reviewed by CNN from the Texas Civil Rights Project.\n    \n"
-    publishedDateTime: 2020-10-29T09:27:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QYUlitKOsis/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/border-wall-texas-pandemic/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/border-wall-texas-pandemic/index.html"
+  - title: "Lil Wayne met with Trump and praised the President's plan for Black Americans"
+    excerpt: "Rapper Lil Wayne met with President Donald Trump to discuss the President's plan for Black Americans -- and apparently liked what he heard.\n    \n"
+    publishedDateTime: 2020-10-30T14:04:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lOt6ZitcBDY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/lil-wayne-trump-meeting-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/lil-wayne-trump-meeting-trnd/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200110150124-us-mexico-border-wall-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030071301-restricted-donald-trump-lil-wayne-1029-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

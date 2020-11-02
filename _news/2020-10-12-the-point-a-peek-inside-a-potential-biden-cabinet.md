@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/joe-biden-potential-cabi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/joe-biden-potential-cabinet-2020-elizabeth-warren-susan-rice/index.html"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 275
+published: true
 
 provider:
   name: CNN
@@ -31,85 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Joe Biden's polling better than any challenger since 1936"
-    excerpt: "Former Vice President Joe Biden is dominating President Donald Trump in the latest polls. No, the election is not over yet, and Trump still has a non-negligible chance of winning.\n    \n"
-    publishedDateTime: 2020-10-11T21:17:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d7b55ymY66I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden announces record $383 million fundraising haul for September"
-    excerpt: "Democratic presidential nominee Joe Biden announced Wednesday evening that his campaign raised a record-breaking $383 million in September, its second straight historic monthly fundraising haul as the campaign nears Election Day.\n    \n"
-    publishedDateTime: 2020-10-15T02:30:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: This is Vice President Mike Pence's answer on a peaceful transfer of power. Read it carefully."
-    excerpt: "The vice presidential debate Wednesday night will be remembered more for how the candidates evaded questions than how they answered them.\n    \n"
-    publishedDateTime: 2020-10-08T05:20:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007213656-30-vp-debate-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pence attacks Biden for failing to rescue Kayla Mueller, who was held hostage by ISIS."
-    excerpt: "Vice President Mike Pence brought the parents of Kayla Mueller, the human rights activist who was killed in 2015 by members of the Islamic State in Syria, to the debate hall and attacked Joseph R. Biden Jr."
-    publishedDateTime: 2020-10-08T03:10:00Z
-    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 152
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-10/07elections-briefing-07-22-10-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Senior adviser: Biden to be tested again Sunday"
-    excerpt: "Symone Sanders, a senior adviser to the Biden campaign, said Sunday the campaign is not concerned about continuing events following President Donald Trump's Covid-19 diagnosis, because it is adhering to health guidelines and testing the former vice president \"regularly."
-    publishedDateTime: 2020-10-04T16:46:00Z
-    webUrl: "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
+  - title: "Biden campaign mulls possible 'climate czar' position"
+    excerpt: "A Biden administration would seek to rejoin the Paris Climate Accord. This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media,"
+    publishedDateTime: 2020-10-07T20:02:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/biden-transition-climate-czar-427392"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/biden-transition-climate-czar-427392"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/biden-transition-climate-czar-427392"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/74/6d/5471731740c89a4a860f39cfaf1c/apsanders.jpg"
+      - url: "https://static.politico.com/fe/16/ebeda94544409667c33b3c956052/201007-biden-wisc-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Watch live: Biden delivers remarks in Ohio"
+    excerpt: "Watch live coverage as Democratic presidential nominee Joe Biden makes a campaign stop and delivers remarks in Cincinnati, Ohio."
+    publishedDateTime: 2020-10-12T19:32:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-biden-delivers-remarks-in-ohio-93675589765"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93675589765"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93675589765"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/biden_ohio_remarks.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Editor’s Note: Why The Times Editorial Board Endorsed Joe Biden for President"
+    excerpt: "By Kathleen Kingsbury Acting Editorial Page Editor Americans might not need to read a newspaper article to tell them how to vote in this presidential election. In fact, more than four million people have already cast their ballots."
+    publishedDateTime: 2020-10-06T23:42:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/opinion/joe-biden-endorsement-editors-note.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/opinion/joe-biden-endorsement-editors-note.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/opinion/joe-biden-endorsement-editors-note.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/opinion/07newWeb/07newWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden says small groups, PPE, necessary for schools to be open during pandemic"
+    excerpt: "Former Vice President Joe Biden outlines his plan for reopening schools safely during the coronavirus pandemic and focused on rate of transmission in the community, making sure teachers and proper PPE,"
+    publishedDateTime: 2020-10-06T01:04:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-says-small-groups-ppe-necessary-for-schools-to-be-open-during-pandemic-93197381884"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93197381884"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93197381884"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_schools_201005_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What Joe Biden Can Learn from Jacinda Ardern"
+    excerpt: "The reelection of New Zealand’s prime minister was “one for the history books.” Her formula for success was simple."
+    publishedDateTime: 2020-10-19T20:17:00Z
+    webUrl: "https://www.thenation.com/article/politics/biden-jacinda-ardern/"
+    ampWebUrl: "https://www.thenation.com/article/politics/biden-jacinda-ardern/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/biden-jacinda-ardern/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2020/10/jacinda-ardern-labour-victory-gty-img.jpg"
+        width: 1440
+        height: 907
         isCached: true
 
 secured: "vRVZpdzcDn7RjJCIpks2HQfSWZV5WKXdTUYKwxNiVJdK/BZ7lL3OFp7UMQa/Q9jXQ0mheXyQvk8YgKtx0kXw6kOCalxH/RbX+VnDdwT7aBD9lp4QlW5QhWAdA2hsssS6OWNm+PH9nuIuHvx2IVzyqGgBom21B3TWoeOxAm27bWQcXtCFZNq0yig8cmfJK9i5QKEd5JUfirPFJamqMKeAr2pC9dySmbUaF8PiWquqQA8SZ0B0OX1YpfwE0EiC42U92YDEMM8yxNXkK5175ESbCXcm7b0rmj60GEN64xlnNjGncTr+GhH+2Oc3MkyggAgmJQVoP4Ib8KHiRDXVvAi5pDg0jxOEcjAAhSx5OYPQXAc=;m9mp2PIaXPnmfu0vfYMgFA=="

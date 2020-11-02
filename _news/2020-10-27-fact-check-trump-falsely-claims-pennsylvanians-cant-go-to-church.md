@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-false-claim-pennsy
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-false-claim-pennsylvania-cant-go-to-church-fact-check/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029162343-trump-arizona-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Trump's exaggerated claims that Democratic-run states are 'shut down'"
+    excerpt: "President Donald Trump keeps saying that Democratic-run states are \"closed\" or \"shut down.\"\n    \n"
+    publishedDateTime: 2020-10-25T19:34:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kUz5z7yPhso/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/fact-check-trump-shut-down-pennsylvania-michigan-wisconsin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/fact-check-trump-shut-down-pennsylvania-michigan-wisconsin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025114911-01-trump-lumberton-nc-rally-1024-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

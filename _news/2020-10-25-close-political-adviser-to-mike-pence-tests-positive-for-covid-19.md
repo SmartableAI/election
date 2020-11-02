@@ -344,6 +344,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Donald Trump plays down COVID-19 as he steps up pitch for second term"
+    excerpt: "CLICK HERE TO TURN ON NOTIFICATIONS. X Trending: WASHINGTON — Gone are the days when President Donald Trump held forth daily at the White House podium flanked by members of his coronavirus task ..."
+    publishedDateTime: 2020-10-18T09:47:00Z
+    webUrl: "https://www.denverpost.com/2020/10/17/trump-covid-19-campaign-trail/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/17/trump-covid-19-campaign-trail/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/17/trump-covid-19-campaign-trail/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Trump_07454.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump Wants to Cut Democrat Cities’ COVID Funding—During a Surge In Cases"
     excerpt: "The proposed cuts come as apparent retribution for Democratic mayors not “dominating” their citizens protesting this summer."
     publishedDateTime: 2020-10-21T15:48:00Z

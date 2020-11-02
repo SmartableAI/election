@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/05/trump-tweet-dont-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/05/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004234718-04-trump-walter-reed-morotcade-1004-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "HIPAA and what it means for Trump, his doctor and the American public"
+    excerpt: "Lots of questions have surrounded President Donald Trump's health after he announced last week that he had tested positive for coronavirus.\n    \n"
+    publishedDateTime: 2020-10-07T11:25:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151932-02-sean-conley-walter-reed-1005-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

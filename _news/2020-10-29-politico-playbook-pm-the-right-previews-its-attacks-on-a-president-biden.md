@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/28/the-ri
 webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/28/the-right-previews-its-attacks-on-a-president-biden-490735"
 type: article
 quality: 114
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Politico
@@ -28,24 +28,6 @@ images:
     width: 1160
     height: 773
     isCached: true
-
-related:
-  - title: "Biden vows to pass LGBTQ rights legislation in first 100 days"
-    excerpt: "Democratic presidential candidate Joe Biden has promised to make the Equality Act a \"top legislative priority\" should he win Tuesday’s election."
-    publishedDateTime: 2020-10-29T13:46:00Z
-    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-vows-pass-lgbtq-rights-legislation-first-100-days-n1245244"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245244"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245244"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3423960/201029-biden-mn-0855_646bb7d78a687f1b97f15b66b2c76c74.JPG"
-        width: 2500
-        height: 1376
-        isCached: true
 
 secured: "YI7zdkLzCcYSEX2gszt8Y1bLNL14+3Lsgh0jyvHkXT5YxFG5HTrV6jt+8adihHcxrNPlrKwejAIRcdm3t6APsTB5inHvvAyecFFJaPIbI81vc0Sh8MNT9jXrpItLhspRPe9woxSo6uXWsxOdydK4klOOM74E+aen3vCzThsk3p/3CJsC3OW7bzco1d/8vW1eOZhVHkhoWkJTdJSSPk65g/xI62ciC7w7hylIVCJ9IOq5bo1qGPeJgEFserQ58LRjcB9IDATvsbRwE3yI4EGEd7bcUovM8lpKZJrJZOAVBfh06S5Fzv4ut/gkaDWjt1j48g0S262uBCuijaHhF+BsEw5Tz7MQRGgXVVIDkRvnxU0mnSojeBCqHmZ1IXfxTU485pCO7I9xLLbsFzPgKouriHJ5BVeRRMD+spz6BueUIYQ4LxE6jJU8Dd00vpYi/liRwI4oCfo9Heb+HaOHoDS5nw13BTrp/P5XLTXzNf+EcIN1bEzLVQnBCwG3mlBkbFuAOFtaBINZqTT3ua7evEN+YQ==;InM3MWRDKVy3XPkvVgPnsA=="
 ---

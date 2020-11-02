@@ -71,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2638,
+      "heat": 1558,
       "tags": null,
       "images": [
         {
@@ -128,7 +128,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 415,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -240,7 +240,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 355,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -284,25 +284,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-24-in-the-home-stretch-signs-trumps-hard-sell-seniors-pitch-may-be-falling-short.md",
-      "title": "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short",
-      "excerpt": "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\"",
+      "path": "_news/2020-10-24-if-trump-loses-the-election-qanon-will-also-lose-support-and-eventually-disintegrate.md",
+      "title": "If Trump loses the election, QAnon will also lose support — and eventually disintegrate",
+      "excerpt": "When cult adherents get confused, then ashamed, then realize they’ve been scammed, they get angry and exit. People are not permanently programmed.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167",
+      "webUrl": "https://www.nbcnews.com/think/opinion/if-trump-loses-election-qanon-will-also-lose-support-eventually-ncna1244563",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/if-trump-loses-election-qanon-will-also-lose-support-eventually-ncna1244563",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 131,
+      "heat": 142,
       "tags": null,
       "images": [
         {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_43/3421859/201021-donald-trump-ew-145p_33980ba252755dffd3445498e1c818e0.jpg",
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_43/3422199/201022-think-qanon-main-cover-cs_db7621aa3719c3f5f6543624f46421d8.jpg",
           "width": 2500,
-          "height": 1667,
+          "height": 1250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -310,9 +310,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244167",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244167",
-      "publishedDateTime": "2020-10-23T17:27:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1244563",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244563",
+      "publishedDateTime": "2020-10-24T01:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -337,6 +337,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-makes-return-to-much-changed-mar-a-lago.md",
+      "title": "Trump makes return to much-changed Mar-a-Lago",
+      "excerpt": "In Mar-a-Lago's disco-lit main ballroom, he watched as a large crowd serenaded his son's girlfriend while sparklers flared. On the stone dining patio, he hosted the Brazilian President for talks as diners sat at tables nearby, crammed together like normal. Eager to appear like everything was fine, he",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JdXyqyBUghg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JdXyqyBUghg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200527133726-trump-bolsonaro-0307-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html",
+      "publishedDateTime": "2020-10-23T12:14:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     },
@@ -426,6 +482,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/trump-executive-order-federal-employees/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-executive-order-federal-employees/index.html",
       "publishedDateTime": "2020-10-23T08:16:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-analysis-trumps-least-racist-claim-falls-flat-for-many-yet-his-campaign-still-holds-appeal-for-some-black-men.md",
+      "title": "Analysis: Trump's 'least racist' claim falls flat for many. Yet his campaign still holds appeal for some Black men.",
+      "excerpt": "It's one of those seemingly hard-to-explain things: President Donald Trump holds an allure for some Black men, despite his history of denigrating Black Americans and his refusal to explicitly acknowledge systemic racism.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgEVN-aRUNM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgEVN-aRUNM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200715164410-01-trump-atlanta-0715-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/trump-least-racist-black-men/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-least-racist-black-men/index.html",
+      "publishedDateTime": "2020-10-23T06:34:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -623,63 +735,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-23-fact-check-where-does-kamala-harris-stand-on-health-care.md",
-      "title": "Fact check: Where does Kamala Harris stand on health care?",
-      "excerpt": "Trump claimed that Biden's running mate, Sen. Kamala Harris, D-Calif., supports \"socialized medicine.\" \"He wants sociali",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244434",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244434",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244210",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210",
-      "publishedDateTime": "2020-10-22T19:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-22-biden-calls-for-bipartisan-commission-to-propose-ways-to-reform-the-court-system.md",
       "title": "Biden calls for 'bipartisan commission' to propose ways to 'reform the court system'",
       "excerpt": "Biden faces pressure to take a position on adding seats to the Supreme Court as Trump’s nominee advances toward a Senate vote.",
@@ -806,7 +861,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -918,7 +973,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 214,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -974,7 +1029,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 455,
+      "heat": 675,
       "tags": null,
       "images": [
         {
@@ -1143,7 +1198,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 533,
+      "heat": 493,
       "tags": null,
       "images": [
         {
@@ -1297,54 +1352,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-what-joe-biden-can-learn-from-jacinda-ardern.md",
-      "title": "What Joe Biden Can Learn from Jacinda Ardern",
-      "excerpt": "The reelection of New Zealand’s prime minister was “one for the history books.” Her formula for success was simple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/",
-      "originalUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenation.com/wp-content/uploads/2020/10/jacinda-ardern-labour-victory-gty-img.jpg",
-          "width": 1440,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/tnamp/",
-      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/biden-jacinda-ardern/tnamp/",
-      "publishedDateTime": "2020-10-19T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Nation",
-        "domain": "thenation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -1519,25 +1526,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-top-trump-administration-official-met-with-assad-regime-over-imprisoned-americans.md",
-      "title": "Top Trump administration official met with Assad regime over imprisoned Americans",
-      "excerpt": "A top Trump administration official met with the Assad regime in Damascus this fall in an effort to secure the release of American prisoners believed to be held by the Syrian dictator, two administration officials confirmed to CNN.\n    \n",
+      "path": "_news/2020-10-18-whitmer-says-trump-continues-to-encourage-domestic-terrorism-with-rhetoric.md",
+      "title": "Whitmer says Trump continues to encourage 'domestic terrorism' with rhetoric",
+      "excerpt": "Trump encouraged his supporters at a rally in the state who were chanting “lock her up” as an attack on Whitmer, the Democrat governor responded with a plea to l",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EZf3VcMsLas/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EZf3VcMsLas/index.html",
+      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/whitmer-says-trump-continues-encourage-domestic-terrorism-rhetoric-n1243842",
+      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/whitmer-says-trump-continues-encourage-domestic-terrorism-rhetoric-n1243842",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 250,
+      "heat": 132,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170406214544-syria-bashar-al-assad-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_42/3421061/201018-gretchen-whitmer-mtp-jm-0952_6d5144e7ffd5a55696eb82612520c537.jpg",
+          "width": 1620,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1545,16 +1552,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html",
-      "publishedDateTime": "2020-10-18T19:20:11-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243842",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243842",
+      "publishedDateTime": "2020-10-18T09:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1571,29 +1578,30 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     },
     {
-      "path": "_news/2020-10-18-whitmer-says-trump-inciting-domestic-terrorism-as-trump-campaign-adviser-dismisses-presidents-incendiary-rhetoric-as-having-fun-at-rallies.md",
-      "title": "Whitmer says Trump 'inciting' domestic terrorism as Trump campaign adviser dismisses President's incendiary rhetoric as 'having fun' at rallies",
-      "excerpt": "Michigan Gov. Gretchen Whitmer called out President Donald Trump on Sunday for incendiary comments he made about her during a weekend campaign rally, saying the President's heightened rhetoric just days after authorities foiled a plot by extremists to kidnap her is \"inciting this kind of domestic terrorism.\"\n",
+      "path": "_news/2020-10-18-he-was-having-fun-lara-trump-defends-presidents-attack-on-whitmer.md",
+      "title": "‘He was having fun’: Lara Trump defends president’s attack on Whitmer",
+      "excerpt": "Privacy Policy She also said the president’s attack on Whitmer “has nothing to do with” her attempted kidnapping. | Samuel Corum/ Lara Trump, a senior adviser to President Donald Trump’s reelection campaign,",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1LPyD80W_A/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1LPyD80W_A/index.html",
+      "webUrl": "https://www.politico.com/news/2020/10/18/lara-trump-attack-whitmer-430060",
+      "originalUrl": "https://www.politico.com/news/2020/10/18/lara-trump-attack-whitmer-430060",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 179,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201008124357-01-gretchen-whitmer-lead-image-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://static.politico.com/57/8a/fcf09f5549d5aab4dfae0eb155d5/20201018-laratrump-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1601,16 +1609,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/18/politics/gretchen-whitmer-lara-trump-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/gretchen-whitmer-lara-trump-cnntv/index.html",
-      "publishedDateTime": "2020-10-18T08:02:50-07:00",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/18/lara-trump-attack-whitmer-430060",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/18/lara-trump-attack-whitmer-430060",
+      "publishedDateTime": "2020-10-18T08:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1627,6 +1635,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1643,7 +1652,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 118,
+      "heat": 138,
       "tags": null,
       "images": [
         {
