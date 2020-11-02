@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-mem
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1"
 type: article
 quality: 124
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "John Daly after being President Donald Trump's guest at debate: 'He's like me and Jesus'"
-    excerpt: "Golfer John Daly was at the second and final presidential debate on Thursday and caught up with USA TODAY Sports during the after party."
-    publishedDateTime: 2020-10-23T13:34:00Z
-    webUrl: "https://www.usatoday.com/story/sports/2020/10/23/john-daly-presidential-debate-donald-trump-like-me-and-jesus/3739947001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3739947001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3739947001"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/9a2c80c6-bfe7-4509-861b-b4d57d8da789-AP_Election_2020_Debate.jpg?auto=webp&crop=4405,2478,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Presidential historian Meacham describes Trump supporters as 'anguished' white guys with 'a lizard brain'"
     excerpt: "Presidential historian Jon Meacham referred to President Trump's supporters as \"anguished, nervous\" white men with a \"lizard brain\" during post-debate coverage of the second and final showdown between"
     publishedDateTime: 2020-10-23T15:11:00Z

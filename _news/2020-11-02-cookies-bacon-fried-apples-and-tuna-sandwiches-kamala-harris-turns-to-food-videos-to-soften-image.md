@@ -1226,6 +1226,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "What it reveals when senators repeatedly mispronounce the names of Kamala Harris and Sundar Pichai"
+    excerpt: "CNN It is a truth universally acknowledged that if you live in the US and have a non-English name, someone at some point is bound to butcher the pronunciation. People across"
+    publishedDateTime: 2020-11-01T12:48:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 61
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_aaabf9408d54ffe0ad32c8318f6c537e-h_77d46bc633d10a1d5e1af0d83b0cff8f.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Joe Biden, Kamala Harris and Theresa Greenfield are silent about proposals to pack the Supreme Court. Why won't they share their views?"
     excerpt: "Greenfield could enable a President Joe Biden to quickly fill new Supreme Court seats with agenda-driven liberals set on eviscerating the rule of law."
     publishedDateTime: 2020-10-27T10:48:00Z
@@ -1339,6 +1355,20 @@ related:
       name: Arizona Daily Star
       domain: tucson.com
     quality: 55
+  - title: "Live Updates: Kamala Harris campaign visit to Lehigh Valley"
+    excerpt: "Democratic vice presidential candidate Kamala Harris is visiting the Lehigh Valley Monday for a Latino Get Out the Vote drive-in event, a day before the presidential election."
+    publishedDateTime: 2020-11-02T15:08:00Z
+    webUrl: "https://www.mcall.com/news/elections/mc-nws-kamala-harris-lehigh-valley-20201102-r4vo6lpmyngrbg7mdh2zqosd5m-htmlstory.html"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 55
+    images:
+      - url: "https://www.mcall.com/resizer/mupEnwvY394hXCmSwUEJB6vK_sg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7AUWGFOTYURH54VAIFOMGR274.jpg"
+        width: 1200
+        height: 786
+        isCached: true
   - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
     excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."
     publishedDateTime: 2020-10-20T09:49:00Z

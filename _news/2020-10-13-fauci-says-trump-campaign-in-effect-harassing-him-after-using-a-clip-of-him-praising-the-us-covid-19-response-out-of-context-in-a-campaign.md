@@ -187,22 +187,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Lewis' hopes for Senate upset may turn on Trump's fate"
-    excerpt: "Jason Lewis' strategy for knocking off Democratic U.S. Sen. Tina Smith has been clear for over a year: For better or worse, the former congressman is all in for President Donald Trump. Lewis, a one-term former congressman best known from his days as a conservative talk radio host known as “Minnesota's Mr."
-    publishedDateTime: 2020-10-18T05:09:00Z
-    webUrl: "https://www.chron.com/news/article/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Trump goes after Fauci, tries to buck up his campaign team"
     excerpt: "President Donald Trump sought Monday to buck up his campaign staff two weeks from Election Day, dismissing the cautionary coronavirus advice of his scientific experts as well as polling showing him trailing Democratic rival Joe Biden across key battleground states."
     publishedDateTime: 2020-10-19T19:17:00Z

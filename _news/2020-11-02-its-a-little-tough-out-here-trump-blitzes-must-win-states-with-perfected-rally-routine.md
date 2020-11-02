@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-el
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
 type: article
 quality: 165
-heat: 165
+heat: 166
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 619
     isCached: true
 
-secured: "mkhKeMyuJqh/w4pUcfentNqYOj8UugOrASeHBvqLazXBu1FxbecaW1YoaGXbrzEHvbUIuLn0NEFce2zhpjccoe3hl/Qn2ZCiEtBlaOKj+rbDBEsQ5zAboq2P5umf753yLuabR8AG1xqdhRYA3OVg8MWLAnypR0MTVzzS44hlEkzo77pWQog05LvzICq6UJD6eyFWYX/G0oFWv+Qd2J3+FPXUgEPWRGpszNWP0I8PafZ79ogpXNAr+1HCljbwoY0zpFQcJGOBi3qYlvd8RFL5q5vfS7yvHuJUykQC/zeAltUhizxDpqlM1/I2LGFmO5WNlePwu+nUwRuhR0XTy9ykDZJmp4SC2vovUUc/o5PQY8Q=;oG9UrI7T92rSiHctmgkVFA=="
+secured: "KcqapjazowEZYlmZW1G85J0mo6rPQhWwXfbMPNrg121bQhBlFqwR8Figo807Co87+DxH7g60SiVe+RBP8C8syyo3ccUp/2tLLo3WORWOvhotJ32GNX1c92uAvkUuP673vB2ihFwZV//Y7HEggnp/rL35oYTiY5CQY6cK+EICSDuakm++/tyLk0rbs2xh+Dmc32B7DWNO+HI6t8GSeV6lGebCX/gTDKbZ02itO+/4fHiQ7yWluXFfWLKLY/CmL13ZtCVGzaKoLD9zMHyeh/l59h/1PBx81z8+LsupfTI0bYwXp1gatCUYBDAUG9pqFqNIUfP1cfFSzVdw8js/9dNrPIMchvGRTNLVhmQJb7Fg37s=;iHk6fZc57Qw3viRx8e+YLA=="
 ---
 

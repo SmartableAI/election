@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Iowa Poll: Are likely voters supporting Donald Trump or Joe Biden for president?"
-    excerpt: "In the last Iowa Poll before the Nov. 3 election, voters were asked who they were likely to support for president — Donald Trump or Joe Biden."
-    publishedDateTime: 2020-11-02T08:04:00Z
-    webUrl: "https://www.desmoinesregister.com/videos/news/politics/iowa-poll/2020/10/31/election-2020-iowa-poll-president-donald-trump-joe-biden-likely-voter-support/6090453002/"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/PDEM/223ede5e-57ce-46f2-8dcb-15e7c634403a-BIDEN_AFP_TRUMP_AP.jpg?quality=10"
-        width: 4000
-        height: 2661
-        isCached: true
 
 secured: "w8jPrzpb75iV9q8rkIg/Gmd0HENxYn4YY7iitplEhxzEdT9bYGpVPr86mxXDVNmj0ThEX847ez+/LLd4rzyRYi0Jyf+zqWYffMLXE3zmJkrn3ArYS8GIFeO/4fcodRwlfUHpIogITyJiGlqzrkEo9S8SOLQHou66icMQUqSktVkYbQNaeLWZ3UhEK0Re3VlbO4U5i+5VxuZCLDxcPCVJSgLyboCSb58/YO5OaABhI3SB5efyggDMpw66qVj7Hu4PZjKio29y6RTt9M8zVFUQC8zGltDoI81BD8CM5IjdPQrZLDpUpO6S2DOsJV+mZzmSHtIhgUVUAbMKCUx8Wita6sPCBVNvNmI+brFfMBR2ROf1LTGfj9SopmZSQReBC5s0DVM7FxBajbImreK2fvrcbxHvc1KZ2naiZRFICarovKnn3ZVKCW3HAd7M89K0O3kb3D6HHUxmOfqhiH20Ci3JRiHDGoGwNN0Bwunhq6bor3g5HNglwmkp/sURByqC9vl5TfLyzKcr6awFzHY2vcLNPg==;WIDEYcVHG0hv8HEG0Pi9MA=="
 ---

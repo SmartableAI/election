@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "WATCH LIVE: Trump speaks at campaign rally in Bullhead City, Arizona"
+    excerpt: "Trump weighed in on two nights of clashes with Philadelphia police and store break-ins following the fatal shooting by police of Walter Wallace Jr."
+    publishedDateTime: 2020-10-28T18:57:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "WATCH: Trump speaks at campaign rally in Goodyear, Arizona"
     excerpt: "Trump paused his campaign speech in Bullhead City, Arizona to admire what he identified as a fighter jet flying by."
     publishedDateTime: 2020-10-28T23:17:00Z
@@ -47,38 +63,81 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump's disrespect of Sen. Martha McSally was painful to watch"
-    excerpt: "President Donald Trump treated Sen. Martha McSally like a second-class citizen during his Goodyear rally. That's the thanks she gets, for her loyalty."
-    publishedDateTime: 2020-10-29T23:12:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/28/trumps-disrespect-sen-martha-mcsally-painful-watch/6064387002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6064387002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6064387002"
+  - title: "Livestream: Trump Holds Tuesday Rally In Michigan"
+    excerpt: "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing."
+    publishedDateTime: 2020-10-27T22:39:00Z
+    webUrl: "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan"
+    ampWebUrl: "https://patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
+      name: Patch
+      domain: patch.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PPHX/29606f50-ae19-4a72-a361-eb0642dbbb5e-DW1_8023.JPG?auto=webp&crop=3045,1713,x0,y304&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://patch.com/img/cdn20/getty/566479/20201027/013957/styles/patch_image/public/gettyimages-1229304833___27133938792.jpg?width=984"
+        width: 896
+        height: 672
         isCached: true
-  - title: "WATCH: Thousands of Trump Fans Stranded in Freezing Cold Hours After Nebraska Rally, 7 Reportedly Hospitalized"
-    excerpt: "Thousands of supporters were stranded in the freezing cold following President Donald Trump's rally in Nebraska due to a shortage of buses, including at least seven who were reportedly hospitaliz"
-    publishedDateTime: 2020-10-28T11:12:00Z
-    webUrl: "https://www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/"
-    ampWebUrl: "https://www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/amp/"
+  - title: "Man arrested at Trump rally with South Dakota's Noem"
+    excerpt: "Police in Maine on Wednesday arrested a man who displayed two weapons at a campaign rally for President Donald Trump where South Dakota Gov. Kristi Noem was appearing. Noem spokeswoman Maggie Seidel said Noem's security detail engaged a man who had two weapons."
+    publishedDateTime: 2020-10-28T17:57:00Z
+    webUrl: "https://www.chron.com/news/article/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Vice President Mike Pence to speak at rallies in Arizona on Friday"
+    excerpt: "Vice President Pence will speak at the 'Make America Great Again!' Victory Rally events in both Flagstaff and Tucson."
+    publishedDateTime: 2020-10-29T05:16:00Z
+    webUrl: "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 75
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/e11fcc2c-073e-4be5-bad4-2142c1b92b23/e11fcc2c-073e-4be5-bad4-2142c1b92b23_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "WATCH LIVE: Trump Holds Rally in Tampa on Thursday"
+    excerpt: "President Donald Trump is scheduled to speak to supporters on Thursday afternoon in Tampa, Florida, before heading to an evening rally in Fayetteville, North Carolina."
+    publishedDateTime: 2020-10-29T22:12:00Z
+    webUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
     type: article
     provider:
       name: Mediaite
       domain: mediaite.com
-    quality: 55
+    quality: 75
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Trump-Omaha-stranded.jpg"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1272406110-1200x801.jpg"
         width: 1200
-        height: 630
+        height: 801
         isCached: true
+  - title: "The Latest: Mrs. Trump Warms up Tampa Crowd at Trump Rally"
+    excerpt: "First lady Melania Trump is making her first joint campaign appearance of the year with her husband. Mrs. Trump warmed up the large crowd outside Raymond James Stadium in Tampa for President Donald Trump."
+    publishedDateTime: 2020-10-29T19:04:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
     publishedDateTime: 2020-10-30T13:55:00Z

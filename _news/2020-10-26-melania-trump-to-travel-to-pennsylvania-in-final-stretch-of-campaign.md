@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pennsylvania AG dismisses Trump, says he could 'care less' what president says on election night"
+    excerpt: "President Trump has been criticizing states that have extended deadlines for accepting ballots beyond Election Day, saying that the country should have a result by Tuesday night. Pennsylvania Attorney General Josh Shapiro, however, says his state will make sure that every ballot is counted, regardless"
+    publishedDateTime: 2020-11-02T16:29:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e80aIOUJicw/pennsylvania-ag-dismisses-trump-count-ballots"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-ag-dismisses-trump-count-ballots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-ag-dismisses-trump-count-ballots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e5535d2-e0a4-43bb-bb53-ad2bf1552f0e/ad95926a-3469-4233-aa71-a40d46eff02a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's lead shrinks in Pennsylvania in final days of race: poll"
     excerpt: "A poll of Pennsylvania voters released Monday found that Joe Biden’s lead over President Trump in the key battleground state has shrunk in the final days of the race."
     publishedDateTime: 2020-11-02T12:29:48Z

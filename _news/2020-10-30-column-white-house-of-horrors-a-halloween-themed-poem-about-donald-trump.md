@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-w
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html?outputType=amp"
 type: article
 quality: 123
-heat: 163
+heat: 143
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/7e9f60a6-b218-4d48-a3e9-5488e4e51393-Rage.jpg?auto=webp&crop=595,335,x1,y516&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Trump and Biden campaigns, Halloween, daylight saving time: 5 things to know this weekend"
-    excerpt: "Trump and Biden eye Pennsylvania on final campaign stretch, experts warn of Halloween dangers during COVID-19 and more things to start your weekend."
-    publishedDateTime: 2020-11-02T08:44:00Z
-    webUrl: "https://www.jsonline.com/story/news/2020/10/31/halloween-daylight-saving-time-trump-biden-election-full-moon/6007457002/"
-    ampWebUrl: "https://amp.jsonline.com/amp/6007457002"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/6007457002"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 81
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/31/USAT/0ce85bbb-a038-4cb3-81db-03efe11419d1-Biden_Trump_Campaign.jpg?auto=webp&crop=3999,2249,x1,y151&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "732VfEL28x9Fnns7cR3V8sAsi+YuG9qPSJolLU8FYhS7UhJEl5rb+2qHpzo5Rd/DmpWSYMqbQVhP2v+SxqC9e0uK74JvDfoJJP7KZA0N3AC/nBTIPmIQg6U0z7NMEUfkihf65NCsAqV8jyKv8yIXdf3balCKh+TG0r32ak09d5+SWvTZkktUQ7sqnB1sbVEDCz7374aLEqO1ft6ioavfPWRwFHlieJZKAWvR3JUKF+HDjCIvSxq6WlGx/ZVK0O4q0Akl03UzmG/DscduAG6kQyl57E9yUE7JYdPfbA3rQydm8tW4MEcZZPrQpK9W2sbIQH7VawFlcl1fet7kT5LIm4hiyurpiQyh/DfgBQ8hfV4wjVr9PJeliHoIbuTF+1jOA5u+ryrNMdgG5Nd7t/RwZu20iyGVgMR9mls2GqcK7BJK+r6AY5u/mc9jO+PlRxRqgL+/X6gNjXoSL20cbpkxvImXfRTHMXDGRpze8p+YQ1UR1DVjoHrCvZheR0Dyah245fnYzGXIo9tKVPR48zUJGg==;G0ze9E5ENbCyEIduI9QqWQ=="

@@ -31,273 +31,161 @@ images:
     isCached: true
 
 related:
-  - title: "Trump targets Pennsylvania women, but will do so without wife Melania"
-    excerpt: "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\""
-    publishedDateTime: 2020-10-20T21:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
+  - title: "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics"
+    excerpt: "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware."
+    publishedDateTime: 2020-10-22T11:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 136
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-20-rt-er-190618_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Melania Trump says son Barron tested positive for COVID-19, had no symptoms"
-    excerpt: "Melania Trump said Wednesday that after an initial negative test, 14-year-old Barron Trump tested positive for COVID-19."
-    publishedDateTime: 2020-10-15T05:39:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/10/14/melania-trump-says-son-barron-trump-tested-positive-covid-19/3656978001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3656978001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3656978001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump targets Pennsylvania women, but will need do so without wife Melania"
-    excerpt: "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\""
-    publishedDateTime: 2020-10-20T19:23:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-20-rt-er-190618_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden defends light campaign schedule during unscheduled Pennsylvania stop"
-    excerpt: "Democratic presidential nominee Joe Biden on Monday defended his light travel and campaign schedule, saying he’ll embark on a swing state blitz this week and that he regularly keeps 12 hour days even"
-    publishedDateTime: 2020-10-26T22:30:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522844-biden-defends-light-campaign-schedule-during-pennsylvania-stop"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522844-biden-defends-light-campaign-schedule-during-pennsylvania-stop?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522844-biden-defends-light-campaign-schedule-during-pennsylvania-stop?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_102620getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden Has 74 Percent Chance of Winning Pennsylvania, According to Bookmakers"
-    excerpt: "Biden has a 74 percent implied chance of taking the must-win state, while Trump is trailing with an implied chance of 28 per cent."
-    publishedDateTime: 2020-10-14T16:22:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
-    images:
-      - url: "https://d.newsweek.com/en/full/1651800/joe-biden-pennsylvania.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "The Justice Department lets itself be used to bully critics of Donald and Melania Trump"
-    excerpt: "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms."
-    publishedDateTime: 2020-10-16T02:36:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5SYA7XHV4I6VP2EBUY4QWBYUU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Judge throws out Trump campaign lawsuit over Pennsylvania poll-watching law and mail-in ballots"
-    excerpt: "The Trump campaign had challenged the battleground state’s poll-watching law and how mail-in ballots are collected and counted."
-    publishedDateTime: 2020-10-10T21:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/10/judge-throws-out-trump-campaigns-pennsylvania-lawsuit/5956103002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5956103002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5956103002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/8bc0821d-3529-4ac9-921f-5c7197680059-AP_Election_2020_Lawsuits_Glance.jpg?auto=webp&crop=4855,2731,x0,y168&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump pleas with suburban women: 'Please like me'"
-    excerpt: "President Donald Trump has anchored his second rally since contracting the coronavirus, telling voters in Pennsylvania that a vote for him is a vote to protect the suburbs. He also issued an appeal to suburban women: \"Will you please like me?"
-    publishedDateTime: 2020-10-14T02:04:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/14/trump-pleas-suburban-women-please-like-me/3647442001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/999762f7-db8f-45b1-bb6f-e87ec522a0c5_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump Pleads For Women Voters At Pennsylvania Rally"
-    excerpt: "An increasingly desperate President Trump called on suburban women to support him during a rally in Johnstown."
-    publishedDateTime: 2020-10-14T13:12:00Z
-    webUrl: "https://patch.com/pennsylvania/pittsburgh/trump-pleads-women-voters-pennsylvania-rally"
-    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
-    images:
-      - url: "https://patch.com/img/cdn20/ap/22920172/20201014/090933/styles/patch_image/public/ap20288063475161___14084417630.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
-  - title: "Donald and Melania Trump's son Barron had tested positive for Covid-19"
-    excerpt: "The first lady revealed that the 14-year-old had first tested negative for coronavirus but was found positive in a subsequent test."
-    publishedDateTime: 2020-10-15T09:42:00Z
-    webUrl: "https://www.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
-    ampWebUrl: "https://amp.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 75
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1600176/barron-trump-melania-trump.jpg"
+      - url: "https://s.abcnews.com/images/Politics/trump-1-rt-er-201021_1603316702002_hpMain_16x9_1600.jpg"
         width: 1600
-        height: 1099
+        height: 900
         isCached: true
-  - title: "Melania Trump Reveals Son Barron Also Tested Positive For Coronavirus"
-    excerpt: "Melania Trump penned an essay to share her personal experience with coronavirus and revealed that her son Barron also tested positive for COVID-19. But Melania, Barron and President Donald Trump have already recovered and have since tested negative."
-    publishedDateTime: 2020-10-15T01:57:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
+  - title: "Trump casts a 'very secure vote' for himself in Florida: 2020 election updates"
+    excerpt: "Trump cast his ballot at the West Palm Beach library near his private Mar-a-Lago club. The president told reporters after leaving the library it was \"an honor\" to be voting and that he cast a \"very secure vote."
+    publishedDateTime: 2020-10-24T21:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/24/2020-election-updates-trump-votes-himself-florida/6021545002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6021545002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6021545002"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/24/USAT/0338551a-28f6-4df2-8161-d2acb8fb8d2f-AP_Election_2020_Trump_5.jpg?auto=webp&crop=2911,1637,x0,y2308&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Election 2020 live updates: Obama says Trump treats 'presidency like a reality show'"
+    excerpt: "With 10 days to go until Election Day, President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3."
+    publishedDateTime: 2020-10-24T23:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/election blog/?id=73795075"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/International/obama-miami-2-ap-rc-201024_1603571842167_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "John Daly after being President Donald Trump's guest at debate: 'He's like me and Jesus'"
+    excerpt: "Golfer John Daly was at the second and final presidential debate on Thursday and caught up with USA TODAY Sports during the after party."
+    publishedDateTime: 2020-10-23T13:34:00Z
+    webUrl: "https://www.usatoday.com/story/sports/2020/10/23/john-daly-presidential-debate-donald-trump-like-me-and-jesus/3739947001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3739947001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3739947001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/9a2c80c6-bfe7-4509-861b-b4d57d8da789-AP_Election_2020_Debate.jpg?auto=webp&crop=4405,2478,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Trump claimed during the debate the GOP will take back the House. That is unlikely."
+    excerpt: "\"I think we're going to win the House,\" Trump said during the debate. That is contrary to what most election experts think."
+    publishedDateTime: 2020-10-23T03:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/president-trump-claimed-gop-take-back-house-unlikely/3738018001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3738018001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738018001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/61a04f09-915d-4eaa-9561-f18c06b3efdd-XXX__AN55555.JPG?auto=webp&crop=5003,2814,x1,y112&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases"
+    excerpt: "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news."
+    publishedDateTime: 2020-10-18T19:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Coronavirus updates: Feared surge is underway; masks can still save 63K lives; Trump missing from task force meetings, Fauci says"
+    excerpt: "A long-predicted surge in COVID-19 cases and deaths has begun in the United States, but Americans aren't changing their behaviors. Latest COVID news."
+    publishedDateTime: 2020-10-24T12:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/24/covid-news-fall-winter-surge-trump-rally-masks-can-save-63-k-lives/3743485001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3743485001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3743485001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/85141cd530c0facfb3015ac08455e120005288b5/c=0-8-3000-1696/local/-/media/2020/10/22/USATODAY/usatsports/MotleyFool-TMOT-81b0d5d3-4a9ffab2.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Voting 2020 live updates: Trump campaign loses appeal on satellite offices; Ohio's legal battle over drop boxes is officially over"
+    excerpt: "As Trump plans to early vote in Florida, Pence cast his ballot in Indianapolis. 52M have already voted. Latest voting news from across the U.S."
+    publishedDateTime: 2020-10-23T19:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/23/voting-2020-problems-and-news-how-vote-court-battles-russia/3728419001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3728419001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3728419001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/73823eae-9c73-41f8-ae97-15b449bec90b-AFP_AFP_8T79DM.jpg?auto=webp&crop=5920,3330,x0,y300&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Lewis' hopes for Senate upset may turn on Trump's fate"
+    excerpt: "Jason Lewis' strategy for knocking off Democratic U.S. Sen. Tina Smith has been clear for over a year: For better or worse, the former congressman is all in for President Donald Trump. Lewis, a one-term former congressman best known from his days as a conservative talk radio host known as “Minnesota's Mr."
+    publishedDateTime: 2020-10-18T05:09:00Z
+    webUrl: "https://www.chron.com/news/article/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
     quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
-        width: 1024
-        height: 682
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
-  - title: "Joe and Jill Biden to visit eastern Pennsylvania on Saturday (UPDATE)"
-    excerpt: "Biden campaigns in Bucks, Trump votes in Fla. and plans Pa. stop Monday. Democratic presidential candidate and former Vice President Joe Biden is scheduled Saturday to mak"
-    publishedDateTime: 2020-10-24T17:30:00Z
-    webUrl: "https://www.nj.com/politics/2020/10/joe-and-jill-biden-to-visit-eastern-pennsylvania-on-saturday.html"
-    ampWebUrl: "https://www.nj.com/politics/2020/10/joe-and-jill-biden-to-visit-eastern-pennsylvania-on-saturday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/10/joe-and-jill-biden-to-visit-eastern-pennsylvania-on-saturday.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OS3DKJ3AAJERDOVOB74RHT6NGI.JPG"
-        width: 7216
-        height: 4813
-        isCached: true
-  - title: "Pence tells Reading crowd the path to victory ‘runs through Pennsylvania’"
-    excerpt: "Vice President Mike Pence returned to the critical battleground state of Pennsylvania on Saturday, declaring President Donald Trump a champion of the “forgotten men and women of America” and blasting Joe Biden as a “Trojan Horse for the radical left."
-    publishedDateTime: 2020-10-17T19:32:00Z
-    webUrl: "https://www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html"
-    ampWebUrl: "https://www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 74
-    images:
-      - url: "https://www.mcall.com/resizer/b2hiFAaesVrzFrCtokD2xh0M_5M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RLJBBLSJDFRVOHOFAZPDRV7UW4.jpg"
-        width: 1200
-        height: 823
-        isCached: true
-  - title: "‘The road to victory runs right through Pennsylvania,’ VP Mike Pence tells Pa. crowd"
-    excerpt: "On a stage outside a hangar near Reading, Pence credited Trump for \"unleashing American energy,\" and having \"ended the war on coal.\""
-    publishedDateTime: 2020-10-17T21:41:00Z
-    webUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html"
-    ampWebUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 68
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RBM2JH3LDBC2HKB56RTAQ3HSEY.jpg"
-        width: 1024
-        height: 616
-        isCached: true
-  - title: "Joe Biden courts swing voters in Pennsylvania with a plea to ‘choose hope over fear’"
-    excerpt: "Biden entered the final 10 days before Election Day with a hopeful message not unlike the one that lifted Barack Obama to the White House."
-    publishedDateTime: 2020-10-24T21:14:00Z
-    webUrl: "https://www.inquirer.com/politics/election/joe-biden-pennsylvania-bucks-luzerne-counties-20201024.html"
-    ampWebUrl: "https://www.inquirer.com/politics/election/joe-biden-pennsylvania-bucks-luzerne-counties-20201024.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/election/joe-biden-pennsylvania-bucks-luzerne-counties-20201024.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 68
-    images:
-      - url: "https://www.inquirer.com/resizer/RwhEDTA6JTY5C9HGwEw89WjplfA=/1200x0/center/middle/www.inquirer.com/resizer/xpAGF81YnuyAt_DddLAhqTNQOFQ=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/URLTGFMVFZA5LLC2GC6V7NBOWQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump Seeks Campaign Boost in Battleground Pennsylvania With Two Weeks to Go"
-    excerpt: "U.S. President Donald Trump heads to the battleground state of Pennsylvania on Tuesday with hopes of rekindling the 11th-hour surge of support that powered his surprise 2016 victory. But with more than 30 million early ballots already cast with two weeks to go before voting ends on Election Day Nov."
-    publishedDateTime: 2020-10-20T07:10:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go?context=amp"
+  - title: "The Latest: Aide: Trump Tests Negative for Virus Pre-Debate"
+    excerpt: "The White House chief of staff says President Donald Trump tested negative for the coronavirus before Thursday night’s final presidential debate."
+    publishedDateTime: 2020-10-22T22:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 52
-  - title: "Joe and Jill Biden Campaign in Bucks County, Pennsylvania"
-    excerpt: "Democratic presidential nominee Joe Biden spoke at a campaign event in Erie, Pennsylvania. He talked about the economy,… 2020 Democratic presidential nominee Joe Biden and his wife Jill Biden toured eastern Ohio and western Pennsylvania by train the day after Mr."
-    publishedDateTime: 2020-10-24T08:02:00Z
-    webUrl: "https://www.c-span.org/video/?477335-1/joe-jill-biden-campaign-bucks-county-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "VP Mike Pence holds campaign event in Pennsylvania"
-    excerpt: "Vice President Mike Pence is making his last stops before the general election. Pence is holding a campaign event in West Mifflin, Pennsylvania. He will be addressing the crowd. This is the first major renovation the MLK Center has seen since it was built in 1968."
-    publishedDateTime: 2020-10-23T20:32:00Z
-    webUrl: "https://www.wilx.com/2020/10/23/vp-mike-pence-holds-campaign-event-in-pennsylvania/"
-    type: article
-    provider:
-      name: WILX-TV
-      domain: wilx.com
-    quality: 35
+    quality: 55
 
 secured: "uf5+OoykZpBwTxXceBjYSxLiNSZ8jOlA3XNNbhEetzzv4lkfSktuNSdZ93csbRcFbxux8LTAorgPuSmeX3rQ2e7/NycyyzvFyMvPNNVrLwKf/L7DRjUpBLH1uaf+oMjH+TU48R+DHuQP2SF5s8lMlj2iZQKaRpeK0RX3XRsNAJCfOz65FXya0PS6vb4rQzB2qQDbSaH9O6W3Mtnl8I8TVW1WL3Z1dzpSLZOhfCW33oP5c4pBQfACTsZ6M/XH2NqIa3D3gHfas7avg5FKDYTERG7Qo0KOu3x/3+7ieiInuqMEFzXCyyNv3MIOBtgOXUaJvoXGW/b1ze0Sz/bfZMYqW43UbM1y7I94dnxLPqll2b0=;SgWsTLGMhmMZChCQlGLKXA=="
 ---

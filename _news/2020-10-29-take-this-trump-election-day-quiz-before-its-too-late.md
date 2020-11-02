@@ -222,6 +222,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump's top election falsehoods to watch for on Election Day"
+    excerpt: "President Donald Trump has spent months making false claims in a baseless attempt to raise questions over the integrity of the presidential election.\n    \n"
+    publishedDateTime: 2020-11-02T14:52:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TvE4tLKkWPo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/fact-check-trump-election-day/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/fact-check-trump-election-day/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029142500-trump-wisconsin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Former CIA director: Trump likely to put up challenges to election result "
     excerpt: "Former CIA Director John Brennan speaks to CNN's Erin Burnett about a report from threat trackers at the International Crisis Group that warns America could face \"unfamiliar danger\" in the days around the presidential election.\n    \n"
     publishedDateTime: 2020-11-02T00:13:10Z

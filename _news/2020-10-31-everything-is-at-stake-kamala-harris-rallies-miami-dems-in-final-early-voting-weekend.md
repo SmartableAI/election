@@ -1210,6 +1210,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "What it reveals when senators repeatedly mispronounce the names of Kamala Harris and Sundar Pichai"
+    excerpt: "CNN It is a truth universally acknowledged that if you live in the US and have a non-English name, someone at some point is bound to butcher the pronunciation. People across"
+    publishedDateTime: 2020-11-01T12:48:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 61
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_aaabf9408d54ffe0ad32c8318f6c537e-h_77d46bc633d10a1d5e1af0d83b0cff8f.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Cookies, bacon fried apples and tuna sandwiches: Kamala Harris turns to food videos to soften image"
     excerpt: "Her videos showing how to make Masala Dosa and tuna sandwiches have been watched by millions “Usually I stuff under the skin and then let it sit in the fridge for a day or two with a lot of salt outside,"
     publishedDateTime: 2020-11-02T12:03:00Z
@@ -1339,6 +1355,20 @@ related:
       name: Arizona Daily Star
       domain: tucson.com
     quality: 55
+  - title: "Live Updates: Kamala Harris campaign visit to Lehigh Valley"
+    excerpt: "Democratic vice presidential candidate Kamala Harris is visiting the Lehigh Valley Monday for a Latino Get Out the Vote drive-in event, a day before the presidential election."
+    publishedDateTime: 2020-11-02T15:08:00Z
+    webUrl: "https://www.mcall.com/news/elections/mc-nws-kamala-harris-lehigh-valley-20201102-r4vo6lpmyngrbg7mdh2zqosd5m-htmlstory.html"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 55
+    images:
+      - url: "https://www.mcall.com/resizer/mupEnwvY394hXCmSwUEJB6vK_sg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7AUWGFOTYURH54VAIFOMGR274.jpg"
+        width: 1200
+        height: 786
+        isCached: true
   - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
     excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."
     publishedDateTime: 2020-10-20T09:49:00Z
@@ -1587,6 +1617,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "6kM7mBpoosltnD2LPsfRlInJhPulIz7/9Fd/vD4wtwuvQCfSJ6bV/n5sRp3sSAwGVuoAHPlY85P4CedeswXAZ60YG4C7SZqSc1feHJ5lAnYf/fgMy5wh7cMxNDla6G2di930dAy7B73xjGHTbaW921dDfFX6xmrvxKwArvoWV6kNBGmRO/QrCpjXPyghvOu5kvSMQ7M4S3PNe6wIFCCs3soInWJp5b8KafnoUlNtjmov/UBbS0SYLUHhKF+/C9R4JLsqwuAHHD7ID231nV8iW2jwJvu9+J5KIUhTfaXa0qTKdm0WpXNc3VrNdEx4WJvL7UMfWGBiTGYrOYqNXExxfwZe0bu5oPK5pdA0riUfMeY=;fHLA5lNBfrRbVPY3k5WTpw=="
+secured: "XomYrUmQ/n55/G0+F1oexa8f3qxUoDFqlBMHDoRqiL+bZIl1i5UIT2CE5wExeZBoh8xcha/06X7MO3eggsk8ztEvzKIta9lc19C7l+lwRl2imPuOZP6Gq/JJWHVskJQQk5Sv1bXhCGhuVo2OWbEvRZu3AwEAqWlnaqaH4N+HyVI7WC/yyPaBgX8jyXMtkHy/tC2VEL6+Jfo7qDhkJsKRTonsYJwIeOEmNMoa7QzfRlUlNrAozXWDd/lcnfPfkuS8v/jvj8wbBLvAKY1nMypHrh03TLog7rcyIeQnrIziTFbjSXhOqinbqk5TnKPd7n4m6VGUwlBA9ryQdhNhKq6Im2huir5gy+ULVZ9MEvYVm8vFDIfndEpfO+I55dlR+a7a3V8izGl0in4vnvys7koLnNU7ZFnLPWlJ4vFdsazKn6IkNuPLzKxKkgbLchvWk1av/1H9RHcPq3eP9b3Mh+Lbs8YvfUqtf/NbGatGuQhJtuYEIIfKG44X8YS5BmEG2FUHF1upIAab73StARPuuCuPsQ==;LXEBjEsIENthbeS0QqmT6w=="
 ---
 

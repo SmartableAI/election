@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 2404
+heat: 2424
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 189
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200724045318-02-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Trump's top election falsehoods to watch for on Election Day"
+    excerpt: "President Donald Trump has spent months making false claims in a baseless attempt to raise questions over the integrity of the presidential election.\n    \n"
+    publishedDateTime: 2020-11-02T14:52:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TvE4tLKkWPo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/fact-check-trump-election-day/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/fact-check-trump-election-day/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029142500-trump-wisconsin-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

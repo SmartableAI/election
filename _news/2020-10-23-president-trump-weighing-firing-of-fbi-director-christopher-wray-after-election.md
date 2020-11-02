@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3731576001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3731576001"
 type: article
 quality: 136
-heat: 276
+heat: 256
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.insider.com/5eab11f9204ad303cc23aeb3?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Fact check: Trump keeps making false or misleading statements on mail ballots as Election Day nears"
-    excerpt: "Seeing chaos where others don’t, President Donald Trump is falsely asserting that voting by mail is proving to be rife with problems across the country,"
-    publishedDateTime: 2020-10-27T19:47:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-trump-mail-voting-20201027-tp5nahz3s5dg5i5awj27sx3oq4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-trump-mail-voting-20201027-tp5nahz3s5dg5i5awj27sx3oq4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-fact-check-trump-mail-voting-20201027-tp5nahz3s5dg5i5awj27sx3oq4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 126
-    images:
-      - url: "https://www.chicagotribune.com/resizer/8bLIEbk3JdBza-wGzxEnjkDLfUs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4XWKPBI2EFEUNGTHY2HT32ASIM.jpg"
-        width: 1200
-        height: 951
         isCached: true
   - title: "Presidential debate: Trump history shows Kristen Welker has her work cut out for her"
     excerpt: "Trump clearly does not think well of nor respect Black women. Moderator Kristen Welker of NBC News must be tough and in command from start to finish."

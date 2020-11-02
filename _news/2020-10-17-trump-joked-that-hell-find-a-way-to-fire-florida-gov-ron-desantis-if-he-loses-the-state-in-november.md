@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WATCH: Thousands of Trump Fans Stranded in Freezing Cold Hours After Nebraska Rally, 7 Reportedly Hospitalized"
+    excerpt: "Thousands of supporters were stranded in the freezing cold following President Donald Trump's rally in Nebraska due to a shortage of buses, including at least seven who were reportedly hospitaliz"
+    publishedDateTime: 2020-10-28T11:12:00Z
+    webUrl: "https://www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 55
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Trump-Omaha-stranded.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zJIak3aWnUdDbRBERIyVlXGtFMNPezI/8B4PzfZPzydk7uGifK3++S1zYMITZ7nsF9w9izgpvcZAnLe4ia9CrwZA1jSl9bV7s2Q2PBDyTosgZiQK0Q/AyMmnKvj3OSlkYTR3QjxPMM4VewrQiSKzZbMBLat3Y5jo0joz1CTtdTXaYiveZ2Mx7YZRFkFxrKzLKcEi+jodOJnas0Xv5D7ZGyofcYNmLlTCL2IPMqyUbcCH8P/DvdT1OYPFiETXv1bPyhlHSSr0ll4H4AyAg16ky5z0jYbewPC9IEEAPURw1n0SuWggNfAFX+mVqFWw0Ldd4ieqnjHN0+Epzn+aYV70Eovwbx/UQLTc5ME1LnTznxvaKdxbHSuqXNw49qK7PDOOzufuI7noUKnmwGxku3xjsXN/T3li2XIYIbwaO8WJkf/N6IqDlVq6HUjJB9W7r7AngFunO0dc+E3k48SsgY0XiHJKzcyrwK2oTRrQl5LkAsnYl61Kbp+fGXYRPPuBy36IR7/lw1Z+fHNZytNok9z4uQ==;gR+ybmSTI52159NmM+hJaA=="
 ---

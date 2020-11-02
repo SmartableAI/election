@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
 type: article
 quality: 190
-heat: 390
+heat: 391
 published: true
 
 provider:

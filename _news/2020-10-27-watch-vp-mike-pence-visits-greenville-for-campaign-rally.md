@@ -54,6 +54,15 @@ related:
       name: CBS Boston
       domain: cbslocal.com
     quality: 55
+  - title: "Live updates: VP Mike Pence visits Allegheny County Airport"
+    excerpt: "Vice President Mike Pence is headed to the Allegheny County Airport to stump for President Trump down the home stretch for the General Election on Nov 3. His visit comes a day after Trump and ..."
+    publishedDateTime: 2020-10-23T20:22:00Z
+    webUrl: "https://triblive.com/local/live-updates-vp-mike-pence-visits-allegheny-county-airport/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
 
 secured: "hrNTYLO2QAlK9hCGZ/XrquuQCy+2UKUU+/xzBfvlDZaNPXGfJVgPZM5iPvZ6ClVQ9Q8uhEkdnnKFI6TyT3RXHHuFaNr8oY38QbwXUwnGBC+QaRxxOamf9iFgk90L2DL1Bi4OxuJGBfC1ndfUQaTVDIqnhzkTveJc11jQ4R8EG9qKrTq4mAkg0MRqNIfxDkU0AF4md5LIh41qDHDtVnRAGzeOXKks8M2EvRPf0i7Dec4mJ9gPPD0W+VNC9q45vKcYf/iLogl672x1hivTI3xuPbWnG5JmeEJf/CL2Kwsaz1XMboOfkGsRTsDlyg5GyZfi0I2kQYPq2J3uCKWlsTUV6S+3XCExJWNkgSUsYFAi5EaK7tTebe/T1aKAIXD3sZs93AZBPkU+XaljBA6hDA3Ff6wccxgYox+Gb3EYlhyyCuw7aRV/S02zldCNHxfcVlRVCycCi2+Q/uKJQo2pjnVsCevbnLP6fWwAuY/HhOCkmFbQQXeg2ClaPEMkUvdIsdX9BboomCDCPk1U1nT/1JTwwA==;OqovQnKf/dHzAeMt/E37dw=="
 ---

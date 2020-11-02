@@ -53,6 +53,15 @@ related:
         width: 863
         height: 487
         isCached: true
+  - title: "Live updates: VP Mike Pence visits Allegheny County Airport"
+    excerpt: "Vice President Mike Pence is headed to the Allegheny County Airport to stump for President Trump down the home stretch for the General Election on Nov 3. His visit comes a day after Trump and ..."
+    publishedDateTime: 2020-10-23T20:22:00Z
+    webUrl: "https://triblive.com/local/live-updates-vp-mike-pence-visits-allegheny-county-airport/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
 
 secured: "EI07rh6wXYgAlf6EcgjFvtM21LmX9AnhHOdjrNnrlWuINYHHSCsfMPH9VqeXlGtUnQSdv5l/kwvvVw/pV5AI9+QC8VBtm274P4pZ3EOMP1tGKTiVJ9DbG1qMHk4dBnz52nJf9Vw+tMfSb5dFdlRq41F375oBaGh0wxay0e4E0dm/vqd1L/yPZYytruFJz5mcEM9l0xQqwzWj95pW5jwwZ0Ut2pJaOhsjp+Gv2qunLImM7Lpu7FHi9BS1MWEcjkmVBE5vocSbgHrVj9r7Cfk/c8DKOp+tiLLjBMNYTan6F2Uo8g7WK357OrnDhq3XwyognJvedySdFT37mwVi/b+QkPvzoIIDuF7fIOPVwgH33Xl1l5zTQfXC+Zx8eCdrfhsefsS7umxbSGj3j6R882SbO+b4LhYsDx4uiKvswBtarcPL4e2SHWXDgs8oic0t67Hta1jA6UuHy1JOZJeCmT+3LgkSXj8yb0Wnjt8Lm6J6YCPzC9T/I2nyffwYRoTlWEtbU2Q5LshYxkBS0p+wiNMUEg==;8OTSLDYkPLmUKRqSpy17Tw=="
 ---

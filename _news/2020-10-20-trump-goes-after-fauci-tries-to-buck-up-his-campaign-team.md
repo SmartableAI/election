@@ -199,22 +199,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Lewis' hopes for Senate upset may turn on Trump's fate"
-    excerpt: "Jason Lewis' strategy for knocking off Democratic U.S. Sen. Tina Smith has been clear for over a year: For better or worse, the former congressman is all in for President Donald Trump. Lewis, a one-term former congressman best known from his days as a conservative talk radio host known as “Minnesota's Mr."
-    publishedDateTime: 2020-10-18T05:09:00Z
-    webUrl: "https://www.chron.com/news/article/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "John Fogerty Joins Long List of Artists Demanding Trump Stop Using Their Songs"
     excerpt: "John Fogerty, the singer and principal songwriter from Woodstock-era swamp rock group Creedence Clearwater Revival, has joined the growing list of musicians demanding that President Donald Trump stop blasting their tunes at his pep rallies."
     publishedDateTime: 2020-10-18T16:24:00Z

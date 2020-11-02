@@ -2133,6 +2133,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "President Donald Trump looks to beat Joe Biden in Alaska for a second term in the Oval Office"
+    excerpt: "Alaska has voted for a Republican president in every election since 1968."
+    publishedDateTime: 2020-11-02T16:01:00Z
+    webUrl: "https://www.businessinsider.com/alaska-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/alaska-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alaska-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5f96e52e4743a3001216b984?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Poll: Susan Collins trails challenger Sara Gideon by small margin; Biden leading Trump statewide"
     excerpt: "\"If (Collins) doesn't get a lot of split ticket voters ... she's going to return to private life,\" the lead researcher told USA TODAY."
     publishedDateTime: 2020-10-28T09:16:00Z
@@ -3639,6 +3655,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump, Biden focus on battleground states in campaign's final sprint"
+    excerpt: "With early voter turnout setting a record and U.S. business districts boarding up for fear of Election Day unrest, President Donald Trump and his rival Joe Biden stumped on the campaign's last day on Monday in states expected to decide who wins."
+    publishedDateTime: 2020-11-02T16:56:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idINKBN27I0FD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201102&t=2&i=1539662237&r=LYNXMPEGA10PN&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z

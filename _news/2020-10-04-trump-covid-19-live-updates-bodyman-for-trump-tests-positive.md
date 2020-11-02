@@ -31,462 +31,220 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020 live updates: Trump campaign website hacked"
-    excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
-    publishedDateTime: 2020-10-29T03:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6007506002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007506002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
-    excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
-    publishedDateTime: 2020-11-02T09:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/02/election-updates-biden-barnstorm-pa-trump-vows-send-lawyers/6117435002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6117435002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6117435002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 138
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/37fc0ada-d276-47d9-a2a1-cafe0e3538fb-GTY_1229408894.jpg?auto=webp&crop=2512,1413,x0,y48&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics"
-    excerpt: "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware."
-    publishedDateTime: 2020-10-22T11:41:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 136
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-1-rt-er-201021_1603316702002_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Trump casts a 'very secure vote' for himself in Florida: 2020 election updates"
-    excerpt: "Trump cast his ballot at the West Palm Beach library near his private Mar-a-Lago club. The president told reporters after leaving the library it was \"an honor\" to be voting and that he cast a \"very secure vote."
-    publishedDateTime: 2020-10-24T21:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/24/2020-election-updates-trump-votes-himself-florida/6021545002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6021545002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6021545002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 136
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/24/USAT/0338551a-28f6-4df2-8161-d2acb8fb8d2f-AP_Election_2020_Trump_5.jpg?auto=webp&crop=2911,1637,x0,y2308&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Election 2020 live updates: Obama says Trump treats 'presidency like a reality show'"
-    excerpt: "With 10 days to go until Election Day, President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3."
-    publishedDateTime: 2020-10-24T23:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/election blog/?id=73795075"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 133
-    images:
-      - url: "https://s.abcnews.com/images/International/obama-miami-2-ap-rc-201024_1603571842167_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Election 2020 live updates: Trump makes false statement about Election Day ballot counts"
-    excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
-    publishedDateTime: 2020-10-27T19:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6007506002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007506002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facebook pulled 48 Trump election campaign ads which told people 'your vote has not been counted'"
-    excerpt: "Some 399,000 saw the ads from the Trump campaign before Facebook pulled it, which was potentially misleading to some voters."
-    publishedDateTime: 2020-10-23T15:44:00Z
-    webUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 127
-    images:
-      - url: "https://i.insider.com/5f92f8b4212113001874071a?width=1200&format=jpeg"
-        width: 780
-        height: 390
-        isCached: true
-  - title: "2020 election live updates: Trump returns to campaigning with Florida stop, Barrett hearings begin"
-    excerpt: "President Donald Trump returns to the campaign trail Monday with a stop in Florida. Meanwhile, his Supreme Court nominee faces senators."
-    publishedDateTime: 2020-10-12T12:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/19a95346-760c-40e6-ab6b-db9aa8513214-Barrett_family.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "2020 election live updates: White House says Trump has tested negative for COVID without saying when"
-    excerpt: "President Donald Trump has tested negative for COVID-19 on “consecutive days,” White House physician Sean Conley said in memo released Monday. The document, posted to Twitter by White House ..."
-    publishedDateTime: 2020-10-13T16:42:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump grants clemency to five backed by ally Alice Johnson"
-    excerpt: "President Donald Trump on Wednesday granted clemency to five people convicted of committing drug and financial crimes, all of them cases that were pushed by prison reform advocate and Trump ally Alice Johnson."
-    publishedDateTime: 2020-10-22T01:15:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+  - title: "Chris Christie is the latest in Trump orbit to get virus"
+    excerpt: "Chris Christie tested positive for COVID-19, he tweeted Saturday morning — the latest in a string of virus cases connected to President Donald Trump's inner circle. Christie said that he will be receiving medical attention and “will keep the necessary folks apprised of my condition."
+    publishedDateTime: 2020-10-03T17:15:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_daedaf4ef0704080945b2d81dc4a9a01_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_947b45dfec594eaf9655cd8486013db8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump celebrates at White House as Supreme Court nominee confirmed"
-    excerpt: "President Donald Trump reveled in one of his signature achievements on Monday at a White House ceremony to celebrate U.S. Senate confirmation of his third Supreme Court nominee, Amy Coney Barrett, eight days before the election."
-    publishedDateTime: 2020-10-27T04:19:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-barrett-idINKBN27A0CX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A0CX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A0CX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538916881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q02G"
-        width: 777
-        height: 545
-        isCached: true
-  - title: "WATCH LIVE: Trump speaks at campaign rally in Bullhead City, Arizona"
-    excerpt: "Trump weighed in on two nights of clashes with Philadelphia police and store break-ins following the fatal shooting by police of Walter Wallace Jr."
-    publishedDateTime: 2020-10-28T18:57:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump COVID-19 live updates: Campaign manager Bill Stepien tests positive"
-    excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."
-    publishedDateTime: 2020-10-03T14:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73402267"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73402267"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73402267"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
-    excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
-    publishedDateTime: 2020-11-02T08:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/31/voting-2020-news-updates-texas-voter-numbers-covid-florida-poll/6069630002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6069630002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6069630002"
+  - title: "2020 election live updates: Trump tells crowd at White House he's 'feeling great'; Christie out of hospital"
+    excerpt: "\"I'm feeling great, I don't know about you,\" Trump said in a nearly 20-minute speech while standing on the Blue Room balcony overlooking the South Lawn. The event was billed as a \"peaceful protest for law and order."
+    publishedDateTime: 2020-10-10T19:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/10/election-updates-trump-holds-campaign-event-white-house/5952593002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5952593002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5952593002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 124
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/73823eae-9c73-41f8-ae97-15b449bec90b-AFP_AFP_8T79DM.jpg?auto=webp&crop=5920,3330,x0,y300&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Election updates: Trump deemed 'safe' to return to public engagements, won't say if he's tested negative"
-    excerpt: "Trump's aides are working to satisfy his desire to get back out on the campaign trail as early as Monday in Pittsburgh."
-    publishedDateTime: 2020-10-11T00:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5882077002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes"
-    excerpt: "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week."
-    publishedDateTime: 2020-10-24T22:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 122
     images:
-      - url: "https://i.insider.com/5f7646e80ab50d00184adb29?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/e374f7a0-88b8-4ed8-a1dd-3a3703cb39d2-TRUMP_POSITIVE_CORONAVIRUS_14.JPG?auto=webp&crop=4270,2402,x1,y107&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Trump: We'll send in lawyers if Pennsylvania election is unfair. But votes are regularly counted after Election Day"
-    excerpt: "States never count all the votes by Election Day. Absentee and military ballots, especially, are counted for days afterward."
-    publishedDateTime: 2020-11-02T13:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/01/trump-well-send-lawyers-if-election-pennsylvania-unfair/6118358002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6118358002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6118358002"
+  - title: "Trump, 14 others positive for COVID: A running list of those being tested and their results"
+    excerpt: "Questions remain on who the president has been in contact with in the days prior to his positive COVID-19 test."
+    publishedDateTime: 2020-10-04T02:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/trump-has-covid-running-list-whos-been-tested-and-their-results/5894564002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5894564002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894564002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 118
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/01/USAT/2fae7537-8cea-459b-8312-1db8c209b113-AFP_AFP_8UD47V.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process"
-    excerpt: "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters."
-    publishedDateTime: 2020-10-28T21:35:00Z
-    webUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
+  - title: "Trump, 15 others positive for COVID: A running list of those being tested and their results"
+    excerpt: "Questions remain on who the president has been in contact with in the days prior to his positive COVID-19 test."
+    publishedDateTime: 2020-10-05T03:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/trump-has-covid-running-list-whos-been-tested-and-their-results/5894564002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5894564002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894564002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Claim that Trump's positive COVID-19 test result is a 'con' has no basis in fact"
+    excerpt: "A claim suggesting President Trump will politically leverage his positive test result includes speculations that aren't proven. We rate the claim false."
+    publishedDateTime: 2020-10-03T14:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/03/fact-check-false-claim-trumps-covid-19-test-result-con/5894945002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5894945002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894945002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f9c98f2a-76c0-49ad-9597-929b4bf1dc43-VPC_TRUMP_COVID_POSITIVE_DESK_THUMB.00_00_00_00.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump, 10 others test positive for COVID: A running list of everyone being tested and their results"
+    excerpt: "White House officials said Friday that President Donald Trump is feeling only \"mild symptoms\" following the announcement that he and first lady Melania Trump have tested positive for COVID-19. Trump announced his positive test early Friday morning,"
+    publishedDateTime: 2020-10-03T01:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/trump-has-covid-running-list-whos-been-tested-and-their-results/5894564002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5894564002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894564002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/eb69e2d4-d811-4488-894a-9373d66ee7d6-trumpmask.jpg?auto=webp&crop=4825,2714,x0,y240&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Is Trump contagious? How is Chris Christie? We're answering your questions about the president and COVID-19"
+    excerpt: "Is President Donald Trump contagious? Will his COVID-19 treatments be available to the rest of the nation? We're answering your coronavirus questions."
+    publishedDateTime: 2020-10-09T02:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-update-reader-questions-answered/3635959001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3635959001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3635959001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/1bf80870-669e-4a7b-ad05-39188534921c-AP_APTOPIX_Virus_Outbreak_Trump.jpg?auto=webp&crop=2341,1317,x0,y119&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'That makes no sense': Doctors say Trump is either getting overtreated for coronavirus, which could be risky, or he's more seriously ill than we know"
+    excerpt: "The decision to give the president steroids raises questions about how severe his coronavirus infection is, doctors say."
+    publishedDateTime: 2020-10-05T17:29:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-treatments-prognosis-puzzle-doctors-remdesivir-dexamethasone-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-treatments-prognosis-puzzle-doctors-remdesivir-dexamethasone-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-treatments-prognosis-puzzle-doctors-remdesivir-dexamethasone-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 110
+    quality: 86
     images:
-      - url: "https://i.insider.com/5f99df9069331a0011bc5ed3?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f78cb9e2400440019129d78?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Coronavirus updates: Feared surge is underway; masks can still save 63K lives; Trump missing from task force meetings, Fauci says"
-    excerpt: "A long-predicted surge in COVID-19 cases and deaths has begun in the United States, but Americans aren't changing their behaviors. Latest COVID news."
-    publishedDateTime: 2020-10-24T12:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/24/covid-news-fall-winter-surge-trump-rally-masks-can-save-63-k-lives/3743485001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3743485001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3743485001"
+  - title: "Stephen Colbert Takes The High Road on Donald Trump's COVID Comeuppance"
+    excerpt: "Sounding, at first, a little like Dante from Clerks, Stephen Colbert opened Friday night's monologue reminding us he wasn't even supposed to be there. (The show rarely tapes on Friday.) But the Late Show host rose to the challenge of remaining funny and maintaining opposition to Donald Trump without seeming indecent after news broke of the president testing positive for coronavirus."
+    publishedDateTime: 2020-10-03T15:18:00Z
+    webUrl: "https://www.vanityfair.com/hollywood/2020/10/stephen-colbert-takes-the-high-road-on-donald-trumps-covid-comeuppance"
+    ampWebUrl: "https://www.vanityfair.com/hollywood/2020/10/stephen-colbert-takes-the-high-road-on-donald-trumps-covid-comeuppance/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2020/10/stephen-colbert-takes-the-high-road-on-donald-trumps-covid-comeuppance/amp"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: usatoday.com
-    quality: 96
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/85141cd530c0facfb3015ac08455e120005288b5/c=0-8-3000-1696/local/-/media/2020/10/22/USATODAY/usatsports/MotleyFool-TMOT-81b0d5d3-4a9ffab2.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://media.vanityfair.com/photos/5f788c09d070eec8d50f0d1f/master/pass/stephen-colbert.jpg"
+        width: 2000
+        height: 1020
+        isCached: true
+  - title: "Trump hasn’t 'saved Christianity' and Christians shouldn’t save his presidency"
+    excerpt: "President Donald Trump’s campaign is making a closing argument that he has “saved Christianity,” a blasphemous claim that in reality is aimed at getting people of faith to save him."
+    publishedDateTime: 2020-10-13T19:13:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/2020/10/13/trump-and-christianity-no-he-did-not-save-christianity-column/5962278002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5962278002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5962278002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "United States cannot replace President Trump as defendant in columnist’s lawsuit related to rape allegation, federal judge rules"
-    excerpt: "A federal judge on Tuesday denied President Donald Trump’s request that the United States replace him as the defendant in a defamation lawsuit alleging he raped a woman."
-    publishedDateTime: 2020-10-28T02:43:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 96
-    images:
-      - url: "https://www.chicagotribune.com/resizer/9T6xM9WwzncJC1U9YusfCXeCFF0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSWZ6OW4UASM2Y33DIGJOP55QE.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Voting 2020 live updates: Trump campaign loses appeal on satellite offices; Ohio's legal battle over drop boxes is officially over"
-    excerpt: "As Trump plans to early vote in Florida, Pence cast his ballot in Indianapolis. 52M have already voted. Latest voting news from across the U.S."
-    publishedDateTime: 2020-10-23T19:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/23/voting-2020-problems-and-news-how-vote-court-battles-russia/3728419001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3728419001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3728419001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/73823eae-9c73-41f8-ae97-15b449bec90b-AFP_AFP_8T79DM.jpg?auto=webp&crop=5920,3330,x0,y300&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west"
-    excerpt: "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century."
-    publishedDateTime: 2020-10-27T19:48:00Z
-    webUrl: "https://www.sfchronicle.com/bayarea/article/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
-    ampWebUrl: "https://www.sfchronicle.com/bayarea/amp/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 90
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/56/42/20113594/13/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
-    excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
-    publishedDateTime: 2020-10-29T21:58:00Z
-    webUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
+  - title: "‘Dork’ Matt Gaetz goes down in flames after comparing Donald Trump to Chuck Norris"
+    excerpt: "Rep. Matt Gaetz (R-FL) joked that President Donald Trump was too tough to get seriously ill from the coronavirus, and was drowned in ridicule. The Florida Republican cracked a “Chuck Norris facts”-style joke about the president’s COVID-19 infection to imply the potentially deadly virus had more to fear from its obese,"
+    publishedDateTime: 2020-10-05T16:23:00Z
+    webUrl: "https://www.rawstory.com/2020/10/dork-matt-gaetz-goes-down-in-flames-after-comparing-donald-trump-to-chuck-norris/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/dork-matt-gaetz-goes-down-in-flames-after-comparing-donald-trump-to-chuck-norris/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/dork-matt-gaetz-goes-down-in-flames-after-comparing-donald-trump-to-chuck-norris/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 90
+    quality: 69
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg"
-        width: 800
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/12/gaetz.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Trump is stubbornly clinging to stunts to show all is well — even as his condition worsens: analysis"
+    excerpt: "Writing for Vox, correspondent German Lopez slammed President Donald Trump for his ongoing series of stunts to prove that everything in the country is normal and there is nothing to be afraid of or criticize his government for — even as COVID-19 has made him very sick."
+    publishedDateTime: 2020-10-05T15:45:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 60
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-793x430.jpg"
+        width: 793
         height: 430
         isCached: true
-  - title: "Photos: On the campaign trail this week with Trump and Biden"
-    excerpt: "Donald Trump and Joe Biden have been crisscrossing the country to woo voters with only a few days left before the presidential election."
-    publishedDateTime: 2020-11-02T08:00:00Z
-    webUrl: "https://omaha.com/news/national/govt-and-politics/photos-on-the-campaign-trail-this-week-with-trump-and-biden/collection_af53884c-4a0c-584d-bb1f-385b9c26c573.html"
-    ampWebUrl: "https://omaha.com/news/national/govt-and-politics/photos-on-the-campaign-trail-this-week-with-trump-and-biden/collection_af53884c-4a0c-584d-bb1f-385b9c26c573.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/photos-on-the-campaign-trail-this-week-with-trump-and-biden/collection_af53884c-4a0c-584d-bb1f-385b9c26c573.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 90
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/7/d1/7d112f5d-8b7a-5910-92bf-0649ff57200d/5f9c809b2838b.image.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "WATCH LIVE: Trump Holds Rally in Tampa on Thursday"
-    excerpt: "President Donald Trump is scheduled to speak to supporters on Thursday afternoon in Tampa, Florida, before heading to an evening rally in Fayetteville, North Carolina."
-    publishedDateTime: 2020-10-29T22:12:00Z
-    webUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/"
-    ampWebUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 75
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1272406110-1200x801.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "The Latest: Trump Says Final Debate Went 'Really Well'"
-    excerpt: "President Donald Trump is reviewing his debate against Democrat Joe Biden, saying he thought it went “really well” and was an “exciting night.”."
-    publishedDateTime: 2020-10-23T19:33:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 65
-  - title: "The Latest: Aide: Trump Tests Negative for Virus Pre-Debate"
-    excerpt: "The White House chief of staff says President Donald Trump tested negative for the coronavirus before Thursday night’s final presidential debate."
-    publishedDateTime: 2020-10-22T22:29:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
+  - title: "The Latest: Doctor Giving Trump Health Update Sunday Morning"
+    excerpt: "President Donald Trump’s doctors are set to brief the public on his condition late Sunday morning after he spent a second night hospitalized with COVID-19."
+    publishedDateTime: 2020-10-04T15:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "The Latest: Trump heaping attention on 1 Nebraska district"
-    excerpt: "President Donald Trump talks with the traveling press as first lady Melania Trump waits near Air Force One at Andrews Air Force Base, Md., Tuesday, Oct. 27, 2020. They flew"
-    publishedDateTime: 2020-10-28T01:26:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-heaping-attention-on-1-nebraska-district/image_3a2d2708-da36-5d0e-bceb-7b2e43bd20ce.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/a2/3a2d2708-da36-5d0e-bceb-7b2e43bd20ce/5f98a68289117.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "The Latest: Mrs. Trump Warms up Tampa Crowd at Trump Rally"
-    excerpt: "First lady Melania Trump is making her first joint campaign appearance of the year with her husband. Mrs. Trump warmed up the large crowd outside Raymond James Stadium in Tampa for President Donald Trump."
-    publishedDateTime: 2020-10-29T19:04:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+  - title: "Trump Says 'Real Test' Lies Ahead in His COVID-19 Fight"
+    excerpt: "President Donald Trump told Americans from his hospital room that the next few days will be the \"real test\" of his treatment for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his condition."
+    publishedDateTime: 2020-10-04T13:18:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-04/trump-says-real-test-ahead-in-his-covid-fight-after-mixed-messages-from-white-house"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-04/trump-says-real-test-ahead-in-his-covid-fight-after-mixed-messages-from-white-house?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-04/trump-says-real-test-ahead-in-his-covid-fight-after-mixed-messages-from-white-house?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Live updates: VP Mike Pence visits Allegheny County Airport"
-    excerpt: "Vice President Mike Pence is headed to the Allegheny County Airport to stump for President Trump down the home stretch for the General Election on Nov 3. His visit comes a day after Trump and ..."
-    publishedDateTime: 2020-10-23T20:22:00Z
-    webUrl: "https://triblive.com/local/live-updates-vp-mike-pence-visits-allegheny-county-airport/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 35
 
 secured: "VZa9BdJGCdEjpodZFhvEGIIn6mMXaaTiTzl62mv8ZARaa1pMr+k/j1ZDmgEATfVV9f3UzsthznqHgpFA51e8qhztWyQNyNyDPXuwg9uKByN7pn3DY+mtKE89BswlH0M2dEiTv6aGl+V3UF0TX6Ebz+WuMKm9dVR5pMJoDso79n0M8wILnEsRC7TXCrZSURN1h5eea11Hr1Y+YjZCEyT/VvKL5M99mQsrDdbSS9qiclGH2o+xFAYhHawhao7rsd81N9GanHgpgoDM/FCB5lu1Hk3QLcZDzQWOS8c3ad4RFgo/ck3fXRV3yUpw7J4gxXQPpWoWPTebnSrJZM4IlzNAYiDfGYKeFeN2lq11Ff9jZN7q2wf3UD2zLWL5qFUyBKn7rhxesph8X60s+2aN6jqtk8xAHXoF7WXuFidmvQz9s7KEyaszFsmiIMdBwVAW9CYqs5iIdMWT76HBHJlr4ML0yVSFtMLm14Ue8nM8I8UvZz8KuXv2I0EGRS/cBgnMzPkMdTKBXCXbRKwLFYM8YQ3mVA==;uPmkpHHxC4JILZ0Izkez3w=="
 ---

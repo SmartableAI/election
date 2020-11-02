@@ -27,63 +27,70 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH: Trump speaks at campaign rally in Goodyear, Arizona"
-    excerpt: "Trump paused his campaign speech in Bullhead City, Arizona to admire what he identified as a fighter jet flying by."
-    publishedDateTime: 2020-10-28T23:17:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+  - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
+    excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
+    publishedDateTime: 2020-10-24T09:12:00Z
+    webUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump's disrespect of Sen. Martha McSally was painful to watch"
-    excerpt: "President Donald Trump treated Sen. Martha McSally like a second-class citizen during his Goodyear rally. That's the thanks she gets, for her loyalty."
-    publishedDateTime: 2020-10-29T23:12:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/28/trumps-disrespect-sen-martha-mcsally-painful-watch/6064387002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6064387002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6064387002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PPHX/29606f50-ae19-4a72-a361-eb0642dbbb5e-DW1_8023.JPG?auto=webp&crop=3045,1713,x0,y304&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?"
-    excerpt: "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?"
-    publishedDateTime: 2020-10-21T17:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5996029002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996029002"
+  - title: "Trump joked that he'll 'find a way' to fire Florida Gov. Ron DeSantis if he loses the state in November"
+    excerpt: "The president sees Florida as a must-win state in his electoral coalition if he is to be reelected to a second term."
+    publishedDateTime: 2020-10-17T14:38:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f8afa23c21cfb00194689f7?width=1200&format=jpeg"
         width: 1200
-        height: 676
+        height: 600
         isCached: true
-  - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
-    publishedDateTime: 2020-10-30T13:55:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-arizona"
+  - title: "US Air Force F-16s intercepted an unauthorized aircraft flying in a restricted area over a Trump rally"
+    excerpt: "When President Donald Trump saw the F-16 deploy signal flares, he told a crowd that they were putting on a display for him."
+    publishedDateTime: 2020-10-29T06:21:00Z
+    webUrl: "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10?amp"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f99e8aa69331a0011bc5f19?width=1200&format=jpeg"
+        width: 998
+        height: 499
+        isCached: true
+  - title: "Gun-Toting ‘Guards’ at Florida Polls Claim They Were Hired By Trump Campaign — Trump Campaign Denies"
+    excerpt: "Two armed men dressed as security guards told cops they were hired by the Trump campaign to set up near a Florida early voting location — a claim that President Donald Trump's campaign denied through a spokesperson."
+    publishedDateTime: 2020-10-22T13:24:00Z
+    webUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/"
+    ampWebUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 60
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Florida-Early-Voting.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wioa/7oTMDJ/bLitiZtzJKLSiDYECBM0WAUy48T4CglsUxXHDjtlyBpeVi8s7VeXMpVuqdLBK0S2SlBc4fEmoxcdyqJ1bnk5rydcFJuHTQoslJgXX90HM8NRinrQXppGePKHE93yghWwS/rDhU1bYzCEgsOFYiGW9mEzeEdKehoLVOhChLH575YALfdtwgHqg+6IIa/tUC3vZ+zOOfQdJTsvtQqwoeztx0EBRw51K4IJoG0FwUWg1vM5Af+IbD41jLbEJlSpF8lI6NOuSTfXUVvnK+NIceQGQo99w2BInQTd88L/NfTzycmYrAD/0CoNRLOmYpnv+sM5FnsLJSuk+TwxknesnagpYJu0tFvv1f8=;X6dOd3rEXlcDPqRDcW9BUQ=="
 ---

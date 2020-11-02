@@ -1230,6 +1230,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "What it reveals when senators repeatedly mispronounce the names of Kamala Harris and Sundar Pichai"
+    excerpt: "CNN It is a truth universally acknowledged that if you live in the US and have a non-English name, someone at some point is bound to butcher the pronunciation. People across"
+    publishedDateTime: 2020-11-01T12:48:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 61
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_aaabf9408d54ffe0ad32c8318f6c537e-h_77d46bc633d10a1d5e1af0d83b0cff8f.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Cookies, bacon fried apples and tuna sandwiches: Kamala Harris turns to food videos to soften image"
     excerpt: "Her videos showing how to make Masala Dosa and tuna sandwiches have been watched by millions “Usually I stuff under the skin and then let it sit in the fridge for a day or two with a lot of salt outside,"
     publishedDateTime: 2020-11-02T12:03:00Z
@@ -1359,6 +1375,20 @@ related:
       name: Arizona Daily Star
       domain: tucson.com
     quality: 55
+  - title: "Live Updates: Kamala Harris campaign visit to Lehigh Valley"
+    excerpt: "Democratic vice presidential candidate Kamala Harris is visiting the Lehigh Valley Monday for a Latino Get Out the Vote drive-in event, a day before the presidential election."
+    publishedDateTime: 2020-11-02T15:08:00Z
+    webUrl: "https://www.mcall.com/news/elections/mc-nws-kamala-harris-lehigh-valley-20201102-r4vo6lpmyngrbg7mdh2zqosd5m-htmlstory.html"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 55
+    images:
+      - url: "https://www.mcall.com/resizer/mupEnwvY394hXCmSwUEJB6vK_sg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7AUWGFOTYURH54VAIFOMGR274.jpg"
+        width: 1200
+        height: 786
+        isCached: true
   - title: "Kamala Harris’ cultural background will make her a player on the global stage"
     excerpt: "In fact, Harris could be key to building new strategic global relationships and alliances. (Disclosure: My wife and I are Harris’ longtime friends.) While Biden shores up NATO, reaffirms multilateral agreements and Zoom calls his close foreign-leader friends,"
     publishedDateTime: 2020-10-23T10:00:00Z

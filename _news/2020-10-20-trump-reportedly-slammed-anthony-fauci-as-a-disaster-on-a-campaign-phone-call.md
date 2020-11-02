@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "After \"Fire Fauci\" chants, Trump tells crowd: \"Let me wait till a little bit after the election\""
+    excerpt: "Speaking at a big campaign rally in Opa-locka, Florida, Mr. Trump voiced frustration that the pandemic which has killed more than 231,000 Americans continues to dominate the news, sparking chants of \"Fire Fauci\" from the crowd."
+    publishedDateTime: 2020-11-02T16:34:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-fire-fauci-chants-after-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-fire-fauci-chants-after-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-fire-fauci-chants-after-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 127
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/8180f174-a565-4c3d-b9d2-788be32f5164/thumbnail/1200x630/4cf0bb67e8323ce21d5569410f9a527d/gettyimages-1229411509.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'I appreciate the advice': After crowd chants 'Fire Fauci!' Trump says to wait until after the election"
     excerpt: "\"Let me wait 'til a little bit after the election, please,\" Trump told the crowd, which had started a resounding chant of \"fire Fauci!\""
     publishedDateTime: 2020-11-02T13:46:00Z

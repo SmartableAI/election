@@ -41,22 +41,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "President Trump claimed during the debate the GOP will take back the House. That is unlikely."
-    excerpt: "\"I think we're going to win the House,\" Trump said during the debate. That is contrary to what most election experts think."
-    publishedDateTime: 2020-10-23T03:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/president-trump-claimed-gop-take-back-house-unlikely/3738018001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3738018001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738018001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/61a04f09-915d-4eaa-9561-f18c06b3efdd-XXX__AN55555.JPG?auto=webp&crop=5003,2814,x1,y112&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Hometown hate: From the start, Trump has wielded the power of the federal government to hurt NYC"
     excerpt: "It’s a relatively new Donald Trump tic: to exclaim that his beloved hometown is dying, what with all the restrictions designed to prevent the spread of COVID. We suppose he’d prefer planes full of people (from where,"
     publishedDateTime: 2020-10-25T19:46:00Z

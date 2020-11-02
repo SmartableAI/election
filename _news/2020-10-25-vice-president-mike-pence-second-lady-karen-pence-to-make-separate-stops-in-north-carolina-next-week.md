@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Vice President Mike Pence to speak at rallies in Arizona on Friday"
-    excerpt: "Vice President Pence will speak at the 'Make America Great Again!' Victory Rally events in both Flagstaff and Tucson."
-    publishedDateTime: 2020-10-29T05:16:00Z
-    webUrl: "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    ampWebUrl: "https://www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 75
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/e11fcc2c-073e-4be5-bad4-2142c1b92b23/e11fcc2c-073e-4be5-bad4-2142c1b92b23_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Vice President Mike Pence welcomed by crowd of 500 in Flint"
     excerpt: "Tonight as the sun went down, Air Force Two touched down at Flint Bishop Airport. Pence hustled up to the podium, highlighting the importance of Michigan in this election."
     publishedDateTime: 2020-10-29T04:28:00Z

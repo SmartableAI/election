@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump's top election falsehoods to watch for on Election Day"
+    excerpt: "President Donald Trump has spent months making false claims in a baseless attempt to raise questions over the integrity of the presidential election.\n    \n"
+    publishedDateTime: 2020-11-02T14:52:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TvE4tLKkWPo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/fact-check-trump-election-day/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/fact-check-trump-election-day/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029142500-trump-wisconsin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate to confirm Trump's Supreme Court nominee a week ahead of Election Day"
     excerpt: "Senate Republicans are poised to confirm President Trump's Supreme Court nominee Judge Amy Coney Barrett on Monday, a major victory for the President and his party just days before November 3, that promises to push the high court in a more conservative direction for generations to come.\n    \n"
     publishedDateTime: 2020-10-26T10:04:06Z

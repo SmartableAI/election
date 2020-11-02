@@ -47,22 +47,6 @@ related:
         width: 2500
         height: 1563
         isCached: true
-  - title: "John Daly after being President Donald Trump's guest at debate: 'He's like me and Jesus'"
-    excerpt: "Golfer John Daly was at the second and final presidential debate on Thursday and caught up with USA TODAY Sports during the after party."
-    publishedDateTime: 2020-10-23T13:34:00Z
-    webUrl: "https://www.usatoday.com/story/sports/2020/10/23/john-daly-presidential-debate-donald-trump-like-me-and-jesus/3739947001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3739947001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3739947001"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/9a2c80c6-bfe7-4509-861b-b4d57d8da789-AP_Election_2020_Debate.jpg?auto=webp&crop=4405,2478,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Rapper Lil Wayne’s Trump Endorsement Sparks Controversy on Twitter"
     excerpt: "Getty Rapper Lil Wayne shares a photo with Trump and endorses his Platinum Plan on Twitter. Rapper Lil Wayne Just had a great meeting with @realdonaldtrump The 38-year-old “Lollipop” rapper endorsed the Platinum Plan,"
     publishedDateTime: 2020-10-29T23:18:00Z

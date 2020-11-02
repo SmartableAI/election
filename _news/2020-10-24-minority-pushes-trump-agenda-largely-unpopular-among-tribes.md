@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Election 2020: Melania Trump delivers pointed political attack on trail"
-    excerpt: "President Donald Trump has campaign rallies in Michigan, Wisconsin and Nebraska on Tuesday while former Vice President Joe Biden spends the day in Georgia."
-    publishedDateTime: 2020-10-29T04:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73842913"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73842913"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73842913"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/International/melania-trump-rally-02-rt-jef-201027_1603829914653_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Israeli settlers pray for Trump re-election at biblical tomb"
     excerpt: "Jewish settler leaders prayed on Monday for U.S. President Donald Trump's re-election, citing his support for Israel, during a ceremony at a biblical tomb in the occupied West Bank that has been a flashpoint of conflict with the Palestinians."
     publishedDateTime: 2020-11-02T12:28:00Z
@@ -126,22 +110,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Election 2020 live updates: Melania Trump delivers pointed political attack on trail"
-    excerpt: "President Donald Trump has campaign rallies in Michigan, Wisconsin and Nebraska on Tuesday while former Vice President Joe Biden spends the day in Georgia."
-    publishedDateTime: 2020-10-28T02:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73842913"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73842913"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73842913"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 133
-    images:
-      - url: "https://s.abcnews.com/images/International/melania-trump-rally-02-rt-jef-201027_1603829914653_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Supreme Court to review Trump's 'Remain in Mexico' policy"
     excerpt: "The Supreme Court is agreeing to review a Trump administration policy that makes asylum-seekers wait in Mexico for U.S. court hearings"
@@ -431,22 +399,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump charges into battleground states despite rising virus"
-    excerpt: "President Donald Trump is intensifying his already breakneck travel schedule in the final full week of the presidential campaign despite growing worries about the coronavirus nationwide"
-    publishedDateTime: 2020-10-26T18:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-escalate-campaigning-biden-steps-travel-73828950"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-escalate-campaigning-biden-steps-travel-73828950"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-escalate-campaigning-biden-steps-travel-73828950"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_540b4669b7be4a3dad8ec3a52f66494b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Can you change your vote? Trump thinks people should"
     excerpt: "President Donald Trump, arguing he's gained since the last debate, on Tuesday encouraged voters who have already voted absentee to look into changing their votes."
     publishedDateTime: 2020-10-28T13:24:00Z
@@ -574,6 +526,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "These gay voters are backing Trump. Here’s why."
+    excerpt: "Chad Felix Greene describes a similar experience of being embraced by conservatives as an openly gay person. Greene grew up in West Virginia and Ohio, with no openly gay peers in school. As he entered his teenage years,"
+    publishedDateTime: 2020-11-02T16:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/02/gay-voters-trump-share-reasons-support-election/6116276002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6116276002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6116276002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/6a33c244-a478-4fed-b541-415acb9f76f2-LadyMaga1.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Jennifer Lawrence says Trump 'changed everything' about her political views"
     excerpt: "Jennifer Lawrence said on Wednesday that despite formerly voting Republican, she won't be supporting Donald Trump."
@@ -1067,19 +1035,33 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Inside Trump's crowded campaign rallies"
-    excerpt: "Two days before Election Day, President Donald Trump launched a campaign sprint across battleground states starting with Michigan that will be crucial to"
-    publishedDateTime: 2020-11-02T13:25:00Z
-    webUrl: "https://reuters.com/news/picture/inside-trumps-crowded-campaign-rallies-idUSRTX86LF1"
+  - title: "Southern farmers vote to back Trump, trade policy"
+    excerpt: "In Tennessee and Alabama, farmers are again casting their ballots for President Donald Trump, whose defining economic act began a trade war with China. Some say the Trump administration's attention to problems facing farmers has won their votes."
+    publishedDateTime: 2020-11-02T15:31:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/02/southern-farmers-vote-back-trump-trade-policy/6122131002/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
     quality: 105
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539674605&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-11-02T132510Z_37279_MRPRC2PUJ9WQPU5_RTRMADP_0_USA-ELECTION-TRUMP"
-        width: 810
-        height: 540
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/79843877-ce60-461d-b667-82cc982bd47f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Climate scientists gravely concerned about a second Trump term"
+    excerpt: "Scientists are calling the 2020 election a make-or-break moment for fighting climate change. That's because President Trump has rolled back or attempted to reverse hundreds of climate change initiatives and environmental protection policies in his four years in office."
+    publishedDateTime: 2020-11-02T16:27:00Z
+    webUrl: "https://www.cbsnews.com/video/climate-scientists-gravely-concerned-about-a-second-trump-term/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/02/eda53b65-df56-436e-b8ff-2e7dea04a61a/thumbnail/1200x630/3967801098be5a2681c7cb4d96a1be63/1102-cbsn-ysk-scientiststrump-578894-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ex-Homeland Security Official Outs Himself As 'Anonymous' Anti-Trump Author"
     excerpt: "Miles Taylor defended his decision to criticize the president anonymously, saying it forced him to address the merits of the claims, \"rather than creating distractions through petty insults.\""
@@ -1403,14 +1385,14 @@ related:
         isCached: true
   - title: "Vice President Mike Pence shuns quarantine, rallies Trump crowd at Central Wisconsin Airport in Mosinee"
     excerpt: "The vice president's visit comes while Wisconsin sees record high cases of COVID-19 and while members of his staff have been infected."
-    publishedDateTime: 2020-10-29T03:17:00Z
-    webUrl: "https://www.wausaudailyherald.com/story/news/2020/10/28/mike-pence-mosinee-central-wisconsin-airport-rally-trump-set/6054485002/"
-    ampWebUrl: "https://amp.wausaudailyherald.com/amp/6054485002"
-    cdnAmpWebUrl: "https://amp-wausaudailyherald-com.cdn.ampproject.org/c/s/amp.wausaudailyherald.com/amp/6054485002"
+    publishedDateTime: 2020-10-28T17:42:00Z
+    webUrl: "https://www.stevenspointjournal.com/story/news/2020/10/28/mike-pence-mosinee-central-wisconsin-airport-rally-trump-set/6054485002/"
+    ampWebUrl: "https://amp.stevenspointjournal.com/amp/6054485002"
+    cdnAmpWebUrl: "https://amp-stevenspointjournal-com.cdn.ampproject.org/c/s/amp.stevenspointjournal.com/amp/6054485002"
     type: article
     provider:
-      name: Wausau Daily Herald
-      domain: wausaudailyherald.com
+      name: Stevens Point Journal
+      domain: stevenspointjournal.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/28/PWAU/639b99c2-6b8d-4fe7-8529-232863157d65-SPJ_Mike_Pence_Mosinee_rally_102820_354_ttm.jpg?auto=webp&crop=2260,1272,x0,y141&format=pjpg&width=1200"

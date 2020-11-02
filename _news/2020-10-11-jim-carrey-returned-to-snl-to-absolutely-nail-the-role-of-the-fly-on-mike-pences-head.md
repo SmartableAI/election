@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Eric Trump, Vice President Mike Pence to visit Pa. Friday, Saturday"
+    excerpt: "Eric Trump is hosting several campaign events for his father President Donald Trump in Pennsylvania Friday and Saturday. There is a Catholics for Trump event"
+    publishedDateTime: 2020-10-16T09:18:00Z
+    webUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/"
+    ampWebUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 90
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/07/0b4e231f4016435c96a9d4630ea6f691.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "zuh1g+4jRCizhtgw1QIhst8pNIITaPseNOzBU9lQuvFNw8YcLwLtiCHiH3JaGHMM7q81aXIQGem+RdvDRPNqj+IG0thAlUasi893qYWP+KtOxIlxPLDXnn0WQW0C8624qKyq+WIVNkThT5mAvlqI1sfTX24eAz59wEB+WrG3ZhncnTP9FcgxfDdWEDS0fpg7mDsUMgmErgnM9I4ISBJOGapRfY3/G8+giVLdy+x6NIsHQ2HvARexyQIvwQ3PoUfdwx2W0n5/250XHnIXh7bVdyvdiyQSFUtayQSq7pAb/vePK18SEMO5ATCEibTmqW2afA1s7oOehOv3uxvuAZHNZ8O2dMd5tM5p/4a5BvpMa9I=;1ZC4Z2au8vmNPCVBxGb0GQ=="
 ---

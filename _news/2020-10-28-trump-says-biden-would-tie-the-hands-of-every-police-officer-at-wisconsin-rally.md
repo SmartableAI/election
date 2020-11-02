@@ -111,6 +111,54 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden has polling edge over Trump in key battlegrounds on election eve"
+    excerpt: "On Election eve, President Trump faces challenging poll numbers but remains confident of pulling off a second straight come-from-behind victory."
+    publishedDateTime: 2020-11-02T15:02:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/upmcVIWnxFw/biden-slight-polling-edge-trump-key-battlegrounds-election-eve"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-slight-polling-edge-trump-key-battlegrounds-election-eve.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slight-polling-edge-trump-key-battlegrounds-election-eve.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306837543880.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump, Biden campaign lawyers ready to pounce for election legal battle"
+    excerpt: "Less than 24 hours until Election Day, the Trump and Biden campaigns are winding down their rigorous battles fought via ad campaigns, debates and rallies, while digging in for a whole new war, this one to be waged in courtrooms."
+    publishedDateTime: 2020-11-02T15:26:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hj8VOZp2dME/trump-biden-campaign-lawyers-ready-election-legal-battle"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-campaign-lawyers-ready-election-legal-battle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-campaign-lawyers-ready-election-legal-battle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20300718391882-e1603998319527.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump, Biden campaigns blitz NC ahead of Election Day"
+    excerpt: "The Trump and Biden campaigns are blitzing battleground state North Carolina ahead of Election Day."
+    publishedDateTime: 2020-11-02T16:49:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/klbO5a7VD2s/trump-biden-campaigns-blitz-north-carolina"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-campaigns-blitz-north-carolina.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-campaigns-blitz-north-carolina.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a10cb3c-05d2-416e-92ac-e79eb95f4bfe/bc85c181-f12c-4d77-b171-514a0ea44f22/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump, Biden ramp up personal attacks on campaign trail as Election Day looms"
     excerpt: "With less than two days until Election Day, President Trump and his Democratic opponent Joe Biden honed in on more pointed, personal attacks on each other in the lead-up to one of the most divisive elections in U.S. history."
     publishedDateTime: 2020-11-02T03:01:47Z
@@ -238,6 +286,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20303847068079.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden says Trump won't 'steal' the election by declaring himself victor on Tuesday night"
+    excerpt: "Democratic presidential nominee Joe Biden said Sunday that he would not let President Trump \"steal\" the election after a report that the commander in chief planned to prematurely declare victory on Tuesday if early results indicated he was ahead. "
+    publishedDateTime: 2020-11-02T16:25:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woam4c_0kHo/biden-says-trump-wont-steal-the-election-by-declaring-himself-victor-on-tuesday-night"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-trump-wont-steal-the-election-by-declaring-himself-victor-on-tuesday-night.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-trump-wont-steal-the-election-by-declaring-himself-victor-on-tuesday-night.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 196
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74459e72-e1c2-4a7a-9d11-b23030d5a95e/d89a6822-2a7a-4ebb-834b-af3c415f8bc0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Live Updates: Trump, Biden ramp up personal attacks on campaign trail as Election Day draws near"
     excerpt: "With less than two days until Election Day, President Trump and his Democratic opponent Joe Biden honed in on more pointed, personal attacks on each other in the lead-up to one of the most divisive elections in U.S. history."
@@ -1070,6 +1134,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump to rally supporters in North Carolina amid final sprint before Election Day"
+    excerpt: "President Trump on Monday is hitting the campaign trail, speaking to supporters in North Carolina amid a final push through swing states by the president ahead of Election Day."
+    publishedDateTime: 2020-11-02T16:34:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CX7ileCq9cM/trump-rally-supporters-north-carolina"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rally-supporters-north-carolina.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-supporters-north-carolina.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9701e207-362a-44d6-a30b-2315401da182/0a35afb2-8e81-441a-b9fb-328b5794e272/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Hunter Biden revelations roil 2020 race hours before Trump, Biden take debate stage"
     excerpt: "President Trump and Democratic challenger Joe Biden are set to take the debate stage to discuss issues including coronavirus, national security, and climate change, but one subject looming over it is the latest details regarding Hunter Biden's business dealings and whether or not his father was involved."

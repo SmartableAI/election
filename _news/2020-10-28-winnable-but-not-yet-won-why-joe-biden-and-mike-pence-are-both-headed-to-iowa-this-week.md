@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.azcentral.com/amp/3754115001"
 cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001"
 type: article
 quality: 91
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/14/PDTF/34e1604a-563f-45aa-a360-81bafe7830f3-1014Pence_GR_Visit_26.jpg?auto=webp&crop=1984,1116,x0,y137&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Iowa Poll: Are likely voters supporting Donald Trump or Joe Biden for president?"
-    excerpt: "In the last Iowa Poll before the Nov. 3 election, voters were asked who they were likely to support for president — Donald Trump or Joe Biden."
-    publishedDateTime: 2020-11-02T08:04:00Z
-    webUrl: "https://www.desmoinesregister.com/videos/news/politics/iowa-poll/2020/10/31/election-2020-iowa-poll-president-donald-trump-joe-biden-likely-voter-support/6090453002/"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/PDEM/223ede5e-57ce-46f2-8dcb-15e7c634403a-BIDEN_AFP_TRUMP_AP.jpg?quality=10"
-        width: 4000
-        height: 2661
         isCached: true
 
 secured: "umqH07rN8ucbsBWlX8HTRVNFOiMbV4rBvJGj/cISCfm4TF/5tCElJW0q7yAgAWAC1e7ee3BZqkRXY9VsS/Cbpi9L0DFCf6pXvm7zNY42OG3X3kwEAzJ4f78uA4tf1FZDapA54lKtiNuc2E/QS/N8i5leIvtUiA5L99arJxkwcgDoMZ2idOUlS4UN5W1ZgbiCMnkw0IDclFWQR2nb/sSbiDVusiVKIpYVYWtcO8PvlOksGd4st4Wt6hM+WAywZkx+ssfUrQGeyXLapsq1VaqMYgBhd11Dmz46mbvFsDWHmecggKMeTGOZ2jszn9t3bq8NMUqnZtk+/o5Xr6zck2nAFlMkSMj6PadJibFitsjEqhNMtvFdoRlfg53/LNmywEjuIH9qSbmnoMOGtFk6kWNFkqunvEVtHjyfQdCrCj4bGsus3QtT9SoEpiNrLe6xcO6bgkk4EABVWyNNEcNjbo8UyhYszp0lomhBrIx8pcnP61qKiRao5wxC9Z/40+OwToYsQVyaBLam+gRYbHM3I1rpVg==;wrisnajemfpiuQ5vHKe0sA=="
