@@ -820,6 +820,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris to campaign Saturday in South Florida"
+    excerpt: "Democratic vice presidential candidate Kamala Harris will spend Halloween in South Florida, where she will fire up supporters on the final weekend of early voting. Campaign stops are planned for Broward, Miami-Dade and Palm Beach counties on Saturday."
+    publishedDateTime: 2020-10-29T16:14:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-kamala-harris-events-20201029-mlotea5mtnfpxi7o3yjoekdmca-story.html"
+    ampWebUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-kamala-harris-events-20201029-mlotea5mtnfpxi7o3yjoekdmca-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/politics/elections/fl-ne-kamala-harris-events-20201029-mlotea5mtnfpxi7o3yjoekdmca-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 75
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/taj9tQzIEZoA-Jnd5gjM6YuLe3w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/67IJXIL6AXFJQHESZWLNCJZGEY.jpg"
+        width: 1200
+        height: 785
+        isCached: true
   - title: "Kamala Harris will campaign in Houston, Fort Worth, McAllen Friday"
     excerpt: "The campaign’s increased attention on Texas comes as polls continue to show a close race in the traditionally red state."
     publishedDateTime: 2020-10-28T21:42:00Z
@@ -1217,6 +1233,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/24278bd20f10249d545129bd9be90e98/BARRETT-VOTE.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Kamala Harris' husband visits Lehigh Valley"
+    excerpt: "Democratic vice presidential nominee Kamala Harris's husband was in the Lehigh Valley Wednesday, in an effort to drum up support for his wife and Joe Biden. Doug Emhoff made a campaign pitch to voters in Lehigh County."
+    publishedDateTime: 2020-10-28T22:30:00Z
+    webUrl: "https://www.wfmz.com/news/area/lehighvalley/kamala-harris-husband-visits-lehigh-valley/article_4581c1fa-1953-11eb-8b9d-ebbc0fee37f0.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/b8/9b80e868-a940-5ca7-b8a5-f79c2f2b9129/5f99f86f8bbba.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
   - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
     excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."
