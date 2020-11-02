@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Here’s What We Know About Joe Biden’s COVID-19 Plan"
+    excerpt: "Biden gave a speech on his COVID-19 plan on Oct. 23, and he and running mate Senator Kamala Harris have circulated a seven-point plan for “beat [ing] COVID-19 and get [ting] our country back on track."
+    publishedDateTime: 2020-10-30T18:25:00Z
+    webUrl: "https://time.com/5905502/biden-covid-19-plan/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Kremlin Says Joe Biden Is Wrong That Russia Is Number One Threat"
     excerpt: "Putin, who has praised Trump in the past for saying he wanted better ties with Moscow, has said Russia will work with any U.S. leader, while noting what he called Joe Biden's \"sha"
     publishedDateTime: 2020-10-26T10:52:00Z

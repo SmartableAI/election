@@ -1083,6 +1083,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Inside Trump's crowded campaign rallies"
+    excerpt: "Two days before Election Day, President Donald Trump launched a campaign sprint across battleground states starting with Michigan that will be crucial to"
+    publishedDateTime: 2020-11-02T13:25:00Z
+    webUrl: "https://reuters.com/news/picture/inside-trumps-crowded-campaign-rallies-idUSRTX86LF1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539674605&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-11-02T132510Z_37279_MRPRC2PUJ9WQPU5_RTRMADP_0_USA-ELECTION-TRUMP"
+        width: 810
+        height: 540
+        isCached: true
   - title: "Ex-Homeland Security Official Outs Himself As 'Anonymous' Anti-Trump Author"
     excerpt: "Miles Taylor defended his decision to criticize the president anonymously, saying it forced him to address the merits of the claims, \"rather than creating distractions through petty insults.\""
     publishedDateTime: 2020-10-28T21:20:00Z

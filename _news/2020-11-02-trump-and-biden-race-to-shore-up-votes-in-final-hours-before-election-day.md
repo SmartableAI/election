@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 2384
+heat: 2404
 published: true
 
 provider:
@@ -1650,6 +1650,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423366/201027-la-vote-se-1205p_0fc3d607c68be8f161774257b7c59a38.jpg"
         width: 2500
         height: 1556
+        isCached: true
+  - title: "Trump defends Texas drivers who surrounded Biden bus, while the president’s supporters block traffic in New York and New Jersey."
+    excerpt: "In several instances over the last few days, supporters of President Trump have disrupted traffic. In Texas on Friday, Trump supporters surrounded a Biden campaign bus, and in New York and New Jersey on Sunday,"
+    publishedDateTime: 2020-11-02T14:16:00Z
+    webUrl: "https://www.nytimes.com/2020/11/01/us/elections/trump-defends-texas-drivers-who-surrounded-biden-bus-while-the-presidents-supporters-block-traffic-in-new-york-and-new-jersey.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/01/us/elections/trump-defends-texas-drivers-who-surrounded-biden-bus-while-the-presidents-supporters-block-traffic-in-new-york-and-new-jersey.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/01/us/elections/trump-defends-texas-drivers-who-surrounded-biden-bus-while-the-presidents-supporters-block-traffic-in-new-york-and-new-jersey.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 121
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/01/us/01elections-briefing-trump-blockade/merlin_179418138_1d29c06b-dc34-4fe2-9751-7a15b5b8451d-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump Had Sound Bites. Biden Had Substance and Heart."
     excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."

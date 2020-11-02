@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-fl
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://static.politico.com/41/86/94af27cc4b74a93b78d2798e7dcc/apbloomberg.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Supporters Chant ‘Fire Fauci’ at Florida Trump Rally"
+    excerpt: "At a late-night rally in Florida, President Trump suggested that he might fire Dr. Anthony S. Fauci, but that he would wait until “after the election.”"
+    publishedDateTime: 2020-11-02T14:47:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007428283/trump-rally-fire-fauci.html?playlistId=video/us-politics"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/world/01elections-briefing-trump-new/01elections-briefing-trump-new-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
   - title: "'Vote for Trump or else!': Feds review threatening emails sent to Florida voters"
     excerpt: "Local officials in five Florida counties told POLITICO they have turned the emails over to the FBI, which declined to offer specifics."

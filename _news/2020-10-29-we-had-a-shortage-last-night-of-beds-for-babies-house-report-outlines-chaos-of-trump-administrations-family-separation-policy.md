@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama heads to Georgia as Democrats seek breakthrough that has eluded them in Trump era "
+    excerpt: "Joe Biden's campaign is dispatching former President Barack Obama to Atlanta on Monday in a bid to finish Democrats' four-year project of turning Georgia blue.\n    \n"
+    publishedDateTime: 2020-11-02T14:17:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x_tWL_xhAOE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/georgia-biden-obama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/georgia-biden-obama/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031141838-01-obama-flint-michigan-1031-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump finds yet another Democrat he's eager to 'lock up'"
     excerpt: "Trump now wants to \"lock up\" the chairman of the House Intelligence Committee. Adam Schiff at least has quite a bit of company."
     publishedDateTime: 2020-10-22T15:02:00Z

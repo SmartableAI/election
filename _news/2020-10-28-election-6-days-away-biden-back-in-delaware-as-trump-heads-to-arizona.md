@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-election-october-28.amp"
 type: article
 quality: 205
-heat: 2945
+heat: 2985
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 199
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac5052ea-223b-4dea-ab75-46a21834a649/2654eb5d-f634-47b4-8bb5-16d784f64855/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Election 1 day away: Trump to blitz 4 key states as Biden hones in on Pennsylvania"
+    excerpt: "As the presidential race draws to a close, President Trump is slated to make a last-minute appeal to voters in four battleground states with a dizzying number of campaign rallies while his Democratic rival, Joe Biden, focuses heavily on Pennsylvania.   "
+    publishedDateTime: 2020-11-02T13:36:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LDF8cm06Cuw/election-1-day-away-trump-hits-4-key-states-as-biden-hones-in-on-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/election-1-day-away-trump-hits-4-key-states-as-biden-hones-in-on-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-1-day-away-trump-hits-4-key-states-as-biden-hones-in-on-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 199
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/077c667b-9805-4b7b-84c4-e203a0dc8688/a2774eb9-f6dc-4f97-8c73-c3eab49163b7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1836,6 +1852,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d324f611-449f-4cce-b9d9-0f7603f88888/e95f1d00-27d6-42ed-8614-2ddce9364233/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump, Biden Hit Trail on Final Day of Campaigning"
+    excerpt: "Latest news on the U.S. election nationwide."
+    publishedDateTime: 2020-11-02T14:10:00Z
+    webUrl: "https://www.wsj.com/livecoverage/election-live-updates-trump-biden-2020-11-02"
+    ampWebUrl: "https://www.wsj.com/amp/livecoverage/election-live-updates-trump-biden-2020-11-02"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/livecoverage/election-live-updates-trump-biden-2020-11-02"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-245155/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Dave Bautista talks 'toughness' in campaign video for Joe Biden that's critical of Donald Trump"
     excerpt: "Former WWE star Dave Bautista is the latest celebrity to endorse Joe Biden for president by appearing in a campaign ad that’s critical of Donald Trump."

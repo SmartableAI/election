@@ -154,6 +154,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Supporters Chant ‘Fire Fauci’ at Florida Trump Rally"
+    excerpt: "At a late-night rally in Florida, President Trump suggested that he might fire Dr. Anthony S. Fauci, but that he would wait until “after the election.”"
+    publishedDateTime: 2020-11-02T14:47:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007428283/trump-rally-fire-fauci.html?playlistId=video/us-politics"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/world/01elections-briefing-trump-new/01elections-briefing-trump-new-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "qUQlpr37m0DpGp2XoZiYh6O35drd8B4aUnIuHWWEUNtzg4yB0MiXHjbBeEpiyR7Hq3mB4bYCN1jViobDy9Mk/1JpwwnkRxFS6pdSkEkKC+RJtkJHDXGpq2/ulSEPRuG9WO9NAVl3TS9VbPnLQv2edN1pk/ixXNfJc8c4QHEDjtKsnuKQtWL5drWL0W3viTZxvpOQNUJETApCeMoEx0Mdw809QnffMOBpE0dsQdAcMDqm+BEuaB7rOS2a+i8ep9gKC6KX1IA+Yn/tIN2inUWXevLCFdzqaRK99xycPvDouul+HSY6H9IWwfnDnLmJeP9EvZHCBKtkSy20N11Hbwk226flz2e4BI0sKggveIkcjmQ=;g1GapWy4S42mGFZR03wTvw=="
 ---

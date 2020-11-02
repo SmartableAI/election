@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Here’s What We Know About Joe Biden’s COVID-19 Plan"
+    excerpt: "Biden gave a speech on his COVID-19 plan on Oct. 23, and he and running mate Senator Kamala Harris have circulated a seven-point plan for “beat [ing] COVID-19 and get [ting] our country back on track."
+    publishedDateTime: 2020-10-30T18:25:00Z
+    webUrl: "https://time.com/5905502/biden-covid-19-plan/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Joe Biden: We can restore the soul of our nation | Raleigh News & Observer"
     excerpt: "The Editorial Board invited both presidential candidates to make their case to voters."
     publishedDateTime: 2020-10-29T08:00:00Z

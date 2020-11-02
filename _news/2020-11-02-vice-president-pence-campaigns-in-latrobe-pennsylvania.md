@@ -60,6 +60,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Vice President Pence Campaigns in Erie, Pennsylvania"
+    excerpt: "President Trump delivered remarks at a campaign rally in Erie, Pennsylvania, in support of his reelection. Vice President Pence made remarks at a Trump campaign rally in New Cumberland, Pennsylvania."
+    publishedDateTime: 2020-11-02T14:37:00Z
+    webUrl: "https://www.c-span.org/video/?477689-1/vice-president-pence-campaigns-erie-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "1L0MWwbR5SsnBtyfa9ZWZhQP/yUObHMV4FW9+f4luELOOiKCyWkmpp6BRFAvHl/ZgJdrhEG8gvU/hkQ3keInNlLbcfrtQwJhehWZIG2elLbVpH5VeSGfM+oZwpa8/+wziOFPU1O/g+k8QBspX+Qvrp8YA7g6gUd2PENG7/HJqtf1Kn4RgFUhBT+WXMS1QiZM8XlJTje3JEIWGSqFSwLuNEtj/6JtczDpT4a3kxhJ0IM7Tc92vKgCmRx1LS02VLESzTxcHe7XEfUPn2mGAg0mV0Aj50+wN5CwoOiuHpOR2dmay8vY1ovMVRGIqIb32qzzG8hWfJuo/Msd+EkYzz8OwBu2xmF+h5/8AsRGws7nmCL4HlG3cCWsKZELTVN/qUxrEj5+pk7VMmObknsMz3DE0DpK6SytnlfER6G1rgcbn56f3gzlkDDnoU8DUfxAzx8Cc/4++eiXiqOu7a5SmVFC8A7aVvosX5EUZ7GUjqnZ+rdG/dPO3qtjtCHqeYWnZnx6hytJskWrBZcIXl0rOA1CQg==;Aibeixs4zqYId/6ZwIS7EQ=="
 ---

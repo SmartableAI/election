@@ -1215,6 +1215,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump or Biden? Billions of dollars at stake as betters lay money down"
+    excerpt: "U.S. election is shaping up to be the biggest betting event of all time, with one player placing a record-breaking one million-pound bet on a victory for Democratic challenger Joe Biden, betting companies say."
+    publishedDateTime: 2020-11-02T14:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-gambling-idUSKBN27I1Q3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I1Q3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I1Q3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539677859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA10Z6"
+        width: 873
+        height: 545
+        isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
     excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
     publishedDateTime: 2020-10-22T06:50:00Z
@@ -3584,6 +3600,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Long in Trump's shadow, Vice President Mike Pence set to emerge"
+    excerpt: "U.S. Vice President Mike Pence speaks at a rally in Kinston, North Carolina, U.S., October 25, 2020. REUTERS/Jonathan Drake"
+    publishedDateTime: 2020-10-31T15:40:00Z
+    webUrl: "https://www.reuters.com/news/picture/long-in-trumps-shadow-vice-president-mik-idUSKBN27G0F3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09G"
+        width: 810
+        height: 540
+        isCached: true
   - title: "Politics Chat: Trump, Biden Make Final Campaign Appearances"
     excerpt: "President Barack Obama joins Joe Biden in Michigan, meanwhile President Trump ticks thru some familiar complaints in Pennsylvania."
     publishedDateTime: 2020-11-01T11:53:00Z
@@ -4393,6 +4423,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "A longtime fixture in U.S. politics, Biden seeks to win elusive prize"
+    excerpt: "Democratic U.S. presidential nominee and former Vice President Joe Biden during an appearance in Wilmington, Delaware, U.S., September 4, 2020. REUTERS/Kevin Lamarque"
+    publishedDateTime: 2020-10-31T15:39:00Z
+    webUrl: "https://www.reuters.com/news/picture/a-longtime-fixture-in-us-politics-biden-idUSKBN27G0EV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510681&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09B"
+        width: 810
+        height: 467
+        isCached: true
   - title: "Biography Traces Political Mistakes And Personal Scars That Shaped Joe Biden"
     excerpt: "In Joe Biden, New Yorker writer Evan Osnos writes about the candidate's enduring quest to become president. He says Biden has a different mindset today than he once had: \"He's a man who is at peace.\""
     publishedDateTime: 2020-10-27T17:27:00Z
@@ -5085,6 +5129,17 @@ related:
         width: 1024
         height: 726
         isCached: true
+  - title: "President Trump, Joe Biden Make Last Efforts to Reach Voters Before Election Day"
+    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden will travel to several states on Monday in final efforts to reach voters just a day before the election. The president has a whirlwind schedule on Monday,"
+    publishedDateTime: 2020-11-02T13:42:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-11-02/president-trump-joe-biden-make-last-efforts-to-reach-voters-before-election-day"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-11-02/president-trump-joe-biden-make-last-efforts-to-reach-voters-before-election-day?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-11-02/president-trump-joe-biden-make-last-efforts-to-reach-voters-before-election-day?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 80
   - title: "Presidential Debate Facts: What To Know About Trump, Biden, Welker And More In Final Showdown"
     excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden meet Thursday at Belmont University in Nashville, Tennessee, in the final debate of the 2020 campaign. In a big change from past debates,"
     publishedDateTime: 2020-10-23T01:08:00Z
@@ -5445,6 +5500,38 @@ related:
       - url: "https://www.laprogressive.com/wp-content/uploads/2020/10/jlll-biden-720.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Lady Gaga Criticized Over Joe Biden Endorsement Video"
+    excerpt: "Lady Gaga criticized after campaigning for Joe Biden in a new video Several netizens slammed the singer’s appeal Others thanked Gaga because she inspired them to vote Lady Gaga received mixed responses from the netizens after sharing a video campaigning for Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-11-02T05:29:00Z
+    webUrl: "https://www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572"
+    ampWebUrl: "https://www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/08/tedros-can-call-also-on-some-top-level.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Pro-Trump protesters picket Attorney General Barr's house in Virginia, demand he 'lock up' Joe Biden"
+    excerpt: "About a dozen men held signs with slogans such as \"Biden Lies Matter,\" \"Equal Justice Is Coming\" and \"They that forsake the law praise the wicked.\""
+    publishedDateTime: 2020-11-02T03:52:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/11/01/protesters-william-barrs-virginia-home-demand-joe-biden-arrest/6112424002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6112424002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6112424002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/04/09/USAT/5b994a6d-78ea-4502-8a81-b6794c72b6c9-USP_News-_Attorney_General_William_Barr_Testifies.1.jpg?auto=webp&crop=5567,3118,x0,y221&format=pjpg&width=1200"
+        width: 1200
+        height: 672
         isCached: true
   - title: "Video altered to make it look like Joe Biden greeted wrong state at rally"
     excerpt: "A video with over a million views appears to show him saying 'Hello, Minnesota' to a Florida crowd. Turns out he was indeed in Minnesota, as his coat would suggest."

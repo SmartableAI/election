@@ -51,6 +51,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Vice President Pence Campaigns in Erie, Pennsylvania"
+    excerpt: "President Trump delivered remarks at a campaign rally in Erie, Pennsylvania, in support of his reelection. Vice President Pence made remarks at a Trump campaign rally in New Cumberland, Pennsylvania."
+    publishedDateTime: 2020-11-02T14:37:00Z
+    webUrl: "https://www.c-span.org/video/?477689-1/vice-president-pence-campaigns-erie-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Vice President Pence Campaigns in Latrobe, Pennsylvania"
     excerpt: "Vice President Pence spoke at a Trump campaign event in Mosinee, Wisconsin. Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice President Mike Pence delivered campaign remarks at a ..."
     publishedDateTime: 2020-11-02T11:53:00Z

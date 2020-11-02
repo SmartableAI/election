@@ -886,6 +886,22 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "Kamala Harris visits Texas border in final push to boost turnout"
+    excerpt: "While past presidential campaigns have visited the Texas border, it has been decades since either candidate on a Democratic ticket spent time in the area this close to a presidential election."
+    publishedDateTime: 2020-10-30T05:00:00Z
+    webUrl: "https://www.expressnews.com/news/politics/texas_legislature/article/Kamala-Harris-visits-Texas-border-in-final-push-15690035.php"
+    ampWebUrl: "https://www.expressnews.com/news/politics/texas_legislature/amp/Kamala-Harris-visits-Texas-border-in-final-push-15690035.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/politics/texas_legislature/amp/Kamala-Harris-visits-Texas-border-in-final-push-15690035.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/01/21/20190335/3/rawImage.jpg"
+        width: 2048
+        height: 1293
+        isCached: true
   - title: "Can Kamala Harris and the Democrats really turn Texas blue?"
     excerpt: "Why was a Bay Area-born vice presidential candidate stumping in the Lone Star State days before the election? No Democrat has won Texas since Jimmy Carter 44 years ago."
     publishedDateTime: 2020-11-02T09:30:00Z
@@ -1131,6 +1147,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "‘Everything is at stake’: Kamala Harris rallies Miami Dems in final early voting weekend"
+    excerpt: "Kamala Harris urged voters to choose the candidate that says ‘Black Lives Matter.’ Harris visited South Florida in a final swing through the state, where the latest polling shows a razor-thin margin between her running mate, former Vice President Joe ..."
+    publishedDateTime: 2020-10-31T14:30:00Z
+    webUrl: "https://www.bradenton.com/news/politics-government/election/article246845437.html"
+    ampWebUrl: "https://amp.bradenton.com/news/politics-government/election/article246845437.html"
+    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/politics-government/election/article246845437.html"
+    type: article
+    provider:
+      name: Bradenton Herald
+      domain: bradenton.com
+    quality: 66
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/793e9f64-12cc-4895-b75e-19624c16d9ca/7d3fe203-cf75-49a5-a2ff-c7d83c285dd2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "What Happens To Kamala Harris' Senate Seat After The Election? There's A Process"
     excerpt: "Ever since Democratic presidential nominee Joe Biden named Sen. Kamala Harris (D-California) as his running mate, Harris has been taking on both her congressional responsibilities and campaigning duties."
@@ -1527,6 +1559,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 34
+  - title: "Senator Kamala Harris Holds Drive-In Rally in Pennsylvania's Lehigh Valley"
+    excerpt: "T13:05:00-05:00 Democratic vice presidential candidate Senator Kamala Harris (D-CA) holds a drive-in rally in Pennsylvania’s Lehigh Valley. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) holds a drive-in rally in Pennsylvania’s Lehigh Valley."
+    publishedDateTime: 2020-11-02T14:31:00Z
+    webUrl: "https://www.c-span.org/video/?477691-1/senator-kamala-harris-holds-drive-rally-pennsylvanias-lehigh-valley"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 33
   - title: "Senator Kamala Harris Remarks to Spelman College Students in Atlanta, Georgia"
     excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to students at Spelman College in Atlanta, Georgia. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
     publishedDateTime: 2020-10-23T19:04:00Z
@@ -1536,6 +1577,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 32
+  - title: "Senator Kamala Harris Holds Canvass Kick Off Event in Luzerne County, Pennsylvania"
+    excerpt: "Senator Kamala Harris (D-CA) campaigned in Reno, Nevada, one week ahead of Election… Democratic vice presidential nominee Senator Kamala Harris (D-CA) spoke at a Biden campaign event in Las Vegas, Nevada."
+    publishedDateTime: 2020-11-02T14:49:00Z
+    webUrl: "https://www.c-span.org/video/?477690-1/senator-kamala-harris-holds-canvass-kick-event-luzerne-county-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 29
 
 secured: "veoDoV4DH8d6ceKibCUn975nEOCQMZjW9qsqEbXrlKhkszTJ2uL/nffd5vu0h8WcaFA2SX6TSd0T5TyN+5rYTGu8F/yFsxJ8eAyFO9UgbxHgZKVUSXAdUttxDmVU4Iagty/v2GVSqD6bKhw/jxyEyLw2Kcr0ia5ZvsCNHtB+np1RfpqxwHFGOLMI7Vs+qjuvpUyNi50MQANXKLei4WsnKkIVrU8DHUoSU5vFr5/7TbUWj/9XsTQePdvGSLTb7pFh8S40v0zfUWTgDVF/XsaPEbfRxn8JbKKgI9cP0Nz96wXJJvlPtNw0kTlEb3Hk5hIrWuqzWKRE7qHd7KWsyyz6CcfU1P5+Ahay0K1JGrcbGpl46lUGD9is+HRWRamWBzk0/shpEJ1iKB5uZXqYz6mtl2y+lvaLYNIJMUodB9/ByOZmC5m38JbLdojsVAvwIHb5vzN6cEq6a6SVVT/DFd4L6V9SGJrpL65pa9myUMHf0mYesZRWwBhxLXrXBmouzDSMw7oVz+jBiHIZywRFS2oG+g==;875aGXF8UaOv4r0+peOSeg=="
 ---
