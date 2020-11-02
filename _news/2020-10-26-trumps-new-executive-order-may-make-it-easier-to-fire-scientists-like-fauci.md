@@ -31,67 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "What to make of the 'kinder, gentler' Donald Trump"
-    excerpt: "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st"
-    publishedDateTime: 2020-10-25T17:00:00Z
-    webUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump"
-    ampWebUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+  - title: "Donald Trump threatens to fire Anthony Fauci after US election"
+    excerpt: "President plays up to chants of ‘Fire Fauci’ at curfew-breaching Florida rally"
+    publishedDateTime: 2020-11-02T06:48:00Z
+    webUrl: "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/trump_smile_042020getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://i.guim.co.uk/img/media/c8badd8268933ba924e08c538154c63169eb8efc/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c3b474212f71a4627a0c35b42391f3f6"
+        width: 600
+        height: 360
         isCached: true
-  - title: "President Trump claimed during the debate the GOP will take back the House. That is unlikely."
-    excerpt: "\"I think we're going to win the House,\" Trump said during the debate. That is contrary to what most election experts think."
-    publishedDateTime: 2020-10-23T03:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/president-trump-claimed-gop-take-back-house-unlikely/3738018001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3738018001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738018001"
+  - title: "Trump reportedly slammed Anthony Fauci as 'a disaster' on a campaign phone call"
+    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said on a call, CNN reported. \"People are tired of hearing Fauci and all these idiots.\""
+    publishedDateTime: 2020-10-20T00:34:00Z
+    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship"
+    excerpt: "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain."
+    publishedDateTime: 2020-10-28T09:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/28/president-donald-trump-anthony-fauci-timeline-relationship-coronavirus-pandemic/3718797001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3718797001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718797001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 114
+    quality: 119
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/61a04f09-915d-4eaa-9561-f18c06b3efdd-XXX__AN55555.JPG?auto=webp&crop=5003,2814,x1,y112&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/07/31/USAT/5f2d0ac9-24b5-43ca-bb6c-a6da956b363b-AFP_AFP_1VA3UJ.jpg?auto=webp&crop=4011,2257,x0,y355&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Hometown hate: From the start, Trump has wielded the power of the federal government to hurt NYC"
-    excerpt: "It’s a relatively new Donald Trump tic: to exclaim that his beloved hometown is dying, what with all the restrictions designed to prevent the spread of COVID. We suppose he’d prefer planes full of people (from where,"
-    publishedDateTime: 2020-10-25T19:46:00Z
-    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html?outputType=amp"
+  - title: "President Trump reportedly slammed Anthony Fauci as \"a disaster\" in a campaign phone call"
+    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said. \"People are saying whatever. Just leave us alone.\""
+    publishedDateTime: 2020-10-19T16:25:00Z
+    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 62
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
     images:
-      - url: "https://www.nydailynews.com/resizer/Bgr0qo_yCZ83rRbUXIEhS3Ci6ZI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NFONZQZR3RDDJKGPUQZJLP2N6Y.jpg"
+      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
         width: 1200
-        height: 799
+        height: 600
         isCached: true
-  - title: "How Donald Trump threatens the retirement of every American worker"
-    excerpt: "Tom Michels worked 31 years at LTV's iron ore mine in northern Minnesota — and had already started making retirement plans — when the company's bankruptcy wiped out his job and most of his hard-earned pension."
-    publishedDateTime: 2020-10-23T08:43:00Z
-    webUrl: "https://www.salon.com/2020/10/23/how-donald-trump-threatens-the-retirement-of-every-american-worker_partner/"
+  - title: "As Trump Claims Pandemic Will' End Quickly,' Fauci Warns U.S. May Not Return To 'Normal' Until 2022."
+    excerpt: "\"People were ridiculed for wearing masks. It depended on what side of the political spectrum you were at, which was so painful to me.\""
+    publishedDateTime: 2020-10-28T15:15:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/amp/"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 55
+      name: Forbes
+      domain: forbes.com
+    quality: 110
     images:
-      - url: "https://media.salon.com/2018/08/trump-fox-and-friends2.jpg"
-        width: 846
-        height: 571
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9989a1933623c150489525%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D193%26cropY2%3D1993"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "c30j+HMXCgxuCIa33UoND4K6E54kaTricqxffP9DmYeqB3sj64u5ywtGl56xXz8P/oyoT4nfZR0tSR2VvwYOihsSzucH5yfAUfsOR/YbQTTQVsHArHLnlT9n4ttPJSgdta1TsWxA4YjaAqtoAqyfjNMXcthTYFbz0XNeWwpPdLrAfyRBSHL5bGwNOg82nI5l6VnBb+VeVrzn/fFeTT3/wFsZ2sev0fTWzI8VmnZw7yvwP9neypBqYMd7BqvYcQ9n8KlRXP4GjsCkCSSq92t3kzXPx+fLFMKmFjS4jvpSZ8PwhlGzu1oYEXy0iDzBHQPKpFS1kCiwUvCHeauMp+j20fAGHTxf5Tt4AaDRMSwhrtQ=;aNxjxIzVK8snBjSZen7LeA=="

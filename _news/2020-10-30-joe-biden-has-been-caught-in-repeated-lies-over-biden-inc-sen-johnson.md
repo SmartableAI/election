@@ -144,6 +144,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "‘SNL’ basically endorses Joe Biden in pre-election episode"
+    excerpt: "The final episode of “Saturday Night Live” before Tuesday’s presidential election went much further than the show did in 2016."
+    publishedDateTime: 2020-11-01T17:48:00Z
+    webUrl: "https://nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/"
+    ampWebUrl: "https://nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/snl.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Michigan Democrat on Biden's Expanded Travel: 'I Want Joe Biden to Win Georgia'"
     excerpt: "Many Midwestern Democrats have criticized Hillary Clinton for losing sight of their “Blue Wall,” or a collection of states near the Great Lakes that the party has typically carried in presidential elections."
     publishedDateTime: 2020-10-27T09:47:00Z

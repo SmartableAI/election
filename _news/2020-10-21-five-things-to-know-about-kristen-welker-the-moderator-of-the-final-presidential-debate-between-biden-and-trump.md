@@ -1183,6 +1183,54 @@ related:
         width: 877
         height: 545
         isCached: true
+  - title: "U.S. early voting surges as Trump, Biden make late push"
+    excerpt: "A record 90 million Americans have voted early in the U.S. presidential election, data on Saturday showed, as President Donald Trump and his Democratic rival Joe Biden campaigned across the country to try to sway the few remaining undecided voters."
+    publishedDateTime: 2020-11-01T09:11:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/update-2-as-campaign-draws-to-close-trump-criticizes-those-fighting-coronavirus-idUSL1N2HM060"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27G06Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27G06Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510617&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9U0A7"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "After Fauci Praises Biden, Trump Touts Firing Top Health Official"
+    excerpt: "Dr. Fauci praised Joe Biden's attitude toward COVID-19 in a recent interview, contrasting it with the president's."
+    publishedDateTime: 2020-11-02T07:41:00Z
+    webUrl: "https://www.newsweek.com/fauci-praises-biden-trump-firing-health-official-1543902"
+    ampWebUrl: "https://www.newsweek.com/fauci-praises-biden-trump-firing-health-official-1543902?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-praises-biden-trump-firing-health-official-1543902?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1662505/president-donald-trump-makes-campaign-stop.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "On last day, Trump and Biden scour battleground states for votes"
+    excerpt: "U.S. President Donald Trump will hunt for support in four battleground states on Monday while Democratic rival Joe Biden focuses on Pennsylvania and Ohio during the final day of campaigning in their long,"
+    publishedDateTime: 2020-11-02T07:06:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27I0EQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27I0EQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27I0EQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539631446&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA108D"
+        width: 817
+        height: 545
+        isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
     excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
     publishedDateTime: 2020-10-22T06:50:00Z
@@ -1470,6 +1518,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99dc200f79606cb9793dcf%2F0x0.jpg"
         width: 1200
         height: 727
+        isCached: true
+  - title: "FBI investigating after Trump supporters surround Biden campaign bus in Texas"
+    excerpt: "The FBI said Sunday that its San Antonio office is investigating an incident after video was taken of a caravan of Trump supporters surrounding and then following a Biden campaign bus on Friday. President Trump retweeted part of the video Saturday night,"
+    publishedDateTime: 2020-11-02T06:56:00Z
+    webUrl: "https://www.cbsnews.com/news/i-35-texas-trump-supporters-biden-bus-trump-tweet-i-love-texas-fbi-investigating/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/i-35-texas-trump-supporters-biden-bus-trump-tweet-i-love-texas-fbi-investigating/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/i-35-texas-trump-supporters-biden-bus-trump-tweet-i-love-texas-fbi-investigating/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 137
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/9682c5c5-8516-4711-8fe6-aaed679da6c7/thumbnail/1200x630/42054f8128ca8b6b1f39b5d553da107b/trump-biden-bus-texas.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "For Trump and Biden, debate fuels allegations of improper family foreign deals"
     excerpt: "President Donald Trump leveled new attacks at the son of former Vice President Joe Biden at Thursday night’s debate."
@@ -3536,6 +3600,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Politics Chat: Trump, Biden Make Final Campaign Appearances"
+    excerpt: "President Barack Obama joins Joe Biden in Michigan, meanwhile President Trump ticks thru some familiar complaints in Pennsylvania."
+    publishedDateTime: 2020-11-01T11:53:00Z
+    webUrl: "https://www.npr.org/2020/11/01/930026563/politics-chat-trump-biden-make-final-campaign-appearances"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Pollster Frank Luntz: If Trump defies polls again in 2020, 'my profession is done'"
     excerpt: "Pollster Frank Luntz told Fox News on Thursday night that poll predictions are wrong about the 2020 election between President Trump and former Vice President Joe Biden, his \"profession is done\" in terms of faith and confidence from the public."
     publishedDateTime: 2020-10-23T13:03:00Z
@@ -4750,6 +4828,22 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Trump Plays Rally Video Montage Featuring Sean Hannity Bashing Joe Biden"
+    excerpt: "If you've been following the last few weeks of the presidential candidates on the campaign trail, you know that President Donald Trump has been working video montages into his campaign events."
+    publishedDateTime: 2020-10-31T20:56:00Z
+    webUrl: "https://www.mediaite.com/election-2020/trump-plays-rally-video-montage-featuring-sean-hannity-bashing-joe-biden/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/trump-plays-rally-video-montage-featuring-sean-hannity-bashing-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/trump-plays-rally-video-montage-featuring-sean-hannity-bashing-joe-biden/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 89
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/hannity-trump-rally.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘SNL’: Alec Baldwin’s Trump and Jim Carrey’s Biden Face Off in Final Debate"
     excerpt: "Live tackled the “second and, praise Jesus, final debate” in its latest cold open, with Alec Baldwin’s Donald Trump and Jim Carrey’s Joe Biden facing off for the last time before Election Day. “How does this mute button work?"
     publishedDateTime: 2020-10-25T09:02:00Z
@@ -4797,6 +4891,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/democratic-presidential-nominee-joe-biden-leads-in-polls.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "US election 2020 news: Joe Biden says Donald Trump 'will not steal election' amid war of words as vote nears"
+    excerpt: "President Donald Trump cast doubt on the integrity of the US election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
+    publishedDateTime: 2020-11-02T07:50:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2020/11/02/2020-election-live-us-news-trump-biden-polls-updates-latest/"
+    ampWebUrl: "https://www.telegraph.co.uk/news/2020/11/02/2020-election-live-us-news-trump-biden-polls-updates-latest/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/11/02/2020-election-live-us-news-trump-biden-polls-updates-latest/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 86
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2020/11/02/TELEMMGLPICT000243508569_trans_NvBQzQNjv4BqoC1KLvdKTc_v1L1R92-VtVzl6B3R2tC_OSh_9z6T9_w.jpeg"
+        width: 2500
+        height: 1563
         isCached: true
   - title: "Trump Ups Pressure on Barr to Probe Bidens as Election Nears"
     excerpt: "President Donald Trump is calling on Attorney General William Barr to launch an investigation into unverified claims about Democrat Joe Biden and his son Hunter, effectively demanding that the Justice Department muddy his political opponent and abandon the department's historic resistance to getting involved in elections."
@@ -6226,6 +6336,15 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden campaigned at a drive-in rally in St. Paul, MN with less than a week to go until Election Day. Mr. Biden is looking to defend the Democrats' 2016 presidential win in the state."
     publishedDateTime: 2020-10-30T05:00:00Z
     webUrl: "https://www.c-span.org/video/?477539-1/joe-biden-campaigns-minnesota"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden and Former President Obama Hold Rally in Detroit"
+    excerpt: "Democratic presidential candidate Joe Biden is joined by former President Obama at a drive-in campaign rally in Detroit, Michigan, three days before Election Day. 2020 Democratic presidential candidate Joe Biden is joined by former President Obama at a drive-in campaign rally in Detroit,"
+    publishedDateTime: 2020-10-31T00:00:00Z
+    webUrl: "https://www.c-span.org/video/?477559-1/joe-biden-president-obama-hold-rally-detroit"
     type: article
     provider:
       name: C-SPAN

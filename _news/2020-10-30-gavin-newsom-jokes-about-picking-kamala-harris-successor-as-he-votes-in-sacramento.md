@@ -2,27 +2,27 @@
 category: news
 title: "Gavin Newsom jokes about picking Kamala Harris’ successor as he votes in Sacramento"
 excerpt: "Gavin Newsom says Sacramento Kings player Harrison Barnes is just about the only person he’s talked with recently who hasn’t tried to influence his pick to replace Kamala Harris in the Senate if she’s elected vice president."
-publishedDateTime: 2020-10-29T22:55:00Z
-originalUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
-webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
-ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
+publishedDateTime: 2020-10-29T21:55:00Z
+originalUrl: "https://www.sanluisobispo.com/news/california/article246818602.html"
+webUrl: "https://www.sanluisobispo.com/news/california/article246818602.html"
+ampWebUrl: "https://amp.sanluisobispo.com/news/california/article246818602.html"
+cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article246818602.html"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: SanLuisObispo
+  domain: sanluisobispo.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/1c42e598-ce8a-45ee-a769-7b8867e423af/f1d679df-e2dd-4c8f-8221-afc8909d5148/1280x720/match/image.jpg"
-    width: 1276
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/11c1d481-36e8-4124-9aee-9268749dd767/b13de4f5-042d-4c2c-bdc6-48daa6cb730c/1280x720/match/image.jpg"
+    width: 1280
     height: 720
     isCached: true
 
@@ -1248,6 +1248,17 @@ related:
         width: 2048
         height: 1427
         isCached: true
+  - title: "Watch: Democratic VP candidate Kamala Harris arrives in Tucson"
+    excerpt: "Democratic vice presidential candidate Kamala Harris returned to Arizona on Wednesday making stops in Phoenix and Tucson. For her first stop in Tucson, Sen. Kamala Harris met with the owner"
+    publishedDateTime: 2020-10-28T18:21:00Z
+    webUrl: "https://tucson.com/news/local/watch-democratic-vp-candidate-kamala-harris-arrives-in-tucson/video_93b8b0dd-65d6-553b-b9b4-0d487d42a083.html"
+    ampWebUrl: "https://tucson.com/news/local/watch-democratic-vp-candidate-kamala-harris-arrives-in-tucson/video_93b8b0dd-65d6-553b-b9b4-0d487d42a083.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/local/watch-democratic-vp-candidate-kamala-harris-arrives-in-tucson/video_93b8b0dd-65d6-553b-b9b4-0d487d42a083.amp.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 55
   - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
     excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."
     publishedDateTime: 2020-10-20T09:49:00Z
@@ -1469,6 +1480,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "srBSu6dLmIFFDUuYx7w3qNNBRlsthd7MNxfVKQvNQ5PQDeldkVWAZoJo0E4M4c9iS+SGFCtVpAWdf7XDWbtDRi7mFOYkGGnehUeE1o5wYjMOrxYS+3MhqpdmXnr0L2jO3G4I2C6nUrQc+CMdcV8qZKmRKpEzYe8GY7Nl7brAcTgk5r5t1ydNOqYIdaxlMV/XuVYQxWG0ZWDEHmeq9oBky7Ew9xfTNO9cV+X4eXPRvh4tgHKEPm3t/F/bwGbp6oIVGrU42oGTNhA1uDB4J/fLqECE4Mfpw9rQAqNnWaaf4QCf2KkPxSSByi8ZzeTRC+sN6IkQWYXPRrAzLfXNDjWE1vA/KdBzWdBnV9Jl6nUSsxw=;6HPUBCLMh9UmFINEgaepBA=="
+secured: "G9bOnC6WbW/nmepcv93wvOJwfrZ97fv9elWDXxBEokAJ1vpV3G5IOnhGpHBQq1eF65XtN4KEyQrfsYGykP3cGOBc9gDBgbesMdy1OnNxvSy4cbC0aYTNlbC0N/Q7QGyOQjHj12FXRKylerJGh54PoXnakpBTLsE31CkCOWy9iUd+7BAREC47HU+yblNQqcMhAQ6mKVHFN7dDWgtYwk05BLEJX4WHTmRYinKTW1adRu/787woslYIaISDPBm3QQWVbR0D5Cet24mTTW25MoSaDUxx9SJxh8UA9mTb3j7qgM+hqGlqNerN1uW4/CrFJvvWSJm1itLD+IzOve1o0AkSaB+cc/Uiqtpm8R3gjXUz0RM=;BR+l0aj2u+EUJn5S54GSYg=="
 ---
 

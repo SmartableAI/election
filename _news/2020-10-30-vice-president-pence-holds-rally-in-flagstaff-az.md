@@ -74,6 +74,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Vice President Pence Campaigns in Latrobe, PA"
+    excerpt: "Vice President Pence delivers remarks at a campaign rally in Latrobe, PA. The Keystone State is getting visits from him and President Trump as well as their Democratic challengers, Joe Biden & Sen. Kamala Harris (CA),"
+    publishedDateTime: 2020-11-02T08:03:00Z
+    webUrl: "https://www.c-span.org/video/?477688-1/vice-president-pence-campaigns-latrobe-pa"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "5/2GntWctpIQopzwBmP3pR9r7/xyWS3+jLk2a8h7F18Tm1sa40lIrj41OcQG50GeVcjAd2lkkjqJaBVvlGKBeZzMSjhv6y9e4Ib9o7OJ6cTjYp0cd0a/ZjVpbVpvfhpHRExuyRd9Z2UV+ExKYOGqZgG2IrBYDL8tgPH5SJZpPY+1AIpXlhz6D/7YdTh4u0n7MKJ8XIJo9D+I3L5oKXhPt8YMrSzzcLjW72ppiVsotpGA3tw4EQ0Tv/DOhwaAtFpvoYnrTn+PFG9sxiF/sM6Qc8ZAG9FotvI4FKX8W1/uscbopOnIzZEawpRs5WloYiwvLEy/8sz2jEsS+5TZeChTh0Xi/PaT+hn6d+zn3sDR0cyJ4djuDGfaFIpvFqTBKZwWtrBaxS2a18ub8fjrhQDdBP40/deOW1334iCQ3Q5od6nJ6JZTSaA/bwuaKOCDLdvmChmZweAmjBa0INo0ztvZ5Y9rI/X8+X6EQ9VLZArwGOq+KID1BSwnIILAJGmSVpdq/CdeGNehc8jKZqkRGVWeHg==;fJwWZ+CFJVRkCcQoR8mUsg=="
 ---

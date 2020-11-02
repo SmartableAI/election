@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Trump and Biden campaigns, Halloween, daylight saving time: 5 things to know this weekend"
+    excerpt: "Trump and Biden eye Pennsylvania on final campaign stretch, experts warn of Halloween dangers during COVID-19 and more things to start your weekend."
+    publishedDateTime: 2020-11-02T08:44:00Z
+    webUrl: "https://www.jsonline.com/story/news/2020/10/31/halloween-daylight-saving-time-trump-biden-election-full-moon/6007457002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/6007457002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/6007457002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 81
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/31/USAT/0ce85bbb-a038-4cb3-81db-03efe11419d1-Biden_Trump_Campaign.jpg?auto=webp&crop=3999,2249,x1,y151&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "AgQgov/FTHJFn1yRD1xKyxLPlhwVRPu129lNifHi6N/PtDk2a40S/56sILGs/O+L+wGtK8Hsp3EyXo4O7W5RpJMw2NZcsRN9x0Q/fD1wiktbHHudtVIAkBBg9iCvyiBhCu3xW8WW9VbamBQl3I9S4KpzMZQ+HQmsoIbmZLvaKL456zSO6TatMlBfLUPt8V2j15hL30j208PBntJ2fJ8K3LMy+7QPtS4HcvnCIo/YAMhPsUQi8NCKBJhRLyYj0w8218h8NqYmpRVjbF7HdjtDxPjch2nr6OShuJjGcyTWfe8sXZEctzN3S8HZlyaOC3Vqet/NNdjESAioWl7oiOaZwYmjGiXwwy9zfDNOsdLV/As=;FMzLZKqNXvr4siiZ5uTZgg=="
 ---

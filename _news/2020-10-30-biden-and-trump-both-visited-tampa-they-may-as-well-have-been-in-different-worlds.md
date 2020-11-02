@@ -856,6 +856,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "This Is an Election Story That Mentions Neither Biden Nor Trump"
+    excerpt: "Clearly, the decision on whether the president should stay or go is Issue No. 1 on Election Day. But we’re watching so many other consequential elections and ballot issues further down the ballot. What will a legislative campaign in Vermont tell us about changing attitudes toward gun control?"
+    publishedDateTime: 2020-11-02T08:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/us/2020-election-legislature.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/2020-election-legislature.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/2020-election-legislature.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 165
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/01/us/01whatwerewatching/merlin_179264163_08780b32-0336-45c6-9e14-d6f3836afff6-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Election live updates: Biden, Trump campaigns push in battleground states"
     excerpt: "With only nine days until Election Day, the campaigns for both President Donald Trump and Democratic nominee Joe Biden are ramping up their public events in battleground states in their final full week on the trail."
     publishedDateTime: 2020-10-25T12:12:00Z
@@ -1429,6 +1445,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/29/opinion/29krugmanWeb/merlin_178961298_03664e7e-c5f0-4046-871a-dafa7ee4360a-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "A view of a packed Trump rally"
+    excerpt: "Biden is Michigan campaigning with former President Barack Obama, at two events while Trump has multiple rallies in Pennsylvania. MASSIVE crowd in Butler, Pennsylvania for President ⁦ @realDonaldTrump ⁩‼️ ZOOM IN ⬇️ 👀 pic."
+    publishedDateTime: 2020-11-02T07:56:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-31-trump-biden-election-n1245528/ncrd1245649"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245528"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245528"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "2020 Election Live Updates: Trump and Biden Hit Swing States, With 10 Days Until Election Day"
     excerpt: "RIGHT NOW ‘Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."

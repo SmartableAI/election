@@ -1053,18 +1053,18 @@ related:
     quality: 69
   - title: "Gavin Newsom jokes about picking Kamala Harris’ successor as he votes in Sacramento"
     excerpt: "Gavin Newsom says Sacramento Kings player Harrison Barnes is just about the only person he’s talked with recently who hasn’t tried to influence his pick to replace Kamala Harris in the Senate if she’s elected vice president."
-    publishedDateTime: 2020-10-29T22:55:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article246818602.html"
+    publishedDateTime: 2020-10-29T21:55:00Z
+    webUrl: "https://www.sanluisobispo.com/news/california/article246818602.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/california/article246818602.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article246818602.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: SanLuisObispo
+      domain: sanluisobispo.com
     quality: 69
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/1c42e598-ce8a-45ee-a769-7b8867e423af/f1d679df-e2dd-4c8f-8221-afc8909d5148/1280x720/match/image.jpg"
-        width: 1276
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/11c1d481-36e8-4124-9aee-9268749dd767/b13de4f5-042d-4c2c-bdc6-48daa6cb730c/1280x720/match/image.jpg"
+        width: 1280
         height: 720
         isCached: true
   - title: "‘These are not typical times’: In rare move, Seattle Storm endorses Joe Biden and Kamala Harris"
@@ -1258,6 +1258,17 @@ related:
         width: 2048
         height: 1427
         isCached: true
+  - title: "Watch: Democratic VP candidate Kamala Harris arrives in Tucson"
+    excerpt: "Democratic vice presidential candidate Kamala Harris returned to Arizona on Wednesday making stops in Phoenix and Tucson. For her first stop in Tucson, Sen. Kamala Harris met with the owner"
+    publishedDateTime: 2020-10-28T18:21:00Z
+    webUrl: "https://tucson.com/news/local/watch-democratic-vp-candidate-kamala-harris-arrives-in-tucson/video_93b8b0dd-65d6-553b-b9b4-0d487d42a083.html"
+    ampWebUrl: "https://tucson.com/news/local/watch-democratic-vp-candidate-kamala-harris-arrives-in-tucson/video_93b8b0dd-65d6-553b-b9b4-0d487d42a083.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/local/watch-democratic-vp-candidate-kamala-harris-arrives-in-tucson/video_93b8b0dd-65d6-553b-b9b4-0d487d42a083.amp.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 55
   - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
     excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."
     publishedDateTime: 2020-10-20T09:49:00Z

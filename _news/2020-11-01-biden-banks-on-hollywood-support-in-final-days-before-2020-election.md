@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
 type: article
 quality: 190
-heat: 370
+heat: 390
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "‘SNL’ basically endorses Joe Biden in pre-election episode"
+    excerpt: "The final episode of “Saturday Night Live” before Tuesday’s presidential election went much further than the show did in 2016."
+    publishedDateTime: 2020-11-01T17:48:00Z
+    webUrl: "https://nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/"
+    ampWebUrl: "https://nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/snl.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Joe Biden 'has been caught in repeated lies over Biden Inc.': Sen. Johnson"
     excerpt: "Coming up, White House Chief of Staff Mark Meadows on a blockbuster admission at the final presidential debate, Joe Biden on transitioning the oil and gas industry. JOE BIDEN (D), PRESIDENTIAL CANDIDATE:  By the way,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 370
+heat: 390
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20291003271342.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Trump’s comment at rally raises speculation about Fauci’s future at NIAID"
+    excerpt: "President Trump suggested during a Florida rally early Monday that he may fire Dr. Anthony Fauci, the nation's top infectious disease expert, after the election."
+    publishedDateTime: 2020-11-02T08:32:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qZMT2IVlQZs/trump-hints-he-may-fire-fauci-after-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-he-may-fire-fauci-after-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-he-may-fire-fauci-after-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/AP20084811004853.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Russian hackers 'can't change votes,' Trump's national security adviser says"
     excerpt: "U.S. officials said that Russian hackers have targeted the networks of dozens of state and local governments in the United States in recent days, stealing data from at least two servers."

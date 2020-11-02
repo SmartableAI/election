@@ -2,23 +2,19 @@
 category: news
 title: "Mike Pence making 2 more campaign stops in North Carolina"
 excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump's reelection bid. Pence was scheduled to hold rallies at Piedmont Triad International Airport in Greensboro at midday Tuesday and at the Wilmington airport in the evening."
-publishedDateTime: 2020-10-27T08:27:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+publishedDateTime: 2020-10-27T08:18:00Z
+originalUrl: "https://www.nhregister.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+webUrl: "https://www.nhregister.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+ampWebUrl: "https://www.nhregister.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New Haven Register
+  domain: nhregister.com
 
 topics:
   - Election
@@ -99,6 +95,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "KJ2laB9teniuKb0Kv44QjkAWdf0aibPx+2WivpVcpBK8NDtvGZU8r7b8lTcKbSAuMQSyg6M/Qw9IcXghDGHtiv5JMcWdcNzyI4XvPiNfeHrJ09p4Os+kzGkZQo4WY/Wnah6ZP1jfBV4bW+TCcLHPtVweK+S+6YIcpGzJ//QBwJMTuMNPaQaLneFDsqP1fUPiX5y4cSm+inFnOLc3s1SZG4nIcQIUyQoUn+H8GDv/ueKPc9UxuXFnLomXUcKWwRQYv+yuq+xmwwvwJh8VhFYkK0ugGc3gRv0sZ6c8MYm74foOgHg9I4hpoQOGYJiKPuOaDc2XRqa70jt3n9hL/nr6DtfBSGbucosPPlt9wmaEAHc=;zexzBOjsYcsmJQ25Usp4ow=="
+secured: "pikXcToiRshcZoI1lpuNtpKU9NuVdPQnXjWEdsfr3TzB8s3LDuRwS4Nug9dCUVqW77TEc6+IshSFa4wK+hYqLV9s/ZSSOHlwoHH6IO/JdlVhWGZLe3sURZELAmNKFdbn1xYphHoq+jTmbDhJF7xaqT4JAGVyLrU7O4ApwhMpSD71iufGxkphPv6uoQTCvu8G+JkerSawTtayv1PkyhOGsQsJc7uBqDssHtR1gOrok9h04MEsRyYkXR/ANRrWKmC2Xd4WUdPNzbckhyWpEYZ2X7fnkJcA8/X0Tgjn/nR1GrF2CygxScT4ISVTXcUACtPJopIJHcDztFZPcm9ORs3/XlcB8WA+4MebPnBbz7xOzfc=;hDEfhvWTrjSKQQV+ULXzbg=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump’s comment at rally raises speculation about Fauci’s future at NIAID"
+    excerpt: "President Trump suggested during a Florida rally early Monday that he may fire Dr. Anthony Fauci, the nation's top infectious disease expert, after the election."
+    publishedDateTime: 2020-11-02T08:32:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qZMT2IVlQZs/trump-hints-he-may-fire-fauci-after-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-he-may-fire-fauci-after-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-he-may-fire-fauci-after-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/AP20084811004853.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump's path to victory includes winning Nevada or Arizona, holding Georgia, North Carolina: Jason Miller"
     excerpt: "President Trump's path to reelection includes holding Arizona, Georgia and North Carolina and even picking up purple state Nevada, Trump campaign senior adviser Jason Miller told ABC's \"This Week.\""
     publishedDateTime: 2020-11-01T16:26:53Z

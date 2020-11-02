@@ -256,6 +256,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Liz Cheney says Kamala Harris 'sounds just like Karl Marx' in video on equity"
+    excerpt: "Wyo., suggested on Sunday that vice presidential candidate , D-Calif., was advancing communist ideas with a video about equity and equality."
+    publishedDateTime: 2020-11-01T23:13:00Z
+    webUrl: "https://www.foxnews.com/media/liz-cheney-kamala-harris-communism"
+    ampWebUrl: "https://www.foxnews.com/media/liz-cheney-kamala-harris-communism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liz-cheney-kamala-harris-communism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
   - title: "Man arrested for allegedly threatening to kidnap and execute Joe Biden and Kamala Harris"
     excerpt: "A Maryland man has been arrested after authorities said he threatened to torture and kill Joe Biden and Kamala Harris."
     publishedDateTime: 2020-10-21T20:30:00Z

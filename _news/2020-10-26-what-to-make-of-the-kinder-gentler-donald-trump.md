@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-ki
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
 type: article
 quality: 125
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump’s New Executive Order May Make It Easier To Fire Scientists Like Fauci"
-    excerpt: "Trump recently signed an Executive Order creating a Schedule F class of government employee that could have lasting implications even if former Vice-President Joe Biden were to win the upcoming election."
-    publishedDateTime: 2020-10-26T08:44:00Z
-    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/"
-    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 122
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9487bb2b122fa1efaa12d2%2F0x0.jpg"
-        width: 1200
-        height: 891
-        isCached: true
   - title: "President Trump claimed during the debate the GOP will take back the House. That is unlikely."
     excerpt: "\"I think we're going to win the House,\" Trump said during the debate. That is contrary to what most election experts think."
     publishedDateTime: 2020-10-23T03:27:00Z

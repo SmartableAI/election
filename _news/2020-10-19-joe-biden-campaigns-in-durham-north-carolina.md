@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mike Pence making 2 more campaign stops in North Carolina"
-    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump's reelection bid. Pence was scheduled to hold rallies at Piedmont Triad International Airport in Greensboro at midday Tuesday and at the Wilmington airport in the evening."
-    publishedDateTime: 2020-10-27T08:27:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
   - title: "Joe Biden to visit Durham on Sunday as North Carolina’s early voting numbers soar | Charlotte Observer"
     excerpt: "More than one million North Carolina voters have already cast their ballots, and Democratic presidential nominee Joe Biden is hoping to increase those numbers. Biden will visit Durham on Sunday for a 1 p."
     publishedDateTime: 2020-10-17T12:02:00Z
@@ -94,6 +83,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence making 2 more campaign stops in North Carolina"
+    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump's reelection bid. Pence was scheduled to hold rallies at Piedmont Triad International Airport in Greensboro at midday Tuesday and at the Wilmington airport in the evening."
+    publishedDateTime: 2020-10-27T08:18:00Z
+    webUrl: "https://www.nhregister.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 55
 
 secured: "v18HV3mIWZbyHIJx+Bbuyb9RqKiuHujwRiLg+/8lfH6YcUJE+ShfeTvocs8ZCC2pzZuevaRa8BYF/J9imh1owGGZfRbrgS1nOfKSYs7rQ9zP5U23JNKXdTzNnsIgHZwwR/A+PlkZokjWFdTX6KQiyN+ba5kTMu+YibQdbF09uf8VMFTJvCzfZfGMyjCQmNcLcYqrReZTotyylMQfDG8ONLT9xLbeyClrg3zULTc5z4OXNTQGTxcgoGWP03cU6ehgisTomrvYv1r/elBJHr3UjekZSSlGTeknF1Mjam8GmZw6ELj56R5hBf8G2maWyXhvecVW3lzxkxwXbv6Tje7/bxyjVetYufB0WWdUsUKEKJBTwhgJzEk3oQA/6g7WJQzsjJdm3CtRYZ9pXtdLRALGFaSDIllQfJl4+ZXFmcn/D2tBjxALE2D88VOkK7imRRjQBWB8qIYbcirvXcrlPovofIuPwD4vlQ9DmF4pVMoUQmXz3FT8flU0WiA06JfY7yhydjPS8VN9IAiBbPByE+nJMA==;nHVP45WCevxB05JK4Vh6uQ=="
 ---

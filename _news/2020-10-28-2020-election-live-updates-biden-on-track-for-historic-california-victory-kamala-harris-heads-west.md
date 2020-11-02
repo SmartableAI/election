@@ -235,6 +235,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
+    excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
+    publishedDateTime: 2020-11-02T08:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/31/voting-2020-news-updates-texas-voter-numbers-covid-florida-poll/6069630002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6069630002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6069630002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/73823eae-9c73-41f8-ae97-15b449bec90b-AFP_AFP_8T79DM.jpg?auto=webp&crop=5920,3330,x0,y300&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election updates: Trump deemed 'safe' to return to public engagements, won't say if he's tested negative"
     excerpt: "Trump's aides are working to satisfy his desire to get back out on the campaign trail as early as Monday in Pittsburgh."
     publishedDateTime: 2020-10-11T00:08:00Z
@@ -346,6 +362,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg"
         width: 800
         height: 430
+        isCached: true
+  - title: "Photos: On the campaign trail this week with Trump and Biden"
+    excerpt: "Donald Trump and Joe Biden have been crisscrossing the country to woo voters with only a few days left before the presidential election."
+    publishedDateTime: 2020-11-02T08:00:00Z
+    webUrl: "https://omaha.com/news/national/govt-and-politics/photos-on-the-campaign-trail-this-week-with-trump-and-biden/collection_af53884c-4a0c-584d-bb1f-385b9c26c573.html"
+    ampWebUrl: "https://omaha.com/news/national/govt-and-politics/photos-on-the-campaign-trail-this-week-with-trump-and-biden/collection_af53884c-4a0c-584d-bb1f-385b9c26c573.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/photos-on-the-campaign-trail-this-week-with-trump-and-biden/collection_af53884c-4a0c-584d-bb1f-385b9c26c573.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/7/d1/7d112f5d-8b7a-5910-92bf-0649ff57200d/5f9c809b2838b.image.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "WATCH LIVE: Trump Holds Rally in Tampa on Thursday"
     excerpt: "President Donald Trump is scheduled to speak to supporters on Thursday afternoon in Tampa, Florida, before heading to an evening rally in Fayetteville, North Carolina."

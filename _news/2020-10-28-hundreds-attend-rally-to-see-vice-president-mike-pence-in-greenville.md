@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-
 cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
 type: article
 quality: 75
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
     excerpt: "President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3.5 points."
     publishedDateTime: 2020-10-30T07:24:00Z
     webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-az"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Pence Campaigns in Latrobe, PA"
+    excerpt: "Vice President Pence delivers remarks at a campaign rally in Latrobe, PA. The Keystone State is getting visits from him and President Trump as well as their Democratic challengers, Joe Biden & Sen. Kamala Harris (CA),"
+    publishedDateTime: 2020-11-02T08:03:00Z
+    webUrl: "https://www.c-span.org/video/?477688-1/vice-president-pence-campaigns-latrobe-pa"
     type: article
     provider:
       name: C-SPAN

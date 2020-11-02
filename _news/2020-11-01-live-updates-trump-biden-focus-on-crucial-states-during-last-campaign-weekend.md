@@ -831,6 +831,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gaetz slams FBI probe into Texas Trump supporters surrounding Biden bus"
+    excerpt: ""
+    publishedDateTime: 2020-11-02T07:57:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GhmnsR5ypqo/gaetz-slams-fbi-probe-into-texas-trump-supporters-surrounding-biden-bus"
+    ampWebUrl: "https://www.foxnews.com/politics/gaetz-slams-fbi-probe-into-texas-trump-supporters-surrounding-biden-bus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-slams-fbi-probe-into-texas-trump-supporters-surrounding-biden-bus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump says 'a vote for Biden is a vote for lockdowns, layoffs, misery'"
     excerpt: "The president said his recovery plan during the coronavirus pandemic was “creating the world’s greatest economic powerhouse”"
     publishedDateTime: 2020-11-02T01:35:32Z
@@ -1852,6 +1868,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "FBI investigating ‘Trump Train’ swarming of Biden bus on Texas interstate: report"
+    excerpt: "The FBI is investigating a “Trump Train” incident from Friday, in which a Biden campaign bus was surrounded by a dozen pickup trucks driven by Trump supporters as it traveled down a"
+    publishedDateTime: 2020-11-01T07:04:00Z
+    webUrl: "https://nypost.com/2020/11/01/fbi-investigating-trump-train-swarming-of-biden-bus-in-texas/"
+    ampWebUrl: "https://nypost.com/2020/11/01/fbi-investigating-trump-train-swarming-of-biden-bus-in-texas/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/01/fbi-investigating-trump-train-swarming-of-biden-bus-in-texas/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 145
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/B27CDAEA-1962-4871-9596-93085B1B6161.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Rev. Samuel Rodriguez: Biden vs. Trump -- Why Latinos in Florida are turning to Trump"
     excerpt: "As expected, Biden is leading President Trump with Latino voters nationally, but he is seriously underperforming Hillary Clinton’s support among the community in 2016. This is of particular concern in Florida,"

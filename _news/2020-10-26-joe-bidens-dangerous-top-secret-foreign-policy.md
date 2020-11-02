@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Joe Biden works to push Black turnout in campaign’s final days"
+    excerpt: "Joe Biden is spending the final days of the presidential campaign appealing to Black supporters to vote in-person during a pandemic that has disproportionally affected their communities, betting that a strong turnout will boost his chances in states that could decide the election."
+    publishedDateTime: 2020-11-02T08:45:00Z
+    webUrl: "https://floridapolitics.com/archives/379605-joe-biden-works-to-push-black-turnout-in-campaigns-final-days"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/1000-46-1000x563.jpeg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "wvt9B9CQ6msZaieFyf3+lRuX63CEXiqIFVfV2TsRC6rrtzrjhEB6t30ZvaqS6eVsehOb4OWRpuZDZiPkujOj2t8+apBMaSy6uXS0PNED3/5jnHAD1NxgIhKKx/53ML482gVRBTVI1Fmhs8P2rkhORYrZXi+/Rw6q8+AhLWdEXoPjgm1BEO7wQ5TaSACCW//NjFW4BYIiFUdbZJNaaUCpD8hueP8Mv3hSoff8iRweOz1on/DVGPrvgajcN/juElc8GJkYT9QSxWqOzNQfbJq+c+ay7KFMsO07LwndKcEDBwyJTWuI3XcDvFbCDIBiZX4nFHcZ+EXSrZwBPqo55pTFIo/yiVJjg1peFWIDo+HkSe+3bdyPMS5trEOGMtQlcNzuT9ZGhCQO2vy1ThJYwOqggsPupo8/aoDd/CaBQ1eH9s9IZzd3NzJ4rZDFm7daZvAAN3b4Z0J6TzgZvLIuSZAkizACuTZaP9W65+Hca4jzcAwY6PwnMIADkZEpc8H3pNFNbUL2g96PZvAO2Wp7ikh8lQ==;ybf5qpvkXJNZMGGa/Lr+qw=="

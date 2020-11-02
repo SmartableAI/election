@@ -47,6 +47,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden works to push Black turnout in campaign’s final days"
+    excerpt: "Joe Biden is spending the final days of the presidential campaign appealing to Black supporters to vote in-person during a pandemic that has disproportionally affected their communities, betting that a strong turnout will boost his chances in states that could decide the election."
+    publishedDateTime: 2020-11-02T08:45:00Z
+    webUrl: "https://floridapolitics.com/archives/379605-joe-biden-works-to-push-black-turnout-in-campaigns-final-days"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/1000-46-1000x563.jpeg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "LWQQwVy9w6c0HG4eA9MiAkQoQ3d1RCSK225o3oQrpIDT2N7ryFiB8B46oA8Q5bcR3AxO964yxh/SGlgXZbLghQY16L6W/o1QLUBEoGy/UNpeQgFUaD4ZjcW+dLuWfNAaYePze11a3ep/oL3kyI6M3NzEzzQImIRr9XSCVkUZOP4VnLiMrj2Or+YgJZ9jV4xm/UzAmia3uKwEjJiW1Vpe4S9iDim74AhxOYD060d66prV3eHDJ/KKHa3yBsUUORxox25+IQnGLX98C0Fjnax5boJ+sd9ku3Tyo95JMHyMlqz3e1u3rvFALCCc+ya8L178uaLEn3AdiNSnAM5dnrKpoWLKpy8rhS+7gpFsgd0NCW4=;nK7qoKxcJivzer1fEYzb5A=="
 ---
