@@ -96,6 +96,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump threatens Senate GOP — now and in the future"
+    excerpt: "A \"new kind of Republican.\" The only woman in Senate GOP leadership. And veteran lawmakers who’ve been in the mix on most every major bipartisan deal over the past decade. These are a few of the Republican senators President Donald Trump has put at risk this November,"
+    publishedDateTime: 2020-11-02T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/11/02/trump-threatens-senate-gop-433702"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/02/trump-threatens-senate-gop-433702"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/02/trump-threatens-senate-gop-433702"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/8b/6d/6bcb94fe4487ad76970e0ff15b33/201030-trump-mcsally-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Why the math in Minnesota is more daunting for Trump than in 2016"
+    excerpt: "Nothing in the data suggests Donald Trump will win Minnesota. Coronavirus cases are surging. The early vote looks great for Democrats, who have swamped Trump’s ad spending in the state. But the contest appears to have tightened slightly in recent days."
+    publishedDateTime: 2020-11-02T09:35:00Z
+    webUrl: "https://www.politico.com/news/2020/11/02/swing-states-minnesota-433392"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/02/swing-states-minnesota-433392"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/02/swing-states-minnesota-433392"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/e5/16/1b29af234763bc8ac218396b7639/swingstates-minnesota.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "Vb6XwY2YWId/9AuD7BvwiH0r41E0rGssXWzktFph06qdsDUJcsTPKtkaZSK2GNVa6JgK5dWKiX7Miuu9UK/LPUqog/HtSD0i+6Y4IKu8dEKUq8+E5Pt8sDDXxKzBEyvGrrcoVZVfpNQozX2dUBmNnEgkfDaoQDPJD/LxgR724fkz4J9eR/z1rWiPJpy8V8R9AnDdP/npuHoh5Tc86cSKKqq+r6ETmJdxkcnTY3tdqCqMEFRZF2HKCYacmTLmTENSb0RCf7KytkrAnfgDOUPmPV/keUKiay+FFud4Il1iMLU35Ih29VgeSiUY6Pl9vIE2hcrIu+4fsVmRb/2BDwsllmdGfeQr2m2Tn5Zli1ZIfuo=;//UdTWWCvNYNGo5JCtH8tA=="
 ---

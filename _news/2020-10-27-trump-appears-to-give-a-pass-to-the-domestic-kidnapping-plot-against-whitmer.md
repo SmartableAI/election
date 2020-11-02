@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-gretchen-whitmer-k
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-gretchen-whitmer-kidnapping-michigan/index.html"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/01/opinion/sunday/01-icon-krugman/01-icon-krugman-facebookJumbo-v9.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "What Trump Needs to Win: A Polling Error Much Bigger Than 2016’s"
+    excerpt: "That’s a big “if.” The indelible memory of 2016’s polling misfire, when Donald J. Trump trailed in virtually every pre-election poll and yet swept the battleground states and won the Electoral College,"
+    publishedDateTime: 2020-11-02T10:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/upshot/polling-what-trump-needs-to-win.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/upshot/polling-what-trump-needs-to-win.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/upshot/polling-what-trump-needs-to-win.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/02/upshot/02up-what-trump-needs-sub/02up-what-trump-needs-sub-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

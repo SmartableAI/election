@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-election-october-28.amp"
 type: article
 quality: 205
-heat: 2925
+heat: 2945
 published: true
 
 provider:
@@ -2102,6 +2102,20 @@ related:
     quality: 130
     images:
       - url: "https://images.wsj.net/im-251723?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "FBI Probing Allegations That Trump Backers Put Biden Campaign Bus in Peril"
+    excerpt: "The Federal Bureau of Investigation is looking into allegations that Trump supporters endangered a Biden campaign bus on a Texas highway Friday, according to people familiar with the matter. Several dozen trucks,"
+    publishedDateTime: 2020-11-02T10:03:00Z
+    webUrl: "https://www.wsj.com/livecoverage/election-live-updates-trump-biden-2020-10-31/card/1HK3DEPiHsIi5uQhQofE"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-253032?size=1.5"
         width: 1280
         height: 853
         isCached: true

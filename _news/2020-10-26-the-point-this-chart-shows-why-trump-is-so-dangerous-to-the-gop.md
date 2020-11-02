@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/gop-shrinking-support-tr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/gop-shrinking-support-trump-graph/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 295
 published: true
 
 provider:
@@ -94,6 +94,38 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/ott_now_debate_trumppath_201022_1603413994454.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump threatens Senate GOP — now and in the future"
+    excerpt: "A \"new kind of Republican.\" The only woman in Senate GOP leadership. And veteran lawmakers who’ve been in the mix on most every major bipartisan deal over the past decade. These are a few of the Republican senators President Donald Trump has put at risk this November,"
+    publishedDateTime: 2020-11-02T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/11/02/trump-threatens-senate-gop-433702"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/02/trump-threatens-senate-gop-433702"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/02/trump-threatens-senate-gop-433702"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/8b/6d/6bcb94fe4487ad76970e0ff15b33/201030-trump-mcsally-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Why the math in Minnesota is more daunting for Trump than in 2016"
+    excerpt: "Nothing in the data suggests Donald Trump will win Minnesota. Coronavirus cases are surging. The early vote looks great for Democrats, who have swamped Trump’s ad spending in the state. But the contest appears to have tightened slightly in recent days."
+    publishedDateTime: 2020-11-02T09:35:00Z
+    webUrl: "https://www.politico.com/news/2020/11/02/swing-states-minnesota-433392"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/02/swing-states-minnesota-433392"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/02/swing-states-minnesota-433392"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/e5/16/1b29af234763bc8ac218396b7639/swingstates-minnesota.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "b+oR1mL6DlUQjkF8dSkCuETbopbI3HbSZO5B+Bj6ONhVobsgf4lM4VWCF39aUyPNSbNISB286XFQBvH1EhMARSr6KM1EUl0yoDjkC1trVEnlvpvCfZWNpB7jm4WGUk+d/icHMeS4v0R2FuQ+aJWwzqfFf63tDx5TLzY3ZPmCmQFm8skhMOSpmJuaKQ1V5j+vi9infDvjZo7R9ZUcmAsSyWDFFTpKY0HGUMgUvEx7x9Y2pwM3TnO2vjmQ5WwzD6MPivmk0ZcWJMT8y0DkM+Ge25nZvnyMTXhA/ZGSyXmdQgcIQw23JvHsqLfaPP19G1mSiUU1HEoiI6GqMJ2xe0I9tY+u4jpdqtWBmGy06pRM3lM=;H++q7lsx1kVSy+Fjq7CVkQ=="

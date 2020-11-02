@@ -1152,6 +1152,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden camp quietly raises money for post-election court brawl"
+    excerpt: "Biden officials are holding calls with big fundraisers to prepare for the possibility of lengthy, expensive legal fights after Election Day."
+    publishedDateTime: 2020-11-02T09:35:00Z
+    webUrl: "https://www.politico.com/news/2020/11/02/biden-camp-fundraising-post-election-433803"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/02/biden-camp-fundraising-post-election-433803"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/02/biden-camp-fundraising-post-election-433803"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/37/1e/82afdf294d11acaf804b06a3daed/gettyimages-1229406793-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Win or Lose, Trump and Biden’s Parties Will Plunge Into Uncertainty"
+    excerpt: "No matter who wins, Democrats will be split between younger progressives and a moderate old guard. And a Republican Party redefined in President Trump’s image will start weighing where it goes next."
+    publishedDateTime: 2020-11-02T10:03:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/trump-biden-republicans-democrats.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/trump-biden-republicans-democrats.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/trump-biden-republicans-democrats.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/01/us/politics/01two-parties-1/merlin_179349807_7cde116d-e285-4b0c-9130-76d66bd3a306-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump and Biden Converge in Florida, an Elusive Prize Still Up for Grabs"
     excerpt: "The presidential rivals both appeared in Tampa, confronting their vulnerabilities and courting a range of voters, a clear sign that both see their political fortunes tied to the state."
     publishedDateTime: 2020-10-30T00:56:00Z

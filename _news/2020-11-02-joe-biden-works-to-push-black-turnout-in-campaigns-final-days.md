@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden looks to restore, expand Obama administration policies"
+    excerpt: "Joe Biden is promising to take the country on a very different path from what it has seen over the past four years under President Donald Trump, on issues ranging from the coronavirus and health care to the environment,"
+    publishedDateTime: 2020-11-02T10:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_59af13eb499d41eab166674d0c65dbae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "fgzm0FhzTuxMjL3clq1iIpsTO+cWRe6JcBeil1TGkIpIYzxiSyuimm/wJBywzS0jDPWPnFHmoL1IIvvGlt40/52bhhabLt9FqR70UPyx/DEUwbWdZ+WzxpdMEUM+Cz4m4rUGzDEdv4hIxXjHBHkct6FeCV7+KtDYFZWisPT/GeSU/H1fJtnA+BeEHxtvK+PIJS1to3dkHk0g18IM04FrO8s5RD8+rHLs8GRlG1toAJKuMhdt/awAYYKmSP+xEZRmL0P4wzh5G+oaov/ul2X0d+BNJGRQgzwDfVmi8GACDGjBqTD4e5maGwIrzPBJheqM5NEk8ZSeeAbQLYHJcq60QxWDmgdD5gY9sg0wKOv8k48=;UUvgTx50BVz8yA5eQ/PLgw=="
 ---

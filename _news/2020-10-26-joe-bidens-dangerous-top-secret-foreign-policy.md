@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden looks to restore, expand Obama administration policies"
+    excerpt: "Joe Biden is promising to take the country on a very different path from what it has seen over the past four years under President Donald Trump, on issues ranging from the coronavirus and health care to the environment,"
+    publishedDateTime: 2020-11-02T10:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_59af13eb499d41eab166674d0c65dbae_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

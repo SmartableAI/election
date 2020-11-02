@@ -2120,6 +2120,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "FBI Probing Allegations That Trump Backers Put Biden Campaign Bus in Peril"
+    excerpt: "The Federal Bureau of Investigation is looking into allegations that Trump supporters endangered a Biden campaign bus on a Texas highway Friday, according to people familiar with the matter. Several dozen trucks,"
+    publishedDateTime: 2020-11-02T10:03:00Z
+    webUrl: "https://www.wsj.com/livecoverage/election-live-updates-trump-biden-2020-10-31/card/1HK3DEPiHsIi5uQhQofE"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-253032?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Donald Trump: Why He Deserves 4 More Years"
     excerpt: "Lost on the President Donald Trump-hating pundits who weighed in on the second and final debate with former Vice President Joe Biden was Trump's energy and focus. The man just recovered"
     publishedDateTime: 2020-10-29T09:58:00Z

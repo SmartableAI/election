@@ -1152,6 +1152,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden camp quietly raises money for post-election court brawl"
+    excerpt: "Biden officials are holding calls with big fundraisers to prepare for the possibility of lengthy, expensive legal fights after Election Day."
+    publishedDateTime: 2020-11-02T09:35:00Z
+    webUrl: "https://www.politico.com/news/2020/11/02/biden-camp-fundraising-post-election-433803"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/02/biden-camp-fundraising-post-election-433803"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/02/biden-camp-fundraising-post-election-433803"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/37/1e/82afdf294d11acaf804b06a3daed/gettyimages-1229406793-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Win or Lose, Trump and Biden’s Parties Will Plunge Into Uncertainty"
+    excerpt: "No matter who wins, Democrats will be split between younger progressives and a moderate old guard. And a Republican Party redefined in President Trump’s image will start weighing where it goes next."
+    publishedDateTime: 2020-11-02T10:03:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/trump-biden-republicans-democrats.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/trump-biden-republicans-democrats.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/trump-biden-republicans-democrats.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/01/us/politics/01two-parties-1/merlin_179349807_7cde116d-e285-4b0c-9130-76d66bd3a306-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Sick of getting texts from the Biden or Trump campaigns? You're not alone"
     excerpt: "The campaigns of President Donald Trump and the Democratic presidential nominee Joe Biden didn’t respond to requests for comment on their texting strategies or on consumer complaints, which in recent days have been common on social media. Lindsay said ..."
     publishedDateTime: 2020-10-30T15:11:00Z
@@ -1668,6 +1700,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "Y/BLEFseC2GJAlae3hJ+3x5exM+wD1Delf9VtDcETlb5ayzA00PxADMICP65GS3KktGCA5htSKNYnevv/S1vN45TbujMKZ9CRi2dz9Ap9DfSHba1KD7TOcD3TuP+yPPWBUZSdgmE4lVxYQvNlKiHqApr8q4HWfcIDE6jmaS8GHSpv+kEu5vfY6pVPpFcvhm1D72OYBGUlZIFX7hroiUwZeVf+mwP77D1s8iKBctN6wNw2SrJhEZTFYaQFhIvRn9SvqfTD47DU2CrVmg5DQIKtTy8JhzyRb4rhABkIo/U/rvKUfdEgzebr8VdR/iORmjbhLPYB/jKUlRjOKERRicOTQ4lvmTDe6Eil7KBvIJQDfQ=;VkutprJonPE8vuH4Z4ZrZw=="
+secured: "CTGNfVu7v9QbCG8N9NcCBDyjOtmxULMmFY8WSfSqm2sELnV3h8wJI/fiJZK1blMmfTcJcZObPsS74tytFTxt6jEIonytoqPR2xE9Vl6OwB4IChioVqdbBu08E+hXKtb9ze+s5MKnHXQgxIAf7DEvoJ3d4eai3uWRQwn6Ke5etInKsxZoqBfR+A7s/SWpAhn5vjqhbPbG25UaYsYluw1Sr+9H8JPEF5FJVeNSgotq3a9Y44vwm9ZA/Jc7gI/cmTeRXzbGm5MtDrT+SEEFBC6aU15fEO820HGCO6yUFIGmi10nONXl7r/CCA8EH9odRaYA/nsq/AdODxGa4/iDXXysScJbs6AD+O1Lp/KWpPYgyZZyjrzSmYYdbQSqfrAG3Lxutdz2NhcLPCUyjfWPu9M3M5k1X+duxAVTf6dlIzrmEEOwjzhSrk/7eTfpJWWrnLkhm6S8SZLBuaPdYSyykwJrK5YaQYgMZuGeuJKW5VjDLjBuPD1hkdEcKPJMXOP1Tfpo6aBqhtacNOBAS9OTTNW5ZQ==;5s36jiHixdII2i5JxBN9ig=="
 ---
 

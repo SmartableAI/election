@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-desp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/10/AP20299110164423.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Vice President Mike Pence to stay on campaign trail despite exposure to chief of staff Marc Short, who tested positive for COVID-19"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
+    publishedDateTime: 2020-10-27T03:09:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/elections/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html"
+    ampWebUrl: "https://www.sun-sentinel.com/news/politics/elections/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/politics/elections/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 45
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/u0DCzdkXJN-RGYRvSSr43-jHmvc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BSXXSPCSCJF4FHNE6RFJZESBP4.aspx"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "NF/ZLL4kNbX0bPoS5j9KGpye4X6hfTPZh2lvh3QYYA0BZrkLcJRPrd7oibsINNvfaOYLWCw7or1tBEtJ9fVpTqwmiTanKROK3bH8EF8yu+imBvhMdmR5JDJXcus/p/Zh1pE/kkVxC/7DEyl/F2Na01b4NjqPDHIMOUfEbIDEmeOme2rifcoA2ZOvk6ygdeLrrhCmrcKMM5TT3anzU+rpHJ7w0ysjKrAuHJi36lHlI3KJu9F56otrNbF4znqzz9gzIUbMLEsYMBjyy6BkkK7MCxbrc1N0eUBqIQjly/WUJrwBW0hkSz9nHaDegk4X7w0nJR4lor7gbvqYsgu5S7Rzs5pyD2yK4N5hkUElxxZlBXY=;kKy8WR4YMbEHAD3yY7eDwQ=="

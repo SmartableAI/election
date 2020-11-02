@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden looks to restore, expand Obama administration policies"
+    excerpt: "Joe Biden is promising to take the country on a very different path from what it has seen over the past four years under President Donald Trump, on issues ranging from the coronavirus and health care to the environment,"
+    publishedDateTime: 2020-11-02T10:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_59af13eb499d41eab166674d0c65dbae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden works to push Black turnout in campaign’s final days"
     excerpt: "Joe Biden is spending the final days of the presidential campaign appealing to Black supporters to vote in-person during a pandemic that has disproportionally affected their communities, betting that a strong turnout will boost his chances in states that could decide the election."
     publishedDateTime: 2020-11-02T08:45:00Z

@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
+    excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
+    publishedDateTime: 2020-11-02T09:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/02/election-updates-biden-barnstorm-pa-trump-vows-send-lawyers/6117435002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6117435002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6117435002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 138
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/37fc0ada-d276-47d9-a2a1-cafe0e3538fb-GTY_1229408894.jpg?auto=webp&crop=2512,1413,x0,y48&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics"
     excerpt: "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware."
     publishedDateTime: 2020-10-22T11:41:00Z
@@ -457,6 +473,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "vNWSTsfQCayh4x8rwHIUqhJc1l9jHXpDQeGM9ceWZeIfFArNT6+d43vhMM5cckX4viDV4vw2VDn9Sq4fTLNbY2JdXke7rpzIyeDRmH1oSnoCtNfAFdtIciOamSSyG446Zb8Ka8B7R96nNVC84P7CbSkaiQwDRTfbgxddO4LrxUZTCZ6uC8QdDrVj7DUrKKtjn10Rlfk6dnfZgSORMLjK6Z03GebaF9Vgtdae9QmXTYGcwey+tNVPhXvWtkS4WBZ/jTjlsyCXF/PEeIA8ZICUZgbXFFjjpeM8RM01j55j5yucquf58mKyl74iCD8z107I7dCtQfEoZ9WA4pUJU/c1GNpic/KVMg8UG9sXT5apvzo=;G4NX0WnWT1Ux5HAFzvgANQ=="
+secured: "r70tq5GwTS3RawUwtTTmcXeBb4b2miRuTHhUJx4U9d+HUGmXMpoPo7FkraDFQi0li1I5Tuxra8i1gQoKetGK+MW25CYe2WZIsdkrgiTPkoqA0xa0LeaPdqamCoSYljHmnQoJsffzeOAqDZT+wNSJrS5+QDsrrO0ndYWDc2eFzRHS/PSG7QvOrBLnASicBGZ3JY+0qJfKWR4x4LHfrzcSSH5lCcGVkdV82Xd/d+LWGDGSDhR9RFJXQX6uZw3GsXa/nrTf68T/P29mxocjyy+a0SJiiykasPQwI5Z3moEorf/tLRXszMstFT73jggCPhB9wNaMF8ZJrWfVAI5leU/1IV3nEomraDWlahWKEjg1lF/pAjCTp8QMLchkt2ly1AEkcKVi/A1vqwkbrhemdb+EUUCbIaMhU/1xqbUElzxtjkq9dirzWa7Xmt7E56l+CDGEYTUIjlhaepdSzUj6P6am164kyY/Uv/Nrm2HMOOQcm/FMDXaY/nKAp5P8uAf+u8IsTKa5UBNVcdlDD4v7fObUdQ==;CJftF/9kZMyOfiFYBAy8kQ=="
 ---
 

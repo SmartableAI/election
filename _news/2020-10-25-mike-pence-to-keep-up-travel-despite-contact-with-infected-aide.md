@@ -105,6 +105,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Vice President Mike Pence to stay on campaign trail despite exposure to chief of staff Marc Short, who tested positive for COVID-19"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
+    publishedDateTime: 2020-10-27T03:09:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/elections/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html"
+    ampWebUrl: "https://www.sun-sentinel.com/news/politics/elections/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/politics/elections/ct-nw-mike-pence-aide-coronavirus-20201025-2cuchz4idvecjlmrgapnolkyte-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 45
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/u0DCzdkXJN-RGYRvSSr43-jHmvc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BSXXSPCSCJF4FHNE6RFJZESBP4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "TGoQBuLVF4YHN9LvaT25mkAsU4o3qdoMygsQ2/MssUqJGrh/jUFtG6zyOmlT2lYkaSsTee17E8k5Jr1r2jFd4JwbxT/8dQmv8QvC8Sw3J6P5pkEj1PMGH/tIkpbBpjzjw5e/2jzDYCFUoU5hrJhat9L4UHkWs4z/mRYMtpSpPrUV8bstyVOWzlQbGHfOvmz7cr2Cml/hy+EFMDwPuv9WvQQXU+REHC9UW85nzJFhCaADfDG/wQt4yLtztZ91yOr5gPBCDh1PKf5u4F1dzxREgPjCBU2lRZ3utYpOLnUdKvS4Me8/44Bg4gBJrllHUfrTto1gzzgpAN5FE69EI1wxleM22pzqt5Sz5mqsdnqZYrZLyPNVXns1lGPZl+rAJ95goHMJs+benCE6eZypFS+OUE5azzUhScvCFuVZRyVWnbF81F0pwsSVcBFrs51ZT2erm0zsn98+ODxI4ZRkmzpnqrNXJhoT0o/HxDloMUEkFD6i4p6vi0t5kDogtbj9EGLMq6uxwxJcHzJ9IX0nTW29mQ==;cSfBVGbHy2Rg1BOGiaHiGA=="
 ---

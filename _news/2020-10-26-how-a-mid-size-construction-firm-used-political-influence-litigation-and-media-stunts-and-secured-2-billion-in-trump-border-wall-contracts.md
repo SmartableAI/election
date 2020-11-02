@@ -1053,6 +1053,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "China Is Getting Ready for a World Without Trump"
+    excerpt: "Now that Trump appears to be on his way out, and China’s economy is growing again — with parts of Europe and the U.S. resuming lockdowns — the yuan’s outlook is rosy. Reining in excessive currency volatility will be critical if Beijing wants to keep a steady inflow of foreign money."
+    publishedDateTime: 2020-11-02T09:58:00Z
+    webUrl: "https://www.washingtonpost.com/business/china-is-getting-ready-for-a-world-without-trump/2020/11/01/f38a647c-1ca1-11eb-ad53-4c1fda49907d_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Ex-Homeland Security Official Outs Himself As 'Anonymous' Anti-Trump Author"
     excerpt: "Miles Taylor defended his decision to criticize the president anonymously, saying it forced him to address the merits of the claims, \"rather than creating distractions through petty insults.\""
     publishedDateTime: 2020-10-28T21:20:00Z
@@ -1614,6 +1628,15 @@ related:
         width: 1692
         height: 1142
         isCached: true
+  - title: "President Trump & Vice President Pence Hold Rally in Grand Rapids, MI"
+    excerpt: "President Trump delivers remarks at a campaign rally in Grand Rapids, MI. It’s the final of five rallies he’s holding on the eve of 2020's Election Day. In 2016, Grand Rapids was his last campaign stop before winning the election."
+    publishedDateTime: 2020-11-02T10:21:00Z
+    webUrl: "https://www.c-span.org/video/?477687-1/president-trump-vice-president-pence-hold-rally-grand-rapids-mi"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
   - title: "Mission Accomplished? White House Science Office Credits Trump for ‘Ending the Covid-19 Pandemic’ as a First-Term Accomplishment"
     excerpt: "White House Science Office credits Trump with 'ending the Covid-19 pandemic' as a first-term accomplishment, as the country faces a record spike in high cases."
     publishedDateTime: 2020-10-28T02:55:00Z

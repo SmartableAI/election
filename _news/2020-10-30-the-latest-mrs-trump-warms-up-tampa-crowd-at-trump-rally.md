@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
+    excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
+    publishedDateTime: 2020-11-02T09:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/02/election-updates-biden-barnstorm-pa-trump-vows-send-lawyers/6117435002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6117435002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6117435002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 138
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/37fc0ada-d276-47d9-a2a1-cafe0e3538fb-GTY_1229408894.jpg?auto=webp&crop=2512,1413,x0,y48&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics"
     excerpt: "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware."
     publishedDateTime: 2020-10-22T11:41:00Z

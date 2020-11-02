@@ -4419,6 +4419,22 @@ related:
       name: Time
       domain: time.com
     quality: 98
+  - title: "President Trump, Joe Biden hold rallies in battleground states ahead of Election Day"
+    excerpt: "President Trump and Joe Biden focused on key battleground states as election day approaches. The president held rallies in Iowa, North Carolina, Georgia and Florida. He began the day in Michigan, where he made an appeal to suburban women,"
+    publishedDateTime: 2020-11-02T10:22:00Z
+    webUrl: "https://abc7chicago.com/politics/trump-supporters-rod-blagojevich-show-support-at-il-gop-rally/7558007/"
+    ampWebUrl: "https://abc7chicago.com/amp/greenwood-donald-trump-rally-2020/7558007/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/greenwood-donald-trump-rally-2020/7558007/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 98
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7564174_110120-wls-election-countdown-10p-wall-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Trump Says Sudan to Be Removed From U.S. List of State Sponsors of Terrorism"
     excerpt: "The move would open the door for the country to get international loans and aid needed to revive its battered economy"
     publishedDateTime: 2020-10-19T21:10:00Z
@@ -5419,6 +5435,22 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Video altered to make it look like Joe Biden greeted wrong state at rally"
+    excerpt: "A video with over a million views appears to show him saying 'Hello, Minnesota' to a Florida crowd. Turns out he was indeed in Minnesota, as his coat would suggest."
+    publishedDateTime: 2020-11-02T06:25:00Z
+    webUrl: "https://www.fox43.com/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
+    ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
+    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
+    type: article
+    provider:
+      name: FOX43
+      domain: fox43.com
+    quality: 74
+    images:
+      - url: "https://media.tegna-media.com/assets/CCT/images/b6d0ea69-d980-4ee8-81fb-00b955f22b88/b6d0ea69-d980-4ee8-81fb-00b955f22b88_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "President Trump, Kamala Harris head west to campaign with just six days left until the election"
     excerpt: "Both President Trump and Democratic vice presidential candidate Kamala Harris were in Arizona on Wednesday. Joe Biden is currently leading Trump in Arizona."
     publishedDateTime: 2020-10-29T07:14:00Z
@@ -6203,6 +6235,31 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 55
+  - title: "False video of Joe Biden viewed one million times on Twitter"
+    excerpt: "A deceptively edited video of Joe Biden making it appear the Democratic presidential nominee forgot what state he was in was viewed more than one million times on Twitter over"
+    publishedDateTime: 2020-11-01T23:31:00Z
+    webUrl: "https://www.stltoday.com/lifestyles/technology/false-video-of-joe-biden-viewed-one-million-times-on-twitter/article_e5065a39-ad32-5c68-8f22-112469642ee0.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
+        isCached: true
+  - title: "Joe Biden Blasts President Trump Over ‘Potential Super-Spreader’ Rally In Opa-Locka To ‘Fuel His Own Ego’"
+    excerpt: "Democratic presidential candidate Joe Biden is calling out President Donald Trump ahead of his planned late-night MAGA rally in Opa-locka."
+    publishedDateTime: 2020-11-01T20:35:00Z
+    webUrl: "https://miami.cbslocal.com/2020/11/01/joe-biden-president-trump-potential-super-spreader-rally-opa-locka/"
+    ampWebUrl: "https://miami.cbslocal.com/2020/11/01/joe-biden-president-trump-potential-super-spreader-rally-opa-locka/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/2020/11/01/joe-biden-president-trump-potential-super-spreader-rally-opa-locka/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 53
   - title: "How Important Is The Final Debate For Trump? After Poor Showing In First Debate, President May Need A 'Game Changer'"
     excerpt: "With his poll numbers lagging and Election Day less than two weeks away, President Donald Trump may need to make a compelling case for reelection Thursday in the final presidential debate. Over 35 million Americans have already voted in the presidential election but Trump may seek to sway some undecided voters and boost conservative turnout by outshining Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-22T20:20:00Z
@@ -6351,6 +6408,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "RcMB1hv3iKoK9TJooac9FZq0XqajJDus/fEk4+jNXjMAE8yd/hceXuT1hxER2uTBQQQRocS2/zA0n2JySU7JMmOTQBtsh+iirnvellh74pbpSAPSljWpYADrV9bIGw70SYipJH54iU0qPLvPatpMC/vQSqpmGopM6zfCXZTXjNE9yLOJxAUEuP7CCkyOVL1e2aFjPTZaMc5tAiKnsqmX9xDb8rfnu0niSD6vncRbaEonyEryc4qUhyHx45FInxJj0Sz39oCs3OsqPZiNnDneIszy9atYZmH6T3gtJ29fNXOtb1B1lFRtgfLH7FaQBNVmpQeuq1/zuop3MBzKTrCx1lOh11+GYlV+YuhvVsSyP1g=;Iv7ioGwcWQXvfYTKuoEzMg=="
+secured: "2pRXi7IELAbYqT29nvnnKuRK+eypUufc5rWb8pIWSdokCWwJzhtHfehOVVhAX+nyg7lKj9FR0KpcQg96XcSdAuC7bo6DLYEdNolSaBy/1Zd8j7ML4abKbV6NsDsyjQJ/PwwZpNLgQv8UqlP5X0K+v2n5kwos8CoIG78lOjqNpo1kXPRyGPF4TZ8h2qHvGI2BDaSAWpifZ3Wm1JHidO30+hoLw6FyHRqgB6Y9zIHEWH/yBKyg+q5d/kzMiG6GsQoPQ9U18EOST0Rbt/G+mKNC1rUjqNMo7OyoLKFBDsoGHphctT7933hTv4BlrB4ooNumSZW/hkg5cJqNvy2YpXvY68oyt1ZmCp0FojhQYI4MF2cNxfLW8Ary8qHurD3k7ZUM6MgZ7oXrpMjo6oY1q+uXkW1nilid1njPsy1PCmCuQ0nXhsgP+tVHUiBCV5LTWRWKI+06j3qd/D5s/hbnyQGWit1obUjZXHzincLO/L4QRZ10iGmSiyIa/BLWrw9sdxiVJwFXzRcJewYbWLNhh8FGXA==;fKpDUH+r1ab7JvEu7/HTnw=="
 ---
 

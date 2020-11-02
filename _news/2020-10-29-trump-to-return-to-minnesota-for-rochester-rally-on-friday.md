@@ -25,37 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Livestream: Trump Holds Tuesday Rally In Michigan"
-    excerpt: "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing."
-    publishedDateTime: 2020-10-27T22:39:00Z
-    webUrl: "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan"
-    ampWebUrl: "https://patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump"
+  - title: "Trump's last-ditch effort to recruit LGBTQ voters continues in Minnesota"
+    excerpt: "Supporters say the administration has made gay rights a \"non-issue\" and argue that Trump's early friendships with gay men — such as Roy Cohn — show he's always been an ally."
+    publishedDateTime: 2020-11-02T01:14:00Z
+    webUrl: "https://www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11?amp"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
     images:
-      - url: "https://patch.com/img/cdn20/getty/566479/20201027/013957/styles/patch_image/public/gettyimages-1229304833___27133938792.jpg?width=984"
-        width: 896
-        height: 672
+      - url: "https://i.insider.com/5f9f5a7e6f5b310011724b4a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Livestream: Donald Trump Rally Set For Fayetteville Thursday"
-    excerpt: "Trump's rally will be held at the Fayetteville Regional Airport, located at 400 Airport Road in Fayetteville. The event is set to begin at 6:30 p.m. Trump's travel to the state highlights just how important his campaign views the Tar Heel state,"
-    publishedDateTime: 2020-10-29T14:44:00Z
-    webUrl: "https://patch.com/north-carolina/charlotte/livestream-donald-trump-rally-set-fayetteville-thursday"
-    ampWebUrl: "https://patch.com/north-carolina/charlotte/amp/29048865/livestream-donald-trump-rally-set-for-fayetteville-thursday"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/north-carolina/charlotte/amp/29048865/livestream-donald-trump-rally-set-for-fayetteville-thursday"
+  - title: "Trump campaign tells Minnesota police union to get retired cops to be ‘Poll Challengers’"
+    excerpt: "President Donald Trump’s ongoing efforts to suppress voters are taking things to the next level in Minnesota, where his campaign is demanding the police union gather retired cops who will be “poll challengers."
+    publishedDateTime: 2020-10-29T15:58:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-campaign-tells-minnesota-police-union-to-get-retired-cops-to-be-poll-challengers/amp/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-campaign-tells-minnesota-police-union-to-get-retired-cops-to-be-poll-challengers/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-campaign-tells-minnesota-police-union-to-get-retired-cops-to-be-poll-challengers/amp/"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 66
     images:
-      - url: "https://patch.com/img/cdn20/getty/22921643/20201029/104240/styles/patch_image/public/gettyimages-1282737607___29104037184.jpg?width=984"
-        width: 984
-        height: 738
+      - url: "https://www.rawstory.com/wp-content/uploads/2018/11/shutterstock_498487594.jpg"
+        width: 786
+        height: 418
         isCached: true
 
 secured: "s4ffXbXZtwI9JI/qOgM+72DHdxFR4vNIEW/b73ht3g3CdjAtRR2FzaDrNT9SDfcZJt01xlgRtsNHneL33ae/H8rIC4m8vbq8IuMRyCmMa09tUquguO06lk/3TXKJ4EJ5MW4OiSDvk4/MXhdatj8hiw8gjw1pKjEGvPWO2Y21EyOUS9yebf2TNLy4Vqu3q3CwuEi/6PIeATVdAwRzaYdv/yOOg4QvD5CmIyqVt3POp4db/KlQANudRyNyYbd3CrmRNrNgFv+/GJBlGOqpDCnGp5RAJYozD74WwbC4aFxfKMEbLejDX763ZtRt9SnHk30nyxYMcA/Vz2cmtJHY4ZTn9xjDUASrYt/lnao7ixdVq0I=;M1WQedY8/bLsFS4HXGbDpg=="
