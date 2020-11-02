@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-defy-pandemic-politi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932"
 type: article
 quality: 150
-heat: 2350
+heat: 2370
 published: true
 
 provider:
@@ -543,6 +543,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/6a33c244-a478-4fed-b541-415acb9f76f2-LadyMaga1.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump promises court fight over Pennsylvania absentee votes"
+    excerpt: "President Donald Trump and his reelection campaign are signaling they will pursue an aggressive legal strategy to try to prevent Pennsylvania from counting mailed ballots that are received in the thre"
+    publishedDateTime: 2020-11-02T17:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-promises-court-fight-over-pennsylvania-absentee-votes/2020/11/02/15caa8ec-1d30-11eb-ad53-4c1fda49907d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-promises-court-fight-over-pennsylvania-absentee-votes/2020/11/02/15caa8ec-1d30-11eb-ad53-4c1fda49907d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-promises-court-fight-over-pennsylvania-absentee-votes/2020/11/02/15caa8ec-1d30-11eb-ad53-4c1fda49907d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Jennifer Lawrence says Trump 'changed everything' about her political views"
     excerpt: "Jennifer Lawrence said on Wednesday that despite formerly voting Republican, she won't be supporting Donald Trump."

@@ -555,6 +555,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump promises court fight over Pennsylvania absentee votes"
+    excerpt: "President Donald Trump and his reelection campaign are signaling they will pursue an aggressive legal strategy to try to prevent Pennsylvania from counting mailed ballots that are received in the thre"
+    publishedDateTime: 2020-11-02T17:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-promises-court-fight-over-pennsylvania-absentee-votes/2020/11/02/15caa8ec-1d30-11eb-ad53-4c1fda49907d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-promises-court-fight-over-pennsylvania-absentee-votes/2020/11/02/15caa8ec-1d30-11eb-ad53-4c1fda49907d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-promises-court-fight-over-pennsylvania-absentee-votes/2020/11/02/15caa8ec-1d30-11eb-ad53-4c1fda49907d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Jennifer Lawrence says Trump 'changed everything' about her political views"
     excerpt: "Jennifer Lawrence said on Wednesday that despite formerly voting Republican, she won't be supporting Donald Trump."
     publishedDateTime: 2020-10-22T15:27:00Z
@@ -1671,6 +1687,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "v5sDqAMB/JNAvnGbiXW4tZz9E8nifKj+uhKz+cDrHZA6t0PEIF0vAVH4nIGarLzdwQEsjbySeTZ5Ok+C77qs9ryGSFVyROy3GK2Bk5SXi/ZNaj2Wcrp2G2HdGOXeYUSPso2DN4mNGGxCFixYRYy2KBJl7rHlGSUSjcaLxxYg19l+OvckStQeAsMIMDatIKGognV6XOHJ0gaoduZK/9cFruVTAemPstkeBYmRloUPM3RHEbCnbibGEpxDfW377gY9tVTHsJl/m2P94pjnjAS9AmGZDKGuB+C1I0gLWCEUV9fnEMotWW6EDnaq5MKoZPA4pZXriEX5ebJvkHLOXeZR9/fnEFuH7pr9Zl8LNi+kcTs=;lezwSoSzNIL2bRdL2yku0w=="
+secured: "NJVk5/HcDK7ycBaCe7ugKLj8sSvTtQl0rNzI96Pg05kYIg0RCdMVkdoKsN5TVQQdJklvGjOBFZ6DCLaeAJ+z9UbIS2LeRd50H8jGHLZ1DNI7P+eMIHDnqkoNlDKHIdSRHUzA2sexeETfkQ9pOZipAnSHF615/lNToPc2rmIUS9fqz1kBOchxu4EKyoQUMHSpLwKd28VDRTpwTlORy8bAssn4rgzyOFmeiuheR7/tNblAQ1S7R73CoG0QaejkgjoqoqNXuL9QmgS62NDD7VVuA9Ek6N4TJ76w6c+Euw1Z76jzOXQoXy8HJyYdBXiYCLUABSmVd9F1WedcnvMzScxpMsSP6Y7njSu4/uSRZFjQybUxLzQL5KhM+XiiOeWm30hGQ2pz7yn/30F7O3gqu15YiQ+oc/bBrFPgEEkhf31VrvuGWw3bipaKmCps2BowPcGYNgYSbow1USB/cxU81ThwOBcR9h+ACcC8Zblo7Ci7Htujzm9Cb7yB3AbBzeQhVQU7/76CzN7ZUYiRbV6HwGy7VQ==;9ROQMDYQIn6HQ9uZQb7FaA=="
 ---
 

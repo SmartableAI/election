@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden Trounces Trump In Final Tally Of Major Newspaper Endorsements: 47 To 7"
+    excerpt: "The former vice president even won the backing of several major publications that have never made a presidential endorsement."
+    publishedDateTime: 2020-11-02T18:51:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/02/biden-trounces-trump-in-final-tally-of-major-newspaper-endorsements-47-to-7/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/02/biden-trounces-trump-in-final-tally-of-major-newspaper-endorsements-47-to-7/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/11/02/biden-trounces-trump-in-final-tally-of-major-newspaper-endorsements-47-to-7/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 137
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa054018dbc3a3e1bbb8b67%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3595%26cropY1%3D62%26cropY2%3D2084"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 live updates: Melania Trump delivers pointed political attack on trail"
     excerpt: "President Donald Trump has campaign rallies in Michigan, Wisconsin and Nebraska on Tuesday while former Vice President Joe Biden spends the day in Georgia."
     publishedDateTime: 2020-10-28T02:26:00Z
@@ -316,6 +332,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/fC2MZJJgBf7GCs5-7vlssCfTWQs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H75MQE6NI5BLTP3WJE3S5WQILY.jpg"
         width: 1200
         height: 804
+        isCached: true
+  - title: "Joe Biden in Ohio: 'I'm going to hire Dr. Fauci, and we're going to fire Donald Trump'"
+    excerpt: "Democrat Joseph R. Biden on Monday dinged President Trump for suggesting that he might fire Dr. Anthony Fauci, the federal government’s top infectious diseases expert, and said he plans to oust Mr. Trump himself from his current job on Tuesday."
+    publishedDateTime: 2020-11-02T18:08:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/2/joe-biden-ohio-im-going-hire-dr-fauci-and-were-goi/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/2/joe-biden-ohio-im-going-hire-dr-fauci-and-were-goi/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/2/joe-biden-ohio-im-going-hire-dr-fauci-and-were-goi/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 82
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/07/virus_outbreak_congress_22342_c0-218-4000-2551_s1200x700.jpg?f44772715d7d5fd81cb5c0f7bf11605028154478"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Trump and Biden campaigns, Halloween, daylight saving time: 5 things to know this weekend"
     excerpt: "Trump and Biden eye Pennsylvania on final campaign stretch, experts warn of Halloween dangers during COVID-19 and more things to start your weekend."

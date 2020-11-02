@@ -559,6 +559,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump promises court fight over Pennsylvania absentee votes"
+    excerpt: "President Donald Trump and his reelection campaign are signaling they will pursue an aggressive legal strategy to try to prevent Pennsylvania from counting mailed ballots that are received in the thre"
+    publishedDateTime: 2020-11-02T17:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-promises-court-fight-over-pennsylvania-absentee-votes/2020/11/02/15caa8ec-1d30-11eb-ad53-4c1fda49907d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-promises-court-fight-over-pennsylvania-absentee-votes/2020/11/02/15caa8ec-1d30-11eb-ad53-4c1fda49907d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-promises-court-fight-over-pennsylvania-absentee-votes/2020/11/02/15caa8ec-1d30-11eb-ad53-4c1fda49907d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Judge Rejects Justice Department’s Bid To Shield Trump From Carroll Lawsuit"
     excerpt: "The DOJ said Trump denied the rape allegations as an official part of his job, a U.S. District Judge disagreed."
     publishedDateTime: 2020-10-27T16:39:00Z

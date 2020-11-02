@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B22U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B22U"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -109,6 +109,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden Campaigns in Cleveland"
+    excerpt: "Democratic presidential candidate Joe Biden campaigns in Cleveland on the eve of Election Day. It starts off a last day of campaigning that stretches from Cleveland to Pittsburgh, aimed at shoring up support from Rust Belt voters."
+    publishedDateTime: 2020-11-02T18:29:00Z
+    webUrl: "https://www.c-span.org/event/?477702/c2020-joe-biden-campaigns-cleveland"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "q4pZbBm9n6f8hXB9H5aHj6enUqhy+A/tEScKej/d0TeJ62BYH7C+IkDBIBSq2plbIP6RG4H+5hNGp3rjgYbNqCkXgzl8llf5VinF4saL0Gk6GUM4+N17aXdswmDy4AB5t61YG1mCaNopd6uWyRhrx9nOBUKgNN0nEt0O/JCwPmBMOnFfF60nBN0jtAVyaxljryP+1Nhcg3u/s6hoFUcbk5Er2K55Y/RYHql9AU1v89pq2F4Awd2jeNMwRrMdFwS44ruJu4KAFgCQsxIif1WArAf+f+2skDMpDl+gdEGuxMltyXuu0SAG2Ip0DmMRm7twQHwTOem4dsBdYeRSUhbA78/tIQyW2GpngTy9J0XyoZC+82Z1uWbdZzzXa6LqslwTgE4P2uwLggDlrcL/Sl3j0iZnZq5Vd3/Ccx0j6DtQy5TmS8JxDbuvjJ+j9SnUkkJNDkR6F9bkN1U6NOqhsy6JvpZItETz7Tr73Y0x01oABlhdqp7GOLWO1/AzKahWWieWULjh1qMAS6J5VMjlylnIrA==;vBg+2ePhWmdYx0e1axdATw=="
 ---

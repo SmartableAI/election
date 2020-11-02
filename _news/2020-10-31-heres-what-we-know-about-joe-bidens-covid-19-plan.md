@@ -126,6 +126,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden Holds Canvas Kick Off Event Near Pittsburgh"
+    excerpt: "T14:40:00-05:00 Democratic presidential candidate Joe Biden speaks at a canvas kick off event for campaign volunteers working in the suburbs northwest of Pittsburgh. 2020 Democratic presidential candidate Joe Biden speaks at a canvas kick off event for campaign volunteers working in the suburbs northwest of Pittsburgh."
+    publishedDateTime: 2020-11-02T18:48:00Z
+    webUrl: "https://www.c-span.org/video/?477703-1/joe-biden-holds-canvas-kick-event-pittsburgh"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "a/WsKP4v3LW2C00gypZlDVW3eMnp2f3+UvFOeaebEL2QV7Crujsq1d4mRWDeJ7439wvyY0cssL0B3yvmzybBWr3aLRCFj0iD9B2QxXxe1GTVfSdTta/2jIf1z0UvvC1rcDHYJGeGi8qut7PHSczp89tkiWiJVHObsa1/WBhVpsg5sIjKIBIFerDj4EM0jGK6ZWEcox6bbCgzEwuBAksnPZUVTiIjGWzudJmAiZ3KBiy1JXvq2yAjNBaMpFhq1+EEi2b11YHFq+ZbRGxt67WFWOMxa7BoxX1/h3+VQFWy5oZWKt/hIiorZiBfLNBbIGndY+l1wGn+M0xmHlmGglTo1dZA2kW0LTBkZQQgiPvuSP59xAmBpuP67prpHum/dSu+igV4bN+corY+korQZF0M/zRZWOeKBgwHv2MvHfAU2AQNRM4oh+tpxc66n31+utsdMZr2hDSkswsDjh9Psu8TZUbck0jv3GL00D8WgNgFwPNe0o73ksXlTrbEDNNxb1HPgfQFLWBD8PaoqT+R02Ji1w==;cbGZrBxdXnITo9Glr+qsSQ=="
 ---

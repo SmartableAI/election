@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
+    excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
+    publishedDateTime: 2020-11-02T17:07:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vMQcrWQeZ3s/twitter-doctored-video-biden-minnesota-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304801129214.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Twitter CEO Dorsey pressed by Cruz on restricting Hunter Biden stories: 'Who the hell elected you?'"
     excerpt: "Sen. Ted Cruz, R-Texas, ripped into Twitter CEO Jack Dorsey, accusing him and his social media platform of improperly censoring reporting from the New York Post that reflected poorly on Joe Biden, despite not acting consistently regarding stories about President Trump."
     publishedDateTime: 2020-10-28T16:27:20Z
@@ -76,6 +92,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be276ed1-e6a3-4a5a-933b-707157d6ae65/651c60c4-05f1-4959-8be6-3f5ba1ed74b6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
+    excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
+    publishedDateTime: 2020-11-02T17:12:00Z
+    webUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304801129214.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "yFy2g5ymydRVbj6FnyEiV7MWDZK03G7J3CwsNIRhOztZbZdXFmmUVqXSMD9++J91QvhnTAj36POgGElIswbr+FB4jK6tCn5xDgfeJ/VLgJMBof6D1H8mZA9KHviRrwhdVtZBjgOrMY/fcOmXWiQPgvTtnIFJC55goS8JQHNhLT6kR+NDWD8+I1DBTjOWc4No9UwSJnNShdh7BmJFyKoCYt7BgUepddtx1gcTO0zNB8DdgPJ+Qkg6s0b3Kun8488hQzUxQnnRJGfJm7f59p10O94dM0ooPtctANNcJ51kLodLblBiroSPYQBYDYsBwufxiz+lByGjeLXRPBIVFXYbkv1s8N/ZFlXDiW+xExGhC8E=;OD8dRupyCueGurn6FCuqug=="

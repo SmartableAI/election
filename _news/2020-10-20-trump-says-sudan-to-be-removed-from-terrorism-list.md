@@ -1543,6 +1543,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "FBI investigating after Trump supporters surround Biden campaign bus in Texas"
+    excerpt: "The FBI said Sunday that its San Antonio office is investigating an incident after video was taken of a caravan of Trump supporters surrounding and then following a Biden campaign bus on Friday. President Trump retweeted part of the video Saturday night,"
+    publishedDateTime: 2020-11-02T16:40:00Z
+    webUrl: "https://www.cbsnews.com/news/fbi-launches-investigation-biden-bus-incident-texas-trump-supporters/?intcid=CNI-00-10aaa3b"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/fbi-launches-investigation-biden-bus-incident-texas-trump-supporters/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fbi-launches-investigation-biden-bus-incident-texas-trump-supporters/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 137
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/9682c5c5-8516-4711-8fe6-aaed679da6c7/thumbnail/1200x630/42054f8128ca8b6b1f39b5d553da107b/trump-biden-bus-texas.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "For Trump and Biden, debate fuels allegations of improper family foreign deals"
     excerpt: "President Donald Trump leveled new attacks at the son of former Vice President Joe Biden at Thursday night’s debate."
     publishedDateTime: 2020-10-23T03:34:00Z
@@ -3663,6 +3679,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "President Trump and Joe Biden hit key states in final campaign stops"
+    excerpt: "Both presidential candidates are filling their schedules with campaign stops in key states Monday. CBS News' Skyler Henry joins CBSN with the latest."
+    publishedDateTime: 2020-11-02T18:17:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-joe-biden-final-campaign-stops-election-2020/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/02/9324fd7a-c005-46c3-a9a5-43110de77ce1/thumbnail/1200x630/b9ac906eecc859dea52f0bcd6fc2b2e1/cbsn-fusion-president-trump-joe-biden-final-campaign-stops-election-2020-thumbnail-578989-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump, Biden focus on battleground states in campaign's final sprint"
     excerpt: "With early voter turnout setting a record and U.S. business districts boarding up for fear of Election Day unrest, President Donald Trump and his rival Joe Biden stumped on the campaign's last day on Monday in states expected to decide who wins."
     publishedDateTime: 2020-11-02T16:56:00Z
@@ -3676,6 +3706,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20201102&t=2&i=1539662237&r=LYNXMPEGA10PN&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Trump & Biden make final campaign blitz"
+    excerpt: "Watch \"President Trump & Joe Biden make final campaign blitz\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-02T18:12:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201102175930-president-trump-joe-biden-make-final-campaign-blitz/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/02/story_07510325_1604340245.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
@@ -5118,6 +5162,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "Donald Trump will try to defend Iowa as Joe Biden looks to widen his White House path"
+    excerpt: "Will Iowa stay Republican in the presidential race or will Democrats make it blue? Donald Trump won Iowa by 9.4 percentage points in 2016."
+    publishedDateTime: 2020-11-02T18:20:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/11/02/iowa-presidential-election-results-donald-trump-hopes-keep-iowa-red-joe-biden/5997483002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5997483002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5997483002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "If Trump loses the election — experts worry that’s when things could get really ‘weird’"
     excerpt: "As a Joe Biden election win appears increasingly likely, many in Washington, D.C., are beginning to wonder what will happen between Nov. 3 and Jan. 20. Even if President Donald Trump calmly accepts an election loss,"

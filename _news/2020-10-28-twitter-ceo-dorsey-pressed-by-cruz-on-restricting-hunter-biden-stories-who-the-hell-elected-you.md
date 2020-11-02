@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
+    excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
+    publishedDateTime: 2020-11-02T17:07:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vMQcrWQeZ3s/twitter-doctored-video-biden-minnesota-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304801129214.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Cook Political Report editor: Time to 'sound the alarm' on Biden's likely victory"
     excerpt: "Dave Wasserman, US House editor for Cook Political Report, said Tuesday it's time to \"sound the alarm\" that Joe Biden is likely to be the next President of the United States. "
     publishedDateTime: 2020-10-28T02:02:38Z
@@ -76,6 +92,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be276ed1-e6a3-4a5a-933b-707157d6ae65/651c60c4-05f1-4959-8be6-3f5ba1ed74b6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
+    excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
+    publishedDateTime: 2020-11-02T17:12:00Z
+    webUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304801129214.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "tn01FlkZ0NYIRSAcC6F0nZTmlwhOMTBdqEaBKVNJ4N87USWUadfGkdeYmR8w2ubyrHH28TSKBzU/aM7hQXNw53o/NQBesQpt66tHdcRsgAUX9HtRGb273cjgqsTQ2afrnejxykPJ+iNMsnOqCCcBHdgmZ6E52K5A6rEah+VUwjTkkJHeym43uHYGBFpoBNFXbhbu3YWxBZ75VFMkm7v2rv347lr1yK7n0Nwb7aZ2aQ/FAwTS8BCrl81hVqnIAGhFtRjDbS6TBGLphx72A0uV98siREynGWdAFC+MQ8pT9iJsUe07Aecuh3pwD7YPV0Papv24e3M6mB53vm/taQ5XDF5+mbo0j3B0MdC5M2DxG0M=;IJu5D9cWeekWXMOuL5tmDQ=="

@@ -1060,6 +1060,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris tells Pennsylvania she's not going to talk about 'the other guy'"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris told supporters in Pennsylvania on Monday that she doesn’t want to talk about “the other guy” — President Trump — on the eve of Election Day."
+    publishedDateTime: 2020-11-02T17:59:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 71
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/01/Election_2020_Harris_92292.jpg-db0cf_c0-367-2978-2104_s1200x700.jpg?506e630bb31220cec079d3cb67e7d8cd1005e4b9"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris praises 'late, great' John McCain for thumbs down on health care bill"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris praised the late Sen. John McCain of Arizona for helping sink a GOP health care bill in 2017 at a campaign stop in North Carolina on Wednesday."
     publishedDateTime: 2020-10-22T00:49:00Z
@@ -1580,6 +1596,24 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Kamala Harris rallies Miami Dems in final early voting weekend"
+    excerpt: "Dade waited for Sen. Kamala Harris to speak at Florida International University’s South Campus in west Miami-Dade Saturday and rally voters."
+    publishedDateTime: 2020-10-31T21:01:00Z
+    webUrl: "https://www.miamiherald.com/news/local/article246865672.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 35
+  - title: "Senator Kamala Harris Remarks to Reporters in Pennsylvania"
+    excerpt: "Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign. Democratic Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign."
+    publishedDateTime: 2020-11-02T18:30:00Z
+    webUrl: "https://www.c-span.org/event/?477707/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Senator Kamala Harris and Doug Emhoff Hold Drive-In Rally in Philadelphia"
     excerpt: "Kamala Harris (D-CA) is joined by her husband, Doug Emhoff, and singer John Legend at a drive-in campaign rally in Philadelphia. It’s the third and final event on the eve of Election Day. 2020 vice presidential candidate Sen."
     publishedDateTime: 2020-11-02T11:28:00Z
@@ -1607,6 +1641,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 32
+  - title: "John Legend Joins Senator Kamala Harris and Doug Emhoff at Philadelphia Rally"
+    excerpt: "Kamala Harris (D-CA) is joined by her husband, Doug Emhoff, and singer John Legend at a drive-in campaign rally in Philadelphia. It’s the third and final event on the eve of Election Day. 2020 Democratic vice presidential candidate Sen."
+    publishedDateTime: 2020-11-02T18:26:00Z
+    webUrl: "https://www.c-span.org/video/?477692-1/john-legend-joins-senator-kamala-harris-doug-emhoff-philadelphia-rally"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 32
   - title: "Senator Kamala Harris Holds Canvass Kick Off Event in Luzerne County, Pennsylvania"
     excerpt: "Senator Kamala Harris (D-CA) campaigned in Reno, Nevada, one week ahead of Election… Democratic vice presidential nominee Senator Kamala Harris (D-CA) spoke at a Biden campaign event in Las Vegas, Nevada."
     publishedDateTime: 2020-11-02T14:49:00Z
@@ -1617,6 +1660,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "ujp7YGkokeHdCLEYjfsgQjLJVQAWbFn19loJA/tkFQTN+xageX9tQWXLnOs4Ewh293fIuQ/Mg3oyWth5BB4OK882c/rpYSOn2NT4PX8R1836Co45cOYT1XS3m6OAXpWa6IaqYTbDxsVmwE/Dwnhmq+pNQhCq/oqJz4FmYHndkPPbVZ6K7lxrjC4H/AEFAs4jyS0RPVKcAzKJTgeTgp3uP1h8ZTZ+GHY5kX1wRAJ4ubd0pMHsu9Kx1eLC3Pt+FbQppn02FUlexa9RFVPFUvx8WfmTZNzEgsYS/qTrWnl/hO+1MPv8DE0FVuIL2DrZjvTRp3MYI/jZr20JlA0rI3IKfYQk3z9h1lIIRkHrSCzvsGE=;1UZxanoXq0IA/mjr5dVQZQ=="
+secured: "TeTUMGZhfi5TbZ5WDX3tLvCGSBsDHDtnS2mq2rjgXonA2NwlfAg35anvMpECPajwFS5A38NEJuY54b2EOX4Rbb5TUAO8WZal6yrVX2Tpdd1eij6yfa/78pDN37VgBQU3+eYZOorek6S/dlHfB5CSUEPphk017ghSCXPbnIo+A+0ZAhTbgv4qsKdrg2Vo/ARKMuq+Td6UPOFSA/y7fPPjkAGVsuQf0aka0H0zns8jIZIT2QUg4xtfOl934ynFXdvOqQEpeWjqeaPBcaWzdsemWW6SwymXESGpqUhRilhv58PKZy8Q42pXjfuaIi5oyO53IzwIsJGAG7Fo6tKFexwGWTQ8U9FOx6LU9Z+7UJ1s2/e0XtU+9V0UYH3gmiqcHrNQKIsli98IInav4TG9h9NsU1cwpA00fe8PioMuMylUYfanVjsnLg1LWt34fXe1T4Tfv0ymManokCKrQ4QGywZR+CYrtfBnPe/X+u+tASwaZ6f81yf6zsBnJdNnXiFidMVHoP3rnD6KV8Lp6DKV56xaRA==;7/qZiR3RHzOIV7DR1zjntw=="
 ---
 

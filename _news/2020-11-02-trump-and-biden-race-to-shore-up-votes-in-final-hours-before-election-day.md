@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 2424
+heat: 2464
 published: true
 
 provider:
@@ -815,6 +815,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Viral photo of Biden on a plane without a mask is from before the pandemic"
+    excerpt: "On Sunday, Richard Grenell, President Donald Trump's former ambassador to Germany and former acting director of national intelligence, tweeted two photos side by side: one of former Vice President Joe Biden standing on an airplane without a mask and one of Biden standing outdoors while wearing a mask.\n"
+    publishedDateTime: 2020-11-02T17:09:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LoHkKq-I0E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/biden-photo-on-plane-no-face-mask/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/biden-photo-on-plane-no-face-mask/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200826220342-25-rnc-wednesday-offset-grenell-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden looks to seal election after Trump's week from hell"
     excerpt: "Joe Biden is on the campaign trail. Donald Trump is in the hospital. In a role reversal, the president who mocked his rival for being weak and hiding “in his basement” is stuck in isolation under doctors’ supervision while Biden jets off to states like Michigan on Friday and Florida on Monday,"
     publishedDateTime: 2020-10-03T23:40:00Z
@@ -1198,6 +1214,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/01/us/politics/01two-parties-1/merlin_179349807_7cde116d-e285-4b0c-9130-76d66bd3a306-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Biden campaign pushes back on Trump 'Super Predator' tweet"
+    excerpt: "Michigan, Iowa, North Carolina, Georgia, and Florida — while Biden will hold two events in Philadelphia. Donald Trump is expected to hold his election night celebration at his Trump International hotel in Washington,"
+    publishedDateTime: 2020-11-02T17:38:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-01-trump-biden-election-n1245634/ncrd1245684"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245634"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245634"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Sick of getting texts from the Biden or Trump campaigns? You're not alone"
     excerpt: "The campaigns of President Donald Trump and the Democratic presidential nominee Joe Biden didn’t respond to requests for comment on their texting strategies or on consumer complaints, which in recent days have been common on social media. Lindsay said ..."

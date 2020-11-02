@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -127,6 +127,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden Holds Canvas Kick Off Event Near Pittsburgh"
+    excerpt: "T14:40:00-05:00 Democratic presidential candidate Joe Biden speaks at a canvas kick off event for campaign volunteers working in the suburbs northwest of Pittsburgh. 2020 Democratic presidential candidate Joe Biden speaks at a canvas kick off event for campaign volunteers working in the suburbs northwest of Pittsburgh."
+    publishedDateTime: 2020-11-02T18:48:00Z
+    webUrl: "https://www.c-span.org/video/?477703-1/joe-biden-holds-canvas-kick-event-pittsburgh"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "PfzsU2xHogGW1i22G2vSmTpVKXKQXJPXc0CXAP1Cko6g6I4ZVtxnoMCB+QU0EO+7kED0N4QDbn7B+d3mrLuIA+nWy63CAaZzHcFlYD2z55YgJyooavJgXQLjIXAd4IK5sigOH8/Tp0FoM55TsI6rFlIUCr1jAqQ8zBgcfpNvGCrsgtAPYALRRzr/cQOp+ecawIZEag31TzPQoxCA9HoKBanq1u8HCgvDllvK3HwZosU4GobFxTvI7PvVjfmEXvt2LM5QB9fECjUNXYOGzvu2aA8ixP4XplMmw2z3s4EHj6E2c6E3CV1bgCHJOBDOP4YmKlIZt59H/cOjAu1vUL757cQDsSYXIEyX0d3KYbXYHNU=;RBRe2nCKr1hGzEEtvlSqJw=="
 ---

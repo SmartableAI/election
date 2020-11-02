@@ -1056,6 +1056,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris tells Pennsylvania she's not going to talk about 'the other guy'"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris told supporters in Pennsylvania on Monday that she doesn’t want to talk about “the other guy” — President Trump — on the eve of Election Day."
+    publishedDateTime: 2020-11-02T17:59:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 71
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/01/Election_2020_Harris_92292.jpg-db0cf_c0-367-2978-2104_s1200x700.jpg?506e630bb31220cec079d3cb67e7d8cd1005e4b9"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris praises 'late, great' John McCain for thumbs down on health care bill"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris praised the late Sen. John McCain of Arizona for helping sink a GOP health care bill in 2017 at a campaign stop in North Carolina on Wednesday."
     publishedDateTime: 2020-10-22T00:49:00Z
@@ -1579,6 +1595,24 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Kamala Harris rallies Miami Dems in final early voting weekend"
+    excerpt: "Dade waited for Sen. Kamala Harris to speak at Florida International University’s South Campus in west Miami-Dade Saturday and rally voters."
+    publishedDateTime: 2020-10-31T21:01:00Z
+    webUrl: "https://www.miamiherald.com/news/local/article246865672.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 35
+  - title: "Senator Kamala Harris Remarks to Reporters in Pennsylvania"
+    excerpt: "Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign. Democratic Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign."
+    publishedDateTime: 2020-11-02T18:30:00Z
+    webUrl: "https://www.c-span.org/event/?477707/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Senator Kamala Harris and Doug Emhoff Hold Drive-In Rally in Philadelphia"
     excerpt: "Kamala Harris (D-CA) is joined by her husband, Doug Emhoff, and singer John Legend at a drive-in campaign rally in Philadelphia. It’s the third and final event on the eve of Election Day. 2020 vice presidential candidate Sen."
     publishedDateTime: 2020-11-02T11:28:00Z
@@ -1601,6 +1635,15 @@ related:
     excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to students at Spelman College in Atlanta, Georgia. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
     publishedDateTime: 2020-10-23T19:04:00Z
     webUrl: "https://www.c-span.org/video/?477326-1/senator-kamala-harris-remarks-spelman-college-students-atlanta-georgia"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 32
+  - title: "John Legend Joins Senator Kamala Harris and Doug Emhoff at Philadelphia Rally"
+    excerpt: "Kamala Harris (D-CA) is joined by her husband, Doug Emhoff, and singer John Legend at a drive-in campaign rally in Philadelphia. It’s the third and final event on the eve of Election Day. 2020 Democratic vice presidential candidate Sen."
+    publishedDateTime: 2020-11-02T18:26:00Z
+    webUrl: "https://www.c-span.org/video/?477692-1/john-legend-joins-senator-kamala-harris-doug-emhoff-philadelphia-rally"
     type: article
     provider:
       name: C-SPAN

@@ -33,15 +33,15 @@ images:
 related:
   - title: "Sanders tells 'Squad' of need to push Biden to be 'most progressive president since FDR'"
     excerpt: "Sen. Bernie Sanders, I-Vt., said in an interview that left-wing lawmakers and supporters need to push Democratic nominee Joe Biden to be the “most progressive president” since President Franklin Delano Roosevelt."
-    publishedDateTime: 2020-11-02T15:14:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1oGzh_-xFtE/sanders-squad-interview-biden-progressive-push"
+    publishedDateTime: 2020-11-02T15:18:00Z
+    webUrl: "https://www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push"
     ampWebUrl: "https://www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 126
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e29b2d3a-56bb-4140-af21-49ebcecc0ad8/a48331e4-06b1-4626-a48a-ce62b0bd0f04/1280x720/match/image.jpg"
         width: 1280

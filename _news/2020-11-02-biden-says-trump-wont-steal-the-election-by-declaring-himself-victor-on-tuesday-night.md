@@ -287,6 +287,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "The closing strategy: A look at Biden and Trump's day of campaigning before the election"
+    excerpt: "It’s the biggest battleground map in recent presidential elections – with roughly 12 swing states up for grabs on the eve of the 2020 election. But in final hours before Election Day, some battleground states are grabbing more attention than others. And a look at the closing stops by President Trump"
+    publishedDateTime: 2020-11-02T17:41:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rHILXkwb4GA/biden-trump-day-before-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-day-before-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-day-before-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 196
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306837543880.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Live Updates: Trump, Biden ramp up personal attacks on campaign trail as Election Day draws near"
     excerpt: "With less than two days until Election Day, President Trump and his Democratic opponent Joe Biden honed in on more pointed, personal attacks on each other in the lead-up to one of the most divisive elections in U.S. history."
     publishedDateTime: 2020-11-02T04:17:46Z
@@ -302,6 +318,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d334b5c-f30e-4ae8-86a8-55791119d24c/ce3f607c-3472-47bf-9211-aa6a55c75a42/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden, campaigning in battlegrounds on eve of election, says it's time for Trump to 'pack his bags'"
+    excerpt: "Kicking off his final day of campaigning ahead of Election Day in battleground Ohio, Joe Biden took aim at Donald Trump’s handling of the coronavirus pandemic and stressed that it was time for the president “to back his bags and go home.”"
+    publishedDateTime: 2020-11-02T18:52:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z54dBp3SIh8/biden-election-eve-campaign-event-ohio-trump-pack-his-bags"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-election-eve-campaign-event-ohio-trump-pack-his-bags.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-election-eve-campaign-event-ohio-trump-pack-his-bags.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 191
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump tells Arizona rally Biden’s lucky Barr hasn’t locked him up"
     excerpt: ""
@@ -1135,6 +1167,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump defends Texas drivers who surrounded Biden bus, sees car rallies in NY, NJ"
+    excerpt: "Trump has seen truck and car rallies across the country, with several events across New York and New Jersey, as well as in Minnesota and Iowa."
+    publishedDateTime: 2020-11-02T18:52:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/InJCMF-Mp8M/trump-defends-texas-drivers-who-surrounded-biden-bus-sees-car-rallies-in-ny-nj"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-defends-texas-drivers-who-surrounded-biden-bus-sees-car-rallies-in-ny-nj.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-defends-texas-drivers-who-surrounded-biden-bus-sees-car-rallies-in-ny-nj.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/500ff96e-0762-4e60-bff0-2d2c387eef19/6060f3c0-29b9-46db-ac4e-17d3e61de624/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump to rally supporters in North Carolina amid final sprint before Election Day"
     excerpt: "President Trump on Monday is hitting the campaign trail, speaking to supporters in North Carolina amid a final push through swing states by the president ahead of Election Day."
     publishedDateTime: 2020-11-02T16:34:47Z
@@ -1678,6 +1726,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20269007676054-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump to host rally in Scranton, Pa., second of five events in final swing-state push ahead of Election Day"
+    excerpt: "President Trump is holding his second of five rallies in the final day before Election Day in Scranton, Pa., the birthplace of his Democratic opponent."
+    publishedDateTime: 2020-11-02T18:55:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_tHpsvEIzZs/trump-rallies-pennsylvania-michigan-wisconsin-swing-state-push"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rallies-pennsylvania-michigan-wisconsin-swing-state-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rallies-pennsylvania-michigan-wisconsin-swing-state-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed9004cb-237f-49ca-a073-54fda4c78abc/8678acc0-7899-4e79-9bf7-801a3b9e2330/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden says he’s ‘not overconfident’ but predicts victories in key battlegrounds"
     excerpt: "With eight days to go until Election Day on Nov. 3, Democratic presidential nominee Joe Biden is confident he’ll win a trio of crucial swing states that President Trump flipped from blue to red four years ago."

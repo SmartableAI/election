@@ -2,13 +2,13 @@
 category: news
 title: "Sanders tells 'Squad' of need to push Biden to be 'most progressive president since FDR'"
 excerpt: "Sen. Bernie Sanders, I-Vt., said in an interview that left-wing lawmakers and supporters need to push Democratic nominee Joe Biden to be the “most progressive president” since President Franklin Delano Roosevelt."
-publishedDateTime: 2020-11-02T15:14:37Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1oGzh_-xFtE/sanders-squad-interview-biden-progressive-push"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1oGzh_-xFtE/sanders-squad-interview-biden-progressive-push"
+publishedDateTime: 2020-11-02T15:18:00Z
+originalUrl: "https://www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push"
+webUrl: "https://www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push"
 ampWebUrl: "https://www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push.amp"
 type: article
-quality: 166
+quality: 126
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -48,6 +49,6 @@ related:
         height: 720
         isCached: true
 
-secured: "rx3rOPdpX6LIiHB2OTioNDX9uZ2Ej75V4d2ADLz14tD7h4V4jBARcA4W+PDoNsftPbIdNpj0hLSMCMLgtRBNoduHYJDSr9yIYxX1kGjKDXtrT3xnlof75wdyoOa96hb30ygq19iPedVpCaexrfWNT6W94KB72MX+3h//1YqXMWdBkjRVL2AwX/RRCt6rsiQ0LxPC+qZAHt2sniqKDDcRQjalNZS+D/T1aXXZDNKhwoBbct42hA1eVpAV3Ufltz8/MtFdhuJ6/6+QPzPsMGIm2SprM9yYaZgctRB+smz8a9eEpUvgxodbWlO5bDYbO1tmQtezM6JzsqqYb+RUdlBRja0dX67zW42VoGpdNMSYLy0=;xMihSItQbrifd7jJwA1PZQ=="
+secured: "dDq9S67pQngioxUAkf/xgBqpd5AUfwqc/dzZB0fS75cwjcHaHOrJvdD4RQsCigYzGtzOlLgxJJQXXofoGSDewt6Dqj+W4aj6EroSecV55JMXv+MPx7/uJ8OAAB0xP9ieIv42d5HeUTyIZE0n3xByV7p7e57ow8Wl5WiZ0UcyKyt9RW9LaJH0+NtiSIW6nL0lhuXfWDLKkVE2QGN1qN0wZRHMk2LMCLSWzFa7tFuJzwI/L6GBdN6bN49QEjKv569Jc2keTYnSox737K12qr6KQNwOc83zKBgJNe7TZO3r4arMmg/IJvbbz91F3IKLXNsYxz7dWreCQi7PouDk0xvQbFH+Oj+dMlLjhS1PNGF/u/M=;yBgRU+PzfC0kVvd1iKj83g=="
 ---
 
