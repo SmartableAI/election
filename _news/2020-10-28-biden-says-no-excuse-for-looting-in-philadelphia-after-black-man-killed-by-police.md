@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-lo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
 type: article
 quality: 169
-heat: 189
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,54 @@ images:
     isCached: true
 
 related:
+  - title: "Trump: Philadelphia police shooting a 'terrible event,' but rioting comes from group Joe Biden 'supports'"
+    excerpt: "President Trump called on Democrats in Philadelphia to crack down on recent rioting, and blamed Joe Biden for not condemning the unrest strongly enough. "
+    publishedDateTime: 2020-10-28T19:25:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fRiwxoXz5tY/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3de87600-dbcb-4a99-96cb-260adff5cd13/76b665ff-3f3c-446c-a671-d8b9ba729f56/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Philadelphia DA threatens Trump over president's call for poll watchers: 'I've got something for you'"
+    excerpt: "Philadelphia’s district attorney on Wednesday threatened President Donald Trump if he sent “uncertified” poll watchers to the city, telling him in a statement, “I’ve got something for you” if any attempts are made to interfere with Election Day activities."
+    publishedDateTime: 2020-10-28T21:40:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jSgKdGVYci0/philadelphia-da-threatens-trump-presidents-call-poll-watchers"
+    ampWebUrl: "https://www.foxnews.com/politics/philadelphia-da-threatens-trump-presidents-call-poll-watchers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/philadelphia-da-threatens-trump-presidents-call-poll-watchers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Larry-Krasner-GETTY-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump: Philadelphia police shooting a 'terrible event,' but rioting comes from group Joe Biden 'supports'"
+    excerpt: "President Trump called on Democrats in Philadelphia to crack down on recent rioting, and blamed Joe Biden for not condemning the unrest strongly enough."
+    publishedDateTime: 2020-10-29T04:38:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3de87600-dbcb-4a99-96cb-260adff5cd13/76b665ff-3f3c-446c-a671-d8b9ba729f56/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says 'no excuse' for looting in Philadelphia after Black man killed by police"
     excerpt: "Democratic presidential nominee Joe Biden says there’s “no excuse whatsoever” for the ongoing looting and violence in Philadelphia."
     publishedDateTime: 2020-10-28T18:57:00Z
@@ -47,6 +95,33 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Philadelphia DA threatens Trump over president's call for poll watchers: 'I've got something for you'"
+    excerpt: "Philadelphia’s district attorney on Wednesday threatened President Donald Trump if he sent “uncertified” poll watchers to the city, telling him in a statement, “I’ve got something for you” if any attempts are made to interfere with Election Day activities."
+    publishedDateTime: 2020-10-28T21:43:00Z
+    webUrl: "https://www.foxnews.com/politics/philadelphia-da-threatens-trump-presidents-call-poll-watchers"
+    ampWebUrl: "https://www.foxnews.com/politics/philadelphia-da-threatens-trump-presidents-call-poll-watchers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/philadelphia-da-threatens-trump-presidents-call-poll-watchers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Larry-Krasner-GETTY-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Philadelphia-area Biden supporters confident they'll make the difference for him in Pennsylvania"
+    excerpt: "The path to the White House for Joe Biden could run through the suburbs of Philadelphia. While there's little doubt that the former vice president will win the liberal suburbs of Bucks, Chester, Delaware,"
+    publishedDateTime: 2020-10-21T19:07:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 52
 
 secured: "QWg4t1OP6AS+eEK0UdcC0H5ECvv1S7S0oE3EvzAcm+zV/n+NLfbKmsu8XZIUT2gH0TPhuiuIPHfxYFyIduxZfkn+v58n7zQdLTquuC1P4lR/TM3Vi/jrUL0TfRKLyUcOe9u2K48ejrE1yOVdv8QHykQDBqoodPE4cT/1Pqvy8/TUTx8AKa5oFEpyZJaof/RaSb8/LS2oV9/YkLSoAJG5n7xQDRrkNrEJgKaN3UIj7OTzKEBnZn3NBHeoZuX28rvaOh/TAB4nOOqdmFzo4ks/egvCjpZ4UsRRTZsWxnOyQaimbh5IrTTUQBT/TqZXafYHEP1WSnibTVwjM5u/NgQ4z1gVgaiGIoTs4uOsEi6ovNs=;YKSKnMvl95UJ9y4kvsrVmw=="
 ---

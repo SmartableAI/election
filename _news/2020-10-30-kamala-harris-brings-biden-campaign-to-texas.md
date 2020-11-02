@@ -492,6 +492,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris to visit Detroit on Election Day"
+    excerpt: "Democratic vice presidential candidate Kamala Harris will visit Detroit during a final campaign swing through Michigan on Election Day. Harris is returning to Michigan, a key battleground state, a day after President Donald Trump scheduled rallies in Traverse City and Grand Rapids."
+    publishedDateTime: 2020-11-02T19:53:00Z
+    webUrl: "https://www.mlive.com/politics/2020/11/kamala-harris-to-visit-detroit-on-election-day.html"
+    ampWebUrl: "https://www.mlive.com/politics/2020/11/kamala-harris-to-visit-detroit-on-election-day.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/11/kamala-harris-to-visit-detroit-on-election-day.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AL5A4GXEBBGFZMPEYLQBHCESRU.JPG"
+        width: 1300
+        height: 900
+        isCached: true
   - title: "Kamala Harris knocks Trump multiple times for questioning Obama's birthplace"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris knocked President Trump multiple times on Friday for questioning whether former President Barack Obama was born in the United States."
     publishedDateTime: 2020-10-23T22:53:00Z
@@ -1385,6 +1401,22 @@ related:
         width: 1200
         height: 786
         isCached: true
+  - title: "‘Everything is at stake,’ Democratic VP candidate Kamala Harris tells supporters at Lehigh Valley drive-in rally"
+    excerpt: "Democratic vice presidential nominee Kamala Harris vowed Monday in Northampton County that she and Joe Biden would unite a polarized country, expand healthcare access and invest in working families if Pennsylvania voters help oust Donald Trump on Tuesday."
+    publishedDateTime: 2020-11-02T21:32:00Z
+    webUrl: "https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-presidential-election-kamala-harris-visit-dutch-springs-20201102-mk7ale6pknbafl5rsflqdrjtgi-story.html"
+    ampWebUrl: "https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-presidential-election-kamala-harris-visit-dutch-springs-20201102-mk7ale6pknbafl5rsflqdrjtgi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-presidential-election-kamala-harris-visit-dutch-springs-20201102-mk7ale6pknbafl5rsflqdrjtgi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 54
+    images:
+      - url: "https://www.mcall.com/resizer/ACiznIAwCTe5XlglrC6t_OWTMPs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q2NPYQZO6NBWNNODONLOG3ZS5Y.JPG"
+        width: 1200
+        height: 836
+        isCached: true
   - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
     excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."
     publishedDateTime: 2020-10-20T09:49:00Z
@@ -1650,6 +1682,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 32
+  - title: "Senator Kamala Harris Holds Canvas Kick Off Event in Luzerne County, Pennsylvania"
+    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County, Pennsylvania. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County,"
+    publishedDateTime: 2020-11-02T17:36:00Z
+    webUrl: "https://www.c-span.org/video/?477690-1/senator-kamala-harris-holds-canvas-kick-event-luzerne-county-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 30
   - title: "Senator Kamala Harris Holds Canvass Kick Off Event in Luzerne County, Pennsylvania"
     excerpt: "Senator Kamala Harris (D-CA) campaigned in Reno, Nevada, one week ahead of Election… Democratic vice presidential nominee Senator Kamala Harris (D-CA) spoke at a Biden campaign event in Las Vegas, Nevada."
     publishedDateTime: 2020-11-02T14:49:00Z

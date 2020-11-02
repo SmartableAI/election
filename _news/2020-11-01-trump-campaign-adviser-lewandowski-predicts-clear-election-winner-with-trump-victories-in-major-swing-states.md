@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Caravan Participants Who Blocked New Jersey Highway Face Possible Citations"
+    excerpt: "A caravan of President Trump supporters could be issued summonses for obstructing traffic on the Garden State Parkway on Sunday, New Jersey State Police officials said."
+    publishedDateTime: 2020-11-02T22:51:00Z
+    webUrl: "https://www.wsj.com/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-253655/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "d9bLfLeYrJglsfoXZkFtUhT0FNSfS3lMJESu56RMA30QMISIYYsD0w0MWRmP3SuUx98K6REaqbAXk60dYurLRtbQ/MXlLSENk1ZqyOPrnF53GLGncsxLBFdRxjJoqs5BeUL7R1K3696+654LzPn2hXm8suIyzDzgEqCuzuBVAYE/N6IrFq66DM6swoORIzhQuiuyZWrdNv9U1nts5wJadyhjoREokV3BRMue/5q2dZ3NZ1kL2eIZdLw8Jd9wwMLurtwdLTXsdtMZgg+6DC7RQfi9jjzhpArZfJjTJay6qROiMCIL14a5TwigPeWN5nDfm5TY7x8qevmYcv//b3L5wWx1A1ONVKEYsA1KKphR6Rg=;PyimrxOLD77aBUQ3UAEiRQ=="
 ---

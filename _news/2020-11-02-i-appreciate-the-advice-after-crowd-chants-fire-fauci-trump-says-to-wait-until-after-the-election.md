@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Can Trump 'Fire Fauci'? Not easily, but he could make it messy"
+    excerpt: "Can President Trump fire Dr. Anthony Fauci as he suggested he might do after the election? Not easily, but he could make it messy."
+    publishedDateTime: 2020-11-02T22:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-fire-fauci-easily-make-messy/story?id=73971488"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-fire-fauci-easily-make-messy/story?id=73971488"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-fire-fauci-easily-make-messy/story?id=73971488"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/fauci-trump-gty-ps-201102_1604346776288_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump’s New Executive Order May Make It Easier To Fire Scientists Like Fauci"
     excerpt: "Trump recently signed an Executive Order creating a Schedule F class of government employee that could have lasting implications even if former Vice-President Joe Biden were to win the upcoming election."
     publishedDateTime: 2020-10-26T08:44:00Z

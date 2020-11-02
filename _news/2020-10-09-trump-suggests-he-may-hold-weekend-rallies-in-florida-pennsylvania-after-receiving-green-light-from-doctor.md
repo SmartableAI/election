@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-weekend-rallies-florida-penns
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp"
 type: article
 quality: 157
-heat: 197
+heat: 177
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
     quality: 155
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump-jr.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Federal judge rejects Trump suit to block ballot drop boxes in Pennsylvania"
-    excerpt: "A federal judge in Pennsylvania rejected a lawsuit from the Trump administration to limit the number of drop boxes in the state for mail-in ballots. "
-    publishedDateTime: 2020-10-11T01:33:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MC1frMzaAB0/federal-judge-rejects-trump-suit-to-block-ballot-drop-boxes-in-pennsylvania"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/PA-Ballot-iStock.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-website-briefly-defa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
 type: article
 quality: 173
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Caravan Participants Who Blocked New Jersey Highway Face Possible Citations"
+    excerpt: "A caravan of President Trump supporters could be issued summonses for obstructing traffic on the Garden State Parkway on Sunday, New Jersey State Police officials said."
+    publishedDateTime: 2020-11-02T22:51:00Z
+    webUrl: "https://www.wsj.com/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-253655/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "iy9N5FgbFfKoOCZFd4KWaDfJ/NGqw/Y403iATZNh3yd2pKVLOfi3vE2i673lFbj75uCDWxy1JvaFpVzJKBGxfsqNoKKQDAYxEgXdSxI1ycMr+q0/E8dEPJC5UvISJW+zxwXueI8GH5nGC3H0npdWFLPDJ2JediQgIZanM1PdHEf5tkBVUQg6BalXEAI+y8sthPgndRYetPkJrCMg6WpiwTpGJzpbIhhqJYMk6NMhk8rM6U9cU8SCLUWltzUSJZu/DmDPQWdfKo+qqlhiCpQw46l2Ryb/mUJfYrMiet/DXmsqEn/n/nx4ITwNIvMPXFR69DQRDxcpaWdB0/jAHbC+QOP5t+nBh5hSEZFHyGUQy58=;HSojHUryWfVbKqyR5qIIxA=="

@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "McEnany: Joe Biden’s comments on oil, fracking will be ‘death knell’ of his campaign"
-    excerpt: "Democratic presidential hopeful Joe Biden \"lost\" Pennsylvania in the election after his comments on banning the oil and fracking industry, White House press secretary Kayleigh McEnany said on Tuesday."
-    publishedDateTime: 2020-10-27T18:16:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RIuiVjo3EW8/mcenany-biden-oil-fracking-comments-campaign"
-    ampWebUrl: "https://www.foxnews.com/politics/mcenany-biden-oil-fracking-comments-campaign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-biden-oil-fracking-comments-campaign.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "'Squad' member Ayanna Pressley to stump for Biden in New Hampshire"
     excerpt: "Rep. Ayanna Pressley, D-Mass., will stump in New Hampshire Thursday for Joe Biden, making her the first “Squad” member to officially campaign for the Democratic nominee. "
     publishedDateTime: 2020-10-27T23:37:08Z

@@ -97,6 +97,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Vice President Mike Pence holds rally for about 300 at Erie International Airport"
+    excerpt: "See video of Vice President Mike Pence, who held a rally for about 300 at North Coast Air section at Erie International Airport in Millcreek Township."
+    publishedDateTime: 2020-11-02T21:58:00Z
+    webUrl: "https://www.goerie.com/videos/news/politics/elections/2020/11/02/vice-president-mike-pence-holds-rally-300-erie-international-airport/6130489002/"
+    type: article
+    provider:
+      name: Erie Times-News
+      domain: goerie.com
+    quality: 50
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NETN/c68b1dbd-fdb9-4d00-a567-4fba9bc8dad2-p2Pence110220.jpg?quality=10"
+        width: 3206
+        height: 2220
+        isCached: true
 
 secured: "0FR33omwpt23ZxEMDv0E0PjYvrv2sOF6VsIpnZ45TT0Y4nvDgiehLZ/yl7TF5lKiu79RApI8ygBSvQcRpjqp9gc/9/PWEFAEg1Tqn8Lcrpr+RRX6fxTGw15r0oXi3Km8DAZq8G+dHuDorPQZyuzrnfIlOZNimLqgv5f7OLNgMa0q83krhySth3fetjaZq5wSaJfT3Yq/L0IOPyCVyNmAoQE1v2Mab/kQ/mi7ePfeN6o4wgcMPwthCUJpiiBMdILux0M9GJZUxeUylilcFJ/0aJQZaieJPUyKRcZAl8cUPDs58Q7K0QSDr4euj+o8EQEdw9K4lz35eE2p7ofBvV8je947R/+XbO1pomyR3AQpaAn6HpL2yRvkSIRkuG/yX94QmTiCS5lDrhT4MNsc517YgRNOhHLpPbm06gb15oTL/SAcJJSf4oYCONIBDOzTJuAuI8oM0atiE0ImnLzw6rSXoAqSTA4excPZkWmF5pWYBkEBt++QCebKAvUUBSrADNIBd13rvYKyLZZ/tBHTm8FC9g==;uiqdc0REDylcLgTAqDsp/w=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.amp"
 type: article
 quality: 118
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,19 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Ben Shapiro: I Did Not Vote For Donald Trump In 2016, I Am Voting For Donald Trump In 2020"
-    excerpt: "Wire\" founder Ben Shapiro explains why he is planning to vote for Donald Trump in 2020 despite not voting for him in 2016. \"I was wrong,\" he said. \"But most importantly, Democrats have lost their fucking minds."
-    publishedDateTime: 2020-10-20T11:50:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/20/ben_shapiro_i_did_not_vote_for_donald_trump_in_2016_i_am_voting_for_donald_trump_in_2020.html#!"
+  - title: "Trump continues swing through battleground states with stop in Pennsylvania"
+    excerpt: "With the November election exactly two weeks away, President Trump is continuing his tour of the pivotal battleground states with a campaign stop in Pennsylvania, where he's currently trailing Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-20T11:49:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkEnqKrT4kw/trump-biden-harris-pence-campaign-trail-october-20"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 55
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
     images:
-      - url: "https://assets.realclear.com/images/46/462538.jpg"
-        width: 800
-        height: 599
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44a51563-b1f8-4175-9291-2372bfcfd512/993301a0-09e7-401d-b6b2-8cd86a8d4fe1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pollster who predicted 2016 result says Trump on track to win again with help of 'hidden' support"
+    excerpt: "With two weeks left until Election Day, 35 million Americans having already voted, and most polls showing Joe Biden leading President Trump, Trafalgar Group chief pollster Robert Cahaly told “Hannity” Tuesday the incumbent is likely to be reelected."
+    publishedDateTime: 2020-10-21T03:53:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9GoVbc_gSPQ/robert-cahaly-trafalgar-group-2020-election-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/robert-cahaly-trafalgar-group-2020-election-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/robert-cahaly-trafalgar-group-2020-election-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b3568cb-18e7-4d67-a16b-76fb5ff90b60/5a562e06-b9f3-41fc-b1b1-7004ce012eae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says Pennsylvania plant 'thinking of shutting down,' company responds to 'untrue' claim: report"
+    excerpt: "Democratic presidential nominee Joe Biden during a campaign stop in Pennsylvania over the weekend incorrectly said that a plant in the city was considering closing its doors, prompting the company to issue a response to calm workers' fears, Erie News Now reported Tuesday."
+    publishedDateTime: 2020-10-14T12:50:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7sGq_71w1A/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Federal judge rejects Trump suit to block ballot drop boxes in Pennsylvania"
+    excerpt: "A federal judge in Pennsylvania rejected a lawsuit from the Trump administration to limit the number of drop boxes in the state for mail-in ballots. "
+    publishedDateTime: 2020-10-11T01:33:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MC1frMzaAB0/federal-judge-rejects-trump-suit-to-block-ballot-drop-boxes-in-pennsylvania"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/PA-Ballot-iStock.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "9L0gqxChYrzNmpSd8UtSvjkofULblqccevb2DYlyV/FYOhX3ApMsTCwooCIZHTaurKui7mCnUTAYsFAh5fT6S4LaqRONI5PDvMy6Za0wpq+8UJc7/l3NOX8M/mSKZphuActYjkg9Zcf/UIN5U6bku5YyqeEXPmgMufBe2nxaAH6kvQ1uF5Dj2wYCTJvsL+eCjvUzZ5//7cc9iZFhIFXo/PffEnIJYHDSk5AIpvT1bFOeUMYWLpF+a4ImY6drbjiQRqtCiplRi96NspssazUvDnY/xnzAD5p9+/BRbwasveHoXqx1Fycq1lkA34zhFV8BOd0ayA2a78WqsoB1FbTszoy0o32O1kUph01r8rYOVsA=;W8bnYIy3aKLKDKpstGu16g=="

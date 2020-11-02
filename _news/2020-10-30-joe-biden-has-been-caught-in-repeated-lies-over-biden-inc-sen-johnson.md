@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden campaign touts military support in new TV commercial"
-    excerpt: "EXCLUSIVE: With five days to go until Election Day on Nov. 3, Joe Biden’s campaign on Thursday is going up with a new TV commercial in key battleground states that spotlights the Democratic presidential nominee’s support among military families and veterans."
-    publishedDateTime: 2020-10-29T14:18:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IA0fxpzfJtc/biden-campaign-military-support-new-tv-commercial"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-military-support-new-tv-commercial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-military-support-new-tv-commercial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson"
     excerpt: "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company."
     publishedDateTime: 2020-10-25T16:15:17Z
@@ -159,20 +143,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/snl.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Michigan Democrat on Biden's Expanded Travel: 'I Want Joe Biden to Win Georgia'"
-    excerpt: "Many Midwestern Democrats have criticized Hillary Clinton for losing sight of their “Blue Wall,” or a collection of states near the Great Lakes that the party has typically carried in presidential elections."
-    publishedDateTime: 2020-10-27T09:47:00Z
-    webUrl: "https://www.wsj.com/livecoverage/election-live-updates-trump-biden/card/hsUB8oa28eKyvdY3Lpg6"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 111
-    images:
-      - url: "https://images.wsj.net/im-250629?size=1.5"
-        width: 1280
-        height: 853
         isCached: true
   - title: "A Biden Family Special Prosecutor in 2021?"
     excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"

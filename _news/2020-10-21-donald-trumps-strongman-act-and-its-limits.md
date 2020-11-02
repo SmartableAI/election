@@ -752,6 +752,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump's campaigning stoops to new lows as Covid cases spike"
+    excerpt: "(CNN)President Donald Trump and the pandemic he is supposed to be fighting are running out of control with the two weeks until Election Day shaping up as among the most ugly and divisive periods ..."
+    publishedDateTime: 2020-10-19T17:06:00Z
+    webUrl: "https://www.cnn.com/2020/10/19/politics/donald-trump-joe-biden-election-2020-coronavirus-fauci-masks/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/donald-trump-joe-biden-election-2020-coronavirus-fauci-masks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/donald-trump-joe-biden-election-2020-coronavirus-fauci-masks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018210212-02-donald-trump-1018-nevada-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Social Media and the Hunter Biden Report"
     excerpt: "In trying to insulate their platforms from the spread of dubious information, Facebook, Twitter and YouTube have ignited a different kind of firestorm."
     publishedDateTime: 2020-10-21T10:10:00Z

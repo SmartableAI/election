@@ -201,6 +201,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "2020 Election Live Updates: Trump and Biden make last-minute appeals on eve of election"
+    excerpt: "The CBS News Battleground Tracker on November 1 found that Biden holds an Electoral College lead heading into Election Day, with Mr. Trump needing a surge of in-person voters to win. While U.S. intelligence and national security officials have warned voters to be aware of efforts by foreign actors to interfere in the general election through disinformation campaigns,"
+    publishedDateTime: 2020-11-02T21:53:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/2020-election-live-updates-2020-11-02/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/2020-election-live-updates-2020-11-02/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/2020-election-live-updates-2020-11-02/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 147
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/5b7eea23-10b1-4a41-8871-934690fe9eef/thumbnail/1200x630/c3c47633583febd58cfdf692fbee571b/gettyimages-1229369047.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Economist Endorses Joe Biden, Says Donald Trump 'Must Be Soundly Rejected'"
     excerpt: "The Economist newspaper has formally endorsed former Vice President Joe Biden. The London-based current affairs publication released its endorsement on its website on Thursday. The op-ed backing Biden will appear in The Economist's print edition on Friday,"
     publishedDateTime: 2020-10-29T11:16:00Z
@@ -1241,6 +1257,22 @@ related:
         width: 873
         height: 545
         isCached: true
+  - title: "Trump talks legal action, Biden on offense in 2020 finale"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden are making their closing arguments in a final day of campaign events, a day before voters conclude the long, bitter 2020 presidential electio"
+    publishedDateTime: 2020-11-02T22:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/campaign-draws-close-us-facing-crossroads-73964843"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/campaign-draws-close-us-facing-crossroads-73964843"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/campaign-draws-close-us-facing-crossroads-73964843"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9d33498f52c14aa28bccc0a0f61a9b0a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
     excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
     publishedDateTime: 2020-10-22T06:50:00Z
@@ -2126,6 +2158,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/29/USAT/cf852adb-9671-4672-b976-c45916ba24a4-AP_Election_2020_Trump_Apocalypse.jpg?auto=webp&crop=5782,3253,x0,y293&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Trump and Joe Biden's last full day of campaigning"
+    excerpt: "President Trump is hitting four different states on the final full day of campaigning, while Joe Biden is focusing on Pennsylvania. CBS News political contributor Lynda Tran and political analyst Leslie Sanchez joined CBSN to break down what to look out for on the final stretch."
+    publishedDateTime: 2020-11-02T20:58:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-joe-biden-enter-final-stretch-of-campaign/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/02/38a755f7-8045-4b6d-affc-b3ba7e3a4dbe/thumbnail/1200x630/c1355b46a0272b215ce0de6cd2d56146/cbsn-fusion-president-trump-joe-biden-enter-final-stretch-of-campaign-thumbnail-579061-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump Touts His Coronavirus 'China Ban' To Bash Biden And Fauci. Here’s Why That’s A Problem."
     excerpt: "President Trump has claimed repeatedly that the disease expert was against his decision to implement travel restrictions on China back in January and that Biden called the restrictions “xenophobic.”"
@@ -3712,14 +3758,14 @@ related:
   - title: "Trump & Biden make final campaign blitz"
     excerpt: "Watch \"President Trump & Joe Biden make final campaign blitz\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-02T18:12:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201102175930-president-trump-joe-biden-make-final-campaign-blitz/"
+    webUrl: "https://www.cbsnews.com/live/video/20201102193010-president-trump-joe-biden-make-final-campaign-blitz/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/02/story_07510325_1604340245.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/02/story_07510793_1604345644.jpg"
         width: 1280
         height: 720
         isCached: true

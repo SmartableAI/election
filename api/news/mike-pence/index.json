@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-03-pence-claims-biden-is-talking-about-shutting-down-the-economy.md",
+      "title": "Pence claims Biden is 'talking about shutting down the economy'",
+      "excerpt": "Vice President Mike Pence discussed the Trump administration's response to the coronavirus pandemic and warned that Joe Biden was \"talking about shutting down the economy\" while campaigning in Erie, Penn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/pence-claims-biden-is-talking-about-shutting-down-the-economy-95178309972",
+      "originalUrl": "https://www.nbcnews.com/video/pence-claims-biden-is-talking-about-shutting-down-the-economy-95178309972",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/pence_erie.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo95178309972",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95178309972",
+      "publishedDateTime": "2020-11-02T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-lizzo-encourages-fans-to-vote-while-dressed-as-mike-pences-debate-fly-for-halloween.md",
       "title": "Lizzo encourages fans to vote while dressed as Mike Pence's debate fly for Halloween",
       "excerpt": "Leave it to Lizzo to win Halloween. The Houston-raised music star had a hilarious Halloween costume of choice just ahead of Tuesday's highly anticipated election. Remember the fly that generated all the buzz after making itself comfortable on top of Mike Pence's head at the vice presidential debate in October?",
@@ -296,7 +353,7 @@
       "originalUrl": "https://www.desmoinesregister.com/story/news/politics/2020/10/29/vice-president-mike-pence-holds-des-moines-make-america-great-again-rally/6062552002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -526,7 +583,7 @@
       "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2489,
+      "heat": 2549,
       "tags": null,
       "images": [
         {
@@ -679,7 +736,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2370,
+      "heat": 2450,
       "tags": null,
       "images": [
         {
@@ -1439,7 +1496,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1558,
+      "heat": 1578,
       "tags": null,
       "images": [
         {
@@ -1480,49 +1537,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-live-coverage-mike-pence-to-hold-rally-at-lakeland-linder-international-airport.md",
-      "title": "Live coverage: Mike Pence to hold rally at Lakeland Linder International Airport",
-      "excerpt": "Some of the attendees waiting to hear Mike Pence speak today include residents, veterans and Lake Wales commissioner Allen Goldstein and Polk County Republican chairman J.C. Martin. Trump campaign volunteers are checking temperatures and handing out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theledger.com/story/news/politics/elections/2020/10/24/mike-pence-lakeland-vice-president-hold-rally/6008696002/",
-      "originalUrl": "https://www.theledger.com/story/news/politics/elections/2020/10/24/mike-pence-lakeland-vice-president-hold-rally/6008696002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NLED/0f5f4423-cbb5-4427-aec0-65063a141acf-2.jpg?auto=webp&crop=1535,864,x0,y204&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theledger.com/amp/6008696002",
-      "cdnAmpWebUrl": "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/6008696002",
-      "publishedDateTime": "2020-10-24T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Ledger",
-        "domain": "theledger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

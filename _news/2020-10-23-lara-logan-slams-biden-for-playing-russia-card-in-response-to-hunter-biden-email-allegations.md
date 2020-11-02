@@ -47,6 +47,54 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Former Michigan Gov. Rick Snyder on being a 'proud Republican' who voted for Biden"
+    excerpt: "Snyder served eight years as governor and was replaced by Democrat Gretchen Whitmer in 2019."
+    publishedDateTime: 2020-10-29T21:54:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Up38R7dsQKg/rick-snyder-michigan-proud-republican-vote-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-snyder-michigan-proud-republican-vote-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-snyder-michigan-proud-republican-vote-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a257808-e5f9-45ef-ad5e-450f5bcf961e/cae4a195-e800-4d6e-821c-691ed6d2aebc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "If elected, Biden plans task force to reunite 545 children separated from parents at border"
+    excerpt: "Democratic nominee Joe Biden pledges that his campaign will create a task force to reunite 545 migrant children who were separated from their parents at the border if he is elected president. "
+    publishedDateTime: 2020-10-30T00:04:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L029DB7Jg1Y/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20841433-8cf5-42b2-bc68-6f0c39c9878d/c038f8ba-c56a-45ec-b60d-97c6353aae15/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hunter Biden allegations likely why Obama didn’t encourage Biden to run for president: Sen. Johnson"
+    excerpt: "The allegations against Hunter Biden are likely the reason why former President Obama “did not encourage the vice president to run” for president, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Sunday Morning Futures” in an exclusive interview."
+    publishedDateTime: 2020-11-01T18:36:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RGQX0Dg_BaQ/hunter-biden-why-obama-didnt-encourage-biden-run-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-why-obama-didnt-encourage-biden-run-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-why-obama-didnt-encourage-biden-run-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "2020 Hindsight on Impeachment Trial and Unravelling Biden Family Business Deals"
     excerpt: "Failing to get ahead of what has become the drip, drip of new details on Hunter Biden’s business dealings – and the potential ties to his father – could prove"
     publishedDateTime: 2020-10-28T17:30:00Z

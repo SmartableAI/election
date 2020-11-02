@@ -45,20 +45,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Federal judge rejects Trump suit to block ballot drop boxes in Pennsylvania"
-    excerpt: "A federal judge in Pennsylvania rejected a lawsuit from the Trump administration to limit the number of drop boxes in the state for mail-in ballots. "
-    publishedDateTime: 2020-10-11T01:33:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MC1frMzaAB0/federal-judge-rejects-trump-suit-to-block-ballot-drop-boxes-in-pennsylvania"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/PA-Ballot-iStock.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "AYszxKYoII8SqnYSVlvQjbKIh7pPwYCGwK6o9/u0QaAcNVs7h6nOvRnAcXYBqf2IS3xe0grPirPqdFx6fZTb7xBZ5AGGbkvEgewPp/DKYkNXtLD3n/neOfHLgzJsE4UfNUJoqu0n3l4GaXlgrYKHx6WKSN7bXb5ka4MNeCncjSYj8PY03uK03+5GIPreCBNKCIqDKxmTuhyMATXCZ4qSP9Lpa1f2RAfR8it0lkctZPBXQxvc0fmD3UwGaVxnvoiEPIw6dW5GAPbMGag4qgqo+3+wMUaIp/A1cqMhIC6uYaikaAEIW57C3ZpPPEMmxb/fd14qr0lXJ31ZNhJQEZW5zmW35HtvhJjgqATlmCoGvC0=;3EXFc8FQIsA2speBvTm8pw=="
 ---

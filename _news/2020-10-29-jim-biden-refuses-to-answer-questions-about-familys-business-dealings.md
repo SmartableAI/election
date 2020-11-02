@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Progressives push for Warren, Sanders in potential Biden cabinet"
-    excerpt: "If Democratic presidential nominee Joe Biden wins the race for the White House, will either Sens. Bernie Sanders or Elizabeth Warren be trading the title of senator for secretary?"
-    publishedDateTime: 2020-10-27T16:06:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tAlOQA4MHPk/progressives-push-for-warren-sanders-in-a-potential-biden-cabinet"
-    ampWebUrl: "https://www.foxnews.com/politics/progressives-push-for-warren-sanders-in-a-potential-biden-cabinet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressives-push-for-warren-sanders-in-a-potential-biden-cabinet.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/Warren-Sanders-SC-AP-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Graham considers subpoenas for Twitter, Facebook execs over Hunter Biden emails"
     excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., is considering subpoenaing social media executives over their platforms' role in suppressing news about the explosive, alleged emails involving the former Vice President Joe Biden's son Hunter."
     publishedDateTime: 2020-10-19T22:26:09Z

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: In bid to win Michigan, Trump makes false claims about the state's auto industry"
+    excerpt: "Trying to win the critical swing state of Michigan, President Donald Trump is closing his campaign with a series of false claims about the state's famed auto industry.\n    \n"
+    publishedDateTime: 2020-11-02T22:11:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0f5ghFdA4x0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/fact-check-michigan-auto-jobs-trump-obama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/fact-check-michigan-auto-jobs-trump-obama/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031012444-trump-michigan-rally-1030-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump falsely claims California requires people to wear 'special' and 'complex' mask at all times"
     excerpt: "President Donald Trump has repeatedly mocked former Vice President Joe Biden and others for wearing masks.\n    \n"
     publishedDateTime: 2020-10-29T00:45:18Z

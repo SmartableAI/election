@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/28/the-ri
 webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/28/the-right-previews-its-attacks-on-a-president-biden-490735"
 type: article
 quality: 114
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -28,6 +28,24 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "Biden Gets an Endorsement From Silicon Valley: Live Business Updates"
+    excerpt: "A group of 11 founders, investors and business leaders from the technology industry endorsed Democratic presidential nominee Joseph R. Biden Jr. in a letter published on Monday, s"
+    publishedDateTime: 2020-11-02T18:50:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/30/business/30markets-brf-markets/merlin_179245557_12422739-1663-479d-9813-613dc9789fb3-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "YI7zdkLzCcYSEX2gszt8Y1bLNL14+3Lsgh0jyvHkXT5YxFG5HTrV6jt+8adihHcxrNPlrKwejAIRcdm3t6APsTB5inHvvAyecFFJaPIbI81vc0Sh8MNT9jXrpItLhspRPe9woxSo6uXWsxOdydK4klOOM74E+aen3vCzThsk3p/3CJsC3OW7bzco1d/8vW1eOZhVHkhoWkJTdJSSPk65g/xI62ciC7w7hylIVCJ9IOq5bo1qGPeJgEFserQ58LRjcB9IDATvsbRwE3yI4EGEd7bcUovM8lpKZJrJZOAVBfh06S5Fzv4ut/gkaDWjt1j48g0S262uBCuijaHhF+BsEw5Tz7MQRGgXVVIDkRvnxU0mnSojeBCqHmZ1IXfxTU485pCO7I9xLLbsFzPgKouriHJ5BVeRRMD+spz6BueUIYQ4LxE6jJU8Dd00vpYi/liRwI4oCfo9Heb+HaOHoDS5nw13BTrp/P5XLTXzNf+EcIN1bEzLVQnBCwG3mlBkbFuAOFtaBINZqTT3ua7evEN+YQ==;InM3MWRDKVy3XPkvVgPnsA=="
 ---

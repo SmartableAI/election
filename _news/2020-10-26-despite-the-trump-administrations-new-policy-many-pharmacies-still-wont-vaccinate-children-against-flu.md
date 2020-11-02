@@ -31,67 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration notifies Congress of $1.8B in proposed weapons sales to Taiwan "
-    excerpt: "The US formally notified Congress of a proposed $1.8 billion in advanced weapons systems sales to Taiwan -- a move sure to increase tensions with Beijing.\n    \n"
-    publishedDateTime: 2020-10-21T22:10:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jL8O3RBxnEw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/taiwan-arms-sales-formal-notification/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/taiwan-arms-sales-formal-notification/index.html"
+  - title: "Trump supporters at rallies continue to get stranded in chilly temperatures"
+    excerpt: "Following at least four of President Donald Trump's rallies in the last two weeks, transportation issues left hundreds of supporters stranded for hours.\n    \n"
+    publishedDateTime: 2020-11-02T18:16:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A6aP7hMdzj8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration continues to send mixed messages about future of US troops in Afghanistan"
-    excerpt: "The Trump administration continued to send contradictory messages about the future of US troops in Afghanistan on Wednesday.\n    \n"
-    publishedDateTime: 2020-10-21T20:03:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n8CGetyeKJI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/us-troops-afghanistan-obrien-hutchison/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/us-troops-afghanistan-obrien-hutchison/index.html"
+  - title: "Trump supporters seen blocking traffic on a New Jersey highway and a New York City bridge"
+    excerpt: "Hundreds of vehicles flying Trump, MAGA and American flags caused delays around the New York metropolitan area on Sunday after they were seen stopping traffic to cheer and chant.\n    \n"
+    publishedDateTime: 2020-11-02T02:32:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hRLcTpDxGQ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/us/trump-caravan-new-jersey-highway-new-york/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/us/trump-caravan-new-jersey-highway-new-york/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190908155230-afghanistan-us-soldiers-file-01-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201101180345-trump-car-rally-stops-traffic-in-nj-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "NYC and other cities to take legal action against Trump administration's 'anarchy' designation"
-    excerpt: "New York City plans to file a joint complaint Thursday challenging the Trump administration's designation of Democratic-led cities as \"anarchist\" jurisdictions in hopes of blocking the President's threat to withhold federal funding, according to the city's top lawyer.\n    \n"
-    publishedDateTime: 2020-10-22T16:49:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ouwWXPTyN4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/nyc-trump-administration-complaint-anarchy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/nyc-trump-administration-complaint-anarchy/index.html"
+  - title: "New Jersey congressman's pledge of 'undying support' for Trump hangs over close House race"
+    excerpt: "The congressman who represents Atlantic City made a risky political gamble last year. Now he's waiting to see whether it will pay off -- or if he's going home broke.\n    \n"
+    publishedDateTime: 2020-10-28T14:47:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JJitFMueHGk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/jeff-van-drew-amy-kennedy-new-jersey-house-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/jeff-van-drew-amy-kennedy-new-jersey-house-race/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/151207083912-bill-de-blasio-donald-trump-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191219162951-trump-jeff-van-drew-12192019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Washington Post: Trump administration to roll back federal protections from Alaska's Tongass National Forest"
-    excerpt: "Federal protections for Alaska's Tongass National Forest will be lifted this week by the Trump administration, allowing \"logging and other forms of development\" to occur in the world's largest intact temperate rainforest known as America's Amazon, The Washington Post reported Wednesday.\n    \n"
-    publishedDateTime: 2020-10-28T16:22:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aHbswDwT7dw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
+  - title: "'It's a little tough out here': Trump blitzes must-win states with perfected rally routine"
+    excerpt: "President Donald Trump was running late when he arrived here Sunday morning, wind howling and tiny drops of ice sticking to his face, to begin the second-to-last day of his final run for office.\n    \n"
+    publishedDateTime: 2020-11-02T14:53:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OnZ4hqa7kfc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 156
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190913160012-tongass-forest-3-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027121426-donald-trump-1024-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

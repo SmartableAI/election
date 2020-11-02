@@ -26,102 +26,6 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Trump mocks Biden to Pennsylvania crowd over oil comment: 'He blew it'"
-    excerpt: "President Trump warned Pennsylvania residents that a Joe Biden administration would sink their state's economy, while mocking his Democratic rival for what he called a \"shocking admission\" about his energy policy."
-    publishedDateTime: 2020-10-26T18:49:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5237d17-29f2-4497-97f7-90df3b44d487/d8f57439-b93c-40ab-a426-5b9656ebedfa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pennsylvania AG dismisses Trump, says he could 'care less' what president says on election night"
-    excerpt: "President Trump has been criticizing states that have extended deadlines for accepting ballots beyond Election Day, saying that the country should have a result by Tuesday night. Pennsylvania Attorney General Josh Shapiro, however, says his state will make sure that every ballot is counted, regardless"
-    publishedDateTime: 2020-11-02T16:29:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e80aIOUJicw/pennsylvania-ag-dismisses-trump-count-ballots"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-ag-dismisses-trump-count-ballots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-ag-dismisses-trump-count-ballots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e5535d2-e0a4-43bb-bb53-ad2bf1552f0e/ad95926a-3469-4233-aa71-a40d46eff02a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Melania Trump to travel to Pennsylvania in final stretch of campaign"
-    excerpt: "First lady Melania Trump is hitting the campaign trail this week, traveling to Pennsylvania on Tuesday to speak directly to voters before they cast their ballots in the final stretch before Election Day."
-    publishedDateTime: 2020-10-26T12:47:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pYXosr2zN_g/melania-trump-travel-pennsylvania-campaign-trail"
-    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-travel-pennsylvania-campaign-trail.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-travel-pennsylvania-campaign-trail.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden's lead shrinks in Pennsylvania in final days of race: poll"
-    excerpt: "A poll of Pennsylvania voters released Monday found that Joe Biden’s lead over President Trump in the key battleground state has shrunk in the final days of the race."
-    publishedDateTime: 2020-11-02T12:29:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wzU4MTRP5fM/biden-trump-monmouth-pennsylvania-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-monmouth-pennsylvania-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-monmouth-pennsylvania-poll.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/770a34bb-ca60-44e4-9bc0-be2c339d4343/f84ea96a-50e1-4131-9578-95531fcec7e6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden staff tells '60 Minutes' he misspoke on cost of free public college"
-    excerpt: "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount."
-    publishedDateTime: 2020-10-26T12:35:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OKvJtRcm96Q/biden-staff-misspoke-60-minutes-free-public-college-cost"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump continues swing through battleground states with stop in Pennsylvania"
-    excerpt: "With the November election exactly two weeks away, President Trump is continuing his tour of the pivotal battleground states with a campaign stop in Pennsylvania, where he's currently trailing Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-20T11:49:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkEnqKrT4kw/trump-biden-harris-pence-campaign-trail-october-20"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44a51563-b1f8-4175-9291-2372bfcfd512/993301a0-09e7-401d-b6b2-8cd86a8d4fe1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump: Philadelphia police shooting a 'terrible event,' but rioting comes from group Joe Biden 'supports'"
     excerpt: "President Trump called on Democrats in Philadelphia to crack down on recent rioting, and blamed Joe Biden for not condemning the unrest strongly enough. "
     publishedDateTime: 2020-10-28T19:25:54Z
@@ -138,131 +42,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden slams Trump as he distances himself from progressives: 'He thinks he's running against somebody else'"
-    excerpt: "The heated exchange occurred after Biden was asked to address Americans who are concerned about a shift toward socialized medicine."
-    publishedDateTime: 2020-10-23T02:56:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uuD2zqAfQow/biden-slams-trump-health-care-progressives"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-slams-trump-health-care-progressives.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slams-trump-health-care-progressives.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e21bc17-5c77-4fd8-8ff7-78461bebe7f4/80e892b7-3477-42a9-aed0-ebaeadcafe7a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden pressed over debate comment that he would 'transition from the oil industry'"
-    excerpt: "After the final debate on Thursday night, Democratic presidential nominee Joe Biden was pressed by reporters on his comments about fossil fuels, following his remarks that he plans to \"transition from the oil industry.\""
-    publishedDateTime: 2020-10-23T14:17:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8a93LtPsXgk/biden-pressed-debate-comment-transition-oil-industry"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pressed-debate-comment-transition-oil-industry.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pressed-debate-comment-transition-oil-industry.amp"
+  - title: "Biden says 'no excuse' for looting in Philadelphia after Black man killed by police"
+    excerpt: "Democratic presidential nominee Joe Biden says there’s “no excuse whatsoever” for the ongoing looting and violence in Philadelphia."
+    publishedDateTime: 2020-10-28T18:44:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/veUG1aWqE84/biden-no-excuse-for-philadelphia-looting"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19d8c899-c6f5-41b9-9d36-0ae911189500/6139a1db-2f01-4c1a-9325-b4d504a0cb23/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Rove breaks down Trump's 'path to victory' through Michigan, Pennsylvania, Wisconsin"
-    excerpt: "The fate of President Trump's reelection bid will ultimately come down to the three battleground states that put him over the top in 2016: Michigan, Wisconsin, and Pennsylvania, former George W. Bush adviser Karl Rove predicted Monday."
-    publishedDateTime: 2020-10-27T00:49:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nmAKogyMUxU/rove-trump-path-victory-michigan-pennsylvania-wisconsin"
-    ampWebUrl: "https://www.foxnews.com/politics/rove-trump-path-victory-michigan-pennsylvania-wisconsin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rove-trump-path-victory-michigan-pennsylvania-wisconsin.amp"
+  - title: "Philadelphia DA threatens Trump over president's call for poll watchers: 'I've got something for you'"
+    excerpt: "Philadelphia’s district attorney on Wednesday threatened President Donald Trump if he sent “uncertified” poll watchers to the city, telling him in a statement, “I’ve got something for you” if any attempts are made to interfere with Election Day activities."
+    publishedDateTime: 2020-10-28T21:40:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jSgKdGVYci0/philadelphia-da-threatens-trump-presidents-call-poll-watchers"
+    ampWebUrl: "https://www.foxnews.com/politics/philadelphia-da-threatens-trump-presidents-call-poll-watchers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/philadelphia-da-threatens-trump-presidents-call-poll-watchers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 160
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230f52b5-e037-423b-befd-decdc0aec4bb/fb87aa77-b8d5-474e-8b02-5f88d81f5529/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden grilled on 'transition' away from oil and gas comment in Pennsylvania TV interviews"
-    excerpt: "Democratic presidential nominee Joe Biden is getting grilled in Pennsylvania ever since he said during last week’s debate that he plans to “transition” away from the oil industry."
-    publishedDateTime: 2020-10-25T12:48:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0UZIaeAkKNQ/biden-grilled-transition-oil-and-gas-pennsylvania-tv-interviews"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-grilled-transition-oil-and-gas-pennsylvania-tv-interviews.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-grilled-transition-oil-and-gas-pennsylvania-tv-interviews.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8443ab57-1626-487f-9624-7278281d270c/19c7fad6-bc7a-4665-8a01-bc332f8b4b61/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "RNC Chair McDaniel calls out Biden for energy comments: 'He's lying to the American people'"
-    excerpt: "Republican National Committee Chair Ronna McDaniel accused Democratic presidential nominee Joe Biden of \"lying to the American people\" regarding his energy policies, specifically regarding fracking and the oil industry."
-    publishedDateTime: 2020-10-25T13:46:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDKAnypyY1U/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people"
-    ampWebUrl: "https://www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c12189ec-a656-4aec-b107-11d3bc0ac4f5/5ec31af4-90ba-4cb1-9c02-e0d45010d724/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump tells supporters in Pennsylvania they can 'save the American Dream' from 'corrupt forces'"
-    excerpt: "President Trump on Saturday told supporters in Pennsylvania that they have the chance to “save the American dream” by reelecting him to office on Tuesday -- while warning of “corrupt forces” who are seeking to replace him with Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-31T16:30:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fE41akD_eaw/trump-pennsylvania-american-dream"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-american-dream.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-american-dream.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1c28aa3-8f61-431d-b3c4-c43a2bf5827d/ce54a741-f833-4cf7-8887-2ace3de5a30b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden defends low-key campaign travel schedule, says he's 'not overconfident'"
-    excerpt: "Democratic presidential nominee Joe Biden on Monday defended his light campaign travel schedule, maintaining that he's not overconfident about his odds of defeating incumbent President Trump with one week to go until the November election."
-    publishedDateTime: 2020-10-27T15:47:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tKti5i3Mp50/biden-defends-low-key-campaign-travel-schedule-says-hes-not-overconfident"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 152
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20300747868320-e1603801372187.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden staff tells '60 Minutes' he misspoke on cost of free public college"
-    excerpt: "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount."
-    publishedDateTime: 2020-10-26T20:03:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Larry-Krasner-GETTY-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump: Philadelphia police shooting a 'terrible event,' but rioting comes from group Joe Biden 'supports'"
     excerpt: "President Trump called on Democrats in Philadelphia to crack down on recent rioting, and blamed Joe Biden for not condemning the unrest strongly enough."
@@ -280,33 +90,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "'The Tape' Shows Biden Is Lying About Fracking"
-    excerpt: "Democratic nominee Joe Biden is lying. On Thursday, during the final 2020 presidential debate, Biden denied ever saying he opposes fracking. But he absolutely did. To claim otherwise, as the former vice president did Thursday evening,"
-    publishedDateTime: 2020-10-23T19:16:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/23/the_tape_shows_biden_is_lying_about_fracking_527327.html"
+  - title: "Biden says 'no excuse' for looting in Philadelphia after Black man killed by police"
+    excerpt: "Democratic presidential nominee Joe Biden says there’s “no excuse whatsoever” for the ongoing looting and violence in Philadelphia."
+    publishedDateTime: 2020-10-28T18:57:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
     images:
-      - url: "https://assets.realclear.com/images/52/524968_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20302623949679.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden's Expanded-Map Strategy Carries Risk in Pennsylvania"
-    excerpt: "Vice President Joe Biden this week told reporters he hopes to carry Pennsylvania by the “grace of God” and called it a “big deal to me personally as well as politically.” Each question Wallace asked of President Trump was framed upon faulty assertions of untruth and sometimes Wallace actually argued with Trump before Trump's allotted 2 minutes were used."
-    publishedDateTime: 2020-10-29T14:24:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/29/bidens_expanded-map_strategy_carries_risk_in_pennsylvania_527858.html#!"
+  - title: "Philadelphia DA threatens Trump over president's call for poll watchers: 'I've got something for you'"
+    excerpt: "Philadelphia’s district attorney on Wednesday threatened President Donald Trump if he sent “uncertified” poll watchers to the city, telling him in a statement, “I’ve got something for you” if any attempts are made to interfere with Election Day activities."
+    publishedDateTime: 2020-10-28T21:43:00Z
+    webUrl: "https://www.foxnews.com/politics/philadelphia-da-threatens-trump-presidents-call-poll-watchers"
+    ampWebUrl: "https://www.foxnews.com/politics/philadelphia-da-threatens-trump-presidents-call-poll-watchers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/philadelphia-da-threatens-trump-presidents-call-poll-watchers.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
     images:
-      - url: "https://assets.realclear.com/images/52/525533_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Larry-Krasner-GETTY-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "J7nkgiaQVNxWDaeiZ93G+hs8ZZHtNo/IZRA4/pbdpeZKpFIfbMFlZ2oa9JhYhcQBFz6rzjcVnRyhKCnKPXpf1qOqg/4IkDF9jgmcVvTzoNxUOD5EZ+zPHIgobSagcl5SNB8FhWZC0giKYRDU5PB8cviUFe1S978GcjYALpPJyl8RpUz1vW2UPVpkcUjNhtAK8MA6hRVsta+KTZSH7GtjZhTGq3dcKp8ah7Xk/IZ+3qDPufh/e09Jkx1k4IR1vMJUopgmUKdXMny5guEYUJ4L+DfUltoTi90u3hUa8ZV2CXtAbrEo7Uw4/OYE8lG6/xdDxqF51ytTs4qhOHU20cS8o2lO9TZ79KREEeRK/IVAmgHmFkiiROpkQpeoTcsOAXN2NFxhylg6Qe8UgXwAFVX69SBlEFQzafLs1MpLePaB8SjkHRf7NcEmi4n+8B77G736bJWzDUVVhrjczX9s2pbqrP8Wrf8OyE/Ir+wJtTBeJ/NSh+ME6Yd/SCHabitlciozYpBp/oF/4Yu7WIvFfjIqkw==;o1ys27vi6YcHd9OdhfK8dg=="

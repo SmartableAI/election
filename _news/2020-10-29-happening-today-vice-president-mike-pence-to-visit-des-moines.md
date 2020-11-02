@@ -83,6 +83,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Vice President Mike Pence holds rally for about 300 at Erie International Airport"
+    excerpt: "See video of Vice President Mike Pence, who held a rally for about 300 at North Coast Air section at Erie International Airport in Millcreek Township."
+    publishedDateTime: 2020-11-02T21:58:00Z
+    webUrl: "https://www.goerie.com/videos/news/politics/elections/2020/11/02/vice-president-mike-pence-holds-rally-300-erie-international-airport/6130489002/"
+    type: article
+    provider:
+      name: Erie Times-News
+      domain: goerie.com
+    quality: 50
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NETN/c68b1dbd-fdb9-4d00-a567-4fba9bc8dad2-p2Pence110220.jpg?quality=10"
+        width: 3206
+        height: 2220
+        isCached: true
   - title: "Mike Pence pledges manufacturing jobs and minority support during campaign rally in Flint"
     excerpt: "“This election is a choice between a Trump recovery and a Biden depression,\" Vice President Mike Pence said. Vice President Mike Pence was in Flint Wednesday night for a ‘Make America Great Again Victory Rally’ at Flint’s Bishop International Airpor"
     publishedDateTime: 2020-10-29T05:46:00Z

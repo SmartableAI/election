@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Live updates: Trump, Biden campaign in Midwest ahead of Election Day"
-    excerpt: "With just days remaining until Election Day, both President Trump and Democratic nominee Joe Biden crisscrossed Midwestern states Friday, hoping to pick up last-minute votes. "
-    publishedDateTime: 2020-10-31T05:13:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yUmOySUhA_s/live-updates-trump-biden-campaign-in-midwest-ahead-of-election-day"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-campaign-in-midwest-ahead-of-election-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-campaign-in-midwest-ahead-of-election-day.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 205
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7af2a718-e4f7-4370-9fa4-d06e719d0be6/1e14fc5e-462a-4e97-86c8-15e09ecc8aa8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Election Day 2 days away: Trump, Biden barnstorm swing states"
     excerpt: "It's crunch time for President Trump and his opponent, former Vice president Joe Biden, as the two candidates enter the final 48 hours until Election Day."
     publishedDateTime: 2020-11-01T16:13:17Z
@@ -92,22 +76,6 @@ related:
     quality: 205
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump-bidenxxx-NEWSLETTER-xx.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Organized labor split between Biden, Trump heading into Election Day"
-    excerpt: "The typically Democratic constituency of organized labor is expected to see many of its members backing President Trump on election day."
-    publishedDateTime: 2020-11-01T20:19:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/igSy8ApqH7s/organized-labor-fractured-heading-into-presidential-election"
-    ampWebUrl: "https://www.foxnews.com/politics/organized-labor-fractured-heading-into-presidential-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/organized-labor-fractured-heading-into-presidential-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 205
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dff98d6f-d7b1-4e88-ad74-8d152941afcd/77e1be30-e89f-49eb-9c49-1f1844ed2954/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -143,54 +111,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump, Biden campaigns blitz NC ahead of Election Day"
-    excerpt: "The Trump and Biden campaigns are blitzing battleground state North Carolina ahead of Election Day."
-    publishedDateTime: 2020-11-02T16:49:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/klbO5a7VD2s/trump-biden-campaigns-blitz-north-carolina"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-campaigns-blitz-north-carolina.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-campaigns-blitz-north-carolina.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 205
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a10cb3c-05d2-416e-92ac-e79eb95f4bfe/bc85c181-f12c-4d77-b171-514a0ea44f22/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump, Biden ramp up personal attacks on campaign trail as Election Day looms"
-    excerpt: "With less than two days until Election Day, President Trump and his Democratic opponent Joe Biden honed in on more pointed, personal attacks on each other in the lead-up to one of the most divisive elections in U.S. history."
-    publishedDateTime: 2020-11-02T03:01:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jf8K0T9FoeU/trump-biden-personal-attacks-election-day-looms"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-personal-attacks-election-day-looms.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-personal-attacks-election-day-looms.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 202
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f68b2e1-205d-4d28-9293-2428b8d9a6e7/4917bf17-1cbe-444e-89a2-5d69eaa17060/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Election 7 days away: Biden picks up campaign pace as Trump barnstorms swing states"
-    excerpt: "President Trump is embarking on a campaign swing through key battleground states with the November election just one week away, as Democratic rival Joe Biden picks up the pace of his travel with a planned trip to reliably red Georgia."
-    publishedDateTime: 2020-10-27T12:31:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y341n3Gsk5E/trump-biden-presidential-campaign-november-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-november-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-november-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 199
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230f52b5-e037-423b-befd-decdc0aec4bb/fb87aa77-b8d5-474e-8b02-5f88d81f5529/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Election 5 days away: Trump, Biden to hold dueling rallies in Florida battleground"
     excerpt: "President Trump and his Democratic rival Joe Biden are set to hold dueling campaign rallies in Florida — a crucial battleground state vital to winning the White House — with just five days left in the presidential race.  "
     publishedDateTime: 2020-10-29T13:14:06Z
@@ -207,37 +127,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Election 1 day away: Trump to blitz 4 key states as Biden hones in on Pennsylvania"
-    excerpt: "As the presidential race draws to a close, President Trump is slated to make a last-minute appeal to voters in four battleground states with a dizzying number of campaign rallies while his Democratic rival, Joe Biden, focuses heavily on Pennsylvania.   "
-    publishedDateTime: 2020-11-02T13:36:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LDF8cm06Cuw/election-1-day-away-trump-hits-4-key-states-as-biden-hones-in-on-pennsylvania"
-    ampWebUrl: "https://www.foxnews.com/politics/election-1-day-away-trump-hits-4-key-states-as-biden-hones-in-on-pennsylvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-1-day-away-trump-hits-4-key-states-as-biden-hones-in-on-pennsylvania.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 199
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/077c667b-9805-4b7b-84c4-e203a0dc8688/a2774eb9-f6dc-4f97-8c73-c3eab49163b7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Election 4 days away: Trump, Biden blitz battleground states in final campaign sprint"
-    excerpt: "With Election Day less than 100 hours away, President Trump and his Democratic rival Joe Biden are set to swing through crucial battleground states that may determine the outcome of the presidential race. "
-    publishedDateTime: 2020-10-30T12:07:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeGi9h9pLAc/election-4-days-away-trump-biden-blitz-battleground-states"
-    ampWebUrl: "https://www.foxnews.com/politics/election-4-days-away-trump-biden-blitz-battleground-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-4-days-away-trump-biden-blitz-battleground-states.amp"
+  - title: "Trump, Biden camps duel over possibility of a winner being declared on Election Night"
+    excerpt: "President Trump and former Vice President Joe Biden’s campaigns sparred Monday over the possibility of a winner being declared on Election Night, with Trump’s campaign accusing Democrats of wanting to “delegitimize” votes and Biden’s campaign saying there’s “no scenario” the race will be called for Trump"
+    publishedDateTime: 2020-11-02T19:57:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjzuHStSi_E/trump-biden-campaign-election-night-winner"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-campaign-election-night-winner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-campaign-election-night-winner.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 198
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54a7a8a0-0ad7-46c7-8a0e-17beea7b7c80/79b4a56a-6289-4dd8-9ba1-cdba28079a92/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Election 2020 polling average shows Biden leading Trump nationally with just days left"
     excerpt: "Democratic nominee Joe Biden continues to lead President Trump in national polling, although the race has tightened to a seven-point lead for Biden, down from 10 points earlier in October, according to Real Clear Politics' polling average."
@@ -252,6 +156,22 @@ related:
     quality: 197
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301625773721.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Election forecasts give Biden overwhelming odds to beat Trump, as some see 2016 déjà vu"
+    excerpt: "With experts at FiveThirtyEight, The Economist and Politico all favoring Democratic nominee Joe Biden to win the 2020 election, some Democrats are having flashbacks to 2016 when President Trump defied the odds to beat Hillary Clinton."
+    publishedDateTime: 2020-11-02T19:40:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pkjuWcUSbg/election-forecasts-biden-odds-beat-trump-2016"
+    ampWebUrl: "https://www.foxnews.com/politics/election-forecasts-biden-odds-beat-trump-2016.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-forecasts-biden-odds-beat-trump-2016.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 197
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1229419878.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -271,22 +191,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden says Trump won't 'steal' the election by declaring himself victor on Tuesday night"
-    excerpt: "Democratic presidential nominee Joe Biden said Sunday that he would not let President Trump \"steal\" the election after a report that the commander in chief planned to prematurely declare victory on Tuesday if early results indicated he was ahead. "
-    publishedDateTime: 2020-11-02T16:25:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woam4c_0kHo/biden-says-trump-wont-steal-the-election-by-declaring-himself-victor-on-tuesday-night"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-trump-wont-steal-the-election-by-declaring-himself-victor-on-tuesday-night.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-trump-wont-steal-the-election-by-declaring-himself-victor-on-tuesday-night.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 196
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74459e72-e1c2-4a7a-9d11-b23030d5a95e/d89a6822-2a7a-4ebb-834b-af3c415f8bc0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The closing strategy: A look at Biden and Trump's day of campaigning before the election"
     excerpt: "It’s the biggest battleground map in recent presidential elections – with roughly 12 swing states up for grabs on the eve of the 2020 election. But in final hours before Election Day, some battleground states are grabbing more attention than others. And a look at the closing stops by President Trump"
     publishedDateTime: 2020-11-02T17:41:40Z
@@ -302,22 +206,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306837543880.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Live Updates: Trump, Biden ramp up personal attacks on campaign trail as Election Day draws near"
-    excerpt: "With less than two days until Election Day, President Trump and his Democratic opponent Joe Biden honed in on more pointed, personal attacks on each other in the lead-up to one of the most divisive elections in U.S. history."
-    publishedDateTime: 2020-11-02T04:17:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/StrPUr1eEng/live-updates-trump-biden-ramp-up-personal-attacks-on-campaign-trail-as-election-day-draws-near"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-ramp-up-personal-attacks-on-campaign-trail-as-election-day-draws-near.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-ramp-up-personal-attacks-on-campaign-trail-as-election-day-draws-near.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 192
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d334b5c-f30e-4ae8-86a8-55791119d24c/ce3f607c-3472-47bf-9211-aa6a55c75a42/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Biden, campaigning in battlegrounds on eve of election, says it's time for Trump to 'pack his bags'"
     excerpt: "Kicking off his final day of campaigning ahead of Election Day in battleground Ohio, Joe Biden took aim at Donald Trump’s handling of the coronavirus pandemic and stressed that it was time for the president “to back his bags and go home.”"
@@ -607,22 +495,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden makes late push to paint Georgia blue one week before election"
-    excerpt: "With one week to go until Election Day on Nov. 3 and the latest polls in Georgia indicating a tight race between Joe Biden and President Trump, the Democratic presidential nominee is making his first general election stop in the longtime red state that has become a crucial battleground."
-    publishedDateTime: 2020-10-27T10:23:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qr688KgR6l0/biden-georgia-election-campaign-visit"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-campaign-visit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-campaign-visit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297811817906.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Melania Trump tears directly into Joe Biden as a 'socialist'"
     excerpt: "First lady Melania Trump tore into Joe Biden’s “socialist agenda” in her first solo campaign appearance of the year on Tuesday and even slammed Democrats for a “sham” impeachment. "
     publishedDateTime: 2020-10-27T21:54:53Z
@@ -652,22 +524,6 @@ related:
     quality: 190
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298017078188.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden and Trump to tangle in Tampa on Thursday"
-    excerpt: "Democratic presidential nominee Joe Biden and President Trump hold dueling rallies Thursday in Tampa, Florida, the western anchor of the critical I-4 swing region in the extremely crucial general election battleground state."
-    publishedDateTime: 2020-10-29T02:55:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M7EswfUnCWw/biden-and-trump-to-tangle-in-tampa-on-thursday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-and-trump-to-tangle-in-tampa-on-thursday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-and-trump-to-tangle-in-tampa-on-thursday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287786848996.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -831,22 +687,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden to make last-minute campaign stop in Ohio on election eve"
-    excerpt: "Democratic presidential candidate Joe Biden will head to the battleground state of Ohio on Monday, the final day before the Nov. 3 election, his campaign announced. "
-    publishedDateTime: 2020-11-01T22:24:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oz4_Klukk2w/biden-last-minute-stop-ohio-election-eve"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-last-minute-stop-ohio-election-eve.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-last-minute-stop-ohio-election-eve.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f75f245-3d98-4fe7-b2e5-8fa779c6e899/1ca1b330-9147-4e83-b5f6-00ab8d6b6688/1280x720/match/image.jpg"
-        width: 1279
-        height: 720
-        isCached: true
   - title: "Iowa farmers split between voting for Trump, Biden"
     excerpt: ""
     publishedDateTime: 2020-11-01T00:30:38Z
@@ -911,22 +751,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's gaffes continue as Election Day draws near"
-    excerpt: "Democratic presidential nominee Joe Biden two more verbal stumbles while campaigning this weekend with less than 100 hours to go until the Nov. 3 election. "
-    publishedDateTime: 2020-11-02T02:16:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dhkDd0qcVNk/bidens-gaffes-election-day-continue"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-gaffes-election-day-continue.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-gaffes-election-day-continue.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bcccf79-a1da-4d9e-a796-0ce65d04a080/8ae9c3fd-11ec-4eb4-a5a1-6ed0d9cbeae7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Gaetz slams FBI probe into Texas Trump supporters surrounding Biden bus"
     excerpt: ""
     publishedDateTime: 2020-11-02T07:57:44Z
@@ -942,6 +766,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump, Biden rely on Spanish-language TV ads to woo Latino voters"
+    excerpt: "Democrats and Republicans alike are pouring cash into Spanish-language TV ads, particularly in battlegrounds such as Florida and Arizona."
+    publishedDateTime: 2020-11-02T19:21:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zelNenLqL3w/targeting-latino-vote-trump-and-biden-campaigns-rely-on-spanish-language-tv-ads-down-home-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/targeting-latino-vote-trump-and-biden-campaigns-rely-on-spanish-language-tv-ads-down-home-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/targeting-latino-vote-trump-and-biden-campaigns-rely-on-spanish-language-tv-ads-down-home-stretch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20303618481221.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump says 'a vote for Biden is a vote for lockdowns, layoffs, misery'"
     excerpt: "The president said his recovery plan during the coronavirus pandemic was “creating the world’s greatest economic powerhouse”"
@@ -959,6 +799,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump vs. Biden’s health care plans: Where do the candidates stand?"
+    excerpt: "The coronavirus pandemic has brought health care to the forefront of the 2020 presidential election."
+    publishedDateTime: 2020-11-02T22:14:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_xK9Z_9pius/trump-vs-bidens-health-care-plans-where-do-the-candidates-stand"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-vs-bidens-health-care-plans-where-do-the-candidates-stand.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-bidens-health-care-plans-where-do-the-candidates-stand.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split-10.29.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live updates: Trump, Biden campaigns move into final stretch after debate"
     excerpt: "Following a slightly more subdued final presidential debate in Nashville, Tenn., on Thursday evening, President Trump traveled to Florida on Friday to rally support in the crucial swing state. "
     publishedDateTime: 2020-10-24T07:12:54Z
@@ -972,22 +828,6 @@ related:
     quality: 189
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a44df52c-9d4d-4b1f-ab3f-5a7190356331/052050e8-4c6d-4054-8ebe-903d8e34a65d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pennsylvania energy workers feature heavily in Trump, Biden bid for votes"
-    excerpt: "The two 2020 contenders have clashed over Biden’s stance on hydraulic fracturing."
-    publishedDateTime: 2020-10-28T01:37:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2BeoZ235tOY/pennsylvania-energy-workers-trump-biden-votes"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-energy-workers-trump-biden-votes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-energy-workers-trump-biden-votes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ec1b9f5-0348-4a6f-ae96-4b7562fb0ec2/c80ab8e5-4930-46c1-a768-aa7670ee23f8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1215,6 +1055,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Scaramucci predicts 'landslide' for Joe Biden, says Trump knows he's going to lose"
+    excerpt: "Former White House Communications Director Anthony Scaramucci, who spent 10 days in the Trump administration in July 2017 and now supports Democratic presidential nominee Joe Biden, told “America’s Newsroom” on Monday that he believes the former vice president will win the 2020 election."
+    publishedDateTime: 2020-11-02T20:53:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-Qm98Nfjkc/scaramucci-joe-biden-landslide-trump-knows-will-lose"
+    ampWebUrl: "https://www.foxnews.com/politics/scaramucci-joe-biden-landslide-trump-knows-will-lose.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scaramucci-joe-biden-landslide-trump-knows-will-lose.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "'Mistake' for Trump to focus so much on Hunter Biden allegations, says Mike Huckabee"
     excerpt: "President Trump leading with the Hunter Biden email story at the next presidential debate \"is a mistake,\" Fox News contributor Mike Huckabee said on Wednesday."
     publishedDateTime: 2020-10-21T17:00:06Z
@@ -1262,22 +1118,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/949c6b43-6a2c-485d-8421-4fe3c105955f/77217d46-0289-4b8a-b61d-69a2dca13b61/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden pushes back on Trump's attacks in Pennsylvania: ‘I’m not eliminating fracking’"
-    excerpt: "Facing a barrage of incoming fire from President Trump, Democratic presidential nominee Joe Biden is making it clear where he stands on the nation’s oil industry."
-    publishedDateTime: 2020-10-26T22:26:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T92pO3Ry_8w/biden-pennsylvania-not-eliminating-fracking"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pennsylvania-not-eliminating-fracking.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pennsylvania-not-eliminating-fracking.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20300737624986.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Prominent pastor gets backlash for explaining why he isn't voting for Trump or Biden"
     excerpt: "Saying he won't vote for Trump or Biden on Nov. 3, well-known pastor and Christian author John Piper got a range of responses from other faith leaders."
@@ -1471,38 +1311,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump hits Biden on NAFTA support in Michigan, says he is bringing back auto industry jobs"
-    excerpt: "President Trump attacked Democratic nominee Joe Biden's record on the auto industry at a rally in Washington, Mich., hoping to win the state for a second time."
-    publishedDateTime: 2020-11-01T17:59:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ufT2GKppaS4/trump-biden-michigan-rally-nafta-auto"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-michigan-rally-nafta-auto.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-michigan-rally-nafta-auto.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306620018274.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Where’s Hillary? Clinton absent from trail as Biden deploys Obama in election's final days"
-    excerpt: "Hillary Clinton has been absent from the campaign trail in the final days of the presidential race, even as former President Barack Obama ramps up his role as surrogate-in-chief for Democratic nominee Joe Biden."
-    publishedDateTime: 2020-11-01T23:56:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/swiYtq3o-Rs/wheres-hillary-clinton-absent-biden-final-days"
-    ampWebUrl: "https://www.foxnews.com/politics/wheres-hillary-clinton-absent-biden-final-days.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wheres-hillary-clinton-absent-biden-final-days.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff31cc51-5acb-4d7e-b902-ae55c5f4c59d/1c9485e0-0554-4871-841f-731be28337c8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump says 'good chance' coronavirus vaccine ready in weeks, as Biden predicts 'dark winter'"
     excerpt: "President Donald Trump and Democratic candidate Joe Biden met for their second and final presidential debate before the Nov. 3 election, immediately jumping into the impact of the coronavirus."
     publishedDateTime: 2020-10-23T01:50:47Z
@@ -1628,22 +1436,6 @@ related:
     quality: 175
     images:
       - url: "http://media.foxbusiness.com/BrightCove/854081161001/202010/427/854081161001_6204325784001_6204325515001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump stumping in Pennsylvania in presidential campaign's final week"
-    excerpt: "With the November election just a little over one week away and tens of millions of Americans already voting, President Trump is heading to Pennsylvania looking to erase Democratic challenger Joe Biden's lead."
-    publishedDateTime: 2020-10-26T11:56:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tg8lqFP3hvY/trump-biden-harris-pence-campaign-trail-october-26"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-26.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-26.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ece5c9a-651c-46db-b47f-755e18f7e523/5133f7d3-7d2e-4430-b650-ea3546d339ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1997,22 +1789,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump, Biden Hit Trail on Final Day of Campaigning"
-    excerpt: "Latest news on the U.S. election nationwide."
-    publishedDateTime: 2020-11-02T14:10:00Z
-    webUrl: "https://www.wsj.com/livecoverage/election-live-updates-trump-biden-2020-11-02"
-    ampWebUrl: "https://www.wsj.com/amp/livecoverage/election-live-updates-trump-biden-2020-11-02"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/livecoverage/election-live-updates-trump-biden-2020-11-02"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-245155/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Dave Bautista talks 'toughness' in campaign video for Joe Biden that's critical of Donald Trump"
     excerpt: "Former WWE star Dave Bautista is the latest celebrity to endorse Joe Biden for president by appearing in a campaign ad that’s critical of Donald Trump."
     publishedDateTime: 2020-10-26T13:36:00Z
@@ -2060,6 +1836,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/B27CDAEA-1962-4871-9596-93085B1B6161.jpeg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump defends Texas drivers who surrounded Biden bus, sees car rallies in NY, NJ"
+    excerpt: "Trump has seen truck and car rallies across the country, with several events across New York and New Jersey, as well as in Minnesota and Iowa."
+    publishedDateTime: 2020-11-02T18:58:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-defends-texas-drivers-who-surrounded-biden-bus-sees-car-rallies-in-ny-nj"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-defends-texas-drivers-who-surrounded-biden-bus-sees-car-rallies-in-ny-nj.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-defends-texas-drivers-who-surrounded-biden-bus-sees-car-rallies-in-ny-nj.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/500ff96e-0762-4e60-bff0-2d2c387eef19/6060f3c0-29b9-46db-ac4e-17d3e61de624/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Rev. Samuel Rodriguez: Biden vs. Trump -- Why Latinos in Florida are turning to Trump"
     excerpt: "As expected, Biden is leading President Trump with Latino voters nationally, but he is seriously underperforming Hillary Clinton’s support among the community in 2016. This is of particular concern in Florida,"
@@ -2366,6 +2158,20 @@ related:
       - url: "https://assets.realclear.com/images/52/525449.jpg"
         width: 750
         height: 562
+        isCached: true
+  - title: "Democrats Are Masking Biden's Frailty"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-11-02T20:12:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/02/democrats_are_masking_bidens_frailty_528218.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525858_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "How Arizona Complicates Trump's Reelection Bid"
     excerpt: "RealClearPolitics"

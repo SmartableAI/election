@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Melania Trump slams Biden and Democrats in final solo campaign speech"
+    excerpt: "First lady Melania Trump gave her fourth solo campaign speech on Monday afternoon in Huntersville, North Carolina. Trump, who before last Tuesday had not appeared on the campaign trail for more than a year, slammed Democrats in remarks that touched on Covid-19, the military, and echoes of President Donald"
+    publishedDateTime: 2020-11-02T22:10:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TY9xp4cILNs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/melania-trump-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/melania-trump-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102173950-melania-nc-rally-1102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump suggests he might fire Fauci after election"
     excerpt: "President Donald Trump suggested to a Florida crowd he may fire Dr. Anthony Fauci, the nation's leading expert on infectious diseases, after the election.\n    \n"
     publishedDateTime: 2020-11-02T06:26:45Z
@@ -173,6 +189,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714143117-04-fauci-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump takes last swipe at Affordable Care Act before Election Day"
+    excerpt: "The Trump administration took another step to weaken the Affordable Care Act with Election Day looming, approving Georgia's controversial request to make fundamental changes to its Obamacare exchange.\n    \n"
+    publishedDateTime: 2020-11-02T22:01:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fJEF_PcvCJ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/affordable-care-act-georgia-obamacare/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/affordable-care-act-georgia-obamacare/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016161329-obamacare-sign-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -429,6 +461,22 @@ related:
     quality: 183
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031211553-biden-harris-bus-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republicans eye 2024 White House bids and debate post-Trump era as 2020 election ends"
+    excerpt: "Four years ago, Sen. Marco Rubio made a bid for the White House. And four years from now, the Florida Republican might do it again.\n    \n"
+    publishedDateTime: 2020-11-02T22:16:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/63a_ApqsvAE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/republican-2024-trump-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/republican-2024-trump-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160404193444-marco-rubio-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

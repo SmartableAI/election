@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-court-packing-vaccine-mandate
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-packing-vaccine-mandate-abc-town-hall.amp"
 type: article
 quality: 179
-heat: 519
+heat: 559
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8e4c3f4-f297-41c3-861d-fd80bd3f7a35/6ea39985-9fc8-4338-afce-f53690c9d083/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden pressed over debate comment that he would 'transition from the oil industry'"
+    excerpt: "After the final debate on Thursday night, Democratic presidential nominee Joe Biden was pressed by reporters on his comments about fossil fuels, following his remarks that he plans to \"transition from the oil industry.\""
+    publishedDateTime: 2020-10-23T14:17:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8a93LtPsXgk/biden-pressed-debate-comment-transition-oil-industry"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pressed-debate-comment-transition-oil-industry.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pressed-debate-comment-transition-oil-industry.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden to look at court-packing 'alternatives,' form commission to 'reform' court system"
     excerpt: "Democratic presidential nominee Joe Biden said, if elected, he would form a commission to examine \"how to reform the court system.\""
@@ -288,6 +304,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "'The Tape' Shows Biden Is Lying About Fracking"
+    excerpt: "Democratic nominee Joe Biden is lying. On Thursday, during the final 2020 presidential debate, Biden denied ever saying he opposes fracking. But he absolutely did. To claim otherwise, as the former vice president did Thursday evening,"
+    publishedDateTime: 2020-10-23T19:16:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/23/the_tape_shows_biden_is_lying_about_fracking_527327.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524968_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "LXoSHlrmcWx0gGFgualphsreNgsrm2xJsJn2l63i3131f00NQTpDVAJJWX5J27NySHWtw1gzjvNzyZUTWZjXL19RIvFxdMQ5l786BA8oodBhx1ORsbei43cNOZJlAYIpim+aUKI30xpGPYMlLlPEtFfWx4PODAlXefiOOgrj8+l1PxQaB5RIFqk4Ol0Zwtag/ME8DaaSMOYbusSQXLP0P3+pYOl3Hsm5N6WipEH+EhVkFtIWzMR19I8N1WFeNq6PXZ5iuam/x0/7bMWQRPBlLX8/CCY1AUDN8lv9piGo51KQxb6R9d3CmE2qaDWc0DYV2Xr8jcoNVxwTDf79u3bgD7c2pO3gTUW6BcCvGbMB4bY=;N0Lm1waJc67G+Oxe9eYVTg=="
 ---

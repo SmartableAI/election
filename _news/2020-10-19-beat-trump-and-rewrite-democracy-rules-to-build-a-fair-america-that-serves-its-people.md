@@ -561,19 +561,19 @@ related:
         isCached: true
   - title: "Trump promises court fight over Pennsylvania absentee votes"
     excerpt: "President Donald Trump and his reelection campaign are signaling they will pursue an aggressive legal strategy to try to prevent Pennsylvania from counting mailed ballots that are received in the thre"
-    publishedDateTime: 2020-11-02T17:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-promises-court-fight-over-pennsylvania-absentee-votes/2020/11/02/15caa8ec-1d30-11eb-ad53-4c1fda49907d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-promises-court-fight-over-pennsylvania-absentee-votes/2020/11/02/15caa8ec-1d30-11eb-ad53-4c1fda49907d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-promises-court-fight-over-pennsylvania-absentee-votes/2020/11/02/15caa8ec-1d30-11eb-ad53-4c1fda49907d_story.html?outputType=amp"
+    publishedDateTime: 2020-11-02T20:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-promises-court-fight-pennsylvania-absentee-votes-73974862"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-promises-court-fight-pennsylvania-absentee-votes-73974862"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-promises-court-fight-pennsylvania-absentee-votes-73974862"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8e7e4c9ff1cd441ea74e8d394f8594d9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Jennifer Lawrence says Trump 'changed everything' about her political views"
     excerpt: "Jennifer Lawrence said on Wednesday that despite formerly voting Republican, she won't be supporting Donald Trump."
@@ -751,6 +751,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Trump demolished the walls between politics and sports. He might not like the result."
+    excerpt: "Follow the latest on Election 2020 This rare unification of sport and state doesn’t reflect, as President Trump claims, the athletes’ desire to overplay their hand and turn political. It is a necessary reaction to the troubling times: to the unabashed hatred,"
+    publishedDateTime: 2020-11-02T20:35:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/26HHSUP2BVBX7NYHVJ3NJYAUFY.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "For the final debate, forget the 'Trump curve.' Grade the president on facts and truth."
     excerpt: "It doesn't matter if Trump interrupts less. If he lies, undermines public health or destabilizes our election, his grade should be unfit for office."
     publishedDateTime: 2020-10-21T21:21:00Z
@@ -798,6 +814,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/978858e1-2530-4004-9fa6-4eafefcf111e-VPC_TRUMP_REDFIELD_CONTRADICTION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Dr. Ben Carson: I knew Donald Trump before politics. I urge America to reelect my friend."
+    excerpt: "When I stepped aside during the 2016 presidential primary season, I knew I was stepping aside for Donald Trump. I'm proud to support him again."
+    publishedDateTime: 2020-11-02T10:23:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/11/02/ben-carson-donald-trump-vote-election-2020-column/6075169002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6075169002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6075169002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b6ff9508113af043b3879982ab1a0d41814aecfa/c=211-140-3001-1716/local/-/media/2018/05/07/USATODAY/USATODAY/636613284811814278-AP-Rental-Assistance-99433763.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
   - title: "‘I voted for a guy named Trump,’ the president says after voting in person in West Palm Beach"
     excerpt: "President Donald Trump cast his in-person vote in West Palm Beach on Saturday morning, and said \"I voted for a guy named Trump.\" He took the opportunity to remind people how secure in-person voting is over mail ballots."
@@ -1681,6 +1713,24 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Pence cites jobs, energy policy in push for Trump votes Monday at Unity airport"
+    excerpt: "Vice President Mike Pence cited job creation and support for law enforcement and the military among strengths of the current White House administration in a last-minute plea Monday for Westmoreland County voters to help elect he and President Donald Trump to second terms."
+    publishedDateTime: 2020-11-02T20:31:00Z
+    webUrl: "https://triblive.com/local/westmoreland/pence-cites-jobs-energy-policy-in-push-for-trump-votes-monday-at-unity-airport/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 46
+  - title: "President Trump and Vice President Pence Hold Rally in Traverse City, Michigan"
+    excerpt: "Trump and Vice President Mike Pence deliver remarks at a campaign rally in Traverse City, Michigan. President Trump and Vice President Mike Pence deliver remarks at a campaign rally in Traverse City,"
+    publishedDateTime: 2020-11-02T22:41:00Z
+    webUrl: "https://www.c-span.org/video/?477685-1/president-trump-vice-president-pence-speak-rally-traverse-city-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 46
   - title: "Denver Groups to Remove Trump Letter From Food-Aid Boxes"
     excerpt: "A coalition of anti-hunger groups in Denver have been removing letters from President Donald Trump from inside federal food assistance boxes that address recipient families."
     publishedDateTime: 2020-10-29T15:51:00Z

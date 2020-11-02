@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Obama, Biden to make first joint appearance in Michigan"
-    excerpt: "Democrats are bringing their firepower to Michigan, the critical swing state that helped seal President Trump's 2016 victory. "
-    publishedDateTime: 2020-10-31T17:11:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDZVfeWq3aQ/obama-biden-first-joint-appearance-michigan"
-    ampWebUrl: "https://www.foxnews.com/politics/obama-biden-first-joint-appearance-michigan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-biden-first-joint-appearance-michigan.amp"
+  - title: "Rep. Jim Jordan on reviewing and authenticating purported Hunter Biden emails"
+    excerpt: "Rep. Jim Jordan, R-Ohio, who said his staff reviewed and independently authenticated the purported emails from Hunter Biden’s laptop, told “Sunday Morning Futures” that “they’re as real as real can be.”"
+    publishedDateTime: 2020-10-25T19:58:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxG05FrYsd8/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20304657210535.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Former Michigan Gov. Rick Snyder on being a 'proud Republican' who voted for Biden"
     excerpt: "Snyder served eight years as governor and was replaced by Democrat Gretchen Whitmer in 2019."
@@ -63,53 +63,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden campaign pushing voters to be ‘a part of the political process’, ex-Obama aide says"
-    excerpt: "In the final hours before Election Day, the Biden campaign is trying to convince Americans that voting is more important than ever, former Barack Obama personal aide Reggie Love told “Your World with Neil Cavuto.”"
-    publishedDateTime: 2020-11-02T00:06:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySsZkhyUKsw/reggie-love-biden-campaign-2020-presidential-election"
-    ampWebUrl: "https://www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5917c623-7f84-4354-be17-763d711fe936/8bc4d7a4-d627-47c5-916c-72ddd72c5b10/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "John James slams Michigan Senate opponent, says Dems 'freaking out' as Biden, Obama storm state"
-    excerpt: "Michigan Senate candidate John James reacts on 'Fox & Friends' to Joe Biden and former President Barack Obama campaigning in his state."
-    publishedDateTime: 2020-10-30T14:09:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bncp6ts5Y5s/michigan-senate-campaign-republican-gop-john-james-biden-obama"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-senate-campaign-republican-gop-john-james-biden-obama.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-senate-campaign-republican-gop-john-james-biden-obama.amp"
+  - title: "Lara Logan slams Biden for playing ‘Russia card’ in response to Hunter Biden email allegations"
+    excerpt: "2020 Democratic presidential candidate Joe Biden played the \"Russian information warfare\" card to dodge questions pertaining to his son Hunter Biden's foreign dealings, Fox Nation host Lara Logan said on Friday."
+    publishedDateTime: 2020-10-23T18:16:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/21iBRaLM3ns/lara-logan-biden-playing-russia-card-hunter-biden-emails"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Kudlow: Biden's economic plan would crush middle class, cost millions of jobs over next decade"
-    excerpt: "A Joe Biden presidency would cripple the U.S. economy and cause the loss of an estimated five million American jobs by 2030, White House economic adviser Larry Kudlow told \"The Ingraham Angle\" on Thursday."
-    publishedDateTime: 2020-10-30T03:33:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4OYjTm4RVYU/kudlow-biden-economic-plan-crush-us-economy"
-    ampWebUrl: "https://www.foxnews.com/politics/kudlow-biden-economic-plan-crush-us-economy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kudlow-biden-economic-plan-crush-us-economy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ee9de7a-ba64-41ba-b1e0-10d348d471e1/5a05a687-b6df-41f5-a8eb-879dc90d2370/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Hunter Biden allegations likely why Obama didn’t encourage Biden to run for president: Sen. Johnson"
     excerpt: "The allegations against Hunter Biden are likely the reason why former President Obama “did not encourage the vice president to run” for president, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Sunday Morning Futures” in an exclusive interview."
@@ -127,64 +95,44 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's Ukraine Defense Rests on a Bogus Premise"
-    excerpt: "The crux of Joe Biden’s Ukraine corruption scandal defense rests on his contention that he traveled to Ukraine during his tenure as Vice President to demand that they fire their"
-    publishedDateTime: 2020-10-30T04:01:00Z
-    webUrl: "https://townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046"
-    ampWebUrl: "https://townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046?amp=true"
+  - title: "2020 Hindsight on Impeachment Trial and Unravelling Biden Family Business Deals"
+    excerpt: "Failing to get ahead of what has become the drip, drip of new details on Hunter Biden’s business dealings – and the potential ties to his father – could prove"
+    publishedDateTime: 2020-10-28T17:30:00Z
+    webUrl: "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952"
+    ampWebUrl: "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 85
+    quality: 81
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg"
         width: 650
         height: 340
         isCached: true
-  - title: "Watch Live: Joe Biden Delivers Remarks On Health Care In Michigan"
-    excerpt: "Democratic nominee Joe Biden will make a campaign stop in Southfield, Michigan on Friday afternoon to deliver remarks on expanding access to health care."
-    publishedDateTime: 2020-10-16T15:47:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/16/watch_live_biden_delivers_remarks_on_health_care_in_michigan.html"
+  - title: "UPS found Tucker Carlson's documents relating to Biden that vanished in system"
+    excerpt: "After an 'urgent investigation,' UPS located a previously missing package sent to Tucker Carlson he said contained confidential documents about the Biden family."
+    publishedDateTime: 2020-10-29T16:54:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system?_amp=true"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/524025.jpg"
-        width: 1102
-        height: 826
-        isCached: true
-  - title: "Watch: Barack Obama Campaigns For Joe Biden At Orlando, Florida Event"
-    excerpt: "Former President Barack Obama will campaign for Joe Biden at an Orlando, Florida event on Tuesday afternoon, one week ahead of the 2020 election."
-    publishedDateTime: 2020-10-29T04:21:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/27/watch_live_barack_obama_campaigns_for_joe_biden_at_orlando_florida_event.html#!"
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 61
+  - title: "Hunter Biden messages 'independently confirmed' to be authentic, GOP lawmaker says"
+    excerpt: "A top House Republican said his staff independently authenticated materials from a laptop that purportedly belonged to Hunter Biden."
+    publishedDateTime: 2020-10-25T19:41:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/hunter-biden-messages-independently-confirmed-to-be-authentic-gop-lawmaker-says"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/hunter-biden-messages-independently-confirmed-to-be-authentic-gop-lawmaker-says?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/hunter-biden-messages-independently-confirmed-to-be-authentic-gop-lawmaker-says?_amp=true"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/524824.jpg"
-        width: 908
-        height: 680
-        isCached: true
-  - title: "Watch Live: Barack Obama Campaigns For Joe Biden At Orlando, Florida Event"
-    excerpt: "Former President Barack Obama will campaign for Joe Biden at an Orlando, Florida event on Tuesday afternoon, one week ahead of the 2020 election."
-    publishedDateTime: 2020-10-27T16:50:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/27/watch_live_barack_obama_campaigns_for_joe_biden_at_orlando_florida_event.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 63
-    images:
-      - url: "https://assets.realclear.com/images/52/524824.jpg"
-        width: 908
-        height: 680
-        isCached: true
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 59
 
 secured: "iTvAkPLZDgVUdFjBDJVyGtuURouA7lrz1pqiotoXWaMj97eHP9ZGJTJtA02v4AGhrSONwl4nVh26IPq6O352KshEXo2JU+wuAfPsflSNzaFzz/8ZRA2sto+zpOKcqcbqjqbKRpQHk7r2cpfbKlFXyJWp2iMmnsLY+WE3/7OlMzqUiuLWp4JWr3DWYVbaugbDwXvWV/jyiMkMRqP+Oo/71tGugN8gii0andHgoFT27svLHumkw9LOeEzBnKwzT8h2MCja1RXeIPVVz/okCnQmvje621pB0sSNuq3zQjkiYO1YTbBglHzs5dyGFEUeu+AVqr/NdWsUBLWs/NksTie8nikgM1zRSjaM0ErsgZGqrv4=;aX23Tif63gDRiCcXILBASA=="
 ---

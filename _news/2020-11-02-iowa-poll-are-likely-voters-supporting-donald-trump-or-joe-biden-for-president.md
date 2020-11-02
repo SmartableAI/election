@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Donald Trump vs. Joe Biden: What’s in store for our economy based on the election results?"
+    excerpt: "The economic downturn has affected Americans and at USA TODAY Money we've focused our coverage on this. Here's how the election could impact jobs."
+    publishedDateTime: 2020-11-02T21:09:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/11/02/best-president-american-economy-biden-or-trump-election/6125539002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6125539002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6125539002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 145
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/7dc06773-6d9e-4e5f-908f-8a08320b119a-money-tech-icons_stock_market_news.png?auto=webp&crop=988,556,x9,y299&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 live updates: Trump campaign website hacked"
     excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
     publishedDateTime: 2020-10-29T03:58:00Z
@@ -153,6 +169,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says he wants to have a physical fight with Biden as 'those legs have gotten very thin'"
+    excerpt: "\"Of all the people in the world I can fight, that's probably the one I'd like to most fight,\" Trump said of Joe Biden, the Democratic nominee."
+    publishedDateTime: 2020-11-02T22:40:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-wants-to-have-physical-fight-with-joe-biden-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-wants-to-have-physical-fight-with-joe-biden-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-wants-to-have-physical-fight-with-joe-biden-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5f9fdf8b69331a0011bc69df?width=1200&format=jpeg"
+        width: 1085
+        height: 542
+        isCached: true
   - title: "Biden and Trump disagree on nearly everything — but here are three things they actually agree on"
     excerpt: "On Section 230, the promise of a large stimulus package, and a certain approach for lowering drug prices, Trump and Biden (mostly) see eye-to-eye."
     publishedDateTime: 2020-11-02T16:35:00Z
@@ -249,6 +281,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The final week in polls: Trump eats into Biden's leads in Arizona, North Carolina, Nevada and Pennsylvania"
+    excerpt: "The final polls show the race between Trump and Biden has tightened since mid-October, both nationally and in the critical battleground states."
+    publishedDateTime: 2020-11-02T22:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/02/presidential-polls-races-tighten-most-battleground-states/6117735002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6117735002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6117735002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/54f4ce68-13e8-424d-a506-22130a72bb8a-GTY_1283447676.jpg?auto=webp&crop=2999,1687,x0,y217&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pro-Trump demonstrators showed up outside Attorney General William Barr's home demanding he \"lock up' Joe Biden"
     excerpt: "Barr reportedly greeted the approximately one dozen protesters, explained his role in investigations, and posed for photos."
     publishedDateTime: 2020-11-02T15:29:00Z
@@ -265,6 +313,17 @@ related:
         width: 975
         height: 487
         isCached: true
+  - title: "The Latest: Trump set to spend election night at White House"
+    excerpt: "WASHINGTON (AP) — The Latest on the (all times local):"
+    publishedDateTime: 2020-11-02T20:03:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-trump-set-to-spend-election-night-at-white-house-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-trump-set-to-spend-election-night-at-white-house-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trump-set-to-spend-election-night-at-white-house-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Inside Trump's crowded campaign rallies"
     excerpt: "Two days before Election Day, President Donald Trump launched a campaign sprint across battleground states starting with Michigan that will be crucial to"
     publishedDateTime: 2020-11-02T13:25:00Z

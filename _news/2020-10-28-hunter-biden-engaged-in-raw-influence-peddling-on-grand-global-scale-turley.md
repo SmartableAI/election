@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-joe-scandal-election-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-joe-scandal-election-corruption-jonathan-turley.amp"
 type: article
 quality: 171
-heat: 191
+heat: 171
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "‘Alarming’ for Biden to consider ‘wacky’ proposals to change Supreme Court: Jonathan Turley"
-    excerpt: "Democratic presidential nominee Joe Biden calling the Supreme Court “out of whack” is \"alarming,” Fox News contributor Jonathan Turley said Monday."
-    publishedDateTime: 2020-10-26T20:18:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YOpITkJDE-Y/biden-supreme-court-packing-wacky-proposals-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-packing-wacky-proposals-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-packing-wacky-proposals-turley.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "Ja4tL51Y8PVhkcTSFYqrvZzosDyXWsYUUZN2LVjj/QjtCJfwkkiNMw74vTiOmvC1ToMqjqk3YsHZC6CW3LjuZdi4x5zQEZkwCYkFTR+ce2iICh4fGHM/4TD5ygLlOL9QxvA5f7IGtnpMvtWUQE7VXOi5zWShxV3OC0snfH1LYspmHNbayKCjsrEaHH8Olzjg39nWV+1gohRLspL6q331iNGBcZr3+ftME8MY9v2nGI4O5Q+kdS/dgfNyMaC8/PUYBECQrFyTPKTYENvJkKwSzcXjnFwES1/SQm082Hrc1/P+5NIgFnWa7dMUo6L1kuCYTICOkezQfb6OMJrNxq7QwTqfdpqlnPzxeaMw4UyrV8Q=;/CY/VPSKJCGztSj2LfH1ZQ=="
 ---
