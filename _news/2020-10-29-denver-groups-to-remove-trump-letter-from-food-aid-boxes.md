@@ -71,6 +71,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Israeli settlers pray for Trump re-election at biblical tomb"
+    excerpt: "Jewish settler leaders prayed on Monday for U.S. President Donald Trump's re-election, citing his support for Israel, during a ceremony at a biblical tomb in the occupied West Bank that has been a flashpoint of conflict with the Palestinians."
+    publishedDateTime: 2020-11-02T12:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-israel-settlers-idUSKBN27I1EN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I1EN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I1EN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539666817&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA10TI"
+        width: 818
+        height: 545
+        isCached: true
   - title: "I'm a Republican Former Elections Official. I Choose Democracy Over Trump | Opinion"
     excerpt: "It wasn't until I became the executive director of New York City's Board of Elections that I had an up-close view of how complex and difficult it is to manage an election in the largest city in the country."
     publishedDateTime: 2020-10-28T10:00:00Z

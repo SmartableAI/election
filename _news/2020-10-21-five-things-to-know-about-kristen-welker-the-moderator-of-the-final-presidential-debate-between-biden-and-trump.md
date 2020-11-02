@@ -1521,10 +1521,10 @@ related:
         isCached: true
   - title: "FBI investigating after Trump supporters surround Biden campaign bus in Texas"
     excerpt: "The FBI said Sunday that its San Antonio office is investigating an incident after video was taken of a caravan of Trump supporters surrounding and then following a Biden campaign bus on Friday. President Trump retweeted part of the video Saturday night,"
-    publishedDateTime: 2020-11-02T06:56:00Z
-    webUrl: "https://www.cbsnews.com/news/i-35-texas-trump-supporters-biden-bus-trump-tweet-i-love-texas-fbi-investigating/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/i-35-texas-trump-supporters-biden-bus-trump-tweet-i-love-texas-fbi-investigating/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/i-35-texas-trump-supporters-biden-bus-trump-tweet-i-love-texas-fbi-investigating/"
+    publishedDateTime: 2020-11-02T12:28:00Z
+    webUrl: "https://www.cbsnews.com/news/fbi-launches-investigation-biden-bus-incident-trump-supporters/?intcid=CNI-00-10aaa3a"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/fbi-launches-investigation-biden-bus-incident-trump-supporters/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fbi-launches-investigation-biden-bus-incident-trump-supporters/"
     type: article
     provider:
       name: CBS News
@@ -3614,6 +3614,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Trump decries FBI probe of supporters surrounding Biden bus"
+    excerpt: "President Donald Trump on Sunday suggested the FBI should stop investigating an incident in which his supporters were seen surrounding a Biden campaign bus in Texas, which led Democrats to cancel an event there."
+    publishedDateTime: 2020-11-02T12:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-decries-fbi-probe-of-supporters-surrounding-biden-bus-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-decries-fbi-probe-of-supporters-surrounding-biden-bus-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-decries-fbi-probe-of-supporters-surrounding-biden-bus-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Pollster Frank Luntz: If Trump defies polls again in 2020, 'my profession is done'"
     excerpt: "Pollster Frank Luntz told Fox News on Thursday night that poll predictions are wrong about the 2020 election between President Trump and former Vice President Joe Biden, his \"profession is done\" in terms of faith and confidence from the public."
     publishedDateTime: 2020-10-23T13:03:00Z
@@ -5983,6 +5994,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/75/63/20176065/5/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "FBI investigates Trump caravan swarming Joe Biden campaign bus in Texas; President Donald Trump cheers, ‘I love Texas’"
+    excerpt: "The FBI is reportedly investigating after a caravan of President Donald Trump supporters on Friday surrounded and followed a campaign bus for Joe Biden, whose team canceled events in the battleground state after claiming the convoy tried to run the bus off the road."
+    publishedDateTime: 2020-11-01T19:43:00Z
+    webUrl: "https://www.masslive.com/politics/2020/11/fbi-investigates-trump-caravan-swarming-joe-biden-campaign-bus-in-texas-president-donald-trump-cheers-i-love-texas.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/11/fbi-investigates-trump-caravan-swarming-joe-biden-campaign-bus-in-texas-president-donald-trump-cheers-i-love-texas.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/11/fbi-investigates-trump-caravan-swarming-joe-biden-campaign-bus-in-texas-president-donald-trump-cheers-i-love-texas.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 66
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MH4RZ5PREZHPDN2XAJRCYU6I4M.jpg"
+        width: 1463
+        height: 968
         isCached: true
   - title: "Did The Donald Trump - Joe Biden Debate Get Better Ratings Than The 2016 Debate With Hillary Clinton?"
     excerpt: "The second and final debate between President Donald Trump and Democratic nominee Joe Biden drew a much smaller audience than the first debate. According to early Nielsen ratings, more than 55 million people watched compared to the 73."

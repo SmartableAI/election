@@ -47,6 +47,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Can Joe Biden's Campaign Message Carry Him Over The Finish Line?"
+    excerpt: "Joe Biden has had a remarkably consistent campaign message. He was running, he said, to restore the soul of the nation. His campaign was — in essence — about human decency and character."
+    publishedDateTime: 2020-11-02T11:16:00Z
+    webUrl: "https://www.npr.org/2020/11/02/930234714/can-joe-bidens-campaign-message-carry-him-over-the-finish-line"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
     excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."
     publishedDateTime: 2020-10-28T04:13:00Z

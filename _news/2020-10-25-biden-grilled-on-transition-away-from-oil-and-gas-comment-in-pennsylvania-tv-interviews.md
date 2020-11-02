@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's lead shrinks in Pennsylvania in final days of race: poll"
+    excerpt: "A poll of Pennsylvania voters released Monday found that Joe Biden’s lead over President Trump in the key battleground state has shrunk in the final days of the race."
+    publishedDateTime: 2020-11-02T12:29:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wzU4MTRP5fM/biden-trump-monmouth-pennsylvania-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-monmouth-pennsylvania-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-monmouth-pennsylvania-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/770a34bb-ca60-44e4-9bc0-be2c339d4343/f84ea96a-50e1-4131-9578-95531fcec7e6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden staff tells '60 Minutes' he misspoke on cost of free public college"
     excerpt: "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount."
     publishedDateTime: 2020-10-26T12:35:24Z

@@ -51,6 +51,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Vice President Pence Campaigns in Latrobe, Pennsylvania"
+    excerpt: "Vice President Pence spoke at a Trump campaign event in Mosinee, Wisconsin. Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice President Mike Pence delivered campaign remarks at a ..."
+    publishedDateTime: 2020-11-02T11:53:00Z
+    webUrl: "https://www.c-span.org/video/?477688-1/vice-president-pence-campaigns-latrobe-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "k4WDW4iWspFHSXSQNW44wuJhExgESlix4duW2JvtzHG3CLTsuQT2EDht3NwE+OzZ4y8oApj6sgzydMT/XQw2iTtSZM4xcO1+NibzlCjji+rwXdaPyFjyhaJyjN1HOgYAiaMvXaHU4DVyfan1i29IWlVZk/Vx5ypV46vzUgqERQRvJx7d1K/Z8N/vhbg4I6HFbV27yXXdMNJ0dE+pkFeAlKqFYN8HO0ERzu7KJKvEOQtw4JZsJ2xh8k2Z2+K47abaiQbk24FCa1PL4CexWec8E8/SPgQ9HsVKWzdEiYpOxjRTvq2DcNpkwui0lEJTZqJIUJg1QeNVtPlnvG4+IT+1Ld9r2TWRqMdXqDdi6d/BJAnrlhnl++jhge8u3dFXRAF44vueP58dRPtfSraWyPneTg94PoUjOwN3jsztCke9+AffLMF/tDJVDmxb2yaPNNKWn1V90yIWXjMVxoJ1MpTInlE6I2N5Ci2nKnFrntnlQ56ihUNfX/YaqyA/vpJJevqN89cilvEMFg1r1TlkWUpMsQ==;jBTqaOG4YXPrX2w/AdaXDw=="
 ---

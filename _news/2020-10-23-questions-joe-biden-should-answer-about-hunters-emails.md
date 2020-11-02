@@ -236,6 +236,22 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Is Kamala Harris’s Fashion Her Secret Weapon?"
+    excerpt: "The vice presidential candidate favors a sophisticated uniform honed during years as an attorney—with some pointedly casual touches including Converse Chuck Taylor sneakers."
+    publishedDateTime: 2020-10-31T17:00:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harriss-style-mixes-courtroom-and-converse-11604145618"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-style-mixes-courtroom-and-converse-11604145618"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-style-mixes-courtroom-and-converse-11604145618"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-252362/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Kamala Harris bursts out laughing when asked if she has socialist perspective"
     excerpt: "Calif., burst out laughing when asked during an interview Sunday if she would advocate for a “socialist or progressive perspective” if elected."
     publishedDateTime: 2020-10-26T05:31:00Z

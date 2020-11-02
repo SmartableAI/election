@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B2F8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B2F8"
 type: article
 quality: 118
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
     excerpt: "Vice President Pence delivered campaign remarks at a “Make America Great Again” rally in Florida’s state capital of… Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice ..."
     publishedDateTime: 2020-10-30T09:25:00Z
     webUrl: "https://www.c-span.org/event/?477463/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Pence Campaigns in Latrobe, Pennsylvania"
+    excerpt: "Vice President Pence spoke at a Trump campaign event in Mosinee, Wisconsin. Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice President Mike Pence delivered campaign remarks at a ..."
+    publishedDateTime: 2020-11-02T11:53:00Z
+    webUrl: "https://www.c-span.org/video/?477688-1/vice-president-pence-campaigns-latrobe-pennsylvania"
     type: article
     provider:
       name: C-SPAN

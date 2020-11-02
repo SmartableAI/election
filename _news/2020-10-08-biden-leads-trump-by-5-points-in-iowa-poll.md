@@ -862,6 +862,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Election 2020: Biden, Trump prep for final pitches to voters"
+    excerpt: "With only two days to go before Election Day, both President Donald Trump and Democratic nominee Joe Biden are making their final pitches to voters in battleground states that will be keys to victory."
+    publishedDateTime: 2020-11-02T11:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/blog/2020-11-01-trump-biden-election-n1245634"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1245634"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1245634"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "This Is an Election Story That Mentions Neither Biden Nor Trump"
     excerpt: "Clearly, the decision on whether the president should stay or go is Issue No. 1 on Election Day. But we’re watching so many other consequential elections and ballot issues further down the ballot. What will a legislative campaign in Vermont tell us about changing attitudes toward gun control?"
     publishedDateTime: 2020-11-02T08:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/1790a9c3-a79f-4718-bee3-8c5d1e212277-AP_Election_2020_Trump_1.jpg?auto=webp&crop=2725,1533,x0,y138&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Can Joe Biden's Campaign Message Carry Him Over The Finish Line?"
+    excerpt: "Joe Biden has had a remarkably consistent campaign message. He was running, he said, to restore the soul of the nation. His campaign was — in essence — about human decency and character."
+    publishedDateTime: 2020-11-02T11:16:00Z
+    webUrl: "https://www.npr.org/2020/11/02/930234714/can-joe-bidens-campaign-message-carry-him-over-the-finish-line"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
     excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."

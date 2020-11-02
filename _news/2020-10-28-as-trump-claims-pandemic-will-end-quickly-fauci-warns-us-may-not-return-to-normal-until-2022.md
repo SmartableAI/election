@@ -111,6 +111,31 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Dr. Fauci's COVID comment angers Pres. Trump"
+    excerpt: "Watch \"Dr. Fauci's COVID comment angers Pres. Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-02T12:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201102124016-dr-faucis-covid-comment-angers-pres-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/02/story_07506271_1604321044.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump threatens to fire Fauci in rift with disease expert"
+    excerpt: "President Donald Trump is suggesting that he will fire Dr. Anthony Fauci after Tuesday’s election, as his rift with the nation’s top infectious disease expert widens while the nation sees its most alarming outbreak of the coronavirus since the spring."
+    publishedDateTime: 2020-11-02T12:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-threatens-to-fire-fauci-in-rift-with-disease-expert-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-threatens-to-fire-fauci-in-rift-with-disease-expert-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-threatens-to-fire-fauci-in-rift-with-disease-expert-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "oKV7tzHCmqkbjkHaDfo7TDSBLhAfsHnAWuuh8lydk9FpBg6aEDlkKGFqoXQAEdC9yzxrUa3I7+SAhfIIkb8nbtU6l8q3Vwt79OtY1v/D1u2XT6z1OrpJnzh2tOvEe2yUJavhk0zg9Z3MHjZZb1jWJa8zII7T0ZAoAEgU2iHUBlZgCpxoOJvMHYlO2HETrqpe+8zuQ+aKenLzvzbaFvWxEJUmiiF+B6BM7iIv91IoTIBIAis3DFg9wweByHLXfqjZblBQElYylr8BPx+FYGYtkqcK5DjD26JMWge4cIXi6zs1zxEdoUe5ruDwEb85k/yw/M25/FLqI+5VCRJjXfsJOGhrMWo3QdlDU1962FHm4hg=;FZeeKVF1bAIup9h7Oyr9CQ=="
 ---

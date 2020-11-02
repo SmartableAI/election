@@ -182,6 +182,22 @@ related:
         width: 2048
         height: 1427
         isCached: true
+  - title: "Fact check: False Kamala Harris claim uses image from 2019 trip to Iowa"
+    excerpt: "A viral image purporting to show Kamala Harris intoxicated in Ohio is actually from a trip to Iowa in 2019, and she isn't drunk there, either."
+    publishedDateTime: 2020-11-02T12:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/31/fact-check-false-kamala-harris-claim-uses-image-2019/6102428002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6102428002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6102428002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/24/NABJ/0aef82de-87d2-420a-bcf2-e0f952eb84bd-harris_15.JPG?auto=webp&crop=1509,849,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Countdown: Avengers stars quiz Kamala Harris and what to wear to vote"
     excerpt: "Thirteen days left and we look at what you can wear when you go vote and who gets to question Kamala Harris. It was Democrat vice-presidential pick Kamala Harris's birthday yesterday and the cast of the Avengers held a fundraiser over Zoom where they got to question her."
     publishedDateTime: 2020-10-21T17:26:00Z
@@ -858,6 +874,22 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "Can Kamala Harris and the Democrats really turn Texas blue?"
+    excerpt: "Why was a Bay Area-born vice presidential candidate stumping in the Lone Star State days before the election? No Democrat has won Texas since Jimmy Carter 44 years ago."
+    publishedDateTime: 2020-11-02T09:30:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/31/can-kamala-harris-and-the-democrats-really-turn-texas-blue/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/31/can-kamala-harris-and-the-democrats-really-turn-texas-blue/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/31/can-kamala-harris-and-the-democrats-really-turn-texas-blue/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/SJM-L-KAMALATEX-1101-1-e1604202014113.jpg?w=1024&h=555"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Charlotte Observer"
     excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."
     publishedDateTime: 2020-10-21T20:49:00Z
@@ -1149,6 +1181,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998038001/ca6b41a0-315b-4c3c-b1c2-4ec838cca298/34e4ceb3-65b1-45c1-b9b9-b3f637e1757f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Cookies, bacon fried apples and tuna sandwiches: Kamala Harris turns to food videos to soften image"
+    excerpt: "Her videos showing how to make Masala Dosa and tuna sandwiches have been watched by millions “Usually I stuff under the skin and then let it sit in the fridge for a day or two with a lot of salt outside,"
+    publishedDateTime: 2020-11-02T12:03:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/11/02/cookies-bacon-fried-apples-tuna-sandwiches-kamala-harris-turns/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/11/02/cookies-bacon-fried-apples-tuna-sandwiches-kamala-harris-turns/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/11/02/cookies-bacon-fried-apples-tuna-sandwiches-kamala-harris-turns/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 61
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/fashion/2020/08/13/GettyImages-465444190_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7COF0Dbvfss_X7FTt_FGsK8.jpg"
+        width: 1838
+        height: 1148
         isCached: true
   - title: "Joe Biden, Kamala Harris and Theresa Greenfield are silent about proposals to pack the Supreme Court. Why won't they share their views?"
     excerpt: "Greenfield could enable a President Joe Biden to quickly fill new Supreme Court seats with agenda-driven liberals set on eviscerating the rule of law."
@@ -1474,6 +1522,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris and Doug Emhoff Hold Drive-In Rally in Philadelphia"
+    excerpt: "Kamala Harris (D-CA) is joined by her husband, Doug Emhoff, and singer John Legend at a drive-in campaign rally in Philadelphia. It’s the third and final event on the eve of Election Day. 2020 vice presidential candidate Sen."
+    publishedDateTime: 2020-11-02T11:28:00Z
+    webUrl: "https://www.c-span.org/video/?477692-1/senator-kamala-harris-doug-emhoff-hold-drive-rally-philadelphia"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 34
   - title: "Senator Kamala Harris Remarks to Spelman College Students in Atlanta, Georgia"
     excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to students at Spelman College in Atlanta, Georgia. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
     publishedDateTime: 2020-10-23T19:04:00Z

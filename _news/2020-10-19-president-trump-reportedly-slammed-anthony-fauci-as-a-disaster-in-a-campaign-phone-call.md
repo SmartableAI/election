@@ -111,6 +111,31 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Dr. Fauci's COVID comment angers Pres. Trump"
+    excerpt: "Watch \"Dr. Fauci's COVID comment angers Pres. Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-02T12:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201102124016-dr-faucis-covid-comment-angers-pres-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/02/story_07506271_1604321044.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump threatens to fire Fauci in rift with disease expert"
+    excerpt: "President Donald Trump is suggesting that he will fire Dr. Anthony Fauci after Tuesday’s election, as his rift with the nation’s top infectious disease expert widens while the nation sees its most alarming outbreak of the coronavirus since the spring."
+    publishedDateTime: 2020-11-02T12:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-threatens-to-fire-fauci-in-rift-with-disease-expert-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-threatens-to-fire-fauci-in-rift-with-disease-expert-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-threatens-to-fire-fauci-in-rift-with-disease-expert-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "veXudsMh0fVH69T/AMn5//aho4WM7ks2m/YREKvZi/+6abfIiU2rsih0B4z1fk1GZxxx/nsr8TnrUOCGqwlDMljM73kFXyebzoMnN/yA1JewNDe+/9uOKOvuKcWPe4K9pWu/JUzJkJ1hy4qbRT7LCABnzXVmlWWp2hzROeo8sHqIWC6LbwY9XWAuUB9gcotYzBVOtW+KL/hcOwm/gsTKWMXzZ2mZYfdxdEN6vXXUf7Legxx9df/TIX9ZN16ZLgNLKswm/DVp+RW58Bs06xJBTV9IPwwCGk0qs/lYW00PxHfN+3rQyXQ0C3JqFaCsk6v5v6My++y9LKSagM0orjdPJllXPKk7pw4qRS9WhCMDyHQ=;dRu9E8WeOn6aZbHfngQqSA=="
 ---

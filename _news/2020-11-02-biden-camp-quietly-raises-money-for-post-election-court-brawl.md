@@ -864,6 +864,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Election 2020: Biden, Trump prep for final pitches to voters"
+    excerpt: "With only two days to go before Election Day, both President Donald Trump and Democratic nominee Joe Biden are making their final pitches to voters in battleground states that will be keys to victory."
+    publishedDateTime: 2020-11-02T11:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/blog/2020-11-01-trump-biden-election-n1245634"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1245634"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1245634"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "This Is an Election Story That Mentions Neither Biden Nor Trump"
     excerpt: "Clearly, the decision on whether the president should stay or go is Issue No. 1 on Election Day. But we’re watching so many other consequential elections and ballot issues further down the ballot. What will a legislative campaign in Vermont tell us about changing attitudes toward gun control?"
     publishedDateTime: 2020-11-02T08:04:00Z
@@ -1700,6 +1716,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "MFT9+Wy6x4l2Uq+CAKsutDt4D97JsPr4oauxlt8dT4FqKvgd7/U6P0k+8D5eiz9oLQo7U1Y6Z8dtn5Ny6gY/OicWCclie6ndyIB70ORkbB9fHes9AZOr84/ceBs62J7seqrUKAqVEPC6pwPafpDSBLpJRcRNb4hjLbGf0P4E+uOuxzIpxAszsSpec7seMVOo1A/Nkqie+KMJzSR63IQf+p6kPRM7rW+Ln8kx2YR6l+6ARRv01reQ2GRw8Ik77Ujfur3/raMIo/lFM9jLfd+y5rxwxaaq4BgZoD++WLAjIlhT4NjaAzP6ZE0Ev51w5X8QrL1m6EeStMUiYfGoTnbc9HTGqezUTItPnvYSDVlmpnw=;A9fn21hKYfJucAd4WVlRhw=="
+secured: "kkPCyFsNe+GSablqm5VSCQjIzXH/Lb6zQ9j2a4xwmgdhACF3UX1kGc8tLLNnQYW9l+y3kD1sS7CZgM8ss0iI4r+v7FQEtGEmOEbA589AmepCwPxNyeJGcLYlktYZ6UZCxhcPKJoH8PRqekpywmNNa7540nBLk96IpQsUy7Rs8ojj93X8JqZIfI8/hmf9TttySY3cnebjK9uq5H8+8Sj2IOj670xltN6AejYNtieCOpUyVhUrGODTKi2dHUFqaOJDrWjA7LDLfxLMih81lRJpwlVJ3p4CaLv3w3GW9CT7RdqYd+AlUTwMUiq2U7DWey9jXWNVlLMS9M9QyaJqKvkYo1kPDUjo903CJyhz/trzFiisLkP/fq3t0PjhRjB8Zm29fmG4pIeTnEYNj14XYJYBGJj1YfRoG8LfD3O5jShN+WTFBCZFWve+4CkHAMbuDuqtG8fYRPIqDPAn0jM1mob4DbBj70Aoopkhl8SAZ9qiqfFJH1BqiEGcjjkFNVYpXomwyf8uiJWlBVof61pmDuf8/Q==;kMLG6s0U0sEWjFjaWhOO1g=="
 ---
 
